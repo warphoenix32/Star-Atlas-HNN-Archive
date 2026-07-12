@@ -8,7 +8,7 @@ publication_status: public
 
 # Star Atlas Master Timeline
 
-This is an initial chronology. Dates are included only where currently supported by a cited public source or clearly labeled as a research period.
+This is an evolving chronology. Dates are included only where supported by a cited public source or clearly labeled as a research period.
 
 ## 2020
 
@@ -18,24 +18,42 @@ The official press kit lists Star Atlas's founding date as **2020** and its loca
 
 **Markers:** `[SRC-OFFICIAL] [EV-DOCUMENTED] [CONF-HIGH]`
 
-## 2021 — research period
+## 2021
 
-Priority topics for verification:
+### 2021-06-24 — Seed-round announcement
 
-- Initial public reveal and white paper publication.
+The official newsroom published **“Star Atlas closes seed round with Serum leading funding.”** Michael Wagner was identified as co-founder and CEO. The currently retrievable page does not expose the full financing terms, so investor participation and amounts require additional recovery.
+
+**Markers:** `[SRC-OFFICIAL] [EV-DOCUMENTED] [CONF-HIGH] [EV-INCOMPLETE]`
+
+### 2021 research queue
+
+- Initial public reveal and white-paper publication.
 - ATLAS and POLIS token-generation events.
 - Galactic Asset Offering phases and first ship sales.
 - Marketplace launch.
 - Faction-selection rollout.
 - Early DAC and media formation.
 
-No detailed 2021 event should be treated as finalized in this file until direct primary sources are added.
+## 2022
 
-## 2022 — research period
+The DAO economic-report archive begins at **Q2 2022**, establishing an official quarterly reporting series by that period.
 
-The DAO economic-report archive currently begins at **Q2 2022**, establishing an official quarterly economic reporting series by that period.
+### 2022-11-07 — Breakpoint roadmap, SAGE naming and CORE launch window
 
-Priority topics:
+At Solana Breakpoint 2022, ATMTA publicly announced a multi-product roadmap. Project S.C.R.E.A.M. was renamed **Star Atlas: Golden Era (SAGE)** and described as a top-down WebGL grand-strategy game. ATMTA also presented the Showroom as its UE5 module, F-KIT as an open-source Unreal/Solana toolkit, an episodic seasonal roadmap, and Star Atlas: CORE. The first CORE chapter was scheduled for November 7, 2022.
+
+The same official report identified Atlas Brew as a recurring Wednesday community forum and stated that more than 60 guilds were active. The latter is preserved as an official contemporaneous claim rather than independent guild census data.
+
+**Markers:** `[SRC-OFFICIAL] [EV-DOCUMENTED] [CONF-HIGH]`
+
+### 2022-11-09 — CORE release announcement
+
+ATMTA announced that CORE Chapter 1 had become publicly available on November 7. The project was presented as an episodic graphic novel with planned collectible covers, extra lore, an ARC Cypher puzzle and an announced 18-chapter arc.
+
+**Markers:** `[SRC-OFFICIAL] [EV-DOCUMENTED] [CONF-HIGH] [CANON-PRIMARY]`
+
+### 2022 research queue
 
 - Faction Fleet / SCORE development and release history.
 - DAO and Foundation formation.
@@ -43,6 +61,7 @@ Priority topics:
 - Showroom launch through Epic Games.
 - Land and Claim Stake sales.
 - FTX exposure and its financial consequences.
+- Delivery and revision history of the Breakpoint seasonal roadmap.
 
 ## 2023 — research period
 
@@ -99,6 +118,9 @@ A governance proposal authorizing reimbursement to ATMTA became a major treasury
 ## Sources
 
 - https://experience.staratlas.com/newsroom/press-kit
+- https://experience.staratlas.com/newsroom/star-atlas-news/star-atlas-closes-seed-round-with-serum-leading-funding
+- https://experience.staratlas.com/newsroom/star-atlas-news/cosmic-alpha-burst-star-atlas-unveils-roadmap-graphic-novel-sage-and-more-at
+- https://experience.staratlas.com/newsroom/star-atlas-news/thrilling-to-the-core-star-atlas-releases-epic-graphic-novel
 - https://govern.staratlas.com/economy/economic-reports
 - https://store.epicgames.com/p/star-atlas-faq-fb116c
 - https://staratlas.com/
