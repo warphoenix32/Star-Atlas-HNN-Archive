@@ -43,13 +43,19 @@ This registry records public source families and individual high-value sources d
 | SRC-BUILD-RPC | https://build.staratlas.com/developer-rpc-initiative | Developer RPC support program | Official eligibility and program description; operational availability may change |
 | SRC-GITHUB-ORG | https://github.com/staratlasmeta | Verified official open-source organization | Strong for code and repository history; deployment claims require verification |
 
-## Community and independent source families
+## Community and independent sources
 
-The following source families are approved for discovery but require individual source assessment:
+| Source ID | Source | Function | Reliability notes |
+|---|---|---|---|
+| SRC-COMM-AEPHIA-HOME | https://aephia.com/ | Aephia DAC, publishing and resource hub | Guild-affiliated source; useful for discovery and institutional self-description |
+| SRC-COMM-AEPHIA-NEWS | https://aephia.com/star-atlas-news/ | Numbered Weekly Star Atlas Newsletter series and other news | Strong contemporaneous aggregator; older forecasts and guides may be superseded |
+| SRC-COMM-AEPHIA-GUIDES | https://aephia.com/star-atlas-guides/ | Gameplay, product, tooling and ecosystem guides | Time-sensitive operational documentation; verify against current products |
+| SRC-COMM-AEPHIA-ABOUT | https://aephia.com/star-atlas/about-aephia-industries/ | Aephia self-description, projects and publication model | Authoritative for stated identity and goals, not independent proof of size or awards |
+
+Additional approved source families requiring individual assessment:
 
 - Hologram News Network / The Hologram
 - VBTV, formerly Star Atlas TV
-- Aephia Industries publications and guides
 - Intergalactic Herald
 - Galia Crafters
 - MetaVerse Explorer and other long-running video archives
@@ -67,6 +73,8 @@ Community sources are especially valuable for chronology, reaction and instituti
 - `../05-economy-and-assets/Economic-Report-Catalog.md`
 - `../11-technology-and-infrastructure/Official-Technical-Surface-Inventory.md`
 - `../04-game-and-product-history/Official-Current-State-Snapshot-2026-07-12.md`
+- `../12-media-and-creators/Aephia-Source-Profile.md`
+- `../12-media-and-creators/Aephia-Weekly-Newsletter-Index.md`
 
 ## Archival priorities
 
@@ -76,5 +84,7 @@ Community sources are especially valuable for chronology, reaction and instituti
 - Export official GitHub repository metadata and release histories.
 - Preserve official newsroom and roadmap snapshots.
 - Ingest each high-value newsroom article into chronology and product records.
+- Enumerate the complete Aephia weekly newsletter archive and preserve issue metadata.
+- Reconcile Aephia forecasts against later releases and official records.
 - Recover HNN article URLs, podcast feeds and video metadata.
 - Create source records for major Discord exports without publishing sensitive raw content.
