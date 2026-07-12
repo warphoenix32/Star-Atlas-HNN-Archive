@@ -20,7 +20,7 @@ Raw exports are treated as source material, not finished knowledge. They should 
 - Keep unverified or sensitive material clearly labeled.
 - Update conclusions when stronger evidence appears without erasing prior context.
 
-## Planned knowledge structure
+## Knowledge structure
 
 ```text
 kb/
@@ -35,7 +35,7 @@ kb/
 ├── 08-guilds-and-dacs/
 ├── 09-major-actors/
 ├── 10-lore-and-canon/
-├── 11-technology-and-infrastructure/
+├── 11-technology/
 ├── 12-media-and-creators/
 ├── 13-controversies-and-disputes/
 ├── 14-events-and-culture/
@@ -43,6 +43,23 @@ kb/
 ├── 16-open-questions/
 └── 17-publication-workflows/
 ```
+
+## Initial discovery corpus
+
+The first public-source sweep established the following working files:
+
+- [Entity Registry](kb/01-master-index/Entity-Registry.md)
+- [Master Timeline](kb/02-chronology/Master-Timeline.md)
+- [Institutional Overview](kb/03-atmta-and-institutions/Institutional-Overview.md)
+- [Product Registry](kb/04-game-and-product-history/Product-Registry.md)
+- [Governance and Economy Overview](kb/06-governance-and-dao/Governance-and-Economy-Overview.md)
+- [Guild and DAC Master Index](kb/08-guilds-and-dacs/Guild-Master-Index.md)
+- [Major Actor Index](kb/09-major-actors/Actor-Master-Index.md)
+- [Official Canon Registry](kb/10-lore-and-canon/Canon-Registry.md)
+- [Technical Platform](kb/11-technology/Technical-Platform.md)
+- [Media and Creator Index](kb/12-media-and-creators/Media-and-Creator-Index.md)
+- [Public Source Registry](kb/15-source-registry/Public-Source-Registry.md)
+- [Research Backlog](kb/16-open-questions/Research-Backlog.md)
 
 ## Documentation
 
@@ -53,4 +70,6 @@ kb/
 
 ## Repository status
 
-This archive is in its initial setup phase. The structure is intentionally adaptable and will evolve as new evidence, source types, and research needs emerge.
+The archive has moved from initial setup into **active discovery and ingestion**. Current entries are intentionally conservative: they establish verified baselines, define unresolved questions, and avoid filling historical gaps with assumptions.
+
+Because this repository is public, private Discord material, personally identifying information, confidential records, and unverified allegations should not be committed here. Curated public findings may be added after source and publication review.
