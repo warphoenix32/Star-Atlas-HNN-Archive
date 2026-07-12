@@ -15,11 +15,44 @@ This index tracks independent publications, recurring shows, analysts and creato
 | Entity ID | Source / creator | Historical value | Profile status |
 |---|---|---|---|
 | MEDIA-HNN | Hologram News Network / The Hologram | Independent news, interviews, governance, economy, lore and community reporting | Priority recovery |
+| MEDIA-VBTV | VBTV, formerly Star Atlas TV | Large video archive of recurring and weekly Star Atlas community events; operated by ODVB / VB | Reverse-chronological inventory opened |
 | MEDIA-AEPHIA | Aephia publications | Guides, weekly reporting, economic and gameplay analysis | Profile pending |
 | MEDIA-INTERGALACTIC-HERALD | Intergalactic Herald | Newsletters, directories, interviews, podcasts and event coverage | Profile pending |
 | MEDIA-GALIA-CRAFTERS | Galia Crafters | Gameplay and economic explainers | Profile pending |
 | MEDIA-METAVERSE-EXPLORER | MetaVerse Explorer | Long-running numbered video updates and commentary | Profile pending |
 | MEDIA-ATLAS-BREW | Atlas Brew | Community broadcast and interview archive | Profile pending |
+
+## VBTV / Star Atlas TV
+
+**Entity ID:** `MEDIA-VBTV`  
+**Current name:** VBTV  
+**Former name:** Star Atlas TV  
+**Owner/operator:** ODVB, commonly called VB  
+**Channel:** https://youtube.com/@vbtv-77  
+**Source class:** `[SRC-COMMUNITY] [SRC-MEDIA] [SRC-KRIGS]`  
+**Archive value:** `[REL-MAJOR]`
+
+The channel is a priority historical source because it preserves a large body of recurring Star Atlas community broadcasts and weekly-event recordings. The rebrand from Star Atlas TV to VBTV occurred in early July 2026 according to firsthand context supplied by Krigs. Historical records should retain both names so older references remain discoverable.
+
+The channel inventory is maintained in:
+
+- [VBTV / Star Atlas TV Recording Index](VBTV-Star-Atlas-TV-Recording-Index.md)
+
+### Indexing standard
+
+Recordings are to be processed in reverse chronological order. Each entry should preserve:
+
+- YouTube title and video ID;
+- publication date and, when identifiable, actual event date;
+- event or series name;
+- host, guests and identifiable speakers;
+- duration and transcript availability;
+- major topics, announcements and disagreements;
+- related actors, guilds, products, governance proposals and lore;
+- whether statements are official, attributed, community interpretation or inference;
+- completeness and confidence notes.
+
+A video title or description is not sufficient evidence for every claim made during the recording. Material facts should be tied to the relevant speaker and timestamp when practical.
 
 ## HNN recovery priorities
 
