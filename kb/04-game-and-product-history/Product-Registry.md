@@ -12,6 +12,8 @@ publication_status: public
 
 Star Atlas currently presents itself as a multi-product science-fiction universe rather than a single monolithic client. Official builder documentation identifies four principal live or evolving surfaces: PLAY, SAGE, the DAO, and the Unreal Engine 5 game. The main website also identifies Holosim as a browser-accessible fleet simulation.
 
+A dated official-positioning snapshot is maintained at [Official Current-State Snapshot — 2026-07-12](Official-Current-State-Snapshot-2026-07-12.md).
+
 ### PLAY
 
 **Entity ID:** PRODUCT-PLAY  
@@ -26,7 +28,7 @@ Officially listed capabilities include managing ships, crew, DAC membership and 
 **Status:** Active and evolving  
 **Function:** Browser-based, fully on-chain 4X economic strategy game.
 
-Official documentation describes mining, crafting, resource transport and faction-based economic competition. Gameplay actions are signed and settled on Solana. The system is presented as modular and available for third-party builder expansion.
+Official documentation describes mining, crafting, resource transport and faction-based economic competition. Gameplay actions are signed and settled on Solana. The system is presented as modular and available for third-party builder expansion. The 2026-07-12 homepage specifically described fleet management, mining, crafting, and SDU scanning.
 
 ### Unreal Engine 5 game
 
@@ -34,7 +36,15 @@ Official documentation describes mining, crafting, resource transport and factio
 **Status:** Early access / evolving  
 **Function:** High-fidelity game client distributed through Epic Games.
 
-Official materials describe ship flight, space exploration, racing, multiplayer combat, crew avatars, asteroid mining and optional digital-asset integration. The public website also describes planned switching between third-person play and top-down fleet command; features described as coming soon must not be recorded as delivered.
+Official materials describe ship flight, space exploration, racing, multiplayer combat, crew avatars, asteroid mining and optional digital-asset integration. The public website also describes switching between third-person play and a planned top-down fleet view. Feature descriptions must be checked against specific builds before being recorded as delivered.
+
+### Fleet Command
+
+**Entity ID:** PRODUCT-FLEET-COMMAND  
+**Status:** Announced / coming soon as of 2026-07-12  
+**Function:** Planned top-down real-time-strategy fleet-management layer.
+
+The official homepage described Fleet Command as a mode for mass-managing fleets, territorial competition, and faction strategy, and explicitly labeled it “Coming soon.” This distinguishes the announced Unreal-integrated feature from Holosim, which was presented as an available browser simulation.
 
 ### Holosim
 
@@ -64,7 +74,7 @@ The marketplace is also represented in the builder documentation as an on-chain 
 **Status:** Active  
 **Function:** Documentation and access hub for developers, creators and ecosystem operators.
 
-It includes APIs, program addresses, on-chain system references, Unreal tooling, creative assets, intellectual-property guidance, monetization rules, royalties and the Powered by the People program.
+It includes APIs, program addresses, on-chain system references, Unreal tooling, creative assets, intellectual-property guidance, monetization rules, royalties, the Powered by the People program, and a Developer RPC Initiative for qualifying public or open-source projects.
 
 ## Product-history research rules
 
@@ -73,6 +83,7 @@ It includes APIs, program addresses, on-chain system references, Unreal tooling,
 - Distinguish the Unreal client, on-chain economic game and browser simulations.
 - Treat current website descriptions as current positioning, not proof of historical availability.
 - Preserve deprecated names and earlier phases as aliases rather than overwriting them.
+- Record dated official status labels such as “early access” and “coming soon.”
 
 ## Open product-lineage questions
 
@@ -80,10 +91,13 @@ It includes APIs, program addresses, on-chain system references, Unreal tooling,
 - Complete Unreal release chronology, including Showroom, racing, combat, mining and crew milestones.
 - Historical and current relationship among Fleet Command, Holosim and C4 terminology.
 - Product features deprecated or materially redesigned after announcement.
+- Exact methodology and update cadence for economic counters published on the main homepage.
 
 ## Sources
 
 - https://staratlas.com/
+- https://build.staratlas.com/
 - https://build.staratlas.com/introduction/what-is-star-atlas
 - https://build.staratlas.com/dev-resources/on-chain-game-systems
+- https://build.staratlas.com/developer-rpc-initiative
 - https://store.epicgames.com/
