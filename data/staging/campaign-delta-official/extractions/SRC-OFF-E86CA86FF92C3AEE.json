@@ -1,0 +1,209 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-E86CA86FF92C3AEE",
+    "url": "https://build.staratlas.com/developer-rpc-initiative",
+    "title": "Star Atlas Build",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Build / ATMTA",
+    "published_at": null,
+    "updated_at": "2026-04-16T16:32:35.000Z",
+    "original_date_text": "2026-04-16T16:32:35.000Z",
+    "document_type": "TECHNICAL_DOCUMENTATION",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Build / ATMTA",
+    "publication_role": "TECHNICAL_DOCUMENTATION",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://github.com/staratlasmeta/star-atlas-cookbook",
+        "anchor_text": "github.com/staratlasmeta/star-atlas-cookbook"
+      },
+      {
+        "url": "https://forms.gle/oRfGsuc1ArPSj4NBA",
+        "anchor_text": "https://forms.gle/oRfGsuc1ArPSj4NBA"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Build / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official technical documentation titled “Star Atlas Build.” This record preserves what Star Atlas Build / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Developer RPC Initiative | Star Atlas Build\nSkip to contentStar Atlas BuildSearchK\nAppearance\nMenuReturn to top\nDeveloper RPC Initiative ​\nStar Atlas is committed to empowering community developers. Through our Developer RPC Initiative we cover the infrastructure costs of Solana RPC calls so you can focus on building great tools, analytics, and gameplay extensions for the ecosystem.\nWhat the program provides ​\nFree, production-grade RPC endpoints for Star Atlas projects\nBest-practice guides and tutorials on data access and RPC usage, published on build.staratlas.com\nExample code in the open-source cookbook (github.com/staratlasmeta/star-atlas-cookbook). Community pull requests are welcome.\nEligibility: your project must be open-source or offer open public access to qualify for a free RPC key.\nHow to apply ​\nMake sure your repo or hosted app is public.\nFill out this short form: https://forms.gle/oRfGsuc1ArPSj4NBA\nOur infra team will review and email you the credentials.\nBy lowering operating costs and sharing examples, we aim to foster a strong, collaborative developer community around Star Atlas. If you have questions or ideas, reach out in the #community-developers Discord channel.\nLet’s build together!",
+  "content_hash": "fb0cb80a4c6e0af3f3fd459ab1017e4f6d1f5a6060c5aa473988ad675f619d21",
+  "entities": [
+    "ATLAS",
+    "Solana"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-E86CA86FF92C3AEE-01",
+      "text": "Developer RPC Initiative | Star Atlas Build Skip to contentStar Atlas BuildSearchK Appearance MenuReturn to top Developer RPC Initiative ​ Star Atlas is committed to empowering community developers.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E86CA86FF92C3AEE",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E86CA86FF92C3AEE-02",
+      "text": "Through our Developer RPC Initiative we cover the infrastructure costs of Solana RPC calls so you can focus on building great tools, analytics, and gameplay extensions for the ecosystem.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E86CA86FF92C3AEE",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E86CA86FF92C3AEE-03",
+      "text": "What the program provides ​ Free, production-grade RPC endpoints for Star Atlas projects Best-practice guides and tutorials on data access and RPC usage, published on build.staratlas.com Example code in the open-source cookbook (github.com/staratlasmeta/star-atlas-cookbook).",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E86CA86FF92C3AEE",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E86CA86FF92C3AEE-04",
+      "text": "Eligibility: your project must be open-source or offer open public access to qualify for a free RPC key.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E86CA86FF92C3AEE",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E86CA86FF92C3AEE-05",
+      "text": "How to apply ​ Make sure your repo or hosted app is public.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E86CA86FF92C3AEE",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E86CA86FF92C3AEE-06",
+      "text": "Fill out this short form: https://forms.gle/oRfGsuc1ArPSj4NBA Our infra team will review and email you the credentials.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E86CA86FF92C3AEE",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E86CA86FF92C3AEE-07",
+      "text": "By lowering operating costs and sharing examples, we aim to foster a strong, collaborative developer community around Star Atlas.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E86CA86FF92C3AEE",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E86CA86FF92C3AEE-08",
+      "text": "If you have questions or ideas, reach out in the #community-developers Discord channel.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E86CA86FF92C3AEE",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [
+    "Solana"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://build.staratlas.com/developer-rpc-initiative",
+      "anchor_text": "Skip to content"
+    },
+    {
+      "url": "https://build.staratlas.com/",
+      "anchor_text": "Star Atlas Build"
+    },
+    {
+      "url": "https://discord.com/invite/staratlas",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://github.com/staratlasmeta/star-atlas-cookbook",
+      "anchor_text": "github.com/staratlasmeta/star-atlas-cookbook"
+    },
+    {
+      "url": "https://forms.gle/oRfGsuc1ArPSj4NBA",
+      "anchor_text": "https://forms.gle/oRfGsuc1ArPSj4NBA"
+    },
+    {
+      "url": "https://discord.com/channels/789226204980707409/1004095538544787547",
+      "anchor_text": "#community-developers Discord channel"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://build.staratlas.com/developer-rpc-initiative",
+      "anchor_text": "Skip to content"
+    },
+    {
+      "url": "https://build.staratlas.com/",
+      "anchor_text": "Star Atlas Build"
+    },
+    {
+      "url": "https://github.com/staratlasmeta/star-atlas-cookbook",
+      "anchor_text": "github.com/staratlasmeta/star-atlas-cookbook"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://build.staratlas.com/developer-rpc-initiative",
+    "final_url": "https://build.staratlas.com/developer-rpc-initiative",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 23795,
+    "retrieved_at": "2026-07-13T01:04:31.427996Z",
+    "elapsed_ms": 129
+  }
+}

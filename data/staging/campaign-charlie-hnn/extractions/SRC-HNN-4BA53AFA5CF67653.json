@@ -1,0 +1,214 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-4BA53AFA5CF67653",
+    "url_id": "URL-4BA53AFA5CF67653",
+    "url": "https://medium.com/the-hologram/solana-and-unreal-engine-5-moderators-block-star-atlas-content-afec90fcb8ab",
+    "title": "Solana and Unreal Engine 5 Moderators Block Star Atlas Content",
+    "author": "Krigs",
+    "publisher": "The Hologram",
+    "publication_identity": "The Hologram (Medium publication)",
+    "published_at": "2023-03-11T03:27:11Z",
+    "updated_at": "2023-03-11T03:27:11Z",
+    "retrieved_at": "2026-07-13T00:07:30.922966Z",
+    "document_type": "ORIGINAL_REPORTING",
+    "source_role": "ORIGINAL_REPORTING",
+    "publication_role": "ORIGINAL_REPORTING",
+    "classification_rationale": "Publication reports a development without explicit interview, editorial, investigative, event, or reference framing."
+  },
+  "source_lineage": {
+    "publication": "The Hologram (Medium publication)",
+    "publication_role": "ORIGINAL_REPORTING",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [
+      {
+        "publication": "Podcast",
+        "author": "UNKNOWN",
+        "url": "https://open.spotify.com/show/2mxndrDW6yPfpS350ijzjt?si=ec7c717f998240d6",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "YouTube",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/channel/UCDa-YxgNG6A9xpH1qyP0OaQ",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://staratlas.com/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [
+      "Krigs"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Podcast",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://open.spotify.com/show/2mxndrDW6yPfpS350ijzjt?si=ec7c717f998240d6"
+      },
+      {
+        "from": "YouTube",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://www.youtube.com/channel/UCDa-YxgNG6A9xpH1qyP0OaQ"
+      },
+      {
+        "from": "Star Atlas",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://staratlas.com/"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "This original reporting published by The Hologram on 2023-03-11 documents “Solana and Unreal Engine 5 Moderators Block Star Atlas Content.” Its surviving text addresses economy, game development, community, lore, technology. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "Star AtlasSolana NetworkUnreal Engine\nSolana and Unreal Engine 5 Moderators Block Star Atlas Content\nKrigs2 min read·Mar 11, 2023\n--\nListen\nShare\nIn a recent turn of events, the moderators of the r/Solana and r/ Unrealengine5 subreddits removed Star Atlas content.\nThe posts in question contained recently released Star Atlas content video showcasing Star Atlas Unreal Engine 5 work in progress development.\nNormally, Unreal Engine 5 developer Epic Games and Solana are huge proponents of Star Atlas. However, the removal of Star Atlas’s post may show the limits of their support.\nPress enter or click to view image in full size\nStar Atlas Censored on Reddit for NFT Association\nWhen asked why Star Atlas posts were removed from the Unreal Engine 5 channel, Star Atlas content managers were cited for being a project associated with NFTs by moderators. While Reddit itself does not prohibit the discussion of NFTs on its site, subreddits may impose stricter rules.\nSince Unreal Engine 5 can apply to both traditional and blockchain games, it is reasonable for moderators to restrict discussion centered or associated with NFTs.\nWhen asked for reasoning why Star Atlas posts were removed from the Solana channel, no comment was given. Star Atlas marketing managers were baffled by the position taken by Solana moderators.\nStar Atlas and the Solana Foundation have enjoyed a close relationship in the past. The removal of Star Atlas content is a noticeable deviation in the normally warm partnership.\nAbout the Author\nKrigs\nis a pioneer in the world of Star Atlas, having founded The Hologram News Network — an independent meta-news organization that keeps players up to date on all developments regarding Star Atlas. An ardent supporter of emerging technologies, Krigs has been covering this game for over a year and believes passionately in their power to revolutionize our collective gaming experience.\nFollow on Social Media:\nPodcast | YouTube | Twitter | Instagram | Web\nAbout The Hologram\nThe Hologram is Star Atlas’ first and only independent news network. Our vision is to become the most trusted source of information about Star Atlas and a voice for the whole community. Readers can expect a high standard from our reporting and staff. Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.\nThe Hologram is not endorsed or paid by the Star Atlas team. Any information published by The Hologram nor its writers should be considered as informational in nature and does not constitute any financial advice.",
+  "content_hash": "87c806330ff94a2e6899931c2993137d6edba83f3171c26dd616a3d4e7bd9f41",
+  "major_topics": [
+    "economy",
+    "game development",
+    "community",
+    "lore",
+    "technology"
+  ],
+  "entities": [
+    "ATLAS",
+    "Krigs",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-4BA53AFA5CF67653-01",
+      "text": "The posts in question contained recently released Star Atlas content video showcasing Star Atlas Unreal Engine 5 work in progress development.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-4BA53AFA5CF67653",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-4BA53AFA5CF67653-02",
+      "text": "Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-4BA53AFA5CF67653",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Star Atlas",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [
+    "ONI"
+  ],
+  "actors": [
+    "Krigs"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://medium.com/@krigsfoniks?source=---byline--afec90fcb8ab---------------------------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fthe-hologram%2Fafec90fcb8ab&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fsolana-and-unreal-engine-5-moderators-block-star-atlas-content-afec90fcb8ab&user=Krigs&userId=41e0c5b141f1&source=---header_actions--afec90fcb8ab---------------------clap_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Frepost%2Fp%2Fafec90fcb8ab&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fsolana-and-unreal-engine-5-moderators-block-star-atlas-content-afec90fcb8ab&user=Krigs&userId=41e0c5b141f1&source=---header_actions--afec90fcb8ab---------------------repost_header------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fafec90fcb8ab&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fsolana-and-unreal-engine-5-moderators-block-star-atlas-content-afec90fcb8ab&source=---header_actions--afec90fcb8ab---------------------bookmark_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2Fplans%3Fdimension%3Dpost_audio_button%26postId%3Dafec90fcb8ab&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fsolana-and-unreal-engine-5-moderators-block-star-atlas-content-afec90fcb8ab&source=---header_actions--afec90fcb8ab---------------------post_audio_button------------------",
+      "anchor_text": "Listen"
+    },
+    {
+      "url": "https://medium.com/u/af6a22150fa9?source=---user_mention--afec90fcb8ab---------------------------------------",
+      "anchor_text": "Solana"
+    },
+    {
+      "url": "https://medium.com/u/869640bffe27?source=---user_mention--afec90fcb8ab---------------------------------------",
+      "anchor_text": "Unrealengine"
+    },
+    {
+      "url": "https://medium.com/u/5ed69ff9cfb0?source=---user_mention--afec90fcb8ab---------------------------------------",
+      "anchor_text": "Star Atlas"
+    },
+    {
+      "url": "https://medium.com/u/2df92f655be5?source=---user_mention--afec90fcb8ab---------------------------------------",
+      "anchor_text": "Epic Games"
+    },
+    {
+      "url": "https://medium.com/u/41e0c5b141f1",
+      "anchor_text": "Krigs"
+    },
+    {
+      "url": "https://open.spotify.com/show/2mxndrDW6yPfpS350ijzjt?si=ec7c717f998240d6",
+      "anchor_text": "Podcast"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCDa-YxgNG6A9xpH1qyP0OaQ",
+      "anchor_text": "YouTube"
+    },
+    {
+      "url": "https://twitter.com/home",
+      "anchor_text": "Twitter"
+    },
+    {
+      "url": "https://thehologram.io/",
+      "anchor_text": "Web"
+    },
+    {
+      "url": "https://medium.com/the-hologram",
+      "anchor_text": "The Hologram"
+    },
+    {
+      "url": "https://staratlas.com/",
+      "anchor_text": "Star Atlas"
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "https://medium.com/the-hologram/solana-and-unreal-engine-5-moderators-block-star-atlas-content-afec90fcb8ab",
+    "final_url": "https://medium.com/the-hologram/solana-and-unreal-engine-5-moderators-block-star-atlas-content-afec90fcb8ab",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 259516,
+    "elapsed_ms": 761,
+    "retrieval_mode": "LIVE",
+    "archive_capture": null
+  }
+}

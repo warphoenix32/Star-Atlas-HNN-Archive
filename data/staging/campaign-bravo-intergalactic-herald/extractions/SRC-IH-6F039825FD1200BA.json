@@ -1,0 +1,180 @@
+{
+  "source": {
+    "source_id": "SRC-IH-6F039825FD1200BA",
+    "url_id": "URL-6F039825FD1200BA",
+    "url": "https://intergalacticherald.com/star-atlas-recap/event-recap-28-atlas-brew-170-z-ink/",
+    "inventory_url": "https://intergalacticherald.com/star-atlas-recap/event-recap-28-atlas-brew-170-z-ink",
+    "title": "Event Recap 28: Atlas Brew #170 – z.ink",
+    "author": "Intergalactic Herald",
+    "publisher": "Intergalactic Herald",
+    "published_at": "2025-08-20T21:00:00",
+    "updated_at": "2025-08-22T21:51:29",
+    "retrieved_at": "2026-07-12T22:04:30.465372Z",
+    "document_type": "EVENT_RECAP",
+    "source_role": "CURATED_SUMMARY",
+    "source_classification": "CURATED_SUMMARY",
+    "classification_rationale": "Event recap summarizes an externally originated event, broadcast, or discussion.",
+    "wordpress_type": "posts"
+  },
+  "summary": {
+    "neutral_abstract": "In this episode, hear an AI summary of the latest Star Atlas community event. Full video recordings can be found on the YouTube channel of Star Atlas TV at https://www.youtube.com/@staratlastv. I am launching a Star Atlas merch store. Please check it out at Intergalactic Gear. I am also creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic",
+    "historical_value": "Contemporary Intergalactic Herald publication preserved with role and attribution boundaries.",
+    "current_validity_warning": "Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources."
+  },
+  "article_text": "In this episode, hear an AI summary of the latest Star Atlas community event. Full video recordings can be found on the YouTube channel of Star Atlas TV at https://www.youtube.com/@staratlastv.\nListen on Apple Podcasts\nListen on Spotify\nI am launching a Star Atlas merch store. Please check it out at Intergalactic Gear.\nI am also creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic Coalition.\nStar Atlas Weekly Recap Newsletter – Catch up on all the important videos and articles from the Star Atlas community in a weekly recap email newsletter. https://intergalacticherald.com/star-atlas-weekly-recap-newsletter/\nStar Atlas Week in Review Podcast – Audio podcast where I break down everything that happened in Star Atlas the past week plus my analysis on what it all means. https://intergalacticherald.com/podcast/\nStar Atlas Discord News Feed Newsletter – Star Atlas Discord announcements send directly to your email so you never miss out on updates from the Star Atlas team. https://intergalacticherald.com/star-atlas-discord-news-feed/\nIf you would like to support my efforts, donations can be sent to intergalacticherald.sol\nPodcast Transcript\nThe video provides updates on various Star Atlas initiatives, prominently featuring the imminent launch of HoloSim Season 1 Chapter 1 with $5,000 in USDC and $30,000 in Star Atlas asset rewards, despite a slight delay. The community-driven Iris Quest tournament finals are set for Sunday, showcasing 14 teams vying for glory and prizes. Other upcoming events include a Cologne meetup during Gamescom and the final Town Hall Part 3 of Star Atlas Summer. Star Atlas Summer’s marketing efforts have yielded positive results, with a significant increase in email sign-ups and Discord visitors.\nThe central focus of the discussion is Z.inc, a new network token introduced as a strategic move to prevent dilution of Atlas and Polus tokens. Z.inc is designed to replace network transaction fees, previously paid in Soul, and is projected to reduce players’ total operating costs by more than 99%. The vision for Z.inc is to establish a fully open-access, permissionless, and decentralized network, extending beyond Star Atlas to attract a broader audience. To achieve this, a substantial 65% of the Z.inc token supply is allocated for airdrops, partnerships, and grants, providing incentives for validators and other projects to build on the network without drawing from Atlas or Polus supplies. This initiative also addresses past issues with Salana’s network congestion and high priority fees, which significantly impacted player profitability. With Z.inc, the Star Atlas DAO and Automata will directly earn the network’s transaction fee currency, enhancing their ability to subsidize user costs.\nThe mainnet Z.inc launch, Token Generation Event (TGE), and the conclusion of the airdrop are targeted for December. At this time, a bridge between Z.inc and Salana will be operational, and on-chain game systems, such as Sage C4, will transition to running on Z.inc. The two-way bridge will involve a small fee to cover operational costs and employs a decentralized architecture, though direct bridging of CNFTs is not yet available. Security is paramount, with plans for audits and initial restrictions on assets crossing the bridge. While the Galactic Marketplace will initially remain on Salana, local marketplaces will be introduced on Z.inc with the C4 release, and a wallet partner has already been secured for the new network. Z.inc presents a “land grab opportunity” for first movers in DeFi services like DEXes and lending pools, with potential exclusivity periods. Program deployment will be initially restricted to prevent spam but will be accessible for legitimate projects. The existing high transaction volume from Star Atlas game systems provides a strong foundation for Z.inc to attract further development.\nCurrently, becoming a Z.inc validator is a curated process, involving licensing deals with experienced operators, and there is no public pathway to participate. The long-term goal is full decentralization, envisioning a network that could persist independently, with the Star Atlas IP potentially transferred to the DAO. Z.inc’s core monetization strategy revolves around premium subscription tiers (Alpha, Aura, Apex), which offer significant benefits, including XP multipliers (up to 2x), free Z.inc premium on-chain naming services, and access to Star Atlas game cosmetics and assets through a battle pass system. The Z.inc airdrop campaign is slated to begin in September, with XP tracking lasting three months until the December TGE and distribution. Notably, historical activity will not contribute to general airdrop allocations to encourage new user participation, though long-term OGs will receive perks like guaranteed free Z.inc premium domains and potential benefits related to their “battle tested” role. Z.inc’s custom software extensions on the validator network will also enable advanced features like hidden fleet movement and complex on-chain calculations that were previously challenging on a generalized network. Ultimately, Z.inc is affirmed as a commitment to building a decentralized “cyber nation” rather than a pivot to Web2, and it is intended to be complementary to, not competitive with, Salana.",
+  "content_hash": "8f92e4052509323d2588420c76d5d4ec3aa8a8df69968256452a8814079f7e77",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [],
+  "external_sources": [
+    {
+      "url": "https://www.youtube.com/@staratlastv",
+      "anchor_text": "https://www.youtube.com/@staratlastv"
+    },
+    {
+      "url": "https://podcasts.apple.com/us/podcast/star-atlas-week-in-review-podcast/id1678661043",
+      "anchor_text": "Listen on Apple Podcasts"
+    },
+    {
+      "url": "https://open.spotify.com/show/0aHDjCqFpy8Lzrkilv8n16",
+      "anchor_text": "Listen on Spotify"
+    },
+    {
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    }
+  ],
+  "primary_source_relationships": [
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/@staratlastv",
+      "anchor_text": "https://www.youtube.com/@staratlastv"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://podcasts.apple.com/us/podcast/star-atlas-week-in-review-podcast/id1678661043",
+      "anchor_text": "Listen on Apple Podcasts"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://open.spotify.com/show/0aHDjCqFpy8Lzrkilv8n16",
+      "anchor_text": "Listen on Spotify"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    }
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Verify which outbound links are primary sources and preserve creator attribution during promotion.",
+      "Source lineage: attribution requires manual confirmation."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=event-recap-28-atlas-brew-170-z-ink&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 9977,
+    "elapsed_ms": 1810,
+    "attempts": [
+      {
+        "endpoint": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=event-recap-28-atlas-brew-170-z-ink&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "http_status": 200,
+        "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=event-recap-28-atlas-brew-170-z-ink&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "content_type": "application/json; charset=UTF-8",
+        "response_size": 9977,
+        "elapsed_ms": 1810
+      }
+    ]
+  },
+  "source_lineage": {
+    "publication": "Intergalactic Herald",
+    "publication_role": "CURATED_SUMMARY",
+    "relationship": "CURATED_SUMMARY_OF",
+    "primary_sources": [
+      {
+        "publication": "Atlas Brew #170",
+        "author": "UNKNOWN",
+        "url": "UNKNOWN",
+        "organization": "Star Atlas",
+        "evidence": "Explicitly named in publication title"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "publication": "@Staratlastv",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/@staratlastv",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Listen on Apple Podcasts",
+        "author": "UNKNOWN",
+        "url": "https://podcasts.apple.com/us/podcast/star-atlas-week-in-review-podcast/id1678661043",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Listen on Spotify",
+        "author": "UNKNOWN",
+        "url": "https://open.spotify.com/show/0aHDjCqFpy8Lzrkilv8n16",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Intergalactic Gear",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticgear.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Intergalactic Coalition",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticcoalition.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Atlas Brew #170",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "UNKNOWN"
+      }
+    ],
+    "lineage_confidence": "MEDIUM"
+  }
+}

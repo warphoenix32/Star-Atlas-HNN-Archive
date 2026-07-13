@@ -1,0 +1,184 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-961522DBE1A63BA5",
+    "url_id": "URL-961522DBE1A63BA5",
+    "url": "https://medium.com/the-hologram/scythe-sponsors-end-of-year-fundraiser-boosting-1-200-in-donations-5b60bf5b35b9",
+    "title": "Scythe Sponsors End of Year Fundraiser Boosting $1,200 in Donations",
+    "author": "Krigs",
+    "publisher": "The Hologram",
+    "publication_identity": "The Hologram (Medium publication)",
+    "published_at": "2022-12-21T15:30:24Z",
+    "updated_at": "2022-12-21T15:30:24Z",
+    "retrieved_at": "2026-07-13T00:08:54.147656Z",
+    "document_type": "ORIGINAL_REPORTING",
+    "source_role": "ORIGINAL_REPORTING",
+    "publication_role": "ORIGINAL_REPORTING",
+    "classification_rationale": "Publication reports a development without explicit interview, editorial, investigative, event, or reference framing."
+  },
+  "source_lineage": {
+    "publication": "The Hologram (Medium publication)",
+    "publication_role": "ORIGINAL_REPORTING",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [
+      {
+        "publication": "here",
+        "author": "UNKNOWN",
+        "url": "https://discord.gg/scythe-roadto100",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://staratlas.com/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [
+      "Krigs"
+    ],
+    "attribution_chain": [
+      {
+        "from": "here",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://discord.gg/scythe-roadto100"
+      },
+      {
+        "from": "Star Atlas",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://staratlas.com/"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "This original reporting published by The Hologram on 2022-12-21 documents “Scythe Sponsors End of Year Fundraiser Boosting $1,200 in Donations.” Its surviving text addresses governance, economy, guilds and DACs, community, lore, technology. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "Star AtlasCommunity\nScythe Sponsors End of Year Fundraiser Boosting $1,200 in Donations\nKrigs2 min read·Dec 21, 2022\n--\nListen\nShare\nPress enter or click to view image in full size\nWed, Dec 21st — The Star Atlas guild Scythe is hosting a final End of Year charity fundraiser, this time centered around the gift of giving to those less fortunate. Scythe has become well known in the Star Atlas community for hosting cryptocurrency enabled fundraisers towards charitable causes like cancer research. This year, Scythe has managed to raise over $1,200 towards these causes.\nIndividuals that donate to the charity of the month are eligible for giveaway prizes, usually in the form of Star Atlas ships. In the past, ships such as the Pearce X6 and Opal JetJet have been given away.\nTo participate in this month’s donation campaign, a person must donate at least $5 worth of toys or food to a local or national donation drive. To be eligible, proof of donation via photo must be submitted here.\nOfficial Sycthe Donation Drive Announcement\nTo be entered into this month’s event, participants should donate toys to programs such as Toys For Tots. Donations of food and clothes to food drives, churches, etc. will also be excepted. To receive your entry, a picture of the donated items will need to be provided. Please try to make the donation at least $5. Theres no good way to go about this, so I’m trusting the community to be honest. Please remember this is meant to help people in need. Thank you everyone for your continued support! Let’s make some people’s lives a little better this holiday season!!!\nAbout the Author\nKrigs is the founder of The Hologram News Network, an independent blockchain gaming meta-news organization devoted to the coverage of the Star Atlas game. Krigs has covered Star Atlas for the past year and enjoys writing about the potential that blockchain technology has to revolutionize the gaming industry.\nFollow on Social Media:\nTwitter | Instagram | Web\nAbout The Hologram\nThe Hologram is Star Atlas’ first and only independent news network. Our vision is to become the most trusted source of information about Star Atlas and a voice for the whole community. Readers can expect a high standard from our reporting and staff. Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.\nThe Hologram is not endorsed or paid by the Star Atlas team. Any information published by The Hologram nor its writers should be considered as informational in nature and does not constitute any financial advice.",
+  "content_hash": "53f47b9d0809c178cbd79e21475572c8c442f14e645dd45ce18768e61148b2a4",
+  "major_topics": [
+    "governance",
+    "economy",
+    "guilds and DACs",
+    "community",
+    "lore",
+    "technology"
+  ],
+  "entities": [
+    "ATLAS",
+    "Krigs",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-961522DBE1A63BA5-01",
+      "text": "To receive your entry, a picture of the donated items will need to be provided.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-961522DBE1A63BA5",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-961522DBE1A63BA5-02",
+      "text": "Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-961522DBE1A63BA5",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Star Atlas",
+    "ATLAS"
+  ],
+  "governance_items": [
+    "Star Atlas governance / DAO"
+  ],
+  "lore_items": [
+    "ONI"
+  ],
+  "actors": [
+    "Krigs"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://medium.com/@krigsfoniks?source=---byline--5b60bf5b35b9---------------------------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fthe-hologram%2F5b60bf5b35b9&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fscythe-sponsors-end-of-year-fundraiser-boosting-1-200-in-donations-5b60bf5b35b9&user=Krigs&userId=41e0c5b141f1&source=---header_actions--5b60bf5b35b9---------------------clap_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Frepost%2Fp%2F5b60bf5b35b9&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fscythe-sponsors-end-of-year-fundraiser-boosting-1-200-in-donations-5b60bf5b35b9&user=Krigs&userId=41e0c5b141f1&source=---header_actions--5b60bf5b35b9---------------------repost_header------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F5b60bf5b35b9&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fscythe-sponsors-end-of-year-fundraiser-boosting-1-200-in-donations-5b60bf5b35b9&source=---header_actions--5b60bf5b35b9---------------------bookmark_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2Fplans%3Fdimension%3Dpost_audio_button%26postId%3D5b60bf5b35b9&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fscythe-sponsors-end-of-year-fundraiser-boosting-1-200-in-donations-5b60bf5b35b9&source=---header_actions--5b60bf5b35b9---------------------post_audio_button------------------",
+      "anchor_text": "Listen"
+    },
+    {
+      "url": "https://medium.com/u/5ed69ff9cfb0?source=---user_mention--5b60bf5b35b9---------------------------------------",
+      "anchor_text": "Star Atlas"
+    },
+    {
+      "url": "https://discord.gg/scythe-roadto100",
+      "anchor_text": "here"
+    },
+    {
+      "url": "https://twitter.com/home",
+      "anchor_text": "Twitter"
+    },
+    {
+      "url": "https://thehologram.io/",
+      "anchor_text": "Web"
+    },
+    {
+      "url": "https://medium.com/the-hologram",
+      "anchor_text": "The Hologram"
+    },
+    {
+      "url": "https://staratlas.com/",
+      "anchor_text": "Star Atlas"
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "https://medium.com/the-hologram/scythe-sponsors-end-of-year-fundraiser-boosting-1-200-in-donations-5b60bf5b35b9",
+    "final_url": "https://medium.com/the-hologram/scythe-sponsors-end-of-year-fundraiser-boosting-1-200-in-donations-5b60bf5b35b9",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 252833,
+    "elapsed_ms": 1041,
+    "retrieval_mode": "LIVE",
+    "archive_capture": null
+  }
+}

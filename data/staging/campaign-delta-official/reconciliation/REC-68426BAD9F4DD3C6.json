@@ -1,0 +1,14 @@
+{
+  "topic": "claims, escape, polis, record, remain, sage, showroom, technology",
+  "official_source_ids": [
+    "SRC-OFF-C189056066EBFEA7"
+  ],
+  "community_source_ids": [
+    "SRC-HNN-C24E2A442B7D1CDB"
+  ],
+  "relationship": "OFFICIAL_CONFIRMS_COMMUNITY_REPORT",
+  "finding": "Automated topic overlap on: claims, escape, polis, record, remain, sage, showroom, technology, the, this, time, velocity. Official authority is limited to the official wording; community context remains separately attributed.",
+  "confidence": "LOW",
+  "promotion_candidate": false,
+  "manual_review_required": true
+}

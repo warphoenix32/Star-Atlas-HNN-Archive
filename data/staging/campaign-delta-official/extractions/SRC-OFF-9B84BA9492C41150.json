@@ -1,0 +1,113 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-9B84BA9492C41150",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47210125869203-What-is-the-Volant-Station",
+    "title": "What is the Volant Station?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-08T20:25:25Z",
+    "updated_at": "2025-12-09T16:46:23Z",
+    "original_date_text": "2025-12-08T20:25:25Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “What is the Volant Station?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Explore, Fly, Fight, and Race at the Heart of MUD Territory\nVolant Station is the central multiplayer hub and starting zone for the MUD faction in the Star Atlas UE5 game, available on the Epic Games Store\nWhat Can You Do in Volant Station?\nVolant Station offers multiple gameplay activities for both solo and multiplayer players:\nExplore Freely: Navigate the station and surrounding platforms on foot or using a jetpack\nSummon Ships: Spawn your owned ships at designated pads and take off\nRace: Compete on the racetrack solo or in multiplayer sessions\nMeet Other Players: Socialize in open multiplayer lobbies\nJetpack Mobility\nAll players are equipped with a free jetpack by default, allowing vertical movement and easier exploration across the Volant Station environment. Mastering this is especially helpful for reaching hidden areas or gaining a tactical edge in combat zones.\nLore\nVolant Station is the MUD faction’s central stronghold, orbiting above their territory in the Galia Expanse. It's a strategic outpost for exploration, research, and fleet deployment and now a hub for training the next generation of explorers",
+  "content_hash": "9a4d48137508caba87b4894c5396d447151ba4cdaeec4c522fb86a24556e2697",
+  "entities": [
+    "ATLAS"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-9B84BA9492C41150-01",
+      "text": "Explore, Fly, Fight, and Race at the Heart of MUD Territory Volant Station is the central multiplayer hub and starting zone for the MUD faction in the Star Atlas UE5 game, available on the Epic Games Store What Can You Do in Volant Station?",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-9B84BA9492C41150",
+      "publication_date": "2025-12-08T20:25:25Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-9B84BA9492C41150-02",
+      "text": "Mastering this is especially helpful for reaching hidden areas or gaining a tactical edge in combat zones.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-9B84BA9492C41150",
+      "publication_date": "2025-12-08T20:25:25Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-9B84BA9492C41150-03",
+      "text": "Lore Volant Station is the MUD faction’s central stronghold, orbiting above their territory in the Galia Expanse.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-9B84BA9492C41150",
+      "publication_date": "2025-12-08T20:25:25Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-9B84BA9492C41150-04",
+      "text": "It's a strategic outpost for exploration, research, and fleet deployment and now a hub for training the next generation of explorers",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-9B84BA9492C41150",
+      "publication_date": "2025-12-08T20:25:25Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [
+    "MUD",
+    "Galia"
+  ],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47210125869203-What-is-the-Volant-Station",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.394838Z"
+  }
+}

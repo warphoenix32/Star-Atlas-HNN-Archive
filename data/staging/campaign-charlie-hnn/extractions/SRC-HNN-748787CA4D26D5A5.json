@@ -1,0 +1,144 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-748787CA4D26D5A5",
+    "url_id": "URL-748787CA4D26D5A5",
+    "url": "https://medium.com/the-hologram/star-atlas-resource-locations-ba437a910473",
+    "title": "Star Atlas Resource Locations",
+    "author": "Krigs",
+    "publisher": "The Hologram",
+    "publication_identity": "The Hologram (Medium publication)",
+    "published_at": "2023-09-20T04:14:35Z",
+    "updated_at": "2023-09-20T05:00:24Z",
+    "retrieved_at": "2026-07-13T00:08:22.205465Z",
+    "document_type": "REFERENCE",
+    "source_role": "REFERENCE",
+    "publication_role": "REFERENCE",
+    "classification_rationale": "Publication is structured as a guide or reference."
+  },
+  "source_lineage": {
+    "publication": "The Hologram (Medium publication)",
+    "publication_role": "REFERENCE",
+    "relationship": "REFERENCES",
+    "primary_sources": [],
+    "original_creators": [
+      "Krigs"
+    ],
+    "attribution_chain": [],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "This reference published by The Hologram on 2023-09-20 documents “Star Atlas Resource Locations.” Its surviving text addresses economy, game development, community, lore, technology. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "Star Atlas Resource Locations\nKrigs3 min read·Sep 20, 2023\n--\n1\nListen\nShare\nStar Atlas contains 51 sectors that have their own resources. If you’re looking for specific resource locations to plan your mining route, this guide is for you. Find every resource location you are looking for along with the resource richness levels.\nPress enter or click to view image in full size\nThis guide is specific to Star Atlas SAGE Labs. Future game updates may invalidate date in this guide without notice.\nExample: System Name: // Richness Level || Oni-1 // 1.5\nHydrogen\n· ONI-1: // 1· MUD-1: // 1· UST-1: // 1 · MRZ-15: // 1.5· MRZ-4: // 1.5· MRZ-20: // 1.5· MRZ-26: // 1.5· MRZ-28: // 1.5· MRZ-5: // 1.5· MRZ-25: // 2· MRZ-6: // 2· MRZ-21: // 2\nBiomass\n· ONI-2: // 1 · MUD-4: // 1 · UST-2: // 1 · MRZ-3: 1.5 · MRZ-18: // 1.5 · MRZ-30: // 1.5 · MRZ-9: // 1.5 · MRZ-23: // 1.5 · MRZ-33: // 1.5\nIron\n• ONI-4: // 1 • MUD-2: // 1 • UST-4: // 1 • MRZ-1: // 1.5 • MRZ-24: // 1.5 • MRZ-30: // 1.5 • MRZ-3: // 1.5 • MRZ-23: // 1.5 • MRZ-35: // 1.5• MRZ-8: // 2 • MRZ-16: // 2• MRZ-31: // 2\nCopper\n• ONI-5: // 1 • MUD-5: // 1 • UST-5: // 1 • MRZ-1: // 1.5 • MRZ-4: // 1.5• MRZ-7: // 1.5 • MRZ-19: // 1.5 • MRZ-24: // 1.5 • MRZ-26: // 1.5 • MRZ-15: // 1.5 • MRZ-34: // 1.5 • MRZ-35: // 1.5\nCarbon\n• ONI-3: // 1 • MUD-3: // 1 • UST-3: // 1 • MRZ-5: // 1.5• MRZ-7: // 1.5 • MRZ-9: // 1.5 • MRZ-18: // 1.5• MRZ-19: // 1.5 • MRZ-20: // 1.5 • MRZ-28: // 1.5 • MRZ-33: // 1.5 • MRZ-34: // 1.5 • MRZ-11: // 2 • MRZ-13: // 2 • MRZ-32: // 2\nLumanite\n• MRZ-2: // 1 • MRZ-22: // 1 • MRZ-29: // 1 • MRZ-10: // 1.5• MRZ-14: // 1.5 • MRZ-27: // 1.5\nDiamond\n• MRZ-12: // 1\nRochinol\n• MRZ-36: // 1\nArcos\nMRZ-17: Arcos // 1\nAbout the Author\nKrigs\nAn ardent supporter of emerging technologies, Krigs has been covering blockchain games for over two years and believes passionately in their power to revolutionize our collective gaming experience.\nAbout The Hologram\nThe Hologram is Star Atlas’ first and only independent news network. Our vision is to become the most trusted source of information about Star Atlas and a voice for the whole community. Readers can expect a high standard from our reporting and staff. Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.\nAny information published by The Hologram or its writers should be considered as informational in nature and does not constitute any financial advice.",
+  "content_hash": "83a02049b7a016009f464e90652f65d9e8d72a8f1fdd117a5603782a991d877c",
+  "major_topics": [
+    "economy",
+    "game development",
+    "community",
+    "lore",
+    "technology"
+  ],
+  "entities": [
+    "ATLAS",
+    "Krigs",
+    "SAGE",
+    "SAGE Labs",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-748787CA4D26D5A5-01",
+      "text": "If you’re looking for specific resource locations to plan your mining route, this guide is for you.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-748787CA4D26D5A5",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-748787CA4D26D5A5-02",
+      "text": "Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-748787CA4D26D5A5",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "SAGE",
+    "SAGE Labs",
+    "Star Atlas",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [
+    "MUD",
+    "ONI"
+  ],
+  "actors": [
+    "Krigs"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://medium.com/@krigsfoniks?source=post_page---byline--ba437a910473---------------------------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fthe-hologram%2Fba437a910473&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fstar-atlas-resource-locations-ba437a910473&user=Krigs&userId=41e0c5b141f1&source=---header_actions--ba437a910473---------------------clap_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Frepost%2Fp%2Fba437a910473&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fstar-atlas-resource-locations-ba437a910473&user=Krigs&userId=41e0c5b141f1&source=---header_actions--ba437a910473---------------------repost_header------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fba437a910473&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fstar-atlas-resource-locations-ba437a910473&source=---header_actions--ba437a910473---------------------bookmark_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2Fplans%3Fdimension%3Dpost_audio_button%26postId%3Dba437a910473&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fstar-atlas-resource-locations-ba437a910473&source=---header_actions--ba437a910473---------------------post_audio_button------------------",
+      "anchor_text": "Listen"
+    },
+    {
+      "url": "https://medium.com/u/41e0c5b141f1",
+      "anchor_text": "Krigs"
+    },
+    {
+      "url": "https://medium.com/the-hologram",
+      "anchor_text": "The Hologram"
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "No explicit primary source was identifiable from preserved outbound links."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://medium.com/the-hologram/star-atlas-resource-locations-ba437a910473",
+    "final_url": "https://medium.com/the-hologram/star-atlas-resource-locations-ba437a910473",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 127775,
+    "elapsed_ms": 720,
+    "retrieval_mode": "LIVE",
+    "archive_capture": null
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-0DD935082DF1090F",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47028951579667-How-Do-I-Rent-a-Fleet",
+    "title": "How Do I Rent a Fleet?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-02T18:09:10Z",
+    "updated_at": "2025-12-08T18:24:12Z",
+    "original_date_text": "2025-12-02T18:09:10Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://based.staratlas.com",
+        "anchor_text": "based.staratlas.com"
+      },
+      {
+        "url": "https://play.staratlas.com",
+        "anchor_text": "play.staratlas.com"
+      },
+      {
+        "url": "http://play.staratlas.com/rentals",
+        "anchor_text": "Fleet Rentals"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “How Do I Rent a Fleet?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "This article provides a detailed guide on how to rent a fleet in Star Atlas. Designed to help you navigate the Fleet Rentals system efficiently, the guide covers everything from account setup and fleet selection to finalizing your rental agreement. Follow these steps to secure a fleet that meets your in-game needs and start your mission with confidence.\nStep 1: Account Setup\nBefore renting a fleet, ensure that you have created your account at based.staratlas.com. During the account creation process, you will select your faction and set your username. Most users will have this step completed prior to renting\nStep 2: Navigate to the Fleet Rentals Section\nOpen your web browser and go to play.staratlas.com.\nIn the side navigation bar, click on the Fleet Rentals icon to access the rental marketplace.\nStep 3: Browse Available Fleets\nWithin the Fleet Rentals section, navigate to the Fleets Available to Borrow area. Here you can view all fleets currently available for your faction. This listing provides essential information about each fleet, including the ships contained, their condition, and other operational details.\nStep 4: Evaluate Your Fleet Options\nWhen reviewing the available fleets, consider the following criteria:\nFleet Composition:Assess which ships are included in the fleet and whether they are suited for your mission—be it mining, scanning, or transport.\nResource Readiness:Verify that the fleet comes stocked with fuel, ammo, and crew if you plan to use it immediately without adding personal resources.\nFleet Score:Verify the fleet score of the fleet you're renting compared to other fleets. Learn more in this article about how fleets scores are calculated: Article\nRental Cost:Compare the daily rental cost in Atlas to ensure it aligns with your budget and mission requirements.\nStep 5: Select Your Rental Duration:\nYou can rent a fleet for up to 24 days\nRemember, you have the flexibility to cancel at any time and receive a prorated refund based on the remaining days.\nStep 6: Confirm Your Rental\nOnce you have selected the appropriate fleet and rental duration, click the Rent Fleet button. Upon confirmation, the following will occur:\nThe full rental amount is paid upfront and held in escrow.\nThe fleet is temporarily transferred under your account control, enabling you to start using it in SAGE immediately.\nStep 7: Begin Your Mission\nWith the fleet now under your control, you can proceed with your mission—whether that means warping to a new location, engaging in mining operations, or executing any other in-game tasks. Your rented fleet will be available until the rental period expires or is canceled, ensuring you have the flexibility needed for your strategy.",
+  "content_hash": "dd7a6ed1494306c8af42b10a3edb0653126125e43e4fd7c07b39be6a9b5b3cc4",
+  "entities": [
+    "ATLAS",
+    "Crew",
+    "SAGE",
+    "SCORE"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-0DD935082DF1090F-01",
+      "text": "This article provides a detailed guide on how to rent a fleet in Star Atlas.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0DD935082DF1090F",
+      "publication_date": "2025-12-02T18:09:10Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-0DD935082DF1090F-02",
+      "text": "Designed to help you navigate the Fleet Rentals system efficiently, the guide covers everything from account setup and fleet selection to finalizing your rental agreement.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0DD935082DF1090F",
+      "publication_date": "2025-12-02T18:09:10Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-0DD935082DF1090F-03",
+      "text": "Follow these steps to secure a fleet that meets your in-game needs and start your mission with confidence.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0DD935082DF1090F",
+      "publication_date": "2025-12-02T18:09:10Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-0DD935082DF1090F-04",
+      "text": "Step 1: Account Setup Before renting a fleet, ensure that you have created your account at based.staratlas.com.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0DD935082DF1090F",
+      "publication_date": "2025-12-02T18:09:10Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-0DD935082DF1090F-05",
+      "text": "During the account creation process, you will select your faction and set your username.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0DD935082DF1090F",
+      "publication_date": "2025-12-02T18:09:10Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-0DD935082DF1090F-06",
+      "text": "Most users will have this step completed prior to renting Step 2: Navigate to the Fleet Rentals Section Open your web browser and go to play.staratlas.com.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0DD935082DF1090F",
+      "publication_date": "2025-12-02T18:09:10Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-0DD935082DF1090F-07",
+      "text": "In the side navigation bar, click on the Fleet Rentals icon to access the rental marketplace.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0DD935082DF1090F",
+      "publication_date": "2025-12-02T18:09:10Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-0DD935082DF1090F-08",
+      "text": "Step 3: Browse Available Fleets Within the Fleet Rentals section, navigate to the Fleets Available to Borrow area.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0DD935082DF1090F",
+      "publication_date": "2025-12-02T18:09:10Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-0DD935082DF1090F-09",
+      "text": "Here you can view all fleets currently available for your faction.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0DD935082DF1090F",
+      "publication_date": "2025-12-02T18:09:10Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-0DD935082DF1090F-10",
+      "text": "This listing provides essential information about each fleet, including the ships contained, their condition, and other operational details.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0DD935082DF1090F",
+      "publication_date": "2025-12-02T18:09:10Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-0DD935082DF1090F-11",
+      "text": "Step 4: Evaluate Your Fleet Options When reviewing the available fleets, consider the following criteria: Fleet Composition:Assess which ships are included in the fleet and whether they are suited for your mission—be it mining, scanning, or transport.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0DD935082DF1090F",
+      "publication_date": "2025-12-02T18:09:10Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-0DD935082DF1090F-12",
+      "text": "Resource Readiness:Verify that the fleet comes stocked with fuel, ammo, and crew if you plan to use it immediately without adding personal resources.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0DD935082DF1090F",
+      "publication_date": "2025-12-02T18:09:10Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-0DD935082DF1090F-13",
+      "text": "Fleet Score:Verify the fleet score of the fleet you're renting compared to other fleets.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0DD935082DF1090F",
+      "publication_date": "2025-12-02T18:09:10Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-0DD935082DF1090F-14",
+      "text": "Learn more in this article about how fleets scores are calculated: Article Rental Cost:Compare the daily rental cost in Atlas to ensure it aligns with your budget and mission requirements.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0DD935082DF1090F",
+      "publication_date": "2025-12-02T18:09:10Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-0DD935082DF1090F-15",
+      "text": "Step 5: Select Your Rental Duration: You can rent a fleet for up to 24 days Remember, you have the flexibility to cancel at any time and receive a prorated refund based on the remaining days.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0DD935082DF1090F",
+      "publication_date": "2025-12-02T18:09:10Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "SAGE",
+    "SCORE",
+    "ATLAS",
+    "Crew"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://based.staratlas.com",
+      "anchor_text": "based.staratlas.com"
+    },
+    {
+      "url": "https://play.staratlas.com",
+      "anchor_text": "play.staratlas.com"
+    },
+    {
+      "url": "http://play.staratlas.com/rentals",
+      "anchor_text": "Fleet Rentals"
+    },
+    {
+      "url": "https://support.staratlas.com/how-fleet-scores-are-calculated",
+      "anchor_text": "Article"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://based.staratlas.com",
+      "anchor_text": "based.staratlas.com"
+    },
+    {
+      "url": "https://play.staratlas.com",
+      "anchor_text": "play.staratlas.com"
+    },
+    {
+      "url": "http://play.staratlas.com/rentals",
+      "anchor_text": "Fleet Rentals"
+    },
+    {
+      "url": "https://support.staratlas.com/how-fleet-scores-are-calculated",
+      "anchor_text": "Article"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47028951579667-How-Do-I-Rent-a-Fleet",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.286689Z"
+  }
+}

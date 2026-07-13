@@ -1,0 +1,458 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-F0986202419F6022",
+    "url_id": "URL-F0986202419F6022",
+    "url": "https://thehologram.io/how-to-find-your-star-atlas-ship-nft",
+    "title": "How to find your Star Atlas Ship NFT » The Hologram",
+    "author": "FowlAC",
+    "publisher": "Hologram News Network (HNN)",
+    "publication_identity": "Archived HNN website (thehologram.io)",
+    "published_at": "2022-08-15T23:13:12+00:00",
+    "updated_at": "2022-08-16T18:01:37+00:00",
+    "retrieved_at": "2026-07-13T00:17:20.815603Z",
+    "document_type": "REFERENCE",
+    "source_role": "REFERENCE",
+    "publication_role": "REFERENCE",
+    "classification_rationale": "Publication is structured as a guide or reference."
+  },
+  "source_lineage": {
+    "publication": "Archived HNN website (thehologram.io)",
+    "publication_role": "REFERENCE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "publication": "https://galaxy.staratlas.com/nfts",
+        "author": "UNKNOWN",
+        "url": "https://galaxy.staratlas.com/nfts",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Chrome extension store",
+        "author": "UNKNOWN",
+        "url": "https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh?hl=en-US",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "storage.googleapis.com",
+        "author": "UNKNOWN",
+        "url": "https://storage.googleapis.com/nft-assets/items/PX6-b5a768d8e7fce343.jpg",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Solscan",
+        "author": "UNKNOWN",
+        "url": "https://solscan.io/token/8RveLFEyteyL1vbCKPQJxjf3JT1ACyrzs46TXbJStrHG",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "stake.tax",
+        "author": "UNKNOWN",
+        "url": "https://stake.tax/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Terms of Service",
+        "author": "UNKNOWN",
+        "url": "https://staratlas.com/terms-of-service",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [
+      "FowlAC"
+    ],
+    "attribution_chain": [
+      {
+        "from": "https://galaxy.staratlas.com/nfts",
+        "to": "Archived HNN website (thehologram.io)",
+        "relationship": "REFERENCES",
+        "url": "https://galaxy.staratlas.com/nfts"
+      },
+      {
+        "from": "Chrome extension store",
+        "to": "Archived HNN website (thehologram.io)",
+        "relationship": "REFERENCES",
+        "url": "https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh?hl=en-US"
+      },
+      {
+        "from": "storage.googleapis.com",
+        "to": "Archived HNN website (thehologram.io)",
+        "relationship": "REFERENCES",
+        "url": "https://storage.googleapis.com/nft-assets/items/PX6-b5a768d8e7fce343.jpg"
+      },
+      {
+        "from": "Solscan",
+        "to": "Archived HNN website (thehologram.io)",
+        "relationship": "REFERENCES",
+        "url": "https://solscan.io/token/8RveLFEyteyL1vbCKPQJxjf3JT1ACyrzs46TXbJStrHG"
+      },
+      {
+        "from": "stake.tax",
+        "to": "Archived HNN website (thehologram.io)",
+        "relationship": "REFERENCES",
+        "url": "https://stake.tax/"
+      },
+      {
+        "from": "Terms of Service",
+        "to": "Archived HNN website (thehologram.io)",
+        "relationship": "REFERENCES",
+        "url": "https://staratlas.com/terms-of-service"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "This reference published by Hologram News Network (HNN) on 2022-08-15 documents “How to find your Star Atlas Ship NFT » The Hologram.” Its surviving text addresses economy, guilds and DACs, game development, community, lore, technology. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "How to find your Star Atlas Ship NFT\nPosted by FowlAC | Aug 15, 2022 | Economics, Featured\nNice! You bought a Pearce X6. It’s sitting there in your Phantom wallet and looks great. But what exactly did you buy and what do you really own? What follows is a quick tutorial for finding your Star Atlas NFT.\nStep 1: Go to https://galaxy.staratlas.com/nfts\nGalaxy is where all Star Atlas NFT content is stored and yes, it’s nearly impossible to read without a JSON viewer. The JSON viewer extension will convert the page into a more readable format. I recommend downloading and activating one from the Chrome extension store. Note: You may need to restart Chrome to get it to work.\nGalaxy contains the same content as the Star Atlas marketplace (just not as pretty). If the devs make a change in Galaxy, it will change the information in the Star Atlas marketplace. Keep in mind that Galaxy is not a static site. Devs are frequently adding new content (e.g., ships) and even modifying existing content.\nStep 2: Use the CTRL F shortcut to find a ship that is in your fleet.\nLet’s use the Pearce X6 as an example so type it into the find box. Once you’ve jumped down to the X6 section you will see the description and specs of the ship.\nIf you click on any of the storage.googleapis.com links you will also see the images associated with your Pearce X6. A couple of things to keep in mind: Galaxy content is publicly available and stored in the Google Cloud. If you own a Pearce X6 NFT you don’t own any of this content. The IP is owned by Star Atlas.\nStep 3: Find the mint address.\nIf you continue to scroll down you will eventually see the “mint” address. If you copy and paste that address into Solscan you will see that 8000 Pearce X6s were minted. This is proof of mint and that they exist on the blockchain. In Solscan you can also see recent transactions, other holders and some metadata. If you click the little yellow bird icon in the “Social Channels” you can get additional data and charts.\nIf you click the “Metadata” tab, you will see that it is currently set to “isMutable.” This effectively means that the Pearce X6 is not an NFT (non-fungible token) but rather an SFT (semi fungible token). Simply stated, an SFT means that the digital asset properties can be changed at will. There are many good reasons for allowing this but if you were thinking your ship can never be changed, that is not the case.\nStep 4: Locate your ship purchase transaction.\nThis is much harder to find. First, you will need the address of the Solana wallet where you purchased the ship. If you simply add that address into Solscan you will have to look through each transaction. If you have an active wallet this could take forever, especially if you’ve been using that wallet to resource your ship in SCORE.\nA better option is to use stake.tax. Select the Sol tab and then enter in your wallet address. It will create a CSV file containing a history of all your transactions. Again, depending on how active your wallet address is, it may take a while for the CSV file to be created. Once the file is created scroll through the rows until you see the thumbnail image of the ship you’re looking for. It’ll look like this:\nClick the transaction ID (TXID) and it will show you your purchase on the Solana blockchain. Be aware that if your ship is enlisted in SCORE there will be second thumbnail with the FLEET prefix. This is not your ship. Rather verification that your ship is enlisted.\nSo what does this transaction mean? Technically, it represents an IOU from Star Atlas for a specific ship token. In fact, this transaction on the blockchain is the only thing that is unique to you and proves you own anything in Star Atlas.\nNow that we’ve found it. What can we legally do with it? Below, I’ve excerpted sections from their Terms of Service detailing your rights as an NFT holder:\nGame NFTs. Your purchase of Game Items may be accompanied by non-fungible tokens (“NFTs”), and your ownership of these NFTs is tracked via the Solana blockchain (“Game NFTs”). Your ownership of these Game NFTs will give you certain rights and privileges within the Services, for as long as we make the Services and such rights and privileges available to you. You are responsible for all payments, fees, and costs when engaging in any transactions involving Game NFTs, including, without limitation, the purchase price, transaction fees, fees associated with your secondary or subsequent sales of Game NFTs, and all other fees associated with your use of the Game NFTs via the Services.\nPurchases Made for Consumptive Use. You acknowledge and affirm that you are acquiring Offerings, whether through the Marketplace or otherwise through the Services, for purposes of use in connection with the Services and, in the case of the Game NFTs, to play the Game or for other collectible purposes, and in each case not for any investment or speculative purposes. Any economic benefit that may be derived from appreciation in the value of an Offering or Game NFT is incidental to obtaining it for its use in connection with the Services or its collectible purpose.\nWhen you purchase a Game NFT, you own the NFT as a token on the blockchain, but you do not own any intellectual property rights in the related Content associated with such NFT except for the license grants expressly set forth herein. If you purchase or otherwise lawfully acquire a Game NFT, then subject to your compliance with these Terms, the Company hereby grants you a worldwide, non-exclusive, non-transferable, royalty-free license to use, copy, and display the Content that is specifically associated with such purchased Game NFT, and solely for the following purposes: (a) for your own non-commercial and not-for-profit use within or related to the Services and not otherwise in conflict with these Terms or any other Services-related policies (e.g., not to create and sell merchandise related to such Content); (b) as part of the Marketplace and any other marketplace that permits the purchase and sale of your Game NFTs, provided that the marketplace cryptographically verifies that only the actual owner can display the Content in connection with their sale of their Game NFT; or (c) as part of a third-party website or application that permits the display, inclusion, involvement, or participation of your Game NFT, provided that the website/application cryptographically verifies each Game NFT’s ownership of the Game NFT to ensure that only the actual owner can display the Content, and provided that the Content is no longer visible once the owner of the Game NFT leaves the website/application. This license only lasts as long as you are the valid owner and holder of the Game NFT associated with the licensed Content. If you sell or transfer the Game NFT to another person, this license will transfer to such other owner or holder of the Game NFT, and you will no longer have the benefits of such license. All rights not expressly granted are reserved.\nFinal Thoughts\nPersonally, going through this process was important and helped me to understand NFTs, SFTs and how they are represented on the blockchain. It also was helped me to understand my rights as an NFT/SFT owner and some of the inherent risks associated with participating in blockchain gaming.\nStar Atlas has done its job by providing the information and being available to answer questions. However, the final step still must be taken by you. Take the time to educate yourself (and others).\n###\nFurther reading: Encouraging Creativity in the Star Atlas Metaverse\nThis article is directed at content creators within the Star Atlas community and provides additional clarification on what can and cannot be done with Star Atlas IP.\nShare:\nAbout The Author\nFowlAC\nRelated Posts\nMichael Wagner addresses upcoming debate with Illuvium’s Kieran Warwick\nJuly 23, 2022\nSCORE Badge Rewards Confirmed by Wagner\nMay 14, 2022\nMystery ship sighted, Star Atlas teases next ship release with giveaway\nApril 18, 2022\nStar Atlas SCREAM Gameplay Initial Reveal\nMay 14, 2022\nLeave a reply Cancel reply\nUpcoming Events\nThere are no upcoming events.\nRecent Posts\nHow to find your Star Atlas Ship NFT\nAug 15, 2022 | Economics, Featured\nLa comunidad de Star Atlas reacciona con críticas al programa StarPath\nAug 11, 2022 | Comunidad, Español, Modo de juego\nStar Atlas Community Reacts Critically to StarPath Program\nAug 11, 2022 | Community, Gameplay\nQuimera’s NFT Genesis\nAug 10, 2022 | Community, Community Lore, Guilds\nEl NFT de Quimera\nAug 9, 2022 | Community, Español\n¿Cuál será el primer meta de fabricación de Star Atlas?\nAug 8, 2022 | Barcos, Español\nResumen del Townhall 32 de Star Atlas – ATLAS Staking y Noticias de SCREAM\nAug 8, 2022 | Español, Modo de juego\nWhat Will Be the First Star Atlas Crafting Meta?\nAug 7, 2022 | SCREAM, Ships\nDragon’s Den Coverage – Crime And Punishment\nAug 7, 2022 | Community\nStar Atlas Townhall 32 Recap – ATLAS Staking and SCREAM News\nAug 7, 2022 | Gameplay, Roadmap Updates\nFollow the Holo\nTwitter",
+  "content_hash": "0697e742ee9eb83f5896602427dba0cc5bca1e7a815d7959174c5aaba632ac38",
+  "major_topics": [
+    "economy",
+    "guilds and DACs",
+    "game development",
+    "community",
+    "lore",
+    "technology"
+  ],
+  "entities": [
+    "ATLAS",
+    "Michael Wagner",
+    "SCORE",
+    "SCREAM",
+    "Star Atlas",
+    "StarPath"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-F0986202419F6022-01",
+      "text": "The JSON viewer extension will convert the page into a more readable format.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-F0986202419F6022",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-F0986202419F6022-02",
+      "text": "If the devs make a change in Galaxy, it will change the information in the Star Atlas marketplace.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-F0986202419F6022",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-F0986202419F6022-03",
+      "text": "Once you’ve jumped down to the X6 section you will see the description and specs of the ship.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-F0986202419F6022",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-F0986202419F6022-04",
+      "text": "If you click on any of the storage.googleapis.com links you will also see the images associated with your Pearce X6.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-F0986202419F6022",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-F0986202419F6022-05",
+      "text": "If you continue to scroll down you will eventually see the “mint” address.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-F0986202419F6022",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-F0986202419F6022-06",
+      "text": "If you copy and paste that address into Solscan you will see that 8000 Pearce X6s were minted.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-F0986202419F6022",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-F0986202419F6022-07",
+      "text": "If you click the “Metadata” tab, you will see that it is currently set to “isMutable.” This effectively means that the Pearce X6 is not an NFT (non-fungible token) but rather an SFT (semi fungible token).",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-F0986202419F6022",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-F0986202419F6022-08",
+      "text": "Simply stated, an SFT means that the digital asset properties can be changed at will.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-F0986202419F6022",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-F0986202419F6022-09",
+      "text": "First, you will need the address of the Solana wallet where you purchased the ship.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-F0986202419F6022",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-F0986202419F6022-10",
+      "text": "If you simply add that address into Solscan you will have to look through each transaction.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-F0986202419F6022",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-F0986202419F6022-11",
+      "text": "It will create a CSV file containing a history of all your transactions.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-F0986202419F6022",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-F0986202419F6022-12",
+      "text": "It’ll look like this: Click the transaction ID (TXID) and it will show you your purchase on the Solana blockchain.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-F0986202419F6022",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "SCORE",
+    "Star Atlas",
+    "ATLAS",
+    "StarPath",
+    "SCREAM"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [
+    "Michael Wagner"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://thehologram.io/author/fowlac/",
+      "anchor_text": "FowlAC"
+    },
+    {
+      "url": "https://thehologram.io/category/economics/",
+      "anchor_text": "Economics"
+    },
+    {
+      "url": "https://thehologram.io/category/featured/",
+      "anchor_text": "Featured"
+    },
+    {
+      "url": "https://galaxy.staratlas.com/nfts",
+      "anchor_text": "https://galaxy.staratlas.com/nfts"
+    },
+    {
+      "url": "https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh?hl=en-US",
+      "anchor_text": "Chrome extension store"
+    },
+    {
+      "url": "https://storage.googleapis.com/nft-assets/items/PX6-b5a768d8e7fce343.jpg",
+      "anchor_text": "storage.googleapis.com"
+    },
+    {
+      "url": "https://solscan.io/token/8RveLFEyteyL1vbCKPQJxjf3JT1ACyrzs46TXbJStrHG",
+      "anchor_text": "Solscan"
+    },
+    {
+      "url": "https://stake.tax/",
+      "anchor_text": "stake.tax"
+    },
+    {
+      "url": "https://staratlas.com/terms-of-service",
+      "anchor_text": "Terms of Service"
+    },
+    {
+      "url": "https://medium.com/star-atlas/intergalactic-transmission-to-the-star-atlas-community-encouraging-creativity-in-the-star-atlas-6ca8802140ab",
+      "anchor_text": "Encouraging Creativity in the Star Atlas Metaverse"
+    },
+    {
+      "url": "http://www.facebook.com/sharer.php?u=https://thehologram.io/how-to-find-your-star-atlas-ship-nft/&t=How%20to%20find%20your%20Star%20Atlas%20Ship%20NFT",
+      "anchor_text": ""
+    },
+    {
+      "url": "http://twitter.com/intent/tweet?text=How%20to%20find%20your%20Star%20Atlas%20Ship%20NFT%20https://thehologram.io/how-to-find-your-star-atlas-ship-nft/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://plus.google.com/share?url=https://thehologram.io/how-to-find-your-star-atlas-ship-nft/&t=How%20to%20find%20your%20Star%20Atlas%20Ship%20NFT",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/wagner-warwick/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/score-badge-rewards-confirmed-by-wagner/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/mystery-ship-sighted-star-atlas-teases-next-ship-release-with-giveaway/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/star-atlas-scream-gameplay-initial-reveal/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/how-to-find-your-star-atlas-ship-nft/",
+      "anchor_text": "Cancel reply"
+    },
+    {
+      "url": "https://thehologram.io/criticas-contra-starpath/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/category/comunidad/",
+      "anchor_text": "Comunidad"
+    },
+    {
+      "url": "https://thehologram.io/category/espanol/",
+      "anchor_text": "Español"
+    },
+    {
+      "url": "https://thehologram.io/category/espanol/modo-de-juego/",
+      "anchor_text": "Modo de juego"
+    },
+    {
+      "url": "https://thehologram.io/star-atlas-community-reacts-critically-to-starpath-program/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/category/community/",
+      "anchor_text": "Community"
+    },
+    {
+      "url": "https://thehologram.io/category/gameplay/",
+      "anchor_text": "Gameplay"
+    },
+    {
+      "url": "https://thehologram.io/quimera-nft/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/category/community/lore/",
+      "anchor_text": "Community Lore"
+    },
+    {
+      "url": "https://thehologram.io/category/community/guilds/",
+      "anchor_text": "Guilds"
+    },
+    {
+      "url": "https://thehologram.io/el-nft-de-quimera/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/primer-meta-de-star-atlas/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/category/espanol/barcos/",
+      "anchor_text": "Barcos"
+    },
+    {
+      "url": "https://thehologram.io/resumen-del-townhall-32-de-star-atlas-atlas-staking-y-noticias-de-scream/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/star-atlas-crafting-meta/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/category/gameplay/scream/",
+      "anchor_text": "SCREAM"
+    },
+    {
+      "url": "https://thehologram.io/category/gameplay/ships/",
+      "anchor_text": "Ships"
+    },
+    {
+      "url": "https://thehologram.io/dragons-den-coverage-crime-and-punishment/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/star-atlas-townhall-32-recap-atlas-staking-and-scream-news/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/category/gameplay/roadmap-updates/",
+      "anchor_text": "Roadmap Updates"
+    },
+    {
+      "url": "https://twitter.com/Hologram_News",
+      "anchor_text": ""
+    },
+    {
+      "url": "http://coinledger.io?fpr=opqer",
+      "anchor_text": ""
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "https://web.archive.org/web/20220816180138id_/https://thehologram.io/how-to-find-your-star-atlas-ship-nft/",
+    "final_url": "https://web.archive.org/web/20220816180138id_/https://thehologram.io/how-to-find-your-star-atlas-ship-nft/",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "response_size": 181413,
+    "elapsed_ms": 603,
+    "retrieval_mode": "INTERNET_ARCHIVE",
+    "archive_capture": {
+      "timestamp": "20220816180138",
+      "original": "https://thehologram.io/how-to-find-your-star-atlas-ship-nft/",
+      "digest": "LNF3HKILKUPG4HKB76SXK6BN5Z6PRQOX"
+    }
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "source": {
+    "source_id": "SRC-IH-17596D94BCA3CABE",
+    "url_id": "URL-17596D94BCA3CABE",
+    "url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-65/",
+    "inventory_url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-65",
+    "title": "Star Atlas Weekly News Recap #65",
+    "author": "Intergalactic Herald",
+    "publisher": "Intergalactic Herald",
+    "published_at": "2023-06-18T17:00:00",
+    "updated_at": "2023-06-17T17:07:56",
+    "retrieved_at": "2026-07-12T22:01:01.480469Z",
+    "document_type": "NEWSLETTER",
+    "source_role": "CURATED_SUMMARY",
+    "source_classification": "CURATED_SUMMARY",
+    "classification_rationale": "Weekly newsletter/recap aggregates developments and linked sources.",
+    "wordpress_type": "posts"
+  },
+  "summary": {
+    "neutral_abstract": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week. We are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us. The First Star Atlas Community Polis Improvement Proposal -DAO Owned Claim",
+    "historical_value": "Contemporary Intergalactic Herald publication preserved with role and attribution boundaries.",
+    "current_validity_warning": "Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources."
+  },
+  "article_text": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week.\nWe are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us.\nStar Atlas: Pearce x6 Review Showroom 2.1\nTomorrows World posted a video reviewing the Star Atlas Pearce X6.\nSTAR ATLAS #185 What I’m Doing for Resources\nMetaVerse Explorer posted a video about farming for R4 resources in Star Atlas.\nMetaverse Nomads #98 Star Altas w/ Lumina\nMetaverse Nomads posted a video of their weekly Star Atlas live stream.\nThe First Star Atlas Community Polis Improvement Proposal -DAO Owned Claim Stakes\nThe Hologram published an article about a community proposal for the DAO.\nWEEKLY STAR ATLAS NEWSLETTER #83\nAephia published their weekly Star Atlas newsletter.\nWagner and Co. Comment on Star Atlas Economic Transition\nThe Hologram published an article about comments from Star Atlas on the economic transition.\nStar Atlas : Will Your Fleet Survive? Major Giveaway\nPockThePirate posted a video of Star Atlas updates.\nPolaris Fuel Proposes Alternative to PIP-X\nThe Hologram published an article about another Star Atlas community proposal.\nStat Atlas News June 14th Never Alone Escape Velocity Twitter and R4!\nBeyond The Horizon posted a video about Star Atlas updates.",
+  "content_hash": "31a9179348f1c90df9ee1b76265c6c56332155cdb0213c3a23252709369dcc21",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [],
+  "external_sources": [
+    {
+      "url": "https://www.youtube.com/watch?v=XfRfbpybowo",
+      "anchor_text": "Star Atlas Pearce X6"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=jrL9y8MoQq8",
+      "anchor_text": "R4 resources in Star Atlas"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=zfkS5JllOK8",
+      "anchor_text": "weekly Star Atlas live stream"
+    },
+    {
+      "url": "https://medium.com/the-hologram/the-first-star-atlas-community-polis-improvement-proposal-dao-owned-claim-stakes-12170ac5a125",
+      "anchor_text": "community proposal for the DAO"
+    },
+    {
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-83/",
+      "anchor_text": "weekly Star Atlas newsletter"
+    },
+    {
+      "url": "https://medium.com/the-hologram/wagner-and-co-comment-on-star-atlas-economic-transition-f8ec5e2461e6",
+      "anchor_text": "Star Atlas on the economic transition"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=-JWyr2q3Ozk",
+      "anchor_text": "Star Atlas updates"
+    },
+    {
+      "url": "https://medium.com/the-hologram/polaris-fuel-proposes-alternative-to-pip-x-1aa5422e653",
+      "anchor_text": "Star Atlas community proposal"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ygbOLpSydRU",
+      "anchor_text": "Star Atlas updates"
+    }
+  ],
+  "primary_source_relationships": [
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=XfRfbpybowo",
+      "anchor_text": "Star Atlas Pearce X6"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=jrL9y8MoQq8",
+      "anchor_text": "R4 resources in Star Atlas"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=zfkS5JllOK8",
+      "anchor_text": "weekly Star Atlas live stream"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://medium.com/the-hologram/the-first-star-atlas-community-polis-improvement-proposal-dao-owned-claim-stakes-12170ac5a125",
+      "anchor_text": "community proposal for the DAO"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-83/",
+      "anchor_text": "weekly Star Atlas newsletter"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://medium.com/the-hologram/wagner-and-co-comment-on-star-atlas-economic-transition-f8ec5e2461e6",
+      "anchor_text": "Star Atlas on the economic transition"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=-JWyr2q3Ozk",
+      "anchor_text": "Star Atlas updates"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://medium.com/the-hologram/polaris-fuel-proposes-alternative-to-pip-x-1aa5422e653",
+      "anchor_text": "Star Atlas community proposal"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=ygbOLpSydRU",
+      "anchor_text": "Star Atlas updates"
+    }
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Verify which outbound links are primary sources and preserve creator attribution during promotion."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-65&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 4955,
+    "elapsed_ms": 1714,
+    "attempts": [
+      {
+        "endpoint": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-65&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "http_status": 200,
+        "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-65&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "content_type": "application/json; charset=UTF-8",
+        "response_size": 4955,
+        "elapsed_ms": 1714
+      }
+    ]
+  },
+  "source_lineage": {
+    "publication": "Intergalactic Herald",
+    "publication_role": "CURATED_SUMMARY",
+    "relationship": "CURATED_SUMMARY_OF",
+    "primary_sources": [
+      {
+        "publication": "Star Atlas Pearce X6",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=XfRfbpybowo",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas Pearce X6"
+      },
+      {
+        "publication": "R4 resources in Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=jrL9y8MoQq8",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: R4 resources in Star Atlas"
+      },
+      {
+        "publication": "weekly Star Atlas live stream",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=zfkS5JllOK8",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: weekly Star Atlas live stream"
+      },
+      {
+        "publication": "community proposal for the DAO",
+        "author": "UNKNOWN",
+        "url": "https://medium.com/the-hologram/the-first-star-atlas-community-polis-improvement-proposal-dao-owned-claim-stakes-12170ac5a125",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: community proposal for the DAO"
+      },
+      {
+        "publication": "weekly Star Atlas newsletter",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-83/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article with anchor text: weekly Star Atlas newsletter"
+      },
+      {
+        "publication": "Star Atlas on the economic transition",
+        "author": "UNKNOWN",
+        "url": "https://medium.com/the-hologram/wagner-and-co-comment-on-star-atlas-economic-transition-f8ec5e2461e6",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas on the economic transition"
+      },
+      {
+        "publication": "Star Atlas updates",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=-JWyr2q3Ozk",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas updates"
+      },
+      {
+        "publication": "Star Atlas community proposal",
+        "author": "UNKNOWN",
+        "url": "https://medium.com/the-hologram/polaris-fuel-proposes-alternative-to-pip-x-1aa5422e653",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas community proposal"
+      },
+      {
+        "publication": "Star Atlas updates",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=ygbOLpSydRU",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas updates"
+      }
+    ],
+    "secondary_sources": [],
+    "original_creators": [
+      "Aephia"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Star Atlas Pearce X6",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=XfRfbpybowo"
+      },
+      {
+        "from": "R4 resources in Star Atlas",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=jrL9y8MoQq8"
+      },
+      {
+        "from": "weekly Star Atlas live stream",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=zfkS5JllOK8"
+      },
+      {
+        "from": "community proposal for the DAO",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://medium.com/the-hologram/the-first-star-atlas-community-polis-improvement-proposal-dao-owned-claim-stakes-12170ac5a125"
+      },
+      {
+        "from": "weekly Star Atlas newsletter",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-83/"
+      },
+      {
+        "from": "Star Atlas on the economic transition",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://medium.com/the-hologram/wagner-and-co-comment-on-star-atlas-economic-transition-f8ec5e2461e6"
+      },
+      {
+        "from": "Star Atlas updates",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=-JWyr2q3Ozk"
+      },
+      {
+        "from": "Star Atlas community proposal",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://medium.com/the-hologram/polaris-fuel-proposes-alternative-to-pip-x-1aa5422e653"
+      },
+      {
+        "from": "Star Atlas updates",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=ygbOLpSydRU"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  }
+}

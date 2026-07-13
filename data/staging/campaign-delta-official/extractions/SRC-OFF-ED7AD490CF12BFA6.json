@@ -1,0 +1,145 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-ED7AD490CF12BFA6",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47210126616979-How-do-I-create-a-new-wallet-in-the-UE5-Game",
+    "title": "How do I create a new wallet in the UE5 Game?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-08T20:25:32Z",
+    "updated_at": "2025-12-08T21:20:50Z",
+    "original_date_text": "2025-12-08T20:25:32Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “How do I create a new wallet in the UE5 Game?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "An alternative to importing your existing wallet is to create a new one and send your assets to the new wallet.\nTo create a new wallet directly in Star Atlas, do the following:\nClick on \"Create Wallet\"\nSave the series of words that are provided to you in a safe place.YOU WILL NOT BE ABLE TO RETRIEVE YOUR SECRET MNEMONIC AFTER THIS STEP. MAKE SURE YOU STORED YOUR SECRET MNEMONIC SAFELY.\nName your wallet and protect it with a password. This password is local only and helps you protect your wallet on your machine. If you lose your password, you’ll have to import your wallet with the seed (mnemonic) phrase that was provided to you in the previous step so it is extremely important you save it in a safe place (otherwise your wallet will be lost with no possible way to retrieve your assets).\nImportant safety step – How to lock your current wallet\nStep 1: Select walletStep 2: Click \"Lock Current Wallet\"",
+  "content_hash": "5a34ced5a312ebda6aa3ee239df4b820f8f4f1f83fa3ff6c2a3d241395752dd6",
+  "entities": [
+    "ATLAS"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-ED7AD490CF12BFA6-01",
+      "text": "An alternative to importing your existing wallet is to create a new one and send your assets to the new wallet.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-ED7AD490CF12BFA6",
+      "publication_date": "2025-12-08T20:25:32Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-ED7AD490CF12BFA6-02",
+      "text": "To create a new wallet directly in Star Atlas, do the following: Click on \"Create Wallet\" Save the series of words that are provided to you in a safe place.YOU WILL NOT BE ABLE TO RETRIEVE YOUR SECRET MNEMONIC AFTER THIS STEP.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-ED7AD490CF12BFA6",
+      "publication_date": "2025-12-08T20:25:32Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-ED7AD490CF12BFA6-03",
+      "text": "MAKE SURE YOU STORED YOUR SECRET MNEMONIC SAFELY.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-ED7AD490CF12BFA6",
+      "publication_date": "2025-12-08T20:25:32Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-ED7AD490CF12BFA6-04",
+      "text": "Name your wallet and protect it with a password.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-ED7AD490CF12BFA6",
+      "publication_date": "2025-12-08T20:25:32Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-ED7AD490CF12BFA6-05",
+      "text": "This password is local only and helps you protect your wallet on your machine.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-ED7AD490CF12BFA6",
+      "publication_date": "2025-12-08T20:25:32Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-ED7AD490CF12BFA6-06",
+      "text": "If you lose your password, you’ll have to import your wallet with the seed (mnemonic) phrase that was provided to you in the previous step so it is extremely important you save it in a safe place (otherwise your wallet will be lost with no possible way to retrieve your assets).",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-ED7AD490CF12BFA6",
+      "publication_date": "2025-12-08T20:25:32Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-ED7AD490CF12BFA6-07",
+      "text": "Important safety step – How to lock your current wallet Step 1: Select walletStep 2: Click \"Lock Current Wallet\"",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-ED7AD490CF12BFA6",
+      "publication_date": "2025-12-08T20:25:32Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47210126616979-How-do-I-create-a-new-wallet-in-the-UE5-Game",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.125410Z"
+  }
+}

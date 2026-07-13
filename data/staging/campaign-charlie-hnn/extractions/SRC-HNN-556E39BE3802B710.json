@@ -1,0 +1,259 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-556E39BE3802B710",
+    "url_id": "URL-556E39BE3802B710",
+    "url": "https://medium.com/the-hologram/popular-star-atlas-guild-website-to-shut-down-e4da1d94be33",
+    "title": "Popular Star Atlas Guild Website to Shut Down",
+    "author": "Krigs",
+    "publisher": "The Hologram",
+    "publication_identity": "The Hologram (Medium publication)",
+    "published_at": "2023-06-07T01:32:30Z",
+    "updated_at": "2023-06-07T02:58:43Z",
+    "retrieved_at": "2026-07-13T00:07:57.905232Z",
+    "document_type": "ORIGINAL_REPORTING",
+    "source_role": "ORIGINAL_REPORTING",
+    "publication_role": "ORIGINAL_REPORTING",
+    "classification_rationale": "Publication reports a development without explicit interview, editorial, investigative, event, or reference framing."
+  },
+  "source_lineage": {
+    "publication": "The Hologram (Medium publication)",
+    "publication_role": "ORIGINAL_REPORTING",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [
+      {
+        "publication": "Star Atlas Guilds",
+        "author": "UNKNOWN",
+        "url": "https://staratlasguilds.com/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Podcast",
+        "author": "UNKNOWN",
+        "url": "https://open.spotify.com/show/2mxndrDW6yPfpS350ijzjt?si=ec7c717f998240d6",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "YouTube",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/channel/UCDa-YxgNG6A9xpH1qyP0OaQ",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://staratlas.com/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [
+      "Krigs"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Star Atlas Guilds",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://staratlasguilds.com/"
+      },
+      {
+        "from": "Podcast",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://open.spotify.com/show/2mxndrDW6yPfpS350ijzjt?si=ec7c717f998240d6"
+      },
+      {
+        "from": "YouTube",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://www.youtube.com/channel/UCDa-YxgNG6A9xpH1qyP0OaQ"
+      },
+      {
+        "from": "Star Atlas",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://staratlas.com/"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "This original reporting published by The Hologram on 2023-06-07 documents “Popular Star Atlas Guild Website to Shut Down.” Its surviving text addresses economy, guilds and DACs, game development, community, lore. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "Popular Star Atlas Guild Website to Shut Down\nKrigs3 min read·Jun 7, 2023\n--\nListen\nShare\nStar Atlas— The popular guild searching tool Star Atlas Guilds will be shut down in the near future. No immediate time frame was given on when the tool will be shuttered.\nPress enter or click to view image in full sizeStar Atlas Guilds Homepage\nStar Atlas Guilds Shutting Down\nThe original and popular Star Atlas Guilds website is shutting down, an inadvertent result of the new Star Atlas Intellectual Property policy. The rollout of the Star Atlas IP policy is intended to open up opportunities to the Star Atlas community to develop with and around the Star Atlas intellectual property framework.\nHowever, a stipulation of the policy is that the words “Star” and “Atlas” cannot be used conjunctively in a project’s name, including it’s website domain address.\nHence, the problem for Star Atlas Guilds lies in both its namesake and web address.\nUpon further inquiry by Hologram News, it was determined that Star Atlas Guilds was directed to change its name to conform with Star Atlas IP policy or to cease operations.\nStar Atlas Guilds is managed and run by Star Atlas community member Dodger. In our brief discussion with Dodger, they mentioned that currently there are no plans to either change the service’s name or transfer management to another party.\nA Focal Point of Guilds\nStar Atlas Guilds is a popular website used by Star Atlas players to search, learn, and connect with the many Star Atlas guilds. Star Atlas Guilds has been serving the community for a significant period of time. Its closure will leave a service capability gap in the community until a similar service is provided.\nOn the website, players can search for guilds based on a number of criteria including faction allegiance and gameplay activity. Each guild description provided substantial information about a guild along with multiple points of contact.\nIt is unknown if there are plans to preserve the valuable content contained within the website.\nAbout the Author\nKrigs is a pioneer in the world of Star Atlas, having founded The Hologram News Network — an independent meta-news organization that keeps players up to date on all developments regarding Star Atlas. An ardent supporter of emerging technologies, Krigs has been covering this game for over a year and believes passionately in their power to revolutionize our collective gaming experience.\nFollow on Social Media:\nPodcast | YouTube | Twitter | Instagram | Web\nAbout The Hologram\nThe Hologram is Star Atlas’ first and only independent news network. Our vision is to become the most trusted source of information about Star Atlas and a voice for the whole community. Readers can expect a high standard from our reporting and staff. Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.\nThe Hologram is not endorsed by the Star Atlas team. Any information published by The Hologram or its writers should be considered as informational in nature and does not constitute any financial advice.",
+  "content_hash": "0b3fbc0bb446178a533c596438b4ab833808d03806523a1f43d14d96eddab001",
+  "major_topics": [
+    "economy",
+    "guilds and DACs",
+    "game development",
+    "community",
+    "lore"
+  ],
+  "entities": [
+    "ATLAS",
+    "Krigs",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-556E39BE3802B710-01",
+      "text": "Popular Star Atlas Guild Website to Shut Down Krigs3 min read·Jun 7, 2023 -- Listen Share Star Atlas— The popular guild searching tool Star Atlas Guilds will be shut down in the near future.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-556E39BE3802B710",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-556E39BE3802B710-02",
+      "text": "No immediate time frame was given on when the tool will be shuttered.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-556E39BE3802B710",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-556E39BE3802B710-03",
+      "text": "In our brief discussion with Dodger, they mentioned that currently there are no plans to either change the service’s name or transfer management to another party.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-556E39BE3802B710",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-556E39BE3802B710-04",
+      "text": "Its closure will leave a service capability gap in the community until a similar service is provided.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-556E39BE3802B710",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-556E39BE3802B710-05",
+      "text": "It is unknown if there are plans to preserve the valuable content contained within the website.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-556E39BE3802B710",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-556E39BE3802B710-06",
+      "text": "Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-556E39BE3802B710",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Star Atlas",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [
+    "ONI"
+  ],
+  "actors": [
+    "Krigs"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://medium.com/@krigsfoniks?source=---byline--e4da1d94be33---------------------------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fthe-hologram%2Fe4da1d94be33&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fpopular-star-atlas-guild-website-to-shut-down-e4da1d94be33&user=Krigs&userId=41e0c5b141f1&source=---header_actions--e4da1d94be33---------------------clap_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Frepost%2Fp%2Fe4da1d94be33&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fpopular-star-atlas-guild-website-to-shut-down-e4da1d94be33&user=Krigs&userId=41e0c5b141f1&source=---header_actions--e4da1d94be33---------------------repost_header------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fe4da1d94be33&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fpopular-star-atlas-guild-website-to-shut-down-e4da1d94be33&source=---header_actions--e4da1d94be33---------------------bookmark_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2Fplans%3Fdimension%3Dpost_audio_button%26postId%3De4da1d94be33&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fpopular-star-atlas-guild-website-to-shut-down-e4da1d94be33&source=---header_actions--e4da1d94be33---------------------post_audio_button------------------",
+      "anchor_text": "Listen"
+    },
+    {
+      "url": "https://medium.com/u/5ed69ff9cfb0?source=---user_mention--e4da1d94be33---------------------------------------",
+      "anchor_text": "Star Atlas"
+    },
+    {
+      "url": "https://staratlasguilds.com/",
+      "anchor_text": "Star Atlas Guilds"
+    },
+    {
+      "url": "https://medium.com/u/41e0c5b141f1",
+      "anchor_text": "Krigs"
+    },
+    {
+      "url": "https://open.spotify.com/show/2mxndrDW6yPfpS350ijzjt?si=ec7c717f998240d6",
+      "anchor_text": "Podcast"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCDa-YxgNG6A9xpH1qyP0OaQ",
+      "anchor_text": "YouTube"
+    },
+    {
+      "url": "https://twitter.com/home",
+      "anchor_text": "Twitter"
+    },
+    {
+      "url": "https://thehologram.io/",
+      "anchor_text": "Web"
+    },
+    {
+      "url": "https://medium.com/the-hologram",
+      "anchor_text": "The Hologram"
+    },
+    {
+      "url": "https://staratlas.com/",
+      "anchor_text": "Star Atlas"
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "https://medium.com/the-hologram/popular-star-atlas-guild-website-to-shut-down-e4da1d94be33",
+    "final_url": "https://medium.com/the-hologram/popular-star-atlas-guild-website-to-shut-down-e4da1d94be33",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 259439,
+    "elapsed_ms": 628,
+    "retrieval_mode": "LIVE",
+    "archive_capture": null
+  }
+}

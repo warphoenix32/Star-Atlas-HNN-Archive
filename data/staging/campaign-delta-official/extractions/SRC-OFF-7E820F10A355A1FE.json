@@ -1,0 +1,182 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-7E820F10A355A1FE",
+    "url": "https://build.staratlas.com/creative-assets/building-with-star-atlas-creative-ip",
+    "title": "Star Atlas Build",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Build / ATMTA",
+    "published_at": null,
+    "updated_at": null,
+    "original_date_text": null,
+    "document_type": "TECHNICAL_DOCUMENTATION",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Build / ATMTA",
+    "publication_role": "TECHNICAL_DOCUMENTATION",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://docs.google.com/forms/d/1koPfnGWW06AF9z09lHjtI1f19ZZy9cLF4OgnKI24S4w/viewform?ts=684aeba0&edit_requested=true",
+        "anchor_text": "Creators Form"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Build / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official technical documentation titled “Star Atlas Build.” This record preserves what Star Atlas Build / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Building With Star Atlas Creative IP | Star Atlas Build\nSkip to contentStar Atlas BuildSearchK\nAppearance\nMenuReturn to top\nBuilding With Star Atlas Creative IP ​\nYou’re invited to create using the Star Atlas universe art, lore, and branding are yours to build on, with no fees until you reach $1,000,000 in revenue!\nWhether you're working on merch, games, media, or something entirely new, we want to support you.\nThere are just some simple rules to follow before publishing or commercializing your project, you will need to:\nSubmit the Creators Form to let us know what you're building\nFollow the User Services Requirements — key rules and expectations\nUse the “Powered by the People” logo instead of the official “Star Atlas” trademarks\nReport royalties if your project earns more than $1M USD\nUse assets from the Star Atlas Assets library for visuals, logos, and art\nNeed Help? ​\nIf you're unsure about a rule, need custom assets, or want feedback on your idea, join us in 💻┃community-developers on Discord, and we will help guide you\nWe're here to support you, not gatekeep. Let’s build something awesome together!",
+  "content_hash": "3c5bbbe9421eb293bbb5daca94c00133c983eea3867c184ac011897130806d19",
+  "entities": [
+    "ATLAS"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-7E820F10A355A1FE-01",
+      "text": "Building With Star Atlas Creative IP | Star Atlas Build Skip to contentStar Atlas BuildSearchK Appearance MenuReturn to top Building With Star Atlas Creative IP ​ You’re invited to create using the Star Atlas universe art, lore, and branding are yours to build on, with no fees until you reach $1,000,000 in revenue!",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-7E820F10A355A1FE",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-7E820F10A355A1FE-02",
+      "text": "Whether you're working on merch, games, media, or something entirely new, we want to support you.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-7E820F10A355A1FE",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-7E820F10A355A1FE-03",
+      "text": "There are just some simple rules to follow before publishing or commercializing your project, you will need to: Submit the Creators Form to let us know what you're building Follow the User Services Requirements — key rules and expectations Use the “Powered by the People” logo instead of the official “Star Atlas” trademarks Report royalties if your project earns more than $1M USD Use assets from the Star Atlas Assets library for visuals, logos, and art Need Help?",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-7E820F10A355A1FE",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-7E820F10A355A1FE-04",
+      "text": "​ If you're unsure about a rule, need custom assets, or want feedback on your idea, join us in 💻┃community-developers on Discord, and we will help guide you We're here to support you, not gatekeep.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-7E820F10A355A1FE",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://build.staratlas.com/creative-assets/building-with-star-atlas-creative-ip",
+      "anchor_text": "Skip to content"
+    },
+    {
+      "url": "https://build.staratlas.com/",
+      "anchor_text": "Star Atlas Build"
+    },
+    {
+      "url": "https://discord.com/invite/staratlas",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://docs.google.com/forms/d/1koPfnGWW06AF9z09lHjtI1f19ZZy9cLF4OgnKI24S4w/viewform?ts=684aeba0&edit_requested=true",
+      "anchor_text": "Creators Form"
+    },
+    {
+      "url": "https://build.staratlas.com/creative-assets/user-services-requirements",
+      "anchor_text": "User Services Requirements"
+    },
+    {
+      "url": "https://build.staratlas.com/creative-assets/star-atlas-powered-by-the-people",
+      "anchor_text": "Powered by the People"
+    },
+    {
+      "url": "https://build.staratlas.com/creative-assets/royalties",
+      "anchor_text": "Report royalties"
+    },
+    {
+      "url": "https://build.staratlas.com/creative-assets/star-atlas-assets",
+      "anchor_text": "Star Atlas Assets library"
+    },
+    {
+      "url": "https://discord.com/channels/789226204980707409/1004095538544787547",
+      "anchor_text": "💻┃community-developers"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://build.staratlas.com/creative-assets/building-with-star-atlas-creative-ip",
+      "anchor_text": "Skip to content"
+    },
+    {
+      "url": "https://build.staratlas.com/",
+      "anchor_text": "Star Atlas Build"
+    },
+    {
+      "url": "https://build.staratlas.com/creative-assets/user-services-requirements",
+      "anchor_text": "User Services Requirements"
+    },
+    {
+      "url": "https://build.staratlas.com/creative-assets/star-atlas-powered-by-the-people",
+      "anchor_text": "Powered by the People"
+    },
+    {
+      "url": "https://build.staratlas.com/creative-assets/royalties",
+      "anchor_text": "Report royalties"
+    },
+    {
+      "url": "https://build.staratlas.com/creative-assets/star-atlas-assets",
+      "anchor_text": "Star Atlas Assets library"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "LOW",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://build.staratlas.com/creative-assets/building-with-star-atlas-creative-ip",
+    "final_url": "https://build.staratlas.com/creative-assets/building-with-star-atlas-creative-ip",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 23513,
+    "retrieved_at": "2026-07-13T01:04:23.809005Z",
+    "elapsed_ms": 290
+  }
+}

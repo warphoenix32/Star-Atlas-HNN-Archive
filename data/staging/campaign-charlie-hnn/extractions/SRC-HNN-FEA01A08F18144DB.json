@@ -1,0 +1,193 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-FEA01A08F18144DB",
+    "url_id": "URL-FEA01A08F18144DB",
+    "url": "https://medium.com/the-hologram/star-atlas-pirate-guild-the-unseen-is-recruiting-ed495b647c4f",
+    "title": "Star Atlas Pirate Guild “The Unseen” is Recruiting",
+    "author": "Hologram News Network",
+    "publisher": "The Hologram",
+    "publication_identity": "The Hologram (Medium publication)",
+    "published_at": "2023-03-11T04:46:06Z",
+    "updated_at": "2023-03-11T04:46:06Z",
+    "retrieved_at": "2026-07-13T00:10:49.143797Z",
+    "document_type": "EVENT_COVERAGE",
+    "source_role": "EVENT_COVERAGE",
+    "publication_role": "EVENT_COVERAGE",
+    "classification_rationale": "Publication documents or recaps a named event."
+  },
+  "source_lineage": {
+    "publication": "The Hologram (Medium publication)",
+    "publication_role": "EVENT_COVERAGE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [
+      {
+        "publication": "https://unseenguild.com/dfc",
+        "author": "UNKNOWN",
+        "url": "https://unseenguild.com/dfc",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "https://unseenguild.com/",
+        "author": "UNKNOWN",
+        "url": "https://unseenguild.com/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "https://discord.gg/YKmXzjWkp7",
+        "author": "UNKNOWN",
+        "url": "https://discord.gg/YKmXzjWkp7",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [
+      "Hologram News Network"
+    ],
+    "attribution_chain": [
+      {
+        "from": "https://unseenguild.com/dfc",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://unseenguild.com/dfc"
+      },
+      {
+        "from": "https://unseenguild.com/",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://unseenguild.com/"
+      },
+      {
+        "from": "https://discord.gg/YKmXzjWkp7",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://discord.gg/YKmXzjWkp7"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "This event coverage published by The Hologram on 2023-03-11 documents “Star Atlas Pirate Guild “The Unseen” is Recruiting.” Its surviving text addresses economy, guilds and DACs, community, lore. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "Star Atlas Pirate Guild “The Unseen” is Recruiting\nHologram News Network2 min read·Mar 11, 2023\n--\nListen\nShare\nThe Unseen is a Pirates Guild with a focus solely on Star Atlas. No Mercy, No Surrender!\nSo you think you are a Pirate?\nWhy choose The Unseen?\nThe Unseen is a Pirates Guild with a focus solely on Star Atlas. A number of other guilds tend to dabble in several different metaverses, but with us, you will only be focused on growing and profiting in Star Atlas. Finalist in the 1st Annual Joni Awards for Best Small Guild and Best Guild Website!\nWe are also the hosts of the Community Initiative project “The Unseen’s Dog Fighting Championship” more information can be found at https://unseenguild.com/dfc. The Unseen offers an exclusive Ranks and Rewards system that will grant members NFTs for promotions and achievements! All information on this can be found on our website.\nWhat we are looking for\nWe are looking for members that want to be aggressive, active, and loyal to the crew. Some others look down upon the aggressive nature of a game of this sort, we thrive on it. We will live on combat, and we are looking for Gamers and Pirates! More information on specifics can be had by reaching out to The Unseen leadership team.\nLeadership History\nThe Unseen is run by twin brothers that have combined MMO, Shooter, and Action-Adventure leadership experience of over 30 years. We have run guilds, clans, companies, and squads in a multitude of games and have always been on the competitive edge. We also have a large number of leadership positions in all our branches that remain unfilled.\nFaction: MUD\nActivities:\nPiracy, Industry, Material Management, Bounty Hunting, Escort Services, Trade, Land Management, Mercenary Work\nLanguage: English Only\nContact The Unseen and Join Today\nWebsite: https://unseenguild.com/\nDiscord: https://discord.gg/YKmXzjWkp7\nTwitter: https://twitter.com/TheUnseenGuild",
+  "content_hash": "5820626e5305bf4519287159a5e79960a1cd05f5c0bbb4c1932dda80beacc5e2",
+  "major_topics": [
+    "economy",
+    "guilds and DACs",
+    "community",
+    "lore"
+  ],
+  "entities": [
+    "ATLAS",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-FEA01A08F18144DB-01",
+      "text": "A number of other guilds tend to dabble in several different metaverses, but with us, you will only be focused on growing and profiting in Star Atlas.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-FEA01A08F18144DB",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-FEA01A08F18144DB-02",
+      "text": "The Unseen offers an exclusive Ranks and Rewards system that will grant members NFTs for promotions and achievements!",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-FEA01A08F18144DB",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-FEA01A08F18144DB-03",
+      "text": "We will live on combat, and we are looking for Gamers and Pirates!",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-FEA01A08F18144DB",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Star Atlas",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [
+    "MUD",
+    "ONI"
+  ],
+  "actors": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://medium.com/@hologramnews?source=---byline--ed495b647c4f---------------------------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fthe-hologram%2Fed495b647c4f&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fstar-atlas-pirate-guild-the-unseen-is-recruiting-ed495b647c4f&user=Hologram+News+Network&userId=ed24b40c4906&source=---header_actions--ed495b647c4f---------------------clap_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Frepost%2Fp%2Fed495b647c4f&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fstar-atlas-pirate-guild-the-unseen-is-recruiting-ed495b647c4f&user=Hologram+News+Network&userId=ed24b40c4906&source=---header_actions--ed495b647c4f---------------------repost_header------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fed495b647c4f&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fstar-atlas-pirate-guild-the-unseen-is-recruiting-ed495b647c4f&source=---header_actions--ed495b647c4f---------------------bookmark_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2Fplans%3Fdimension%3Dpost_audio_button%26postId%3Ded495b647c4f&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fstar-atlas-pirate-guild-the-unseen-is-recruiting-ed495b647c4f&source=---header_actions--ed495b647c4f---------------------post_audio_button------------------",
+      "anchor_text": "Listen"
+    },
+    {
+      "url": "https://unseenguild.com/dfc",
+      "anchor_text": "https://unseenguild.com/dfc"
+    },
+    {
+      "url": "https://unseenguild.com/",
+      "anchor_text": "https://unseenguild.com/"
+    },
+    {
+      "url": "https://discord.gg/YKmXzjWkp7",
+      "anchor_text": "https://discord.gg/YKmXzjWkp7"
+    },
+    {
+      "url": "https://twitter.com/TheUnseenGuild",
+      "anchor_text": "https://twitter.com/TheUnseenGuild"
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "https://medium.com/the-hologram/star-atlas-pirate-guild-the-unseen-is-recruiting-ed495b647c4f",
+    "final_url": "https://medium.com/the-hologram/star-atlas-pirate-guild-the-unseen-is-recruiting-ed495b647c4f",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 257980,
+    "elapsed_ms": 910,
+    "retrieval_mode": "LIVE",
+    "archive_capture": null
+  }
+}

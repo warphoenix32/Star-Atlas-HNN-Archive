@@ -1,0 +1,131 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-2C2F91554FDD8170",
+    "url_id": "URL-2C2F91554FDD8170",
+    "url": "https://hologramnews.com/star-atlas-content-creators",
+    "title": "Star Atlas Content Creators - Hologram News Network",
+    "author": "UNKNOWN",
+    "publisher": "Hologram News Network (HNN)",
+    "publication_identity": "HNN website (hologramnews.com)",
+    "published_at": "2024-02-04T17:44:33+00:00",
+    "updated_at": "2024-02-15T04:29:04+00:00",
+    "retrieved_at": "2026-07-13T00:13:58.668525Z",
+    "document_type": "REFERENCE",
+    "source_role": "REFERENCE",
+    "publication_role": "REFERENCE",
+    "classification_rationale": "Publication is structured as a guide or reference."
+  },
+  "source_lineage": {
+    "publication": "HNN website (hologramnews.com)",
+    "publication_role": "REFERENCE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "publication": "Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://staratlas.com/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [],
+    "attribution_chain": [
+      {
+        "from": "Star Atlas",
+        "to": "HNN website (hologramnews.com)",
+        "relationship": "REFERENCES",
+        "url": "https://staratlas.com/"
+      }
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "This reference published by Hologram News Network (HNN) on 2024-02-04 documents “Star Atlas Content Creators - Hologram News Network.” Its surviving text addresses economy, game development, community, lore. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "Star Atlas Content Creators\nLooking for the latest and greatest Star Atlas content creators? We’ve gathered a curated and updated collection of Star Atlas content creators for you to explore and discover. These great creators cover a wide variety of Star Atlas topics, including gameplay, guides, updates, art and more!\nFind the latest Star Atlas videos and content and discover everything being said about Star Atlas from their very own community creators. Eventually, this list will include a voting function, so you can participate in the Star Atlas and Hologram News Network communities to show your support to your favorite Star Atlas Content Creator.",
+  "content_hash": "323d76d3358f53ab01b4d909155130a3e4c92060cf7f3e1e85eebcc15b0702e6",
+  "major_topics": [
+    "economy",
+    "game development",
+    "community",
+    "lore"
+  ],
+  "entities": [
+    "ATLAS",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-2C2F91554FDD8170-01",
+      "text": "Find the latest Star Atlas videos and content and discover everything being said about Star Atlas from their very own community creators.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-2C2F91554FDD8170",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-2C2F91554FDD8170-02",
+      "text": "Eventually, this list will include a voting function, so you can participate in the Star Atlas and Hologram News Network communities to show your support to your favorite Star Atlas Content Creator.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-2C2F91554FDD8170",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Star Atlas",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://staratlas.com/",
+      "anchor_text": "Star Atlas"
+    },
+    {
+      "url": "https://hologramnews.com/",
+      "anchor_text": "Hologram News Network"
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "author_confidence": "UNKNOWN",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Author is not explicit in the surviving publication metadata.",
+      "Extraction completeness or publication dating requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://web.archive.org/web/20240313175251id_/https://hologramnews.com/star-atlas-content-creators/",
+    "final_url": "https://web.archive.org/web/20240313175251id_/https://hologramnews.com/star-atlas-content-creators/",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "response_size": 183651,
+    "elapsed_ms": 1310,
+    "retrieval_mode": "INTERNET_ARCHIVE",
+    "archive_capture": {
+      "timestamp": "20240313175251",
+      "original": "https://hologramnews.com/star-atlas-content-creators/",
+      "digest": "ZSUVL7ZFV5T2DG7JVF7FTHGYUASAC6I2"
+    }
+  }
+}

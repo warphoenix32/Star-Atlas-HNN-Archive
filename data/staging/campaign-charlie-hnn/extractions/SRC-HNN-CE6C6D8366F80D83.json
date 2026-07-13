@@ -1,0 +1,220 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-CE6C6D8366F80D83",
+    "url_id": "URL-CE6C6D8366F80D83",
+    "url": "https://medium.com/the-hologram/star-atlas-showroom-and-seasons-roadmap-b34a57aaea2b",
+    "title": "Star Atlas Showroom and Seasons Roadmap",
+    "author": "Krigs",
+    "publisher": "The Hologram",
+    "publication_identity": "The Hologram (Medium publication)",
+    "published_at": "2022-11-11T01:36:50Z",
+    "updated_at": "2022-11-11T19:19:06Z",
+    "retrieved_at": "2026-07-13T00:09:57.360571Z",
+    "document_type": "FEATURE",
+    "source_role": "FEATURE",
+    "publication_role": "FEATURE",
+    "classification_rationale": "Publication provides feature-style background or profile coverage."
+  },
+  "source_lineage": {
+    "publication": "The Hologram (Medium publication)",
+    "publication_role": "FEATURE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [
+      {
+        "publication": "Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://staratlas.com/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [
+      "Krigs"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Star Atlas",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://staratlas.com/"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "This feature published by The Hologram on 2022-11-11 documents “Star Atlas Showroom and Seasons Roadmap.” Its surviving text addresses economy, game development, community, lore, technology. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "Star Atlas Showroom and Seasons Roadmap\nKrigs4 min read·Nov 11, 2022\n--\n1\nListen\nShare\nDuring Solana Breakpoint 2022 in Lisbon, Star Atlas Co-Founder Michael Wagner, unveiled the trajectory for the Star Atlas Showroom and game. Following the path of games like Call of Duty, Destiny 2, and Fortnite, Star Atlas will also utilize the seasons model on its road to full release.\nWhat’s implied is that over a course of a four-stage pre-season and 8 subsequent seasons, the Star Atlas Showroom will be expanded to include additional gameplay features and career progression systems.\nPress enter or click to view image in full sizeStar Atlas Season 0 Cover\nWhat’s important about Star Atlas Seasons\nAccording to ATMTA, the company behind Star Atlas, the full version one game is on a 5–7 year production timeline. The pre-alpha version is currently in pre-season Release 1 with Release 2 around the corner. Understanding the season schedule will help you better understand when certain game mechanics and careers will become available in Star Atlas.\nWhile Star Atlas is using a season model, its important to note that the timeframe for each season is undefined. Typically gaming seasons last from 3–5 months. On a 5–7 year timeline, seasons could go as long as a year between releases. These seasons should expand the current environment of the Star Atlas showroom allowing people to to become more immersed in the Star Atlas metaverse.\nStar Atlas Pre-Season\nPress enter or click to view image in full sizeUnreal Engine Showroom Pre-Season Roadmap\nRelease 1\nShowroom Basic environment\nRelease 2 — Nov 22\nFlight / Racing\nMultiplayer\nRelease 3\nBasic crafting\nShip cargo and hauling\nRelease 4\nECOS Attack (A variant of TUFA Attack possibly)\nLooting and skins (Likely PvE looting, unknown if this includes PvP)\nPress enter or click to view image in full sizeStar Atlas Season 0\nSeason 0 — Combat and Racing\nRacing Career\nFighting Career\nStar Atlas Golden Era (SAGE) SAGE, formerly Project SCREAM, is the WebGL game alongside the UE5 game.\nFrom what we know about timeline of SAGE, we can expect SAGE released to come out sometime at the end of 2022. Following up with the Star Atlas team, is was clarified that SAGE will come before Season 0. Thus, we can expect Season 0 to rollout sometime in the middle of 2023, likely.\nPress enter or click to view image in full sizeStar Atlas Seasons 1–4\nSeason 1 — Ship Mining4\nSpace Miner Career\nCrew (Likely for ship loadouts)\nONI Central Station (One of the three Faction Central Stations)\nSpace hab(itats) (Player living quarters?)\nSeason 2 — Game Hunting\nFirst Person Combat\nGame hunter Career\nMounting (Giant Tigu mount?)\nSeason 3 — Bounty Hunting\nBounty Hunting Career\nUSTUR Central Space Station\nSeason 4 — Smuggle & Freight\nSmuggling and Freight Careers\nPlayer Space Station Creation\nPress enter or click to view image in full sizeStar Atlas Seasons 5–8\nSeason 5 — Land Mining & Crafting\nMining outposts\nManufacturing Career\nMUD Central Space Station (Last Central Station to be released)\nSeason 6 — Exploration and Transport\nExploration and Passenger Transport\nReal Time Strategy Fleet and Crew Command\nHomeworld Planets\nSeason 7 — Repair and Salvage\nRepair and Salvage Careers\nAll ships flight ready\nSeason 8 — Rescue & Refuel & Politics\nRescue, Refueler, and Politician Careers\nFully decentralized\nStar Atlas v1.0 — Full Game\nSynopsis\nBased on the roadmap of Star Atlas seasons, its clear that repair and salvage careers will be prioritized last and only available until closer to the games full release. For those interested in combat, mining, and crafting, rejoice! It would seem like those activities will come sooner, likely within 1–2 years.\nAbout The Hologram\nThe Hologram is Star Atlas’ first and only independent news network. Our vision is to become the most trusted source of information about Star Atlas and a voice for the whole community. Readers can expect a high standard from our reporting and staff. Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.\nThe Hologram is not endorsed or paid by the Star Atlas team. Any information published by The Hologram nor its writers should be considered as informational in nature and does not constitute any financial advice.",
+  "content_hash": "7d6adff05bd4137d35be9543d2f9af62c3e5b8184614bc0648543a68044fbfae",
+  "major_topics": [
+    "economy",
+    "game development",
+    "community",
+    "lore",
+    "technology"
+  ],
+  "entities": [
+    "ATLAS",
+    "Krigs",
+    "Michael Wagner",
+    "SAGE",
+    "SCREAM",
+    "Showroom",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-CE6C6D8366F80D83-01",
+      "text": "Following the path of games like Call of Duty, Destiny 2, and Fortnite, Star Atlas will also utilize the seasons model on its road to full release.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-CE6C6D8366F80D83",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-CE6C6D8366F80D83-02",
+      "text": "What’s implied is that over a course of a four-stage pre-season and 8 subsequent seasons, the Star Atlas Showroom will be expanded to include additional gameplay features and career progression systems.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-CE6C6D8366F80D83",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-CE6C6D8366F80D83-03",
+      "text": "Understanding the season schedule will help you better understand when certain game mechanics and careers will become available in Star Atlas.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-CE6C6D8366F80D83",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-CE6C6D8366F80D83-04",
+      "text": "From what we know about timeline of SAGE, we can expect SAGE released to come out sometime at the end of 2022.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-CE6C6D8366F80D83",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-CE6C6D8366F80D83-05",
+      "text": "Following up with the Star Atlas team, is was clarified that SAGE will come before Season 0.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-CE6C6D8366F80D83",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-CE6C6D8366F80D83-06",
+      "text": "It would seem like those activities will come sooner, likely within 1–2 years.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-CE6C6D8366F80D83",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-CE6C6D8366F80D83-07",
+      "text": "Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-CE6C6D8366F80D83",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "SAGE",
+    "Star Atlas",
+    "Showroom",
+    "ATLAS",
+    "SCREAM"
+  ],
+  "governance_items": [],
+  "lore_items": [
+    "MUD",
+    "ONI",
+    "Ustur"
+  ],
+  "actors": [
+    "Michael Wagner",
+    "Krigs"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://medium.com/@krigsfoniks?source=---byline--b34a57aaea2b---------------------------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fthe-hologram%2Fb34a57aaea2b&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fstar-atlas-showroom-and-seasons-roadmap-b34a57aaea2b&user=Krigs&userId=41e0c5b141f1&source=---header_actions--b34a57aaea2b---------------------clap_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Frepost%2Fp%2Fb34a57aaea2b&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fstar-atlas-showroom-and-seasons-roadmap-b34a57aaea2b&user=Krigs&userId=41e0c5b141f1&source=---header_actions--b34a57aaea2b---------------------repost_header------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fb34a57aaea2b&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fstar-atlas-showroom-and-seasons-roadmap-b34a57aaea2b&source=---header_actions--b34a57aaea2b---------------------bookmark_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2Fplans%3Fdimension%3Dpost_audio_button%26postId%3Db34a57aaea2b&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fstar-atlas-showroom-and-seasons-roadmap-b34a57aaea2b&source=---header_actions--b34a57aaea2b---------------------post_audio_button------------------",
+      "anchor_text": "Listen"
+    },
+    {
+      "url": "https://medium.com/u/2772803ea4c0?source=---user_mention--b34a57aaea2b---------------------------------------",
+      "anchor_text": "Michael Wagner,"
+    },
+    {
+      "url": "https://medium.com/u/5ed69ff9cfb0?source=---user_mention--b34a57aaea2b---------------------------------------",
+      "anchor_text": "Star Atlas"
+    },
+    {
+      "url": "https://medium.com/the-hologram",
+      "anchor_text": "The Hologram"
+    },
+    {
+      "url": "https://staratlas.com/",
+      "anchor_text": "Star Atlas"
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "https://medium.com/the-hologram/star-atlas-showroom-and-seasons-roadmap-b34a57aaea2b",
+    "final_url": "https://medium.com/the-hologram/star-atlas-showroom-and-seasons-roadmap-b34a57aaea2b",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 290365,
+    "elapsed_ms": 790,
+    "retrieval_mode": "LIVE",
+    "archive_capture": null
+  }
+}

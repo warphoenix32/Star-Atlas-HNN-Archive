@@ -1,0 +1,72 @@
+# Announcing our Social Campaign
+
+## Source metadata
+
+- Source ID: `SRC-AEPHIA-8FED5DD2B7B17801`
+- URL: https://aephia.com/star-atlas/announcing-our-campaign-stronger-together/
+- Publisher: Aephia
+- Published: 2023-07-18T11:31:23
+- Updated: 2023-08-14T17:28:04
+- Document type: `REFERENCE`
+- Extraction confidence: `HIGH`
+
+## Neutral synopsis
+
+Today, on July 18th, we celebrate the 2nd anniversary of Aephia Industries. Every year we try our best to make this an event worth remembering! Last year we celebrated for over a week, posting new/updated guides every day and giving away ships to members who helped people out on the Star Atlas Discord. This year, we also have several things planned, but one of the highlights is the launch of our own social campaign, Stronger Together! On April 26th, 2023, the Star Atlas team introduced a comprehensive social campaign titled Never Alone. In it, you stumble upon a Punaab, who seems to have crashed his ship on a rural planet, losing his memories in the process. However, you quickly learn that…
+
+## Historical importance
+
+Contemporary Aephia coverage preserved as a community-institution source.
+
+## Temporal warning
+
+Operational, economic, governance, and roadmap statements may be historical and require reconciliation with later primary sources.
+
+## Manual review
+
+- Article was modified after publication; review temporal claims against later evidence.
+
+## Extracted article text
+
+Today, on July 18th, we celebrate the 2nd anniversary of Aephia Industries. Every year we try our best to make this an event worth remembering! Last year we celebrated for over a week, posting new/updated guides every day and giving away ships to members who helped people out on the Star Atlas Discord.
+This year, we also have several things planned, but one of the highlights is the launch of our own social campaign, Stronger Together!
+Never Alone
+On April 26th, 2023, the Star Atlas team introduced a comprehensive social campaign titled Never Alone. In it, you stumble upon a Punaab, who seems to have crashed his ship on a rural planet, losing his memories in the process. However, you quickly learn that not all is as it seems. Somehow his e-diary, while still functioning, no longer contains any entries. It was tampered with!
+The two of you team up and go on daring quests in an effort to spark Saand’s old memories. What starts with you two trailing the Council of Peace war fleets throughout the Medium Risk Zone in hopes of finding spoils, ultimately (in Mission 1) lands you two on the ECOS’ Titan ship, the SuperPhoenix.
+Like many of you, we at Aephia Industries have really enjoyed progressing through the first mission of this campaign, completing quests, and learning more about the endearing Punaab called Saand and the Galia Expanse through the lore that accompanies every quest. We’re eager to find out more, especially about Etira!
+A Tribute
+As a tribute to Star Atlas’ Never Alone campaign and to celebrate our 2nd anniversary as a Star Atlas guild, today we are announcing the imminent launch of our own Social Campaign! Like Star Atlas, we’ll use the Zealy platform to facilitate this.
+That is not the only part we’re copying, however. Our upcoming campaign will tie directly into the lore and quests of the Never Alone campaign!
+DAC Competition
+The Never Alone campaign was never meant to be just a solo experience. Though the quests are largely an individual experience, the Memories you earn play an important role in the guild competition taking place after the conclusion of Never Alone at the end of the year.
+Never Alone – Loot, Memories, and the DAC Competition
+As can be seen from the infographic above, memories can be exchanged for one of two things:
+You can redeem them for immediate rewards (coming online at the end of Mission 2). The reward will differ depending on the Memory tier you redeem. Additionally, every mission will offer different rewards.
+You can keep them until the end of the year and instead redeem a set of 3 equal-tier Memories. In exchange, you will get a loot bundle, the content of which is dependent (again) on the tier of these Memories. Doing so will score your guild points in the EOY guild competition.
+Of course, there is one more alternative:
+You can sell them on the Galactic Marketplace to anyone who seeks to use them for any of the previously mentioned options (or as an investment).
+Though the first two options both result in you getting some nice loot, going with the second option has the additional benefit of helping your guild in the upcoming guild competition!
+Knowing this, it was clear to us that we should look for ways to further encourage you to help out Aephia Industries.
+Timing
+First off, we could have waited until the end of the year to launch a special event then. That is, after all, when the guild competition starts. But we decided against that, as you will be able to redeem individual memories well before we get there. This meant we had to get the message across earlier anyway.
+Additionally, why wait until the end of the year, when we could also have some fun between now and then? Instead of only rewarding you for using your memories to get an EOY loot bundle and score points for Aephia, we can also reward you for helping us promote our upcoming releases, getting your Aephia knowledge up to speed, and spreading the word on some big events that will come later this year.
+New Lore
+To add to the previous section, Never Alone has proven that it’s possible to share a story through a campaign on Zealy. So, taking a bundle of pages from ATMTA, we’re going to weave a small story of our own making through some of our quest’s descriptions.
+A benefit of sticking close to the team’s setup is that it should make this campaign feel like a natural extension of Never Alone.
+AEPs Together Strong
+Aephia Industries is home to a dedicated group of NFT traders and enthusiasts. Though Star Atlas brought them together, they have been dabbling quite successfully, in many other NFT projects since.
+Though the [AEP] tag was originally introduced on the Star Atlas Discord server to easily identify fellow Aephia members, this segment of our community has given it additional meaning and renown on dozens of other Discord servers and communities.
+As a tongue-in-cheek nod to the “Apes Together Strong”-meme, which did its rounds in some early NFT projects, our members adopted the “AEPs Together Strong” battle cry.
+This segment of members forms a foundational part of our community, and they have played a key role in wintering Aephia through the big Star Atlas drought of 2022. For that reason, we adopted a variant of their battle cry as the name for our campaign. It’s a hat tip to all of those who have contributed to the success of Aephia!
+Then we altered the wording a bit so that it neatly fits with “Never Alone”. That especially resonated with us here because, at Aephia Industries, you are never alone! We’re playing the game as a well-informed group because we absolutely believe that we are stronger together.
+Never Alone Stronger Together
+A Never Alone Expansion
+Stronger Together is meant to provide additional side-quests to the team’s main storyline. The protagonist in Never Alone is you, but given the wide diversity of players, the lore bits can’t really assume to know too much about you. That also goes for us, though there is one important detail that we do know: You are a member of Aephia Industries. As such, we can incorporate Aephia Industries and its lore into the campaign.
+In that sense, you can also regard Stronger Together as a community-created expansion/DLC to the main game, Never Alone.
+Respectfully
+We’ve gone through all the Never Alone quests to gather as much knowledge as possible on the character of Saand and your encounters together. We have a great deal of respect for the characters and storyline created by Jose and the team. We will do our utmost best to reflect that in our writing.
+We have also talked about this initiative with various members of the Star Atlas team, including, of course, Jose (aka ZeSKK). We consider ourselves fortunate to have received their blessing.
+It’s probably good to know that we have no additional insight or knowledge into where the team is taking the Never Alone story. We literally have the same info as all of you.
+These two latter points imply we will (have to) tread very lightly with the lore bits in our quests. The Stronger Together campaign is meant as a side-quest(line) that stands on itself. It should not interfere with the main storyline at all.
+When Launch?
+Expect to see our campaign go live this Thursday, July 20th! 🥳

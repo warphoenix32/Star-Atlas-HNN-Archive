@@ -1,0 +1,490 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-FE2F30D6E8B18D21",
+    "url_id": "URL-FE2F30D6E8B18D21",
+    "url": "https://thehologram.io/star-atlas-crafting-meta",
+    "title": "What Will Be the First Star Atlas Crafting Meta? » The Hologram",
+    "author": "Krigs",
+    "publisher": "Hologram News Network (HNN)",
+    "publication_identity": "Archived HNN website (thehologram.io)",
+    "published_at": "2022-08-07T20:16:45+00:00",
+    "updated_at": "2022-08-07T20:16:46+00:00",
+    "retrieved_at": "2026-07-13T00:17:23.638861Z",
+    "document_type": "EVENT_COVERAGE",
+    "source_role": "EVENT_COVERAGE",
+    "publication_role": "EVENT_COVERAGE",
+    "classification_rationale": "Publication documents or recaps a named event."
+  },
+  "source_lineage": {
+    "publication": "Archived HNN website (thehologram.io)",
+    "publication_role": "EVENT_COVERAGE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [
+      {
+        "publication": "Pearce C11",
+        "author": "UNKNOWN",
+        "url": "https://play.staratlas.com/market/pearce-c11",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Fimbul BYOS Tankship",
+        "author": "UNKNOWN",
+        "url": "https://play.staratlas.com/market/fimbul-byos-tankship",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Fimbul ECOS Treearrow",
+        "author": "UNKNOWN",
+        "url": "https://play.staratlas.com/market/fimbul-ecos-treearrow",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Pearce C9",
+        "author": "UNKNOWN",
+        "url": "https://play.staratlas.com/market/pearce-c9",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "VZUS ballad",
+        "author": "UNKNOWN",
+        "url": "https://play.staratlas.com/market/vzus-ballad",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Calico Evac",
+        "author": "UNKNOWN",
+        "url": "https://play.staratlas.com/market/calico-evac",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Calico ATS Enforcer",
+        "author": "UNKNOWN",
+        "url": "https://play.staratlas.com/market/calico-ats-enforcer",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Pearce R-6",
+        "author": "UNKNOWN",
+        "url": "https://play.staratlas.com/market/pearce-r6",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Calico Medtech",
+        "author": "UNKNOWN",
+        "url": "https://play.staratlas.com/market/calico-medtech",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Rainbow Chi",
+        "author": "UNKNOWN",
+        "url": "https://play.staratlas.com/market/rainbow-chi",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Fimbul Airbike",
+        "author": "UNKNOWN",
+        "url": "https://play.staratlas.com/market/fimbul-airbike",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://staratlas.com/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [
+      "Krigs"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Pearce C11",
+        "to": "Archived HNN website (thehologram.io)",
+        "relationship": "REPORTS_ON",
+        "url": "https://play.staratlas.com/market/pearce-c11"
+      },
+      {
+        "from": "Fimbul BYOS Tankship",
+        "to": "Archived HNN website (thehologram.io)",
+        "relationship": "REPORTS_ON",
+        "url": "https://play.staratlas.com/market/fimbul-byos-tankship"
+      },
+      {
+        "from": "Fimbul ECOS Treearrow",
+        "to": "Archived HNN website (thehologram.io)",
+        "relationship": "REPORTS_ON",
+        "url": "https://play.staratlas.com/market/fimbul-ecos-treearrow"
+      },
+      {
+        "from": "Pearce C9",
+        "to": "Archived HNN website (thehologram.io)",
+        "relationship": "REPORTS_ON",
+        "url": "https://play.staratlas.com/market/pearce-c9"
+      },
+      {
+        "from": "VZUS ballad",
+        "to": "Archived HNN website (thehologram.io)",
+        "relationship": "REPORTS_ON",
+        "url": "https://play.staratlas.com/market/vzus-ballad"
+      },
+      {
+        "from": "Calico Evac",
+        "to": "Archived HNN website (thehologram.io)",
+        "relationship": "REPORTS_ON",
+        "url": "https://play.staratlas.com/market/calico-evac"
+      },
+      {
+        "from": "Calico ATS Enforcer",
+        "to": "Archived HNN website (thehologram.io)",
+        "relationship": "REPORTS_ON",
+        "url": "https://play.staratlas.com/market/calico-ats-enforcer"
+      },
+      {
+        "from": "Pearce R-6",
+        "to": "Archived HNN website (thehologram.io)",
+        "relationship": "REPORTS_ON",
+        "url": "https://play.staratlas.com/market/pearce-r6"
+      },
+      {
+        "from": "Calico Medtech",
+        "to": "Archived HNN website (thehologram.io)",
+        "relationship": "REPORTS_ON",
+        "url": "https://play.staratlas.com/market/calico-medtech"
+      },
+      {
+        "from": "Rainbow Chi",
+        "to": "Archived HNN website (thehologram.io)",
+        "relationship": "REPORTS_ON",
+        "url": "https://play.staratlas.com/market/rainbow-chi"
+      },
+      {
+        "from": "Fimbul Airbike",
+        "to": "Archived HNN website (thehologram.io)",
+        "relationship": "REPORTS_ON",
+        "url": "https://play.staratlas.com/market/fimbul-airbike"
+      },
+      {
+        "from": "Star Atlas",
+        "to": "Archived HNN website (thehologram.io)",
+        "relationship": "REPORTS_ON",
+        "url": "https://staratlas.com/"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "This event coverage published by Hologram News Network (HNN) on 2022-08-07 documents “What Will Be the First Star Atlas Crafting Meta? » The Hologram.” Its surviving text addresses governance, economy, game development, community, lore, technology. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "What Will Be the First Star Atlas Crafting Meta?\nPosted by Krigs | Aug 7, 2022 | SCREAM, Ships\nThe thirty-second Star Atlas townhall shed some light on upcoming SCREAM crafting mechanics. At the end of the town hall, lead SCREAM game designer Chip revealed that crafting would be tied to, and depend upon, the available crew members docked at any given space station where crafting is occuring. While the specficics were not discussed, any gamer experienced with crafting systems knows that having more available crafting capacity means more throughput. In this case, more production means more potential for earned ATLAS. Thus, the beginnings of the very first Star Atlas meta was born.\nIdeally, players will want to target the ships with the most crew members per ship. Looking across all of the available ship options on the Star Atlas Market, it’s clear that a few ships jump out ahead of the pack to form the Star Atlas Crafting Meta.\nCommander Ships\nIt’s no surprise the current ship with the most crew members is the Pearce C11. This behemoth packs a total of 67 crew members per ship. Transportation of goods and crew are all self contained within one ship. That is not without a significant price tag however, more on that later.\nNot far behind the C11 is the newly released Fimbul BYOS Tankship with 65 crew members. The ship itself looks like a manufacturing powerhouse.\nUnfortunately, the Fimbul ECOS Treearrow only has 46 crew members and is not a recommended crafting ship.\nCapital Ships\nWithin the Capital Ship division, the advantages are noticeably smaller. Still, the Pearce C9 comes out ahead with 24 crew members in its manifest tying with the VZUS ballad\nLarge Ships\nThere are no distinct advantages in this category as all large ships have 6 crew members. However, the Opal Bitboat only has 5 crew members compared to the rest of the large category.\nMedium Ships\nSurprisingly, the Calico Evac has a robust crew of 6, matching the category above it on crew members. Lacking in this department is the Calico ATS Enforcer with only 2 crew members.\nSmall Ships\nPearce R-6 and Calico Medtech each have 3 crews members compared to the category average of 2. Despite its shiny exterior, the Rainbow Chi has only 1 crew position.\nX-Small Ships\nThere were no distinct advantages or disadvantages in this category. Each ship contains two crew.\nXX-Small Ships\nAgain, each ship is equal in that it has only one crew member.\nHowever, the XX-Small ship category may in fact, be the sleeper Star Atlas crafting meta. Let’s compare the Fimbul Airbike to the Pearce C11. A new C11 would cost tens of thousands of dollars, if not more. At full retail value, 67 Fimbul Airbikes (to match the crew size of the C11), would cost a little of one thousand dollars. That’s nearly one-one hundredth of the price for the same effect. Now the drawback to having that many small ships is that it would require a significant LP investment to achieve the hangar capacity required for all of the Airbikes. However, for many players, LP farming may be much more achievable than a six-figure commander ship.\nFull details about SCREAM crafting may change the future of the Star Atlas crafting meta, but for now, all eyes are upon the Fimbul Airbike,\nAbout The Hologram\nThe Hologram is Star Atlas’ first and only independent news network. Our vision is to become the most trusted source of information about Star Atlas and a voice for the whole community. Readers can expect a high standard from our reporting and staff. Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.\nThe Hologram is not endorsed or paid by the Star Atlas team. Any information published by The Hologram nor its writers should be considered as informational in nature and does not constitute any financial advice.\nShare:\nAbout The Author\nKrigs\nRelated Posts\nPearce F4 or the Calico ATS Enforcer, A Comparison\nApril 21, 2022\nBusan Maiden Heart Underdelivers on Launch\nMay 18, 2022\nMystery ship sighted, Star Atlas teases next ship release with giveaway\nApril 18, 2022\nA Bounty Beast: New Fimbul Mamba Redefines Hunter Role\nJune 16, 2022\nLeave a reply Cancel reply\nUpcoming Events\nThere are no upcoming events.\nRecent Posts\nWhat Will Be the First Star Atlas Crafting Meta?\nAug 7, 2022 | SCREAM, Ships\nDragon’s Den Coverage – Crime And Punishment\nAug 7, 2022 | Community\nStar Atlas Townhall 32 Recap – ATLAS Staking and SCREAM News\nAug 7, 2022 | Gameplay, Roadmap Updates\nAPY de POLIS stakeados, alto rendimiento que disminuye con el tiempo\nAug 5, 2022 | Económicas, Español, International\nPOLIS Staking APY, High Yield Diminishing Over Time\nAug 5, 2022 | Economics, Politics\n¿Qué facción de Star Atlas tiene la ventaja? (Parte I)\nAug 4, 2022 | Español, Políticas\nWhich Star Atlas Faction has the Upper Hand? (Part I)\nAug 4, 2022 | Politics\nUpdate – Solana Devs Narrow Down Source of $6M Exploit\nAug 4, 2022 | Crypto\nViaje inaugural: The Hologram contrata a los primero tripulantes del Opal BitBoat\nAug 1, 2022 | Community, Español\nMaiden Voyage: The Hologram Hires First Opal BitBoat Crew Members\nAug 1, 2022 | Community, Featured\nFollow the Holo\nTwitter",
+  "content_hash": "b506bfb1f9d5b46bedca9675e7ef359ab448f6d87e49e087724322c53cf34925",
+  "major_topics": [
+    "governance",
+    "economy",
+    "game development",
+    "community",
+    "lore",
+    "technology"
+  ],
+  "entities": [
+    "ATLAS",
+    "Krigs",
+    "POLIS",
+    "SCREAM",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-FE2F30D6E8B18D21-01",
+      "text": "Ideally, players will want to target the ships with the most crew members per ship.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-FE2F30D6E8B18D21",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-FE2F30D6E8B18D21-02",
+      "text": "Not far behind the C11 is the newly released Fimbul BYOS Tankship with 65 crew members.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-FE2F30D6E8B18D21",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-FE2F30D6E8B18D21-03",
+      "text": "Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-FE2F30D6E8B18D21",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-FE2F30D6E8B18D21-04",
+      "text": "Recent Posts What Will Be the First Star Atlas Crafting Meta?",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-FE2F30D6E8B18D21",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Star Atlas",
+    "POLIS",
+    "ATLAS",
+    "SCREAM"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [
+    "Krigs"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://thehologram.io/author/krigs/",
+      "anchor_text": "Krigs"
+    },
+    {
+      "url": "https://thehologram.io/category/gameplay/scream/",
+      "anchor_text": "SCREAM"
+    },
+    {
+      "url": "https://thehologram.io/category/gameplay/ships/",
+      "anchor_text": "Ships"
+    },
+    {
+      "url": "https://thehologram.io/star-atlas-townhall-32-recap-atlas-staking-and-scream-news/",
+      "anchor_text": "townhall"
+    },
+    {
+      "url": "https://thehologram.io/star-atlas-scream-gameplay-initial-reveal/",
+      "anchor_text": "SCREAM"
+    },
+    {
+      "url": "https://thehologram.io/star-atlas-unveils-new-galactic-marketplace/",
+      "anchor_text": "Market"
+    },
+    {
+      "url": "https://play.staratlas.com/market/pearce-c11",
+      "anchor_text": "Pearce C11"
+    },
+    {
+      "url": "https://play.staratlas.com/market/fimbul-byos-tankship",
+      "anchor_text": "Fimbul BYOS Tankship"
+    },
+    {
+      "url": "https://play.staratlas.com/market/fimbul-ecos-treearrow",
+      "anchor_text": "Fimbul ECOS Treearrow"
+    },
+    {
+      "url": "https://play.staratlas.com/market/pearce-c9",
+      "anchor_text": "Pearce C9"
+    },
+    {
+      "url": "https://play.staratlas.com/market/vzus-ballad",
+      "anchor_text": "VZUS ballad"
+    },
+    {
+      "url": "https://play.staratlas.com/market/calico-evac",
+      "anchor_text": "Calico Evac"
+    },
+    {
+      "url": "https://play.staratlas.com/market/calico-ats-enforcer",
+      "anchor_text": "Calico ATS Enforcer"
+    },
+    {
+      "url": "https://play.staratlas.com/market/pearce-r6",
+      "anchor_text": "Pearce R-6"
+    },
+    {
+      "url": "https://play.staratlas.com/market/calico-medtech",
+      "anchor_text": "Calico Medtech"
+    },
+    {
+      "url": "https://play.staratlas.com/market/rainbow-chi",
+      "anchor_text": "Rainbow Chi"
+    },
+    {
+      "url": "https://play.staratlas.com/market/fimbul-airbike",
+      "anchor_text": "Fimbul Airbike"
+    },
+    {
+      "url": "https://thehologram.io/scream-fleet-limits-confirmed/",
+      "anchor_text": "LP investment"
+    },
+    {
+      "url": "https://thehologram.io/",
+      "anchor_text": "The Hologram"
+    },
+    {
+      "url": "https://staratlas.com/",
+      "anchor_text": "Star Atlas"
+    },
+    {
+      "url": "http://www.facebook.com/sharer.php?u=https://thehologram.io/star-atlas-crafting-meta/&t=What%20Will%20Be%20the%20First%20Star%20Atlas%20Crafting%20Meta%3F",
+      "anchor_text": ""
+    },
+    {
+      "url": "http://twitter.com/intent/tweet?text=What%20Will%20Be%20the%20First%20Star%20Atlas%20Crafting%20Meta%3F%20https://thehologram.io/star-atlas-crafting-meta/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://plus.google.com/share?url=https://thehologram.io/star-atlas-crafting-meta/&t=What%20Will%20Be%20the%20First%20Star%20Atlas%20Crafting%20Meta%3F",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://twitter.com/Krigsfoniks",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/pearce-f4-or-the-calico-ats-enforcer/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/busan-maiden-heart-underdelivers-on-launch/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/mystery-ship-sighted-star-atlas-teases-next-ship-release-with-giveaway/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/new-fimbul-mamba-review/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/star-atlas-crafting-meta/",
+      "anchor_text": "Cancel reply"
+    },
+    {
+      "url": "https://thehologram.io/dragons-den-coverage-crime-and-punishment/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/category/community/",
+      "anchor_text": "Community"
+    },
+    {
+      "url": "https://thehologram.io/category/gameplay/",
+      "anchor_text": "Gameplay"
+    },
+    {
+      "url": "https://thehologram.io/category/gameplay/roadmap-updates/",
+      "anchor_text": "Roadmap Updates"
+    },
+    {
+      "url": "https://thehologram.io/apy-de-polis-stakeados-alto-rendimiento-que-disminuye-con-el-tiempo/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/category/espanol/economicas/",
+      "anchor_text": "Económicas"
+    },
+    {
+      "url": "https://thehologram.io/category/espanol/",
+      "anchor_text": "Español"
+    },
+    {
+      "url": "https://thehologram.io/category/international/",
+      "anchor_text": "International"
+    },
+    {
+      "url": "https://thehologram.io/polis-staking-apy/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/category/economics/",
+      "anchor_text": "Economics"
+    },
+    {
+      "url": "https://thehologram.io/category/politics/",
+      "anchor_text": "Politics"
+    },
+    {
+      "url": "https://thehologram.io/que-faccion-de-star-atlas-tiene-la-ventaja-parte-i/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/category/espanol/politicas/",
+      "anchor_text": "Políticas"
+    },
+    {
+      "url": "https://thehologram.io/which-star-atlas-faction-has-the-upper-hand-part-i/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/2022-solana-exploit/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/category/crypto/",
+      "anchor_text": "Crypto"
+    },
+    {
+      "url": "https://thehologram.io/viaje-inaugural/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/the-hologram-hires-first-opal-bitboat-crew-members/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/category/featured/",
+      "anchor_text": "Featured"
+    },
+    {
+      "url": "https://twitter.com/Hologram_News",
+      "anchor_text": ""
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "https://web.archive.org/web/20220807201647id_/https://thehologram.io/star-atlas-crafting-meta/",
+    "final_url": "https://web.archive.org/web/20220807201647id_/https://thehologram.io/star-atlas-crafting-meta/",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "response_size": 172036,
+    "elapsed_ms": 583,
+    "retrieval_mode": "INTERNET_ARCHIVE",
+    "archive_capture": {
+      "timestamp": "20220807201647",
+      "original": "https://thehologram.io/star-atlas-crafting-meta/",
+      "digest": "JD3K4POB7PADG4ODHC3GQJZGKZJZN2LY"
+    }
+  }
+}

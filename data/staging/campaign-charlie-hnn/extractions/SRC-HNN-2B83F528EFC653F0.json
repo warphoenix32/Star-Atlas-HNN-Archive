@@ -1,0 +1,180 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-2B83F528EFC653F0",
+    "url_id": "URL-2B83F528EFC653F0",
+    "url": "https://hologramnews.com/ecos-holdings-acquires-superhpoenix-titan",
+    "title": "Super Phoenix DAO Acquires Star Atlas Superphoenix Titan",
+    "author": "UNKNOWN",
+    "publisher": "Hologram News Network (HNN)",
+    "publication_identity": "HNN website (hologramnews.com)",
+    "published_at": "2024-04-10T11:41:14+00:00",
+    "updated_at": "2024-04-11T00:36:47+00:00",
+    "retrieved_at": "2026-07-13T00:06:52.328321Z",
+    "document_type": "ORIGINAL_REPORTING",
+    "source_role": "ORIGINAL_REPORTING",
+    "publication_role": "ORIGINAL_REPORTING",
+    "classification_rationale": "Publication reports a development without explicit interview, editorial, investigative, event, or reference framing."
+  },
+  "source_lineage": {
+    "publication": "HNN website (hologramnews.com)",
+    "publication_role": "ORIGINAL_REPORTING",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [
+      {
+        "publication": "https://superphoenixdao.com",
+        "author": "UNKNOWN",
+        "url": "https://superphoenixdao.com",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [],
+    "attribution_chain": [
+      {
+        "from": "https://superphoenixdao.com",
+        "to": "HNN website (hologramnews.com)",
+        "relationship": "REPORTS_ON",
+        "url": "https://superphoenixdao.com"
+      }
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "This original reporting published by Hologram News Network (HNN) on 2024-04-10 documents “Super Phoenix DAO Acquires Star Atlas Superphoenix Titan.” Its surviving text addresses governance, economy, game development, community, technology. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "Press Release: ECOS Holdings acquires Superphoenix Titan\nBy Hologram News NetworkPublished On: 10 April 2024\nSuperPhoenix DAO Offers Dedicated Ownership of the Star Atlas Superphoenix Titan\nPress Release\nFor Immediate Release\nGalia, April 10, 2024 – ECOS SP Holdings, LLC is embarking on a visionary mission to expand the virtual economy of the Star Atlas metaverse while offering a unique collectivized ownership to the citizens of Star Atlas. ECOS SP Holdings is announcing that the company has entered into and finalized a purchase agreement with ATMTA, Inc to acquire the ECOS Superphoenix Titan.\nThe Superphoenix Titan will be governed by the Super Phoenix DAO, comprised of members of the Star Atlas Community. Across several phases of development, the Superphoenix Titan will offer development and growth opportunities for the Super Phoenix DAO, representing one of the single most decentralized DAO efforts dedicated to the advancement of both the Star Atlas ecosystem and the Super Phoenix DAO.\nAs Star Atlas further develops it’s Unreal Engine 5 gameplay environment, the Superphoenix Titan is positioned to be one of the greatest social and entertainment venues in the digital environment. In the future, the Superphoenix will host several activities including arenas, theatres, hotels, social hubs, and digital commerce attractions. The Superphoenix aims to be a hub of social activity within the Star Atlas metaverse, with additional incentives for Super Phoenix DAO members. Membership to the Super Phoenix DAO will be represented by a number of Ember DAO tokens and non-fungible tokens representing exclusive or VIP access to the Superphoenix ship and its venues in the Unreal Engine 5 environment.\nThe Super Phoenix DAO is founded by Craig Mahoney aka Njord and supported by an amazing team with a solely dedicated commitment to Star Atlas. Acquisition of the Superphoenix Titan presents an opportunity directly to the Star Atlas community to partake in ownership of one of the largest in-game digital assets ever made.\nFor more information on the Super Phoenix DAO follow on X or join the conversation in Discord.\nCompany information.\nWebsite https://superphoenixdao.com\nX @SuperPhoenixDAO\nAbout the Author: Hologram News Network\nThe Hologram is Star Atlas’ first and only independent news network. HNN's goal is to deliver the most trusted source of information about Star Atlas and be a voice for the whole community.Simultaneously, HNN seeks to enable community driven content creation by supporting and sponsoring emerging creators, writers, and community members.Readers can expect a high standard from our reporting and staff.\nlatest video\neditor's pick\nDiscover Star Atlas Alpha Content Pipelines at Solana Breakpoint 2022\nUnlocking Star Atlas Secrets: CEO Michael Wagner’s CoinDesk.TV Exclusive\nnews via inbox\nGet news from the Hologram first\nVisit Galia Merchants",
+  "content_hash": "3179bc1cda40958339e0c5c10181e0fccad154cf8dfbd3d8b72683ab95b7c818",
+  "major_topics": [
+    "governance",
+    "economy",
+    "game development",
+    "community",
+    "technology"
+  ],
+  "entities": [
+    "ATLAS",
+    "Michael Wagner",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-2B83F528EFC653F0-01",
+      "text": "The Superphoenix Titan will be governed by the Super Phoenix DAO, comprised of members of the Star Atlas Community.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-2B83F528EFC653F0",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-2B83F528EFC653F0-02",
+      "text": "Across several phases of development, the Superphoenix Titan will offer development and growth opportunities for the Super Phoenix DAO, representing one of the single most decentralized DAO efforts dedicated to the advancement of both the Star Atlas ecosystem and the Super Phoenix DAO.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-2B83F528EFC653F0",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-2B83F528EFC653F0-03",
+      "text": "In the future, the Superphoenix will host several activities including arenas, theatres, hotels, social hubs, and digital commerce attractions.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-2B83F528EFC653F0",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-2B83F528EFC653F0-04",
+      "text": "Membership to the Super Phoenix DAO will be represented by a number of Ember DAO tokens and non-fungible tokens representing exclusive or VIP access to the Superphoenix ship and its venues in the Unreal Engine 5 environment.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-2B83F528EFC653F0",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Star Atlas",
+    "ATLAS"
+  ],
+  "governance_items": [
+    "Star Atlas governance / DAO"
+  ],
+  "lore_items": [],
+  "actors": [
+    "Michael Wagner"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://hologramnews.com/ecos-holdings-acquires-superhpoenix-titan/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://hologramnews.com/author/hologramnews-com/",
+      "anchor_text": "Hologram News Network"
+    },
+    {
+      "url": "https://hologramnews.com/www.hologramnews.com",
+      "anchor_text": "Press Release"
+    },
+    {
+      "url": "https://superphoenixdao.com",
+      "anchor_text": "https://superphoenixdao.com"
+    },
+    {
+      "url": "https://twitter.com/SuperPhoenixDAO",
+      "anchor_text": "@SuperPhoenixDAO"
+    },
+    {
+      "url": "https://hologramnews.com/discover-star-atlas-alpha-content-pipelines-at-solana-breakpoint-2022/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://hologramnews.com/unlocking-star-atlas-secrets-ceo-michael-wagners-coindesk-tv-exclusive/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://hologramnews.com/galia-merchants/",
+      "anchor_text": "Visit Galia Merchants"
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "UNKNOWN",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Author is not explicit in the surviving publication metadata."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://web.archive.org/web/20240529091404id_/https://hologramnews.com/ecos-holdings-acquires-superhpoenix-titan/",
+    "final_url": "https://web.archive.org/web/20240529091404id_/https://hologramnews.com/ecos-holdings-acquires-superhpoenix-titan/",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "response_size": 205870,
+    "elapsed_ms": 1455,
+    "retrieval_mode": "INTERNET_ARCHIVE",
+    "archive_capture": {
+      "timestamp": "20240529091404",
+      "original": "https://hologramnews.com/ecos-holdings-acquires-superhpoenix-titan/",
+      "digest": "2KLDPTOWUQFBEOEFHWINO6N7OVQPX6GY"
+    }
+  }
+}

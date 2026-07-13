@@ -1,0 +1,161 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-B4C5F178762DC6F4",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47053525126419-How-do-I-create-a-buy-or-sell-order-in-SAGE",
+    "title": "How do I create a buy or sell order in SAGE?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-03T13:17:12Z",
+    "updated_at": "2025-12-08T18:24:38Z",
+    "original_date_text": "2025-12-03T13:17:12Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “How do I create a buy or sell order in SAGE?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "In SAGE, players have the opportunity to interact with Local Markets, enabling them to buy and sell items seamlessly within the game. This guide offers a comprehensive, step-by-step walkthrough for setting up both buy and sell orders.\nAccessing the Local Market:\nNavigate to a Starbase: Travel to any starbase within the Galia Expanse. While Central Space Stations (CSS) such as ONI CSS, USTUR CSS, and MUD CSS provide access to the Galactic Marketplace, other starbases offer the Local Market option\nEnter the Market: Once at the starbase, select the \"Local Market\" or \"Galactic Market\" option from the available menu\nCreating a Buy or Sell Order:\nSelect the Item: Browse through the list of items or use the search bar to locate the specific item you wish to trade\nInitiate the Order: Click on \"Create an Item Order\" to begin the process.\nChoose Order Type: In the order creation window, select either \"Buy this item\" or \"Sell this item,\" depending on your intent\nEnter Details:\nQuantity: Specify the number of units you wish to buy or sell.\nPrice: Set the price per unit for your order.\nPlace the Order: Click on \"Place Buy Order\" or \"Place Sell Order\" to submit your order.\nConfirm Transaction: Approve the transaction through your connected wallet to finalize the order.\nManaging Your Orders:\nView Active Orders: After placing an order, you can monitor its status in the \"My Open Local Orders\" section within the Local Market interface",
+  "content_hash": "38f6af492946576e723bb41030d690dedc0e11df0b27e148214d06db34295418",
+  "entities": [
+    "Galactic Marketplace",
+    "SAGE"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-B4C5F178762DC6F4-01",
+      "text": "In SAGE, players have the opportunity to interact with Local Markets, enabling them to buy and sell items seamlessly within the game.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B4C5F178762DC6F4",
+      "publication_date": "2025-12-03T13:17:12Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-B4C5F178762DC6F4-02",
+      "text": "This guide offers a comprehensive, step-by-step walkthrough for setting up both buy and sell orders.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B4C5F178762DC6F4",
+      "publication_date": "2025-12-03T13:17:12Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-B4C5F178762DC6F4-03",
+      "text": "Accessing the Local Market: Navigate to a Starbase: Travel to any starbase within the Galia Expanse.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B4C5F178762DC6F4",
+      "publication_date": "2025-12-03T13:17:12Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-B4C5F178762DC6F4-04",
+      "text": "Choose Order Type: In the order creation window, select either \"Buy this item\" or \"Sell this item,\" depending on your intent Enter Details: Quantity: Specify the number of units you wish to buy or sell.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B4C5F178762DC6F4",
+      "publication_date": "2025-12-03T13:17:12Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-B4C5F178762DC6F4-05",
+      "text": "Price: Set the price per unit for your order.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B4C5F178762DC6F4",
+      "publication_date": "2025-12-03T13:17:12Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-B4C5F178762DC6F4-06",
+      "text": "Place the Order: Click on \"Place Buy Order\" or \"Place Sell Order\" to submit your order.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B4C5F178762DC6F4",
+      "publication_date": "2025-12-03T13:17:12Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-B4C5F178762DC6F4-07",
+      "text": "Confirm Transaction: Approve the transaction through your connected wallet to finalize the order.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B4C5F178762DC6F4",
+      "publication_date": "2025-12-03T13:17:12Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-B4C5F178762DC6F4-08",
+      "text": "Managing Your Orders: View Active Orders: After placing an order, you can monitor its status in the \"My Open Local Orders\" section within the Local Market interface",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B4C5F178762DC6F4",
+      "publication_date": "2025-12-03T13:17:12Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "SAGE",
+    "Galactic Marketplace"
+  ],
+  "governance_items": [],
+  "lore_items": [
+    "MUD",
+    "ONI",
+    "Ustur",
+    "Galia"
+  ],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47053525126419-How-do-I-create-a-buy-or-sell-order-in-SAGE",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.372901Z"
+  }
+}

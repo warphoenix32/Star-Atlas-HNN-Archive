@@ -1,0 +1,257 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-9B647EF49E49FB58",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47061462429843-What-is-a-crypto-wallet",
+    "title": "What is a crypto wallet?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-03T17:01:55Z",
+    "updated_at": "2025-12-08T18:23:24Z",
+    "original_date_text": "2025-12-03T17:01:55Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://backpack.app/",
+        "anchor_text": "Backpack"
+      },
+      {
+        "url": "https://phantom.app",
+        "anchor_text": "Phantom"
+      },
+      {
+        "url": "https://www.solflare.com/",
+        "anchor_text": "Solflare"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “What is a crypto wallet?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "A crypto wallet is a tool either an app, browser extension, or hardware device that lets you securely access, store, and manage digital assets like cryptocurrencies and NFTs on the blockchain.\nHow It Works\nUnlike a traditional wallet that stores cash or cards, crypto wallets don’t actually store your funds. Your assets (like ATLAS, POLIS, or NFTs) live on the blockchain. The wallet gives you access to them by managing two critical elements:\nPublic Key (Wallet Address): Like an IBAN or account number, this is what others use to send you crypto or NFTs.\nPrivate Key: A secret password that proves ownership of the assets. It must be kept secure anyone with it can control your wallet.\nTo send or receive digital items, your wallet uses this private key to sign transactions on your behalf.\nTypes of Wallets\nHot Wallets (Software)These are connected to the internet and easy to use:\nBrowser extensions: e.g. Backpack, Phantom, Solflare\nMobile apps: iOS and Android wallets that let you manage assets on the go\nCold Wallets (Hardware)Offline devices like Ledger that provide high security by storing your keys offline. Ideal for long-term holders.\nWhat About NFTs?\nTo interact with NFTs (like ships, crew, and collectibles in Star Atlas), you’ll need a wallet that supports the blockchain they’re built on in our case, Solana.\nThat’s why wallets like Backpack, Phantom, or Solflare are ideal for Star Atlas. They let you view, trade, or connect your NFTs directly to our games.\nWhy It Matters for Star Atlas\nYour wallet is your gateway to the Star Atlas metaverse. You’ll use it to:\nConnect to browser-based games like SAGE\nAccess and manage your NFT assets (ships, crew, etc.)\nFund your wallet with SOL, ATLAS, or POLIS\nVote and earn rewards in the Star Atlas DAO\nLegal Note\nFor more details, see the Star Atlas Terms of Use and Privacy Policy.",
+  "content_hash": "fd9d96a084fe173f74ee98abcfcd9d16dbd6f0b71af41db0135fee4a0fa17d1c",
+  "entities": [
+    "ATLAS",
+    "Crew",
+    "POLIS",
+    "SAGE",
+    "Solana",
+    "Star Atlas DAO"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-9B647EF49E49FB58-01",
+      "text": "A crypto wallet is a tool either an app, browser extension, or hardware device that lets you securely access, store, and manage digital assets like cryptocurrencies and NFTs on the blockchain.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-9B647EF49E49FB58",
+      "publication_date": "2025-12-03T17:01:55Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-9B647EF49E49FB58-02",
+      "text": "How It Works Unlike a traditional wallet that stores cash or cards, crypto wallets don’t actually store your funds.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-9B647EF49E49FB58",
+      "publication_date": "2025-12-03T17:01:55Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-9B647EF49E49FB58-03",
+      "text": "Your assets (like ATLAS, POLIS, or NFTs) live on the blockchain.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-9B647EF49E49FB58",
+      "publication_date": "2025-12-03T17:01:55Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-9B647EF49E49FB58-04",
+      "text": "The wallet gives you access to them by managing two critical elements: Public Key (Wallet Address): Like an IBAN or account number, this is what others use to send you crypto or NFTs.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-9B647EF49E49FB58",
+      "publication_date": "2025-12-03T17:01:55Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-9B647EF49E49FB58-05",
+      "text": "Private Key: A secret password that proves ownership of the assets.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-9B647EF49E49FB58",
+      "publication_date": "2025-12-03T17:01:55Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-9B647EF49E49FB58-06",
+      "text": "It must be kept secure anyone with it can control your wallet.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-9B647EF49E49FB58",
+      "publication_date": "2025-12-03T17:01:55Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-9B647EF49E49FB58-07",
+      "text": "To send or receive digital items, your wallet uses this private key to sign transactions on your behalf.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-9B647EF49E49FB58",
+      "publication_date": "2025-12-03T17:01:55Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-9B647EF49E49FB58-08",
+      "text": "Types of Wallets Hot Wallets (Software)These are connected to the internet and easy to use: Browser extensions: e.g.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-9B647EF49E49FB58",
+      "publication_date": "2025-12-03T17:01:55Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-9B647EF49E49FB58-09",
+      "text": "Backpack, Phantom, Solflare Mobile apps: iOS and Android wallets that let you manage assets on the go Cold Wallets (Hardware)Offline devices like Ledger that provide high security by storing your keys offline.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-9B647EF49E49FB58",
+      "publication_date": "2025-12-03T17:01:55Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-9B647EF49E49FB58-10",
+      "text": "To interact with NFTs (like ships, crew, and collectibles in Star Atlas), you’ll need a wallet that supports the blockchain they’re built on in our case, Solana.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-9B647EF49E49FB58",
+      "publication_date": "2025-12-03T17:01:55Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-9B647EF49E49FB58-11",
+      "text": "That’s why wallets like Backpack, Phantom, or Solflare are ideal for Star Atlas.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-9B647EF49E49FB58",
+      "publication_date": "2025-12-03T17:01:55Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-9B647EF49E49FB58-12",
+      "text": "They let you view, trade, or connect your NFTs directly to our games.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-9B647EF49E49FB58",
+      "publication_date": "2025-12-03T17:01:55Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-9B647EF49E49FB58-13",
+      "text": "Why It Matters for Star Atlas Your wallet is your gateway to the Star Atlas metaverse.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-9B647EF49E49FB58",
+      "publication_date": "2025-12-03T17:01:55Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-9B647EF49E49FB58-14",
+      "text": "You’ll use it to: Connect to browser-based games like SAGE Access and manage your NFT assets (ships, crew, etc.) Fund your wallet with SOL, ATLAS, or POLIS Vote and earn rewards in the Star Atlas DAO Legal Note For more details, see the Star Atlas Terms of Use and Privacy Policy.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-9B647EF49E49FB58",
+      "publication_date": "2025-12-03T17:01:55Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "SAGE",
+    "POLIS",
+    "ATLAS",
+    "Crew"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [
+    "Star Atlas DAO",
+    "Solana"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://backpack.app/",
+      "anchor_text": "Backpack"
+    },
+    {
+      "url": "https://phantom.app",
+      "anchor_text": "Phantom"
+    },
+    {
+      "url": "https://www.solflare.com/",
+      "anchor_text": "Solflare"
+    }
+  ],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47061462429843-What-is-a-crypto-wallet",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.176056Z"
+  }
+}

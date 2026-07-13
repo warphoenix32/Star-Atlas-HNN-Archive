@@ -1,0 +1,171 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-E6B4CD3C8CC15371",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47061414989843-How-to-Earn-POLIS-in-Star-Atlas",
+    "title": "How to Earn POLIS in Star Atlas",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-03T17:01:44Z",
+    "updated_at": "2025-12-08T18:23:32Z",
+    "original_date_text": "2025-12-03T17:01:44Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://govern.staratlas.com/lockers/polis",
+        "anchor_text": "POLIS Locker"
+      },
+      {
+        "url": "https://atmta.zendesk.com/hc/en-us/articles/47021293641491",
+        "anchor_text": "Learn how POLIS locking works"
+      },
+      {
+        "url": "https://govern.staratlas.com/lockers/atlas",
+        "anchor_text": "ATLAS Locker"
+      },
+      {
+        "url": "https://atmta.zendesk.com/hc/en-us/articles/47021326216851",
+        "anchor_text": "Learn how the ATLAS locker works"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “How to Earn POLIS in Star Atlas.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "POLIS is the governance token of Star Atlas, giving players voting power and influence over the future of the ecosystem.\nYou can earn POLIS passively by locking either POLIS or ATLAS tokens:\nLock POLIS in the POLIS Locker\nThis is the most efficient way to earn more POLIS over time.\nEarn daily POLIS rewards\nVoting power (PVP) increases with the amount and duration of your lock\nRewards are distributed proportionally to your share of total PVP\nEmissions are fixed and scheduled until 2030\n🔗 Learn how POLIS locking works\nLock ATLAS in the ATLAS Locker\nWhile primarily used for fee discounts on the Star Atlas Marketplace and SAGE’s Local Marketplace, locking ATLAS also grants bonus POLIS rewards.\nEarn daily POLIS rewards (lower than with POLIS locking)\nUnlock up to 85% fee reduction based on your lock tier\nCombine savings with passive earnings\n🔗 Learn how the ATLAS locker works\nWhy Earn POLIS?\nUnlock governance participation in the Star Atlas DAO\nVote on proposals that shape the future of Star Atlas\nAccumulate more POLIS through passive rewards",
+  "content_hash": "91cba8cfe6ed69a9f0dfe66bac576b1e5201c8b720835d100c01e9c77e252b51",
+  "entities": [
+    "ATLAS",
+    "POLIS",
+    "SAGE",
+    "Star Atlas DAO"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-E6B4CD3C8CC15371-01",
+      "text": "POLIS is the governance token of Star Atlas, giving players voting power and influence over the future of the ecosystem.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E6B4CD3C8CC15371",
+      "publication_date": "2025-12-03T17:01:44Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E6B4CD3C8CC15371-02",
+      "text": "You can earn POLIS passively by locking either POLIS or ATLAS tokens: Lock POLIS in the POLIS Locker This is the most efficient way to earn more POLIS over time.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E6B4CD3C8CC15371",
+      "publication_date": "2025-12-03T17:01:44Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E6B4CD3C8CC15371-03",
+      "text": "Earn daily POLIS rewards Voting power (PVP) increases with the amount and duration of your lock Rewards are distributed proportionally to your share of total PVP Emissions are fixed and scheduled until 2030 🔗 Learn how POLIS locking works Lock ATLAS in the ATLAS Locker While primarily used for fee discounts on the Star Atlas Marketplace and SAGE’s Local Marketplace, locking ATLAS also grants bonus POLIS rewards.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E6B4CD3C8CC15371",
+      "publication_date": "2025-12-03T17:01:44Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E6B4CD3C8CC15371-04",
+      "text": "Earn daily POLIS rewards (lower than with POLIS locking) Unlock up to 85% fee reduction based on your lock tier Combine savings with passive earnings 🔗 Learn how the ATLAS locker works Why Earn POLIS?",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E6B4CD3C8CC15371",
+      "publication_date": "2025-12-03T17:01:44Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E6B4CD3C8CC15371-05",
+      "text": "Unlock governance participation in the Star Atlas DAO Vote on proposals that shape the future of Star Atlas Accumulate more POLIS through passive rewards",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E6B4CD3C8CC15371",
+      "publication_date": "2025-12-03T17:01:44Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "SAGE",
+    "POLIS",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [
+    "Star Atlas DAO"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://govern.staratlas.com/lockers/polis",
+      "anchor_text": "POLIS Locker"
+    },
+    {
+      "url": "https://atmta.zendesk.com/hc/en-us/articles/47021293641491",
+      "anchor_text": "Learn how POLIS locking works"
+    },
+    {
+      "url": "https://govern.staratlas.com/lockers/atlas",
+      "anchor_text": "ATLAS Locker"
+    },
+    {
+      "url": "https://atmta.zendesk.com/hc/en-us/articles/47021326216851",
+      "anchor_text": "Learn how the ATLAS locker works"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://govern.staratlas.com/lockers/polis",
+      "anchor_text": "POLIS Locker"
+    },
+    {
+      "url": "https://govern.staratlas.com/lockers/atlas",
+      "anchor_text": "ATLAS Locker"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47061414989843-How-to-Earn-POLIS-in-Star-Atlas",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.196920Z"
+  }
+}

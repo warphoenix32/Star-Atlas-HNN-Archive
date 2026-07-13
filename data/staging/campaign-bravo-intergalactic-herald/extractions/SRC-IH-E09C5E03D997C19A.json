@@ -1,0 +1,282 @@
+{
+  "source": {
+    "source_id": "SRC-IH-E09C5E03D997C19A",
+    "url_id": "URL-E09C5E03D997C19A",
+    "url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-57/",
+    "inventory_url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-57",
+    "title": "Star Atlas Weekly News Recap #57",
+    "author": "Intergalactic Herald",
+    "publisher": "Intergalactic Herald",
+    "published_at": "2023-04-23T17:00:01",
+    "updated_at": "2023-04-22T15:52:20",
+    "retrieved_at": "2026-07-12T22:08:49.019806Z",
+    "document_type": "NEWSLETTER",
+    "source_role": "CURATED_SUMMARY",
+    "source_classification": "CURATED_SUMMARY",
+    "classification_rationale": "Weekly newsletter/recap aggregates developments and linked sources.",
+    "wordpress_type": "posts"
+  },
+  "summary": {
+    "neutral_abstract": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week. We are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us. Star Atlas updates : The Leak-end episode 4 ; UE5 Gameplay and a dive into",
+    "historical_value": "Contemporary Intergalactic Herald publication preserved with role and attribution boundaries.",
+    "current_validity_warning": "Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources."
+  },
+  "article_text": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week.\nWe are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us.\nSTAR ATLAS #175 Update #17 & AIRDROPs\nMetaVerse Explorer posted a video on the latest Star Atlas updates.\nThe Atlas Star ✧ Issue #17\nStar Atlas published their latest updates on Medium.\nUE5 Spacecraft of Orion Showcase\nGladiator posted a video of some Star Atlas ships in the Showroom.\nMetaverse Nomads #90 Star Atlas Roadmap Updates\nMetaverse Nomads posted a video of their weekly Star Atlas live stream.\nWEEKLY STAR ATLAS NEWSLETTER #75\nAephia published their latest Star Atlas newsletter.\n6 Star Atlas News Headlines You Missed This Week\nThe Hologram published an article about latest Star Atlas headlines.\nStar Atlas What Are Claim Stakes and How Do I Use It?\nOCG Thor posted a video explaining what Star Atlas Claim Stakes are.\nSTAR ATLAS #176 Sage Or Showroom?\nMetaVerse Explorer posted a video with more Star Atlas updates.\nStar Atlas updates : The Leak-end episode 4 ; UE5 Gameplay and a dive into careers\nPockThePirate posted a video with the latest Star Atlas updates.",
+  "content_hash": "efabe53eec257b14a4723cc20d81dfdd2f4d964acb472608b60889184671358e",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [],
+  "external_sources": [
+    {
+      "url": "https://www.youtube.com/watch?v=urV0xrhWiyY",
+      "anchor_text": "latest Star Atlas updates"
+    },
+    {
+      "url": "https://medium.com/star-atlas/the-atlas-star-issue-17-4566033521a9",
+      "anchor_text": "latest updates"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Kvq209y3OtQ",
+      "anchor_text": "Star Atlas ships in the Showroom"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=0fYVZd9ZyBU",
+      "anchor_text": "Star Atlas live stream"
+    },
+    {
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-75/",
+      "anchor_text": "latest Star Atlas newsletter"
+    },
+    {
+      "url": "https://medium.com/blockchain-biz/6-star-atlas-news-headlines-you-missed-this-week-711d57ca7ddf",
+      "anchor_text": "latest Star Atlas headlines"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Amhcxo97uX4",
+      "anchor_text": "Star Atlas Claim Stakes"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=5e8CMo65sts",
+      "anchor_text": "Star Atlas updates"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=1uapQ0XsXFY",
+      "anchor_text": "latest Star Atlas updates"
+    }
+  ],
+  "primary_source_relationships": [
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=urV0xrhWiyY",
+      "anchor_text": "latest Star Atlas updates"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://medium.com/star-atlas/the-atlas-star-issue-17-4566033521a9",
+      "anchor_text": "latest updates"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=Kvq209y3OtQ",
+      "anchor_text": "Star Atlas ships in the Showroom"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=0fYVZd9ZyBU",
+      "anchor_text": "Star Atlas live stream"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-75/",
+      "anchor_text": "latest Star Atlas newsletter"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://medium.com/blockchain-biz/6-star-atlas-news-headlines-you-missed-this-week-711d57ca7ddf",
+      "anchor_text": "latest Star Atlas headlines"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=Amhcxo97uX4",
+      "anchor_text": "Star Atlas Claim Stakes"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=5e8CMo65sts",
+      "anchor_text": "Star Atlas updates"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=1uapQ0XsXFY",
+      "anchor_text": "latest Star Atlas updates"
+    }
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Verify which outbound links are primary sources and preserve creator attribution during promotion."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-57&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 4731,
+    "elapsed_ms": 1786,
+    "attempts": [
+      {
+        "endpoint": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-57&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "http_status": 200,
+        "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-57&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "content_type": "application/json; charset=UTF-8",
+        "response_size": 4731,
+        "elapsed_ms": 1786
+      }
+    ]
+  },
+  "source_lineage": {
+    "publication": "Intergalactic Herald",
+    "publication_role": "CURATED_SUMMARY",
+    "relationship": "CURATED_SUMMARY_OF",
+    "primary_sources": [
+      {
+        "publication": "latest Star Atlas updates",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=urV0xrhWiyY",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest Star Atlas updates"
+      },
+      {
+        "publication": "latest updates",
+        "author": "UNKNOWN",
+        "url": "https://medium.com/star-atlas/the-atlas-star-issue-17-4566033521a9",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest updates"
+      },
+      {
+        "publication": "Star Atlas ships in the Showroom",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=Kvq209y3OtQ",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas ships in the Showroom"
+      },
+      {
+        "publication": "Star Atlas live stream",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=0fYVZd9ZyBU",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas live stream"
+      },
+      {
+        "publication": "latest Star Atlas newsletter",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-75/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest Star Atlas newsletter"
+      },
+      {
+        "publication": "latest Star Atlas headlines",
+        "author": "UNKNOWN",
+        "url": "https://medium.com/blockchain-biz/6-star-atlas-news-headlines-you-missed-this-week-711d57ca7ddf",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest Star Atlas headlines"
+      },
+      {
+        "publication": "Star Atlas Claim Stakes",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=Amhcxo97uX4",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas Claim Stakes"
+      },
+      {
+        "publication": "Star Atlas updates",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=5e8CMo65sts",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas updates"
+      },
+      {
+        "publication": "latest Star Atlas updates",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=1uapQ0XsXFY",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest Star Atlas updates"
+      }
+    ],
+    "secondary_sources": [],
+    "original_creators": [
+      "Aephia"
+    ],
+    "attribution_chain": [
+      {
+        "from": "latest Star Atlas updates",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=urV0xrhWiyY"
+      },
+      {
+        "from": "latest updates",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://medium.com/star-atlas/the-atlas-star-issue-17-4566033521a9"
+      },
+      {
+        "from": "Star Atlas ships in the Showroom",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=Kvq209y3OtQ"
+      },
+      {
+        "from": "Star Atlas live stream",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=0fYVZd9ZyBU"
+      },
+      {
+        "from": "latest Star Atlas newsletter",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-75/"
+      },
+      {
+        "from": "latest Star Atlas headlines",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://medium.com/blockchain-biz/6-star-atlas-news-headlines-you-missed-this-week-711d57ca7ddf"
+      },
+      {
+        "from": "Star Atlas Claim Stakes",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=Amhcxo97uX4"
+      },
+      {
+        "from": "Star Atlas updates",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=5e8CMo65sts"
+      },
+      {
+        "from": "latest Star Atlas updates",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=1uapQ0XsXFY"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  }
+}

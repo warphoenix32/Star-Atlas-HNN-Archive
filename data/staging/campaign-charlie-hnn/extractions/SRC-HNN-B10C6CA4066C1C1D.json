@@ -1,0 +1,253 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-B10C6CA4066C1C1D",
+    "url_id": "URL-B10C6CA4066C1C1D",
+    "url": "https://thehologram.io/star-atlas-ash-details-upcoming-releases-on-the-lit-late-show",
+    "title": "Star Atlas' Ash Details Upcoming Releases On The LIT Late Show",
+    "author": "Krigs",
+    "publisher": "Hologram News Network (HNN)",
+    "publication_identity": "Archived HNN website (thehologram.io)",
+    "published_at": "2022-07-15T03:41:33+00:00",
+    "updated_at": "2022-07-15T03:43:41+00:00",
+    "retrieved_at": "2026-07-13T00:09:20.424784Z",
+    "document_type": "EDITORIAL",
+    "source_role": "EDITORIAL",
+    "publication_role": "EDITORIAL",
+    "classification_rationale": "Publication uses explicit commentary, prediction, or editorial framing."
+  },
+  "source_lineage": {
+    "publication": "Archived HNN website (thehologram.io)",
+    "publication_role": "EDITORIAL",
+    "relationship": "ANNOTATES",
+    "primary_sources": [
+      {
+        "publication": "The LIT Late show",
+        "author": "UNKNOWN",
+        "url": "https://mooncast.transistor.fm/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "animated digital comic.",
+        "author": "UNKNOWN",
+        "url": "https://www.arktypenft.com/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [
+      "Krigs"
+    ],
+    "attribution_chain": [
+      {
+        "from": "The LIT Late show",
+        "to": "Archived HNN website (thehologram.io)",
+        "relationship": "ANNOTATES",
+        "url": "https://mooncast.transistor.fm/"
+      },
+      {
+        "from": "animated digital comic.",
+        "to": "Archived HNN website (thehologram.io)",
+        "relationship": "ANNOTATES",
+        "url": "https://www.arktypenft.com/"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "This editorial published by Hologram News Network (HNN) on 2022-07-15 documents “Star Atlas' Ash Details Upcoming Releases On The LIT Late Show.” Its surviving text addresses governance, economy, guilds and DACs, game development, community. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "Star Atlas’ Ash Details Upcoming Releases On The LIT Late Show\nPosted by Krigs | Jul 15, 2022 | Community, Roadmap Updates\nStar Atlas Media Host and Executive Producer Ash made a guest appearance on The LIT Late show this past Tuesday evening. The LIT Late show is a twitter space hosted by MoonRoving SOL NFTs and covers upcoming and exciting Web 3.0 projects. Ash’s appearance on the show was viewed by 291 audience members where she detailed the exciting prospects in store for the Star Atlas community.\nAsh opened the dialogue answering a question from co-host Mish regarding the current development state of the Star Atlas game. Without giving exact details, Ash responded that “the first immersive UE5 module will be released this summer“. Regarding the UE5 module, one of the expected releases coming within the “next few months” is the Pre-Alpha Showroom. Ash continued that the full MMORPG game is still a few years out.\n“Upcoming Releases in the Next Few Weeks”\nAsh continued the conversation by coyly teasing the next features for the remainder of the year. “We have our first releases coming in a few weeks, the next one will be a few weeks after that, and then we’ll have our first real game style roll out at the end of the year” Ash comments align with the current timeline of expected Star Atlas releases. Regarding actual gameplay, it seems that the highly anticipated SCREAM module may release closer to November or December. Ash ended the topic with “Our devs are really turning it up and they have their heads buried working away“.\nAt one point later on during the conversation, Ash remarks that our “POLIS token will be getting more utility very soon.” The POLIS DAO is one of the most anticipated and likely releases coming within the next week. All eyes will be on July 21st for this announcement.\nAsh promotes 426 Live\nDuring the talk show, Ash talked about the 426 community meme and the live event that has spawned from this communal joke. “We will be dropping several products next Thursday during another virtual live event“. Without going into further details, Ash said these products are some of the most highly desired products that the community has been voicing their opinion for.\n“We Have One of the Strongest Communities”\nAshe went on to recap the recent COPA event as the highlighting kickoff to Star Atlas summer. COPA was a digital festival with over 700 participants. Ash went on to praise the Star Atlas community. “We did the event to support our guilds and communities and we have one of the stongest communities I feel around this entire space” Star Atlas community members were also present in audience. Australian metaverse artist Arktype received a special shoutout from Ash on his recent work with The Moon Man on their recent animated digital comic.\nWHAT IS THE BOND THAT KEEP THE STAR ATLAS COMMUNITY TOGETHER?\nIn response to the community discussion, host Mish remarked on how strong the Star Atlas community is, especially during the current bear market.\nAsh succinctly replied, “We have one of the strongest communities. What contributes to that is the Star Atlas community team that makes sure our community’s needs are met and heard. Our founders really strive to have true transparency and dialogue with the community. You can hop into our discord and have a direct conversation with the CEO. We take feedback from the community and we are proactive in incorporating it into the project. We like to engage with them and make sure they feel included. We have over 50 organic guilds. They also generate their own community content. For any project the community is the backbone. Without community we have no project.”\nYou can listen to the full talk show here.\nABOUT THE HOLOGRAM\nThe Hologram is an independent news organization dedicated to covering the latest Star Atlas content from all sides. The Hologram was founded on the principle of uniting creators from across their diverse fields and showcasing their talent. The Hologram also recognizes the importance of our reader’s time and will always strive to give you what you need, when you need it.\nThe Hologram is not endorsed or paid by the Star Atlas team. Any information published by The Hologram or its writers should be considered as informational in nature and does not constitute any financial advice.\nShare:",
+  "content_hash": "8abec86e02125535ed74e6c5c9f27ebdbcad22c87ec550e165a3a18635c5ab8b",
+  "major_topics": [
+    "governance",
+    "economy",
+    "guilds and DACs",
+    "game development",
+    "community"
+  ],
+  "entities": [
+    "ATLAS",
+    "Krigs",
+    "POLIS",
+    "SCREAM",
+    "Showroom",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-B10C6CA4066C1C1D-01",
+      "text": "Without giving exact details, Ash responded that “the first immersive UE5 module will be released this summer“.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-B10C6CA4066C1C1D",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-B10C6CA4066C1C1D-02",
+      "text": "“We have our first releases coming in a few weeks, the next one will be a few weeks after that, and then we’ll have our first real game style roll out at the end of the year” Ash comments align with the current timeline of expected Star Atlas releases.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-B10C6CA4066C1C1D",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-B10C6CA4066C1C1D-03",
+      "text": "At one point later on during the conversation, Ash remarks that our “POLIS token will be getting more utility very soon.” The POLIS DAO is one of the most anticipated and likely releases coming within the next week.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-B10C6CA4066C1C1D",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-B10C6CA4066C1C1D-04",
+      "text": "All eyes will be on July 21st for this announcement.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-B10C6CA4066C1C1D",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-B10C6CA4066C1C1D-05",
+      "text": "“We will be dropping several products next Thursday during another virtual live event“.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-B10C6CA4066C1C1D",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-B10C6CA4066C1C1D-06",
+      "text": "Without going into further details, Ash said these products are some of the most highly desired products that the community has been voicing their opinion for.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-B10C6CA4066C1C1D",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-B10C6CA4066C1C1D-07",
+      "text": "The Hologram also recognizes the importance of our reader’s time and will always strive to give you what you need, when you need it.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-B10C6CA4066C1C1D",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Star Atlas",
+    "Showroom",
+    "POLIS",
+    "ATLAS",
+    "SCREAM"
+  ],
+  "governance_items": [
+    "Star Atlas governance / DAO"
+  ],
+  "lore_items": [],
+  "actors": [
+    "Krigs"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://thehologram.io/author/krigs/",
+      "anchor_text": "Krigs"
+    },
+    {
+      "url": "https://thehologram.io/category/community/",
+      "anchor_text": "Community"
+    },
+    {
+      "url": "https://thehologram.io/category/gameplay/roadmap-updates/",
+      "anchor_text": "Roadmap Updates"
+    },
+    {
+      "url": "https://twitter.com/Ashes_LS",
+      "anchor_text": "Ash"
+    },
+    {
+      "url": "https://mooncast.transistor.fm/",
+      "anchor_text": "The LIT Late show"
+    },
+    {
+      "url": "https://twitter.com/MoonRovingBTC/status/1547037677261885441",
+      "anchor_text": "MoonRoving SOL NFTs"
+    },
+    {
+      "url": "https://twitter.com/mish4life007",
+      "anchor_text": "Mish"
+    },
+    {
+      "url": "https://twitter.com/Arktype_",
+      "anchor_text": "Arktype"
+    },
+    {
+      "url": "https://twitter.com/TheMoonMan_",
+      "anchor_text": "The Moon Man"
+    },
+    {
+      "url": "https://www.arktypenft.com/",
+      "anchor_text": "animated digital comic."
+    },
+    {
+      "url": "https://thehologram.io/about-us/",
+      "anchor_text": "Hologram"
+    },
+    {
+      "url": "http://www.facebook.com/sharer.php?u=https://thehologram.io/star-atlas-ash-details-upcoming-releases-on-the-lit-late-show/&t=Star%20Atlas%E2%80%99%20Ash%20Details%20Upcoming%20Releases%20On%20The%20LIT%20Late%20Show",
+      "anchor_text": ""
+    },
+    {
+      "url": "http://twitter.com/intent/tweet?text=Star%20Atlas%E2%80%99%20Ash%20Details%20Upcoming%20Releases%20On%20The%20LIT%20Late%20Show%20https://thehologram.io/star-atlas-ash-details-upcoming-releases-on-the-lit-late-show/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://plus.google.com/share?url=https://thehologram.io/star-atlas-ash-details-upcoming-releases-on-the-lit-late-show/&t=Star%20Atlas%E2%80%99%20Ash%20Details%20Upcoming%20Releases%20On%20The%20LIT%20Late%20Show",
+      "anchor_text": ""
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "https://web.archive.org/web/20220715035118id_/https://thehologram.io/star-atlas-ash-details-upcoming-releases-on-the-lit-late-show/",
+    "final_url": "https://web.archive.org/web/20220715035118id_/https://thehologram.io/star-atlas-ash-details-upcoming-releases-on-the-lit-late-show/",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "response_size": 139378,
+    "elapsed_ms": 1313,
+    "retrieval_mode": "INTERNET_ARCHIVE",
+    "archive_capture": {
+      "timestamp": "20220715035118",
+      "original": "https://thehologram.io/star-atlas-ash-details-upcoming-releases-on-the-lit-late-show/",
+      "digest": "WEMQGD4EJ3JXF6Z4GQT6T6EFKWYJY5JZ"
+    }
+  }
+}

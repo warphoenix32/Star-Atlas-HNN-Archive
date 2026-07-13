@@ -1,0 +1,308 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-8B7D4E2D3FDDF087",
+    "url_id": "URL-8B7D4E2D3FDDF087",
+    "url": "https://medium.com/the-hologram/the-star-atlas-bot-crackdown-9a8b2d990a08",
+    "title": "The Star Atlas Bot Crackdown",
+    "author": "Krigs",
+    "publisher": "The Hologram",
+    "publication_identity": "The Hologram (Medium publication)",
+    "published_at": "2023-06-29T04:26:57Z",
+    "updated_at": "2023-06-29T04:26:57Z",
+    "retrieved_at": "2026-07-13T00:08:44.112024Z",
+    "document_type": "ORIGINAL_REPORTING",
+    "source_role": "ORIGINAL_REPORTING",
+    "publication_role": "ORIGINAL_REPORTING",
+    "classification_rationale": "Publication reports a development without explicit interview, editorial, investigative, event, or reference framing."
+  },
+  "source_lineage": {
+    "publication": "The Hologram (Medium publication)",
+    "publication_role": "ORIGINAL_REPORTING",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [
+      {
+        "publication": "change in Star Atlas resource production",
+        "author": "UNKNOWN",
+        "url": "https://youtu.be/38BE0mw2KBU",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Podcast",
+        "author": "UNKNOWN",
+        "url": "https://open.spotify.com/show/2mxndrDW6yPfpS350ijzjt?si=ec7c717f998240d6",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "YouTube",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/channel/UCDa-YxgNG6A9xpH1qyP0OaQ",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [
+      "Krigs"
+    ],
+    "attribution_chain": [
+      {
+        "from": "change in Star Atlas resource production",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://youtu.be/38BE0mw2KBU"
+      },
+      {
+        "from": "Podcast",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://open.spotify.com/show/2mxndrDW6yPfpS350ijzjt?si=ec7c717f998240d6"
+      },
+      {
+        "from": "YouTube",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://www.youtube.com/channel/UCDa-YxgNG6A9xpH1qyP0OaQ"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "This original reporting published by The Hologram on 2023-06-29 documents “The Star Atlas Bot Crackdown.” Its surviving text addresses economy, game development, community, lore, technology. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "Star AtlasEconomics\nThe Star Atlas Bot Crackdown\nKrigs5 min read·Jun 29, 2023\n--\n2\nListen\nShare\nJune 28th — Since the change in Star Atlas resource production two weeks ago, Star Atlas Escape Velocity saw a rampant uptick in Bot activity. During the period, Bots were enticed to exist and thrive in the ecosystem under a lack of apparent enforcement. In a surprise announcement, the permissibility of Bots has changed overnight.\nStar Atlas Takes Stance On Bot Activity\nIn the first part of their announcement, Star Atlas declared that they had been monitoring bot activity all along and had identified several accounts that accounted for a significant portion of Escape Velocity rewards.\nAccording to CEO Michael Wagner, around “4% of wallets discovered 55% of the loot. We corrected that issue”. This comment, along with other comments throughout the day, indicate that ATMTA is committed to the prevention of serious exploitation of game mechanics.\nIn both the wind-down period of EV and in the future, we are looking to further improve on the experience for players based on the data gathered during the test. One category of insight that we are acting upon immediately is botting. We have identified a small percentage of participating wallets that have made unauthorized use of automation software (“bots”). Although there are only a handful of addresses engaged in botting, they account for a significant amount of total rewards scanned in EV to date.\nPress enter or click to view image in full size\nStar Atlas Retroactively Punishes Botters\nContinuing their announcement, Star Atlas took further actions against large scale botters in Escape Velocity by retroactively placing a cap on distributed loot and disqualifying the accounts from receiving and high tier rewards that they may have found.\nIn a moment of intervention, Star Atlas proclaimed that loot discovered by bots in excess of the cap over the last few weeks would be redistributed to human players proportionate to their participation in Escape Velocity.\nThis single action will have redistiributional wealth effects on the Star Atlas economy, arguably for the better. Since the change in R4 economic production, the prices of resources have soared with large economic stockpiles beginning to form; partially due to the enhanced rewards from Escape Velocity in conjunction with Bot activity.\nWith these changes in effect, the next Escape Velocity loot drop will occur on June 29th.\nStar Atlas Issues Stern Warning to Bots\nFurthermore, now on until its closure, any EV player whose activity is determined to be that of automated services will not receive any of the loot discovered.\nGoing forward, we may take more aggressive actions against wallet addresses that engage in botting activity, including by eliminating any loot scanned by a botting address. We hope that these actions and the increasing complexity of SAGE over time will slow the proliferation of botting activity. We appreciate the reports we have received on suspicious bot activity; your comments and feedback are, as always, very welcome.\nThe discussion over bot activity has persisted within the Star Atlas community. Time and time again, Star Atlas would refer individuals to the Star Atlas Terms of Service without providing further comment.\nNow, it’s clear that Star Atlas has, and will take, a strong stance against automation that is deemed exploitative.\nCommunity Members Push Back Against Sanctions\nWhile the strong stance against botting was welcomed by the community, not all were in favor of the new measures. Leading the rally was Kalros who argued that the legality of bots within the ecosystem was unclear.\nKalros further argued that there should be some sort of judicial standard or transparency when punishment actions are taken, something we’ve previously reported on in the past.\nOther community members were quick to point out that that Star Atlas was still a very centralized organization at this stage in development. Wagner reinforce this idea by saying that, “We are in control of key decision making right now, as it should be….but that isn’t the future we’re building towards”.\nWagner added some levity to the situation by stating that Star Atlas was able to detect bot automation with accuracy and that they were even able to detect automation that was at below human performance levels.\nAnother dissenter amongst the community was Bodhi, who argued that Star Atlas was taking the wrong approach towards automation and that a more proactive approach was needed.\n“The only way to go is to decide what’s fair proactively, and bake rules themselves into the code in the first place.”\nStar Atlas Testing the Test All Along\nOfficially, Escape Velocity was a test of the capacity of Solana to handle the on-chain movement programs for SAGE and to see if it could handle transactions at scale.\nHowever, its evident that Star Atlas has been testing and collecting data outside of the publicly released purpose statement of Escape Velocity.\nComments by Senior Star Atlas Economics Director Eric Vermillion imply that Star Atlas had been temporarily permitting bot activity in order to gain data and insight on how bot-player behavior would occur.\n“ I publicly said this is a test of a test- how it developed didn’t surprise me. One thing that I said we couldn’t predict was what the botting would look like exactly without running the test in the wild. The more we know the more we can anticipate how they will try to game the system we are developing. Each iteration will get more and more deep in gameplay. This action by our team was a reminder that egregious botting even in a test is against the rules we all agreed to when we signed up.”\nVermillion followed up with a comment highlighting that the strategy was to “have the opponent show their strategy and tactics early”.\nFor the time being, it’s clear that Star Atlas is no safe haven for bots.\nAbout the Author\nKrigs is a pioneer in the world of Star Atlas, having founded The Hologram News Network — an independent meta-news organization that keeps players up to date on all developments regarding Star Atlas. An ardent supporter of emerging technologies, Krigs has been covering this game for over a year and believes passionately in their power to revolutionize our collective gaming experience.\nFollow on Social Media:\nPodcast | YouTube | Twitter | Instagram | Web\nAbout The Hologram\nThe Hologram is Star Atlas’ first and only independent news network. Our vision is to become the most trusted source of information about Star Atlas and a voice for the whole community. Readers can expect a high standard from our reporting and staff. Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.\nAny information published by The Hologram or its writers should be considered as informational in nature and does not constitute any financial advice.",
+  "content_hash": "149e5de371e420e8cd31f3f2cfd7b270fc6bca2b9e9d31f96a3cb6bd283815f3",
+  "major_topics": [
+    "economy",
+    "game development",
+    "community",
+    "lore",
+    "technology"
+  ],
+  "entities": [
+    "ATLAS",
+    "Escape Velocity",
+    "Krigs",
+    "Michael Wagner",
+    "SAGE",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-8B7D4E2D3FDDF087-01",
+      "text": "This single action will have redistiributional wealth effects on the Star Atlas economy, arguably for the better.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-8B7D4E2D3FDDF087",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-8B7D4E2D3FDDF087-02",
+      "text": "With these changes in effect, the next Escape Velocity loot drop will occur on June 29th.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-8B7D4E2D3FDDF087",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-8B7D4E2D3FDDF087-03",
+      "text": "Star Atlas Issues Stern Warning to Bots Furthermore, now on until its closure, any EV player whose activity is determined to be that of automated services will not receive any of the loot discovered.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-8B7D4E2D3FDDF087",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-8B7D4E2D3FDDF087-04",
+      "text": "We hope that these actions and the increasing complexity of SAGE over time will slow the proliferation of botting activity.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-8B7D4E2D3FDDF087",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-8B7D4E2D3FDDF087-05",
+      "text": "Now, it’s clear that Star Atlas has, and will take, a strong stance against automation that is deemed exploitative.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-8B7D4E2D3FDDF087",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-8B7D4E2D3FDDF087-06",
+      "text": "Kalros further argued that there should be some sort of judicial standard or transparency when punishment actions are taken, something we’ve previously reported on in the past.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-8B7D4E2D3FDDF087",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-8B7D4E2D3FDDF087-07",
+      "text": "However, its evident that Star Atlas has been testing and collecting data outside of the publicly released purpose statement of Escape Velocity.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-8B7D4E2D3FDDF087",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-8B7D4E2D3FDDF087-08",
+      "text": "“ I publicly said this is a test of a test- how it developed didn’t surprise me.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-8B7D4E2D3FDDF087",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-8B7D4E2D3FDDF087-09",
+      "text": "One thing that I said we couldn’t predict was what the botting would look like exactly without running the test in the wild.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-8B7D4E2D3FDDF087",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-8B7D4E2D3FDDF087-10",
+      "text": "The more we know the more we can anticipate how they will try to game the system we are developing.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-8B7D4E2D3FDDF087",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-8B7D4E2D3FDDF087-11",
+      "text": "Each iteration will get more and more deep in gameplay.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-8B7D4E2D3FDDF087",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-8B7D4E2D3FDDF087-12",
+      "text": "Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-8B7D4E2D3FDDF087",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "SAGE",
+    "Star Atlas",
+    "Escape Velocity",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [
+    "ONI"
+  ],
+  "actors": [
+    "Michael Wagner",
+    "Krigs"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://medium.com/@krigsfoniks?source=post_page---byline--9a8b2d990a08---------------------------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fthe-hologram%2F9a8b2d990a08&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fthe-star-atlas-bot-crackdown-9a8b2d990a08&user=Krigs&userId=41e0c5b141f1&source=---header_actions--9a8b2d990a08---------------------clap_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Frepost%2Fp%2F9a8b2d990a08&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fthe-star-atlas-bot-crackdown-9a8b2d990a08&user=Krigs&userId=41e0c5b141f1&source=---header_actions--9a8b2d990a08---------------------repost_header------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F9a8b2d990a08&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fthe-star-atlas-bot-crackdown-9a8b2d990a08&source=---header_actions--9a8b2d990a08---------------------bookmark_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2Fplans%3Fdimension%3Dpost_audio_button%26postId%3D9a8b2d990a08&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fthe-star-atlas-bot-crackdown-9a8b2d990a08&source=---header_actions--9a8b2d990a08---------------------post_audio_button------------------",
+      "anchor_text": "Listen"
+    },
+    {
+      "url": "https://youtu.be/38BE0mw2KBU",
+      "anchor_text": "change in Star Atlas resource production"
+    },
+    {
+      "url": "https://medium.com/the-hologram/star-atlas-nabs-two-scammers-assets-frozen-4922901fb224",
+      "anchor_text": "something we’ve previously reported on in the past."
+    },
+    {
+      "url": "https://medium.com/u/41e0c5b141f1",
+      "anchor_text": "Krigs"
+    },
+    {
+      "url": "https://open.spotify.com/show/2mxndrDW6yPfpS350ijzjt?si=ec7c717f998240d6",
+      "anchor_text": "Podcast"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCDa-YxgNG6A9xpH1qyP0OaQ",
+      "anchor_text": "YouTube"
+    },
+    {
+      "url": "https://twitter.com/home",
+      "anchor_text": "Twitter"
+    },
+    {
+      "url": "https://thehologram.io/",
+      "anchor_text": "Web"
+    },
+    {
+      "url": "https://medium.com/the-hologram",
+      "anchor_text": "The Hologram"
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "https://medium.com/the-hologram/the-star-atlas-bot-crackdown-9a8b2d990a08",
+    "final_url": "https://medium.com/the-hologram/the-star-atlas-bot-crackdown-9a8b2d990a08",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 143787,
+    "elapsed_ms": 541,
+    "retrieval_mode": "LIVE",
+    "archive_capture": null
+  }
+}

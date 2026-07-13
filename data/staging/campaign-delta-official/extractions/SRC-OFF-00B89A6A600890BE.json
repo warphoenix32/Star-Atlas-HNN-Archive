@@ -1,0 +1,86 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-00B89A6A600890BE",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47029037646483-Can-I-Extend-a-Rental-While-It-s-Active",
+    "title": "Can I Extend a Rental While It’s Active?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-02T18:09:23Z",
+    "updated_at": "2025-12-03T14:44:37Z",
+    "original_date_text": "2025-12-02T18:09:23Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “Can I Extend a Rental While It’s Active?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Currently, extending an active rental is not available in the MVP version of Fleet Rentals. We are exploring options for allowing rental extensions in future updates, which would give borrowers the flexibility to continue using a fleet without interruption.",
+  "content_hash": "44a12b84d93d6921bbb32947e17a6c5d89587e38a7bcd4818555d498f4d2362d",
+  "entities": [],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-00B89A6A600890BE-01",
+      "text": "Currently, extending an active rental is not available in the MVP version of Fleet Rentals.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-00B89A6A600890BE",
+      "publication_date": "2025-12-02T18:09:23Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-00B89A6A600890BE-02",
+      "text": "We are exploring options for allowing rental extensions in future updates, which would give borrowers the flexibility to continue using a fleet without interruption.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-00B89A6A600890BE",
+      "publication_date": "2025-12-02T18:09:23Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47029037646483-Can-I-Extend-a-Rental-While-It-s-Active",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.409059Z"
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-D54B8742891B39BD",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47027594011923-What-s-Coming-for-the-DAC-Platform-in-Star-Atlas",
+    "title": "What's Coming for the DAC Platform in Star Atlas?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-02T17:34:46Z",
+    "updated_at": "2025-12-08T18:24:13Z",
+    "original_date_text": "2025-12-02T17:34:46Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “What's Coming for the DAC Platform in Star Atlas?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Star Atlas's DAC Platform is not just a static feature, but an evolving ecosystem with exciting upgrades on the horizon. These future enhancements are designed to strengthen collaboration, organization, and governance among Decentralized Autonomous Corporations (DACs), empowering them as key players in the Star Atlas universe.\nTreasury Management\nFuture updates will introduce tools for managing DAC funds and assets more efficiently. Treasury management will become core to enabling DACs to coordinate long-term goals and large-scale initiatives with transparent, on-chain accounting.\nAdvanced Permissions Control\nMore granular access systems will be implemented to give DAC leaders the ability to assign roles and responsibilities. These controls will support diverse internal structures—from flat collectives to hierarchical organizations.\nResource Utilization\nDACs will be able to pool and allocate shared assets, including ships, tools, and other resources, to complete missions or support members. This adds greater utility to coordinated play and boosts overall efficiency.\nFinancial Transactions\nPlanned improvements will enable seamless internal DAC transactions, such as distributing rewards, splitting costs, or paying contributors.\nIn-game Asset Management\nFuture integration with gameplay systems will let DACs collectively manage and deploy in-game NFTs like ships, structures, and claim stakes—opening new paths for cooperative strategies.\nDemocratic Voting Systems\nDACs will be empowered with voting frameworks that allow members to have a say in internal decisions. This aligns with the decentralized spirit of Web3 gaming and encourages active participation.\nLooking Ahead\nThe DAC Platform is foundational to Star Atlas’s multiplayer future. These upcoming enhancements will evolve DACs into fully-featured social and strategic organizations that can shape the economy, politics, and history of Galia.",
+  "content_hash": "88d40653cfcf291bfeb27faac6f39440b076f13c0db507f7952e4806943fa332",
+  "entities": [
+    "ATLAS",
+    "CORE",
+    "Claim Stakes"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-D54B8742891B39BD-01",
+      "text": "Star Atlas's DAC Platform is not just a static feature, but an evolving ecosystem with exciting upgrades on the horizon.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-D54B8742891B39BD",
+      "publication_date": "2025-12-02T17:34:46Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-D54B8742891B39BD-02",
+      "text": "These future enhancements are designed to strengthen collaboration, organization, and governance among Decentralized Autonomous Corporations (DACs), empowering them as key players in the Star Atlas universe.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-D54B8742891B39BD",
+      "publication_date": "2025-12-02T17:34:46Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-D54B8742891B39BD-03",
+      "text": "Treasury Management Future updates will introduce tools for managing DAC funds and assets more efficiently.",
+      "claim_type": "ROADMAP_PLAN",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-D54B8742891B39BD",
+      "publication_date": "2025-12-02T17:34:46Z",
+      "confidence": "MEDIUM",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-D54B8742891B39BD-04",
+      "text": "Treasury management will become core to enabling DACs to coordinate long-term goals and large-scale initiatives with transparent, on-chain accounting.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-D54B8742891B39BD",
+      "publication_date": "2025-12-02T17:34:46Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-D54B8742891B39BD-05",
+      "text": "Advanced Permissions Control More granular access systems will be implemented to give DAC leaders the ability to assign roles and responsibilities.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-D54B8742891B39BD",
+      "publication_date": "2025-12-02T17:34:46Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-D54B8742891B39BD-06",
+      "text": "These controls will support diverse internal structures—from flat collectives to hierarchical organizations.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-D54B8742891B39BD",
+      "publication_date": "2025-12-02T17:34:46Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-D54B8742891B39BD-07",
+      "text": "Resource Utilization DACs will be able to pool and allocate shared assets, including ships, tools, and other resources, to complete missions or support members.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-D54B8742891B39BD",
+      "publication_date": "2025-12-02T17:34:46Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-D54B8742891B39BD-08",
+      "text": "This adds greater utility to coordinated play and boosts overall efficiency.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-D54B8742891B39BD",
+      "publication_date": "2025-12-02T17:34:46Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-D54B8742891B39BD-09",
+      "text": "Financial Transactions Planned improvements will enable seamless internal DAC transactions, such as distributing rewards, splitting costs, or paying contributors.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-D54B8742891B39BD",
+      "publication_date": "2025-12-02T17:34:46Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-D54B8742891B39BD-10",
+      "text": "In-game Asset Management Future integration with gameplay systems will let DACs collectively manage and deploy in-game NFTs like ships, structures, and claim stakes—opening new paths for cooperative strategies.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-D54B8742891B39BD",
+      "publication_date": "2025-12-02T17:34:46Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-D54B8742891B39BD-11",
+      "text": "Democratic Voting Systems DACs will be empowered with voting frameworks that allow members to have a say in internal decisions.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-D54B8742891B39BD",
+      "publication_date": "2025-12-02T17:34:46Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-D54B8742891B39BD-12",
+      "text": "This aligns with the decentralized spirit of Web3 gaming and encourages active participation.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-D54B8742891B39BD",
+      "publication_date": "2025-12-02T17:34:46Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-D54B8742891B39BD-13",
+      "text": "Looking Ahead The DAC Platform is foundational to Star Atlas’s multiplayer future.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-D54B8742891B39BD",
+      "publication_date": "2025-12-02T17:34:46Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-D54B8742891B39BD-14",
+      "text": "These upcoming enhancements will evolve DACs into fully-featured social and strategic organizations that can shape the economy, politics, and history of Galia.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-D54B8742891B39BD",
+      "publication_date": "2025-12-02T17:34:46Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "CORE",
+    "ATLAS",
+    "Claim Stakes"
+  ],
+  "governance_items": [],
+  "lore_items": [
+    "Galia"
+  ],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47027594011923-What-s-Coming-for-the-DAC-Platform-in-Star-Atlas",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.289521Z"
+  }
+}

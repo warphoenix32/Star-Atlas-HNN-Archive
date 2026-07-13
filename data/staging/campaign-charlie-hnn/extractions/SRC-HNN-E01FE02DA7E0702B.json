@@ -1,0 +1,234 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-E01FE02DA7E0702B",
+    "url_id": "URL-E01FE02DA7E0702B",
+    "url": "https://medium.com/the-hologram/dark-matter-elects-first-dark-council-b9003e228f47",
+    "title": "Dark Matter Elects First Dark Council",
+    "author": "Krigs",
+    "publisher": "The Hologram",
+    "publication_identity": "The Hologram (Medium publication)",
+    "published_at": "2023-05-24T03:57:51Z",
+    "updated_at": "2023-05-24T03:57:51Z",
+    "retrieved_at": "2026-07-13T00:10:12.750782Z",
+    "document_type": "ORIGINAL_REPORTING",
+    "source_role": "ORIGINAL_REPORTING",
+    "publication_role": "ORIGINAL_REPORTING",
+    "classification_rationale": "Publication reports a development without explicit interview, editorial, investigative, event, or reference framing."
+  },
+  "source_lineage": {
+    "publication": "The Hologram (Medium publication)",
+    "publication_role": "ORIGINAL_REPORTING",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [
+      {
+        "publication": "Podcast",
+        "author": "UNKNOWN",
+        "url": "https://open.spotify.com/show/2mxndrDW6yPfpS350ijzjt?si=ec7c717f998240d6",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "YouTube",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/channel/UCDa-YxgNG6A9xpH1qyP0OaQ",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://staratlas.com/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [
+      "Krigs"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Podcast",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://open.spotify.com/show/2mxndrDW6yPfpS350ijzjt?si=ec7c717f998240d6"
+      },
+      {
+        "from": "YouTube",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://www.youtube.com/channel/UCDa-YxgNG6A9xpH1qyP0OaQ"
+      },
+      {
+        "from": "Star Atlas",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://staratlas.com/"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "This original reporting published by The Hologram on 2023-05-24 documents “Dark Matter Elects First Dark Council.” Its surviving text addresses governance, economy, guilds and DACs, game development, community, lore. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "Star AtlasCommunity\nDark Matter Elects First Dark Council\nKrigs3 min read·May 24, 2023\n--\nListen\nShare\nAfter an extended period of vacancy, the Dark Council has been fully nominated and confirmed by the general members of the Pirate Guild Dark Matter.\nPress enter or click to view image in full size\nDark Matter, the Ustur pirate guild, recently concluded their elections for Dark Council. This is the first time in Dark Matter history that the entire council has been filled.\nVoting was held this past Monday and every nominee for Dark Council received the minimum number of votes to become confirmed. The new ranking members of the Dark Council are:\nSignal\nCapThor\nPock the Pirate\nFury\nThese four council members join guild leader Chaldan to comprise the Dark Council. Previously, a council position was held by Cosmos who stepped down prior to elections.\nElections were conducted using a public polling system, with a dedicated chat thread for members to share their opinions and views on matters related to the elections and council duties.\nEach position in the council will have specific responsibilities, including PR, community management, recruitment, internal tool development, generating resources for the guild, and more. However, finalization of council duties was still in progress.\nCouncil Sets Broad Vision\nThe new council members have set goals to increase the public presence of Dark Matter through a strong social media presence, participation in Star Atlas events, forming alliances with players and guilds who share similar values, and promoting the advancement of active guild members in their areas of interest.\nThe council aims to organize “hacker house” like events to foster innovation in the Star Atlas ecosystem, provide resources for community members to grow in their desired areas, create roles for advancing active members in future gameplay experiences, and establish an effective system for distributing guild resources based on participation.\nOne of the main tasks of the new council is to draft a governance paper or constitution that will serve as a foundation for the guild’s future.\nDark Matter’s goal is to work on developing all the necessary tools to become a fully decentralized and democratic guild. Additionally, the guild aims to become a politically influential entity within the Ustur faction, aligning its interests and activities accordingly.\nDark Matter Prepares for SAGE\nDark Matter has a dedicated community of 30 to 40 active members, all active and eagerly awaiting more complete versions of SAGE. The guild is currently discussing the implementation of term limits, following the “one person, one vote” rule, and future elections will stagger the refreshment of 2 to 3 seats at a time instead of all 5 positions at once. Sufficient time will be given to members for voting to ensure that everyone’s voice is heard and democracy is upheld.\nAbout the Author\nKrigs is a pioneer in the world of Star Atlas, having founded The Hologram News Network — an independent meta-news organization that keeps players up to date on all developments regarding Star Atlas. An ardent supporter of emerging technologies, Krigs has been covering this game for over a year and believes passionately in their power to revolutionize our collective gaming experience.\nFollow on Social Media:\nPodcast | YouTube | Twitter | Instagram | Web\nAbout The Hologram\nThe Hologram is Star Atlas’ first and only independent news network. Our vision is to become the most trusted source of information about Star Atlas and a voice for the whole community. Readers can expect a high standard from our reporting and staff. Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.\nThe Hologram is not endorsed or paid by the Star Atlas team. Any information published by The Hologram nor its writers should be considered as informational in nature and does not constitute any financial advice.",
+  "content_hash": "1a5ff5f80e2754ac34da0d2dad45a97c5f8c4dd9e3a802d763f58e8b61fb8e5f",
+  "major_topics": [
+    "governance",
+    "economy",
+    "guilds and DACs",
+    "game development",
+    "community",
+    "lore"
+  ],
+  "entities": [
+    "ATLAS",
+    "Krigs",
+    "SAGE",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-E01FE02DA7E0702B-01",
+      "text": "Each position in the council will have specific responsibilities, including PR, community management, recruitment, internal tool development, generating resources for the guild, and more.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-E01FE02DA7E0702B",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-E01FE02DA7E0702B-02",
+      "text": "One of the main tasks of the new council is to draft a governance paper or constitution that will serve as a foundation for the guild’s future.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-E01FE02DA7E0702B",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-E01FE02DA7E0702B-03",
+      "text": "The guild is currently discussing the implementation of term limits, following the “one person, one vote” rule, and future elections will stagger the refreshment of 2 to 3 seats at a time instead of all 5 positions at once.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-E01FE02DA7E0702B",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-E01FE02DA7E0702B-04",
+      "text": "Sufficient time will be given to members for voting to ensure that everyone’s voice is heard and democracy is upheld.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-E01FE02DA7E0702B",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-E01FE02DA7E0702B-05",
+      "text": "Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-E01FE02DA7E0702B",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "SAGE",
+    "Star Atlas",
+    "ATLAS"
+  ],
+  "governance_items": [
+    "Star Atlas governance / DAO"
+  ],
+  "lore_items": [
+    "ONI",
+    "Ustur"
+  ],
+  "actors": [
+    "Krigs"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://medium.com/@krigsfoniks?source=---byline--b9003e228f47---------------------------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fthe-hologram%2Fb9003e228f47&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fdark-matter-elects-first-dark-council-b9003e228f47&user=Krigs&userId=41e0c5b141f1&source=---header_actions--b9003e228f47---------------------clap_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Frepost%2Fp%2Fb9003e228f47&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fdark-matter-elects-first-dark-council-b9003e228f47&user=Krigs&userId=41e0c5b141f1&source=---header_actions--b9003e228f47---------------------repost_header------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fb9003e228f47&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fdark-matter-elects-first-dark-council-b9003e228f47&source=---header_actions--b9003e228f47---------------------bookmark_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2Fplans%3Fdimension%3Dpost_audio_button%26postId%3Db9003e228f47&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fdark-matter-elects-first-dark-council-b9003e228f47&source=---header_actions--b9003e228f47---------------------post_audio_button------------------",
+      "anchor_text": "Listen"
+    },
+    {
+      "url": "https://medium.com/u/41e0c5b141f1",
+      "anchor_text": "Krigs"
+    },
+    {
+      "url": "https://open.spotify.com/show/2mxndrDW6yPfpS350ijzjt?si=ec7c717f998240d6",
+      "anchor_text": "Podcast"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCDa-YxgNG6A9xpH1qyP0OaQ",
+      "anchor_text": "YouTube"
+    },
+    {
+      "url": "https://twitter.com/home",
+      "anchor_text": "Twitter"
+    },
+    {
+      "url": "https://thehologram.io/",
+      "anchor_text": "Web"
+    },
+    {
+      "url": "https://medium.com/the-hologram",
+      "anchor_text": "The Hologram"
+    },
+    {
+      "url": "https://staratlas.com/",
+      "anchor_text": "Star Atlas"
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "https://medium.com/the-hologram/dark-matter-elects-first-dark-council-b9003e228f47",
+    "final_url": "https://medium.com/the-hologram/dark-matter-elects-first-dark-council-b9003e228f47",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 264773,
+    "elapsed_ms": 753,
+    "retrieval_mode": "LIVE",
+    "archive_capture": null
+  }
+}

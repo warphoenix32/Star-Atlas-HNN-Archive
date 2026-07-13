@@ -1,0 +1,268 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-2505F6293729CD47",
+    "url_id": "URL-2505F6293729CD47",
+    "url": "https://thehologram.io/anonymous-source-leaks-showroom-release-plans",
+    "title": "Anonymous Source Leaks Showroom Release Plans | The Hologram",
+    "author": "UNKNOWN",
+    "publisher": "Hologram News Network (HNN)",
+    "publication_identity": "Archived HNN website (thehologram.io)",
+    "published_at": "2022-06-05T17:35:10+00:00",
+    "updated_at": null,
+    "retrieved_at": "2026-07-13T00:13:56.596314Z",
+    "document_type": "EDITORIAL",
+    "source_role": "EDITORIAL",
+    "publication_role": "EDITORIAL",
+    "classification_rationale": "Publication uses explicit commentary, prediction, or editorial framing."
+  },
+  "source_lineage": {
+    "publication": "Archived HNN website (thehologram.io)",
+    "publication_role": "EDITORIAL",
+    "relationship": "ANNOTATES",
+    "primary_sources": [
+      {
+        "publication": "Discord server",
+        "author": "UNKNOWN",
+        "url": "https://discord.gg/rNS9rZQX",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [],
+    "attribution_chain": [
+      {
+        "from": "Discord server",
+        "to": "Archived HNN website (thehologram.io)",
+        "relationship": "ANNOTATES",
+        "url": "https://discord.gg/rNS9rZQX"
+      }
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "This editorial published by Hologram News Network (HNN) on 2022-06-05 documents “Anonymous Source Leaks Showroom Release Plans | The Hologram.” Its surviving text addresses governance, economy, game development, community, lore, technology. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "Anonymous Source Leaks Showroom Release Plans\nPosted by Cpt. August Wulff | Jun 5, 2022 | Gameplay, Roadmap Updates\nThe Star Atlas community is abuzz with the revelation of credible-seeming leaks about the Showroom module, and more details regarding the development of 3D ship assets in Unreal Engine 5. This report has not been officially confirmed by the Star Atlas team. However, the Hologram believes the source is credible, and the leak should be seen by the entire community. As with any leaked data, caveat lector– let the reader beware.\nShowroom Module “Full Release” Targeted for October\nFrom across the Star Atlas metaverse, the cries of “Wen Showroom?” have finally been answered: October is the (unofficial) target date. As most Atlassians know, the Showroom is the first immersive, 3D Star Atlas experience being released to the public. In the Showroom, players will be able to view and explore ships from size XXS all the way up to Titan class, fully rendered in Unreal Engine 5. The team has already shown some early previews of this module, including the recent reveal of a Calico Guardian (in greybox form) on display in the Showroom.\nIf October sounds like too long to wait, take heart: the source was careful to emphasize that October is the target for the “Full Release” of the Showroom. According to the leaked message: “I did say full release as there are a number of items we want to be part of the experience… We want to get the client in players hands as soon as it’s feasible… It’s gonna be a fun summer IMO [in my opinion].” This seems to imply that other playable experiences may be released before the full version of the Showroom, launching from a Star Atlas game client. My hunch is that this could have something to do with the fully-rendered Pearce X4 models already shown to the public, and the “free flight module” teased by SW4GN3R during previous Town Hall meetings. Could we be test-flying the XXS combat bike as early as this summer? We can only speculate for now.\nWhy the Wait?\nAsked why the full release of the Showroom would take another four months, the source mentioned a long list of deliverables for the project teams: “UI, polish on everything from vfx to materials, prepping for release with distribution channels, promotional material, tutorials, the ability to update the client so players don’t have to keep downloading new clients, legalese, EULAs, privacy policy, terms of use, splash screens, credits (to software used, etc.) optimization for lighting, assets, anims, etc. features that haven’t been announced because we want to make sure we can deliver on them, QA, bug squashing.” With all of these tasks on the table, it’s understandable that the teams involved need time to get this right.\nShip Models to Be “Higher than Cinematic Quality”\nSome community members were surprised when the source said that only two ships were required to be fully rendered inside and out for the launch of the Showroom. However, “there are so many in production we might see more,” the leaker added. The source also provided insight into the ship modeling process: “There’s currently 27 artists just on ships across 3 teams, ATMTA, Sperasoft and Vertpaint. There are 14 ships in full production. That team is growing but respectfully these ships are of higher than cinematic quality down to individual bolts. In movies you can’t get as close to the surfaces that you can in UE5. If you look into other games doing similar ship fidelity with interiors and all that 4+ months is very normal and we are pushing beyond that fidelity, currently pushing the boundaries more than any other game in the industry. We aren’t bottlenecked here… Production rate will scale dramatically.”\nAs one of the biggest ship fans at the Hologram, it’s hard to contain my excitement over this update. The ship designs were the first thing I saw from Star Atlas, and I fell in love straight away. As the source said, “There’s a reason people have paid 5k [sic.] figures for some ships because it’s as real as digital property can get right now with the best people making it happen.” With that in mind, it will be interesting to see what impact the Showroom has, if any, on ship prices. In the midst of a deep bear market across the wider crypto and NFT space, an experience like the Showroom will be a major asset for attracting new players, and getting current users more immersed in the Star Atlas metaverse. If the experience can deliver “better than cinematic quality,” the Showroom will be more than worth the wait.\nThe Hologram is always on alert for breaking Star Atlas news, leaks, and alpha. To make sure you don’t miss any exclusive coverage like this, be sure to follow us on Twitter, and hit the bell button to get notifications every time we break a story. If you have a tip about a developing story in the Star Atlas metaverse, the #story-suggestions channel on our Discord server is always open to our readers.\nABOUT THE HOLOGRAM\nThe Hologram is an independent news organization dedicated to covering the latest Star Atlas content from all sides. The Hologram was founded on the principle of uniting creators from across their diverse fields and showcasing their talent. The Hologram also recognizes the importance of our reader’s time and will always strive to give you what you need, when you need it.\nThe Hologram is not endorsed or paid by the Star Atlas team. Any information published by The Hologram or its writers should be considered as informational in nature and does not constitute any financial advice.\nShare:\nFeatured\nAll day\nThe Mob Machina NFT Launch\nFeatured\nAll day\nCouncil of Peace Assembly (COPA)",
+  "content_hash": "3bfb2df50c7f7b33f97c558e2033692039240613d3738f734df5832c4eedbfa7",
+  "major_topics": [
+    "governance",
+    "economy",
+    "game development",
+    "community",
+    "lore",
+    "technology"
+  ],
+  "entities": [
+    "ATLAS",
+    "Showroom",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-2505F6293729CD47-01",
+      "text": "Anonymous Source Leaks Showroom Release Plans Posted by Cpt.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-2505F6293729CD47",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-2505F6293729CD47-02",
+      "text": "As most Atlassians know, the Showroom is the first immersive, 3D Star Atlas experience being released to the public.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-2505F6293729CD47",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-2505F6293729CD47-03",
+      "text": "In the Showroom, players will be able to view and explore ships from size XXS all the way up to Titan class, fully rendered in Unreal Engine 5.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-2505F6293729CD47",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-2505F6293729CD47-04",
+      "text": "According to the leaked message: “I did say full release as there are a number of items we want to be part of the experience… We want to get the client in players hands as soon as it’s feasible… It’s gonna be a fun summer IMO [in my opinion].” This seems to imply that other playable experiences may be released before the full version of the Showroom, launching from a Star Atlas game client.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-2505F6293729CD47",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-2505F6293729CD47-05",
+      "text": "features that haven’t been announced because we want to make sure we can deliver on them, QA, bug squashing.” With all of these tasks on the table, it’s understandable that the teams involved need time to get this right.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-2505F6293729CD47",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-2505F6293729CD47-06",
+      "text": "Ship Models to Be “Higher than Cinematic Quality” Some community members were surprised when the source said that only two ships were required to be fully rendered inside and out for the launch of the Showroom.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-2505F6293729CD47",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-2505F6293729CD47-07",
+      "text": "We aren’t bottlenecked here… Production rate will scale dramatically.” As one of the biggest ship fans at the Hologram, it’s hard to contain my excitement over this update.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-2505F6293729CD47",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-2505F6293729CD47-08",
+      "text": "As the source said, “There’s a reason people have paid 5k [sic.] figures for some ships because it’s as real as digital property can get right now with the best people making it happen.” With that in mind, it will be interesting to see what impact the Showroom has, if any, on ship prices.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-2505F6293729CD47",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-2505F6293729CD47-09",
+      "text": "In the midst of a deep bear market across the wider crypto and NFT space, an experience like the Showroom will be a major asset for attracting new players, and getting current users more immersed in the Star Atlas metaverse.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-2505F6293729CD47",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-2505F6293729CD47-10",
+      "text": "If the experience can deliver “better than cinematic quality,” the Showroom will be more than worth the wait.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-2505F6293729CD47",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-2505F6293729CD47-11",
+      "text": "The Hologram also recognizes the importance of our reader’s time and will always strive to give you what you need, when you need it.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-2505F6293729CD47",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Star Atlas",
+    "Showroom",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://thehologram.io/author/wulff/",
+      "anchor_text": "Cpt. August Wulff"
+    },
+    {
+      "url": "https://thehologram.io/category/gameplay/",
+      "anchor_text": "Gameplay"
+    },
+    {
+      "url": "https://thehologram.io/category/community/roadmap-updates/",
+      "anchor_text": "Roadmap Updates"
+    },
+    {
+      "url": "https://twitter.com/staratlas/status/1527707375364280320?s=20&t=DX6rFfS-RZtFCZbrbgMohw",
+      "anchor_text": "recent reveal"
+    },
+    {
+      "url": "https://twitter.com/at_mwagner",
+      "anchor_text": "SW4GN3R"
+    },
+    {
+      "url": "https://twitter.com/Hologram_News",
+      "anchor_text": "Twitter"
+    },
+    {
+      "url": "https://discord.gg/rNS9rZQX",
+      "anchor_text": "Discord server"
+    },
+    {
+      "url": "https://thehologram.io/about-us/",
+      "anchor_text": "Hologram"
+    },
+    {
+      "url": "http://www.facebook.com/sharer.php?u=https://thehologram.io/anonymous-source-leaks-showroom-release-plans/&t=Anonymous%20Source%20Leaks%20Showroom%20Release%20Plans",
+      "anchor_text": ""
+    },
+    {
+      "url": "http://twitter.com/intent/tweet?text=Anonymous%20Source%20Leaks%20Showroom%20Release%20Plans%20https://thehologram.io/anonymous-source-leaks-showroom-release-plans/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://plus.google.com/share?url=https://thehologram.io/anonymous-source-leaks-showroom-release-plans/&t=Anonymous%20Source%20Leaks%20Showroom%20Release%20Plans",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/event/the-mob-mechina-nft-launch/",
+      "anchor_text": "The Mob Machina NFT Launch"
+    },
+    {
+      "url": "https://thehologram.io/event/council-of-peace-assembly-copa/",
+      "anchor_text": "Council of Peace Assembly (COPA)"
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "UNKNOWN",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Author is not explicit in the surviving publication metadata."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://web.archive.org/web/20220605173512id_/https://thehologram.io/anonymous-source-leaks-showroom-release-plans/",
+    "final_url": "https://web.archive.org/web/20220605173512id_/https://thehologram.io/anonymous-source-leaks-showroom-release-plans/",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "response_size": 143173,
+    "elapsed_ms": 601,
+    "retrieval_mode": "INTERNET_ARCHIVE",
+    "archive_capture": {
+      "timestamp": "20220605173512",
+      "original": "https://thehologram.io/anonymous-source-leaks-showroom-release-plans/",
+      "digest": "563OZA4MWGEM3JWFO2PSWQDEZNBL2GZV"
+    }
+  }
+}

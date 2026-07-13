@@ -1,0 +1,223 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-F1A7C0005DEDD212",
+    "url_id": "URL-F1A7C0005DEDD212",
+    "url": "https://hologramnews.com/galia-merchants-sponsor-copa-2024-design-contest-and-giveaway",
+    "title": "Galia Merchants Sponsor COPA 2024 Design Contest and Giveaway - Hologram News Network 🦉",
+    "author": "UNKNOWN",
+    "publisher": "Hologram News Network (HNN)",
+    "publication_identity": "HNN website (hologramnews.com)",
+    "published_at": "2024-02-13T18:46:48+00:00",
+    "updated_at": "2024-02-13T18:48:12+00:00",
+    "retrieved_at": "2026-07-13T00:10:26.519154Z",
+    "document_type": "REFERENCE",
+    "source_role": "REFERENCE",
+    "publication_role": "REFERENCE",
+    "classification_rationale": "Publication is structured as a guide or reference."
+  },
+  "source_lineage": {
+    "publication": "HNN website (hologramnews.com)",
+    "publication_role": "REFERENCE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "publication": "Galia Merchants",
+        "author": "UNKNOWN",
+        "url": "https://galiamerchants.com/product-category/star-atlas/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://staratlas.com/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Galia Merchants Website",
+        "author": "UNKNOWN",
+        "url": "https://galiamerchants.com/copa-design-contest/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "https://discord.gg/vxhxyf59XP",
+        "author": "UNKNOWN",
+        "url": "https://discord.gg/vxhxyf59XP",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [],
+    "attribution_chain": [
+      {
+        "from": "Galia Merchants",
+        "to": "HNN website (hologramnews.com)",
+        "relationship": "REFERENCES",
+        "url": "https://galiamerchants.com/product-category/star-atlas/"
+      },
+      {
+        "from": "Star Atlas",
+        "to": "HNN website (hologramnews.com)",
+        "relationship": "REFERENCES",
+        "url": "https://staratlas.com/"
+      },
+      {
+        "from": "Galia Merchants Website",
+        "to": "HNN website (hologramnews.com)",
+        "relationship": "REFERENCES",
+        "url": "https://galiamerchants.com/copa-design-contest/"
+      },
+      {
+        "from": "https://discord.gg/vxhxyf59XP",
+        "to": "HNN website (hologramnews.com)",
+        "relationship": "REFERENCES",
+        "url": "https://discord.gg/vxhxyf59XP"
+      }
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "This reference published by Hologram News Network (HNN) on 2024-02-13 documents “Galia Merchants Sponsor COPA 2024 Design Contest and Giveaway - Hologram News Network 🦉.” Its surviving text addresses governance, economy, guilds and DACs, community, technology. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "Galia Merchants Sponsor COPA 2024 Design Contest and Giveaway\nBy Hologram News NetworkPublished On: 13 February 2024Tags: copa, galia merchants, Star Atlas Community\nGalia Merchants is hosting a design contest for COPA 2024. Winners receive the opportunity to convert designs into t-shirts and receive a portion of revenue for their work!\nThe contest will be judged by a panel of popular Star Atlas community members and design artists, including the Director of Star Atlas Product Design!\nFull details for the Galia Merchants design contest can be found below or at the Galia Merchants Website.\nWhat is it?\nA design contest open to the entire Star Atlas community (individual or guild)\nWhat’s the task?\nCreate a COPA or Star Atlas-inspired tshirt design\nWhat’s the format for the design/images?\nDesign should be the following:\n4K\n300 dpi\npng\nNote: If you don’t know what this is, we can help.\nSubmission deadline: Feb 22, 2024\nSend submissions to: support@galiamerchants.com\nReviewing all designs will be our expert panel:\nLuciano, Director of Product Design, Star Atlas\nArktype, Content Creator and founder of Atlas Grace\nAtlas Theory, Content Creator and\nStacheattack, co-founder and lead designer, Galia Merchants\nWinners will be announced on Feb 28, 2024 on Twitter\nQuestions? Contact us here:\nFollow us on Twitter\nhttps://twitter.com/GaliaMerchants\nJoin our Discord\nhttps://discord.gg/vxhxyf59XP\nEmail\nsupport@galiamerchants.com\nPRIZES\nFirst Place:\nTshirt gets listed in the Galia Merchants (GM) store for sale\nWinner gets their design on a tshirt for free\nWinner gets 50% of the net profits from each product sale\n$50 in Polis or Atlas\nSecond Place:\nTshirt gets listed in the GM store for sale\nWinner gets their design on a tshirt for free\nWinner gets 25% of the net profits from each product sale\n$25 in Polis or Atlas\nThird place:\nTshirt gets listed in the GM store for sale\nWinner gets their design on a tshirt for free\nWinner gets 10% of the net profits from each product sale\n$25 in Polis or Atlas\nAbout the Author: Hologram News Network\nThe Hologram is Star Atlas’ first and only independent news network. HNN's goal is to deliver the most trusted source of information about Star Atlas and be a voice for the whole community.Simultaneously, HNN seeks to enable community driven content creation by supporting and sponsoring emerging creators, writers, and community members.Readers can expect a high standard from our reporting and staff.\nlatest video\neditor's pick\nDiscover Star Atlas Alpha Content Pipelines at Solana Breakpoint 2022\nUnlocking Star Atlas Secrets: CEO Michael Wagner’s CoinDesk.TV Exclusive\nnews via inbox\nGet news from the Hologram first\nVisit Galia Art Station",
+  "content_hash": "0ebbc44884891c59ff36627669d2bb1f98a9afec8bc981f8ee4e95e5fe6d064a",
+  "major_topics": [
+    "governance",
+    "economy",
+    "guilds and DACs",
+    "community",
+    "technology"
+  ],
+  "entities": [
+    "ATLAS",
+    "Michael Wagner",
+    "POLIS",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-F1A7C0005DEDD212-01",
+      "text": "The contest will be judged by a panel of popular Star Atlas community members and design artists, including the Director of Star Atlas Product Design!",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-F1A7C0005DEDD212",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-F1A7C0005DEDD212-02",
+      "text": "Submission deadline: Feb 22, 2024 Send submissions to: support@galiamerchants.com Reviewing all designs will be our expert panel: Luciano, Director of Product Design, Star Atlas Arktype, Content Creator and founder of Atlas Grace Atlas Theory, Content Creator and Stacheattack, co-founder and lead designer, Galia Merchants Winners will be announced on Feb 28, 2024 on Twitter Questions?",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-F1A7C0005DEDD212",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Star Atlas",
+    "POLIS",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [
+    "Michael Wagner"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://hologramnews.com/galia-merchants-sponsor-copa-2024-design-contest-and-giveaway/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://hologramnews.com/author/hologramnews-com/",
+      "anchor_text": "Hologram News Network"
+    },
+    {
+      "url": "https://hologramnews.com/tag/copa/",
+      "anchor_text": "copa"
+    },
+    {
+      "url": "https://hologramnews.com/tag/galia-merchants/",
+      "anchor_text": "galia merchants"
+    },
+    {
+      "url": "https://hologramnews.com/tag/community/",
+      "anchor_text": "Star Atlas Community"
+    },
+    {
+      "url": "https://galiamerchants.com/product-category/star-atlas/",
+      "anchor_text": "Galia Merchants"
+    },
+    {
+      "url": "https://hologramnews.com/category/community/",
+      "anchor_text": "community"
+    },
+    {
+      "url": "https://staratlas.com/",
+      "anchor_text": "Star Atlas"
+    },
+    {
+      "url": "https://galiamerchants.com/copa-design-contest/",
+      "anchor_text": "Galia Merchants Website"
+    },
+    {
+      "url": "https://twitter.com/GaliaMerchants",
+      "anchor_text": "https://twitter.com/GaliaMerchants"
+    },
+    {
+      "url": "https://discord.gg/vxhxyf59XP",
+      "anchor_text": "https://discord.gg/vxhxyf59XP"
+    },
+    {
+      "url": "https://hologramnews.com/discover-star-atlas-alpha-content-pipelines-at-solana-breakpoint-2022/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://hologramnews.com/unlocking-star-atlas-secrets-ceo-michael-wagners-coindesk-tv-exclusive/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://hologramnews.com/galia-art-station/",
+      "anchor_text": "Visit Galia Art Station"
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "UNKNOWN",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Author is not explicit in the surviving publication metadata."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://web.archive.org/web/20240420101206id_/https://hologramnews.com/galia-merchants-sponsor-copa-2024-design-contest-and-giveaway/",
+    "final_url": "https://web.archive.org/web/20240420101206id_/https://hologramnews.com/galia-merchants-sponsor-copa-2024-design-contest-and-giveaway/",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "response_size": 207705,
+    "elapsed_ms": 790,
+    "retrieval_mode": "INTERNET_ARCHIVE",
+    "archive_capture": {
+      "timestamp": "20240420101206",
+      "original": "https://hologramnews.com/galia-merchants-sponsor-copa-2024-design-contest-and-giveaway/",
+      "digest": "DW7O42RQ2YRERY7T7B2UXUSQGNCJWNFL"
+    }
+  }
+}

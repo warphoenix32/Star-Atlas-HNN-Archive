@@ -1,0 +1,14 @@
+{
+  "topic": "can, crew, game, ships, showroom, the, this, time",
+  "official_source_ids": [
+    "SRC-OFF-BE6BD1DC05B4F3F6"
+  ],
+  "community_source_ids": [
+    "SRC-AEPHIA-5D8E76D27A4B2F31"
+  ],
+  "relationship": "OFFICIAL_SUPERSEDES_OLDER_GUIDE",
+  "finding": "Automated topic overlap on: can, crew, game, ships, showroom, the, this, time, ue5. Official authority is limited to the official wording; community context remains separately attributed.",
+  "confidence": "LOW",
+  "promotion_candidate": false,
+  "manual_review_required": true
+}

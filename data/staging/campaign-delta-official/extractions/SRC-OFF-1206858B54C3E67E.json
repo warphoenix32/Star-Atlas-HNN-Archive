@@ -1,0 +1,138 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-1206858B54C3E67E",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47053503890579-What-are-Local-Markets-in-Sage-Labs-Starbased",
+    "title": "What are Local Markets in Sage Labs Starbased?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-03T13:17:12Z",
+    "updated_at": "2025-12-08T18:23:50Z",
+    "original_date_text": "2025-12-03T13:17:12Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “What are Local Markets in Sage Labs Starbased?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "In SAGE Labs Starbased, Local Markets are starbase-specific trading hubs that allow players to buy and sell items directly within the game environment. Each starbase in the Galia Expanse operates as an independent market, with prices influenced by local supply and demand dynamics.\nKey Features of Local Markets:\nStarbase-Specific Economies: Each starbase functions as a distinct market, creating unique economic conditions across the galaxy. Prices for goods can vary between starbases based on localized supply and demand.\nIn-Game Transactions: Players can conduct trades without removing assets from the game, streamlining the process of buying and selling items within the SAGE Labs Starbased environment.\nCareer Opportunities: The introduction of Local Markets paves the way for new professions, such as freighting, where players transport goods between starbases to exploit price differences and maximize profits.",
+  "content_hash": "34b1e2f9d62a3b6ae8f8c2641215e01260f45fbc8762ed3763bd8c223bdab65f",
+  "entities": [
+    "SAGE",
+    "SAGE Labs"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-1206858B54C3E67E-01",
+      "text": "In SAGE Labs Starbased, Local Markets are starbase-specific trading hubs that allow players to buy and sell items directly within the game environment.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-1206858B54C3E67E",
+      "publication_date": "2025-12-03T13:17:12Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-1206858B54C3E67E-02",
+      "text": "Each starbase in the Galia Expanse operates as an independent market, with prices influenced by local supply and demand dynamics.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-1206858B54C3E67E",
+      "publication_date": "2025-12-03T13:17:12Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-1206858B54C3E67E-03",
+      "text": "Key Features of Local Markets: Starbase-Specific Economies: Each starbase functions as a distinct market, creating unique economic conditions across the galaxy.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-1206858B54C3E67E",
+      "publication_date": "2025-12-03T13:17:12Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-1206858B54C3E67E-04",
+      "text": "Prices for goods can vary between starbases based on localized supply and demand.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-1206858B54C3E67E",
+      "publication_date": "2025-12-03T13:17:12Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-1206858B54C3E67E-05",
+      "text": "In-Game Transactions: Players can conduct trades without removing assets from the game, streamlining the process of buying and selling items within the SAGE Labs Starbased environment.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-1206858B54C3E67E",
+      "publication_date": "2025-12-03T13:17:12Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-1206858B54C3E67E-06",
+      "text": "Career Opportunities: The introduction of Local Markets paves the way for new professions, such as freighting, where players transport goods between starbases to exploit price differences and maximize profits.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-1206858B54C3E67E",
+      "publication_date": "2025-12-03T13:17:12Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "SAGE Labs",
+    "SAGE"
+  ],
+  "governance_items": [],
+  "lore_items": [
+    "Galia"
+  ],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47053503890579-What-are-Local-Markets-in-Sage-Labs-Starbased",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.236877Z"
+  }
+}

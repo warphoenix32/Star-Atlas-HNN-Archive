@@ -1,0 +1,231 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-C550641C23773119",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47061415578259-What-are-Crew",
+    "title": "What are Crew?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-03T17:01:48Z",
+    "updated_at": "2025-12-08T18:23:29Z",
+    "original_date_text": "2025-12-03T17:01:48Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://based.staratlas.com/",
+        "anchor_text": "SAGE Labs"
+      },
+      {
+        "url": "https://store.epicgames.com/fr/p/star-atlas-bead34",
+        "anchor_text": "UE5 Game"
+      },
+      {
+        "url": "https://play.staratlas.com/market/crew/",
+        "anchor_text": "Star Atlas Marketplace"
+      },
+      {
+        "url": "https://play.staratlas.com/crew/",
+        "anchor_text": "PLAY"
+      },
+      {
+        "url": "https://www.tensor.trade/trade/staratlascrew",
+        "anchor_text": "Tensor"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “What are Crew?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Crew are essential characters in Star Atlas that serve both strategic and immersive roles across multiple gameplay experiences. Whether you're managing fleets in SAGE Labs or exploring the galaxy in the UE5 game, Crew are a core part of your operations\nIn SAGE Labs (Browser Game)\nRequired for Fleet Deployment: Every ship has a crew requirement. You’ll need the correct number of Crew to operate a fleet.\nUsed in Operation: Assign Crew to crafting tasks. The more Crew you allocate, the faster the crafting process completes.\nIn the MMORPG UE5 Game (Epic Games)\nPlay as Your Crew: In the 3D Star Atlas experience, Crew members can be used as your playable avatar, adding personalization and immersion as you explore the galaxy.\nHow to Get Crew\n1. Crew Packs on the Marketplace\nBuy Crew Packs directly on the Star Atlas Marketplace using ATLAS or USDC. Once purchased, open them on the PLAY site to reveal the individual Crew inside.\n2. Buy Individual Crew on Secondary Market\nIf you prefer to pick specific Crew, you can trade individual Crew directly on Tensor, a secondary marketplace for Solana NFTs.",
+  "content_hash": "b007615fe85899e3efdf60771d1103edc88efc24229829bf7b88e7a45fba056c",
+  "entities": [
+    "ATLAS",
+    "CORE",
+    "Crew",
+    "SAGE",
+    "SAGE Labs",
+    "Solana"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-C550641C23773119-01",
+      "text": "Crew are essential characters in Star Atlas that serve both strategic and immersive roles across multiple gameplay experiences.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-C550641C23773119",
+      "publication_date": "2025-12-03T17:01:48Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-C550641C23773119-02",
+      "text": "Whether you're managing fleets in SAGE Labs or exploring the galaxy in the UE5 game, Crew are a core part of your operations In SAGE Labs (Browser Game) Required for Fleet Deployment: Every ship has a crew requirement.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-C550641C23773119",
+      "publication_date": "2025-12-03T17:01:48Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-C550641C23773119-03",
+      "text": "You’ll need the correct number of Crew to operate a fleet.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-C550641C23773119",
+      "publication_date": "2025-12-03T17:01:48Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-C550641C23773119-04",
+      "text": "Used in Operation: Assign Crew to crafting tasks.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-C550641C23773119",
+      "publication_date": "2025-12-03T17:01:48Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-C550641C23773119-05",
+      "text": "The more Crew you allocate, the faster the crafting process completes.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-C550641C23773119",
+      "publication_date": "2025-12-03T17:01:48Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-C550641C23773119-06",
+      "text": "In the MMORPG UE5 Game (Epic Games) Play as Your Crew: In the 3D Star Atlas experience, Crew members can be used as your playable avatar, adding personalization and immersion as you explore the galaxy.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-C550641C23773119",
+      "publication_date": "2025-12-03T17:01:48Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-C550641C23773119-07",
+      "text": "Crew Packs on the Marketplace Buy Crew Packs directly on the Star Atlas Marketplace using ATLAS or USDC.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-C550641C23773119",
+      "publication_date": "2025-12-03T17:01:48Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-C550641C23773119-08",
+      "text": "Once purchased, open them on the PLAY site to reveal the individual Crew inside.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-C550641C23773119",
+      "publication_date": "2025-12-03T17:01:48Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-C550641C23773119-09",
+      "text": "Buy Individual Crew on Secondary Market If you prefer to pick specific Crew, you can trade individual Crew directly on Tensor, a secondary marketplace for Solana NFTs.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-C550641C23773119",
+      "publication_date": "2025-12-03T17:01:48Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "SAGE Labs",
+    "SAGE",
+    "CORE",
+    "ATLAS",
+    "Crew"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [
+    "Solana"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://based.staratlas.com/",
+      "anchor_text": "SAGE Labs"
+    },
+    {
+      "url": "https://store.epicgames.com/fr/p/star-atlas-bead34",
+      "anchor_text": "UE5 Game"
+    },
+    {
+      "url": "https://play.staratlas.com/market/crew/",
+      "anchor_text": "Star Atlas Marketplace"
+    },
+    {
+      "url": "https://play.staratlas.com/crew/",
+      "anchor_text": "PLAY"
+    },
+    {
+      "url": "https://www.tensor.trade/trade/staratlascrew",
+      "anchor_text": "Tensor"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://based.staratlas.com/",
+      "anchor_text": "SAGE Labs"
+    },
+    {
+      "url": "https://play.staratlas.com/market/crew/",
+      "anchor_text": "Star Atlas Marketplace"
+    },
+    {
+      "url": "https://play.staratlas.com/crew/",
+      "anchor_text": "PLAY"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47061415578259-What-are-Crew",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.189991Z"
+  }
+}

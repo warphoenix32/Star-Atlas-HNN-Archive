@@ -1,0 +1,14 @@
+{
+  "topic": "claims, economy, escape, player, record, remain, the, this",
+  "official_source_ids": [
+    "SRC-OFF-50C11FFE40CE676F"
+  ],
+  "community_source_ids": [
+    "SRC-HNN-20CAC51888FDEF8A"
+  ],
+  "relationship": "COMMUNITY_PRECEDES_OFFICIAL_ANNOUNCEMENT",
+  "finding": "Automated topic overlap on: claims, economy, escape, player, record, remain, the, this, time, velocity. Official authority is limited to the official wording; community context remains separately attributed.",
+  "confidence": "LOW",
+  "promotion_candidate": false,
+  "manual_review_required": true
+}

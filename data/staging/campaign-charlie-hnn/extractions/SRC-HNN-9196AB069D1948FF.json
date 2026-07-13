@@ -1,0 +1,308 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-9196AB069D1948FF",
+    "url_id": "URL-9196AB069D1948FF",
+    "url": "https://thehologram.io/star-atlas-townhall-recap",
+    "title": "Star Atlas Townhall recap » The Hologram",
+    "author": "FowlAC",
+    "publisher": "Hologram News Network (HNN)",
+    "publication_identity": "Archived HNN website (thehologram.io)",
+    "published_at": "2022-10-29T19:09:54+00:00",
+    "updated_at": "2022-10-29T19:10:55+00:00",
+    "retrieved_at": "2026-07-13T00:08:51.646343Z",
+    "document_type": "EVENT_COVERAGE",
+    "source_role": "EVENT_COVERAGE",
+    "publication_role": "EVENT_COVERAGE",
+    "classification_rationale": "Publication documents or recaps a named event."
+  },
+  "source_lineage": {
+    "publication": "Archived HNN website (thehologram.io)",
+    "publication_role": "EVENT_COVERAGE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [
+      {
+        "publication": "Star Atlas TV",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=l5hUj0_Msf0",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "play.staratlas.com",
+        "author": "UNKNOWN",
+        "url": "https://play.staratlas.com/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [
+      "FowlAC"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Star Atlas TV",
+        "to": "Archived HNN website (thehologram.io)",
+        "relationship": "REPORTS_ON",
+        "url": "https://www.youtube.com/watch?v=l5hUj0_Msf0"
+      },
+      {
+        "from": "play.staratlas.com",
+        "to": "Archived HNN website (thehologram.io)",
+        "relationship": "REPORTS_ON",
+        "url": "https://play.staratlas.com/"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "This event coverage published by Hologram News Network (HNN) on 2022-10-29 documents “Star Atlas Townhall recap » The Hologram.” Its surviving text addresses governance, economy, guilds and DACs, game development, community, technology. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "Star Atlas Townhall recap\nPosted by FowlAC | Oct 29, 2022 | Roadmap Updates, Special Feature, Town Hall\nAs usual, Star Atlas put on a content rich townhall with plenty of content drops (Lowbie!) and a long list of substantive new features in the pipeline (see below). However, somewhat unusual for Star Atlas, were the low numbers of viewers this time around. By our rough estimates, the townhall ranged between 200-300; a bit of surprise given previous townhall numbers.\nAfter the townhall, the Hologram reached out to guild leaders for their first impressions. Many were happy with the updates, especially the new features of the Showroom R2 and the presence of Star Atlas at Breakpoint. It was clear to all of them that the Star Atlas team is working hard and endeavoring to deliver on its promises. However, there was some concern around a perceived decline in community participation and engagement and how Star Atlas will navigate tough market conditions to onboard new players into the ecosystem.\nBelow are the highlights from yesterday’s townhall. For those who missed it, Star Atlas TV recorded the entire event. Be sure to also check out the Star Atlas announcements channel for some great new images and videos of the Lowbie.\n426LiveNYC stats:\nStar Atlas CEO Michael Wagner kicked off the townhall with a few stats from the 426LiveNYC event:\n1400 concurrent viewers on Twitch during the livestream and 2200 comments on recorded broadcasts\n8000 views on recorded broadcasts and 3100 unique viewers\n7000 viewers on YouTube and 325 likes\nNet Promoter Score (NPS) of 4.93 out of 5\nFor those unfamiliar, the Net Promoter Score is a metric used to gauge the health of a customer base or community. A high score indicates that many in the community “are likely to act as evangelists for the brand, fuel word of mouth, and generate a positive growth cycle.” Michael said: “You never see that high of a NPS out there.”\nSolana Breakpoint Conference:\nMichael mentioned that it was Solana that solicited Star Atlas for this event.\nA key event for Star Atlas will be the “Games Day” event on Nov. 4. There, Star Atlas intends on launching some of the “mindblowing” features of Showroom R2 such as a Pearce X4 race course and a standalone X4 PVE dogfighting arena.\nThe Games Day event will be separate from the conference and free of charge but you must register beforehand to attend.\nOn Nov. 7 at 3:15 UTC, Michael will use his keynote speech to provide a comprehensive overview of Star Atlas and share some new product releases and reveals including a special announcement about the graphic novel, CORE.\nStar Atlas feature updates [Note: Exact dates were not given by Michael for these features other than “coming soon.”]:\nPortal team (play.staratlas.com)\nLaunch of the player profile system. Unification of multiple wallets under a single profile for the player. Players will be able to utilize their combined balances in multiple wallets for gameplay. Unlocks name selection and registration process, as well. According to Michael, these enhancements have now created a “primitive” which will allow lending and scholarship dapps to be developed by others (not Star Atlas).\nStar Atlas is in the early stages of completing work on DAC/guild platform which will unlock features such as: multisig wallets, guild registration process, guild management features like adding players, removing players, promoting and demoting members, DAC leaderboards. They are also working on providing a dedicated page on play.staratlas.com that will be provided for each guild so they can configure/edit and promote their activities.\nGeneral UX improvements: Enable historical transaction charts so marketplace users can see trading history and “value over time.”\nDAO team:\nUsability and UX improvements like updated chart systems for reward claims, restructuring the wallet connect to a modal system to unify all frontend environments (e.g., Portal, DAO). Rolling out darkmode.\nTreasury reports page: Will allow players to view Atlas and USDC balances and track revenue. Current estimates are that there are 350 million and ~15K USDC in the Treasury.\nA Spend Tracker: identify where outflows are going and for what purpose as well as a dedicated section to show the current balance and distributions of the reward emission wallets.\nEarly stage planning for full governance functionality: Looking at public forum systems to handle Polis Improvement Proposals (PIP) and voting etc.\nShowroom team:\nShowroom R2 will not be feature complete at Breakpoint but it will eventually allow multiplayer to host private or open gameplay. There will also be text chat, proximity voice chat, highly configurable photo mode, skin and character selections, race course with global leaderboard, isolated dogfighting arena (X4s and Floyd Liner). There are 12 in total ships in progress which will be added to Showroom and the Epic Game Store on an ongoing basis.\nMichael shared some private words from Danny Floyd: “We are setting the standard for space game asset design, not just across blockchain games but across all games. Future game devs will benchmark their work against the work of Star Atlas.”\nSCREAM:\nStill targeting end of year but may extend into Q1 of 2023.\nThere is no persistent or real economic loops in first version. This will be an alpha test of the game mechanics involving no real assets. It’ll be on Solana devnet not mainnet\nMichael is looking for feedback on two options for players: Option 1) a copy paste of your existing assets into devnet; or Option 2) a “paper portfolio” where everyone gets the same default assets and then run competitions to see who was able to excel the most.\nInterview with Brett, Star Atlas blockchain architect\nBrett is focused on SCREAM\nMain task is to translate Star Atlas game design into blockchain terms. Every player/user event will be onchain. The chain will hold the entire game logic.\nMost game paradigms don’t work onchain. In traditional gaming, loops are updated every 60 seconds or so. That is not possible onchain.\nTooling isn’t quite there for onchain games so Brett sees Star Atlas as a pioneer in this area.\nWill be opensource.\nAuthor\nFowlAC\nSenior Editor and VP of Operations\nView all posts\nShare:\nRelated Posts\nStar Atlas Delivers with 426LiveNYK Event\nSeptember 29, 2022\nStar Atlas Unveils New Galactic Marketplace\nJuly 22, 2022\nCommunity Spotlight: Arktype and Atlas Grace\nSeptember 20, 2022\nResumen del Town Hall – 26/08/22\nAugust 26, 2022\nLeave a reply Cancel reply",
+  "content_hash": "28763658ce6dd62099270a49aaea399d10bff565d8a4b9388486abe9db2ea44e",
+  "major_topics": [
+    "governance",
+    "economy",
+    "guilds and DACs",
+    "game development",
+    "community",
+    "technology"
+  ],
+  "entities": [
+    "ATLAS",
+    "Danny Floyd",
+    "Michael Wagner",
+    "POLIS",
+    "SCORE",
+    "SCREAM",
+    "Showroom",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-9196AB069D1948FF-01",
+      "text": "However, there was some concern around a perceived decline in community participation and engagement and how Star Atlas will navigate tough market conditions to onboard new players into the ecosystem.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-9196AB069D1948FF",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-9196AB069D1948FF-02",
+      "text": "A high score indicates that many in the community “are likely to act as evangelists for the brand, fuel word of mouth, and generate a positive growth cycle.” Michael said: “You never see that high of a NPS out there.” Solana Breakpoint Conference: Michael mentioned that it was Solana that solicited Star Atlas for this event.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-9196AB069D1948FF",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-9196AB069D1948FF-03",
+      "text": "A key event for Star Atlas will be the “Games Day” event on Nov.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-9196AB069D1948FF",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-9196AB069D1948FF-04",
+      "text": "The Games Day event will be separate from the conference and free of charge but you must register beforehand to attend.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-9196AB069D1948FF",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-9196AB069D1948FF-05",
+      "text": "7 at 3:15 UTC, Michael will use his keynote speech to provide a comprehensive overview of Star Atlas and share some new product releases and reveals including a special announcement about the graphic novel, CORE.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-9196AB069D1948FF",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-9196AB069D1948FF-06",
+      "text": "Players will be able to utilize their combined balances in multiple wallets for gameplay.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-9196AB069D1948FF",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-9196AB069D1948FF-07",
+      "text": "According to Michael, these enhancements have now created a “primitive” which will allow lending and scholarship dapps to be developed by others (not Star Atlas).",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-9196AB069D1948FF",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-9196AB069D1948FF-08",
+      "text": "Star Atlas is in the early stages of completing work on DAC/guild platform which will unlock features such as: multisig wallets, guild registration process, guild management features like adding players, removing players, promoting and demoting members, DAC leaderboards.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-9196AB069D1948FF",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-9196AB069D1948FF-09",
+      "text": "They are also working on providing a dedicated page on play.staratlas.com that will be provided for each guild so they can configure/edit and promote their activities.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-9196AB069D1948FF",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-9196AB069D1948FF-10",
+      "text": "Treasury reports page: Will allow players to view Atlas and USDC balances and track revenue.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-9196AB069D1948FF",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-9196AB069D1948FF-11",
+      "text": "Showroom team: Showroom R2 will not be feature complete at Breakpoint but it will eventually allow multiplayer to host private or open gameplay.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-9196AB069D1948FF",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-9196AB069D1948FF-12",
+      "text": "There will also be text chat, proximity voice chat, highly configurable photo mode, skin and character selections, race course with global leaderboard, isolated dogfighting arena (X4s and Floyd Liner).",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-9196AB069D1948FF",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "SCORE",
+    "Star Atlas",
+    "Showroom",
+    "POLIS",
+    "ATLAS",
+    "SCREAM"
+  ],
+  "governance_items": [
+    "Star Atlas governance / DAO"
+  ],
+  "lore_items": [],
+  "actors": [
+    "Michael Wagner",
+    "Danny Floyd"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://thehologram.io/author/fowlac/",
+      "anchor_text": "FowlAC"
+    },
+    {
+      "url": "https://thehologram.io/category/gameplay/roadmap-updates/",
+      "anchor_text": "Roadmap Updates"
+    },
+    {
+      "url": "https://thehologram.io/category/special-feature/",
+      "anchor_text": "Special Feature"
+    },
+    {
+      "url": "https://thehologram.io/category/espanol/town-hall/",
+      "anchor_text": "Town Hall"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=l5hUj0_Msf0",
+      "anchor_text": "Star Atlas TV"
+    },
+    {
+      "url": "https://twitter.com/at_mwagner",
+      "anchor_text": "Michael Wagner"
+    },
+    {
+      "url": "https://play.staratlas.com/",
+      "anchor_text": "play.staratlas.com"
+    },
+    {
+      "url": "http://www.facebook.com/sharer.php?u=https://thehologram.io/star-atlas-townhall-recap/&t=Star%20Atlas%20Townhall%20recap",
+      "anchor_text": ""
+    },
+    {
+      "url": "http://twitter.com/intent/tweet?text=Star%20Atlas%20Townhall%20recap%20https://thehologram.io/star-atlas-townhall-recap/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/star-atlas-delivers-with-426livenyk-event/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/star-atlas-unveils-new-galactic-marketplace/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/community-spotlight-arktype-and-atlas-grace/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/resumen-th-260822/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/star-atlas-townhall-recap/",
+      "anchor_text": "Cancel reply"
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "https://web.archive.org/web/20221029191650id_/https://thehologram.io/star-atlas-townhall-recap/",
+    "final_url": "https://web.archive.org/web/20221029191650id_/https://thehologram.io/star-atlas-townhall-recap/",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "response_size": 163023,
+    "elapsed_ms": 1182,
+    "retrieval_mode": "INTERNET_ARCHIVE",
+    "archive_capture": {
+      "timestamp": "20221029191650",
+      "original": "https://thehologram.io/star-atlas-townhall-recap/",
+      "digest": "BIVAMVA2IXRY37TNYSW5KVNK432NNO6S"
+    }
+  }
+}

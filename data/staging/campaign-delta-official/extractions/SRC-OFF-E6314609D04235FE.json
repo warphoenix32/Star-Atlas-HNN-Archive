@@ -1,0 +1,215 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-E6314609D04235FE",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47061439814547-What-are-the-Star-Atlas-tokens",
+    "title": "What are the Star Atlas tokens?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-03T17:01:24Z",
+    "updated_at": "2025-12-08T18:23:44Z",
+    "original_date_text": "2025-12-03T17:01:24Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://atmta.zendesk.com/hc/en-us/articles/47061462878355",
+        "anchor_text": "Learn more on how to buy ATLAS and POLIS"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “What are the Star Atlas tokens?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Star Atlas is driven by a dual token system (ATLAS/POLIS), with multi-currency Solana asset support.\nPOLIS\nPOLIS is a multifunctional decentralized governance token with applications both in-game and in directing real world economic policy.\nPOLIS is the platform’s governance token and is used for all decision-making regarding the project’s development. Token holders have voting power in the Star Atlas DAO, control its treasury, and control the Star Atlas metaverse and game. As of now, POLIS has a fixed supply that is unchangeable, unless governance decides otherwise in the future.\nFurthermore, the Star Atlas DAO is also tasked with minting, distribution, and redistribution of the in-game utility token (ATLAS) in the treasury. The Star Atlas DAO could, for example, vote to deploy ATLAS in its treasury to fund ecosystem development.\nATLAS\nKnown as the payment or in-game utility token, ATLAS is used as a medium of exchange in the Star Atlas economy. The token is inflationary by design and aims to match the growth of the in-game economy. Additionally, it was primarily made to provide a solid monetary base for in-game economical interactions and onramps to enter the game.\nAs the designated in-game currency, ATLAS is used to reward in-game activities. However, the burning and minting of the token are directly related to game adoption and user growth as determined by the Star Atlas DAO.Learn more on how to buy ATLAS and POLIS",
+  "content_hash": "ca86d372d934a766519b787b5b4b7b478c9a26ed887e733e79ee37d5897144fd",
+  "entities": [
+    "ATLAS",
+    "POLIS",
+    "Solana",
+    "Star Atlas DAO"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-E6314609D04235FE-01",
+      "text": "Star Atlas is driven by a dual token system (ATLAS/POLIS), with multi-currency Solana asset support.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E6314609D04235FE",
+      "publication_date": "2025-12-03T17:01:24Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E6314609D04235FE-02",
+      "text": "POLIS POLIS is a multifunctional decentralized governance token with applications both in-game and in directing real world economic policy.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E6314609D04235FE",
+      "publication_date": "2025-12-03T17:01:24Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E6314609D04235FE-03",
+      "text": "POLIS is the platform’s governance token and is used for all decision-making regarding the project’s development.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E6314609D04235FE",
+      "publication_date": "2025-12-03T17:01:24Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E6314609D04235FE-04",
+      "text": "Token holders have voting power in the Star Atlas DAO, control its treasury, and control the Star Atlas metaverse and game.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E6314609D04235FE",
+      "publication_date": "2025-12-03T17:01:24Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E6314609D04235FE-05",
+      "text": "As of now, POLIS has a fixed supply that is unchangeable, unless governance decides otherwise in the future.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E6314609D04235FE",
+      "publication_date": "2025-12-03T17:01:24Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E6314609D04235FE-06",
+      "text": "Furthermore, the Star Atlas DAO is also tasked with minting, distribution, and redistribution of the in-game utility token (ATLAS) in the treasury.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E6314609D04235FE",
+      "publication_date": "2025-12-03T17:01:24Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E6314609D04235FE-07",
+      "text": "The Star Atlas DAO could, for example, vote to deploy ATLAS in its treasury to fund ecosystem development.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E6314609D04235FE",
+      "publication_date": "2025-12-03T17:01:24Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E6314609D04235FE-08",
+      "text": "ATLAS Known as the payment or in-game utility token, ATLAS is used as a medium of exchange in the Star Atlas economy.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E6314609D04235FE",
+      "publication_date": "2025-12-03T17:01:24Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E6314609D04235FE-09",
+      "text": "The token is inflationary by design and aims to match the growth of the in-game economy.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E6314609D04235FE",
+      "publication_date": "2025-12-03T17:01:24Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E6314609D04235FE-10",
+      "text": "Additionally, it was primarily made to provide a solid monetary base for in-game economical interactions and onramps to enter the game.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E6314609D04235FE",
+      "publication_date": "2025-12-03T17:01:24Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E6314609D04235FE-11",
+      "text": "As the designated in-game currency, ATLAS is used to reward in-game activities.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E6314609D04235FE",
+      "publication_date": "2025-12-03T17:01:24Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E6314609D04235FE-12",
+      "text": "However, the burning and minting of the token are directly related to game adoption and user growth as determined by the Star Atlas DAO.Learn more on how to buy ATLAS and POLIS",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E6314609D04235FE",
+      "publication_date": "2025-12-03T17:01:24Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "POLIS",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [
+    "Star Atlas DAO",
+    "Solana"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://atmta.zendesk.com/hc/en-us/articles/47061462878355",
+      "anchor_text": "Learn more on how to buy ATLAS and POLIS"
+    }
+  ],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47061439814547-What-are-the-Star-Atlas-tokens",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.222659Z"
+  }
+}

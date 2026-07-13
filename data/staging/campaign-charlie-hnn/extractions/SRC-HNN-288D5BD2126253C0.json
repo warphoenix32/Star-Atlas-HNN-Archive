@@ -1,0 +1,160 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-288D5BD2126253C0",
+    "url_id": "URL-288D5BD2126253C0",
+    "url": "https://medium.com/the-hologram/afsex-the-first-star-atlas-fleet-share-token-147a0100d327",
+    "title": "$AFSeX, The First Star Atlas Fleet Share Token",
+    "author": "Krigs",
+    "publisher": "The Hologram",
+    "publication_identity": "The Hologram (Medium publication)",
+    "published_at": "2022-12-28T13:19:27Z",
+    "updated_at": "2022-12-28T13:19:27Z",
+    "retrieved_at": "2026-07-13T00:13:57.353540Z",
+    "document_type": "INVESTIGATIVE_REPORT",
+    "source_role": "INVESTIGATIVE_REPORT",
+    "publication_role": "INVESTIGATIVE_REPORT",
+    "classification_rationale": "Publication uses investigative framing or documents an inquiry."
+  },
+  "source_lineage": {
+    "publication": "The Hologram (Medium publication)",
+    "publication_role": "INVESTIGATIVE_REPORT",
+    "relationship": "INVESTIGATES",
+    "primary_sources": [
+      {
+        "publication": "Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://staratlas.com/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [
+      "Krigs"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Star Atlas",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "INVESTIGATES",
+        "url": "https://staratlas.com/"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "This investigative report published by The Hologram on 2022-12-28 documents “$AFSeX, The First Star Atlas Fleet Share Token.” Its surviving text addresses governance, economy, guilds and DACs, game development, community, lore, technology. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "$AFSeX, The First Star Atlas Fleet Share Token\nKrigs3 min read·Dec 28, 2022\n--\n1\nListen\nShare\n$AFSeX gives owners partial exposure to Star Atlas assets\nAs a cryptocurrency backed blockchain game, Star Atlas presents a unique opportunity for both gamers and crypto enthusiasts.\nPress enter or click to view image in full sizeAFSeX Market Data\nUnlike traditional gaming, however, the Star Atlas economic system allows individuals to create parallel pathways of financial management and exposure that isn’t tied directly to gameplay. One example is $AFSeX, a community built Star Atlas exposure token for individuals unwilling or unable to buy Star Atlas ships directly.\nBuyers and holders of $AFSeX are exposed to partial ownership of a variety of Star Atlas ships without the necessary purchase of a ship or daily management of in game resources. The fund operates by creating a liquidity pool from token holders by which ships and other Star Atlas commodities are purchased.\n$AFSeX operates using a high frequency trading bot\nThe token’s founder, retired crypto trader Andre, formulated the idea when trying to determine sustained pathways of viable economic growth within Star Atlas. As an experienced and now retired crypto trader, Andre previously used high-frequency trading bots with great success on the Ethereum market. Now, he’s turned that experience into a successful venture market for Star Atlas ships. The $AFSeX fund currently holds over 100 ships, $POLIS, and R4 resources.\nIn the past 5 months $AFSeX has doubled in price, reaching an individual price of $.02. With approximately 44 participants and $5.8K in liquidity, Andre’s Fleet Share is a relatively small community run project. However, as the past few months indicate, the $AFSeX’s performance has remained steady. $AFSeX can be traded for on Radium.\nDisclaimer: $AFSeX is a cryptocurrency token utilizing a liquidity pool-token concept to given individuals exposure to high cost Star Atlas assets at a lower cost. Like all cryptocurrencies, owning $AFSeX carries a degree of risk. Nothing in this article constitutes financial advice or purchase endorsement. The author owns a position in $AFSeX.\nAbout the Author\nKrigs is the founder of The Hologram News Network, an independent blockchain gaming meta-news organization devoted to the coverage of the Star Atlas game. Krigs has covered Star Atlas for the past year and enjoys writing about the potential that blockchain technology has to revolutionize the gaming industry.\nFollow on Social Media:\nTwitter | Instagram | Web\nAbout The Hologram\nThe Hologram is Star Atlas’ first and only independent news network. Our vision is to become the most trusted source of information about Star Atlas and a voice for the whole community. Readers can expect a high standard from our reporting and staff. Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.\nThe Hologram is not endorsed or paid by the Star Atlas team. Any information published by The Hologram nor its writers should be considered as informational in nature and does not constitute any financial",
+  "content_hash": "7e8d7615fdfb6bd25a0ac7b0cb89ed35adb3840fb299cd080655ddcc5772fd42",
+  "major_topics": [
+    "governance",
+    "economy",
+    "guilds and DACs",
+    "game development",
+    "community",
+    "lore",
+    "technology"
+  ],
+  "entities": [
+    "ATLAS",
+    "Krigs",
+    "POLIS",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-288D5BD2126253C0-01",
+      "text": "Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-288D5BD2126253C0",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Star Atlas",
+    "POLIS",
+    "ATLAS"
+  ],
+  "governance_items": [
+    "Star Atlas governance / DAO"
+  ],
+  "lore_items": [
+    "ONI"
+  ],
+  "actors": [
+    "Krigs"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://medium.com/@krigsfoniks?source=---byline--147a0100d327---------------------------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fthe-hologram%2F147a0100d327&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fafsex-the-first-star-atlas-fleet-share-token-147a0100d327&user=Krigs&userId=41e0c5b141f1&source=---header_actions--147a0100d327---------------------clap_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Frepost%2Fp%2F147a0100d327&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fafsex-the-first-star-atlas-fleet-share-token-147a0100d327&user=Krigs&userId=41e0c5b141f1&source=---header_actions--147a0100d327---------------------repost_header------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F147a0100d327&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fafsex-the-first-star-atlas-fleet-share-token-147a0100d327&source=---header_actions--147a0100d327---------------------bookmark_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2Fplans%3Fdimension%3Dpost_audio_button%26postId%3D147a0100d327&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fafsex-the-first-star-atlas-fleet-share-token-147a0100d327&source=---header_actions--147a0100d327---------------------post_audio_button------------------",
+      "anchor_text": "Listen"
+    },
+    {
+      "url": "https://medium.com/u/5ed69ff9cfb0?source=---user_mention--147a0100d327---------------------------------------",
+      "anchor_text": "Star Atlas"
+    },
+    {
+      "url": "https://twitter.com/home",
+      "anchor_text": "Twitter"
+    },
+    {
+      "url": "https://thehologram.io/",
+      "anchor_text": "Web"
+    },
+    {
+      "url": "https://medium.com/the-hologram",
+      "anchor_text": "The Hologram"
+    },
+    {
+      "url": "https://staratlas.com/",
+      "anchor_text": "Star Atlas"
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "https://medium.com/the-hologram/afsex-the-first-star-atlas-fleet-share-token-147a0100d327",
+    "final_url": "https://medium.com/the-hologram/afsex-the-first-star-atlas-fleet-share-token-147a0100d327",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 254734,
+    "elapsed_ms": 751,
+    "retrieval_mode": "LIVE",
+    "archive_capture": null
+  }
+}

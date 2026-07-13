@@ -1,0 +1,134 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-E258CC8F566D5F64",
+    "url": "https://build.staratlas.com/dev-resources/apis-and-data/sage",
+    "title": "Star Atlas Build",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Build / ATMTA",
+    "published_at": null,
+    "updated_at": "2026-04-16T16:32:35.000Z",
+    "original_date_text": "2026-04-16T16:32:35.000Z",
+    "document_type": "TECHNICAL_DOCUMENTATION",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Build / ATMTA",
+    "publication_role": "TECHNICAL_DOCUMENTATION",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://www.npmjs.com/package/@staratlas/sage",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://staratlasmeta.github.io/star-atlas-programs/sage",
+        "anchor_text": ""
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Build / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official technical documentation titled “Star Atlas Build.” This record preserves what Star Atlas Build / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "SAGE | Star Atlas Build\nSkip to contentStar Atlas BuildSearchK\nAppearance\nMenuReturn to top\nSAGE ​\nIntroduction ​\nThis is an NPM module for interfacing with the SAGE program\n@staratlas/sage\naccount types:\nSector\nStar\nPlanet\nFleet\nShip\nFleetShips\nStarbasePlayer\nMore...\nPackage\nDescription\nVersion\nDocs\n@staratlas/sage\nTypeScript bindings for the sage program\nInstallation ​\nReference: https://www.npmjs.com/package/@staratlas/sage\nbash\nnpm i @staratlas/sage\nExamples ​\nComing Soon...",
+  "content_hash": "7eb4263b2f9e7f7a3abc61e3e6b3947fe33a81620a3b234ec855c06aa1e5c64e",
+  "entities": [
+    "ATLAS",
+    "SAGE"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-E258CC8F566D5F64-01",
+      "text": "SAGE | Star Atlas Build Skip to contentStar Atlas BuildSearchK Appearance MenuReturn to top SAGE ​ Introduction ​ This is an NPM module for interfacing with the SAGE program @staratlas/sage account types: Sector Star Planet Fleet Ship FleetShips StarbasePlayer More...",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E258CC8F566D5F64",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E258CC8F566D5F64-02",
+      "text": "Package Description Version Docs @staratlas/sage TypeScript bindings for the sage program Installation ​ Reference: https://www.npmjs.com/package/@staratlas/sage bash npm i @staratlas/sage Examples ​ Coming Soon...",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E258CC8F566D5F64",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "SAGE",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/sage",
+      "anchor_text": "Skip to content"
+    },
+    {
+      "url": "https://build.staratlas.com/",
+      "anchor_text": "Star Atlas Build"
+    },
+    {
+      "url": "https://discord.com/invite/staratlas",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://www.npmjs.com/package/@staratlas/sage",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://staratlasmeta.github.io/star-atlas-programs/sage",
+      "anchor_text": ""
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/sage",
+      "anchor_text": "Skip to content"
+    },
+    {
+      "url": "https://build.staratlas.com/",
+      "anchor_text": "Star Atlas Build"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://build.staratlas.com/dev-resources/apis-and-data/sage",
+    "final_url": "https://build.staratlas.com/dev-resources/apis-and-data/sage",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 33526,
+    "retrieved_at": "2026-07-13T01:04:28.532954Z",
+    "elapsed_ms": 143
+  }
+}

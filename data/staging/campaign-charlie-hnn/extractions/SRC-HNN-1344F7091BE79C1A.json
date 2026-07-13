@@ -1,0 +1,242 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-1344F7091BE79C1A",
+    "url_id": "URL-1344F7091BE79C1A",
+    "url": "https://thehologram.io/1675-2",
+    "title": "El DAO de Star Atlas - POLIS staking ya está en marcha » The Hologram",
+    "author": "StacheAttack",
+    "publisher": "Hologram News Network (HNN)",
+    "publication_identity": "Archived HNN website (thehologram.io)",
+    "published_at": "2022-07-25T02:04:15+00:00",
+    "updated_at": null,
+    "retrieved_at": "2026-07-13T00:12:50.965554Z",
+    "document_type": "ORIGINAL_REPORTING",
+    "source_role": "ORIGINAL_REPORTING",
+    "publication_role": "ORIGINAL_REPORTING",
+    "classification_rationale": "Publication reports a development without explicit interview, editorial, investigative, event, or reference framing."
+  },
+  "source_lineage": {
+    "publication": "Archived HNN website (thehologram.io)",
+    "publication_role": "ORIGINAL_REPORTING",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [
+      {
+        "publication": "aquí",
+        "author": "UNKNOWN",
+        "url": "https://govern.staratlas.com/profile",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Base de Conocimientos de Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://govern.staratlas.com/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [
+      "StacheAttack"
+    ],
+    "attribution_chain": [
+      {
+        "from": "aquí",
+        "to": "Archived HNN website (thehologram.io)",
+        "relationship": "REPORTS_ON",
+        "url": "https://govern.staratlas.com/profile"
+      },
+      {
+        "from": "Base de Conocimientos de Star Atlas",
+        "to": "Archived HNN website (thehologram.io)",
+        "relationship": "REPORTS_ON",
+        "url": "https://govern.staratlas.com/"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "This original reporting published by Hologram News Network (HNN) on 2022-07-25 documents “El DAO de Star Atlas - POLIS staking ya está en marcha » The Hologram.” Its surviving text addresses governance, economy, guilds and DACs, game development, community, lore, technology. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "El DAO de Star Atlas – POLIS staking ya está en marcha\nPosted by StacheAttack | Jul 25, 2022 | Spanish\nSábado, 23 de julio – Uno de los aspectos más fundamentales del metaverso de Star Atlas ya está en marcha y disponible para los usuarios. Se trata, por supuesto, del DAO de Star Atlas. Junto al Showroom de Unreal Engine 5, el DAO de Star Atlas es uno de los lanzamientos más esperados de Star Atlas este año. Tanto los jugadores como los inversores pueden ahora hacer staking de sus tokens POLIS en el POLIS Locker de Star Atlas y obtener recompensas basadas en una combinación de factores.\nLa importancia de la DAO de Star Atlas no pasa desapercibida para la comunidad de Star Atlas. Además de las recompensas distribuidas en forma de más tokens POLIS, los participantes en la DAO pueden esperar tener una influencia del metaverso de Star Atlas a través de una estructura conocida como Propuestas de Mejora POLIS. Se espera que Star Atlas se convierta en un juego totalmente descentralizado gobernado por la DAO, un juego realmente propiedad de los jugadores.\nInteractuar con el DAO de Star Atlas puede ser un proceso complejo en el que un mal entendimiento del riesgo puede llevar a decisiones financieras lamentables e inalterables. Star Atlas publicó una guía completa en la que se detallan todos los aspectos del DAO. Desglosémoslo un poco más.\n¿Qué es la DAO de Star Atlas?\nLa estructura de la DAO de Star AtlasNota: Debería haber 4 DAO regionales bajo cada DAO de facción. La imagen actual muestra incorrectamente el número de DAO regionales.\nEn su núcleo, la DAO de Star Atlas es un ecosistema que está diseñado para operar en múltiples niveles, desde pequeñas organizaciones dirigidas por los jugadores hasta el nivel universal que gobierna todo el juego. Los jugadores familiarizados con un sistema de gobierno federal reconocerán las similitudes con los niveles de gobierno nacional, estatal, de condado y local. En un sentido simple, la DAO de Star Atlas está estructurada de la misma manera. El nivel universal gobierna todo el ecosistema. Por debajo de la DAO universal del Star Atlas se encuentran las DAO de las facciones. Las DAO de facción representan a cada una de las tres facciones principales del Atlas Estelar. Por último, las DAO regionales bajo cada facción representan una sección digital-geográfica del metaverso del Atlas Estelar.\nComo muestra la infografía anterior, cada nivel de DAO es responsable de diferentes funciones políticas. Actualmente, los jugadores deberían poder interactuar con los tres niveles de la DAO utilizando el mismo conjunto de tokens. Todavía no se han dado a conocer más detalles sobre la interacción entre sub-DAO.\nExisten restricciones que impiden que una entidad única o un pequeño grupo domine todo el ecosistema. Para participar en una DAO de Facción, una persona debe ser miembro de esa facción. Para participar en la DAO de un sistema solar, un miembro debe ser propietario de tierras en ese sistema.\nCómo stakear POLIS – Mecanismos de taquilla\nStar Atlas utiliza lockers para facilitar sus mecanismos de staking. El primero de estos lockers es el lockers de POLIS, utilizado para asegurar los tokens de POLIS de un usuario y distribuir periódicamente recompensas a cambio.\nPuedes acceder a todos los lockers de Star Atlas, incluido el locker POLIS, aquí.\nPeriodo de bloqueo de POLIS y multiplicador del poder de voto\nLa acción del staking de POLIS es relativamente sencillo. Se conecta el wallet que contiene los tokens de POLIS y se navega por la pestaña de los lockers. La página de inicio mostrará la información actual de la wallet, así como el historial de la cuenta. En la parte inferior de la página es donde el propietario de POLIS puede elegir hacer staking de POLIS durante un tiempo determinado. Los usuarios pueden elegir entre dos semanas y cinco años para el staking. A cambio de períodos de bloqueo más largos, los usuarios recibirán un multiplicador fijo de su Poder de Voto de POLIS. Seleccione la cantidad de fichas que desea depositar y haga clic en bloquear. El staking de POLIS ha sido completado.\nImportante: El staking de POLIS es irreversible.\nUna vez que se haya hecho seleccionado el tiempo y aplicado el staking, la cantidad seleccionada será bloqueada hasta que el periodo seleccionado haya expirado. Esto significa que si los tokens estan en staking por cinco años, no estaran disponibles para comercialización o transferencia hasta el fin de los cinco años.\nQué es el Poder de Voto de POLIS (PVP)\nEl Poder de Voto de POLIS, o PVP, es una representación numérica del poder de voto de un único participante en la DAO de Star Atlas. En el momento de hacer el stake inicial, el PVP se determina en función del número de tokens que se han stakeado multiplicado por el multiplicador de duración del stake.\n(POLIS x Multiplicador de Duración = PVP)Un jugador que deposita 100 POLIS durante 9 meses recibirá 150 PVP en el momento de hacer el staking\nEl PVP de un jugador decaerá linealmente con el tiempo, llegando a cero al final de la duración de la apuesta.\nEl PVP es y será utilizado para determinar el peso de la votación de un jugador sobre las propuestas de mejora de POLIS y el número de recompensas que recibe.\nUn jugador puede elegir extender la duración de su staking y así refrescar su PVP en cualquier momento. Un jugador, sin embargo, no puede reducir su tiempo de staking respecto al originalmente seleccionado.\nRecompensas de hacer staking de POLIS\nLas recompensas por participar en el staking de POLIS son más tokens de POLIS. Actualmente hay 128.050.000 tokens POLIS disponibles para su distribución durante un periodo de curva fijo de ocho años. Las recompensas de los usuarios se determinan en función de su PVP en el momento en que se realiza una foto instantánea de los lockers. El PVP de un usuario se calcula entonces frente al PVP de todos los participantes para determinar las emisiones de recompensas finales para ese periodo. Así, las emisiones de POLIS de un individuo se determinan mediante una compleja fórmula de decisiones entre el jugador y el ecosistema y no se establecen con una tasa de distribución lineal.\nLa primera instantánea tendrá lugar el 1 de agosto y las recompensas se distribuirán el 2 de agosto.\nPropuestas de mejora de POLIS\nEl staking no es la única forma de recompensa para los stakers de POLIS. La DAO de Star Atlas utilizará un marco llamado Propuesta de Mejora de POLIS o PIPs por sus siglas en inglés. Las PIPs son similares a los estatutos legislativos que determinan las acciones de aplicación en todo el ecosistema de Star Atlas dependiendo del nivel de DAO por el que se proponen.\nLas tres primeras PIP, conocidas como PIP 1, 2 y 3, están siendo redactadas por ATMTA, los creadores de Star Atlas. Estas tres primeras PIPs establecerán los fundamentos por los que la DAO y las PIPs subsiguientes van a operar.\nPIP-1: Propósito y directrices del PIP\nPIP-2: Ratificación de la Fundación Star Atlas\nPIP-3: Ratificación del acuerdo de servicio ATMTA\nLa DAO y la tesorería de Star Atlas serán gestionadas por un consejo de tres personas situado en las Islas Caimán. La junta no es propietaria de la tesorería y estará legalmente obligada a ejecutar las propuestas aprobadas de la DAO de Star Atlas. En las próximas semanas, la ATMTA dará a conocer más detalles sobre la Fundación Star Atlas, el Consejo de Star Atlas dirigido por los jugadores y los futuros PIP.\nPuedes encontrar una guía completa sobre el lockers de POLIS en la Base de Conocimientos de Star Atlas.\nSobre The Hologram\nThe Hologram es una organización de noticias independiente dedicada a cubrir los últimos contenidos de Star Atlas desde todos los puntos de vista. The Hologram se fundó sobre el principio de unir a creadores de diversos campos y mostrar su talento. The Hologram también reconoce la importancia del tiempo de nuestros lectores y siempre se esforzará por darles lo que necesitan, cuando lo necesitan.\nThe Hologram no está avalado ni pagado por el equipo de Star Atlas. Cualquier información publicada por The Hologram o sus redactores debe considerarse de carácter informativo y no constituye ningún tipo de asesoramiento financiero.\nShare:\nAbout The Author\nStacheAttack\nRelated Posts\nMichael Wagner habla del próximo debate con Kieran Warwick de Illuvium\nJuly 24, 2022\nStar Atlas Presenta el Nuevo Mercado Intergalactico\nJuly 22, 2022\nThe Bounty Bar Petitions for Neutral and Safe Zone Status\nJune 1, 2022\niBUYPOWER presenta la PC de Star Atlas\nJuly 22, 2022\nLeave a reply Cancel reply\nUpcoming Events\nThere are no upcoming events.\nRecent Posts\nEl DAO de Star Atlas – POLIS staking ya está en marcha\nJul 25, 2022 | Spanish\nMichael Wagner habla del próximo debate con Kieran Warwick de Illuvium\nJul 24, 2022 | Featured, International, Spanish\nStarPath – Programa de recompensas por recomendación de Star Atlas\nJul 24, 2022 | Featured, Spanish\nThe Star Atlas DAO – POLIS Staking Now Live\nJul 24, 2022 | Politics\nMichael Wagner addresses upcoming debate with Illuvium’s Kieran Warwick\nJul 23, 2022 | Featured\nStarPath – Star Atlas’ Referral Reward Program\nJul 23, 2022 | Community, Gameplay\nStar Atlas Presenta el Nuevo Mercado Intergalactico\nJul 22, 2022 | Spanish\nStar Atlas Unveils New Galactic Marketplace\nJul 22, 2022 | Economics, Roadmap Updates\niBUYPOWER presenta la PC de Star Atlas\nJul 22, 2022 | Spanish\niBUYPOWER Launches Star Atlas Branded PC\nJul 22, 2022 | Featured\nFollow the Holo\nTwitter",
+  "content_hash": "1b8bd9d29c99e18e1e91ab8c9c4573f8b77d0f03ec71745446892531feee5980",
+  "major_topics": [
+    "governance",
+    "economy",
+    "guilds and DACs",
+    "game development",
+    "community",
+    "lore",
+    "technology"
+  ],
+  "entities": [
+    "ATLAS",
+    "Michael Wagner",
+    "POLIS",
+    "Showroom",
+    "Star Atlas",
+    "StarPath"
+  ],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Star Atlas",
+    "Showroom",
+    "POLIS",
+    "ATLAS",
+    "StarPath"
+  ],
+  "governance_items": [
+    "Star Atlas governance / DAO"
+  ],
+  "lore_items": [
+    "ONI"
+  ],
+  "actors": [
+    "Michael Wagner"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://thehologram.io/author/stacheattack/",
+      "anchor_text": "StacheAttack"
+    },
+    {
+      "url": "https://thehologram.io/category/international/spanish/",
+      "anchor_text": "Spanish"
+    },
+    {
+      "url": "https://thehologram.io/daos-dacs-and-smart-contracts-defining-a-common-framework/",
+      "anchor_text": "DAO de Star Atlas"
+    },
+    {
+      "url": "https://govern.staratlas.com/profile",
+      "anchor_text": "aquí"
+    },
+    {
+      "url": "https://govern.staratlas.com/",
+      "anchor_text": "Base de Conocimientos de Star Atlas"
+    },
+    {
+      "url": "http://www.thehologram.io",
+      "anchor_text": "The Hologram"
+    },
+    {
+      "url": "http://www.facebook.com/sharer.php?u=https://thehologram.io/1675-2/&t=El%20DAO%20de%20Star%20Atlas%20%E2%80%93%20POLIS%20staking%20ya%20est%C3%A1%20en%20marcha",
+      "anchor_text": ""
+    },
+    {
+      "url": "http://twitter.com/intent/tweet?text=El%20DAO%20de%20Star%20Atlas%20%E2%80%93%20POLIS%20staking%20ya%20est%C3%A1%20en%20marcha%20https://thehologram.io/1675-2/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://plus.google.com/share?url=https://thehologram.io/1675-2/&t=El%20DAO%20de%20Star%20Atlas%20%E2%80%93%20POLIS%20staking%20ya%20est%C3%A1%20en%20marcha",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/1663-2/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/star-atlas-presenta-el-nuevo-mercado-intergalactico/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/the-bounty-bar-petitions-for-neutral-and-safe-zone-status/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/ibuypower-presenta-la-pc-de-star-atlas/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/1675-2/",
+      "anchor_text": "Cancel reply"
+    },
+    {
+      "url": "https://thehologram.io/category/featured/",
+      "anchor_text": "Featured"
+    },
+    {
+      "url": "https://thehologram.io/category/international/",
+      "anchor_text": "International"
+    },
+    {
+      "url": "https://thehologram.io/starpath-programa-de-recompensas-por-recomendacion-de-star-atlas/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/star-atlas-dao/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/category/politics/",
+      "anchor_text": "Politics"
+    },
+    {
+      "url": "https://thehologram.io/wagner-warwick/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/star-path/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/category/community/",
+      "anchor_text": "Community"
+    },
+    {
+      "url": "https://thehologram.io/category/gameplay/",
+      "anchor_text": "Gameplay"
+    },
+    {
+      "url": "https://thehologram.io/star-atlas-unveils-new-galactic-marketplace/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/category/economics/",
+      "anchor_text": "Economics"
+    },
+    {
+      "url": "https://thehologram.io/category/gameplay/roadmap-updates/",
+      "anchor_text": "Roadmap Updates"
+    },
+    {
+      "url": "https://thehologram.io/ibuypower-launches-star-atlas-branded-pc/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://twitter.com/Hologram_News",
+      "anchor_text": ""
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "https://web.archive.org/web/20220725020417id_/https://thehologram.io/1675-2/",
+    "final_url": "https://web.archive.org/web/20220725020417id_/https://thehologram.io/1675-2/",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "response_size": 171275,
+    "elapsed_ms": 1047,
+    "retrieval_mode": "INTERNET_ARCHIVE",
+    "archive_capture": {
+      "timestamp": "20220725020417",
+      "original": "https://thehologram.io/1675-2/",
+      "digest": "5RIAQNYABXEULN7TS2H4MJZKW5PI6T7C"
+    }
+  }
+}

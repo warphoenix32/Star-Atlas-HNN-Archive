@@ -1,0 +1,157 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-A51F2D22DAE3C382",
+    "url": "https://github.com/staratlasmeta/build-staratlas#readme",
+    "title": "build-staratlas README",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "staratlasmeta GitHub organization",
+    "published_at": "2026-04-10T06:40:03Z",
+    "updated_at": "2026-04-16T16:32:44Z",
+    "original_date_text": "2026-04-10T06:40:03Z",
+    "document_type": "TECHNICAL_DOCUMENTATION",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "staratlasmeta GitHub organization",
+    "publication_role": "TECHNICAL_DOCUMENTATION",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "staratlasmeta GitHub organization"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official technical documentation titled “build-staratlas README.” This record preserves what staratlasmeta GitHub organization publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "# Star Atlas Build Docs\n\nOfficial VitePress source for [build.staratlas.com](https://build.staratlas.com).\n\n## Source of truth\n\nThis repository is the canonical home for the Star Atlas Build docs.\nUpdates should be made directly in this repo and deployed through GitHub Pages.\n\n## What this repo includes\n\n- VitePress site scaffold with a dark, Star Atlas-inspired theme\n- Markdown docs maintained directly in this repository\n- Generated sidebar and top navigation\n- GitHub Pages deployment workflow\n- `CNAME` support for `build.staratlas.com`\n- A lightweight redirect strategy for common legacy URL variants like `.md`\n\n## Quick start\n\n```bash\nnpm install\nnpm run dev\n```\n\n## Scripts\n\n- `npm run dev` - start the local VitePress dev server\n- `npm run build` - build the static site\n- `npm run preview` - preview the production build locally\n\n## Publishing on GitHub Pages\n\n1. Push changes to `main`.\n2. GitHub Actions builds and deploys the VitePress output.\n3. GitHub Pages serves the site at `build.staratlas.com`.\n\n## Custom domain notes\n\nThis repo already ships `docs/public/CNAME` with:\n\n```txt\nbuild.staratlas.com\n```\n\nTypical DNS setup:\n\n- `CNAME` record for `build` pointing to your GitHub Pages host, or\n- the equivalent records recommended by GitHub for your org or user setup\n\nAfter DNS changes, re-save the custom domain in GitHub Pages settings if GitHub asks for confirmation.\n\n## Preview and path assumptions\n\nThe config is tuned for the final custom domain at the site root. If you want to preview the built site under a temporary GitHub Pages subpath, adjust the VitePress `base` setting first.\n",
+  "content_hash": "6c620f1b03971166731a1e32552f606583b1b8cc883627041447211791b815a8",
+  "entities": [
+    "ATLAS"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-A51F2D22DAE3C382-01",
+      "text": "# Star Atlas Build Docs  Official VitePress source for [build.staratlas.com](https://build.staratlas.com).",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-A51F2D22DAE3C382",
+      "publication_date": "2026-04-10T06:40:03Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-A51F2D22DAE3C382-02",
+      "text": "## Source of truth  This repository is the canonical home for the Star Atlas Build docs.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-A51F2D22DAE3C382",
+      "publication_date": "2026-04-10T06:40:03Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-A51F2D22DAE3C382-03",
+      "text": "Updates should be made directly in this repo and deployed through GitHub Pages.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-A51F2D22DAE3C382",
+      "publication_date": "2026-04-10T06:40:03Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-A51F2D22DAE3C382-04",
+      "text": "GitHub Actions builds and deploys the VitePress output.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-A51F2D22DAE3C382",
+      "publication_date": "2026-04-10T06:40:03Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-A51F2D22DAE3C382-05",
+      "text": "GitHub Pages serves the site at `build.staratlas.com`.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-A51F2D22DAE3C382",
+      "publication_date": "2026-04-10T06:40:03Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-A51F2D22DAE3C382-06",
+      "text": "## Custom domain notes  This repo already ships `docs/public/CNAME` with:  ```txt build.staratlas.com ```  Typical DNS setup:  - `CNAME` record for `build` pointing to your GitHub Pages host, or - the equivalent records recommended by GitHub for your org or user setup  After DNS changes, re-save the custom domain in GitHub Pages settings if GitHub asks for confirmation.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-A51F2D22DAE3C382",
+      "publication_date": "2026-04-10T06:40:03Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-A51F2D22DAE3C382-07",
+      "text": "## Preview and path assumptions  The config is tuned for the final custom domain at the site root.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-A51F2D22DAE3C382",
+      "publication_date": "2026-04-10T06:40:03Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-A51F2D22DAE3C382-08",
+      "text": "If you want to preview the built site under a temporary GitHub Pages subpath, adjust the VitePress `base` setting first.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-A51F2D22DAE3C382",
+      "publication_date": "2026-04-10T06:40:03Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "https://api.github.com/repos/staratlasmeta/build-staratlas/readme",
+    "final_url": "https://api.github.com/repos/staratlasmeta/build-staratlas/readme",
+    "http_status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "response_size": 3069,
+    "retrieved_at": "2026-07-13T01:05:09.738609Z",
+    "elapsed_ms": 323
+  }
+}

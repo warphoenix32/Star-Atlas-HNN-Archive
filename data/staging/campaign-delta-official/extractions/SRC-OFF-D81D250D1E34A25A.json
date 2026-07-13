@@ -1,0 +1,161 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-D81D250D1E34A25A",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47061399470995-How-to-Buy-ATLAS-and-POLIS-in-the-Star-Atlas-Marketplace",
+    "title": "How to Buy ATLAS and POLIS in the Star Atlas Marketplace",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-03T17:01:39Z",
+    "updated_at": "2025-12-08T18:23:37Z",
+    "original_date_text": "2025-12-03T17:01:39Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://play.staratlas.com/",
+        "anchor_text": "Topper"
+      },
+      {
+        "url": "https://play.staratlas.com",
+        "anchor_text": "play.staratlas.com"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “How to Buy ATLAS and POLIS in the Star Atlas Marketplace.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Seamlessly acquire ATLAS and POLIS with a credit card or by swapping tokens on Solana\nLooking to fuel your Star Atlas journey with ATLAS and POLIS tokens? The Star Atlas Marketplace now makes it easier than ever, offering two options to fund your wallet:\n💳 Buy with a credit card via Topper\n🔄 Swap Solana tokens via Jupiter\n📝 Note: You must already have a Solana wallet to use either method. Learn how to create one in our Phantom Wallet guide\nAccess the Wallet Menu\nGo to play.staratlas.com\nClick the wallet icon in the bottom-left corner\nScroll down to “Manage your wallet’s fund”\nChoose your preferred option: Topper or Jupiter\nOption 1: Buy with a Credit Card using Topper\nTopper allows you to buy ATLAS, POLIS, or SOL directly with your credit or debit card in supported currencies (USD, EUR, etc.).\n🔹 How to use Topper:\nClick Launch next to Topper\nA popup window will appear. Follow these steps:\nSelect your currency (e.g., USD, EUR)\nEnter the amount you want to spend\nChoose the token you want to receive: ATLAS, POLIS, or SOL\nProceed to identity verification (KYC):\nLog in or create an Uphold account\nProvide required ID and verification documents\nAdd your credit or debit card\nReview and approve the transaction\nOnce approved, the tokens will be ready to be withdrawn to your preferred Solana wallet address\n📝 Note: If you're new to Solana, check out How to create a Phantom Wallet\nOption 2: Swap Tokens Using Jupiter\nIf your wallet is already funded with SOL or USDC, you can use Jupiter to swap directly on-chain.\n🔹 How to use Jupiter:\nClick Launch next to Jupiter\nA popup window will appear—click Connect to link your wallet\nChoose the token you want to swap (e.g., SOL or USDC)\nSelect your desired token (ATLAS or POLIS)\nClick Swap to complete the transaction\nJupiter is a decentralized exchange aggregator that finds the best route across Solana DEXs to execute your trade efficiently.",
+  "content_hash": "0b65df54c4fd371fabbf0b0216d3e359c48396aefe0e8ac38173911ebdd03512",
+  "entities": [
+    "ATLAS",
+    "POLIS",
+    "Solana"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-D81D250D1E34A25A-01",
+      "text": "Seamlessly acquire ATLAS and POLIS with a credit card or by swapping tokens on Solana Looking to fuel your Star Atlas journey with ATLAS and POLIS tokens?",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-D81D250D1E34A25A",
+      "publication_date": "2025-12-03T17:01:39Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-D81D250D1E34A25A-02",
+      "text": "The Star Atlas Marketplace now makes it easier than ever, offering two options to fund your wallet: 💳 Buy with a credit card via Topper 🔄 Swap Solana tokens via Jupiter 📝 Note: You must already have a Solana wallet to use either method.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-D81D250D1E34A25A",
+      "publication_date": "2025-12-03T17:01:39Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-D81D250D1E34A25A-03",
+      "text": "Learn how to create one in our Phantom Wallet guide Access the Wallet Menu Go to play.staratlas.com Click the wallet icon in the bottom-left corner Scroll down to “Manage your wallet’s fund” Choose your preferred option: Topper or Jupiter Option 1: Buy with a Credit Card using Topper Topper allows you to buy ATLAS, POLIS, or SOL directly with your credit or debit card in supported currencies (USD, EUR, etc.).",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-D81D250D1E34A25A",
+      "publication_date": "2025-12-03T17:01:39Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-D81D250D1E34A25A-04",
+      "text": "🔹 How to use Topper: Click Launch next to Topper A popup window will appear.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-D81D250D1E34A25A",
+      "publication_date": "2025-12-03T17:01:39Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-D81D250D1E34A25A-05",
+      "text": "🔹 How to use Jupiter: Click Launch next to Jupiter A popup window will appear—click Connect to link your wallet Choose the token you want to swap (e.g., SOL or USDC) Select your desired token (ATLAS or POLIS) Click Swap to complete the transaction Jupiter is a decentralized exchange aggregator that finds the best route across Solana DEXs to execute your trade efficiently.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-D81D250D1E34A25A",
+      "publication_date": "2025-12-03T17:01:39Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "POLIS",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [
+    "Solana"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://play.staratlas.com/",
+      "anchor_text": "Topper"
+    },
+    {
+      "url": "https://support.staratlas.com/what-is-a-phantom-wallet-and-how-do-i-get-one",
+      "anchor_text": "Phantom Wallet guide"
+    },
+    {
+      "url": "https://play.staratlas.com",
+      "anchor_text": "play.staratlas.com"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://play.staratlas.com/",
+      "anchor_text": "Topper"
+    },
+    {
+      "url": "https://support.staratlas.com/what-is-a-phantom-wallet-and-how-do-i-get-one",
+      "anchor_text": "Phantom Wallet guide"
+    },
+    {
+      "url": "https://play.staratlas.com",
+      "anchor_text": "play.staratlas.com"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47061399470995-How-to-Buy-ATLAS-and-POLIS-in-the-Star-Atlas-Marketplace",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.203368Z"
+  }
+}

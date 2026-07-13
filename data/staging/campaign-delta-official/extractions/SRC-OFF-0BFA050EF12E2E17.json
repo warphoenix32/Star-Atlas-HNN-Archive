@@ -1,0 +1,209 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-0BFA050EF12E2E17",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47031386316819-How-does-combat-work-in-Holosim",
+    "title": "How does combat work in Holosim?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-02T19:07:17Z",
+    "updated_at": "2025-12-08T18:24:03Z",
+    "original_date_text": "2025-12-02T19:07:17Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “How does combat work in Holosim?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Combat in Holosim lets you engage enemy fleets in contested areas. It’s a turn-based system where fleets exchange attacks until one side withdraws or is destroyed.\nHow to start combat\nMove your fleet to the target sector: fleets must be in the same sector as the enemy.\nOpen the Command menu: click on the sector, then select Command.\nSelect your fleet: choose the fleet you want to use in combat.\nClick “Attack”: then select the enemy fleet you want to target.\nCombat exchange: both fleets deal damage. Enemy counter-attacks happen automatically.\nCooldown: after each attack, you must wait for your fleet’s attack power to recharge before firing again.\nCombat mechanics\nShields (SP) regenerate automatically over time.\nHealth (HP) can only be repaired at a starbase with toolkits, or by using toolkits in your fleet’s cargo.\nAmmunition is consumed each time your fleet attacks.\nThe outcome depends on fleet composition, ship types, and preparation.\nWhere you are safe\nFleets are not attackable while docked at any starbase, inside faction safe zones, or while warping.\nFleets are vulnerable while idle, sub-warping, or mining in medium-risk zones.",
+  "content_hash": "974c0cff79b31a132de652a063cc13f9b218e5a1a81c81ef2e831db4227b2973",
+  "entities": [
+    "Holosim"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-0BFA050EF12E2E17-01",
+      "text": "Combat in Holosim lets you engage enemy fleets in contested areas.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0BFA050EF12E2E17",
+      "publication_date": "2025-12-02T19:07:17Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-0BFA050EF12E2E17-02",
+      "text": "It’s a turn-based system where fleets exchange attacks until one side withdraws or is destroyed.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0BFA050EF12E2E17",
+      "publication_date": "2025-12-02T19:07:17Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-0BFA050EF12E2E17-03",
+      "text": "How to start combat Move your fleet to the target sector: fleets must be in the same sector as the enemy.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0BFA050EF12E2E17",
+      "publication_date": "2025-12-02T19:07:17Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-0BFA050EF12E2E17-04",
+      "text": "Open the Command menu: click on the sector, then select Command.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0BFA050EF12E2E17",
+      "publication_date": "2025-12-02T19:07:17Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-0BFA050EF12E2E17-05",
+      "text": "Select your fleet: choose the fleet you want to use in combat.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0BFA050EF12E2E17",
+      "publication_date": "2025-12-02T19:07:17Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-0BFA050EF12E2E17-06",
+      "text": "Click “Attack”: then select the enemy fleet you want to target.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0BFA050EF12E2E17",
+      "publication_date": "2025-12-02T19:07:17Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-0BFA050EF12E2E17-07",
+      "text": "Cooldown: after each attack, you must wait for your fleet’s attack power to recharge before firing again.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0BFA050EF12E2E17",
+      "publication_date": "2025-12-02T19:07:17Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-0BFA050EF12E2E17-08",
+      "text": "Combat mechanics Shields (SP) regenerate automatically over time.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0BFA050EF12E2E17",
+      "publication_date": "2025-12-02T19:07:17Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-0BFA050EF12E2E17-09",
+      "text": "Health (HP) can only be repaired at a starbase with toolkits, or by using toolkits in your fleet’s cargo.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0BFA050EF12E2E17",
+      "publication_date": "2025-12-02T19:07:17Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-0BFA050EF12E2E17-10",
+      "text": "Ammunition is consumed each time your fleet attacks.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0BFA050EF12E2E17",
+      "publication_date": "2025-12-02T19:07:17Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-0BFA050EF12E2E17-11",
+      "text": "The outcome depends on fleet composition, ship types, and preparation.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0BFA050EF12E2E17",
+      "publication_date": "2025-12-02T19:07:17Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-0BFA050EF12E2E17-12",
+      "text": "Where you are safe Fleets are not attackable while docked at any starbase, inside faction safe zones, or while warping.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0BFA050EF12E2E17",
+      "publication_date": "2025-12-02T19:07:17Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-0BFA050EF12E2E17-13",
+      "text": "Fleets are vulnerable while idle, sub-warping, or mining in medium-risk zones.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0BFA050EF12E2E17",
+      "publication_date": "2025-12-02T19:07:17Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Holosim"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47031386316819-How-does-combat-work-in-Holosim",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.267919Z"
+  }
+}

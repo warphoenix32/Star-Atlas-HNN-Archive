@@ -1,0 +1,77 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-542DEEE0FB7F90C2",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47210147406483-How-to-Redeem-Your-Star-Atlas-How-to-Redeem-Your-Star-Atlas-UE5-Game-Key-Game-Key",
+    "title": "How to Redeem Your Star Atlas How to Redeem Your Star Atlas UE5 Game Key Game Key",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-08T20:25:35Z",
+    "updated_at": "2025-12-09T16:46:11Z",
+    "original_date_text": "2025-12-08T20:25:35Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://www.epicgames.com/store",
+        "anchor_text": "https://www.epicgames.com/store"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “How to Redeem Your Star Atlas How to Redeem Your Star Atlas UE5 Game Key Game Key.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Redeem via Epic Games Launcher\nOpen the Epic Games Launcher\nLog in to your Epic Games account\nClick your username in the upper-right corner\nSelect Redeem Code\nEnter your game key and click Redeem\nYou should see a success message\nClick Back to Home to return to the launcher homepage\nGo to your Library, Star Atlas should be there, ready to install\nRedeem via Epic Games Store Website\nOpen your browser and go to https://www.epicgames.com/store\nLog in to your Epic Games account\nHover over your profile name in the top-right corner\nClick Redeem Code\nEnter your game key and click Redeem\nOnce confirmed, open the Epic Games Launcher\nYour game will now appear in your Library",
+  "content_hash": "12cb60d3a724e483962c518945ffe4d5510f1756aa8600f2bbafe7da2395d26c",
+  "entities": [
+    "ATLAS"
+  ],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://www.epicgames.com/store",
+      "anchor_text": "https://www.epicgames.com/store"
+    }
+  ],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47210147406483-How-to-Redeem-Your-Star-Atlas-How-to-Redeem-Your-Star-Atlas-UE5-Game-Key-Game-Key",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.366763Z"
+  }
+}

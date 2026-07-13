@@ -1,0 +1,190 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-71251A9C866F95E3",
+    "url_id": "URL-71251A9C866F95E3",
+    "url": "https://hologramnews.com/star-atlas-dao-proposals-spark-intense-debate-on-governance",
+    "title": "Star Atlas DAO Proposals Spark Intense Debate on Governance",
+    "author": "UNKNOWN",
+    "publisher": "Hologram News Network (HNN)",
+    "publication_identity": "HNN website (hologramnews.com)",
+    "published_at": "2024-07-14T23:41:17+00:00",
+    "updated_at": "2024-07-14T23:41:17+00:00",
+    "retrieved_at": "2026-07-13T00:08:17.672107Z",
+    "document_type": "ORIGINAL_REPORTING",
+    "source_role": "ORIGINAL_REPORTING",
+    "publication_role": "ORIGINAL_REPORTING",
+    "classification_rationale": "Publication reports a development without explicit interview, editorial, investigative, event, or reference framing."
+  },
+  "source_lineage": {
+    "publication": "HNN website (hologramnews.com)",
+    "publication_role": "ORIGINAL_REPORTING",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [
+      {
+        "publication": "With a little over a week remaining in the vote",
+        "author": "UNKNOWN",
+        "url": "https://govern.staratlas.com/proposals",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [],
+    "attribution_chain": [
+      {
+        "from": "With a little over a week remaining in the vote",
+        "to": "HNN website (hologramnews.com)",
+        "relationship": "REPORTS_ON",
+        "url": "https://govern.staratlas.com/proposals"
+      }
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "This original reporting published by Hologram News Network (HNN) on 2024-07-14 documents “Star Atlas DAO Proposals Spark Intense Debate on Governance.” Its surviving text addresses governance, economy, guilds and DACs, game development, community, lore, technology. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "Star Atlas DAO Proposals Spark Intense Debate on Governance\nBy KrigsPublished On: 15 July 2024Tags: pip-I, pip-II, Star Atlas Politics\nThis past week, Star Atlas citizens headed to the voter box to vote on the first two governance proposals for the Star Atlas DAO. These two proposals lay the framework and foundation for all future governance actions for the Star Atlas DAO, akin to the foundational documents of any government.\nWith a little over a week remaining in the vote, intense debate rippled through the Star Atlas community over the first two proposals. While initial voting showed strong support for the first two proposals, a vocal minority in the community argued against the merits of the first two Star Atlas DAO bylaws known as PIP-I and PIP-II.\nConcerns over centralized control of the Star Atlas DAO\nThe overarching concern of those against passing PIP-I and, in particular, PIP-II stem from the concern that the Star Atlas Foundation has unnecessary centralized procedural control over the laws that the Star Atlas DAO can pass. Specifically, the Star Atlas Foundation has the sole discretionary authority to veto any proposals passed by the DAO it deems negligent, illegal, or harmful to the DAO itself.\nWhile the Foundation must provide a clear reasoning for any proposals that are denied, some argue that the sole discretion of the Foundation represents too much authority for a decentralized governance system. Adding to the concern of voters if the anonymity and appointment process of Star Atlas Foundation members.\nThe Star Atlas Foundation serves as a legal and regulatory overseer and executor of the Star Atlas DAO. The Foundation is currently serviced by Walkers Fiduciary based on the Cayman Islands. In the past, the Star Atlas Foundation consisted of three members, however its current board is a single anonymous member.\nSupporters of PIP-I and PIP-II argue for strong and expedient governance\nOther voters saw the need for an initial centralization of the DAO with the understanding that the DAO would become more decentralized over time. Supporters argued that a weak or overly-decentralized governance structure would hinder any momentum needed to get governance processes initiated.\nDan Park, legal counsel for ATMTA, also had this to say.\nIt [the Foundation] is, however, necessarily structured the way it is – with the ability to act independently of the DAO – for a variety of legal reasons, and as far as I know there is no other way around this without (1) a change in regulatory requirements and/or (2) technological advancements that make DAO operations purely autonomous without the need for any human intervention.\nAfter directly discussing the setup of the Star Atlas DAO and Foundation directly with Park, voters who were originally against PIP-I and PIP-II switched to yes voters.\nPIP-I and PIP-II discussions continue\nWith a week left in voting, supporters on both sides continue to raise points and counter-points for passage.\nHere are some of the key points from the community discussion threads:\nPIP 1:\nThere is no minimum quorum defined for voting.\nThere is no set time window for how long a PIP draft can be reviewed before a decision is made.\nHow would an existing PIP be revised or revoked?\nPIP 2:\nShould the power of the foundation be limited?\nShould there be multiple directors, not just one?\nThe PIPs are rolled out in a way that people won’t read them due to limited time.\nThe Foundation has too much power because they can veto anything after passage.\nShould the foundation start off with more limited power?\nThe Foundation could be slow in implementing the Pips that were approved.\nPOLIS voters should have an opportunity to override the foundation.\nThere should be a time limit where the foundation can veto a past PIP.\nStar Atlas citizens have until July 23rd to vote on PIP 1 and PIP 2. With 550 votes thus far, PIP-I is leading with 68% of PVP in favor of passage. PIP-II is in a similar position with 65% of PVP in favor of passage. A total of 25% of all available PVP has been allocated towards PIP-I and PIP-II, slightly above average for DAO systems. This is contrasted against approximately an 8% voter participation rate of approximately 6,300 eligible voters*.\nWe used data gathered from AEP Flipside to measure number of eligible voters filtered for locked POLIS above 100.\nAbout the Author: Krigs\nAn ardent supporter of emerging technologies, Krigs has been covering blockchain games for over two years and believes passionately in their power to revolutionize our collective gaming experience.\nStar Atlas Discount\nSave 10% on Star Atlas with the Starpath Referral Program\nrelated\nUnveiling Star Atlas: Remarkable AR Experience with ReBirth and Iris\nNew Star Atlas Trailer Sparks Excitement: Poster Giveaway and Showroom 2.0\nnews via inbox\nGet news from the Hologram first\nLeave A Comment Cancel reply\nyou might also like\nDark Matter Calls On Interstellar Alliance For Transparency\nCategories: Star Atlas Politics\nDAOs, DACs, and Smart Contracts: Defining a Common Framework\nCategories: Star Atlas Politics\nTension Rise as Factions and Guilds Prepare For SCREAM\nCategories: Star Atlas Politics",
+  "content_hash": "95ab5ea6dbff39dac85dd4c13c13274265761d40b4eb375864123c246c3dcf42",
+  "major_topics": [
+    "governance",
+    "economy",
+    "guilds and DACs",
+    "game development",
+    "community",
+    "lore",
+    "technology"
+  ],
+  "entities": [
+    "ATLAS",
+    "Krigs",
+    "POLIS",
+    "SCREAM",
+    "Showroom",
+    "Star Atlas",
+    "StarPath"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-71251A9C866F95E3-01",
+      "text": "The PIPs are rolled out in a way that people won’t read them due to limited time.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-71251A9C866F95E3",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Star Atlas",
+    "Showroom",
+    "POLIS",
+    "ATLAS",
+    "StarPath",
+    "SCREAM"
+  ],
+  "governance_items": [
+    "Star Atlas governance / DAO"
+  ],
+  "lore_items": [
+    "ONI"
+  ],
+  "actors": [
+    "Krigs"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://hologramnews.com/star-atlas-dao-proposals-spark-intense-debate-on-governance/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://hologramnews.com/author/krigs/",
+      "anchor_text": "Krigs"
+    },
+    {
+      "url": "https://hologramnews.com/tag/pip-i/",
+      "anchor_text": "pip-I"
+    },
+    {
+      "url": "https://hologramnews.com/tag/pip-ii/",
+      "anchor_text": "pip-II"
+    },
+    {
+      "url": "https://hologramnews.com/tag/politics/",
+      "anchor_text": "Star Atlas Politics"
+    },
+    {
+      "url": "https://hologramnews.com/on-star-atlas-dao-governance/",
+      "anchor_text": "first two governance proposals for the Star Atlas DAO"
+    },
+    {
+      "url": "https://govern.staratlas.com/proposals",
+      "anchor_text": "With a little over a week remaining in the vote"
+    },
+    {
+      "url": "https://hologramnews.com/starpath-save-10-on-star-atlas/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://hologramnews.com/unveiling-star-atlas-remarkable-ar-experience-with-rebirth-and-iris/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://hologramnews.com/new-star-atlas-trailer-sparks-excitement-poster-giveaway-and-showroom-2-0/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://hologramnews.com/star-atlassian/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://hologramnews.com/dark-matter-calls-on-interstellar-alliance-for-transparency/",
+      "anchor_text": "Dark Matter Calls On Interstellar Alliance For Transparency"
+    },
+    {
+      "url": "https://hologramnews.com/category/politics/",
+      "anchor_text": "Star Atlas Politics"
+    },
+    {
+      "url": "https://hologramnews.com/daos-dacs-and-smart-contracts-defining-a-common-framework/",
+      "anchor_text": "DAOs, DACs, and Smart Contracts: Defining a Common Framework"
+    },
+    {
+      "url": "https://hologramnews.com/tension-rise-as-factions-and-guilds-prepare-for-scream/",
+      "anchor_text": "Tension Rise as Factions and Guilds Prepare For SCREAM"
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "UNKNOWN",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Author is not explicit in the surviving publication metadata."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://web.archive.org/web/20240717141207id_/https://hologramnews.com/star-atlas-dao-proposals-spark-intense-debate-on-governance/",
+    "final_url": "https://web.archive.org/web/20240717141207id_/https://hologramnews.com/star-atlas-dao-proposals-spark-intense-debate-on-governance/",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "response_size": 198318,
+    "elapsed_ms": 1237,
+    "retrieval_mode": "INTERNET_ARCHIVE",
+    "archive_capture": {
+      "timestamp": "20240717141207",
+      "original": "https://hologramnews.com/star-atlas-dao-proposals-spark-intense-debate-on-governance/",
+      "digest": "PXPFK3Q6MP3PCMZIV2ETFAPZX4YXBAJU"
+    }
+  }
+}

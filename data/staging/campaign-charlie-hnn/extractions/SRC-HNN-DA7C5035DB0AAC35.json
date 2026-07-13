@@ -1,0 +1,198 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-DA7C5035DB0AAC35",
+    "url_id": "URL-DA7C5035DB0AAC35",
+    "url": "https://medium.com/the-hologram/skull-bones-dao-gets-underway-with-anniversary-nfts-63c45bfe01ab",
+    "title": "Skull & Bones DAO Gets Underway with Anniversary NFTs",
+    "author": "Krigs",
+    "publisher": "The Hologram",
+    "publication_identity": "The Hologram (Medium publication)",
+    "published_at": "2022-12-16T00:42:51Z",
+    "updated_at": "2022-12-16T03:14:56Z",
+    "retrieved_at": "2026-07-13T00:10:06.348342Z",
+    "document_type": "ORIGINAL_REPORTING",
+    "source_role": "ORIGINAL_REPORTING",
+    "publication_role": "ORIGINAL_REPORTING",
+    "classification_rationale": "Publication reports a development without explicit interview, editorial, investigative, event, or reference framing."
+  },
+  "source_lineage": {
+    "publication": "The Hologram (Medium publication)",
+    "publication_role": "ORIGINAL_REPORTING",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [
+      {
+        "publication": "here",
+        "author": "UNKNOWN",
+        "url": "https://magiceden.io/marketplace/sb_forgotten_pirate?status=%5B%22all%22%5D",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Black Paper",
+        "author": "UNKNOWN",
+        "url": "https://skullnbones.xyz/black-paper.pdf",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://staratlas.com/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [
+      "Krigs"
+    ],
+    "attribution_chain": [
+      {
+        "from": "here",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://magiceden.io/marketplace/sb_forgotten_pirate?status=%5B%22all%22%5D"
+      },
+      {
+        "from": "Black Paper",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://skullnbones.xyz/black-paper.pdf"
+      },
+      {
+        "from": "Star Atlas",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://staratlas.com/"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "This original reporting published by The Hologram on 2022-12-16 documents “Skull & Bones DAO Gets Underway with Anniversary NFTs.” Its surviving text addresses governance, economy, guilds and DACs, game development, community, lore, technology. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "Skull & Bones DAO Gets Underway with Anniversary NFTs\nKrigs3 min read·Dec 16, 2022\n--\nListen\nShare\nSkull & Bones, the first pirate guild in Star Atlas, got a fresh set of sea legs recently with the release of its one year anniversary collection for loyal crew members.\nUsing AI generated art, S&B founder 13omb3r created 90 1/1 NFTs that were airdropped to loyal S&B members. Below are just some of the NFTs that were rewarded to loyal crew members. You can view the full collection here.\nPress enter or click to view image in full sizeS&B Forgotten Pirate #86\nWhat make a loyal crew?\nSince these NFTs aren’t meant to be sold, a holder of a Skull & Bones Forgotten Pirate is likely the real deal. Skull & Bones crew members who contributed to “The Cut” between September 11th 2021 through 2022 received one of these limited edition NFTs. The Cut is 3.5% fee from Skull & Bones crew members that earn ATLAS tokens in Star Atlas.\nAs a member of Skull & Bones, loyal crew members can earn Dacbloons by completing specific guild tasks for S&B. These Dacbloons can eventually be exchanged for value in the S&B ATLAS treasury. However, these tokens are only given to loyal crew members who work towards the goals of S&B, so good luck getting you hands on one if you’re not a true Skull & Bones pirate.\nAdditionally, the Skull & Bone’s DAO is participated in by holding Daobloons, Skull & Bones native DAO token. Daobloons function as an intermediary with Skull & Bones’ POLIS treasury and can be exchanged for returned POLIS plus interest at a later date.\nLearn more about Skull & Bones in their “Black Paper”.\nPress enter or click to view image in full sizeS&B Forgotten Pirate #36\nHonor Amongst Pirates\nTrue to their Pirate Code, Skull & Bones operates as a decentralized organization. To implement their dual token structure, Skull & Bones relies upon several forms of multi-signature wallets to execute treasury and voting functions.\nWhile the available Web 3.0 tools are currently limited, Skull & Bones is poised to take advantage of upcoming Star Atlas DAC tools and make the transition when they become available.\nKrigs is the founder of The Hologram News Network, an independent blockchain gaming meta-news organization devoted to the coverage of the Star Atlas game. Krigs has covered Star Atlas for the past year and enjoys writing about the potential that blockchain technology has to revolutionize the gaming industry.\nFollow on Social Media:\nTwitter | Instagram | Web\nAbout The Hologram\nThe Hologram is Star Atlas’ first and only independent news network. Our vision is to become the most trusted source of information about Star Atlas and a voice for the whole community. Readers can expect a high standard from our reporting and staff. Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.\nThe Hologram is not endorsed or paid by the Star Atlas team. Any information published by The Hologram nor its writers should be considered as informational in nature and does not constitute any financial advice.",
+  "content_hash": "228ce9b4ac75fd0bdc2ba5ef718242027c6598a6216f4a5c5647122a93b440ab",
+  "major_topics": [
+    "governance",
+    "economy",
+    "guilds and DACs",
+    "game development",
+    "community",
+    "lore",
+    "technology"
+  ],
+  "entities": [
+    "ATLAS",
+    "Krigs",
+    "POLIS",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-DA7C5035DB0AAC35-01",
+      "text": "Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-DA7C5035DB0AAC35",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Star Atlas",
+    "POLIS",
+    "ATLAS"
+  ],
+  "governance_items": [
+    "Star Atlas governance / DAO"
+  ],
+  "lore_items": [
+    "ONI"
+  ],
+  "actors": [
+    "Krigs"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://medium.com/@krigsfoniks?source=---byline--63c45bfe01ab---------------------------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fthe-hologram%2F63c45bfe01ab&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fskull-bones-dao-gets-underway-with-anniversary-nfts-63c45bfe01ab&user=Krigs&userId=41e0c5b141f1&source=---header_actions--63c45bfe01ab---------------------clap_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Frepost%2Fp%2F63c45bfe01ab&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fskull-bones-dao-gets-underway-with-anniversary-nfts-63c45bfe01ab&user=Krigs&userId=41e0c5b141f1&source=---header_actions--63c45bfe01ab---------------------repost_header------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F63c45bfe01ab&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fskull-bones-dao-gets-underway-with-anniversary-nfts-63c45bfe01ab&source=---header_actions--63c45bfe01ab---------------------bookmark_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2Fplans%3Fdimension%3Dpost_audio_button%26postId%3D63c45bfe01ab&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fskull-bones-dao-gets-underway-with-anniversary-nfts-63c45bfe01ab&source=---header_actions--63c45bfe01ab---------------------post_audio_button------------------",
+      "anchor_text": "Listen"
+    },
+    {
+      "url": "https://medium.com/the-hologram/skull-bones-the-first-star-atlas-pirate-guild-8710a13212da",
+      "anchor_text": "Skull & Bones"
+    },
+    {
+      "url": "https://medium.com/u/5ed69ff9cfb0?source=---user_mention--63c45bfe01ab---------------------------------------",
+      "anchor_text": "Star Atlas"
+    },
+    {
+      "url": "https://magiceden.io/marketplace/sb_forgotten_pirate?status=%5B%22all%22%5D",
+      "anchor_text": "here"
+    },
+    {
+      "url": "https://skullnbones.xyz/black-paper.pdf",
+      "anchor_text": "Black Paper"
+    },
+    {
+      "url": "https://twitter.com/home",
+      "anchor_text": "Twitter"
+    },
+    {
+      "url": "https://thehologram.io/",
+      "anchor_text": "Web"
+    },
+    {
+      "url": "https://medium.com/the-hologram",
+      "anchor_text": "The Hologram"
+    },
+    {
+      "url": "https://staratlas.com/",
+      "anchor_text": "Star Atlas"
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "https://medium.com/the-hologram/skull-bones-dao-gets-underway-with-anniversary-nfts-63c45bfe01ab",
+    "final_url": "https://medium.com/the-hologram/skull-bones-dao-gets-underway-with-anniversary-nfts-63c45bfe01ab",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 258056,
+    "elapsed_ms": 710,
+    "retrieval_mode": "LIVE",
+    "archive_capture": null
+  }
+}

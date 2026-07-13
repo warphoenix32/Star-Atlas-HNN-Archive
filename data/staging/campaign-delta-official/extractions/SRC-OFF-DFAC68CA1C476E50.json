@@ -1,0 +1,174 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-DFAC68CA1C476E50",
+    "url": "https://staratlas.com/game/galia/",
+    "title": "Galia Expanse | Star Atlas",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas / ATMTA",
+    "published_at": null,
+    "updated_at": null,
+    "original_date_text": null,
+    "document_type": "REFERENCE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas / ATMTA",
+    "publication_role": "LORE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://play.staratlas.com",
+        "anchor_text": "Play Now"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official lore titled “Galia Expanse | Star Atlas.” This record preserves what Star Atlas / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Galia Expanse | Star Atlas\n0001.\nThe Galia Expanse\nThe Galia Expanse is a vast, uncharted region teeming with opportunities and dangers. From resource-rich asteroid fields to mysterious anomalies, Galia serves as the primary battleground where MUD, ONI, and Ustur factions compete for dominance.\nYour browser does not support the video tag.\nThe Cataclysm\nLong ago, the rogue planet Iris collided with seven child planets, creating 'The Cataclysm.' Dense with invaluable materials and radiating mysterious energy, this catastrophic event birthed a unique form of free energy and the most coveted resource zone in the galaxy. The Tufa, enigmatic hybrid mineral-organic beings, now guard the asteroid belts near Iris with zealous intensity.\n3\nMajor Factions\n∞\nExplorable Space\n100+\nResource Types\n24/7\nLive Economy\nExploration & Discovery\nNavigate uncharted territories filled with hidden resources, ancient artifacts, and mysterious celestial phenomena.\nProcedurally varied environments\nHidden treasure caches\nAnomaly investigation\nLore discoveries\nResource Extraction\nMine asteroids and planetary surfaces for essential materials. Titanium, carbon, hydrogen, and rare elements fuel the galactic economy.\nAsteroid mining\nSurface extraction\nVaried asteroid sizes\nVehicle mining modes\nFaction Territories\nGalia is divided among MUD, ONI, and Ustur. Your allegiance shapes your alliances, enemies, and strategic opportunities.\nTerritory control mechanics\nFaction-specific benefits\nPolitical landscape\nAlliance systems\nGetting Started in Galia\nChoose your faction alignment (MUD, ONI, or Ustur)\nAcquire your first ship via the Galactic Marketplace\nComplete introductory missions to learn navigation\nBegin resource extraction to fund your expansion\nJoin a DAC (guild) for collaborative gameplay\nEnter the Expanse\nThe Galia Expanse awaits. Whether you seek fortune, glory, or galactic domination, your journey begins here.\nPlay Now\nExplore More Features\nGame ModesYour Fleet, Your WayLife in GaliaFleet CommandHolosimSAGE Labs",
+  "content_hash": "3229791115b86bac2ce61dfb160afda234ff7258f587f12dfd7d62202df7ae6b",
+  "entities": [
+    "ATLAS",
+    "Galactic Marketplace"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-DFAC68CA1C476E50-01",
+      "text": "The Cataclysm Long ago, the rogue planet Iris collided with seven child planets, creating 'The Cataclysm.' Dense with invaluable materials and radiating mysterious energy, this catastrophic event birthed a unique form of free energy and the most coveted resource zone in the galaxy.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-DFAC68CA1C476E50",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-DFAC68CA1C476E50-02",
+      "text": "3 Major Factions ∞ Explorable Space 100+ Resource Types 24/7 Live Economy Exploration & Discovery Navigate uncharted territories filled with hidden resources, ancient artifacts, and mysterious celestial phenomena.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-DFAC68CA1C476E50",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-DFAC68CA1C476E50-03",
+      "text": "Procedurally varied environments Hidden treasure caches Anomaly investigation Lore discoveries Resource Extraction Mine asteroids and planetary surfaces for essential materials.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-DFAC68CA1C476E50",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Galactic Marketplace",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [
+    "MUD",
+    "ONI",
+    "Ustur",
+    "Galia"
+  ],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://play.staratlas.com",
+      "anchor_text": "Play Now"
+    },
+    {
+      "url": "https://staratlas.com/game/game-modes/",
+      "anchor_text": "Game Modes"
+    },
+    {
+      "url": "https://staratlas.com/game/your-fleet-your-way/",
+      "anchor_text": "Your Fleet, Your Way"
+    },
+    {
+      "url": "https://staratlas.com/game/life-in-galia/",
+      "anchor_text": "Life in Galia"
+    },
+    {
+      "url": "https://staratlas.com/game/fleet-command/",
+      "anchor_text": "Fleet Command"
+    },
+    {
+      "url": "https://staratlas.com/game/holosim/",
+      "anchor_text": "Holosim"
+    },
+    {
+      "url": "https://staratlas.com/game/sage-labs/",
+      "anchor_text": "SAGE Labs"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://play.staratlas.com",
+      "anchor_text": "Play Now"
+    },
+    {
+      "url": "https://staratlas.com/game/game-modes/",
+      "anchor_text": "Game Modes"
+    },
+    {
+      "url": "https://staratlas.com/game/your-fleet-your-way/",
+      "anchor_text": "Your Fleet, Your Way"
+    },
+    {
+      "url": "https://staratlas.com/game/life-in-galia/",
+      "anchor_text": "Life in Galia"
+    },
+    {
+      "url": "https://staratlas.com/game/fleet-command/",
+      "anchor_text": "Fleet Command"
+    },
+    {
+      "url": "https://staratlas.com/game/holosim/",
+      "anchor_text": "Holosim"
+    },
+    {
+      "url": "https://staratlas.com/game/sage-labs/",
+      "anchor_text": "SAGE Labs"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "LOW",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://staratlas.com/game/galia/",
+    "final_url": "https://staratlas.com/game/galia/",
+    "http_status": 200,
+    "content_type": "text/html",
+    "response_size": 9416,
+    "retrieved_at": "2026-07-13T01:05:03.172327Z",
+    "elapsed_ms": 225
+  }
+}

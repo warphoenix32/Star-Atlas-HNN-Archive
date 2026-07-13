@@ -1,0 +1,233 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-F33E1ABAD1C6D6E8",
+    "url": "https://support.staratlas.com/hc/en-us/articles/52250841633811-C4-PTR-Game-and-Account-Settings-Overview",
+    "title": "C4 PTR Game and Account Settings Overview",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2026-06-02T19:27:55Z",
+    "updated_at": "2026-06-03T14:43:31Z",
+    "original_date_text": "2026-06-02T19:27:55Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “C4 PTR Game and Account Settings Overview.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "The C4 PTR settings menu gives you access to account options, character options, support tools, keypair import/export, and basic game settings.\nThis article gives a quick overview of the options available from the settings menu.\nNote: C4 PTR is still in development, so some settings and menu options may change over time.\nWhere to find the settings menu\nThe settings menu is available from the player menu in the top-right corner of the screen.\nFrom there, you can access several account and game options.\nAccount Settings\nThe Account Settings area shows account-related information, including:\nWallet balances\nDaily check-in streak\nYou can check in once per 24 hours.\nView Character Info\nThe View Character Info option allows you to access character-related account actions.\nFrom this area, you can deposit or withdraw:\nATLAS\nSOL\nZINK\nChange Character\nThe Change Character option allows you to switch characters or create alternate characters.\nThis works similarly to character selection in other MMO-style games, where you can create and play more than one account or character.\nHelp & Support\nThe Help & Support option gives you another way to access support resources.\nFrom there, you can reach reporting tools, forms, and support information.\nUse this option if you need to report a bug, submit feedback, request a feature, or create a support ticket.\nDisconnect Wallet\nThe Disconnect Wallet option signs your wallet out of the game.\nImportant for PTR: If you disconnect your wallet during PTR, you may need your keypair to get back into your saved game.\nMake sure you understand the import/export keypair options before disconnecting.\nImport Keypair\nThe Import Keypair option allows you to restore a saved PTR game using a keypair file.\nUse this if you previously exported your keypair and need to access the same PTR profile again.\nExport Keypair\nThe Export Keypair option allows you to save your PTR game as a keypair file.\nYou can use this file later to import your saved PTR profile again or access it from another device.\nBecause C4 PTR uses test assets and test wallet information, keeping your exported keypair safe is important if you want to keep access to the same PTR profile.\nCommand Settings\nThe Command Settings option controls basic game settings.\nThis includes basic audio and visual settings for the game.\nSummary\nThe C4 PTR settings menu lets you manage important account and game options, including character information, support access, wallet disconnection, keypair import/export, and command settings.\nBefore disconnecting your wallet or switching devices, make sure you have exported your keypair if you want to keep access to the same PTR profile.",
+  "content_hash": "5fd249c4c4bfe5100c631f728a925373c7cb79aeb6a8de38a9598d272c366802",
+  "entities": [
+    "ATLAS",
+    "C4"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-F33E1ABAD1C6D6E8-01",
+      "text": "The C4 PTR settings menu gives you access to account options, character options, support tools, keypair import/export, and basic game settings.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F33E1ABAD1C6D6E8",
+      "publication_date": "2026-06-02T19:27:55Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F33E1ABAD1C6D6E8-02",
+      "text": "This article gives a quick overview of the options available from the settings menu.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F33E1ABAD1C6D6E8",
+      "publication_date": "2026-06-02T19:27:55Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F33E1ABAD1C6D6E8-03",
+      "text": "Note: C4 PTR is still in development, so some settings and menu options may change over time.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F33E1ABAD1C6D6E8",
+      "publication_date": "2026-06-02T19:27:55Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F33E1ABAD1C6D6E8-04",
+      "text": "Where to find the settings menu The settings menu is available from the player menu in the top-right corner of the screen.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F33E1ABAD1C6D6E8",
+      "publication_date": "2026-06-02T19:27:55Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F33E1ABAD1C6D6E8-05",
+      "text": "From there, you can access several account and game options.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F33E1ABAD1C6D6E8",
+      "publication_date": "2026-06-02T19:27:55Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F33E1ABAD1C6D6E8-06",
+      "text": "Account Settings The Account Settings area shows account-related information, including: Wallet balances Daily check-in streak You can check in once per 24 hours.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F33E1ABAD1C6D6E8",
+      "publication_date": "2026-06-02T19:27:55Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F33E1ABAD1C6D6E8-07",
+      "text": "View Character Info The View Character Info option allows you to access character-related account actions.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F33E1ABAD1C6D6E8",
+      "publication_date": "2026-06-02T19:27:55Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F33E1ABAD1C6D6E8-08",
+      "text": "From this area, you can deposit or withdraw: ATLAS SOL ZINK Change Character The Change Character option allows you to switch characters or create alternate characters.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F33E1ABAD1C6D6E8",
+      "publication_date": "2026-06-02T19:27:55Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F33E1ABAD1C6D6E8-09",
+      "text": "This works similarly to character selection in other MMO-style games, where you can create and play more than one account or character.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F33E1ABAD1C6D6E8",
+      "publication_date": "2026-06-02T19:27:55Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F33E1ABAD1C6D6E8-10",
+      "text": "Help & Support The Help & Support option gives you another way to access support resources.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F33E1ABAD1C6D6E8",
+      "publication_date": "2026-06-02T19:27:55Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F33E1ABAD1C6D6E8-11",
+      "text": "From there, you can reach reporting tools, forms, and support information.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F33E1ABAD1C6D6E8",
+      "publication_date": "2026-06-02T19:27:55Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F33E1ABAD1C6D6E8-12",
+      "text": "Use this option if you need to report a bug, submit feedback, request a feature, or create a support ticket.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F33E1ABAD1C6D6E8",
+      "publication_date": "2026-06-02T19:27:55Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F33E1ABAD1C6D6E8-13",
+      "text": "Disconnect Wallet The Disconnect Wallet option signs your wallet out of the game.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F33E1ABAD1C6D6E8",
+      "publication_date": "2026-06-02T19:27:55Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F33E1ABAD1C6D6E8-14",
+      "text": "Important for PTR: If you disconnect your wallet during PTR, you may need your keypair to get back into your saved game.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F33E1ABAD1C6D6E8",
+      "publication_date": "2026-06-02T19:27:55Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F33E1ABAD1C6D6E8-15",
+      "text": "Make sure you understand the import/export keypair options before disconnecting.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F33E1ABAD1C6D6E8",
+      "publication_date": "2026-06-02T19:27:55Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "ATLAS",
+    "C4"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/52250841633811-C4-PTR-Game-and-Account-Settings-Overview",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.463640Z"
+  }
+}

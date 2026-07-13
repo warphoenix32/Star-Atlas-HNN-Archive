@@ -1,0 +1,497 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-17012CC0302537A1",
+    "url": "https://build.staratlas.com/introduction/what-you-can-build",
+    "title": "Star Atlas Build",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Build / ATMTA",
+    "published_at": null,
+    "updated_at": "2026-04-16T16:32:35.000Z",
+    "original_date_text": "2026-04-16T16:32:35.000Z",
+    "document_type": "TECHNICAL_DOCUMENTATION",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Build / ATMTA",
+    "publication_role": "TECHNICAL_DOCUMENTATION",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://atlas.eveeye.com/",
+        "anchor_text": "EVE Eye Map Tools"
+      },
+      {
+        "url": "https://medium.com/@atom_tool/atom-play-star-atlas-sage-without-limits-e6bc35282cf2",
+        "anchor_text": "ATOM Automation Tool"
+      },
+      {
+        "url": "https://github.com/Swift42/SLY-Assistant",
+        "anchor_text": "SLY Assistant (GitHub)"
+      },
+      {
+        "url": "https://sa-dispatcher.com/",
+        "anchor_text": "SA Dispatcher"
+      },
+      {
+        "url": "https://aephia.com/star-atlas-ships/",
+        "anchor_text": "Aephia Ships & Tools"
+      },
+      {
+        "url": "https://flipsidecrypto.xyz/Aephia/star-atlas---global-overview-NOleL4",
+        "anchor_text": "Global Overview (Flipside)"
+      },
+      {
+        "url": "https://flipsidecrypto.xyz/steven-sabol-dir-of-economy/star-atlas-dac-statistics-Nqbhc1?tabIndex=5",
+        "anchor_text": "DAC Stats – Steven Sabol"
+      },
+      {
+        "url": "https://explorer.staratlas.club/factions/asset-charts",
+        "anchor_text": "Star Atlas Explorer – The Club"
+      },
+      {
+        "url": "https://redspatula.io/star-atlas-ships/",
+        "anchor_text": "RedSpatula Tools"
+      },
+      {
+        "url": "https://heimdall-industries.org/ship-markets/",
+        "anchor_text": "Heimdall Ship Markets"
+      },
+      {
+        "url": "https://stardusteconomy.com/",
+        "anchor_text": "Stardust Economy"
+      },
+      {
+        "url": "https://galacticdash.com/",
+        "anchor_text": "Galactic Dash"
+      },
+      {
+        "url": "https://data.guildcoexist.com/",
+        "anchor_text": "Coexist Data Hub"
+      },
+      {
+        "url": "https://app.staratlasitalia.com/",
+        "anchor_text": "Italia Dashboard"
+      },
+      {
+        "url": "https://bit.ly/access-star-atlas-nft-markets",
+        "anchor_text": "NFT Market Data Sheet"
+      },
+      {
+        "url": "https://escrow.skullnbones.xyz/",
+        "anchor_text": "S&B Escrow Service"
+      },
+      {
+        "url": "https://market.skullnbones.xyz/",
+        "anchor_text": "S&B Market"
+      },
+      {
+        "url": "https://staratlas.help/",
+        "anchor_text": "staratlas.help"
+      },
+      {
+        "url": "https://staratlasguide.com/",
+        "anchor_text": "staratlasguide.com"
+      },
+      {
+        "url": "https://staratlasitalia.com/rubriche/",
+        "anchor_text": "Italia Guides"
+      },
+      {
+        "url": "https://aephia.com/star-atlas-guides/",
+        "anchor_text": "Aephia Guides"
+      },
+      {
+        "url": "https://intergalacticherald.com/star-atlas-guide/",
+        "anchor_text": "Intergalactic Herald Guides"
+      },
+      {
+        "url": "https://galiacrafters.medium.com/star-atlas-101-i-have-20-what-can-i-do-3e9c72e421d2",
+        "anchor_text": "GaliaCrafters SA 101"
+      },
+      {
+        "url": "https://hologramnews.com/star-atlas-guides/",
+        "anchor_text": "The Hologram Guides"
+      },
+      {
+        "url": "https://www.vnonymus-star.com/academia",
+        "anchor_text": "Vnonymus-Star Academia (ES)"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=DJTNQ5x-loI",
+        "anchor_text": "SAGE for Small Players – YouTube"
+      },
+      {
+        "url": "https://gx.games/games/h5jctu/star-atlas-tufa-attack/tracks/557a4223-d9d5-4976-8bc0-ad85b31bd800/",
+        "anchor_text": "Tufa Attack – Arcade Game"
+      },
+      {
+        "url": "https://discord.gg/valleyarcade",
+        "anchor_text": "Valley Arcade – Discord"
+      },
+      {
+        "url": "https://intergalacticherald.com/guilds/",
+        "anchor_text": "DAC Explorer – Intergalactic Herald"
+      },
+      {
+        "url": "https://atless.io/research/guilds/guild-list.html",
+        "anchor_text": "Guild List – Atlessio"
+      },
+      {
+        "url": "https://deepprofits.org/",
+        "anchor_text": "DeepProfits"
+      },
+      {
+        "url": "https://galiamerchants.com/",
+        "anchor_text": "Galia Merchants"
+      },
+      {
+        "url": "https://www.etsy.com/shop/StarArtisanShop",
+        "anchor_text": "Star Artisan Etsy Shop"
+      },
+      {
+        "url": "https://darkcoreroasters.com/",
+        "anchor_text": "Dark Core Roasters"
+      },
+      {
+        "url": "https://www.galiaartstation.com/",
+        "anchor_text": "Galia Art Station – 3D Ships"
+      },
+      {
+        "url": "https://suit-up.staratlas.com/",
+        "anchor_text": "Profile Picture Generator"
+      },
+      {
+        "url": "https://staratlas.shop/en-eur/",
+        "anchor_text": "Star Atlas TV Merch Shop"
+      },
+      {
+        "url": "https://thehologram.io/",
+        "anchor_text": "The Hologram"
+      },
+      {
+        "url": "https://medium.com/aephia-industries",
+        "anchor_text": "Aephia Medium"
+      },
+      {
+        "url": "https://aephia.com/star-atlas-news/",
+        "anchor_text": "Aephia News"
+      },
+      {
+        "url": "https://medium.com/@thebountybar",
+        "anchor_text": "The Bounty Bar (ES)"
+      },
+      {
+        "url": "https://www.spacefroggies.com/",
+        "anchor_text": "Space Frogies (FR)"
+      },
+      {
+        "url": "https://github.com/Swift42/sagedarkmode",
+        "anchor_text": "SAGE Dark Mode"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Build / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official technical documentation titled “Star Atlas Build.” This record preserves what Star Atlas Build / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "What You Can Build | Star Atlas Build\nSkip to contentStar Atlas BuildSearchK\nAppearance\nMenuReturn to top\nWhat You Can Build ​\nTools, games, guides, merch, dashboards, it’s all happening here. The Star Atlas community has already launched dozens of impressive projects. From on-chain automation tools to merch stores, here’s just a glimpse of what people are building and what you can create too.\nGameplay Tools & Automation ​\nEVE Eye Map Tools\nATOM Automation Tool\nSLY Assistant (GitHub)\nSA Dispatcher\nDashboards & Data ​\nAephia Ships & Tools\nGlobal Overview (Flipside)\nDAC Stats – Steven Sabol\nStar Atlas Explorer – The Club\nRedSpatula Tools\nHeimdall Ship Markets\nStardust Economy\nGalactic Dash\nCoexist Data Hub\nItalia Dashboard\nNFT Market Data Sheet\nEscrow & Markets\nS&B Escrow Service\nS&B Market\nGuides & Help\nstaratlas.help\nstaratlasguide.com\nItalia Guides\nAephia Guides\nIntergalactic Herald Guides\nGaliaCrafters SA 101\nThe Hologram Guides\nVnonymus-Star Academia (ES)\nSAGE for Small Players – YouTube\nGames\nTufa Attack – Arcade Game\nValley Arcade – Discord\nGuild Resources\nDAC Explorer – Intergalactic Herald\nGuild List – Atlessio\nDeepProfits\nMerch, Art & Fun\nGalia Merchants\nStar Artisan Etsy Shop\nDark Core Roasters\nGalia Art Station – 3D Ships\nProfile Picture Generator\nStar Atlas TV Merch Shop\nNews & Blogs\nThe Hologram\nAephia Medium\nAephia News\nThe Bounty Bar (ES)\nSpace Frogies (FR)\nUI & Browser Extensions\nSAGE Dark Mode\nWant to See Your Project Listed?\nJoin us on Discord and contact our moderators",
+  "content_hash": "81107885f487e0aa3157aa5a528e9795689fc04e258a1ac154b9c34c3e2cc02a",
+  "entities": [
+    "ATLAS",
+    "Aephia",
+    "CORE",
+    "SAGE",
+    "The Club"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-17012CC0302537A1-01",
+      "text": "What You Can Build | Star Atlas Build Skip to contentStar Atlas BuildSearchK Appearance MenuReturn to top What You Can Build ​ Tools, games, guides, merch, dashboards, it’s all happening here.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-17012CC0302537A1",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-17012CC0302537A1-02",
+      "text": "The Star Atlas community has already launched dozens of impressive projects.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-17012CC0302537A1",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-17012CC0302537A1-03",
+      "text": "From on-chain automation tools to merch stores, here’s just a glimpse of what people are building and what you can create too.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-17012CC0302537A1",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-17012CC0302537A1-04",
+      "text": "Join us on Discord and contact our moderators",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-17012CC0302537A1",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "SAGE",
+    "CORE",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [
+    "Galia"
+  ],
+  "actors": [],
+  "organizations": [],
+  "guilds": [
+    "Aephia",
+    "The Club"
+  ],
+  "external_sources": [
+    {
+      "url": "https://build.staratlas.com/introduction/what-you-can-build",
+      "anchor_text": "Skip to content"
+    },
+    {
+      "url": "https://build.staratlas.com/",
+      "anchor_text": "Star Atlas Build"
+    },
+    {
+      "url": "https://discord.com/invite/staratlas",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://atlas.eveeye.com/",
+      "anchor_text": "EVE Eye Map Tools"
+    },
+    {
+      "url": "https://medium.com/@atom_tool/atom-play-star-atlas-sage-without-limits-e6bc35282cf2",
+      "anchor_text": "ATOM Automation Tool"
+    },
+    {
+      "url": "https://github.com/Swift42/SLY-Assistant",
+      "anchor_text": "SLY Assistant (GitHub)"
+    },
+    {
+      "url": "https://sa-dispatcher.com/",
+      "anchor_text": "SA Dispatcher"
+    },
+    {
+      "url": "https://aephia.com/star-atlas-ships/",
+      "anchor_text": "Aephia Ships & Tools"
+    },
+    {
+      "url": "https://flipsidecrypto.xyz/Aephia/star-atlas---global-overview-NOleL4",
+      "anchor_text": "Global Overview (Flipside)"
+    },
+    {
+      "url": "https://flipsidecrypto.xyz/steven-sabol-dir-of-economy/star-atlas-dac-statistics-Nqbhc1?tabIndex=5",
+      "anchor_text": "DAC Stats – Steven Sabol"
+    },
+    {
+      "url": "https://explorer.staratlas.club/factions/asset-charts",
+      "anchor_text": "Star Atlas Explorer – The Club"
+    },
+    {
+      "url": "https://redspatula.io/star-atlas-ships/",
+      "anchor_text": "RedSpatula Tools"
+    },
+    {
+      "url": "https://heimdall-industries.org/ship-markets/",
+      "anchor_text": "Heimdall Ship Markets"
+    },
+    {
+      "url": "https://stardusteconomy.com/",
+      "anchor_text": "Stardust Economy"
+    },
+    {
+      "url": "https://galacticdash.com/",
+      "anchor_text": "Galactic Dash"
+    },
+    {
+      "url": "https://data.guildcoexist.com/",
+      "anchor_text": "Coexist Data Hub"
+    },
+    {
+      "url": "https://app.staratlasitalia.com/",
+      "anchor_text": "Italia Dashboard"
+    },
+    {
+      "url": "https://bit.ly/access-star-atlas-nft-markets",
+      "anchor_text": "NFT Market Data Sheet"
+    },
+    {
+      "url": "https://escrow.skullnbones.xyz/",
+      "anchor_text": "S&B Escrow Service"
+    },
+    {
+      "url": "https://market.skullnbones.xyz/",
+      "anchor_text": "S&B Market"
+    },
+    {
+      "url": "https://staratlas.help/",
+      "anchor_text": "staratlas.help"
+    },
+    {
+      "url": "https://staratlasguide.com/",
+      "anchor_text": "staratlasguide.com"
+    },
+    {
+      "url": "https://staratlasitalia.com/rubriche/",
+      "anchor_text": "Italia Guides"
+    },
+    {
+      "url": "https://aephia.com/star-atlas-guides/",
+      "anchor_text": "Aephia Guides"
+    },
+    {
+      "url": "https://intergalacticherald.com/star-atlas-guide/",
+      "anchor_text": "Intergalactic Herald Guides"
+    },
+    {
+      "url": "https://galiacrafters.medium.com/star-atlas-101-i-have-20-what-can-i-do-3e9c72e421d2",
+      "anchor_text": "GaliaCrafters SA 101"
+    },
+    {
+      "url": "https://hologramnews.com/star-atlas-guides/",
+      "anchor_text": "The Hologram Guides"
+    },
+    {
+      "url": "https://www.vnonymus-star.com/academia",
+      "anchor_text": "Vnonymus-Star Academia (ES)"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=DJTNQ5x-loI",
+      "anchor_text": "SAGE for Small Players – YouTube"
+    },
+    {
+      "url": "https://gx.games/games/h5jctu/star-atlas-tufa-attack/tracks/557a4223-d9d5-4976-8bc0-ad85b31bd800/",
+      "anchor_text": "Tufa Attack – Arcade Game"
+    },
+    {
+      "url": "https://discord.gg/valleyarcade",
+      "anchor_text": "Valley Arcade – Discord"
+    },
+    {
+      "url": "https://intergalacticherald.com/guilds/",
+      "anchor_text": "DAC Explorer – Intergalactic Herald"
+    },
+    {
+      "url": "https://atless.io/research/guilds/guild-list.html",
+      "anchor_text": "Guild List – Atlessio"
+    },
+    {
+      "url": "https://deepprofits.org/",
+      "anchor_text": "DeepProfits"
+    },
+    {
+      "url": "https://galiamerchants.com/",
+      "anchor_text": "Galia Merchants"
+    },
+    {
+      "url": "https://www.etsy.com/shop/StarArtisanShop",
+      "anchor_text": "Star Artisan Etsy Shop"
+    },
+    {
+      "url": "https://darkcoreroasters.com/",
+      "anchor_text": "Dark Core Roasters"
+    },
+    {
+      "url": "https://www.galiaartstation.com/",
+      "anchor_text": "Galia Art Station – 3D Ships"
+    },
+    {
+      "url": "https://suit-up.staratlas.com/",
+      "anchor_text": "Profile Picture Generator"
+    },
+    {
+      "url": "https://staratlas.shop/en-eur/",
+      "anchor_text": "Star Atlas TV Merch Shop"
+    },
+    {
+      "url": "https://thehologram.io/",
+      "anchor_text": "The Hologram"
+    },
+    {
+      "url": "https://medium.com/aephia-industries",
+      "anchor_text": "Aephia Medium"
+    },
+    {
+      "url": "https://aephia.com/star-atlas-news/",
+      "anchor_text": "Aephia News"
+    },
+    {
+      "url": "https://medium.com/@thebountybar",
+      "anchor_text": "The Bounty Bar (ES)"
+    },
+    {
+      "url": "https://www.spacefroggies.com/",
+      "anchor_text": "Space Frogies (FR)"
+    },
+    {
+      "url": "https://github.com/Swift42/sagedarkmode",
+      "anchor_text": "SAGE Dark Mode"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://build.staratlas.com/introduction/what-you-can-build",
+      "anchor_text": "Skip to content"
+    },
+    {
+      "url": "https://build.staratlas.com/",
+      "anchor_text": "Star Atlas Build"
+    },
+    {
+      "url": "https://suit-up.staratlas.com/",
+      "anchor_text": "Profile Picture Generator"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://build.staratlas.com/introduction/what-you-can-build",
+    "final_url": "https://build.staratlas.com/introduction/what-you-can-build",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 26663,
+    "retrieved_at": "2026-07-13T01:04:32.027008Z",
+    "elapsed_ms": 129
+  }
+}

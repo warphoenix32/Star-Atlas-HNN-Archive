@@ -1,0 +1,145 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-9A02CD416A9E0A34",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47031355091603-How-do-I-save-my-progress-in-Holosim",
+    "title": "How do I save my progress in Holosim?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-02T19:07:23Z",
+    "updated_at": "2025-12-08T18:24:02Z",
+    "original_date_text": "2025-12-02T19:07:23Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “How do I save my progress in Holosim?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Holosim automatically creates a background account when you start playing, but you’ll need to save your game once to make sure you can always come back to it.\nHow to save your progress:\nOpen the Settings menu: click the cogwheel icon in the top-right corner of the screen.\nClick “Save Game”: this will download a small JSON file to your device.\nKeep this file safe: the file contains your secret key, which is required to restore your Holosim profile.\nDo not share it with anyone.\nStore it somewhere secure, just like a password.\nOnce you’ve downloaded your save file, you don’t need to repeat the process again. As long as you keep the file safe, you can always restore your progress on another browser or device.",
+  "content_hash": "730ca0af0fe37153eaaa64a7893fa8330a09103243f424262821d95aba14283c",
+  "entities": [
+    "Holosim"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-9A02CD416A9E0A34-01",
+      "text": "Holosim automatically creates a background account when you start playing, but you’ll need to save your game once to make sure you can always come back to it.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-9A02CD416A9E0A34",
+      "publication_date": "2025-12-02T19:07:23Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-9A02CD416A9E0A34-02",
+      "text": "How to save your progress: Open the Settings menu: click the cogwheel icon in the top-right corner of the screen.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-9A02CD416A9E0A34",
+      "publication_date": "2025-12-02T19:07:23Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-9A02CD416A9E0A34-03",
+      "text": "Click “Save Game”: this will download a small JSON file to your device.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-9A02CD416A9E0A34",
+      "publication_date": "2025-12-02T19:07:23Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-9A02CD416A9E0A34-04",
+      "text": "Keep this file safe: the file contains your secret key, which is required to restore your Holosim profile.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-9A02CD416A9E0A34",
+      "publication_date": "2025-12-02T19:07:23Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-9A02CD416A9E0A34-05",
+      "text": "Store it somewhere secure, just like a password.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-9A02CD416A9E0A34",
+      "publication_date": "2025-12-02T19:07:23Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-9A02CD416A9E0A34-06",
+      "text": "Once you’ve downloaded your save file, you don’t need to repeat the process again.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-9A02CD416A9E0A34",
+      "publication_date": "2025-12-02T19:07:23Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-9A02CD416A9E0A34-07",
+      "text": "As long as you keep the file safe, you can always restore your progress on another browser or device.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-9A02CD416A9E0A34",
+      "publication_date": "2025-12-02T19:07:23Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Holosim"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47031355091603-How-do-I-save-my-progress-in-Holosim",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.264713Z"
+  }
+}

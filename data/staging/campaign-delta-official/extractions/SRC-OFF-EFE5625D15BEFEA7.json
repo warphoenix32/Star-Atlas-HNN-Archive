@@ -1,0 +1,126 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-EFE5625D15BEFEA7",
+    "url": "https://build.staratlas.com/creative-assets/star-atlas-powered-by-the-people",
+    "title": "Star Atlas Build",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Build / ATMTA",
+    "published_at": null,
+    "updated_at": "2026-04-16T16:32:35.000Z",
+    "original_date_text": "2026-04-16T16:32:35.000Z",
+    "document_type": "TECHNICAL_DOCUMENTATION",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Build / ATMTA",
+    "publication_role": "TECHNICAL_DOCUMENTATION",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Star Atlas Build / ATMTA"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official technical documentation titled “Star Atlas Build.” This record preserves what Star Atlas Build / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Star Atlas: Powered by the People | Star Atlas Build\nSkip to contentStar Atlas BuildSearchK\nAppearance\nMenuReturn to top\nStar Atlas: Powered by the People ​\nThis is the community logo for creators building with Star Atlas IP Use it proudly to show your work is part of the Powered by the People initiative\nWhy Use This Logo? ​\nThis badge tells the world your project is built with love for the Star Atlas universe and that it follows the Terms of Service You’ll need to include it on your product, website, or marketing if you’re building with our IP\nYou may not use the official \"Star Atlas\" logo or wordmark, those are reserved trademarks For example: 🚫 “Star Atlas Bedsheets” → Not allowed ✅ “Punaab Bedsheets” → Totally fine\nCustomization Guidelines ​\nYou can recolor the triangle and box behind “Powered by the People” to match your style, just keep the two shapes the same color If you want to edit the logo in other ways (resizing, animation, stylizing), please reach out first at legal@staratlas.com\nNot Feasible to Use the Logo? ​\nIf there’s a reason you can’t include the logo in your final product (e.g. limited space or print constraints), just let us know. We’ll find a solution.",
+  "content_hash": "ed8e0f45a6cbe649e492954bf059b15d6bf0cb8499b876c57655be523961b6b2",
+  "entities": [
+    "ATLAS"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-EFE5625D15BEFEA7-01",
+      "text": "Star Atlas: Powered by the People | Star Atlas Build Skip to contentStar Atlas BuildSearchK Appearance MenuReturn to top Star Atlas: Powered by the People ​ This is the community logo for creators building with Star Atlas IP Use it proudly to show your work is part of the Powered by the People initiative Why Use This Logo?",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-EFE5625D15BEFEA7",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-EFE5625D15BEFEA7-02",
+      "text": "​ If there’s a reason you can’t include the logo in your final product (e.g.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-EFE5625D15BEFEA7",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-EFE5625D15BEFEA7-03",
+      "text": "limited space or print constraints), just let us know.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-EFE5625D15BEFEA7",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://build.staratlas.com/creative-assets/star-atlas-powered-by-the-people",
+      "anchor_text": "Skip to content"
+    },
+    {
+      "url": "https://build.staratlas.com/",
+      "anchor_text": "Star Atlas Build"
+    },
+    {
+      "url": "https://discord.com/invite/staratlas",
+      "anchor_text": ""
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://build.staratlas.com/creative-assets/star-atlas-powered-by-the-people",
+      "anchor_text": "Skip to content"
+    },
+    {
+      "url": "https://build.staratlas.com/",
+      "anchor_text": "Star Atlas Build"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://build.staratlas.com/creative-assets/star-atlas-powered-by-the-people",
+    "final_url": "https://build.staratlas.com/creative-assets/star-atlas-powered-by-the-people",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 23864,
+    "retrieved_at": "2026-07-13T01:04:24.492603Z",
+    "elapsed_ms": 212
+  }
+}

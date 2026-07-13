@@ -1,0 +1,102 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-2E975D439DBCF20C",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47210147319443-What-s-coming-next-for-the-Star-Atlas-UE5-Game",
+    "title": "What’s coming next for the Star Atlas UE5 Game?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-08T20:25:34Z",
+    "updated_at": "2025-12-09T16:46:23Z",
+    "original_date_text": "2025-12-08T20:25:34Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://portal.productboard.com/staratlas/1-star-atlas-roadmap/tabs/2-preseason",
+        "anchor_text": "https://portal.productboard.com/staratlas/1-star-atlas-roadmap/tabs/2-preseason"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “What’s coming next for the Star Atlas UE5 Game?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "The Star Atlas Showroom continues to evolve with frequent updates, new features and immersive experiences powered by Unreal Engine 5. From multiplayer sessions and flight mechanics to new game modes and visuals, the Showroom is your gateway to the living metaverse of Star Atlas\nCheck the official roadmap:\nhttps://portal.productboard.com/staratlas/1-star-atlas-roadmap/tabs/2-preseason",
+  "content_hash": "da8f8f34b614ca4200d7ca356bbc1d64ca035bce5b9356d234907d714c2affd1",
+  "entities": [
+    "ATLAS",
+    "Showroom"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-2E975D439DBCF20C-01",
+      "text": "The Star Atlas Showroom continues to evolve with frequent updates, new features and immersive experiences powered by Unreal Engine 5.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-2E975D439DBCF20C",
+      "publication_date": "2025-12-08T20:25:34Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-2E975D439DBCF20C-02",
+      "text": "From multiplayer sessions and flight mechanics to new game modes and visuals, the Showroom is your gateway to the living metaverse of Star Atlas Check the official roadmap: https://portal.productboard.com/staratlas/1-star-atlas-roadmap/tabs/2-preseason",
+      "claim_type": "ROADMAP_PLAN",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-2E975D439DBCF20C",
+      "publication_date": "2025-12-08T20:25:34Z",
+      "confidence": "MEDIUM",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Showroom",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://portal.productboard.com/staratlas/1-star-atlas-roadmap/tabs/2-preseason",
+      "anchor_text": "https://portal.productboard.com/staratlas/1-star-atlas-roadmap/tabs/2-preseason"
+    }
+  ],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47210147319443-What-s-coming-next-for-the-Star-Atlas-UE5-Game",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.328378Z"
+  }
+}

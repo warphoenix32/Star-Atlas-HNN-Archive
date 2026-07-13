@@ -1,0 +1,132 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-1AD18A7FE6CC32F1",
+    "url": "https://build.staratlas.com/dev-resources/apis-and-data/profile-faction",
+    "title": "Star Atlas Build",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Build / ATMTA",
+    "published_at": null,
+    "updated_at": "2026-04-16T16:32:35.000Z",
+    "original_date_text": "2026-04-16T16:32:35.000Z",
+    "document_type": "TECHNICAL_DOCUMENTATION",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Build / ATMTA",
+    "publication_role": "TECHNICAL_DOCUMENTATION",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://www.npmjs.com/package/@staratlas/profile-faction",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://staratlasmeta.github.io/player-profile/profile-faction",
+        "anchor_text": ""
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Build / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official technical documentation titled “Star Atlas Build.” This record preserves what Star Atlas Build / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Profile Faction | Star Atlas Build\nSkip to contentStar Atlas BuildSearchK\nAppearance\nMenuReturn to top\nProfile Faction ​\nIntroduction ​\nAn extension to the player profile program, the profile faction program enables a player profile to join a Star Atlas faction.\n@staratlas/profile-faction\nwill help you:\nPackage\nDescription\nVersion\nDocs\n@staratlas/profile-faction\nTypeScript bindings for the profile-faction program\nInstallation ​\nReference: https://www.npmjs.com/package/@staratlas/profile-faction\nnpm i @staratlas/profile-faction\nExamples ​\nComing soon...",
+  "content_hash": "279f2ff6ab72e0250d6ab0022a4eb5bf8a6cb6b5a34e8a050acfc5a7007f9526",
+  "entities": [
+    "ATLAS"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-1AD18A7FE6CC32F1-01",
+      "text": "Profile Faction | Star Atlas Build Skip to contentStar Atlas BuildSearchK Appearance MenuReturn to top Profile Faction ​ Introduction ​ An extension to the player profile program, the profile faction program enables a player profile to join a Star Atlas faction.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-1AD18A7FE6CC32F1",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-1AD18A7FE6CC32F1-02",
+      "text": "@staratlas/profile-faction will help you: Package Description Version Docs @staratlas/profile-faction TypeScript bindings for the profile-faction program Installation ​ Reference: https://www.npmjs.com/package/@staratlas/profile-faction npm i @staratlas/profile-faction Examples ​ Coming soon...",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-1AD18A7FE6CC32F1",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/profile-faction",
+      "anchor_text": "Skip to content"
+    },
+    {
+      "url": "https://build.staratlas.com/",
+      "anchor_text": "Star Atlas Build"
+    },
+    {
+      "url": "https://discord.com/invite/staratlas",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://www.npmjs.com/package/@staratlas/profile-faction",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://staratlasmeta.github.io/player-profile/profile-faction",
+      "anchor_text": ""
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/profile-faction",
+      "anchor_text": "Skip to content"
+    },
+    {
+      "url": "https://build.staratlas.com/",
+      "anchor_text": "Star Atlas Build"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://build.staratlas.com/dev-resources/apis-and-data/profile-faction",
+    "final_url": "https://build.staratlas.com/dev-resources/apis-and-data/profile-faction",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 33358,
+    "retrieved_at": "2026-07-13T01:04:28.335906Z",
+    "elapsed_ms": 143
+  }
+}

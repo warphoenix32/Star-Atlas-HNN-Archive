@@ -1,0 +1,168 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-B38AFD8A2122994F",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47061466167827-Marketplace-Fees-and-ATLAS-Locking",
+    "title": "Marketplace Fees and ATLAS Locking",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-03T17:02:14Z",
+    "updated_at": "2025-12-08T18:23:10Z",
+    "original_date_text": "2025-12-03T17:02:14Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://sonar.watch/",
+        "anchor_text": "Sonar Watch"
+      },
+      {
+        "url": "https://app.step.finance/",
+        "anchor_text": "Step Finance"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “Marketplace Fees and ATLAS Locking.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Why Do I Pay a ~0.00203 SOL Fee When Buying Items?\nWhen you buy a ship or resource for the first time, you might notice a small Solana network fee (~0.00203 SOL). This happens because:\nOn Solana, each token type (e.g., ATLAS, ships, food, fuel) needs its own Token Account\nCreating this account requires a small deposit of SOL to make it rent-exempt\n💡 Example:If you buy AMMO, FUEL, FOOD, and TOOLS for the first time, you’ll pay the SOL fee for each resource. These are one-time fees per token type, not per transaction.\nCan I Get My SOL Deposit Back?\nYes. If you decide to stop playing, you can close these Token Accounts and reclaim your SOL using:\nSonar Watch\nStep Finance\nHowever:\nIf you close an account and later want to buy that item again, you'll need to pay the fee again to reopen the Token Account\nMarketplace Transaction Fees\nWhen someone sells an item on the Star Atlas Marketplace:\nA 6% fee is charged (the buyer pays nothing).\nThe fee is split:\n2% to the DAO Treasury (1/3 of fee)\n4% to ATMTA (2/3 of fee)\nThis fee can be reduced by locking ATLAS\nATLAS Locker & Marketplace Discounts\nYou can lock ATLAS tokens in the ATLAS Locker to earn daily POLIS rewards and reduce Marketplace fees.\nExample:With 560,000 ATLAS locked, you only pay 4.5% in Marketplace fees instead of 6%.",
+  "content_hash": "a17ded948da4b9fe4fb6c06c4c99ce870f4e132e96a40ec083331cfff7b75d49",
+  "entities": [
+    "ATLAS",
+    "ATMTA",
+    "POLIS",
+    "Solana"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-B38AFD8A2122994F-01",
+      "text": "Why Do I Pay a ~0.00203 SOL Fee When Buying Items?",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B38AFD8A2122994F",
+      "publication_date": "2025-12-03T17:02:14Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-B38AFD8A2122994F-02",
+      "text": "When you buy a ship or resource for the first time, you might notice a small Solana network fee (~0.00203 SOL).",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B38AFD8A2122994F",
+      "publication_date": "2025-12-03T17:02:14Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-B38AFD8A2122994F-03",
+      "text": "This happens because: On Solana, each token type (e.g., ATLAS, ships, food, fuel) needs its own Token Account Creating this account requires a small deposit of SOL to make it rent-exempt 💡 Example:If you buy AMMO, FUEL, FOOD, and TOOLS for the first time, you’ll pay the SOL fee for each resource.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B38AFD8A2122994F",
+      "publication_date": "2025-12-03T17:02:14Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-B38AFD8A2122994F-04",
+      "text": "These are one-time fees per token type, not per transaction.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B38AFD8A2122994F",
+      "publication_date": "2025-12-03T17:02:14Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-B38AFD8A2122994F-05",
+      "text": "If you decide to stop playing, you can close these Token Accounts and reclaim your SOL using: Sonar Watch Step Finance However: If you close an account and later want to buy that item again, you'll need to pay the fee again to reopen the Token Account Marketplace Transaction Fees When someone sells an item on the Star Atlas Marketplace: A 6% fee is charged (the buyer pays nothing).",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B38AFD8A2122994F",
+      "publication_date": "2025-12-03T17:02:14Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-B38AFD8A2122994F-06",
+      "text": "The fee is split: 2% to the DAO Treasury (1/3 of fee) 4% to ATMTA (2/3 of fee) This fee can be reduced by locking ATLAS ATLAS Locker & Marketplace Discounts You can lock ATLAS tokens in the ATLAS Locker to earn daily POLIS rewards and reduce Marketplace fees.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B38AFD8A2122994F",
+      "publication_date": "2025-12-03T17:02:14Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-B38AFD8A2122994F-07",
+      "text": "Example:With 560,000 ATLAS locked, you only pay 4.5% in Marketplace fees instead of 6%.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B38AFD8A2122994F",
+      "publication_date": "2025-12-03T17:02:14Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "POLIS",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [
+    "ATMTA",
+    "Solana"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://sonar.watch/",
+      "anchor_text": "Sonar Watch"
+    },
+    {
+      "url": "https://app.step.finance/",
+      "anchor_text": "Step Finance"
+    }
+  ],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47061466167827-Marketplace-Fees-and-ATLAS-Locking",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.143758Z"
+  }
+}

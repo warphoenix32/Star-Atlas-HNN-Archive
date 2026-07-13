@@ -1,0 +1,14 @@
+{
+  "topic": "claims, polis, record, remain, source, starpath, the, this",
+  "official_source_ids": [
+    "SRC-OFF-0C5AA46E01E189EC"
+  ],
+  "community_source_ids": [
+    "SRC-HNN-238F34DB897A6723"
+  ],
+  "relationship": "COMMUNITY_ADDS_CONTEXT",
+  "finding": "Automated topic overlap on: claims, polis, record, remain, source, starpath, the, this, time. Official authority is limited to the official wording; community context remains separately attributed.",
+  "confidence": "LOW",
+  "promotion_candidate": false,
+  "manual_review_required": true
+}

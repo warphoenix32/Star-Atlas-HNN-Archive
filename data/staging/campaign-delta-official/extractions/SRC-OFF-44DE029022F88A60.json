@@ -1,0 +1,443 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-44DE029022F88A60",
+    "url": "https://experience.staratlas.com/newsroom/article/power-to-the-people-star-atlas-publishes-blueprint-of-next-gen-economic-and",
+    "title": "Power to the People: Star Atlas Publishes Blueprint of Next-gen Economic and Governance Paradigm | Star Atlas",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Newsroom / ATMTA",
+    "published_at": "2021-08-18",
+    "updated_at": null,
+    "original_date_text": "Aug 18, 2021",
+    "document_type": "OFFICIAL_ANNOUNCEMENT",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Newsroom / ATMTA",
+    "publication_role": "ECONOMIC_REPORT",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://play.staratlas.com",
+        "anchor_text": "Play Now"
+      },
+      {
+        "url": "https://coinmarketcap.com/currencies/star-atlas/",
+        "anchor_text": "CMC"
+      },
+      {
+        "url": "https://www.coingecko.com/en/coins/star-atlas",
+        "anchor_text": "CoinGecko"
+      },
+      {
+        "url": "https://coinmarketcap.com/currencies/star-atlas-polis/",
+        "anchor_text": "CMC"
+      },
+      {
+        "url": "https://www.coingecko.com/en/coins/star-atlas-dao",
+        "anchor_text": "CoinGecko"
+      },
+      {
+        "url": "https://discord.gg/staratlas",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://t.me/staratlasgame",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://www.reddit.com/r/StarAtlas/",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://www.facebook.com/StarAtlasMMO",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://www.instagram.com/staratlasgame/",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://www.youtube.com/channel/UCt-y8Npwje5KDG5MSZ0a9Jw",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://www.twitch.tv/staratlasgame",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://staratlas.com/economics-paper.pdf",
+        "anchor_text": "an economics document"
+      },
+      {
+        "url": "https://republic.co/crypto",
+        "anchor_text": "The Republic"
+      },
+      {
+        "url": "https://medium.com/star-atlas/galactic-marketplace-solana-serum-powered-core-of-star-atlas-nft-trading-7a18d2d33371",
+        "anchor_text": "launch of its Galactic Marketplace"
+      },
+      {
+        "url": "https://medium.com/star-atlas/star-atlas-token-sale-details-revealed-857bf7505fdd",
+        "anchor_text": "announcement of the sale of utility and governance tokens"
+      },
+      {
+        "url": "https://staratlas.com/white-paper.pdf",
+        "anchor_text": "Whitepaper"
+      },
+      {
+        "url": "https://solana.com/ecosystem",
+        "anchor_text": "Solana"
+      },
+      {
+        "url": "https://projectserum.com/",
+        "anchor_text": "Serum"
+      },
+      {
+        "url": "https://www.unrealengine.com/en-US/unreal-engine-5",
+        "anchor_text": "Unreal Engine 5"
+      },
+      {
+        "url": "https://c212.net/c/link/?t=0&l=en&o=3518016-1&h=2748636143&u=https%3A%2F%2Fc212.net%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D3397231-1%26h%3D2982849003%26u%3Dhttp%253A%252F%252Fsolana.com%252F%26a%3DSolana&a=Solana",
+        "anchor_text": "Solana"
+      },
+      {
+        "url": "https://c212.net/c/link/?t=0&l=en&o=3518016-1&h=1530369193&u=https%3A%2F%2Fc212.net%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D3397231-1%26h%3D3652583731%26u%3Dhttps%253A%252F%252Fstaratlas.com%252F%26a%3DStarAtlas.com&a=StarAtlas.com",
+        "anchor_text": "StarAtlas.com"
+      },
+      {
+        "url": "https://c212.net/c/link/?t=0&l=en&o=3518016-1&h=3921988929&u=https%3A%2F%2Fc212.net%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D3397231-1%26h%3D445912205%26u%3Dhttp%253A%252F%252Fplay.staratlas.com%252F%26a%3DPlay.StarAtlas.com&a=Play.StarAtlas.com",
+        "anchor_text": "Play.StarAtlas.com"
+      },
+      {
+        "url": "https://www.reddit.com/r/StarAtlas",
+        "anchor_text": "Reddit"
+      },
+      {
+        "url": "https://www.linkedin.com/company/star-atlas",
+        "anchor_text": "Linkedin"
+      },
+      {
+        "url": "https://medium.com/star-atlas",
+        "anchor_text": "Medium"
+      },
+      {
+        "url": "https://www.tiktok.com/@staratlasmetaverse",
+        "anchor_text": "Tik Tok"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Newsroom / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official economic report titled “Power to the People: Star Atlas Publishes Blueprint of Next-gen Economic and Governance Paradigm | Star Atlas.” This record preserves what Star Atlas Newsroom / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Power to the People: Star Atlas Publishes Blueprint of Next-gen Economic and Governance Paradigm | Star Atlas\nPlay Now\nEconomic Reports\nWhite Paper • PDF\nRead Our Official White Paper!\nEconomics Paper • PDF\nLearn the tokenomics of ATLAS and POLIS in the galactic economy.\nGovernance Documentation\nLearn how Star Atlas is governed and built by its community.\nATLAS\n(\nCMC\nCoinGecko\n)\nPOLIS\n(\nCMC\nCoinGecko\n)\nTerms of Service\nPrivacy Policy\nPromotional Terms\nPlay Now\nBack\nAug 18, 2021\nTag: Articles\nPower to the People: Star Atlas Publishes Blueprint of Next-gen Economic and Governance Paradigm\nUshering in a new era of powered by the Solana blockchain and Serum\nBack to top\nThe next-gen gaming metaverse has unveiled an economics document with far-reaching consequences for the human understanding of gaming, blockchain, economics and culture at large. Created in collaboration with economics experts at The Republic, the paper lays the foundations to a socioeconomic system for the future.\nAfter the launch of its Galactic Marketplace for trading, and the announcement of the sale of utility and governance tokens, Star Atlas is laying out its long-term vision for a thriving, autonomous, player-owned gaming metaverse, which is fully self-sustainable, controlled and funded through decentralized governance.\n“Star Atlas has been designed since inception to empower a new generation of gamers, creators, and dreamers to rebuild the world to alternative constructs and standards. A true digital ReBirth of the human species. We choose to build a metaverse and MMO embodied by true self-sovereignty. The vision for which would be impossible individually, but inevitable collectively.”\n— Michael Wagner, CEO of Star Atlas\nIn addition to the existing Whitepaper, the Metaverse Economics Paper details four pillars to the Star Atlas economy: In-game ATLAS and POLIS tokens used as mediums of exchange and governance, land ownership across the galaxy with safeguards against unproductive accumulation, NFT-based in-game items and characters, and abundant deep space resources.\nThe innovations in the published paper lay out a blueprint for a full scale token-driven metaverse economy with complete self-governing ability. It also unveils a completely revolutionized way of organizing through Decentralized Autonomous Organizations (DAOs), including autonomous guilds and deep space corporations.\nThe cornerstone that enables Star Atlas to make this leap is its powerful technological backbone, which enables a near-serverless operation on the light-speed Solana blockchain, the use of sophisticated trading and finance tools through Serum and harnesses the power of Unreal Engine 5 with Nanite, along with anticipating other futuristic technologies as extensions to the metaverse.\nThe ground-breaking Metaverse Economics Paper is available for reading in English on the Star Atlas website.\nABOUT STAR ATLAS\nStar Atlas is a next-gen gaming Metaverse emerging from the confluence of state of the art blockchain, real-time graphics, multiplayer video game, and decentralized financial technologies.\nReal-time graphics technology using Unreal Engine 5’s Nanite allows for cinematic quality video game visuals. Blockchain technology using the Solana protocol establishes a largely serverless and secured gameplay experience. Non-fungible tokens obtained and traded within Star Atlas create an economy that replicates the tangibility of real world assets and ownership. To learn more, visit StarAtlas.com, join a faction at Play.StarAtlas.com and send your spaceships on a deep space mission by enrolling them into a Faction Fleet.\nJOIN OUR COMMUNITY\nTwitter | Discord | Telegram | Youtube | Instagram | Reddit | Facebook | Linkedin | Medium | Tik Tok | Twitch\nPrev\nStar Atlas Token Sale Details Revealed\nNext\nBuilding a Next-Gen Metaverse Economy with Solana, Serum and Metaplex\nStar Atlas is building a thriving, self-sustainable, player-owned gaming metaverse with fast, intuitive tools enabling the humanity to reimagine its own future.\nTrailer\nWe use cookies to enhance your experience and analyze our site usage.\nPlease see our Privacy Policy\nfor more information.\nAccept Cookies",
+  "content_hash": "89652545c3fa04aae34fa5666e72e8932dc537afac7736537230b828eb9189fc",
+  "entities": [
+    "ATLAS",
+    "Faction Fleet",
+    "Galactic Marketplace",
+    "Metaplex",
+    "Michael Wagner",
+    "POLIS",
+    "Serum",
+    "Solana"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-44DE029022F88A60-01",
+      "text": "Power to the People: Star Atlas Publishes Blueprint of Next-gen Economic and Governance Paradigm | Star Atlas Play Now Economic Reports White Paper • PDF Read Our Official White Paper!",
+      "claim_type": "EVENT_OCCURRED",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-44DE029022F88A60",
+      "publication_date": "2021-08-18",
+      "confidence": "MEDIUM",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-44DE029022F88A60-02",
+      "text": "After the launch of its Galactic Marketplace for trading, and the announcement of the sale of utility and governance tokens, Star Atlas is laying out its long-term vision for a thriving, autonomous, player-owned gaming metaverse, which is fully self-sustainable, controlled and funded through decentralized governance.",
+      "claim_type": "EVENT_OCCURRED",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-44DE029022F88A60",
+      "publication_date": "2021-08-18",
+      "confidence": "MEDIUM",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-44DE029022F88A60-03",
+      "text": "The ground-breaking Metaverse Economics Paper is available for reading in English on the Star Atlas website.",
+      "claim_type": "EVENT_OCCURRED",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-44DE029022F88A60",
+      "publication_date": "2021-08-18",
+      "confidence": "MEDIUM",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Faction Fleet",
+    "Galactic Marketplace",
+    "POLIS",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [
+    "Michael Wagner"
+  ],
+  "organizations": [
+    "Solana",
+    "Serum",
+    "Metaplex"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://experience.staratlas.com/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://play.staratlas.com",
+      "anchor_text": "Play Now"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/economic-reports/",
+      "anchor_text": "Economic Reports"
+    },
+    {
+      "url": "https://experience.staratlas.com/assets/pdfs/white-paper.pdf",
+      "anchor_text": "White Paper • PDF Read Our Official White Paper!"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/governance-documentation",
+      "anchor_text": "Governance Documentation Learn how Star Atlas is governed and built by its community."
+    },
+    {
+      "url": "https://coinmarketcap.com/currencies/star-atlas/",
+      "anchor_text": "CMC"
+    },
+    {
+      "url": "https://www.coingecko.com/en/coins/star-atlas",
+      "anchor_text": "CoinGecko"
+    },
+    {
+      "url": "https://coinmarketcap.com/currencies/star-atlas-polis/",
+      "anchor_text": "CMC"
+    },
+    {
+      "url": "https://www.coingecko.com/en/coins/star-atlas-dao",
+      "anchor_text": "CoinGecko"
+    },
+    {
+      "url": "https://twitter.com/staratlas",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://discord.gg/staratlas",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://t.me/staratlasgame",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/StarAtlas/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://www.facebook.com/StarAtlasMMO",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://www.instagram.com/staratlasgame/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCt-y8Npwje5KDG5MSZ0a9Jw",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://www.twitch.tv/staratlasgame",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://experience.staratlas.com/terms-of-service",
+      "anchor_text": "Terms of Service"
+    },
+    {
+      "url": "https://experience.staratlas.com/privacy-policy",
+      "anchor_text": "Privacy Policy"
+    },
+    {
+      "url": "https://experience.staratlas.com/promotional-terms-and-conditions",
+      "anchor_text": "Promotional Terms"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/news",
+      "anchor_text": "Back"
+    },
+    {
+      "url": "https://staratlas.com/economics-paper.pdf",
+      "anchor_text": "an economics document"
+    },
+    {
+      "url": "https://republic.co/crypto",
+      "anchor_text": "The Republic"
+    },
+    {
+      "url": "https://medium.com/star-atlas/galactic-marketplace-solana-serum-powered-core-of-star-atlas-nft-trading-7a18d2d33371",
+      "anchor_text": "launch of its Galactic Marketplace"
+    },
+    {
+      "url": "https://medium.com/star-atlas/star-atlas-token-sale-details-revealed-857bf7505fdd",
+      "anchor_text": "announcement of the sale of utility and governance tokens"
+    },
+    {
+      "url": "https://staratlas.com/white-paper.pdf",
+      "anchor_text": "Whitepaper"
+    },
+    {
+      "url": "https://solana.com/ecosystem",
+      "anchor_text": "Solana"
+    },
+    {
+      "url": "https://projectserum.com/",
+      "anchor_text": "Serum"
+    },
+    {
+      "url": "https://www.unrealengine.com/en-US/unreal-engine-5",
+      "anchor_text": "Unreal Engine 5"
+    },
+    {
+      "url": "https://c212.net/c/link/?t=0&l=en&o=3518016-1&h=2748636143&u=https%3A%2F%2Fc212.net%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D3397231-1%26h%3D2982849003%26u%3Dhttp%253A%252F%252Fsolana.com%252F%26a%3DSolana&a=Solana",
+      "anchor_text": "Solana"
+    },
+    {
+      "url": "https://c212.net/c/link/?t=0&l=en&o=3518016-1&h=1530369193&u=https%3A%2F%2Fc212.net%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D3397231-1%26h%3D3652583731%26u%3Dhttps%253A%252F%252Fstaratlas.com%252F%26a%3DStarAtlas.com&a=StarAtlas.com",
+      "anchor_text": "StarAtlas.com"
+    },
+    {
+      "url": "https://c212.net/c/link/?t=0&l=en&o=3518016-1&h=3921988929&u=https%3A%2F%2Fc212.net%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D3397231-1%26h%3D445912205%26u%3Dhttp%253A%252F%252Fplay.staratlas.com%252F%26a%3DPlay.StarAtlas.com&a=Play.StarAtlas.com",
+      "anchor_text": "Play.StarAtlas.com"
+    },
+    {
+      "url": "https://www.reddit.com/r/StarAtlas",
+      "anchor_text": "Reddit"
+    },
+    {
+      "url": "https://www.linkedin.com/company/star-atlas",
+      "anchor_text": "Linkedin"
+    },
+    {
+      "url": "https://medium.com/star-atlas",
+      "anchor_text": "Medium"
+    },
+    {
+      "url": "https://www.tiktok.com/@staratlasmetaverse",
+      "anchor_text": "Tik Tok"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/article/star-atlas-token-sale-details-revealed",
+      "anchor_text": "Prev Star Atlas Token Sale Details Revealed"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/article/building-a-next-gen-metaverse-economy-with-solana-serum-and-metaplex",
+      "anchor_text": "Next Building a Next-Gen Metaverse Economy with Solana, Serum and Metaplex Star Atlas is building a thriving, self-sustainable, player-owned gaming metaverse with fast, intuitive tools enabling the humanity to reimagine its own future."
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/article/power-to-the-people-star-atlas-publishes-blueprint-of-next-gen-economic-and",
+      "anchor_text": "Trailer"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://experience.staratlas.com/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://play.staratlas.com",
+      "anchor_text": "Play Now"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/economic-reports/",
+      "anchor_text": "Economic Reports"
+    },
+    {
+      "url": "https://experience.staratlas.com/assets/pdfs/white-paper.pdf",
+      "anchor_text": "White Paper • PDF Read Our Official White Paper!"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/governance-documentation",
+      "anchor_text": "Governance Documentation Learn how Star Atlas is governed and built by its community."
+    },
+    {
+      "url": "https://experience.staratlas.com/terms-of-service",
+      "anchor_text": "Terms of Service"
+    },
+    {
+      "url": "https://experience.staratlas.com/privacy-policy",
+      "anchor_text": "Privacy Policy"
+    },
+    {
+      "url": "https://experience.staratlas.com/promotional-terms-and-conditions",
+      "anchor_text": "Promotional Terms"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/news",
+      "anchor_text": "Back"
+    },
+    {
+      "url": "https://staratlas.com/economics-paper.pdf",
+      "anchor_text": "an economics document"
+    },
+    {
+      "url": "https://staratlas.com/white-paper.pdf",
+      "anchor_text": "Whitepaper"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/article/star-atlas-token-sale-details-revealed",
+      "anchor_text": "Prev Star Atlas Token Sale Details Revealed"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/article/building-a-next-gen-metaverse-economy-with-solana-serum-and-metaplex",
+      "anchor_text": "Next Building a Next-Gen Metaverse Economy with Solana, Serum and Metaplex Star Atlas is building a thriving, self-sustainable, player-owned gaming metaverse with fast, intuitive tools enabling the humanity to reimagine its own future."
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/article/power-to-the-people-star-atlas-publishes-blueprint-of-next-gen-economic-and",
+      "anchor_text": "Trailer"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://experience.staratlas.com/newsroom/article/power-to-the-people-star-atlas-publishes-blueprint-of-next-gen-economic-and",
+    "final_url": "https://experience.staratlas.com/newsroom/article/power-to-the-people-star-atlas-publishes-blueprint-of-next-gen-economic-and",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "response_size": 62197,
+    "retrieved_at": "2026-07-13T01:04:34.287481Z",
+    "elapsed_ms": 248
+  }
+}

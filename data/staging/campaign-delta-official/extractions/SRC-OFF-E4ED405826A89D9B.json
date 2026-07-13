@@ -1,0 +1,240 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-E4ED405826A89D9B",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47021259103507-How-does-the-Star-Atlas-DAO-work",
+    "title": "How does the Star Atlas DAO work?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-02T15:03:59Z",
+    "updated_at": "2025-12-08T18:24:36Z",
+    "original_date_text": "2025-12-02T15:03:59Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “How does the Star Atlas DAO work?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "The Star Atlas DAO gives players economic and political control over the Star Atlas metaverse. Through multi-signature wallets and on-chain voting, DAO members help shape the future of the entire ecosystem\nWhat Is a DAO?\nA Decentralized Autonomous Organization (DAO) is a blockchain-based governance structure. It allows decisions to be made by a distributed community, with actions executed through on-chain consensus mechanisms.\nStar Atlas is designed to support multiple layers of DAOs:\nGuild-level (DACs)\nRegional & Faction-level governance\nThe Universal DAO, which governs the entire ecosystem\nCurrently, only the Universal Star Atlas DAO is live.\nHow to Join the DAO\nTo participate in governance, players must lock POLIS tokens. This gives them voting power (called PVP – POLIS Voting Power), which they can use to vote on proposals and influence decisions.\nCore Principles of the Star Atlas DAO\nThe Star Atlas DAO is built on seven guiding principles:\nQuality Above AllA high bar for design, experience, and execution across the metaverse.\nClarity of PurposeGovernance is grounded in a shared vision defined by the Star Atlas Constitution.\nSafety Is ParamountAll critical code, from gameplay to governance, is audited and secured.\nTransparency & EngagementThe community should always be informed and involved in decision-making.\nGovernance as GameplayPolitical participation is part of the Star Atlas experience through PVP (vePOLIS).\nThe Star Atlas Council as GuideAn elected Council helps shepherd the proposal and voting process.\nCensorship ResistanceOn-chain logic and governance aim to decentralize power and protect autonomy.\nThese principles are evolving and will continue to be shaped by the community.\nProposals & PIPs\nDAO members can submit and vote on POLIS Improvement Proposals (PIPs).\nPIPs may contain on-chain instructions to execute changes directly in the game or economy.\nOther proposals may guide off-chain processes and actions taken by DAO-affiliated bodies, like the Star Atlas Foundation.\nParticipation in the DAO is not just governance, it’s a part of the gameplay and long-term vision of Star Atlas.",
+  "content_hash": "eec6f12a0179c83e49b362777d78b8191390aae948c0f545e52c9921d2d81fe3",
+  "entities": [
+    "ATLAS",
+    "CORE",
+    "POLIS",
+    "Star Atlas DAO",
+    "Star Atlas Foundation"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-E4ED405826A89D9B-01",
+      "text": "The Star Atlas DAO gives players economic and political control over the Star Atlas metaverse.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E4ED405826A89D9B",
+      "publication_date": "2025-12-02T15:03:59Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E4ED405826A89D9B-02",
+      "text": "Through multi-signature wallets and on-chain voting, DAO members help shape the future of the entire ecosystem What Is a DAO?",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E4ED405826A89D9B",
+      "publication_date": "2025-12-02T15:03:59Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E4ED405826A89D9B-03",
+      "text": "A Decentralized Autonomous Organization (DAO) is a blockchain-based governance structure.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E4ED405826A89D9B",
+      "publication_date": "2025-12-02T15:03:59Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E4ED405826A89D9B-04",
+      "text": "It allows decisions to be made by a distributed community, with actions executed through on-chain consensus mechanisms.",
+      "claim_type": "EXECUTION_CONFIRMED",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E4ED405826A89D9B",
+      "publication_date": "2025-12-02T15:03:59Z",
+      "confidence": "MEDIUM",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-E4ED405826A89D9B-05",
+      "text": "Star Atlas is designed to support multiple layers of DAOs: Guild-level (DACs) Regional & Faction-level governance The Universal DAO, which governs the entire ecosystem Currently, only the Universal Star Atlas DAO is live.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E4ED405826A89D9B",
+      "publication_date": "2025-12-02T15:03:59Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E4ED405826A89D9B-06",
+      "text": "How to Join the DAO To participate in governance, players must lock POLIS tokens.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E4ED405826A89D9B",
+      "publication_date": "2025-12-02T15:03:59Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E4ED405826A89D9B-07",
+      "text": "This gives them voting power (called PVP – POLIS Voting Power), which they can use to vote on proposals and influence decisions.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E4ED405826A89D9B",
+      "publication_date": "2025-12-02T15:03:59Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E4ED405826A89D9B-08",
+      "text": "Core Principles of the Star Atlas DAO The Star Atlas DAO is built on seven guiding principles: Quality Above AllA high bar for design, experience, and execution across the metaverse.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E4ED405826A89D9B",
+      "publication_date": "2025-12-02T15:03:59Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E4ED405826A89D9B-09",
+      "text": "Clarity of PurposeGovernance is grounded in a shared vision defined by the Star Atlas Constitution.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E4ED405826A89D9B",
+      "publication_date": "2025-12-02T15:03:59Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E4ED405826A89D9B-10",
+      "text": "Safety Is ParamountAll critical code, from gameplay to governance, is audited and secured.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E4ED405826A89D9B",
+      "publication_date": "2025-12-02T15:03:59Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E4ED405826A89D9B-11",
+      "text": "Transparency & EngagementThe community should always be informed and involved in decision-making.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E4ED405826A89D9B",
+      "publication_date": "2025-12-02T15:03:59Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E4ED405826A89D9B-12",
+      "text": "Governance as GameplayPolitical participation is part of the Star Atlas experience through PVP (vePOLIS).",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E4ED405826A89D9B",
+      "publication_date": "2025-12-02T15:03:59Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E4ED405826A89D9B-13",
+      "text": "The Star Atlas Council as GuideAn elected Council helps shepherd the proposal and voting process.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E4ED405826A89D9B",
+      "publication_date": "2025-12-02T15:03:59Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E4ED405826A89D9B-14",
+      "text": "Censorship ResistanceOn-chain logic and governance aim to decentralize power and protect autonomy.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E4ED405826A89D9B",
+      "publication_date": "2025-12-02T15:03:59Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E4ED405826A89D9B-15",
+      "text": "These principles are evolving and will continue to be shaped by the community.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E4ED405826A89D9B",
+      "publication_date": "2025-12-02T15:03:59Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "CORE",
+    "POLIS",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [
+    "Star Atlas DAO",
+    "Star Atlas Foundation"
+  ],
+  "guilds": [],
+  "external_sources": [],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47021259103507-How-does-the-Star-Atlas-DAO-work",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.361815Z"
+  }
+}

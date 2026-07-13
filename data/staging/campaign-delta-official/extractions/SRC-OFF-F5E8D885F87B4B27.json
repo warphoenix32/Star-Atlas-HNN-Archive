@@ -1,0 +1,173 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-F5E8D885F87B4B27",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47053519746451-How-to-Import-a-Ship-into-Sage",
+    "title": "How to Import a Ship into Sage?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-03T13:17:04Z",
+    "updated_at": "2025-12-08T18:24:56Z",
+    "original_date_text": "2025-12-03T13:17:04Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://based.staratlas.com/",
+        "anchor_text": "Starbased"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “How to Import a Ship into Sage?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Bringing your ships into Starbased is a critical step after creating your character, enabling you to navigate the vast expanse of the Star Atlas universe with your fleet. Here's how to import your ships into the game:\nNavigate to Your Faction's Central Space Station: After connecting to Starbased and creating your character, locate and click on the Central Space Station specific to your faction. For example, if you are part of the ONI faction, click on the ONI CSS. USTUR and MUD factions will click on USTUR CSS and MUD CSS, respectively.\nAccess the Port of Entry: Within the new menu that appears on the left side of your screen, find and click on \"Port of Entry.\" This action will take you to the next step in the process of importing your ships.\nSelect Your Ships to Import: A list of all the ships in your connected wallet will be displayed. Here, you can select the ship or ships you wish to import into Starbased, specify the quantity for each, and then click on \"Deposit to Starbase.\"\nConfirm the Transaction: Your wallet will prompt you to confirm the import transaction. Once you approve it, your ships will be successfully imported into Starbased.",
+  "content_hash": "443e58255346eb8b38c335f161e05d99f71b1d147f5dbde24e017d9147a086f3",
+  "entities": [
+    "ATLAS"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-F5E8D885F87B4B27-01",
+      "text": "Bringing your ships into Starbased is a critical step after creating your character, enabling you to navigate the vast expanse of the Star Atlas universe with your fleet.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F5E8D885F87B4B27",
+      "publication_date": "2025-12-03T13:17:04Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F5E8D885F87B4B27-02",
+      "text": "Here's how to import your ships into the game: Navigate to Your Faction's Central Space Station: After connecting to Starbased and creating your character, locate and click on the Central Space Station specific to your faction.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F5E8D885F87B4B27",
+      "publication_date": "2025-12-03T13:17:04Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F5E8D885F87B4B27-03",
+      "text": "For example, if you are part of the ONI faction, click on the ONI CSS.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F5E8D885F87B4B27",
+      "publication_date": "2025-12-03T13:17:04Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F5E8D885F87B4B27-04",
+      "text": "USTUR and MUD factions will click on USTUR CSS and MUD CSS, respectively.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F5E8D885F87B4B27",
+      "publication_date": "2025-12-03T13:17:04Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F5E8D885F87B4B27-05",
+      "text": "Access the Port of Entry: Within the new menu that appears on the left side of your screen, find and click on \"Port of Entry.\" This action will take you to the next step in the process of importing your ships.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F5E8D885F87B4B27",
+      "publication_date": "2025-12-03T13:17:04Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F5E8D885F87B4B27-06",
+      "text": "Select Your Ships to Import: A list of all the ships in your connected wallet will be displayed.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F5E8D885F87B4B27",
+      "publication_date": "2025-12-03T13:17:04Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F5E8D885F87B4B27-07",
+      "text": "Here, you can select the ship or ships you wish to import into Starbased, specify the quantity for each, and then click on \"Deposit to Starbase.\" Confirm the Transaction: Your wallet will prompt you to confirm the import transaction.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F5E8D885F87B4B27",
+      "publication_date": "2025-12-03T13:17:04Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F5E8D885F87B4B27-08",
+      "text": "Once you approve it, your ships will be successfully imported into Starbased.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F5E8D885F87B4B27",
+      "publication_date": "2025-12-03T13:17:04Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [
+    "MUD",
+    "ONI",
+    "Ustur"
+  ],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://based.staratlas.com/",
+      "anchor_text": "Starbased"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://based.staratlas.com/",
+      "anchor_text": "Starbased"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47053519746451-How-to-Import-a-Ship-into-Sage",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.425665Z"
+  }
+}

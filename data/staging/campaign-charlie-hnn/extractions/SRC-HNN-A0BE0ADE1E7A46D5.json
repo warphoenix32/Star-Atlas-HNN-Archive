@@ -1,0 +1,207 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-A0BE0ADE1E7A46D5",
+    "url_id": "URL-A0BE0ADE1E7A46D5",
+    "url": "https://medium.com/the-hologram/star-atlas-makes-major-lay-off-and-runway-announcement-f379babab8e0",
+    "title": "Star Atlas Makes Major Lay Off and Runway Announcement",
+    "author": "Krigs",
+    "publisher": "The Hologram",
+    "publication_identity": "The Hologram (Medium publication)",
+    "published_at": "2023-07-26T05:27:30Z",
+    "updated_at": "2023-07-26T05:27:30Z",
+    "retrieved_at": "2026-07-13T00:09:12.804680Z",
+    "document_type": "ORIGINAL_REPORTING",
+    "source_role": "ORIGINAL_REPORTING",
+    "publication_role": "ORIGINAL_REPORTING",
+    "classification_rationale": "Publication reports a development without explicit interview, editorial, investigative, event, or reference framing."
+  },
+  "source_lineage": {
+    "publication": "The Hologram (Medium publication)",
+    "publication_role": "ORIGINAL_REPORTING",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [
+      {
+        "publication": "Podcast",
+        "author": "UNKNOWN",
+        "url": "https://open.spotify.com/show/2mxndrDW6yPfpS350ijzjt?si=ec7c717f998240d6",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "YouTube",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/channel/UCDa-YxgNG6A9xpH1qyP0OaQ",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [
+      "Krigs"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Podcast",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://open.spotify.com/show/2mxndrDW6yPfpS350ijzjt?si=ec7c717f998240d6"
+      },
+      {
+        "from": "YouTube",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://www.youtube.com/channel/UCDa-YxgNG6A9xpH1qyP0OaQ"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "This original reporting published by The Hologram on 2023-07-26 documents “Star Atlas Makes Major Lay Off and Runway Announcement.” Its surviving text addresses governance, economy, game development, community, lore. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "Star AtlasCrypto\nStar Atlas Makes Major Lay Off and Runway Announcement\nKrigs2 min read·Jul 26, 2023\n--\nListen\nShare\nJuly 25th —Citing a lack of external funding, Star Atlas has reduced its workforce by 73%\nKey Takeaways from the Announcement\n· Approximately 122 people were let go, or roughly 73% of the remaining workforce after FTX. This includes external Spearsoft developers that were working on UE5. 45 people now remain working for ATMTA\n· UE5 development is now on an extended timeline. Marketplace, DAO, and Faction Fleet and Faction claims will be maintained at a lower priority. SAGE and Mobile app that was announced at Play GG are the top priority\n· Each of the Founders, including Wagner, have taken a pay cut. Potential as low as $36,000 dollars a year per Florida state laws.\n· Runway extended up to a year and beyond as a direct result of workforce reduction.\nPress enter or click to view image in full size\nWagner Addresses Workforce and Community\nPress enter or click to view image in full size\nThe full announcement can be found in the Star Atlas discord.\nMichael Wagner will address the community during a special AMA on Wednesday, July 26th at 1 PM EST in the Star Atlas Discord.\nAbout the Author\nKrigs is a pioneer in the world of Star Atlas, having founded The Hologram News Network — an independent meta-news organization that keeps players up to date on all developments regarding Star Atlas. An ardent supporter of emerging technologies, Krigs has been covering this game for over a year and believes passionately in their power to revolutionize our collective gaming experience.\nFollow on Social Media:\nPodcast | YouTube | Twitter | Instagram | Web\nAbout The Hologram\nThe Hologram is Star Atlas’ first and only independent news network. Our vision is to become the most trusted source of information about Star Atlas and a voice for the whole community. Readers can expect a high standard from our reporting and staff. Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.\nAny information published by The Hologram or its writers should be considered as informational in nature and does not constitute any financial advice.",
+  "content_hash": "4277606f3e07877f463ed9824f252de156211b0d29def223ce51a2fc93e3c11a",
+  "major_topics": [
+    "governance",
+    "economy",
+    "game development",
+    "community",
+    "lore"
+  ],
+  "entities": [
+    "ATLAS",
+    "Krigs",
+    "Michael Wagner",
+    "SAGE",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-A0BE0ADE1E7A46D5-01",
+      "text": "Marketplace, DAO, and Faction Fleet and Faction claims will be maintained at a lower priority.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-A0BE0ADE1E7A46D5",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-A0BE0ADE1E7A46D5-02",
+      "text": "SAGE and Mobile app that was announced at Play GG are the top priority · Each of the Founders, including Wagner, have taken a pay cut.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-A0BE0ADE1E7A46D5",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-A0BE0ADE1E7A46D5-03",
+      "text": "Michael Wagner will address the community during a special AMA on Wednesday, July 26th at 1 PM EST in the Star Atlas Discord.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-A0BE0ADE1E7A46D5",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-A0BE0ADE1E7A46D5-04",
+      "text": "Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-A0BE0ADE1E7A46D5",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "SAGE",
+    "Star Atlas",
+    "ATLAS"
+  ],
+  "governance_items": [
+    "Star Atlas governance / DAO"
+  ],
+  "lore_items": [
+    "ONI"
+  ],
+  "actors": [
+    "Michael Wagner",
+    "Krigs"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://medium.com/@krigsfoniks?source=---byline--f379babab8e0---------------------------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fthe-hologram%2Ff379babab8e0&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fstar-atlas-makes-major-lay-off-and-runway-announcement-f379babab8e0&user=Krigs&userId=41e0c5b141f1&source=---header_actions--f379babab8e0---------------------clap_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Frepost%2Fp%2Ff379babab8e0&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fstar-atlas-makes-major-lay-off-and-runway-announcement-f379babab8e0&user=Krigs&userId=41e0c5b141f1&source=---header_actions--f379babab8e0---------------------repost_header------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ff379babab8e0&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fstar-atlas-makes-major-lay-off-and-runway-announcement-f379babab8e0&source=---header_actions--f379babab8e0---------------------bookmark_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2Fplans%3Fdimension%3Dpost_audio_button%26postId%3Df379babab8e0&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fstar-atlas-makes-major-lay-off-and-runway-announcement-f379babab8e0&source=---header_actions--f379babab8e0---------------------post_audio_button------------------",
+      "anchor_text": "Listen"
+    },
+    {
+      "url": "https://medium.com/u/41e0c5b141f1",
+      "anchor_text": "Krigs"
+    },
+    {
+      "url": "https://open.spotify.com/show/2mxndrDW6yPfpS350ijzjt?si=ec7c717f998240d6",
+      "anchor_text": "Podcast"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCDa-YxgNG6A9xpH1qyP0OaQ",
+      "anchor_text": "YouTube"
+    },
+    {
+      "url": "https://twitter.com/home",
+      "anchor_text": "Twitter"
+    },
+    {
+      "url": "https://thehologram.io/",
+      "anchor_text": "Web"
+    },
+    {
+      "url": "https://medium.com/the-hologram",
+      "anchor_text": "The Hologram"
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "https://medium.com/the-hologram/star-atlas-makes-major-lay-off-and-runway-announcement-f379babab8e0",
+    "final_url": "https://medium.com/the-hologram/star-atlas-makes-major-lay-off-and-runway-announcement-f379babab8e0",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 260514,
+    "elapsed_ms": 660,
+    "retrieval_mode": "LIVE",
+    "archive_capture": null
+  }
+}

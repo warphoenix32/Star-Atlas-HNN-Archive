@@ -1,0 +1,378 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-ACA5B685ADE173D0",
+    "url_id": "URL-ACA5B685ADE173D0",
+    "url": "https://thehologram.io/stake-polis",
+    "title": "Analysis: How Long To Stake POLIS For? » The Hologram",
+    "author": "Krigs",
+    "publisher": "Hologram News Network (HNN)",
+    "publication_identity": "Archived HNN website (thehologram.io)",
+    "published_at": "2022-07-30T20:33:38+00:00",
+    "updated_at": null,
+    "retrieved_at": "2026-07-13T00:14:54.093263Z",
+    "document_type": "ORIGINAL_REPORTING",
+    "source_role": "ORIGINAL_REPORTING",
+    "publication_role": "ORIGINAL_REPORTING",
+    "classification_rationale": "Publication reports a development without explicit interview, editorial, investigative, event, or reference framing."
+  },
+  "source_lineage": {
+    "publication": "Archived HNN website (thehologram.io)",
+    "publication_role": "ORIGINAL_REPORTING",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [
+      {
+        "publication": "Source",
+        "author": "UNKNOWN",
+        "url": "https://discord.com/channels/789226204980707409/874400139534536745/1002777696629182464",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "locker",
+        "author": "UNKNOWN",
+        "url": "https://govern.staratlas.com/lockers",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [
+      "Krigs"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Source",
+        "to": "Archived HNN website (thehologram.io)",
+        "relationship": "REPORTS_ON",
+        "url": "https://discord.com/channels/789226204980707409/874400139534536745/1002777696629182464"
+      },
+      {
+        "from": "locker",
+        "to": "Archived HNN website (thehologram.io)",
+        "relationship": "REPORTS_ON",
+        "url": "https://govern.staratlas.com/lockers"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "This original reporting published by Hologram News Network (HNN) on 2022-07-30 documents “Analysis: How Long To Stake POLIS For? » The Hologram.” Its surviving text addresses governance, economy, guilds and DACs, community. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "Analysis: How Long To Stake POLIS For?\nPosted by Krigs | Jul 30, 2022 | Economics, Politics\nSince the announcement of the POLIS DAO and staking a little more than a week ago, the debate surrounding POLIS staking has revealed several distinct thought strategies on the appropriate time frame for staking. As the beginning of the emission rewards approaches on August 2, POLIS holders must ask themselves – How long to stake POLIS for?\nThe purpose of this article is to better inform POLIS holders on some known facts and plausible assumptions ahead of making such a big decision. This article will analyze the pros and cons of short versus long term lock periods and some points to consider with each choice. Information contained within this article should not be construed as advocacy for a particular lock duration.\n~~~~~~~~~\nHow long to stake POLIS for?\nBefore delving into some analysis, here a some understood facts about POLIS staking and emissions.\nHolders can choose one of any ten lock periods to stake POLIS, each with a different POLIS Voting Power multiplier (PVP*)\nDaily emissions for a given wallet is a calculation of the number of tokens staked time the Length of Stake Multiplier\nPVP, and thus an individual’s emissions, will decline linearly over time. To maintain the maximum emission rate, POLIS holders would need to extend their stake for the maximum duration daily.\nDaily emissions are calculated by comparing an individuals PVP and comparing that to the total communal locked PVP. The greater individual share of PVP the greater the emissions.\nDaily POLIS emission will follow a declining fixed curve over an eight year period – Daily total emissions will begin around 52,000 POLIS and steadily decline to 32,000 POLIS over that eight year period (Source – ATMTA CEO Michael Wagner).\nAt time of writing, the current Total Locked Value of the POLIS Locker is 7.9 million Tokens.\nATMTA will stake their tokens in three separate wallets for a duration of 3, 4, and 5 years each. Currently, ATMTA plans to delay the staking of their tokens to avoid weighting the share of emissions in their favor.\n* For an in-depth description of PVP please see our POLIS DAO article\n~~~~~~~~~\nNon-weighted daily emission formula\nUsing the facts about about the POLIS locker, some inferences can now be made regarding emissions.\nUsing a very basic formula, the non-weighted daily emission of a single POLIS token can be calculated by taking the daily emissions cap and dividing by the total number of locked tokens.\nTotal Daily Emissions / TLV = Non Weighted POLIS token emission\n(52,000 POLIS / 7,900,000 POLIS = .00658)\nIn the above formula, .00658 represents the non-weighted daily emission of a single POLIS token (e.g. 1 staked POLIS token yields .00658 daily POLIS in this formula). Keep in mind, this number will likely decrease over time as more token holders stake their tokens and the fixed POLIS emissions curve begins to decline. ATMTA has always made clear that most POLIS rewards will be distributed at the beginning.\n~~~~~~~~~\nAssumptions\nWhat now follows are some loose assumptions that can be made regarding what a POLIS holder can expect for daily emissions.\nAccording to a recent community poll, out of 104 respondents, a majority of POLIS holders plan to, or already have, staked their POLIS for a period of greater than three years.\nThese holders will receive 6, 8, or 10 times the PVP compared to a 6 month staker with the same amount of POLIS tokens. It is important to remember that an individual’s emissions are determined by a weighted average of the communal PVP.\nWhat we can assume is that a bulk of the daily POLIS emissions will go to holders who have longer stakes since their POLIS and PVP is weighted more favorably by the emissions calculator. Taking the .00658 figure from above, an individual can then make some assumptions regarding their true POLIS weighted daily emission rate.\nFor example, if a person has staked 5000 POLIS, they can expect a non-weighted baseline return of ~32 POLIS per day (This is not the final figure). By then factoring in their duration of stake, a person can roughly estimate their likely true daily return of ATLAS. If a person has a 5 year lock, then they will likely see returns above that non-weighted figure. If a person has a less than three year lock, or even a sub-1 year lock, expect that non-weighted daily return to decrease. While a daily return of 32 POLIS from 5,000 POLIS staked sounds fantastic, expect any number of POLIS emissions to drop over the next year as more POLIS is locked, thus dispersing the distributed POLIS. Should the POLIS Locker reach a 50% capacity of total circulating supply, 5,000 POLIS would yield around single-digit POLIS per day.\n2 Weeks or 5 years – A tale of two perspectives\nThere are many pros and cons to the answers of “How long to stake POLIS?”, many of which can only be addressed at the individual level. In a broad sense, the two ends of the POLIS spectrum can be broken down into two distinct thought camps.\nShort term (2 weeks – 1 year)\nIgnoring nonparticipation in the POLIS locker, a short term lock clearly represents the least amount of possible emissions out of all the available options. Proponents of shorter locks argue that the volatility and rapid bull/bear cycles of the crypto market make a long term lock unappealing. Should the market enter a bull market within the next year, any opportunity to capitalize on locked POLIS would be lost.\nShort term lockers also argue that the Star Atlas DAO is at least a year or more from any impactful proposals and that PVP for proposal voting can still be obtained at a later date. Lastly, short-term advocates point to overall low emission incentives as a reason for not staking longer.\nLong term (3 – 5 years)\nLong term stakers arguably have a greater conviction regarding the Star Atlas DAO for a number of reasons.\nMany long term proponents argue that if a person truly believes in the long term vision of Star Atlas, then there is no other logical choice. Long term holders also receive more daily POLIS emissions compared to token holders with similar or greater amounts of POLIS who staked for a lesser period.\nLong term staker are also likely seeking to maximize their PVP at every level of the Star Atlas DAO. That means capitalizing on every opportunity to acquire more POLIS. In the long run, having influence over the Star Atlas DAO may prove to be more beneficial that a short term monetary position.\nMid term (1 – 3 years)\nAs a middle ground, there is currently less vocal support for a blended option. POLIS holders appear to want to maximize their strategy at either end of the spectrum. However, a case can be made for a mixed approach. Beginning at 1 year, POLIS stakers do receive a 1.5x multiplier to their PVP up to 6x at 3 years.\nIf one believes both that a bull cycle is not likely in the next year, but wished to retain some level of liquidity in a time frame less than 5 years, the middle range of choices may be an attractive choice.\nAbout The Hologram\nThe Hologram is an independent news organization dedicated to covering the latest Star Atlas content from all sides. The Hologram was founded on the principle of uniting creators from across their diverse fields and showcasing their talent. The Hologram also recognizes the importance of our reader’s time and will always strive to give you what you need, when you need it.\nThe Hologram is not endorsed or paid by the Star Atlas team. Any information published by The Hologram or its writers should be considered as informational in nature and does not constitute any financial advice.\nShare:\nAbout The Author\nKrigs\nRelated Posts\nNeed Help With Crypto Taxes?\nMay 13, 2022\nThe United Metaverse Accords\nMarch 26, 2022\nPearce F4 or the Calico ATS Enforcer, A Comparison\nApril 21, 2022\nDark Matter Calls On Interstellar Alliance For Transparency\nMay 16, 2022\nLeave a reply Cancel reply\nUpcoming Events\nThere are no upcoming events.\nRecent Posts\nAnalysis: How Long To Stake POLIS For?\nJul 30, 2022 | Economics, Politics\nLa DAO, el centro del metaverso de Star Atlas\nJul 27, 2022 | Español\nIlluvium vs Star Atlas\nJul 26, 2022 | Español, Featured\nIlluvium vs. Star Atlas\nJul 26, 2022 | Featured\nThe Club se asocia con Seraphs para tener prioridad con S3R\nJul 26, 2022 | Español\nThe Club Partners with Seraphs for Priority S3R\nJul 26, 2022 | Community, Guilds\nDAOs, DACs y contratos inteligentes: Definiendo un marco común\nJul 25, 2022 | Económicas, Español, Modo de juego, Políticas\nEl DAO de Star Atlas – POLIS staking ya está en marcha\nJul 25, 2022 | Español, Featured, Políticas\nMichael Wagner habla del próximo debate con Kieran Warwick de Illuvium\nJul 24, 2022 | Español\nStarPath – Programa de recompensas por recomendación de Star Atlas\nJul 24, 2022 | Español, Modo de juego\nFollow the Holo\nTwitter",
+  "content_hash": "39c7569f603b85b01569e1bcb86e56ff3a3076f5152644f63d34eba799e44765",
+  "major_topics": [
+    "governance",
+    "economy",
+    "guilds and DACs",
+    "community"
+  ],
+  "entities": [
+    "ATLAS",
+    "Krigs",
+    "Michael Wagner",
+    "POLIS",
+    "Star Atlas",
+    "StarPath"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-ACA5B685ADE173D0-01",
+      "text": "This article will analyze the pros and cons of short versus long term lock periods and some points to consider with each choice.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-ACA5B685ADE173D0",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-ACA5B685ADE173D0-02",
+      "text": "Holders can choose one of any ten lock periods to stake POLIS, each with a different POLIS Voting Power multiplier (PVP*) Daily emissions for a given wallet is a calculation of the number of tokens staked time the Length of Stake Multiplier PVP, and thus an individual’s emissions, will decline linearly over time.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-ACA5B685ADE173D0",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-ACA5B685ADE173D0-03",
+      "text": "Daily POLIS emission will follow a declining fixed curve over an eight year period – Daily total emissions will begin around 52,000 POLIS and steadily decline to 32,000 POLIS over that eight year period (Source – ATMTA CEO Michael Wagner).",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-ACA5B685ADE173D0",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-ACA5B685ADE173D0-04",
+      "text": "ATMTA will stake their tokens in three separate wallets for a duration of 3, 4, and 5 years each.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-ACA5B685ADE173D0",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-ACA5B685ADE173D0-05",
+      "text": "Currently, ATMTA plans to delay the staking of their tokens to avoid weighting the share of emissions in their favor.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-ACA5B685ADE173D0",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-ACA5B685ADE173D0-06",
+      "text": "Keep in mind, this number will likely decrease over time as more token holders stake their tokens and the fixed POLIS emissions curve begins to decline.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-ACA5B685ADE173D0",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-ACA5B685ADE173D0-07",
+      "text": "ATMTA has always made clear that most POLIS rewards will be distributed at the beginning.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-ACA5B685ADE173D0",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-ACA5B685ADE173D0-08",
+      "text": "According to a recent community poll, out of 104 respondents, a majority of POLIS holders plan to, or already have, staked their POLIS for a period of greater than three years.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-ACA5B685ADE173D0",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-ACA5B685ADE173D0-09",
+      "text": "These holders will receive 6, 8, or 10 times the PVP compared to a 6 month staker with the same amount of POLIS tokens.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-ACA5B685ADE173D0",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-ACA5B685ADE173D0-10",
+      "text": "What we can assume is that a bulk of the daily POLIS emissions will go to holders who have longer stakes since their POLIS and PVP is weighted more favorably by the emissions calculator.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-ACA5B685ADE173D0",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-ACA5B685ADE173D0-11",
+      "text": "If a person has a 5 year lock, then they will likely see returns above that non-weighted figure.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-ACA5B685ADE173D0",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-ACA5B685ADE173D0-12",
+      "text": "The Hologram also recognizes the importance of our reader’s time and will always strive to give you what you need, when you need it.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-ACA5B685ADE173D0",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Star Atlas",
+    "POLIS",
+    "ATLAS",
+    "StarPath"
+  ],
+  "governance_items": [
+    "Star Atlas governance / DAO"
+  ],
+  "lore_items": [],
+  "actors": [
+    "Michael Wagner",
+    "Krigs"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://thehologram.io/author/krigs/",
+      "anchor_text": "Krigs"
+    },
+    {
+      "url": "https://thehologram.io/category/economics/",
+      "anchor_text": "Economics"
+    },
+    {
+      "url": "https://thehologram.io/category/politics/",
+      "anchor_text": "Politics"
+    },
+    {
+      "url": "https://thehologram.io/star-atlas-dao/",
+      "anchor_text": "announcement"
+    },
+    {
+      "url": "https://discord.com/channels/789226204980707409/874400139534536745/1002777696629182464",
+      "anchor_text": "Source"
+    },
+    {
+      "url": "https://govern.staratlas.com/lockers",
+      "anchor_text": "locker"
+    },
+    {
+      "url": "https://thehologram.io/star-atlas-dao/thehologram.io",
+      "anchor_text": "The Hologram"
+    },
+    {
+      "url": "http://www.facebook.com/sharer.php?u=https://thehologram.io/stake-polis/&t=Analysis%3A%20How%20Long%20To%20Stake%20POLIS%20For%3F",
+      "anchor_text": ""
+    },
+    {
+      "url": "http://twitter.com/intent/tweet?text=Analysis%3A%20How%20Long%20To%20Stake%20POLIS%20For%3F%20https://thehologram.io/stake-polis/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://plus.google.com/share?url=https://thehologram.io/stake-polis/&t=Analysis%3A%20How%20Long%20To%20Stake%20POLIS%20For%3F",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://twitter.com/Krigsfoniks",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/coin-ledger-crypto-tax-software/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/the-united-metaverse-accords/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/pearce-f4-or-the-calico-ats-enforcer/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/dark-matter-calls-for-transparency-interstellar-responds/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/stake-polis/",
+      "anchor_text": "Cancel reply"
+    },
+    {
+      "url": "https://thehologram.io/la-dao-el-centro-del-metaverso-de-star-atlas/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/category/espanol/",
+      "anchor_text": "Español"
+    },
+    {
+      "url": "https://thehologram.io/illuvium-vs-star-atlas-es/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/category/featured/",
+      "anchor_text": "Featured"
+    },
+    {
+      "url": "https://thehologram.io/illuvium-star-atlas/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/the-club-se-asocia-con-seraphs-para-tener-prioridad-con-s3r/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/club-partners-with-seraphs/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/category/community/",
+      "anchor_text": "Community"
+    },
+    {
+      "url": "https://thehologram.io/category/community/guilds/",
+      "anchor_text": "Guilds"
+    },
+    {
+      "url": "https://thehologram.io/daos-dacs-y-contratos-inteligentes-definiendo-un-marco-comun/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/category/espanol/economicas/",
+      "anchor_text": "Económicas"
+    },
+    {
+      "url": "https://thehologram.io/category/espanol/modo-de-juego/",
+      "anchor_text": "Modo de juego"
+    },
+    {
+      "url": "https://thehologram.io/category/espanol/politicas/",
+      "anchor_text": "Políticas"
+    },
+    {
+      "url": "https://thehologram.io/1675-2/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/1663-2/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/starpath-programa-de-recompensas-por-recomendacion-de-star-atlas/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://twitter.com/Hologram_News",
+      "anchor_text": ""
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "https://web.archive.org/web/20220730203340id_/https://thehologram.io/stake-polis/",
+    "final_url": "https://web.archive.org/web/20220730203340id_/https://thehologram.io/stake-polis/",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "response_size": 169594,
+    "elapsed_ms": 17084,
+    "retrieval_mode": "INTERNET_ARCHIVE",
+    "archive_capture": {
+      "timestamp": "20220730203340",
+      "original": "https://thehologram.io/stake-polis/",
+      "digest": "EMX42CJ4ZO2WWSGZ4BPNVA4TG2QPCRL7"
+    }
+  }
+}

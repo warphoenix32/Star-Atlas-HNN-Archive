@@ -1,0 +1,14 @@
+{
+  "topic": "alone, claims, never, polis, record, remain, the, this",
+  "official_source_ids": [
+    "SRC-OFF-E934B90D2A82BDAA"
+  ],
+  "community_source_ids": [
+    "SRC-HNN-DCA8DAB89D9389B2"
+  ],
+  "relationship": "COMMUNITY_ADDS_CONTEXT",
+  "finding": "Automated topic overlap on: alone, claims, never, polis, record, remain, the, this, time. Official authority is limited to the official wording; community context remains separately attributed.",
+  "confidence": "LOW",
+  "promotion_candidate": false,
+  "manual_review_required": true
+}

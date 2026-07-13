@@ -1,0 +1,297 @@
+{
+  "source": {
+    "source_id": "SRC-IH-A6FE3D21ED2EE544",
+    "url_id": "URL-A6FE3D21ED2EE544",
+    "url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-144/",
+    "inventory_url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-144",
+    "title": "Star Atlas Weekly News Recap #144",
+    "author": "Intergalactic Herald",
+    "publisher": "Intergalactic Herald",
+    "published_at": "2024-12-22T17:00:00",
+    "updated_at": "2025-10-30T19:54:13",
+    "retrieved_at": "2026-07-12T22:06:38.212030Z",
+    "document_type": "NEWSLETTER",
+    "source_role": "CURATED_SUMMARY",
+    "source_classification": "CURATED_SUMMARY",
+    "classification_rationale": "Weekly newsletter/recap aggregates developments and linked sources.",
+    "wordpress_type": "posts"
+  },
+  "summary": {
+    "neutral_abstract": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week. We are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us. We are launching a Star Atlas merch store. Please check it out at Intergalactic",
+    "historical_value": "Contemporary Intergalactic Herald publication preserved with role and attribution boundaries.",
+    "current_validity_warning": "Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources."
+  },
+  "article_text": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week.\nWe are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us.\nWe are launching a Star Atlas merch store. Please check it out at Intergalactic Gear.\nWe are creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic Coalition.\nIf you would like to support our efforts, donations can be sent to intergalacticherald.sol\nStar Atlas: Local Market Gameplay and Infrastructure Contracts\nBeyond the Horizon posted a video about updates to Star Atlas SAGE.\nSTAR ATLAS #261 Local Markets ARE HERE. Sell Me Titanium For Mamba!\nMetaVerse Explorer posted a video about the new local markets.\nWeekly Star Atlas Newsletter #160\nAephia published their weekly Star Atlas newsletter.\nTown Hall – State of Star Atlas\nStar Atlas TV posted a recording of the latest Star Atlas Town Hall.\nSTAR ATLAS #262 TOWN HALL RECAP DECEMBER 2024 [FREE AIRDROP]\nMetaVerse Explorer posted a video summarizing the Town Hall.\nTown Hall Report – December 18, 2024\nAephia published a report on the Town Hall.\nStar Atlas – CommandDeck : News, Releases & More with Njord (SuperPhoenixDAO)!\nNebularTV posted a video of their latest CommandDeck podcast.\nStar Atlas Economic Report 2024 Q4\nStar Atlas published their economic report for the 4th quarter.",
+  "content_hash": "687901cf5089988091fded294e66d06b5ea273a9660aac0493e83b36b91c8b08",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [
+    "2024"
+  ],
+  "external_sources": [
+    {
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=HeV577mfFpU",
+      "anchor_text": "updates to Star Atlas SAGE"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=MbMp9Dig4F4",
+      "anchor_text": "new local markets"
+    },
+    {
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-160/",
+      "anchor_text": "Star Atlas newsletter"
+    },
+    {
+      "url": "https://www.youtube.com/live/Sx3yqayAtpE",
+      "anchor_text": "Star Atlas Town Hall"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=naU2H-tzLv8",
+      "anchor_text": "summarizing the Town Hall"
+    },
+    {
+      "url": "https://aephia.com/star-atlas/town-hall-report-december-18-2024/",
+      "anchor_text": "report on the Town Hall"
+    },
+    {
+      "url": "https://www.youtube.com/live/pKEES5YfySs",
+      "anchor_text": "CommandDeck podcast"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/economic-reports/star-atlas-economic-report-2024-q4",
+      "anchor_text": "economic report for the 4th quarter"
+    }
+  ],
+  "primary_source_relationships": [
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=HeV577mfFpU",
+      "anchor_text": "updates to Star Atlas SAGE"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=MbMp9Dig4F4",
+      "anchor_text": "new local markets"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-160/",
+      "anchor_text": "Star Atlas newsletter"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/live/Sx3yqayAtpE",
+      "anchor_text": "Star Atlas Town Hall"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=naU2H-tzLv8",
+      "anchor_text": "summarizing the Town Hall"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/town-hall-report-december-18-2024/",
+      "anchor_text": "report on the Town Hall"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/live/pKEES5YfySs",
+      "anchor_text": "CommandDeck podcast"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://experience.staratlas.com/newsroom/economic-reports/star-atlas-economic-report-2024-q4",
+      "anchor_text": "economic report for the 4th quarter"
+    }
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Verify which outbound links are primary sources and preserve creator attribution during promotion."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-144&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 5076,
+    "elapsed_ms": 2560,
+    "attempts": [
+      {
+        "endpoint": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-144&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "http_status": 200,
+        "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-144&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "content_type": "application/json; charset=UTF-8",
+        "response_size": 5076,
+        "elapsed_ms": 2560
+      }
+    ]
+  },
+  "source_lineage": {
+    "publication": "Intergalactic Herald",
+    "publication_role": "CURATED_SUMMARY",
+    "relationship": "CURATED_SUMMARY_OF",
+    "primary_sources": [
+      {
+        "publication": "updates to Star Atlas SAGE",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=HeV577mfFpU",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: updates to Star Atlas SAGE"
+      },
+      {
+        "publication": "new local markets",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=MbMp9Dig4F4",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: new local markets"
+      },
+      {
+        "publication": "Star Atlas newsletter",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-160/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas newsletter"
+      },
+      {
+        "publication": "Star Atlas Town Hall",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/live/Sx3yqayAtpE",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas Town Hall"
+      },
+      {
+        "publication": "summarizing the Town Hall",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=naU2H-tzLv8",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: summarizing the Town Hall"
+      },
+      {
+        "publication": "report on the Town Hall",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/town-hall-report-december-18-2024/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article with anchor text: report on the Town Hall"
+      },
+      {
+        "publication": "CommandDeck podcast",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/live/pKEES5YfySs",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: CommandDeck podcast"
+      },
+      {
+        "publication": "economic report for the 4th quarter",
+        "author": "UNKNOWN",
+        "url": "https://experience.staratlas.com/newsroom/economic-reports/star-atlas-economic-report-2024-q4",
+        "organization": "ATMTA / Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: economic report for the 4th quarter"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "publication": "Intergalactic Gear",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticgear.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Intergalactic Coalition",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticcoalition.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      }
+    ],
+    "original_creators": [
+      "Aephia",
+      "Star Atlas",
+      "ATMTA / Star Atlas"
+    ],
+    "attribution_chain": [
+      {
+        "from": "updates to Star Atlas SAGE",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=HeV577mfFpU"
+      },
+      {
+        "from": "new local markets",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=MbMp9Dig4F4"
+      },
+      {
+        "from": "Star Atlas newsletter",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-160/"
+      },
+      {
+        "from": "Star Atlas Town Hall",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/live/Sx3yqayAtpE"
+      },
+      {
+        "from": "summarizing the Town Hall",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=naU2H-tzLv8"
+      },
+      {
+        "from": "report on the Town Hall",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/town-hall-report-december-18-2024/"
+      },
+      {
+        "from": "CommandDeck podcast",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/live/pKEES5YfySs"
+      },
+      {
+        "from": "economic report for the 4th quarter",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://experience.staratlas.com/newsroom/economic-reports/star-atlas-economic-report-2024-q4"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  }
+}

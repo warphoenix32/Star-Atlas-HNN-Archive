@@ -1,0 +1,205 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-3DB27D092B4B5D3F",
+    "url_id": "URL-3DB27D092B4B5D3F",
+    "url": "https://medium.com/the-hologram/atmta-insider-spills-on-quiroga-departure-e76045f906d8",
+    "title": "ATMTA Insider Spills on Quiroga Departure",
+    "author": "Krigs",
+    "publisher": "The Hologram",
+    "publication_identity": "The Hologram (Medium publication)",
+    "published_at": "2023-05-02T11:02:11Z",
+    "updated_at": "2023-05-02T11:02:11Z",
+    "retrieved_at": "2026-07-13T00:07:21.242451Z",
+    "document_type": "ORIGINAL_REPORTING",
+    "source_role": "ORIGINAL_REPORTING",
+    "publication_role": "ORIGINAL_REPORTING",
+    "classification_rationale": "Publication reports a development without explicit interview, editorial, investigative, event, or reference framing."
+  },
+  "source_lineage": {
+    "publication": "The Hologram (Medium publication)",
+    "publication_role": "ORIGINAL_REPORTING",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [
+      {
+        "publication": "Podcast",
+        "author": "UNKNOWN",
+        "url": "https://open.spotify.com/show/2mxndrDW6yPfpS350ijzjt?si=ec7c717f998240d6",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "YouTube",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/channel/UCDa-YxgNG6A9xpH1qyP0OaQ",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://staratlas.com/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [
+      "Krigs"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Podcast",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://open.spotify.com/show/2mxndrDW6yPfpS350ijzjt?si=ec7c717f998240d6"
+      },
+      {
+        "from": "YouTube",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://www.youtube.com/channel/UCDa-YxgNG6A9xpH1qyP0OaQ"
+      },
+      {
+        "from": "Star Atlas",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://staratlas.com/"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "This original reporting published by The Hologram on 2023-05-02 documents “ATMTA Insider Spills on Quiroga Departure.” Its surviving text addresses economy, game development, community, lore. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "Star Atlas\nATMTA Insider Spills on Quiroga Departure\nKrigs4 min read·May 2, 2023\n--\n1\nListen\nShare\nThe saga continues after ATMTA CEO Michael Wagner released an official statement on former Chief Revenue Officer Pablo Quiroga’s departure from the company at the end of March.\nPress enter or click to view image in full size\nATMTA Insider Reveals Details on Quiroga’s Management Practices\nAn insider at ATMTA, the developer behind upcoming space MMO game Star Atlas, has recently come forward to shed new details surrounding the departure of Star Atlas Co-Founder and Chief Revenue Officer Pablo Quiroga.\nThe insider, whom we’ll call M&M, alleges that Quiroga’s departure stems from a combination of poor management practices, workplace behavior, and creative differences over the direction of Star Atlas.\nThe Hologram was able to independently verify M&M’s status as an employee of ATMTA.\nIn public, Quiroga presented a calm and poised demeanor, often interacting with the Star Atlas community and willing to take pictures with fans at community events. Quiroga often spoke and presented on behalf of Star Atlas; his presentations well received by the general community.\nHowever, behind closed doors, it would appear that Quiroga adopted a different persona.\n“He was extremely disrespectful to team members, sometimes yelling at employees which caused a lot of division within inter-departmental communication. His management style was aggressive and condescending, not the impression he gave to the community”. — M&M, ATMTA Employee\nM&M also alleges that Quiroga would often berate the Rev Ops team if things did not go his way and that he would regularly yell and get upset.\n“That’s why everyone on the team is happy he is gone” (When asked to clarify and quantify these comments, M&M did not elaborate).\nCreative Differences Could Have Led to Split\nRegarding the direction Star Atlas was heading in 2023, M&M noted that difference in vision began to emerge between Quiroga and the other founders, particularly CEO Michael Wagner.\n“Pablo wanted to be more strict on release dates and put a lot of pressure on the team to stick to those dates”.\nWhile it’s unknown to what degree product delivery timeline’s were planned, Star Atlas has clearly taken a new direction regarding product deliveries in 2023. In multiple public forums, Wagner has stated that while the team has target dates in mind for product releases, the team would not provide firm dates actual deadlines or delivery dates. Presumably, this is to give the team more development flexibility while avoiding overt negative backlash should a deadline be passed. According to M&M, this is not the direction Quiroga wanted.\nQuiroga A Possible Barrier to Star Atlas Funding Deal\nM&M additionally alleges that Quiroga was a potential barrier towards any funding deal. Since last November, Star Atlas has needed additional funding to continue development past this year.\n“The lack of transparency regarding Pablo and the capital raise has been causing major concern from the Star Atlas team including top executives responsible for major gameplay and technological developments” M&M continues. “Some of the team member in Rev Ops were ready to quit if Quiroga was not out, Pablo’s salary was dead weight”.\nM&M states that there was unacknowledged [negative] sentiment from the general Star Atlas team following the FTX dilemma, and specifically, that Quiroga continued to receive a full salary despite lay offs and pay cuts being taken against team members.\nQuiroga Absent From Public Eye\nSince the official announcement of his departure, Quiroga has been absent from the public Star Atlas community eye. His Twitter and LinkedIn, despite having not posted recently, still list him as the current CRO of ATMTA. Quiroga’s main account name, StarSapa, is no longer apart of the Star Atlas Discord.\nATMTA’s Response\nATMTA had this to say regarding the insider’s leaks\nATMTA does not comment on the circumstances of an individual team member’s departure out of respect for their privacy. ATMTA cannot verify and does not condone the comments made by the alleged source for the article. The source does not speak for ATMTA.\nAbout the Author\nKrigs is a pioneer in the world of Star Atlas, having founded The Hologram News Network — an independent meta-news organization that keeps players up to date on all developments regarding Star Atlas. An ardent supporter of emerging technologies, Krigs has been covering this game for over a year and believes passionately in their power to revolutionize our collective gaming experience.\nFollow on Social Media:\nPodcast | YouTube | Twitter | Instagram | Web\nAbout The Hologram\nThe Hologram is Star Atlas’ first and only independent news network. Our vision is to become the most trusted source of information about Star Atlas and a voice for the whole community. Readers can expect a high standard from our reporting and staff. Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.\nThe Hologram is not endorsed or paid by the Star Atlas team. Any information published by The Hologram nor its writers should be considered as informational in nature and does not constitute any financial advice.",
+  "content_hash": "4daf09d6d3df435038ad25115e67b63e224dc8f94e7f45416ef0ef6a91d4574c",
+  "major_topics": [
+    "economy",
+    "game development",
+    "community",
+    "lore"
+  ],
+  "entities": [
+    "ATLAS",
+    "Krigs",
+    "Michael Wagner",
+    "Pablo Quiroga",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-3DB27D092B4B5D3F-01",
+      "text": "Star Atlas ATMTA Insider Spills on Quiroga Departure Krigs4 min read·May 2, 2023 -- 1 Listen Share The saga continues after ATMTA CEO Michael Wagner released an official statement on former Chief Revenue Officer Pablo Quiroga’s departure from the company at the end of March.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-3DB27D092B4B5D3F",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-3DB27D092B4B5D3F-02",
+      "text": "Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-3DB27D092B4B5D3F",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Star Atlas",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [
+    "ONI"
+  ],
+  "actors": [
+    "Michael Wagner",
+    "Krigs",
+    "Pablo Quiroga"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://medium.com/@krigsfoniks?source=---byline--e76045f906d8---------------------------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fthe-hologram%2Fe76045f906d8&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fatmta-insider-spills-on-quiroga-departure-e76045f906d8&user=Krigs&userId=41e0c5b141f1&source=---header_actions--e76045f906d8---------------------clap_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Frepost%2Fp%2Fe76045f906d8&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fatmta-insider-spills-on-quiroga-departure-e76045f906d8&user=Krigs&userId=41e0c5b141f1&source=---header_actions--e76045f906d8---------------------repost_header------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fe76045f906d8&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fatmta-insider-spills-on-quiroga-departure-e76045f906d8&source=---header_actions--e76045f906d8---------------------bookmark_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2Fplans%3Fdimension%3Dpost_audio_button%26postId%3De76045f906d8&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fatmta-insider-spills-on-quiroga-departure-e76045f906d8&source=---header_actions--e76045f906d8---------------------post_audio_button------------------",
+      "anchor_text": "Listen"
+    },
+    {
+      "url": "https://medium.com/the-hologram/atmta-employees-speak-on-quiroga-departure-fd8197c23ca1",
+      "anchor_text": "released an official statement"
+    },
+    {
+      "url": "https://medium.com/u/41e0c5b141f1",
+      "anchor_text": "Krigs"
+    },
+    {
+      "url": "https://open.spotify.com/show/2mxndrDW6yPfpS350ijzjt?si=ec7c717f998240d6",
+      "anchor_text": "Podcast"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCDa-YxgNG6A9xpH1qyP0OaQ",
+      "anchor_text": "YouTube"
+    },
+    {
+      "url": "https://twitter.com/home",
+      "anchor_text": "Twitter"
+    },
+    {
+      "url": "https://thehologram.io/",
+      "anchor_text": "Web"
+    },
+    {
+      "url": "https://medium.com/the-hologram",
+      "anchor_text": "The Hologram"
+    },
+    {
+      "url": "https://staratlas.com/",
+      "anchor_text": "Star Atlas"
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "https://medium.com/the-hologram/atmta-insider-spills-on-quiroga-departure-e76045f906d8",
+    "final_url": "https://medium.com/the-hologram/atmta-insider-spills-on-quiroga-departure-e76045f906d8",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 271339,
+    "elapsed_ms": 655,
+    "retrieval_mode": "LIVE",
+    "archive_capture": null
+  }
+}

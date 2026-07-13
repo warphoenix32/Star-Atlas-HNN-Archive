@@ -1,0 +1,285 @@
+{
+  "source": {
+    "source_id": "SRC-IH-F4C2A6A0B64F3E98",
+    "url_id": "URL-F4C2A6A0B64F3E98",
+    "url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-53/",
+    "inventory_url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-53",
+    "title": "Star Atlas Weekly News Recap #53",
+    "author": "Intergalactic Herald",
+    "publisher": "Intergalactic Herald",
+    "published_at": "2023-03-26T17:00:37",
+    "updated_at": "2023-03-25T15:42:32",
+    "retrieved_at": "2026-07-12T22:09:38.325970Z",
+    "document_type": "NEWSLETTER",
+    "source_role": "CURATED_SUMMARY",
+    "source_classification": "CURATED_SUMMARY",
+    "classification_rationale": "Weekly newsletter/recap aggregates developments and linked sources.",
+    "wordpress_type": "posts"
+  },
+  "summary": {
+    "neutral_abstract": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week. Star Atlas published their latest updates including more information on the Star Atlas economy. Atlas Theory posted a video with his reactions to the latest Star Atlas sneak peak",
+    "historical_value": "Contemporary Intergalactic Herald publication preserved with role and attribution boundaries.",
+    "current_validity_warning": "Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources."
+  },
+  "article_text": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week.\nSTAR ATLAS #164 New Updates & Videos!\nMetaVerse Explorer posted a video about the latest from Star Atlas.\nThe Atlas Star ✧ Issue #16\nStar Atlas published their latest updates including more information on the Star Atlas economy.\nThe SPICIEST Star Atlas Sneak Peek!!\nAtlas Theory posted a video with his reactions to the latest Star Atlas sneak peak video.\nStar Atlas SAGE 2023 Gameplay and Roadmap Updates\nThe Hologram News Network posted a video reviewing the latest Star Atlas roadmap updates.\nMetaverse Nomads #86\nMetaverse Nomads posted a video of their latest Star Atlas live stream.\nWEEKLY STAR ATLAS NEWSLETTER #71\nAephia published their latest Star Atlas newsletter.\nWhat U missed – STAR ATLAS twitter video\nGladiator posted a video reviewing the latest Star Atlas sneak peak video.\nSTAR ATLAS #165 FIRST SAGE GAMEPLAY!?\nMetaVerse Explorer reviews the latest SAGE gameplay video.\nSTAR ATLAS FAQ #167 Frequently Asked Questions\nMetaVerse Explorer posted a FAQ Star Atlas video.",
+  "content_hash": "bc0e02d57b79aaf0d70f6c84a401e6c1fe571e77442d164048ec88dbb5efc524",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [
+    "2023"
+  ],
+  "external_sources": [
+    {
+      "url": "https://www.youtube.com/watch?v=rXmhRCUhvkE",
+      "anchor_text": "latest from Star Atlas"
+    },
+    {
+      "url": "https://medium.com/star-atlas/the-atlas-star-issue-16-e121d715e9d2",
+      "anchor_text": "Star Atlas economy"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=21EMG3Xj8mk",
+      "anchor_text": "latest Star Atlas sneak peak video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=cwa0BRM-Z6A",
+      "anchor_text": "latest Star Atlas roadmap updates"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=sLDsPMHbxtc",
+      "anchor_text": "latest Star Atlas live stream"
+    },
+    {
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-71/",
+      "anchor_text": "latest Star Atlas newsletter"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=gUCKTaYZpYs",
+      "anchor_text": "latest Star Atlas sneak peak video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Izl-72TWQ_k",
+      "anchor_text": "latest SAGE gameplay video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=HOI2sBMBLXU",
+      "anchor_text": "FAQ Star Atlas video"
+    }
+  ],
+  "primary_source_relationships": [
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=rXmhRCUhvkE",
+      "anchor_text": "latest from Star Atlas"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://medium.com/star-atlas/the-atlas-star-issue-16-e121d715e9d2",
+      "anchor_text": "Star Atlas economy"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=21EMG3Xj8mk",
+      "anchor_text": "latest Star Atlas sneak peak video"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=cwa0BRM-Z6A",
+      "anchor_text": "latest Star Atlas roadmap updates"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=sLDsPMHbxtc",
+      "anchor_text": "latest Star Atlas live stream"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-71/",
+      "anchor_text": "latest Star Atlas newsletter"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=gUCKTaYZpYs",
+      "anchor_text": "latest Star Atlas sneak peak video"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=Izl-72TWQ_k",
+      "anchor_text": "latest SAGE gameplay video"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=HOI2sBMBLXU",
+      "anchor_text": "FAQ Star Atlas video"
+    }
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Verify which outbound links are primary sources and preserve creator attribution during promotion.",
+      "Short extraction requires completeness review."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-53&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 4420,
+    "elapsed_ms": 1719,
+    "attempts": [
+      {
+        "endpoint": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-53&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "http_status": 200,
+        "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-53&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "content_type": "application/json; charset=UTF-8",
+        "response_size": 4420,
+        "elapsed_ms": 1719
+      }
+    ]
+  },
+  "source_lineage": {
+    "publication": "Intergalactic Herald",
+    "publication_role": "CURATED_SUMMARY",
+    "relationship": "CURATED_SUMMARY_OF",
+    "primary_sources": [
+      {
+        "publication": "latest from Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=rXmhRCUhvkE",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest from Star Atlas"
+      },
+      {
+        "publication": "Star Atlas economy",
+        "author": "UNKNOWN",
+        "url": "https://medium.com/star-atlas/the-atlas-star-issue-16-e121d715e9d2",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas economy"
+      },
+      {
+        "publication": "latest Star Atlas sneak peak video",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=21EMG3Xj8mk",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest Star Atlas sneak peak video"
+      },
+      {
+        "publication": "latest Star Atlas roadmap updates",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=cwa0BRM-Z6A",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest Star Atlas roadmap updates"
+      },
+      {
+        "publication": "latest Star Atlas live stream",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=sLDsPMHbxtc",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest Star Atlas live stream"
+      },
+      {
+        "publication": "latest Star Atlas newsletter",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-71/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest Star Atlas newsletter"
+      },
+      {
+        "publication": "latest Star Atlas sneak peak video",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=gUCKTaYZpYs",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest Star Atlas sneak peak video"
+      },
+      {
+        "publication": "latest SAGE gameplay video",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=Izl-72TWQ_k",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest SAGE gameplay video"
+      },
+      {
+        "publication": "FAQ Star Atlas video",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=HOI2sBMBLXU",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: FAQ Star Atlas video"
+      }
+    ],
+    "secondary_sources": [],
+    "original_creators": [
+      "Aephia"
+    ],
+    "attribution_chain": [
+      {
+        "from": "latest from Star Atlas",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=rXmhRCUhvkE"
+      },
+      {
+        "from": "Star Atlas economy",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://medium.com/star-atlas/the-atlas-star-issue-16-e121d715e9d2"
+      },
+      {
+        "from": "latest Star Atlas sneak peak video",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=21EMG3Xj8mk"
+      },
+      {
+        "from": "latest Star Atlas roadmap updates",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=cwa0BRM-Z6A"
+      },
+      {
+        "from": "latest Star Atlas live stream",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=sLDsPMHbxtc"
+      },
+      {
+        "from": "latest Star Atlas newsletter",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-71/"
+      },
+      {
+        "from": "latest Star Atlas sneak peak video",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=gUCKTaYZpYs"
+      },
+      {
+        "from": "latest SAGE gameplay video",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=Izl-72TWQ_k"
+      },
+      {
+        "from": "FAQ Star Atlas video",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=HOI2sBMBLXU"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  }
+}

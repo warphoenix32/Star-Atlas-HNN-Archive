@@ -1,0 +1,154 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-4312E3B0005E60A3",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47021259296147-What-Solana-programs-make-up-the-DAO",
+    "title": "What Solana programs make up the DAO?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-02T15:04:01Z",
+    "updated_at": "2025-12-08T18:24:55Z",
+    "original_date_text": "2025-12-02T15:04:01Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “What Solana programs make up the DAO?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "The Star Atlas DAO operates through a set of on-chain programs deployed on the Solana blockchain, forming the foundation of its decentralized governance system. These programs work together to enable voting, proposal management, token locking, and reward distribution.\nHere’s an overview of the five core components:\nGoki Protocol – Smart Wallet (Multisig Control)\nProgram:\nGokiProtocol/goki\nThe Smart Wallet is an m-of-n multisig used to securely execute any transaction on Solana. It acts as the DAO's executor, allowing it to:\nDeploy or upgrade other programs\nManage token mints and treasury assets\nInteract with external DeFi apps and protocols\nEventually, interact with Star Atlas on-chain programs (not yet enabled)\nThis wallet is the backbone of decentralized control, allowing secure, multi-party execution of governance decisions.\nTribeca Governor – Proposal Management\nProgram:\nTribeca/governor\nThe Governor handles the proposal lifecycle within the DAO:\nAnyone can submit a proposal\nOnly eligible POLIS Voting Power (PVP) holders can activate it\nOnce active, the community can vote on the proposal\nIf it reaches quorum and a majority of PVP support, it can be queued for execution via the Smart Wallet\nThis system ensures that all critical decisions go through transparent community consensus.\nTribeca Locked Voter – Voting Power Logic\nProgram:\nTribeca/locked-voter\nThis module defines how POLIS Voting Power (PVP) is calculated:\nUsers lock POLIS tokens for a set period\nPVP is determined by the amount locked and lock duration\nPVP decays linearly over time\nPOLIS cannot be withdrawn before the lock expires\nThis incentivizes long-term commitment to governance.\nSnapshot – Historical Data & Rewards\nProgram:\nSabre/snapshot\nThe Snapshot module stores historical data about voting power:\nCaptures balances and lock states at specific points in time\nEnables accurate reward distribution\nPrevents manipulation by locking or unlocking tokens mid-cycle\nThis program is essential for calculating POLIS rewards in the locker and ensuring fair DAO participation tracking\nGate – DAO Operations Hub\nProgram:\nATMTA/gate\nThe Gate is the primary interface connecting users to DAO operations. It serves several key functions:\nFacilitates staking and voting interactions with the\nlocked-voter\nprogram\nSyncs snapshot data\nCalculates and distributes POLIS rewards\nProxies proposal submissions and voting via the\ngovernor\nIn essence, Gate is the orchestrator of DAO logic, tying all components together for a seamless governance experience.",
+  "content_hash": "f4fad708deb997b51ed7dd2896fc2ddda6bf852da1796264ecde3e8652d0ca0c",
+  "entities": [
+    "ATLAS",
+    "ATMTA",
+    "CORE",
+    "POLIS",
+    "Solana",
+    "Star Atlas DAO"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-4312E3B0005E60A3-01",
+      "text": "The Star Atlas DAO operates through a set of on-chain programs deployed on the Solana blockchain, forming the foundation of its decentralized governance system.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-4312E3B0005E60A3",
+      "publication_date": "2025-12-02T15:04:01Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-4312E3B0005E60A3-02",
+      "text": "These programs work together to enable voting, proposal management, token locking, and reward distribution.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-4312E3B0005E60A3",
+      "publication_date": "2025-12-02T15:04:01Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-4312E3B0005E60A3-03",
+      "text": "Here’s an overview of the five core components: Goki Protocol – Smart Wallet (Multisig Control) Program: GokiProtocol/goki The Smart Wallet is an m-of-n multisig used to securely execute any transaction on Solana.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-4312E3B0005E60A3",
+      "publication_date": "2025-12-02T15:04:01Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-4312E3B0005E60A3-04",
+      "text": "It acts as the DAO's executor, allowing it to: Deploy or upgrade other programs Manage token mints and treasury assets Interact with external DeFi apps and protocols Eventually, interact with Star Atlas on-chain programs (not yet enabled) This wallet is the backbone of decentralized control, allowing secure, multi-party execution of governance decisions.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-4312E3B0005E60A3",
+      "publication_date": "2025-12-02T15:04:01Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-4312E3B0005E60A3-05",
+      "text": "Tribeca Governor – Proposal Management Program: Tribeca/governor The Governor handles the proposal lifecycle within the DAO: Anyone can submit a proposal Only eligible POLIS Voting Power (PVP) holders can activate it Once active, the community can vote on the proposal If it reaches quorum and a majority of PVP support, it can be queued for execution via the Smart Wallet This system ensures that all critical decisions go through transparent community consensus.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-4312E3B0005E60A3",
+      "publication_date": "2025-12-02T15:04:01Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-4312E3B0005E60A3-06",
+      "text": "Tribeca Locked Voter – Voting Power Logic Program: Tribeca/locked-voter This module defines how POLIS Voting Power (PVP) is calculated: Users lock POLIS tokens for a set period PVP is determined by the amount locked and lock duration PVP decays linearly over time POLIS cannot be withdrawn before the lock expires This incentivizes long-term commitment to governance.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-4312E3B0005E60A3",
+      "publication_date": "2025-12-02T15:04:01Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-4312E3B0005E60A3-07",
+      "text": "It serves several key functions: Facilitates staking and voting interactions with the locked-voter program Syncs snapshot data Calculates and distributes POLIS rewards Proxies proposal submissions and voting via the governor In essence, Gate is the orchestrator of DAO logic, tying all components together for a seamless governance experience.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-4312E3B0005E60A3",
+      "publication_date": "2025-12-02T15:04:01Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "CORE",
+    "POLIS",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [
+    "ATMTA",
+    "Star Atlas DAO",
+    "Solana"
+  ],
+  "guilds": [],
+  "external_sources": [],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47021259296147-What-Solana-programs-make-up-the-DAO",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.413382Z"
+  }
+}

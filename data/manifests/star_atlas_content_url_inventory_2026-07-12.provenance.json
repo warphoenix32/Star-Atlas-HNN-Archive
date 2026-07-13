@@ -1,0 +1,12 @@
+{
+  "creator_count": 352,
+  "file_size": 3130470,
+  "original_filename": "star_atlas_content_url_inventory_2026-07-12.json",
+  "schema_version": "1.0",
+  "sha256": "f0a876cf2f66088eac76c865ef5da26439cfe53c17707de591bb7df272afd354",
+  "source_date_range": {
+    "first": "2022-01-02T09:33:35.307Z",
+    "last": "2026-07-07T15:28:16.413Z"
+  },
+  "unique_creator_url_pairs": 3598
+}

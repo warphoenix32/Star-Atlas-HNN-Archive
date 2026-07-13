@@ -1,0 +1,149 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-61C2E976FF41FD91",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47031364454035-When-am-I-safe-from-attacks-in-Holosim",
+    "title": "When am I safe from attacks in Holosim?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-02T19:07:18Z",
+    "updated_at": "2025-12-08T18:24:30Z",
+    "original_date_text": "2025-12-02T19:07:18Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “When am I safe from attacks in Holosim?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "In Holosim, fleets can be attacked under certain conditions. Knowing when you’re safe, and when you’re vulnerable, is key to protecting your ships and resources.\nYou are safe when:\nInside your faction’s safe zone: this includes the Central Space Station (CSS) and surrounding protected sectors.\nThe safe zone is shown on the map as a colored circle around your CSS:\nBlue for ONI\nYellow for USTUR\nRed for MUD\nWarping between sectors: fleets in warp cannot be attacked.\nYou are attackable in medium-risk zones when:\nUndocked and idle in a sector.\nMining resources at a starbase.\nSub-warping (moving between nearby sectors without warp).\nDocked at a medium-risk zone base: if the base is conquered by another faction, your fleet will not be destroyed but will become Prisoner of War until your faction conquers the base back.",
+  "content_hash": "8ef40c49e2ebb8cfeca1734f5017af3d82bc295e60b8bcbfc18de6ed107e6c75",
+  "entities": [
+    "Holosim"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-61C2E976FF41FD91-01",
+      "text": "In Holosim, fleets can be attacked under certain conditions.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-61C2E976FF41FD91",
+      "publication_date": "2025-12-02T19:07:18Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-61C2E976FF41FD91-02",
+      "text": "Knowing when you’re safe, and when you’re vulnerable, is key to protecting your ships and resources.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-61C2E976FF41FD91",
+      "publication_date": "2025-12-02T19:07:18Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-61C2E976FF41FD91-03",
+      "text": "You are safe when: Inside your faction’s safe zone: this includes the Central Space Station (CSS) and surrounding protected sectors.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-61C2E976FF41FD91",
+      "publication_date": "2025-12-02T19:07:18Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-61C2E976FF41FD91-04",
+      "text": "The safe zone is shown on the map as a colored circle around your CSS: Blue for ONI Yellow for USTUR Red for MUD Warping between sectors: fleets in warp cannot be attacked.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-61C2E976FF41FD91",
+      "publication_date": "2025-12-02T19:07:18Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-61C2E976FF41FD91-05",
+      "text": "You are attackable in medium-risk zones when: Undocked and idle in a sector.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-61C2E976FF41FD91",
+      "publication_date": "2025-12-02T19:07:18Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-61C2E976FF41FD91-06",
+      "text": "Sub-warping (moving between nearby sectors without warp).",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-61C2E976FF41FD91",
+      "publication_date": "2025-12-02T19:07:18Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-61C2E976FF41FD91-07",
+      "text": "Docked at a medium-risk zone base: if the base is conquered by another faction, your fleet will not be destroyed but will become Prisoner of War until your faction conquers the base back.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-61C2E976FF41FD91",
+      "publication_date": "2025-12-02T19:07:18Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Holosim"
+  ],
+  "governance_items": [],
+  "lore_items": [
+    "MUD",
+    "ONI",
+    "Ustur"
+  ],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47031364454035-When-am-I-safe-from-attacks-in-Holosim",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.347351Z"
+  }
+}

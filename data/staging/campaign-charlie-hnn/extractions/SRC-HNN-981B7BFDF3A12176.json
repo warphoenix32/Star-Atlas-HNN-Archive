@@ -1,0 +1,223 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-981B7BFDF3A12176",
+    "url_id": "URL-981B7BFDF3A12176",
+    "url": "https://thehologram.io/busan-maiden-heart-underdelivers-on-launch",
+    "title": "Busan Maiden Heart Underdelivers on Launch | The Hologram",
+    "author": "UNKNOWN",
+    "publisher": "Hologram News Network (HNN)",
+    "publication_identity": "Archived HNN website (thehologram.io)",
+    "published_at": "2022-05-18T14:57:00+00:00",
+    "updated_at": "2022-05-18T15:04:17+00:00",
+    "retrieved_at": "2026-07-13T00:08:56.009332Z",
+    "document_type": "FEATURE",
+    "source_role": "FEATURE",
+    "publication_role": "FEATURE",
+    "classification_rationale": "Publication provides feature-style background or profile coverage."
+  },
+  "source_lineage": {
+    "publication": "Archived HNN website (thehologram.io)",
+    "publication_role": "FEATURE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [
+      {
+        "publication": "marketplace",
+        "author": "UNKNOWN",
+        "url": "https://play.staratlas.com/market/8kn57Qb8S9AiPV8isUNwk6oCYPMSLFAVPwuXbyCSkS6i",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Pearce C9",
+        "author": "UNKNOWN",
+        "url": "https://play.staratlas.com/market/6SriSyRDGm8tS7f3njPeFEqSu88MsfFjSBzjMdodenqU",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "VZUS ballad",
+        "author": "UNKNOWN",
+        "url": "https://play.staratlas.com/market/DwsBGKJZ9ysqe3yzxmcEi1Ft6CipdgJ3NRqRysw8DYYG",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [],
+    "attribution_chain": [
+      {
+        "from": "marketplace",
+        "to": "Archived HNN website (thehologram.io)",
+        "relationship": "REPORTS_ON",
+        "url": "https://play.staratlas.com/market/8kn57Qb8S9AiPV8isUNwk6oCYPMSLFAVPwuXbyCSkS6i"
+      },
+      {
+        "from": "Pearce C9",
+        "to": "Archived HNN website (thehologram.io)",
+        "relationship": "REPORTS_ON",
+        "url": "https://play.staratlas.com/market/6SriSyRDGm8tS7f3njPeFEqSu88MsfFjSBzjMdodenqU"
+      },
+      {
+        "from": "VZUS ballad",
+        "to": "Archived HNN website (thehologram.io)",
+        "relationship": "REPORTS_ON",
+        "url": "https://play.staratlas.com/market/DwsBGKJZ9ysqe3yzxmcEi1Ft6CipdgJ3NRqRysw8DYYG"
+      }
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "This feature published by Hologram News Network (HNN) on 2022-05-18 documents “Busan Maiden Heart Underdelivers on Launch | The Hologram.” Its surviving text addresses economy, guilds and DACs, game development, community, lore, technology. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "Busan Maiden Heart Underdelivers on Launch\nPosted by Krigs | May 18, 2022 | Gameplay\nThe Busan Maiden Heart is set to commission on Thursday May 19, available in the Star Atlas galactic marketplace. This occasion marks the first Capital sized ship for Busan manufacturing. Busan’s Maiden Heart is the third of four Capital Fighters that will be available by the end of the year. The Busan Maiden Heart joins the Pearce C9 and the VZUS ballad in the Capital Fighter class. Yet to be released is the Ogrika Marann which will complete the forecasted Capital Fighter lineup.\nBusan Maiden Heart – More Science Data Runner Than Fighter\nAs proprietary technology of Busan manufacturing, the Capital Maiden Heart is designed with stealth in mind. While this may appeal to a select class of buyer, as a Capital Fighter, the Busan Maiden Heart leaves much to be desired. Overall, when compared to the C9 and ballad, the Busan Maiden Heart delivers less combat performance and utility in general.\nThe C9 and ballad are crewed by 24 individuals each. However, the Maiden Heart is operated by a crew of 20, four less than its counterparts. Noticeably missing is a drone operator crewman, despite the Maiden Heart coming standard with a drone port module. Instead of 8 Turret Gunners like the C9 and ballad, the Maiden Heart only has 6 gunners with two less weapon Commander size hardpoints to match its undersized crew.\nIn place of the missing gunners, the Maiden Heart requires an extra Engineer and Scanner. As stealthy as Busan is, the role of these extra support crew clearly place the Maiden Heart into more of a support role than a direct frontline fighter. Engineers and Scanners likely give the Maiden Heart advantages in detection, avoidance, and systems maintenance.\nMissing Modules?\nBoth the C9 and ballad are identical in their module layout. Each come with a drone port, hangar, and medbay. This configuration of modules makes sense for a Capital Fighter. The Maiden Heart, however, is issued with a drone port (but no operator), a fuel slot, and a brig. While the lack of a drone operator wouldn’t prohibit the Maiden Heart from utilizing included drones, it likely would be less effective. Extra fuel gives the Maiden Heart longer deployed times, again, making the ship more of an exploratory or reconnaissance vessel. A key feature that is missing from the Maiden Heart is a Hangar module, despite Busan brochures showing this configuration.\nInterestingly, the Maiden Heart comes with a Large Brig, usually reserved for Bounty Hunting Ships. Modules aboard the Busan Maiden Heart will eventually be reconfigurable, but its standard module package seem like an afterthought from the Oni manufacturer.\nInterested buyers can purchase a Busan Maiden Heart for $29,300 USDC on Thursday May 19 from the galactic marketplace.\nABOUT THE HOLOGRAM\nThe Hologram is an independent news organization dedicated to covering the latest Star Atlas content from all sides. The Hologram was founded on the principle of uniting creators from across their diverse fields and showcasing their talent. The Hologram also recognizes the importance of our reader’s time and will always strive to give you what you need, when you need it.\nThe Hologram is not endorsed or paid by the Star Atlas team. Any information published by The Hologram or its writers should be considered as informational in nature and does not constitute any financial advice.\nShare:\n11:00 pm - 11:30 pm UTC+0\nGuild Gaming Network – COD: Warzone\nFeatured\nAll day\nThe Mob Machina NFT Launch\nFeatured\n11:00 pm UTC+0\nStar Atlas Town Hall",
+  "content_hash": "fcbff901482de43c3aad4a81f820833aa8f14e6b5e7d72fc45713d46de53d42d",
+  "major_topics": [
+    "economy",
+    "guilds and DACs",
+    "game development",
+    "community",
+    "lore",
+    "technology"
+  ],
+  "entities": [
+    "ATLAS",
+    "Krigs",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-981B7BFDF3A12176-01",
+      "text": "Busan’s Maiden Heart is the third of four Capital Fighters that will be available by the end of the year.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-981B7BFDF3A12176",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-981B7BFDF3A12176-02",
+      "text": "Yet to be released is the Ogrika Marann which will complete the forecasted Capital Fighter lineup.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-981B7BFDF3A12176",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-981B7BFDF3A12176-03",
+      "text": "Modules aboard the Busan Maiden Heart will eventually be reconfigurable, but its standard module package seem like an afterthought from the Oni manufacturer.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-981B7BFDF3A12176",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-981B7BFDF3A12176-04",
+      "text": "The Hologram also recognizes the importance of our reader’s time and will always strive to give you what you need, when you need it.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-981B7BFDF3A12176",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Star Atlas",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [
+    "ONI"
+  ],
+  "actors": [
+    "Krigs"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://thehologram.io/author/krigs/",
+      "anchor_text": "Krigs"
+    },
+    {
+      "url": "https://thehologram.io/category/gameplay/",
+      "anchor_text": "Gameplay"
+    },
+    {
+      "url": "https://play.staratlas.com/market/8kn57Qb8S9AiPV8isUNwk6oCYPMSLFAVPwuXbyCSkS6i",
+      "anchor_text": "marketplace"
+    },
+    {
+      "url": "https://play.staratlas.com/market/6SriSyRDGm8tS7f3njPeFEqSu88MsfFjSBzjMdodenqU",
+      "anchor_text": "Pearce C9"
+    },
+    {
+      "url": "https://play.staratlas.com/market/DwsBGKJZ9ysqe3yzxmcEi1Ft6CipdgJ3NRqRysw8DYYG",
+      "anchor_text": "VZUS ballad"
+    },
+    {
+      "url": "https://thehologram.io/about-us/",
+      "anchor_text": "Hologram"
+    },
+    {
+      "url": "http://www.facebook.com/sharer.php?u=https://thehologram.io/busan-maiden-heart-underdelivers-on-launch/&t=Busan%20Maiden%20Heart%20Underdelivers%20on%20Launch",
+      "anchor_text": ""
+    },
+    {
+      "url": "http://twitter.com/intent/tweet?text=Busan%20Maiden%20Heart%20Underdelivers%20on%20Launch%20https://thehologram.io/busan-maiden-heart-underdelivers-on-launch/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://plus.google.com/share?url=https://thehologram.io/busan-maiden-heart-underdelivers-on-launch/&t=Busan%20Maiden%20Heart%20Underdelivers%20on%20Launch",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/event/guild-gaming-network-cod-warzone/",
+      "anchor_text": "Guild Gaming Network – COD: Warzone"
+    },
+    {
+      "url": "https://thehologram.io/event/the-mob-mechina-nft-launch/",
+      "anchor_text": "The Mob Machina NFT Launch"
+    },
+    {
+      "url": "https://thehologram.io/event/star-atlas-town-hall-3/",
+      "anchor_text": "Star Atlas Town Hall"
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "UNKNOWN",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Author is not explicit in the surviving publication metadata."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://web.archive.org/web/20220518150522id_/https://thehologram.io/busan-maiden-heart-underdelivers-on-launch/",
+    "final_url": "https://web.archive.org/web/20220518150522id_/https://thehologram.io/busan-maiden-heart-underdelivers-on-launch/",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "response_size": 137242,
+    "elapsed_ms": 1655,
+    "retrieval_mode": "INTERNET_ARCHIVE",
+    "archive_capture": {
+      "timestamp": "20220518150522",
+      "original": "https://thehologram.io/busan-maiden-heart-underdelivers-on-launch/",
+      "digest": "WFNPDAQW6ASIK6L3HWKK7ORMQH34C43A"
+    }
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-3A9BB353A49FEA95",
+    "url_id": "URL-3A9BB353A49FEA95",
+    "url": "https://medium.com/the-hologram/the-rise-of-the-metaverse-274aedf99988",
+    "title": "The Rise of the Metaverse",
+    "author": "Oni Merchant",
+    "publisher": "The Hologram",
+    "publication_identity": "The Hologram (Medium publication)",
+    "published_at": "2023-02-10T13:57:38Z",
+    "updated_at": "2023-02-10T13:57:38Z",
+    "retrieved_at": "2026-07-13T00:07:20.379598Z",
+    "document_type": "ORIGINAL_REPORTING",
+    "source_role": "ORIGINAL_REPORTING",
+    "publication_role": "ORIGINAL_REPORTING",
+    "classification_rationale": "Publication reports a development without explicit interview, editorial, investigative, event, or reference framing."
+  },
+  "source_lineage": {
+    "publication": "The Hologram (Medium publication)",
+    "publication_role": "ORIGINAL_REPORTING",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [
+      {
+        "publication": "Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://staratlas.com/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [
+      "Oni Merchant"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Star Atlas",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://staratlas.com/"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "This original reporting published by The Hologram on 2023-02-10 documents “The Rise of the Metaverse.” Its surviving text addresses governance, economy, game development, community, lore, technology. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "The Rise of the Metaverse\nOni Merchant6 min read·Feb 10, 2023\n--\nListen\nShare\nHow Star Atlas is paving the way for virtual societies\nThe Metaverse is a concept that has been gaining a lot of traction in recent years, with the growth of gaming technology and the increasing interest in decentralized systems. A metaverse refers to a virtual universe where people can interact and engage in activities in a way that feels life-like, ideally enhancing connections to the real world. The idea is that people can create, explore and live in digital spaces, just as they do outside. One of the most exciting new projects in the metaverse space is Star Atlas, a space-exploration game built on Web3.\nStar Atlas is a decentralized space-exploration game that is currently being developed to facilitate not only crypto enthusiasts, but also businesses and regular gaming plebs. The game offers players a unique experience where they can explore the vast universe, discover new planets, trade goods, and interact with other players in a seamless and immersive environment. The game is built on the Solana blockchain, which provides a secure and decentralized platform for players to transact and interact with each other that is exponentially faster and cheaper than using Ethereum.\nPress enter or click to view image in full size\nThe Creation of a Metaverse\nOne of the key benefits of Star Atlas is that it allows players to own their digital assets in a way that is secure and permanent. In the game, players can earn rewards and accumulate assets, such as spaceships, planets and valuable resources. These assets are stored on the blockchain and are fully owned by the player, meaning that they can be traded, sold or passed down to others. This creates a new economy that is built on trust and transparency, which is a key aspect of web3. A Decentralized Autonomous Organization (DAO) is set up to eventually be in control of the future of this game, allowing DAO stakeholders of the $POLIS cryptocurrency to be in control of development vision.\nStar Atlas also provides players with a sense of community, as it has one of the most engaged communities in all of Web3. In fact, they just won first place at the Web3 Gamers Choice Awards for that exact reason. And the game’s not even past pre-Alpha yet. It’s a community-built project, led by ATMTA (pronounced Automata). Players can form alliances, trade goods, and engage in battles with other players. This creates a social and economic ecosystem that is unique to the metaverse. The game will also allow players to craft and eventually build their own items and ships which will be sellable on the open NFT market.\nFimbul BYOS Packlite Development\nAnother key feature of is the graphics and visual design of the game. The game is designed on Unreal Engine 5 using Nanite technology, opening up the possibility for hyper-realistic environments, unreal spaceships, and an entire universe of possibilities. The combination of these cutting-edge technologies will enable the game to offer a truly unforgettable gaming experience, with graphics that are not only visually stunning but also ahead of its time. In this way, the graphics and visual design of Star Atlas serve to enhance the player’s engagement and enjoyment, making it a critical aspect of the game’s overall success.\nA Straightforward Vision\nLed by Michael Wagner, CFA, Star Atlas has a talented team behind it, with years of experience in business, economics, gaming, blockchain, and more. The team is committed to delivering a high-quality product that offers players a unique and engaging experience. It’s backed by a strong community of supporters and investors, who are bullish on the future of the metaverse and the potential of Star Atlas. While any community-funded startup built on Web3 may have its financial challenges, Michael recently dove head-first into his plan to deal with them during the Townhall last week. We have to start somewhere, and while there are many risks involved in a vision of this magnitude, there’s also the possibility that Star Atlas will pave the way.\nPress enter or click to view image in full size\nThe Growth of Web3 Gaming\nThe growth of gaming and the increasing interest in decentralized systems is driving the demand for new and innovative projects in the Web3 space. Because of this, this initiative is poised to be a major player in the metaverse, offering players a unique and engaging experience that is built on blockchain technology and web3. Space-exploration is almost like a staple for many gamers. But the possibilities aren’t limited to space-exploration alone. There’s been much discussion on crypto Twitter lately about the implication of Esports sprinkled throughout decentralized efforts such as Star Atlas.\nLast week, Wagner began the Town Hall with a somber tone, leading the group to a truth many in this space need to understand. While the combination of blockchain technology, web3 gaming, and advanced graphics is certainly exciting, investing in any business, particularly in the metaverse space, comes with a high level of risk and uncertainty. The potential for players to own and trade digital assets is appealing, but it is important to remember that the value of these assets is highly speculative and can be subject to sudden changes. Additionally, the growth of Star Atlas has promising trends, but it’s impossible to predict its future trajectory with certainty. As with any investment, it’s important to thoroughly research the information and understand the risks involved before making a financial decision. While Star Atlas may be a promising venture, Wagner was very clear that there is still a lot of uncertainty going forward.\nAfter all, Web3 is the modern Wild West\nLike any true expansion, competition is often what drives the pioneers of the future. One such leak from last week’s meetup explored the new and upcoming feature of ship-racing, likely to attract many newcomers. While rudimentary versions of racing currently exist, Wagner and Community Director Santi, broke the news of integrating ground-racing into the next segment of Showroom (the current pre-Alpha in UE5). “It’s multiplayer-style, fight for your position, ground racing,” said Wagner, “Where you can shoot at other ships to disable them. You won’t be able to skip gates…and this is expected to support up to eight people.” Upcoming releases also include a scavenger hunt with the possibility of finding a ship estimated to be worth around $100,000, DAO functionality, and an expanded showroom give plenty to look forward to in the short-term.\nPress enter or click to view image in full sizeEarly Leak of Showroom Racecourse\nTo summarize, while this is in no way financial advice, Star Atlas is a project that people might consider being bullish on. Its combination of blockchain technology, web3, and cutting-edge graphics makes it one of the most exciting visions in the space. The potential for players to own and trade digital assets in a secure and permanent way, as well as the sense of community and social interaction, makes Star Atlas a unique and valuable proposition for players. Its growing virtual world, community, and focus on decentralized systems make it an enterprise worth paying close attention to.\nPress enter or click to view image in full sizeEarly Calico Render\nAbout the Author\nSean Layton is a writer on The Hologram News Network, an independent blockchain gaming meta-news organization devoted to the coverage of Star Atlas.\nFollow us on Social Media:\nTwitter | Instagram | Web\nAbout The Hologram\nThe Hologram is Star Atlas’ first and only independent news network. Our vision is to become the most trusted source of information about Star Atlas and a voice for the whole community. Readers can expect a high standard from our reporting and staff. Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.\nThe Hologram is not endorsed or paid by the Star Atlas team. Any information published by The Hologram nor its writers should be considered as informational in nature and does not constitute any financial advice.",
+  "content_hash": "e4d4866b96236de2c9c35e029898ebb01e827c7df6487b320757455369c59ae3",
+  "major_topics": [
+    "governance",
+    "economy",
+    "game development",
+    "community",
+    "lore",
+    "technology"
+  ],
+  "entities": [
+    "ATLAS",
+    "Michael Wagner",
+    "POLIS",
+    "Santi",
+    "Showroom",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-3A9BB353A49FEA95-01",
+      "text": "In fact, they just won first place at the Web3 Gamers Choice Awards for that exact reason.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-3A9BB353A49FEA95",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-3A9BB353A49FEA95-02",
+      "text": "The game will also allow players to craft and eventually build their own items and ships which will be sellable on the open NFT market.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-3A9BB353A49FEA95",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-3A9BB353A49FEA95-03",
+      "text": "The combination of these cutting-edge technologies will enable the game to offer a truly unforgettable gaming experience, with graphics that are not only visually stunning but also ahead of its time.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-3A9BB353A49FEA95",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-3A9BB353A49FEA95-04",
+      "text": "While any community-funded startup built on Web3 may have its financial challenges, Michael recently dove head-first into his plan to deal with them during the Townhall last week.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-3A9BB353A49FEA95",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-3A9BB353A49FEA95-05",
+      "text": "We have to start somewhere, and while there are many risks involved in a vision of this magnitude, there’s also the possibility that Star Atlas will pave the way.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-3A9BB353A49FEA95",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-3A9BB353A49FEA95-06",
+      "text": "“It’s multiplayer-style, fight for your position, ground racing,” said Wagner, “Where you can shoot at other ships to disable them.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-3A9BB353A49FEA95",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-3A9BB353A49FEA95-07",
+      "text": "You won’t be able to skip gates…and this is expected to support up to eight people.” Upcoming releases also include a scavenger hunt with the possibility of finding a ship estimated to be worth around $100,000, DAO functionality, and an expanded showroom give plenty to look forward to in the short-term.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-3A9BB353A49FEA95",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-3A9BB353A49FEA95-08",
+      "text": "Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-3A9BB353A49FEA95",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Star Atlas",
+    "Showroom",
+    "POLIS",
+    "ATLAS"
+  ],
+  "governance_items": [
+    "Star Atlas governance / DAO"
+  ],
+  "lore_items": [
+    "ONI"
+  ],
+  "actors": [
+    "Michael Wagner",
+    "Santi"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://medium.com/@punaab?source=post_page---byline--274aedf99988---------------------------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fthe-hologram%2F274aedf99988&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fthe-rise-of-the-metaverse-274aedf99988&user=Oni+Merchant&userId=ad2a3faef607&source=---header_actions--274aedf99988---------------------clap_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Frepost%2Fp%2F274aedf99988&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fthe-rise-of-the-metaverse-274aedf99988&user=Oni+Merchant&userId=ad2a3faef607&source=---header_actions--274aedf99988---------------------repost_header------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F274aedf99988&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fthe-rise-of-the-metaverse-274aedf99988&source=---header_actions--274aedf99988---------------------bookmark_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2Fplans%3Fdimension%3Dpost_audio_button%26postId%3D274aedf99988&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fthe-rise-of-the-metaverse-274aedf99988&source=---header_actions--274aedf99988---------------------post_audio_button------------------",
+      "anchor_text": "Listen"
+    },
+    {
+      "url": "https://medium.com/u/5ed69ff9cfb0?source=post_page---user_mention--274aedf99988---------------------------------------",
+      "anchor_text": "Star Atlas"
+    },
+    {
+      "url": "https://medium.com/u/2772803ea4c0?source=post_page---user_mention--274aedf99988---------------------------------------",
+      "anchor_text": "Michael Wagner, CFA"
+    },
+    {
+      "url": "https://medium.com/@mudpilot",
+      "anchor_text": "Sean Layton"
+    },
+    {
+      "url": "https://twitter.com/Hologram_News",
+      "anchor_text": "Twitter"
+    },
+    {
+      "url": "https://www.instagram.com/hologram_news/",
+      "anchor_text": "Instagram"
+    },
+    {
+      "url": "https://thehologram.io/",
+      "anchor_text": "Web"
+    },
+    {
+      "url": "https://medium.com/the-hologram",
+      "anchor_text": "The Hologram"
+    },
+    {
+      "url": "https://staratlas.com/",
+      "anchor_text": "Star Atlas"
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "https://medium.com/the-hologram/the-rise-of-the-metaverse-274aedf99988",
+    "final_url": "https://medium.com/the-hologram/the-rise-of-the-metaverse-274aedf99988",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 148605,
+    "elapsed_ms": 578,
+    "retrieval_mode": "LIVE",
+    "archive_capture": null
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-B97303EC3962DFAD",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47061458507795-What-is-a-metaverse",
+    "title": "What is a metaverse?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-03T17:01:34Z",
+    "updated_at": "2025-12-08T18:23:39Z",
+    "original_date_text": "2025-12-03T17:01:34Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “What is a metaverse?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "The metaverse is a connected digital universe where users can interact, play, trade, build and even earn—in real time and often across multiple experiences.\nIn Star Atlas, the metaverse comes to life through a combination of:\nImmersive 3D gameplay in Unreal Engine 5\nA real in-game economy powered by crypto and NFTs\nSocial and strategic collaboration between players and guilds (DACs)\nDecentralized governance through the Star Atlas DAO\nWhere Does the Word Come From?\nThe word \"metaverse\" originally came from the 1992 sci-fi novel Snow Crash, blending “meta” (beyond) and “universe.” It describes a virtual world where people live digital lives through avatars—and that vision is now becoming a reality.\nHow Is Star Atlas a Metaverse?\nUnlike traditional games, Star Atlas isn’t just a single game—it’s a growing ecosystem:\nYou can fly ships, explore and battle in the 3D world (UE5 Game)\nYou can craft, mine,and earn in a browser-based strategy game (SAGE)\nYou can trade NFTs and resources in a live economy\nYou can own your assets, vote on proposals and participate in the game’s future via the Star Atlas DAO\nTogether, these features make Star Atlas a living metaverse where players aren’t just users—they’re citizens, builders and stakeholders",
+  "content_hash": "ba493c2f1f437b905c274dd7f95a5112d57afa23f654671a2f664b5f2ee28dbf",
+  "entities": [
+    "ATLAS",
+    "SAGE",
+    "Star Atlas DAO"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-B97303EC3962DFAD-01",
+      "text": "The metaverse is a connected digital universe where users can interact, play, trade, build and even earn—in real time and often across multiple experiences.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B97303EC3962DFAD",
+      "publication_date": "2025-12-03T17:01:34Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-B97303EC3962DFAD-02",
+      "text": "In Star Atlas, the metaverse comes to life through a combination of: Immersive 3D gameplay in Unreal Engine 5 A real in-game economy powered by crypto and NFTs Social and strategic collaboration between players and guilds (DACs) Decentralized governance through the Star Atlas DAO Where Does the Word Come From?",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B97303EC3962DFAD",
+      "publication_date": "2025-12-03T17:01:34Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-B97303EC3962DFAD-03",
+      "text": "The word \"metaverse\" originally came from the 1992 sci-fi novel Snow Crash, blending “meta” (beyond) and “universe.” It describes a virtual world where people live digital lives through avatars—and that vision is now becoming a reality.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B97303EC3962DFAD",
+      "publication_date": "2025-12-03T17:01:34Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "SAGE",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [
+    "Star Atlas DAO"
+  ],
+  "guilds": [],
+  "external_sources": [],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47061458507795-What-is-a-metaverse",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.207557Z"
+  }
+}

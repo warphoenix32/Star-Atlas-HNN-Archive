@@ -1,0 +1,385 @@
+{
+  "source": {
+    "source_id": "SRC-IH-9994B64BDF90F434",
+    "url_id": "URL-9994B64BDF90F434",
+    "url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-133/",
+    "inventory_url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-133",
+    "title": "Star Atlas Weekly News Recap #133",
+    "author": "Intergalactic Herald",
+    "publisher": "Intergalactic Herald",
+    "published_at": "2024-10-06T17:00:00",
+    "updated_at": "2025-10-30T19:46:25",
+    "retrieved_at": "2026-07-12T22:06:10.905709Z",
+    "document_type": "NEWSLETTER",
+    "source_role": "CURATED_SUMMARY",
+    "source_classification": "CURATED_SUMMARY",
+    "classification_rationale": "Weekly newsletter/recap aggregates developments and linked sources.",
+    "wordpress_type": "posts"
+  },
+  "summary": {
+    "neutral_abstract": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week. We are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us. We are launching a Star Atlas merch store. Please check it out at Intergalactic",
+    "historical_value": "Contemporary Intergalactic Herald publication preserved with role and attribution boundaries.",
+    "current_validity_warning": "Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources."
+  },
+  "article_text": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week.\nWe are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us.\nWe are launching a Star Atlas merch store. Please check it out at Intergalactic Gear.\nWe are creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic Coalition.\nIf you would like to support our efforts, donations can be sent to intergalacticherald.sol\nSTAR ATLAS #254 JONI’s WEIRD ASS HAND\nMetaVerse Explorer posted a video of Star Atlas updates.\nMetaverse Nomads #166 Star Atlas w/ Emperor\nMetaverse Nomads posted their weekly Star Atlas livestream.\nWeekly Star Atlas Newsletter #149\nAephia published their Star Atlas newsletter.\nStar Atlas is back! Inside Scoop from Founder Michael Wagner at Impact Summit 2024\nFunjible Games posted a video interviewing Michael Wagner at the Impact Summit.\nStar Atlas Economic Report 2024 Q3\nStar Atlas published their latest quarterly economic report.\nStar Atlas CEO Keynote – Impact Summit 2024\nStar Atlas posted a video of the keynote from the Impact Summit.\nThe Atlas Brew #130\nStar Atlas TV posted a recording of the latest Atlas Brew.\nOur Approach to Building Credibility in “Web3 Gaming” – Impact Summit 2024\nStar Atlas posted a video on a session from the Impact Summit.\nStar Atlas Brew #130: Naabathon Submissions – TLDR\nBeth posted a video recapping the latest Atlas Brew.\nStar Atlas Economic Forum (October 2024)\nStar Atlas TV posted a recording of the latest Economic Forum.\nStar Atlas October 2024 Economic Forum\nBeyond the Horizon posted a video discussing the Economic Forum.\nStar Atlas – CommandDeck #12 : SA News, MUD Empire Event & raffle,..!\nNebularTV posted their latest Star Atlas podcast.",
+  "content_hash": "876bde03f5216dea57b1116fd965544ce79124b17fd7de69d631536d2a13b1e1",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [
+    "2024"
+  ],
+  "external_sources": [
+    {
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=kvXatppPgxI",
+      "anchor_text": "Star Atlas updates"
+    },
+    {
+      "url": "https://www.youtube.com/live/2YW8HWOJZCM",
+      "anchor_text": "weekly Star Atlas livestream"
+    },
+    {
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-149/",
+      "anchor_text": "Star Atlas newsletter"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=_0IHe6-s210",
+      "anchor_text": "interviewing Michael Wagner at the Impact Summit"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/economic-reports",
+      "anchor_text": "latest quarterly economic report"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=7lu-2uJAkd8",
+      "anchor_text": "keynote from the Impact Summit"
+    },
+    {
+      "url": "https://www.youtube.com/live/37NCOOAfX0A",
+      "anchor_text": "latest Atlas Brew"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=xqtffVbHzho",
+      "anchor_text": "session from the Impact Summit"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=5le9ueMbtdg",
+      "anchor_text": "latest Atlas Brew"
+    },
+    {
+      "url": "https://www.youtube.com/live/K9-U15PokcA",
+      "anchor_text": "Economic Forum"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=brJ4K90yMdQ",
+      "anchor_text": "discussing the Economic Forum"
+    },
+    {
+      "url": "https://www.youtube.com/live/YgqV93g0qxY",
+      "anchor_text": "latest Star Atlas podcast"
+    }
+  ],
+  "primary_source_relationships": [
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=kvXatppPgxI",
+      "anchor_text": "Star Atlas updates"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/live/2YW8HWOJZCM",
+      "anchor_text": "weekly Star Atlas livestream"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-149/",
+      "anchor_text": "Star Atlas newsletter"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=_0IHe6-s210",
+      "anchor_text": "interviewing Michael Wagner at the Impact Summit"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://experience.staratlas.com/newsroom/economic-reports",
+      "anchor_text": "latest quarterly economic report"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=7lu-2uJAkd8",
+      "anchor_text": "keynote from the Impact Summit"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/live/37NCOOAfX0A",
+      "anchor_text": "latest Atlas Brew"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=xqtffVbHzho",
+      "anchor_text": "session from the Impact Summit"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=5le9ueMbtdg",
+      "anchor_text": "latest Atlas Brew"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/live/K9-U15PokcA",
+      "anchor_text": "Economic Forum"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=brJ4K90yMdQ",
+      "anchor_text": "discussing the Economic Forum"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/live/YgqV93g0qxY",
+      "anchor_text": "latest Star Atlas podcast"
+    }
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Verify which outbound links are primary sources and preserve creator attribution during promotion."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-133&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 6544,
+    "elapsed_ms": 1856,
+    "attempts": [
+      {
+        "endpoint": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-133&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "http_status": 200,
+        "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-133&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "content_type": "application/json; charset=UTF-8",
+        "response_size": 6544,
+        "elapsed_ms": 1856
+      }
+    ]
+  },
+  "source_lineage": {
+    "publication": "Intergalactic Herald",
+    "publication_role": "CURATED_SUMMARY",
+    "relationship": "CURATED_SUMMARY_OF",
+    "primary_sources": [
+      {
+        "publication": "Star Atlas updates",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=kvXatppPgxI",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas updates"
+      },
+      {
+        "publication": "weekly Star Atlas livestream",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/live/2YW8HWOJZCM",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: weekly Star Atlas livestream"
+      },
+      {
+        "publication": "Star Atlas newsletter",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-149/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas newsletter"
+      },
+      {
+        "publication": "interviewing Michael Wagner at the Impact Summit",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=_0IHe6-s210",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: interviewing Michael Wagner at the Impact Summit"
+      },
+      {
+        "publication": "latest quarterly economic report",
+        "author": "UNKNOWN",
+        "url": "https://experience.staratlas.com/newsroom/economic-reports",
+        "organization": "ATMTA / Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest quarterly economic report"
+      },
+      {
+        "publication": "keynote from the Impact Summit",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=7lu-2uJAkd8",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: keynote from the Impact Summit"
+      },
+      {
+        "publication": "latest Atlas Brew",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/live/37NCOOAfX0A",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest Atlas Brew"
+      },
+      {
+        "publication": "session from the Impact Summit",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=xqtffVbHzho",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: session from the Impact Summit"
+      },
+      {
+        "publication": "latest Atlas Brew",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=5le9ueMbtdg",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest Atlas Brew"
+      },
+      {
+        "publication": "Economic Forum",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/live/K9-U15PokcA",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: Economic Forum"
+      },
+      {
+        "publication": "discussing the Economic Forum",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=brJ4K90yMdQ",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: discussing the Economic Forum"
+      },
+      {
+        "publication": "latest Star Atlas podcast",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/live/YgqV93g0qxY",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest Star Atlas podcast"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "publication": "Intergalactic Gear",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticgear.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Intergalactic Coalition",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticcoalition.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      }
+    ],
+    "original_creators": [
+      "Aephia",
+      "ATMTA / Star Atlas",
+      "Star Atlas"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Star Atlas updates",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=kvXatppPgxI"
+      },
+      {
+        "from": "weekly Star Atlas livestream",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/live/2YW8HWOJZCM"
+      },
+      {
+        "from": "Star Atlas newsletter",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-149/"
+      },
+      {
+        "from": "interviewing Michael Wagner at the Impact Summit",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=_0IHe6-s210"
+      },
+      {
+        "from": "latest quarterly economic report",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://experience.staratlas.com/newsroom/economic-reports"
+      },
+      {
+        "from": "keynote from the Impact Summit",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=7lu-2uJAkd8"
+      },
+      {
+        "from": "latest Atlas Brew",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/live/37NCOOAfX0A"
+      },
+      {
+        "from": "session from the Impact Summit",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=xqtffVbHzho"
+      },
+      {
+        "from": "latest Atlas Brew",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=5le9ueMbtdg"
+      },
+      {
+        "from": "Economic Forum",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/live/K9-U15PokcA"
+      },
+      {
+        "from": "discussing the Economic Forum",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=brJ4K90yMdQ"
+      },
+      {
+        "from": "latest Star Atlas podcast",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/live/YgqV93g0qxY"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  }
+}

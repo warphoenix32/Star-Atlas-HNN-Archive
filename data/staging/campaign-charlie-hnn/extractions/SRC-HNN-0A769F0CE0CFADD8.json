@@ -1,0 +1,235 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-0A769F0CE0CFADD8",
+    "url_id": "URL-0A769F0CE0CFADD8",
+    "url": "https://medium.com/@krigsfoniks/star-atlas-launches-into-escape-velocity-putting-solana-to-the-test-219b8a77bbc3",
+    "title": "Star Atlas launches into Escape Velocity, Putting Solana to the Test",
+    "author": "Krigs",
+    "publisher": "Medium",
+    "publication_identity": "Kr1gs Medium publication",
+    "published_at": "2023-04-29T02:42:38Z",
+    "updated_at": "2023-04-30T19:53:46Z",
+    "retrieved_at": "2026-07-13T00:06:26.211436Z",
+    "document_type": "ORIGINAL_REPORTING",
+    "source_role": "ORIGINAL_REPORTING",
+    "publication_role": "ORIGINAL_REPORTING",
+    "classification_rationale": "Publication reports a development without explicit interview, editorial, investigative, event, or reference framing."
+  },
+  "source_lineage": {
+    "publication": "Kr1gs Medium publication",
+    "publication_role": "ORIGINAL_REPORTING",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [
+      {
+        "publication": "Podcast",
+        "author": "UNKNOWN",
+        "url": "https://open.spotify.com/show/2mxndrDW6yPfpS350ijzjt?si=ec7c717f998240d6",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "YouTube",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/channel/UCDa-YxgNG6A9xpH1qyP0OaQ",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [
+      "Krigs"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Podcast",
+        "to": "Kr1gs Medium publication",
+        "relationship": "REPORTS_ON",
+        "url": "https://open.spotify.com/show/2mxndrDW6yPfpS350ijzjt?si=ec7c717f998240d6"
+      },
+      {
+        "from": "YouTube",
+        "to": "Kr1gs Medium publication",
+        "relationship": "REPORTS_ON",
+        "url": "https://www.youtube.com/channel/UCDa-YxgNG6A9xpH1qyP0OaQ"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "This original reporting published by Medium on 2023-04-29 documents “Star Atlas launches into Escape Velocity, Putting Solana to the Test.” Its surviving text addresses economy, game development, community, lore, technology. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "Star Atlas launches into Escape Velocity, Putting Solana to the Test\nKrigs3 min read·Apr 29, 2023\n--\nListen\nShare\nStar Atlas Escape Velocity is a mini-game test module designed to stress-test and demonstrate the utility of the Solana blockchain for gaming applications.\nOn Wednesday, Star Atlas released another Solana blockchain mini-game titled Escape Velocity. Within the first 36 hours of launch, Escape Velocity totaled over 1,000,000 transactions and 4,000 active players; accounting for over 2% of transactions on the Solana blockchain. These numbers demonstrated a resurgence in a game that was thought to be on its last legs.\nKey Highlights:\nOver 1,000,000 transactions for Escape Velocity since release\nOver 4,000 active unique wallets\nPlayers claim prizes distributed throughout the game\nDespite the huge transaction numbers, only ~5% of total prize volume has been reached\nPress enter or click to view image in full sizeStar Atlas Golden Era Escape Velocity\nEscape Velocity Surpasses 1 million Transaction Mark\nIn just the first 36 hours of launch, the game Escape Velocity has surpassed the 1 million transaction mark, accounting for over 2% of Solana transactions. This is despite the fact that Star Atlas’s game server StarCom experienced several outages during the first few hours of launch. However, by early Thursday morning, most major disruption issues had been worked out and Escape Velocity was truly living up to its name.\nEscape Velocity Stress Test Solana Network\nIn Escape Velocity, players move their ships on a 101x101 cartesian square map. There are 10,201 grids for players to choose to move their ships to. Each move to another grid is an on-chain transaction for Solana. Players are incentivized to move from square to square to discover loot, prizes which range in value from a few cents to one-hundred thousand dollars.\nPress enter or click to view image in full sizeEscape Velocity Loot Table\nEscape Velocity Paves Way For Full Star Atlas Game\nEscape Velocity is the first in a series of module released this year from Star Atlas. The purpose of Escape Velocity is to demonstrate the robustness of the Solana blockchain while also developing the underlying technology that will be the foundation for the full Star Atlas SAGE game. SAGE will be a space-strategic MMO with full on-chain actions, thus demonstrating the capability of Escape Velocity was a necessary step. Economists and blockchain engineers at Star Atlas are gathering valuable insights and data to further improve the game for its community.\nEscape Velocity Sets Up Mining, Crafting, and PVP\nLater this year, Star Atlas will launch additional modules that involve players mining, crafting, and combat with fully on-chain mechanics. Each subsequent iteration is a conscience build on the previous module that will eventually lead to a full on-chain game. As a test, Escape Velocity will eventually conclude.\nAbout the Author\nKrigs\nis a pioneer in the world of Star Atlas, having founded The Hologram News Network — an independent meta-news organization that keeps players up to date on all developments regarding Star Atlas. An ardent supporter of emerging technologies, Krigs has been covering this game for over a year and believes passionately in their power to revolutionize our collective gaming experience.\nFollow on Social Media:\nPodcast | YouTube | Twitter | Instagram | Web",
+  "content_hash": "962215f69f14a32a94f445c72a828e6d83d3576a961ed8edd78247af93233e3f",
+  "major_topics": [
+    "economy",
+    "game development",
+    "community",
+    "lore",
+    "technology"
+  ],
+  "entities": [
+    "ATLAS",
+    "Escape Velocity",
+    "Krigs",
+    "SAGE",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-0A769F0CE0CFADD8-01",
+      "text": "On Wednesday, Star Atlas released another Solana blockchain mini-game titled Escape Velocity.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-0A769F0CE0CFADD8",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-0A769F0CE0CFADD8-02",
+      "text": "Press enter or click to view image in full sizeEscape Velocity Loot Table Escape Velocity Paves Way For Full Star Atlas Game Escape Velocity is the first in a series of module released this year from Star Atlas.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-0A769F0CE0CFADD8",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-0A769F0CE0CFADD8-03",
+      "text": "The purpose of Escape Velocity is to demonstrate the robustness of the Solana blockchain while also developing the underlying technology that will be the foundation for the full Star Atlas SAGE game.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-0A769F0CE0CFADD8",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-0A769F0CE0CFADD8-04",
+      "text": "SAGE will be a space-strategic MMO with full on-chain actions, thus demonstrating the capability of Escape Velocity was a necessary step.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-0A769F0CE0CFADD8",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-0A769F0CE0CFADD8-05",
+      "text": "Escape Velocity Sets Up Mining, Crafting, and PVP Later this year, Star Atlas will launch additional modules that involve players mining, crafting, and combat with fully on-chain mechanics.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-0A769F0CE0CFADD8",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-0A769F0CE0CFADD8-06",
+      "text": "Each subsequent iteration is a conscience build on the previous module that will eventually lead to a full on-chain game.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-0A769F0CE0CFADD8",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-0A769F0CE0CFADD8-07",
+      "text": "As a test, Escape Velocity will eventually conclude.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-0A769F0CE0CFADD8",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "SAGE",
+    "Star Atlas",
+    "Escape Velocity",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [
+    "ONI"
+  ],
+  "actors": [
+    "Krigs"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://medium.com/@krigsfoniks?source=post_page---byline--219b8a77bbc3---------------------------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fblockchain-biz%2F219b8a77bbc3&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fblockchain-biz%2Fstar-atlas-launches-into-escape-velocity-putting-solana-to-the-test-219b8a77bbc3&user=Krigs&userId=41e0c5b141f1&source=---header_actions--219b8a77bbc3---------------------clap_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Frepost%2Fp%2F219b8a77bbc3&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fblockchain-biz%2Fstar-atlas-launches-into-escape-velocity-putting-solana-to-the-test-219b8a77bbc3&user=Krigs&userId=41e0c5b141f1&source=---header_actions--219b8a77bbc3---------------------repost_header------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F219b8a77bbc3&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fblockchain-biz%2Fstar-atlas-launches-into-escape-velocity-putting-solana-to-the-test-219b8a77bbc3&source=---header_actions--219b8a77bbc3---------------------bookmark_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2Fplans%3Fdimension%3Dpost_audio_button%26postId%3D219b8a77bbc3&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fblockchain-biz%2Fstar-atlas-launches-into-escape-velocity-putting-solana-to-the-test-219b8a77bbc3&source=---header_actions--219b8a77bbc3---------------------post_audio_button------------------",
+      "anchor_text": "Listen"
+    },
+    {
+      "url": "https://medium.com/u/5ed69ff9cfb0?source=post_page---user_mention--219b8a77bbc3---------------------------------------",
+      "anchor_text": "Star Atlas"
+    },
+    {
+      "url": "https://medium.com/u/41e0c5b141f1",
+      "anchor_text": "Krigs"
+    },
+    {
+      "url": "https://open.spotify.com/show/2mxndrDW6yPfpS350ijzjt?si=ec7c717f998240d6",
+      "anchor_text": "Podcast"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCDa-YxgNG6A9xpH1qyP0OaQ",
+      "anchor_text": "YouTube"
+    },
+    {
+      "url": "https://twitter.com/home",
+      "anchor_text": "Twitter"
+    },
+    {
+      "url": "https://thehologram.io/",
+      "anchor_text": "Web"
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "https://medium.com/@krigsfoniks/star-atlas-launches-into-escape-velocity-putting-solana-to-the-test-219b8a77bbc3",
+    "final_url": "https://medium.com/blockchain-biz/star-atlas-launches-into-escape-velocity-putting-solana-to-the-test-219b8a77bbc3",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 130765,
+    "elapsed_ms": 1742,
+    "retrieval_mode": "LIVE",
+    "archive_capture": null
+  }
+}

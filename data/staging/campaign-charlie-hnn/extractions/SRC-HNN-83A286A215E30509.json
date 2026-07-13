@@ -1,0 +1,293 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-83A286A215E30509",
+    "url_id": "URL-83A286A215E30509",
+    "url": "https://medium.com/the-hologram/navigating-the-cosmos-a-guide-to-exploring-the-halls-of-the-star-atlas-showroom-766876ece8d1",
+    "title": "Navigating the Cosmos: A Guide to Exploring the Halls of the Star Atlas Showroom",
+    "author": "JALLDIGITAL",
+    "publisher": "The Hologram",
+    "publication_identity": "The Hologram (Medium publication)",
+    "published_at": "2023-01-19T20:34:49Z",
+    "updated_at": "2023-01-21T02:07:35Z",
+    "retrieved_at": "2026-07-13T00:14:12.113630Z",
+    "document_type": "REFERENCE",
+    "source_role": "REFERENCE",
+    "publication_role": "REFERENCE",
+    "classification_rationale": "Publication is structured as a guide or reference."
+  },
+  "source_lineage": {
+    "publication": "The Hologram (Medium publication)",
+    "publication_role": "REFERENCE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "publication": "Unreal Engine 5",
+        "author": "UNKNOWN",
+        "url": "https://www.unrealengine.com/en-US/unreal-engine-5?sessionInvalidated=true",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "SANDBOX",
+        "author": "UNKNOWN",
+        "url": "https://register.sandbox.game/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://staratlas.com/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [
+      "JALLDIGITAL"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Unreal Engine 5",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REFERENCES",
+        "url": "https://www.unrealengine.com/en-US/unreal-engine-5?sessionInvalidated=true"
+      },
+      {
+        "from": "SANDBOX",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REFERENCES",
+        "url": "https://register.sandbox.game/"
+      },
+      {
+        "from": "Star Atlas",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REFERENCES",
+        "url": "https://staratlas.com/"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "This reference published by The Hologram on 2023-01-19 documents “Navigating the Cosmos: A Guide to Exploring the Halls of the Star Atlas Showroom.” Its surviving text addresses governance, economy, game development, community, lore, technology. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "Navigating the Cosmos: A Guide to Exploring the Halls of the Star Atlas Showroom\nJALLDIGITAL6 min read·Jan 19, 2023\n--\nListen\nShare\nHello, metaverse enthusiasts, this is explorer USTUR, also known as Jall.doer. The year 2022 has been truly memorable for all of us in the Star Atlas community, filled with a variety of experiences and emotions. Throughout this time, the team has released multiple proposals that have gradually expanded the ecosystem, but without a doubt, the one that has garnered the most interest so far is the first module created in Unreal Engine 5, a demo of what the final game of Star Atlas could be. The Showroom or Volant Station, as it is known by those who walk its corridors, is the seed of the universe that ATMTA intends to build for us. If you want to delve a little deeper into this new universe and start your journey among the stars, follow me and you will not be disappointed.\nPress enter or click to view image in full sizeEntrance to Volant Station\nEntering a New Universe\nThe primary characteristic of an explorer is curiosity, often what really matters can be found in the details. Anyone lucky enough to find the keys to enter these facilities will come face to face with this relatively simple design structure with a MUD style, but with truly curious and well-worked details. The first thing that catches our attention are these statues in the form of hands trying to reach a world that remains in constant change, so close but so far at the same time. We are captivated by the beauty of this place as we begin to delve deeper. At the entrance, we see these screens on each wall where we can display our posters in pure SANDBOX style.\nThe Hall of History\nPress enter or click to view image in full sizePanels for Posters\nThe story that each of these posters holds transports us to important moments within Star Atlas, related to the War of Convergence or witness of the expansion of the known universe. Observing every detail of these works can be a whole experience from this new perspective. It is precisely when curiosity calls at your door that you realize there was something else behind you, something you had overlooked. A transport is located right at this entrance, as if waiting for its next passenger.\nAn Unexpected Transport\nPress enter or click to view image in full sizeUnexpected Transportation\nThis is perhaps the most striking clue to understand that we are in an expanding environment. Who knows what remote places we will be able to visit in the future. Meanwhile, this arch in the distance seems to be a testimony of how small this place is compared to the world where we find ourselves. As we delve deeper into the structure, we begin to realize the splendid interior design and the continuation of this exhibition hall where we can see our badges.\nAn amazing view\nPress enter or click to view image in full sizeShowroom\nEach detail within this corridor is incredible, we can exhibit our collectibles and achievements within the metaverse, this results in a very curious contrast after walking through an entrance filled with the history of the developing universe. You continue on your way and come across this artifact that displays a screen when you approach it.\nFirst Interaction with our most important assets, the Ships\nPress enter or click to view image in full sizeInvocation of Ships inside the Showroom\nThis panel allows you to access all the ships that have currently been designed to explore the metaverse. Observing each of these beautiful ships, you will realize that you can only teleport to those that you have purchased, this is where one of the first game-blockchain interactions comes into play. The Foundation Kit technology developed by ATMTA, which interacts directly with your wallet from the game in Unreal 5, allows for creating many mechanics that will make Star Atlas a very interesting metaverse to experience through natural metaverse-blockchain interaction. For now, this is the only way we really use assets within the Showroom.\nPress enter or click to view image in full sizeShip selection panel\nIn the R2 update, this panel shows us the development status of the ships within the Showroom, for example, we will find ships that we can only see in a faded form and in design work, but others we can see in great detail, such as the case of the Floyd, this is the only free ship that also allows experiencing the first flight simulation experience within Star Atlas.\nPress enter or click to view image in full sizeFirst flight experience with the Floyd spacecraft\nAs you use your ship for the first time, thoughts of what could be come to mind and you wonder more than ever how many secrets are hidden in this developing world, if only you could leave this bubble and explore beyond, but rest easy my fellow explorers, the time has not yet come, there is still much to be built with what we have within this small remnant of planet Earth.\nThe Garden of Hope\nPress enter or click to view image in full sizeSecond entrance to Volant Station through the garden\nAs we delve deeper into the perimeter of the central structure, this time from the garden, we will come across one of the most beautiful views. In the center, just above us are these three statues that stand out like an altar to the most sacred. They represent the supreme leaders of each faction that brought peace to the universe, and that small beam of light that seems to have no end to the top of the sky, seems to be a testament to hope for a better future. With the intention of discovering new secrets, we delve deeper into the structure, finding a place that seems to be reserved for parties or events among friends.\nA place to relax with friends\nPress enter or click to view image in full sizeBar inside the Showroom\nWe often forget the social aspect that defines a metaverse. A bar in a video game might be unnecessary or just a place to get new missions, but in the metaverse of Star Atlas, it will surely be a very visited place by all. These places are meant to be part of the central experience, where we will find customers, contractors, bounty hunters, friends, and maybe relationships beyond the digital. It may be difficult to visualize now within a seemingly empty place, but we are not far from seeing it with our own eyes, once the metaverse takes shape.\nFirst excursion inside the Showroom\nPress enter or click to view image in full sizeStar Map Room\nIt is becoming time to process all the information found so far and to evaluate the immensity of possibilities that open up before us, perhaps we will see each other on my next excursion through the Star Atlas Showroom, many secrets are waiting to be found and stories that await to be told. Take care of yourself, my fellow explorers, I hope this little journey has served you to obtain valuable information about this expanding metaverse, may peace be with you.\nAbout The Hologram\nThe Hologram is Star Atlas’ first and only independent news network. Our vision is to become the most trusted source of information about Star Atlas and a voice for the whole community. Readers can expect a high standard from our reporting and staff. Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.\nThe Hologram is not endorsed or paid by the Star Atlas team. Any information published by The Hologram nor its writers should be considered as informational in nature and does not constitute any financial advice.",
+  "content_hash": "5697e35791576199d950cbc04aef381bebd2e1f3c0c842978184b96373103bfa",
+  "major_topics": [
+    "governance",
+    "economy",
+    "game development",
+    "community",
+    "lore",
+    "technology"
+  ],
+  "entities": [
+    "ATLAS",
+    "Showroom",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-83A286A215E30509-01",
+      "text": "Throughout this time, the team has released multiple proposals that have gradually expanded the ecosystem, but without a doubt, the one that has garnered the most interest so far is the first module created in Unreal Engine 5, a demo of what the final game of Star Atlas could be.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-83A286A215E30509",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-83A286A215E30509-02",
+      "text": "If you want to delve a little deeper into this new universe and start your journey among the stars, follow me and you will not be disappointed.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-83A286A215E30509",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-83A286A215E30509-03",
+      "text": "Anyone lucky enough to find the keys to enter these facilities will come face to face with this relatively simple design structure with a MUD style, but with truly curious and well-worked details.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-83A286A215E30509",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-83A286A215E30509-04",
+      "text": "Who knows what remote places we will be able to visit in the future.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-83A286A215E30509",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-83A286A215E30509-05",
+      "text": "Observing each of these beautiful ships, you will realize that you can only teleport to those that you have purchased, this is where one of the first game-blockchain interactions comes into play.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-83A286A215E30509",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-83A286A215E30509-06",
+      "text": "The Foundation Kit technology developed by ATMTA, which interacts directly with your wallet from the game in Unreal 5, allows for creating many mechanics that will make Star Atlas a very interesting metaverse to experience through natural metaverse-blockchain interaction.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-83A286A215E30509",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-83A286A215E30509-07",
+      "text": "Press enter or click to view image in full sizeShip selection panel In the R2 update, this panel shows us the development status of the ships within the Showroom, for example, we will find ships that we can only see in a faded form and in design work, but others we can see in great detail, such as the case of the Floyd, this is the only free ship that also allows experiencing the first flight simulation experience within Star Atlas.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-83A286A215E30509",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-83A286A215E30509-08",
+      "text": "The Garden of Hope Press enter or click to view image in full sizeSecond entrance to Volant Station through the garden As we delve deeper into the perimeter of the central structure, this time from the garden, we will come across one of the most beautiful views.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-83A286A215E30509",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-83A286A215E30509-09",
+      "text": "A bar in a video game might be unnecessary or just a place to get new missions, but in the metaverse of Star Atlas, it will surely be a very visited place by all.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-83A286A215E30509",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-83A286A215E30509-10",
+      "text": "These places are meant to be part of the central experience, where we will find customers, contractors, bounty hunters, friends, and maybe relationships beyond the digital.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-83A286A215E30509",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-83A286A215E30509-11",
+      "text": "First excursion inside the Showroom Press enter or click to view image in full sizeStar Map Room It is becoming time to process all the information found so far and to evaluate the immensity of possibilities that open up before us, perhaps we will see each other on my next excursion through the Star Atlas Showroom, many secrets are waiting to be found and stories that await to be told.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-83A286A215E30509",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-83A286A215E30509-12",
+      "text": "Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-83A286A215E30509",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Star Atlas",
+    "Showroom",
+    "ATLAS"
+  ],
+  "governance_items": [
+    "Star Atlas governance / DAO"
+  ],
+  "lore_items": [
+    "MUD",
+    "Ustur"
+  ],
+  "actors": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://medium.com/@jalldigital?source=post_page---byline--766876ece8d1---------------------------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fthe-hologram%2F766876ece8d1&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fnavigating-the-cosmos-a-guide-to-exploring-the-halls-of-the-star-atlas-showroom-766876ece8d1&user=JALLDIGITAL&userId=b3ca146a7a78&source=---header_actions--766876ece8d1---------------------clap_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Frepost%2Fp%2F766876ece8d1&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fnavigating-the-cosmos-a-guide-to-exploring-the-halls-of-the-star-atlas-showroom-766876ece8d1&user=JALLDIGITAL&userId=b3ca146a7a78&source=---header_actions--766876ece8d1---------------------repost_header------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F766876ece8d1&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fnavigating-the-cosmos-a-guide-to-exploring-the-halls-of-the-star-atlas-showroom-766876ece8d1&source=---header_actions--766876ece8d1---------------------bookmark_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2Fplans%3Fdimension%3Dpost_audio_button%26postId%3D766876ece8d1&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fnavigating-the-cosmos-a-guide-to-exploring-the-halls-of-the-star-atlas-showroom-766876ece8d1&source=---header_actions--766876ece8d1---------------------post_audio_button------------------",
+      "anchor_text": "Listen"
+    },
+    {
+      "url": "https://medium.com/@staratlasgame",
+      "anchor_text": "Star Atlas"
+    },
+    {
+      "url": "https://www.unrealengine.com/en-US/unreal-engine-5?sessionInvalidated=true",
+      "anchor_text": "Unreal Engine 5"
+    },
+    {
+      "url": "https://register.sandbox.game/",
+      "anchor_text": "SANDBOX"
+    },
+    {
+      "url": "https://medium.com/the-hologram",
+      "anchor_text": "The Hologram"
+    },
+    {
+      "url": "https://staratlas.com/",
+      "anchor_text": "Star Atlas"
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "https://medium.com/the-hologram/navigating-the-cosmos-a-guide-to-exploring-the-halls-of-the-star-atlas-showroom-766876ece8d1",
+    "final_url": "https://medium.com/the-hologram/navigating-the-cosmos-a-guide-to-exploring-the-halls-of-the-star-atlas-showroom-766876ece8d1",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 164417,
+    "elapsed_ms": 853,
+    "retrieval_mode": "LIVE",
+    "archive_capture": null
+  }
+}

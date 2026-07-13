@@ -1,0 +1,153 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-90B1349DC59535EF",
+    "url_id": "URL-90B1349DC59535EF",
+    "url": "https://medium.com/the-hologram/star-atlas-community-survey-results-4b5da9703c47",
+    "title": "Star Atlas Community Survey Results",
+    "author": "FowlAC",
+    "publisher": "The Hologram",
+    "publication_identity": "The Hologram (Medium publication)",
+    "published_at": "2022-11-09T23:01:55Z",
+    "updated_at": "2022-11-09T23:17:33Z",
+    "retrieved_at": "2026-07-13T00:08:50.257836Z",
+    "document_type": "ORIGINAL_INTERVIEW",
+    "source_role": "ORIGINAL_INTERVIEW",
+    "publication_role": "ORIGINAL_INTERVIEW",
+    "classification_rationale": "Publication explicitly presents an interview or Q&A."
+  },
+  "source_lineage": {
+    "publication": "The Hologram (Medium publication)",
+    "publication_role": "ORIGINAL_INTERVIEW",
+    "relationship": "INTERVIEWS",
+    "primary_sources": [
+      {
+        "publication": "interview with Coindesk",
+        "author": "UNKNOWN",
+        "url": "https://vimeo.com/757586054/6e84c36dee",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [
+      "FowlAC"
+    ],
+    "attribution_chain": [
+      {
+        "from": "interview with Coindesk",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "INTERVIEWS",
+        "url": "https://vimeo.com/757586054/6e84c36dee"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "This original interview published by The Hologram on 2022-11-09 documents “Star Atlas Community Survey Results.” Its surviving text addresses economy, guilds and DACs, community, lore. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "Star AtlasCommunity\nStar Atlas Community Survey Results\nFowlAC2 min read·Nov 9, 2022\n--\nListen\nShare\nOn October 18, 2022 The Hologram launched its first community survey.\nPress enter or click to view image in full size\nOur goal with the survey was to get a sense of where the Star Atlas community lives, works and plays. In an interview with Coindesk on October 6, Star Atlas CEO Michael Wagner stated (at about 5 minutes in) that Star Atlas has a “truly distributed” global audience and cited Brazil, Turkey, Middle East, SE Asia and the U.S. as its largest countries/regions. In our survey we identified Europe (46.6%), North America (25.56%) and South America (13%) as the top regions. In terms of individual countries, most of the respondents listed the U.S. (~20%) followed by France (~12%) and Spain (11%) as their home countries.\nPress enter or click to view image in full size\nOur survey consisted of 224 respondents and was distributed multiple times on Twitter over a period of several weeks. Given the small sample size, we can’t say with any certainty whether these results are truly representative. However, we do think it may represent a decent snapshot of the most “active” players in Star Atlas at the moment.\nHere are the percentages by region.\n- Europe: 46.4%- North America: 25.56%- South America: 13%- Asia: 5.83%- Oceania: 4.48%- Central America: 2.24%- Carribean: 1.79%- Africa: 0.45%\nPress enter or click to view image in full size\nTop countries: Not everyone listed their home country but out of the 186 that did, these were the most popular:\n- United States: 19.89%- France: 11.83%- Spain: 10.75%- Brazil: 6.99%\nList of all countries shared in the survey: Australia, Austria, Belgium, Brazil, Canada, Chile, Colombia, Costa Rica, Croatia, Curacao, Denmark, Dominican Republic, France, French Polynesia, Germany, Guam, Hungary, India, Ireland, Israel, Italy, Korea, Latvia, Mexico, Netherlands, New Zealand, Macedonia, Panama, Peru, Philippines, Portugal, Puerto Rico, Romania, Russia, Slovenia, South Africa, Spain, Switzerland, Turkey, United States, Venezuela.\nIt would be interesting to compare the results of this survey with those of Star Atlas as they have done multiple surveys. The Hologram did reach out to some of the larger regional agnostic guilds and our results are largely in line with theirs.\nOriginally published at https://thehologram.io on November 9, 2022.",
+  "content_hash": "44d8168aa62a87b522464eb5a4924a1c85f52e8d658844ef0ce701d9f5e1bd31",
+  "major_topics": [
+    "economy",
+    "guilds and DACs",
+    "community",
+    "lore"
+  ],
+  "entities": [
+    "ATLAS",
+    "Michael Wagner",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-90B1349DC59535EF-01",
+      "text": "Star AtlasCommunity Star Atlas Community Survey Results FowlAC2 min read·Nov 9, 2022 -- Listen Share On October 18, 2022 The Hologram launched its first community survey.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-90B1349DC59535EF",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Star Atlas",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [
+    "ONI"
+  ],
+  "actors": [
+    "Michael Wagner"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://medium.com/@FowlAC?source=post_page---byline--4b5da9703c47---------------------------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fthe-hologram%2F4b5da9703c47&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fstar-atlas-community-survey-results-4b5da9703c47&user=FowlAC&userId=ab6dbce60d64&source=---header_actions--4b5da9703c47---------------------clap_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Frepost%2Fp%2F4b5da9703c47&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fstar-atlas-community-survey-results-4b5da9703c47&user=FowlAC&userId=ab6dbce60d64&source=---header_actions--4b5da9703c47---------------------repost_header------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F4b5da9703c47&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fstar-atlas-community-survey-results-4b5da9703c47&source=---header_actions--4b5da9703c47---------------------bookmark_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2Fplans%3Fdimension%3Dpost_audio_button%26postId%3D4b5da9703c47&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fstar-atlas-community-survey-results-4b5da9703c47&source=---header_actions--4b5da9703c47---------------------post_audio_button------------------",
+      "anchor_text": "Listen"
+    },
+    {
+      "url": "https://vimeo.com/757586054/6e84c36dee",
+      "anchor_text": "interview with Coindesk"
+    },
+    {
+      "url": "https://twitter.com/at_mwagner",
+      "anchor_text": "Michael Wagner"
+    },
+    {
+      "url": "https://twitter.com/staratlas/status/1570817532059082755",
+      "anchor_text": "multiple"
+    },
+    {
+      "url": "https://twitter.com/staratlas/status/1586086240616448001",
+      "anchor_text": "surveys"
+    },
+    {
+      "url": "https://thehologram.io/star-atlas-community-survey-results/",
+      "anchor_text": "https://thehologram.io"
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "https://medium.com/the-hologram/star-atlas-community-survey-results-4b5da9703c47",
+    "final_url": "https://medium.com/the-hologram/star-atlas-community-survey-results-4b5da9703c47",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 119553,
+    "elapsed_ms": 573,
+    "retrieval_mode": "LIVE",
+    "archive_capture": null
+  }
+}

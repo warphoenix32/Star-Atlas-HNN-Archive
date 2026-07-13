@@ -1,0 +1,216 @@
+{
+  "source": {
+    "source_id": "SRC-IH-6D8274E09DAD8518",
+    "url_id": "URL-6D8274E09DAD8518",
+    "url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-185/",
+    "inventory_url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-185",
+    "title": "Star Atlas Weekly Newsletter #185",
+    "author": "Intergalactic Herald",
+    "publisher": "Intergalactic Herald",
+    "published_at": "2025-10-03T23:00:00",
+    "updated_at": "2025-10-03T22:21:03",
+    "retrieved_at": "2026-07-12T22:04:26.304654Z",
+    "document_type": "NEWSLETTER",
+    "source_role": "CURATED_SUMMARY",
+    "source_classification": "CURATED_SUMMARY",
+    "classification_rationale": "Weekly newsletter/recap aggregates developments and linked sources.",
+    "wordpress_type": "posts"
+  },
+  "summary": {
+    "neutral_abstract": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week. Star Atlas: Recap 9-28-25 from Beyond the Horizon – https://www.youtube.com/watch?v=u-5VblYRyMk The latest Star Atlas developments feature a blend of exciting new content and ongoing economic adjustments. The highly anticipated Project Galia single-player campaign in Unreal Engine 5 is taking shape as an RPG-style experience, promising a full narrative, character upgrades, crafting, exploration, and procedurally generated quests, with an MVP targeted for release by year-end. In Starbased, recent updates reduced crafting fees by up to 29% and reintroduced the Fimbul…",
+    "historical_value": "Contemporary Intergalactic Herald publication preserved with role and attribution boundaries.",
+    "current_validity_warning": "Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources."
+  },
+  "article_text": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week.\nStar Atlas: Recap 9-28-25 from Beyond the Horizon – https://www.youtube.com/watch?v=u-5VblYRyMk\nThe latest Star Atlas developments feature a blend of exciting new content and ongoing economic adjustments. The highly anticipated Project Galia single-player campaign in Unreal Engine 5 is taking shape as an RPG-style experience, promising a full narrative, character upgrades, crafting, exploration, and procedurally generated quests, with an MVP targeted for release by year-end. In Starbased, recent updates reduced crafting fees by up to 29% and reintroduced the Fimbul Mamba X redemption recipe with a 20x intensity increase for a more sustainable economy. LP rewards for various upgrading ingredients were also adjusted, notably for SDU. The Holo-Sim Season 1/Chapter 1 leaderboard campaign concluded, distributing USDC and NFTs to top players, though discussions around unfair competitive practices involving multiple accounts surfaced. While updates on the Zinc blockchain integration are pending since mid-August, Super Phoenix DAO recently hosted a Townhall detailing its e-sports betting platform for Star Atlas, and Solana co-founder Anatoly Yakovenko joined a Shaga livestream to showcase high-fidelity mobile gaming for the title via cloud streaming.\nWeekly Star Atlas Newsletter-Issue #199 from Aephia – https://aephia.com/star-atlas/weekly-star-atlas-newsletter-199/\nThis week’s Star Atlas news featured significant developments across Holosim, SAGE, and governance. Holosim Chapter 1 concluded with ONI’s victory; players must link Solana wallets within days for exclusive rewards. Looking ahead, Chapter 2, expected in 6-8 weeks, promises major overhauls to combat technical issues and multi-accounting. It will introduce an achievement-based leaderboard, strategic changes to Medium Risk Zone mining requiring protection, simplified Starbase upgrades, and a new Combat UI. Policy rules will explicitly prohibit multi-accounting, blocking asset transfers out of the game to enforce this. SAGE saw crafting fees reduced from 7% to 5%, and the Fimbul Mamba EX recipe returned with a 20x ingredient cost increase, aimed at bolstering its value and promoting a sustainable economy. Loyalty Point earnings for Starbase upgrades were also adjusted. The DAO’s PIP-19, requesting 44.8 million ATLAS for economic research, is open for voting until October 5th, currently facing strong opposition. Finally, Chip’s dev logs revealed an engine upgrade to UE5.6.1, progress on reducing game package size, and new features like firearm/vehicle skins and networked racing.\nAtlas Brew 175-DAO Updates from Star Atlas TV – https://www.youtube.com/watch?v=6TQApuexgkY\nStar Atlas is buzzing with key updates and calls-to-action for its thriving community. Super Phoenix Sports (SPD) is launching its inaugural Star Racer event, scheduled for December 13th, 2025, at Solana Breakpoint in Abu Dhabi. This will be a high-stakes competitive racing event featuring a full roster of pilots and live production across multiple platforms. SPD is actively seeking six more dedicated teammates for roles including Stream Producer, Play-by-Play Caster, Color Caster, and Camera Operators; interested individuals are encouraged to contact Lancer on the SPD Discord for paid positions that offer resume building and ecosystem growth. In DAO governance news, the community can prepare for the next Council elections, with self-nominations opening on October 29th, the campaign period commencing November 10th, and voting going live on November 26th, concluding by December 10th. There are three critical PIPs for community voting: PIP 19 (Independent Economic Research) which closes in four days, and PIP 20 (DAO Casters Program) and PIP 21 (Rogue Data Hub) both going live for voting in the next five hours. The DAO is committed to transparency, introducing new `dao-links` and `dao-reports` Discord channels, alongside an updated IFI dashboard and PIP tracker. Community members are also invited to tomorrow’s Economic Forum to discuss the state of the Sage economy and the latest quarterly report, and weekly Galia Game Nights (Friday) with crew pack raffles. The DAO encourages active participation in voting and transparent communication from all PIP authors to foster a robust and engaged ecosystem.\nStar Atlas Economic Report 2025 Q3 from Star Atlas – https://experience.staratlas.com/newsroom/economic-reports/star-atlas-economic-report-2025-q3\nThe Q3 2025 State of the Economy report showcases a dynamic Star Atlas ecosystem, marked by evolving wealth distribution and new gameplay integrations. While average daily ATLAS emissions dropped by 10.5% to 10.2 million and overall GDP contracted by 26% primarily due to token price volatility, aggregate wealth still increased by 11.1% to $98.82 million. “Citizens” notably strengthened their position, witnessing a 32% wealth increase to $32.05 million, while “Residents” saw a 17.9% contraction. Faction analysis revealed ONI leading in total GDP and average net earnings ($7.39 daily), with USTUR maintaining superior per-capita efficiency. Wealth-tier insights showed high-tier accounts ($1K-10K) achieving the highest earnings efficiency (0.00253 per dollar of wealth), indicating optimized strategic deployment. A major highlight was the successful launch of Holosim Season 1, Chapter 1 on Atlasnet, complementing Starbased by introducing skill-based earnings through the new “Ink” resource via UE5 arena gameplay. Ink, with its first airdrop distributing ~14 million to 377 recipients, became the most expensive resource on the market ($20.3357). Holosim quests, particularly freighting, proved highly engaging, offering approximately 6 zATLAS per minute as the most time-efficient career. These foundational enhancements and new economic avenues are crucial as the community anticipates the upcoming C4 gameplay update.\nStar Atlas Economic Forum-October 2025 from Star Atlas TV – https://www.youtube.com/watch?v=fZa9MtrWr5Y\nThe Star Atlas Economic Forum for October 2025 brought forth significant updates regarding the game’s economy and recent developments. The Q3 2025 Quarterly Report highlighted a 10.5% reduction in ATLAS emissions, although accompanied by record-high volatility and an insignificant correlation between emissions and token price. Gross Domestic Product (GDP) across Star Atlas reached $645,526, with ONI contributing the most and USTUR demonstrating the highest capital efficiency. Starbased saw crucial LP rebalancing today (Oct 3rd), featuring a substantial -39.82% adjustment to Framework components and a new 5% crafting fee, aiming to equalize incentives across LP components and reduce player costs amidst rising Solana fees. Holosim Season 1 Chapter 1 concluded successfully, acting as a complementary product to Starbased, not a substitute. It boasted an average of 1350 daily active users (DAU), 1850 weekly active users (WAU), and an average play session of 134.78 minutes. Freighting emerged as the most valuable quest per minute (6 ATLAS/min). The team acknowledged market challenges impacting Web3 gaming overall and emphasized that current Starbased adjustments are geared towards maintaining engagement until the paradigm-shifting C4 release, which is viewed as critical for long-term economic stability and growth, targeting over 10,000 DAU.\nI am looking for guests to be on the podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact me.\nI am launching a Star Atlas merch store. Please check it out at Intergalactic Gear.\nI am also creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic Coalition.\nStar Atlas Week in Review Podcast – Audio podcast where I break down everything that happened in Star Atlas the past week plus my analysis on what it all means. https://intergalacticherald.com/podcast/\nStar Atlas Event Recap – AI audio summary covering all the key moments from Star Atlas community events. https://intergalacticherald.com/podcast/star-atlas-event-recaps/\nStar Atlas Discord News Feed Newsletter – Star Atlas Discord announcements send directly to your email so you never miss out on updates from the Star Atlas team. https://intergalacticherald.com/star-atlas-discord-news-feed/\nIf you would like to support my efforts, donations can be sent to intergalacticherald.sol\nLatest podcast\nPodcast 176: Star Atlas Weekly Reviewby MattJuly 5, 2026In this episode, I recap the latest news of Star Atlas from the past week. Listen on Apple Podcasts Listen on Spotify I am looking for guests to be on the podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in… Read more: Podcast 176: Star Atlas Weekly Review\nLatest recap\nStar Atlas Event Recap 91: Atlas Brew #211by MattJuly 2, 2026In this episode, hear an AI summary of the latest Star Atlas community event. Full video recordings can be found on the YouTube channel of Star Atlas TV at https://www.youtube.com/@staratlastv. Listen on Apple Podcasts Listen on Spotify Star Atlas Event Summary Hi, this isn’t Matt with the Intergalactic Herald. I… Read more: Star Atlas Event Recap 91: Atlas Brew #211",
+  "content_hash": "fe459d5e7f255583a62e13f1eb3216219f6815a5857e588cfe0ad381965e207f",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [
+    "2025"
+  ],
+  "external_sources": [
+    {
+      "url": "https://www.youtube.com/watch?v=u-5VblYRyMk",
+      "anchor_text": "https://www.youtube.com/watch?v=u-5VblYRyMk"
+    },
+    {
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-199/",
+      "anchor_text": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-199/"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=6TQApuexgkY",
+      "anchor_text": "https://www.youtube.com/watch?v=6TQApuexgkY"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/economic-reports/star-atlas-economic-report-2025-q3",
+      "anchor_text": "https://experience.staratlas.com/newsroom/economic-reports/star-atlas-economic-report-2025-q3"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=fZa9MtrWr5Y",
+      "anchor_text": "https://www.youtube.com/watch?v=fZa9MtrWr5Y"
+    },
+    {
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    }
+  ],
+  "primary_source_relationships": [
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=u-5VblYRyMk",
+      "anchor_text": "https://www.youtube.com/watch?v=u-5VblYRyMk"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-199/",
+      "anchor_text": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-199/"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=6TQApuexgkY",
+      "anchor_text": "https://www.youtube.com/watch?v=6TQApuexgkY"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://experience.staratlas.com/newsroom/economic-reports/star-atlas-economic-report-2025-q3",
+      "anchor_text": "https://experience.staratlas.com/newsroom/economic-reports/star-atlas-economic-report-2025-q3"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=fZa9MtrWr5Y",
+      "anchor_text": "https://www.youtube.com/watch?v=fZa9MtrWr5Y"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    }
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Verify which outbound links are primary sources and preserve creator attribution during promotion.",
+      "Source lineage: attribution requires manual confirmation."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-newsletter-185&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 16684,
+    "elapsed_ms": 2634,
+    "attempts": [
+      {
+        "endpoint": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-newsletter-185&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "http_status": 200,
+        "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-newsletter-185&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "content_type": "application/json; charset=UTF-8",
+        "response_size": 16684,
+        "elapsed_ms": 2634
+      }
+    ]
+  },
+  "source_lineage": {
+    "publication": "Intergalactic Herald",
+    "publication_role": "CURATED_SUMMARY",
+    "relationship": "CURATED_SUMMARY_OF",
+    "primary_sources": [
+      {
+        "publication": "Weekly Star Atlas Newsletter 199",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-199/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article"
+      },
+      {
+        "publication": "Star Atlas Economic Report 2025 Q3",
+        "author": "UNKNOWN",
+        "url": "https://experience.staratlas.com/newsroom/economic-reports/star-atlas-economic-report-2025-q3",
+        "organization": "ATMTA / Star Atlas",
+        "evidence": "Direct outbound link preserved in article"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "publication": "Watch",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=u-5VblYRyMk",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Watch",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=6TQApuexgkY",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Watch",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=fZa9MtrWr5Y",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Intergalactic Gear",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticgear.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Intergalactic Coalition",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticcoalition.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      }
+    ],
+    "original_creators": [
+      "Aephia",
+      "ATMTA / Star Atlas"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Weekly Star Atlas Newsletter 199",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-199/"
+      },
+      {
+        "from": "Star Atlas Economic Report 2025 Q3",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://experience.staratlas.com/newsroom/economic-reports/star-atlas-economic-report-2025-q3"
+      }
+    ],
+    "lineage_confidence": "MEDIUM"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "source": {
+    "source_id": "SRC-AEPHIA-7901EECC244F24BA",
+    "url_id": "URL-7901EECC244F24BA",
+    "url": "https://aephia.com/star-atlas/introducing-atlasbase-your-new-star-atlas-companion/",
+    "inventory_url": "https://aephia.com/star-atlas/introducing-atlasbase-your-new-star-atlas-companion",
+    "title": "Introducing AtlasBase – Your New Star Atlas Companion",
+    "author": "Aephia",
+    "publisher": "Aephia",
+    "published_at": "2025-07-22T17:58:51",
+    "updated_at": "2025-07-22T18:04:50",
+    "retrieved_at": "2026-07-12T21:40:37.717770Z",
+    "document_type": "REFERENCE",
+    "source_role": "COMMUNITY_INSTITUTION"
+  },
+  "summary": {
+    "neutral_abstract": "If you’ve been around online games for a while, you may remember the Blizzard forums, in which case, you’ve probably used Blizzard’s legendary Blue Tracker. It is a simple feed that pulled together every developer post across countless threads. Whenever a Blizzard dev dropped a nugget of insight—or a cryptic teaser—it would light up in blue, standing out sharply against the sea of white community messages. And thanks to the Blue Tracker, you didn’t need to scour the forums to find it. It just showed up, neatly collected on a dedicated page. That iconic blue might’ve started with Blizzard (though no one ever officially confirmed it), but it didn’t end there. Over the years, many games and…",
+    "historical_value": "Contemporary Aephia coverage preserved as a community-institution source.",
+    "current_validity_warning": "Operational, economic, governance, and roadmap statements may be historical and require reconciliation with later primary sources."
+  },
+  "article_text": "If you’ve been around online games for a while, you may remember the Blizzard forums, in which case, you’ve probably used Blizzard’s legendary Blue Tracker.\nIt is a simple feed that pulled together every developer post across countless threads. Whenever a Blizzard dev dropped a nugget of insight—or a cryptic teaser—it would light up in blue, standing out sharply against the sea of white community messages. And thanks to the Blue Tracker, you didn’t need to scour the forums to find it. It just showed up, neatly collected on a dedicated page.\nThat iconic blue might’ve started with Blizzard (though no one ever officially confirmed it), but it didn’t end there. Over the years, many games and communities (such as Star Citizen and Star Atlas) have followed suit, using blue to highlight developer or team posts. And Blue Trackers? They became a staple for dedicated fans, cutting through the noise to deliver the signal. These days, almost every major studio uses some version of a Blue Tracker.\nBut there has been one glaring omission … until now.\nProudly presenting: AtlasBase!\nWe’re excited to unveil AtlasBase, a Star Atlas hub built by the community, for the community, and a new initiative by Aephia Industries.\nAt launch, AtlasBase features two (we hope) helpful tools:\n🟦 Blue Tracker\nOur take on the classic Blue Tracker, tailored for Star Atlas and its primary gathering place: Discord.\nWe track and surface messages from official team members across all key public channels. The feed is filterable, searchable, and saves you from endlessly scrolling to find a passing comment that might have been posted at 3 a.m. your time. Sure, Discord’s search works—but only if you already know what you’re looking for.\nAtlasBase – Team Tracker\nA Blue Tracker flips that around. It provides you with full awareness of everything being said by the team. No fear of missing out, no wondering what flew under the radar, you just check in and stay effortlessly up to date.\nThis only recently became possible thanks to Darwiin, ATMTA’s support superhero and a rising star in the vibe-coder scene, who built a Discord bot that exports team messages via API. Thanks to his work, we can now present official communications in a clear, centralized, and easy-to-follow manner.\n🌍 Meetup Dashboard (with 3D Map)\nStar Atlas is more than a game; it’s a global community.\nOver the past few years, we’ve seen only a handful of real-life meetups, with roughly half of them organized by Funcracker around the Solana Breakpoint conferences. But 2025 seems to mark a turning point!\nWith the DAO’s Ecosystem Fund opening up, and recent initiatives like the Community Meetup Fund (Iris Bounty: The Feast) being approved, we’re now seeing more organized gatherings, not necessarily taking place alongside events where the team has a presence.\nWith this new wave of energy, it was high time to bring some structure and visibility to what’s happening across the world.\nAtlasBase – Meetup Dashboard\nEnter the Meetup Dashboard.\nAt the top of the page, you’ll find a 3D Earth with pins marking upcoming meetup locations, a fun, interactive way to visualize the community’s global footprint. But the real utility lies just below: a chronological list of all upcoming events, complete with dates, locations, and links. Whether you’re organizing, attending, or just curious, it’s now easier than ever to stay in the loop.\n👉 Want your meetup featured? Just DM Funcracker (DMs are open) and we’ll get it added.\nWhy AtlasBase?\nAtlasBase is just getting started.\nOur vision is to grow it into a mainstay utility hub for the entire Star Atlas community, a living base of operations packed with valuable tools, data, and insights.\nThe Blue Tracker and Meetup Dashboard are just the opening salvo. There’s much more to come.\nSo go check it out. Bookmark it. Share it. And let us know what you want to see next.\nWelcome to AtlasBase!\n—The Aephia Team",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [
+    "2025"
+  ],
+  "external_sources": [
+    "https://aephia.com/wp-content/uploads/2025/07/AtlasBase-Flyer-1024x576.jpeg",
+    "https://aephia.com/wp-content/uploads/2025/07/AtlasBase-Flyer-1024x576.jpeg\"",
+    "https://aephia.com/wp-content/uploads/2025/07/AtlasBase-Flyer-1320x743.jpeg",
+    "https://aephia.com/wp-content/uploads/2025/07/AtlasBase-Flyer-1536x864.jpeg",
+    "https://aephia.com/wp-content/uploads/2025/07/AtlasBase-Flyer-300x169.jpeg",
+    "https://aephia.com/wp-content/uploads/2025/07/AtlasBase-Flyer-768x432.jpeg",
+    "https://aephia.com/wp-content/uploads/2025/07/AtlasBase-Flyer.jpeg",
+    "https://aephia.com/wp-content/uploads/2025/07/Screenshot-2025-07-22-at-19.29.27-163x300.png",
+    "https://aephia.com/wp-content/uploads/2025/07/Screenshot-2025-07-22-at-19.29.27-557x1024.png",
+    "https://aephia.com/wp-content/uploads/2025/07/Screenshot-2025-07-22-at-19.29.27-557x1024.png\"",
+    "https://aephia.com/wp-content/uploads/2025/07/Screenshot-2025-07-22-at-19.29.27-768x1411.png",
+    "https://aephia.com/wp-content/uploads/2025/07/Screenshot-2025-07-22-at-19.29.27-836x1536.png",
+    "https://aephia.com/wp-content/uploads/2025/07/Screenshot-2025-07-22-at-19.29.27.png",
+    "https://aephia.com/wp-content/uploads/2025/07/Screenshot-2025-07-22-at-19.45.59-1024x856.png",
+    "https://aephia.com/wp-content/uploads/2025/07/Screenshot-2025-07-22-at-19.45.59-1024x856.png\"",
+    "https://aephia.com/wp-content/uploads/2025/07/Screenshot-2025-07-22-at-19.45.59-300x251.png",
+    "https://aephia.com/wp-content/uploads/2025/07/Screenshot-2025-07-22-at-19.45.59-768x642.png",
+    "https://aephia.com/wp-content/uploads/2025/07/Screenshot-2025-07-22-at-19.45.59.png",
+    "https://atlasbase.io\"",
+    "https://govern.staratlas.com/proposals/f15380c9-8d3f-4849-8185-c29f4c72e961\""
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Article was modified after publication; review temporal claims against later evidence."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://aephia.com/wp-json/wp/v2/posts?slug=introducing-atlasbase-your-new-star-atlas-companion&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 9919,
+    "elapsed_ms": 526
+  }
+}

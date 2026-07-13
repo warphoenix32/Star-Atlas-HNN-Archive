@@ -1,0 +1,384 @@
+{
+  "source": {
+    "source_id": "SRC-IH-FCA4C5453DA44A90",
+    "url_id": "URL-FCA4C5453DA44A90",
+    "url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-73/",
+    "inventory_url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-73",
+    "title": "Star Atlas Weekly News Recap #73",
+    "author": "Intergalactic Herald",
+    "publisher": "Intergalactic Herald",
+    "published_at": "2023-08-13T17:00:44",
+    "updated_at": "2023-08-12T12:31:48",
+    "retrieved_at": "2026-07-12T22:09:53.306608Z",
+    "document_type": "NEWSLETTER",
+    "source_role": "CURATED_SUMMARY",
+    "source_classification": "CURATED_SUMMARY",
+    "classification_rationale": "Weekly newsletter/recap aggregates developments and linked sources.",
+    "wordpress_type": "posts"
+  },
+  "summary": {
+    "neutral_abstract": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week. We are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us. We are launching a Star Atlas merch store. Please check it out at Intergalactic",
+    "historical_value": "Contemporary Intergalactic Herald publication preserved with role and attribution boundaries.",
+    "current_validity_warning": "Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources."
+  },
+  "article_text": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week.\nWe are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us.\nWe are launching a Star Atlas merch store. Please check it out at Intergalactic Gear.\nWe are creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic Coalition.\nSTAR ATLAS – Updated Release Schedule!!\nAtlas Theory posted a video discussing the Star Atlas release schedule.\nStar Atlas Chatter #8 – Crew, Crafting & Golden Tickets! – Week in Review 7/30 – 8/5 2023\nRahMega posted a video about the past week of Star Atlas news.\nMetaverse Nomads #106 Star Atlas Recap\nMetaverse Nomads posted a video of their weekly Star Atlas live stream.\nStar Atlas Tufa Feist Deep Dive\nBeyond the Horizon posted a video looking at the Star Atlas Tufa Feist ship.\nStar Atlas : We Are Here\nPockThePirate posted a video about updates in Star Atlas.\nStar Atlas – What Is SAGE LABS??\nAtlas Theory posted a video explaining what is SAGE LABS.\nWEEKLY STAR ATLAS NEWSLETTER #91\nAephia published their weekly Star Atlas newsletter.\nStar Atlas DAO Governance Framework Ratification Proposal PIP 1 Reading\nOCG Thor posted a video reading the first Star Atlas DAO proposal.\nThe $1,500,000 Star Atlas Raffle.\nAtlas Theory posted a video discussing the upcoming Star Atlas raffle.\nThe Atlas Brew #74\nStar Atlas TV posted a video replay of the Atlas Brew #74.\nStar Atlas Brew #74 REMIX (part one: Sage Labs game mechanics)\nBeyond the Horizon posted a video remixing the latest Atlas Brew.\nStar Atlas Atlas Brew (part 2-Golden Tickets)\nBeyond the Horizon posted a second video remixing the latest Atlas Brew.",
+  "content_hash": "bcac20d88582f0793e74c6377cee52297c636810c740aa34b8519162d1a97fe5",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [
+    "2023"
+  ],
+  "external_sources": [
+    {
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=QVhFTvpDxvc",
+      "anchor_text": "Star Atlas release schedule"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=to9EHyPwBys",
+      "anchor_text": "past week of Star Atlas news"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=SuxzJRdtVZ8",
+      "anchor_text": "weekly Star Atlas live stream"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=QkyjdxtRkls",
+      "anchor_text": "Star Atlas Tufa Feist ship"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=cPhFdVxnWlM",
+      "anchor_text": "updates in Star Atlas"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=MVHovrjOzME",
+      "anchor_text": "what is SAGE LABS"
+    },
+    {
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-91/",
+      "anchor_text": "weekly Star Atlas newsletter"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=yZxj1pWLwRM",
+      "anchor_text": "first Star Atlas DAO proposal"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=4hcuBn1JUw0",
+      "anchor_text": "Star Atlas raffle"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=bq60EfUt0YI",
+      "anchor_text": "Atlas Brew #74"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=yAdLmKA-kVM",
+      "anchor_text": "remixing the latest Atlas Brew"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Qrhgd9ClRms",
+      "anchor_text": "remixing the latest Atlas Brew"
+    }
+  ],
+  "primary_source_relationships": [
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=QVhFTvpDxvc",
+      "anchor_text": "Star Atlas release schedule"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=to9EHyPwBys",
+      "anchor_text": "past week of Star Atlas news"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=SuxzJRdtVZ8",
+      "anchor_text": "weekly Star Atlas live stream"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=QkyjdxtRkls",
+      "anchor_text": "Star Atlas Tufa Feist ship"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=cPhFdVxnWlM",
+      "anchor_text": "updates in Star Atlas"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=MVHovrjOzME",
+      "anchor_text": "what is SAGE LABS"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-91/",
+      "anchor_text": "weekly Star Atlas newsletter"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=yZxj1pWLwRM",
+      "anchor_text": "first Star Atlas DAO proposal"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=4hcuBn1JUw0",
+      "anchor_text": "Star Atlas raffle"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=bq60EfUt0YI",
+      "anchor_text": "Atlas Brew #74"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=yAdLmKA-kVM",
+      "anchor_text": "remixing the latest Atlas Brew"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=Qrhgd9ClRms",
+      "anchor_text": "remixing the latest Atlas Brew"
+    }
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Verify which outbound links are primary sources and preserve creator attribution during promotion."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-73&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 6402,
+    "elapsed_ms": 1506,
+    "attempts": [
+      {
+        "endpoint": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-73&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "http_status": 200,
+        "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-73&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "content_type": "application/json; charset=UTF-8",
+        "response_size": 6402,
+        "elapsed_ms": 1506
+      }
+    ]
+  },
+  "source_lineage": {
+    "publication": "Intergalactic Herald",
+    "publication_role": "CURATED_SUMMARY",
+    "relationship": "CURATED_SUMMARY_OF",
+    "primary_sources": [
+      {
+        "publication": "Star Atlas release schedule",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=QVhFTvpDxvc",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas release schedule"
+      },
+      {
+        "publication": "past week of Star Atlas news",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=to9EHyPwBys",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: past week of Star Atlas news"
+      },
+      {
+        "publication": "weekly Star Atlas live stream",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=SuxzJRdtVZ8",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: weekly Star Atlas live stream"
+      },
+      {
+        "publication": "Star Atlas Tufa Feist ship",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=QkyjdxtRkls",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas Tufa Feist ship"
+      },
+      {
+        "publication": "updates in Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=cPhFdVxnWlM",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: updates in Star Atlas"
+      },
+      {
+        "publication": "what is SAGE LABS",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=MVHovrjOzME",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: what is SAGE LABS"
+      },
+      {
+        "publication": "weekly Star Atlas newsletter",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-91/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article with anchor text: weekly Star Atlas newsletter"
+      },
+      {
+        "publication": "first Star Atlas DAO proposal",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=yZxj1pWLwRM",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: first Star Atlas DAO proposal"
+      },
+      {
+        "publication": "Star Atlas raffle",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=4hcuBn1JUw0",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas raffle"
+      },
+      {
+        "publication": "Atlas Brew #74",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=bq60EfUt0YI",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: Atlas Brew #74"
+      },
+      {
+        "publication": "remixing the latest Atlas Brew",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=yAdLmKA-kVM",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: remixing the latest Atlas Brew"
+      },
+      {
+        "publication": "remixing the latest Atlas Brew",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=Qrhgd9ClRms",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: remixing the latest Atlas Brew"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "publication": "Intergalactic Gear",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticgear.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Intergalactic Coalition",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticcoalition.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      }
+    ],
+    "original_creators": [
+      "Aephia",
+      "Star Atlas"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Star Atlas release schedule",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=QVhFTvpDxvc"
+      },
+      {
+        "from": "past week of Star Atlas news",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=to9EHyPwBys"
+      },
+      {
+        "from": "weekly Star Atlas live stream",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=SuxzJRdtVZ8"
+      },
+      {
+        "from": "Star Atlas Tufa Feist ship",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=QkyjdxtRkls"
+      },
+      {
+        "from": "updates in Star Atlas",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=cPhFdVxnWlM"
+      },
+      {
+        "from": "what is SAGE LABS",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=MVHovrjOzME"
+      },
+      {
+        "from": "weekly Star Atlas newsletter",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-91/"
+      },
+      {
+        "from": "first Star Atlas DAO proposal",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=yZxj1pWLwRM"
+      },
+      {
+        "from": "Star Atlas raffle",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=4hcuBn1JUw0"
+      },
+      {
+        "from": "Atlas Brew #74",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=bq60EfUt0YI"
+      },
+      {
+        "from": "remixing the latest Atlas Brew",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=yAdLmKA-kVM"
+      },
+      {
+        "from": "remixing the latest Atlas Brew",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=Qrhgd9ClRms"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  }
+}

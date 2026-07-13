@@ -1,0 +1,165 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-99FFDCD8B3E413F8",
+    "url_id": "URL-99FFDCD8B3E413F8",
+    "url": "https://hologramnews.com/star-atlas-economy-shows-promising-growth-in-q1-2024",
+    "title": "Star Atlas Economy Shows Promising Growth in Q1 2024",
+    "author": "UNKNOWN",
+    "publisher": "Hologram News Network (HNN)",
+    "publication_identity": "HNN website (hologramnews.com)",
+    "published_at": "2024-05-31T18:36:08+00:00",
+    "updated_at": "2024-05-31T18:41:13+00:00",
+    "retrieved_at": "2026-07-13T00:09:05.333225Z",
+    "document_type": "ORIGINAL_REPORTING",
+    "source_role": "ORIGINAL_REPORTING",
+    "publication_role": "ORIGINAL_REPORTING",
+    "classification_rationale": "Publication reports a development without explicit interview, editorial, investigative, event, or reference framing."
+  },
+  "source_lineage": {
+    "publication": "HNN website (hologramnews.com)",
+    "publication_role": "ORIGINAL_REPORTING",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [
+      {
+        "publication": "Star Atlas",
+        "author": "UNKNOWN",
+        "url": "http://www.staratlas.com",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "https://staratlas.com/newsroom/economic-reports",
+        "author": "UNKNOWN",
+        "url": "https://staratlas.com/newsroom/economic-reports",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [],
+    "attribution_chain": [
+      {
+        "from": "Star Atlas",
+        "to": "HNN website (hologramnews.com)",
+        "relationship": "REPORTS_ON",
+        "url": "http://www.staratlas.com"
+      },
+      {
+        "from": "https://staratlas.com/newsroom/economic-reports",
+        "to": "HNN website (hologramnews.com)",
+        "relationship": "REPORTS_ON",
+        "url": "https://staratlas.com/newsroom/economic-reports"
+      }
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "This original reporting published by Hologram News Network (HNN) on 2024-05-31 documents “Star Atlas Economy Shows Promising Growth in Q1 2024.” Its surviving text addresses economy, guilds and DACs, game development, community, lore, technology. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "Star Atlas Economy Shows Promising Growth in Q1 2024\nBy KrigsPublished On: 31 May 2024Tags: Star Atlas Economics\nStar Atlas Economy Shows Promising Growth in Q1 2024\nStar Atlas just recently published its first quarterly economics report for 2024. The report details how the Star Atlas economy experienced significant growth and transformation in the first quarter of 2024, driven by increased interest in the broader cryptocurrency market and the transition from passive to active ATLAS emissions. This shift led to new incentives for players and contributed to growth across major economic indicators.\nKey Highlights:\nCouncil Request for Resources (RFRs): The introduction of RFRs, which accounted for 50% of ATLAS emissions, catalyzed shifts in gameplay preferences among factions, with players increasingly allocating production towards RFRs.\nFaction Fleet (SCORE) to Star Atlas Golden Era (SAGE) Transition: The transition from SCORE to SAGE is evident, with factions adapting to more involved gameplay loops.\nDecentralized Autonomous Corporations (DACs): DACs have cemented their presence in the Star Atlas ecosystem, with new visuals highlighting their comparative advantages in different resource categories.\nEconomic Indicators: Aggregate census wealth increased by 53.85%, and daily Star Atlas GDP averaged approximately $88,000. SAGE crafting output increased by over 200% due to a large increase in the SAGE labor force.\nFaction Dynamics:\nThe MUD faction led RFR production, followed closely by USTUR.\nUSTUR consistently demonstrated a high demand for resources essential in crafting RFRs.\nAll three factions (MUD, USTUR, and ONI) embraced the Council RFR system, with its share of total ATLAS emissions consistently hovering around 50%.\nStar Atlas Census:\nResidents and citizens saw notable advancements in wealth and participation.\nTotal wealth grew across all groups, with the most significant increase in citizen wealth (217%).\nAggregate wealth increased by 54% from the previous quarter.\nStar Atlas GDP:\nThe Star Atlas GDP, a new metric capturing spending through asset burn, averaged approximately $88,000 per day, projecting an annual GDP of $32,120,000.\nPer capita GDP averaged $17.63 daily.\nStar Atlas Golden Era (SAGE):\nLabor force participation remained mostly unchanged despite the introduction of Council RFR ATLAS emissions.\nThere was a noticeable shift in prioritization towards accelerating crafting operations.\nApproximately 40% of faction-specific ATLAS volume in the Galactic Marketplace was attributed to RFR redemptions.\nDecentralized Autonomous Corporations (DACs):\nThe top five DACs showed distinct warping behavior and resource production patterns.\nThe Club emerged as the wealthiest and most diverse DAC.\nRome led in mining operations and component production.\nXborg monopolized SDU production at scale.\nConclusion:\nThe Star Atlas economy is evolving rapidly, with a clear shift towards active SAGE gameplay and the growing importance of DACs. The introduction of new features and incentives is driving engagement and economic activity, creating a promising outlook for the future of the Star Atlas metaverse.\nThe full report can be read at https://staratlas.com/newsroom/economic-reports\nAbout the Author: Krigs\nAn ardent supporter of emerging technologies, Krigs has been covering blockchain games for over two years and believes passionately in their power to revolutionize our collective gaming experience.\nStar Atlas Discount\nSave 10% on Star Atlas with the Starpath Referral Program\nrelated\nVZUS Manufacturers Launch Their First Capital Ship\nStar Atlas Tops Ethereum and Polygon For Daily Transactions\nnews via inbox\nGet news from the Hologram first",
+  "content_hash": "2c8c75f834e99c31d9b3b2e1d5c0e9129ddd4f115ce8647330c1076b8426451c",
+  "major_topics": [
+    "economy",
+    "guilds and DACs",
+    "game development",
+    "community",
+    "lore",
+    "technology"
+  ],
+  "entities": [
+    "ATLAS",
+    "Krigs",
+    "SAGE",
+    "SCORE",
+    "Star Atlas",
+    "StarPath"
+  ],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "SAGE",
+    "SCORE",
+    "Star Atlas",
+    "ATLAS",
+    "StarPath"
+  ],
+  "governance_items": [],
+  "lore_items": [
+    "MUD",
+    "ONI",
+    "Ustur"
+  ],
+  "actors": [
+    "Krigs"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://hologramnews.com/star-atlas-economy-shows-promising-growth-in-q1-2024/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://hologramnews.com/author/krigs/",
+      "anchor_text": "Krigs"
+    },
+    {
+      "url": "https://hologramnews.com/tag/economics/",
+      "anchor_text": "Star Atlas Economics"
+    },
+    {
+      "url": "http://www.staratlas.com",
+      "anchor_text": "Star Atlas"
+    },
+    {
+      "url": "https://staratlas.com/newsroom/economic-reports",
+      "anchor_text": "https://staratlas.com/newsroom/economic-reports"
+    },
+    {
+      "url": "https://hologramnews.com/starpath-save-10-on-star-atlas/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://hologramnews.com/vzus-manufacturers-launch-their-first-capital-ship/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://hologramnews.com/star-atlas-tops-ethereum-and-polygon-for-daily-transactions/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://hologramnews.com/galia-merchants/",
+      "anchor_text": ""
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "UNKNOWN",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Author is not explicit in the surviving publication metadata."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://web.archive.org/web/20240622133143id_/https://hologramnews.com/star-atlas-economy-shows-promising-growth-in-q1-2024/",
+    "final_url": "https://web.archive.org/web/20240622133143id_/https://hologramnews.com/star-atlas-economy-shows-promising-growth-in-q1-2024/",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "response_size": 200466,
+    "elapsed_ms": 5502,
+    "retrieval_mode": "INTERNET_ARCHIVE",
+    "archive_capture": {
+      "timestamp": "20240622133143",
+      "original": "https://hologramnews.com/star-atlas-economy-shows-promising-growth-in-q1-2024/",
+      "digest": "DWK2VQLHHI74JM5K2GOE2SIPOH2VDZ3N"
+    }
+  }
+}

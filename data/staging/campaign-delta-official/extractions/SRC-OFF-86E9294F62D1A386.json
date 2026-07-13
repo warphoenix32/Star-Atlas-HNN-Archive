@@ -1,0 +1,273 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-86E9294F62D1A386",
+    "url": "https://build.staratlas.com/dev-resources/approach-and-philosophy",
+    "title": "Star Atlas Build",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Build / ATMTA",
+    "published_at": null,
+    "updated_at": "2026-04-16T16:32:35.000Z",
+    "original_date_text": "2026-04-16T16:32:35.000Z",
+    "document_type": "TECHNICAL_DOCUMENTATION",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Build / ATMTA",
+    "publication_role": "TECHNICAL_DOCUMENTATION",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Star Atlas Build / ATMTA"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official technical documentation titled “Star Atlas Build.” This record preserves what Star Atlas Build / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Approach and Philosophy | Star Atlas Build\nSkip to contentStar Atlas BuildSearchK\nAppearance\nMenuReturn to top\nApproach and Philosophy ​\nWARNING\nThis section contains forward-looking statements. Please see our Disclaimers page for more information.\nPermissionless Gameplay ​\nFrom an engineering perspective, Star Atlas is designed to be a collection of decentralized gaming systems using the Solana blockchain to tokenize the digital ownership of in-game assets, with the following principles:\nStar Atlas should never take direct custody of a user’s digital assets\nThe authoritative state of the video game should be derived from decentralized state\nNo game mechanic which has economic implications should execute in a centralized system with no oversight\nBecause of the difficulty involved in operating game logic on the blockchain layer, most studios in the blockchain gaming space follow a closed access model. They take custody of their user’s tokens into a game-owned wallet and allow logic executing on centralized servers to determine game state outcomes.\nSimilar to centralized cryptocurrency exchanges, centralized blockchain game servers expose risk inherent to web2 gaming solutions. Exploitation of game bugs could lead to the loss of a user’s assets, or even worse the collapse of the game’s digital economy.\nOpen access vs. closed access blockchain gaming architectures ​\nOpen Access, Permissionless\nClosed Access, Centralized\nInteroperability\nSeamless\nPermissioned + collaborative\nPersistence\nLife of the blockchain\nLife of the game studio\nSecurity\nImplicit\nVulnerable to traditional attack vectors\nSolution Space Maturity\nGreenfield\nTried and tested\nScalability\nScales with the decentralized network\nScales with traditional server architecture\nPioneers of Blockchain Gaming Systems ​\nATMTA, Inc. (“ATMTA”) fully embraces the capabilities of blockchain protocols in order to bring their entire value to Star Atlas. Our approach is to create a set of both proprietary and generic blockchain systems which allow game mechanics to execute on the blockchain layer.\nFor example:\nPlayer experience points\nLoot / item drop tables\nGame reputation\nProprietary systems which will allow Star Atlas game mechanics to execute on the blockchain, for example:\nA coordinate system to track the location of game entities e.g. planets, player ships, NPC traders\nPlayer-versus-player engagements in space combat\nQuests and missions which ask the player to discover, retrieve, explore, or fight their way across the galaxy\nA Fun First Approach ​\nThe utility of in-game items requires the game mechanics to be fun, engaging, and replayable. We do not compromise in the quality of product users expect. Instead, ATMTA is creating an experience that is aware of both the capabilities and pitfalls of blockchain technology and is tailored to fit.\nThe approach to game design includes two layers:\nA grand strategy gaming experience which executes on the blockchain layer\nA social experience delivered by traditional game servers\nThe Gaming and Economic Experience ​\nThe core video game loop is that of a grand strategy game. In this experience, players have the opportunity to participate in missions, earn rewards, and grow their wealth inside the Star Atlas universe. With this style of gameplay, a high server tickrate is not necessary for a full and engaging experience. Solana publishes new blocks approximately twice per second, which is more than fast enough to facilitate the entire game design.\nBecause these types of economic-impacting mechanics execute and are controlled on the blockchain layer the value of the player assets will persist for the life of the blockchain and are not contingent upon the continued maintenance of any corporate entity.\nThe Social Experience ​\nThe social experience is delivered in real time where players can interact with each other in a digital universe powered by traditional game servers. Data can be read from the blockchain in real time to validate the ownership of assets, and then players can use those assets as part of their experience. This might look like racing around the solar system in your favorite spaceship or decorating your habitation with tokenized collectibles.",
+  "content_hash": "8afb1f62abf494d08e9b25b7ee5fbef942087fb5557113e8c5a3a237a4ffd8d3",
+  "entities": [
+    "ATLAS",
+    "ATMTA",
+    "CORE",
+    "Solana"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-86E9294F62D1A386-01",
+      "text": "Approach and Philosophy | Star Atlas Build Skip to contentStar Atlas BuildSearchK Appearance MenuReturn to top Approach and Philosophy ​ WARNING This section contains forward-looking statements.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-86E9294F62D1A386",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-86E9294F62D1A386-02",
+      "text": "Please see our Disclaimers page for more information.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-86E9294F62D1A386",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-86E9294F62D1A386-03",
+      "text": "They take custody of their user’s tokens into a game-owned wallet and allow logic executing on centralized servers to determine game state outcomes.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-86E9294F62D1A386",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-86E9294F62D1A386-04",
+      "text": "Similar to centralized cryptocurrency exchanges, centralized blockchain game servers expose risk inherent to web2 gaming solutions.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-86E9294F62D1A386",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-86E9294F62D1A386-05",
+      "text": "Exploitation of game bugs could lead to the loss of a user’s assets, or even worse the collapse of the game’s digital economy.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-86E9294F62D1A386",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-86E9294F62D1A386-06",
+      "text": "closed access blockchain gaming architectures ​ Open Access, Permissionless Closed Access, Centralized Interoperability Seamless Permissioned + collaborative Persistence Life of the blockchain Life of the game studio Security Implicit Vulnerable to traditional attack vectors Solution Space Maturity Greenfield Tried and tested Scalability Scales with the decentralized network Scales with traditional server architecture Pioneers of Blockchain Gaming Systems ​ ATMTA, Inc.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-86E9294F62D1A386",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-86E9294F62D1A386-07",
+      "text": "(“ATMTA”) fully embraces the capabilities of blockchain protocols in order to bring their entire value to Star Atlas.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-86E9294F62D1A386",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-86E9294F62D1A386-08",
+      "text": "Our approach is to create a set of both proprietary and generic blockchain systems which allow game mechanics to execute on the blockchain layer.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-86E9294F62D1A386",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-86E9294F62D1A386-09",
+      "text": "For example: Player experience points Loot / item drop tables Game reputation Proprietary systems which will allow Star Atlas game mechanics to execute on the blockchain, for example: A coordinate system to track the location of game entities e.g.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-86E9294F62D1A386",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-86E9294F62D1A386-10",
+      "text": "planets, player ships, NPC traders Player-versus-player engagements in space combat Quests and missions which ask the player to discover, retrieve, explore, or fight their way across the galaxy A Fun First Approach ​ The utility of in-game items requires the game mechanics to be fun, engaging, and replayable.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-86E9294F62D1A386",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-86E9294F62D1A386-11",
+      "text": "We do not compromise in the quality of product users expect.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-86E9294F62D1A386",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-86E9294F62D1A386-12",
+      "text": "Instead, ATMTA is creating an experience that is aware of both the capabilities and pitfalls of blockchain technology and is tailored to fit.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-86E9294F62D1A386",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-86E9294F62D1A386-13",
+      "text": "The approach to game design includes two layers: A grand strategy gaming experience which executes on the blockchain layer A social experience delivered by traditional game servers The Gaming and Economic Experience ​ The core video game loop is that of a grand strategy game.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-86E9294F62D1A386",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-86E9294F62D1A386-14",
+      "text": "In this experience, players have the opportunity to participate in missions, earn rewards, and grow their wealth inside the Star Atlas universe.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-86E9294F62D1A386",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-86E9294F62D1A386-15",
+      "text": "With this style of gameplay, a high server tickrate is not necessary for a full and engaging experience.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-86E9294F62D1A386",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "CORE",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [
+    "ATMTA",
+    "Solana"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://build.staratlas.com/dev-resources/approach-and-philosophy",
+      "anchor_text": "Skip to content"
+    },
+    {
+      "url": "https://build.staratlas.com/",
+      "anchor_text": "Star Atlas Build"
+    },
+    {
+      "url": "https://discord.com/invite/staratlas",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://build.staratlas.com/legal/disclaimers",
+      "anchor_text": "Disclaimers"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://build.staratlas.com/dev-resources/approach-and-philosophy",
+      "anchor_text": "Skip to content"
+    },
+    {
+      "url": "https://build.staratlas.com/",
+      "anchor_text": "Star Atlas Build"
+    },
+    {
+      "url": "https://build.staratlas.com/legal/disclaimers",
+      "anchor_text": "Disclaimers"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://build.staratlas.com/dev-resources/approach-and-philosophy",
+    "final_url": "https://build.staratlas.com/dev-resources/approach-and-philosophy",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 37759,
+    "retrieved_at": "2026-07-13T01:04:28.713410Z",
+    "elapsed_ms": 127
+  }
+}

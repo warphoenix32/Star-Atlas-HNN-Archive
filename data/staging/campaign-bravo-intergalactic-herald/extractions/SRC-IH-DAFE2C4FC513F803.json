@@ -1,0 +1,338 @@
+{
+  "source": {
+    "source_id": "SRC-IH-DAFE2C4FC513F803",
+    "url_id": "URL-DAFE2C4FC513F803",
+    "url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-97/",
+    "inventory_url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-97",
+    "title": "Star Atlas Weekly News Recap #97",
+    "author": "Intergalactic Herald",
+    "publisher": "Intergalactic Herald",
+    "published_at": "2024-01-28T17:00:00",
+    "updated_at": "2024-01-27T18:49:36",
+    "retrieved_at": "2026-07-12T22:08:35.679680Z",
+    "document_type": "NEWSLETTER",
+    "source_role": "CURATED_SUMMARY",
+    "source_classification": "CURATED_SUMMARY",
+    "classification_rationale": "Weekly newsletter/recap aggregates developments and linked sources.",
+    "wordpress_type": "posts"
+  },
+  "summary": {
+    "neutral_abstract": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week. We are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us. We are launching a Star Atlas merch store. Please check it out at Intergalactic",
+    "historical_value": "Contemporary Intergalactic Herald publication preserved with role and attribution boundaries.",
+    "current_validity_warning": "Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources."
+  },
+  "article_text": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week.\nWe are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us.\nWe are launching a Star Atlas merch store. Please check it out at Intergalactic Gear.\nWe are creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic Coalition.\nIf you would like to support our efforts, donations can be sent to intergalacticherald.sol\nMetaverse Nomads #130 Star Atlas Stress Test Review\nMetaverse Nomads posted a video of their weekly Star Atlas livestream.\nStar Atlas Throwdown: SCORE VS SAGE (part 2)\nBeyond the Horizon posted a video of part 2 of his SCORE versus SAGE training series.\nWEEKLY STAR ATLAS NEWSLETTER #113\nAephia published their weekly Star Atlas newsletter.\nStar Atlas Throwdown!: SCORE VS SAGE (Part 3)\nBeyond the Horizon posted a video of part 3 of his SCORE versus SAGE training series.\nAtlas Brew #96\nStar Atlas TV posted a video replay of the latest Atlas Brew.\nStar Atlas: SCORE VS SAGE – Lab Assistant Tutorial\nBeyond the Horizon posted a video tutorial of the Lab Assistant tool.\nStar Atlas RECAP – Atlas Brew #96 w/ the ECON Team\nRahMega posted a video recap of the latest Atlas Brew.\nStar Atlas Community Week: A Galactic Celebration\nStar Atlas published an article about the upcoming Community Week.\nSTAR ATLAS #218 An Intruder, Giant Announcement & Automation!\nMetaVerse Explorer posted a video recap of latest Star Atlas news.\nPress Release: The Council of Peace Assembly (COPA) Returns for Its Second Edition\nStar Atlas published an article about an upcoming Star Atlas event.",
+  "content_hash": "43cae6fbabf0dc5ca1e67e43f61c810d729ad42da8994616cd775ce47b3f7838",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [],
+  "external_sources": [
+    {
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Gt0CwT5DfcI",
+      "anchor_text": "weekly Star Atlas livestream"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=LP4STPGyhLg",
+      "anchor_text": "video of part 2"
+    },
+    {
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-113/",
+      "anchor_text": "weekly Star Atlas newsletter"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=SoZ6LlMiIEg",
+      "anchor_text": "video of part 3"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=PRG-BicrWlI",
+      "anchor_text": "latest Atlas Brew"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=9FTvp0DSbUk",
+      "anchor_text": "Lab Assistant tool"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=bzA8MX52eB4",
+      "anchor_text": "latest Atlas Brew"
+    },
+    {
+      "url": "https://medium.com/star-atlas/star-atlas-community-week-a-galactic-celebration-cd0634b6c3fc",
+      "anchor_text": "Community Week"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Y1spMfOfwqg",
+      "anchor_text": "Star Atlas news"
+    },
+    {
+      "url": "https://medium.com/star-atlas/press-release-the-council-of-peace-assembly-copa-returns-for-its-second-edition-fda9507535b0",
+      "anchor_text": "upcoming Star Atlas event"
+    }
+  ],
+  "primary_source_relationships": [
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=Gt0CwT5DfcI",
+      "anchor_text": "weekly Star Atlas livestream"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=LP4STPGyhLg",
+      "anchor_text": "video of part 2"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-113/",
+      "anchor_text": "weekly Star Atlas newsletter"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=SoZ6LlMiIEg",
+      "anchor_text": "video of part 3"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=PRG-BicrWlI",
+      "anchor_text": "latest Atlas Brew"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=9FTvp0DSbUk",
+      "anchor_text": "Lab Assistant tool"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=bzA8MX52eB4",
+      "anchor_text": "latest Atlas Brew"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://medium.com/star-atlas/star-atlas-community-week-a-galactic-celebration-cd0634b6c3fc",
+      "anchor_text": "Community Week"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=Y1spMfOfwqg",
+      "anchor_text": "Star Atlas news"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://medium.com/star-atlas/press-release-the-council-of-peace-assembly-copa-returns-for-its-second-edition-fda9507535b0",
+      "anchor_text": "upcoming Star Atlas event"
+    }
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Verify which outbound links are primary sources and preserve creator attribution during promotion."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-97&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 5958,
+    "elapsed_ms": 1913,
+    "attempts": [
+      {
+        "endpoint": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-97&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "http_status": 200,
+        "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-97&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "content_type": "application/json; charset=UTF-8",
+        "response_size": 5958,
+        "elapsed_ms": 1913
+      }
+    ]
+  },
+  "source_lineage": {
+    "publication": "Intergalactic Herald",
+    "publication_role": "CURATED_SUMMARY",
+    "relationship": "CURATED_SUMMARY_OF",
+    "primary_sources": [
+      {
+        "publication": "weekly Star Atlas livestream",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=Gt0CwT5DfcI",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: weekly Star Atlas livestream"
+      },
+      {
+        "publication": "video of part 2",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=LP4STPGyhLg",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: video of part 2"
+      },
+      {
+        "publication": "weekly Star Atlas newsletter",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-113/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article with anchor text: weekly Star Atlas newsletter"
+      },
+      {
+        "publication": "video of part 3",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=SoZ6LlMiIEg",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: video of part 3"
+      },
+      {
+        "publication": "latest Atlas Brew",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=PRG-BicrWlI",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest Atlas Brew"
+      },
+      {
+        "publication": "Lab Assistant tool",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=9FTvp0DSbUk",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Lab Assistant tool"
+      },
+      {
+        "publication": "latest Atlas Brew",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=bzA8MX52eB4",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest Atlas Brew"
+      },
+      {
+        "publication": "Community Week",
+        "author": "UNKNOWN",
+        "url": "https://medium.com/star-atlas/star-atlas-community-week-a-galactic-celebration-cd0634b6c3fc",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Community Week"
+      },
+      {
+        "publication": "Star Atlas news",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=Y1spMfOfwqg",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas news"
+      },
+      {
+        "publication": "upcoming Star Atlas event",
+        "author": "UNKNOWN",
+        "url": "https://medium.com/star-atlas/press-release-the-council-of-peace-assembly-copa-returns-for-its-second-edition-fda9507535b0",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: upcoming Star Atlas event"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "publication": "Intergalactic Gear",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticgear.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Intergalactic Coalition",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticcoalition.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      }
+    ],
+    "original_creators": [
+      "Aephia",
+      "Star Atlas"
+    ],
+    "attribution_chain": [
+      {
+        "from": "weekly Star Atlas livestream",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=Gt0CwT5DfcI"
+      },
+      {
+        "from": "video of part 2",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=LP4STPGyhLg"
+      },
+      {
+        "from": "weekly Star Atlas newsletter",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-113/"
+      },
+      {
+        "from": "video of part 3",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=SoZ6LlMiIEg"
+      },
+      {
+        "from": "latest Atlas Brew",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=PRG-BicrWlI"
+      },
+      {
+        "from": "Lab Assistant tool",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=9FTvp0DSbUk"
+      },
+      {
+        "from": "latest Atlas Brew",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=bzA8MX52eB4"
+      },
+      {
+        "from": "Community Week",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://medium.com/star-atlas/star-atlas-community-week-a-galactic-celebration-cd0634b6c3fc"
+      },
+      {
+        "from": "Star Atlas news",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=Y1spMfOfwqg"
+      },
+      {
+        "from": "upcoming Star Atlas event",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://medium.com/star-atlas/press-release-the-council-of-peace-assembly-copa-returns-for-its-second-edition-fda9507535b0"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  }
+}

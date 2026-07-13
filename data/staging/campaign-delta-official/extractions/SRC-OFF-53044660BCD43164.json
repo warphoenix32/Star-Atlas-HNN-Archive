@@ -1,0 +1,135 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-53044660BCD43164",
+    "url": "https://build.staratlas.com/dev-resources/star-frame",
+    "title": "Star Atlas Build",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Build / ATMTA",
+    "published_at": null,
+    "updated_at": "2026-04-16T16:32:35.000Z",
+    "original_date_text": "2026-04-16T16:32:35.000Z",
+    "document_type": "TECHNICAL_DOCUMENTATION",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Build / ATMTA",
+    "publication_role": "TECHNICAL_DOCUMENTATION",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://github.com/staratlasmeta/star_frame",
+        "anchor_text": "https://github.com/staratlasmeta/star_frame"
+      },
+      {
+        "url": "https://crates.io/crates/star_frame",
+        "anchor_text": "https://crates.io/crates/star_frame"
+      },
+      {
+        "url": "https://docs.rs/star_frame/latest/star_frame/",
+        "anchor_text": "https://docs.rs/star_frame/latest/star_frame/"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Build / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official technical documentation titled “Star Atlas Build.” This record preserves what Star Atlas Build / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Star Frame | Star Atlas Build\nSkip to contentStar Atlas BuildSearchK\nAppearance\nMenuReturn to top\nStar Frame ​\nLinks ​\nGithub Repository\nhttps://github.com/staratlasmeta/star_frame\nRust Crate\nhttps://crates.io/crates/star_frame\nRust Documentation\nhttps://docs.rs/star_frame/latest/star_frame/",
+  "content_hash": "e790370c8e16c68da900c41a894fb8e151af8ec3f82150624945e07e131c31a7",
+  "entities": [
+    "ATLAS",
+    "Star Frame"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-53044660BCD43164-01",
+      "text": "Star Frame | Star Atlas Build Skip to contentStar Atlas BuildSearchK Appearance MenuReturn to top Star Frame ​ Links ​ Github Repository https://github.com/staratlasmeta/star_frame Rust Crate https://crates.io/crates/star_frame Rust Documentation https://docs.rs/star_frame/latest/star_frame/",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-53044660BCD43164",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "ATLAS",
+    "Star Frame"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://build.staratlas.com/dev-resources/star-frame",
+      "anchor_text": "Skip to content"
+    },
+    {
+      "url": "https://build.staratlas.com/",
+      "anchor_text": "Star Atlas Build"
+    },
+    {
+      "url": "https://discord.com/invite/staratlas",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://github.com/staratlasmeta/star_frame",
+      "anchor_text": "https://github.com/staratlasmeta/star_frame"
+    },
+    {
+      "url": "https://crates.io/crates/star_frame",
+      "anchor_text": "https://crates.io/crates/star_frame"
+    },
+    {
+      "url": "https://docs.rs/star_frame/latest/star_frame/",
+      "anchor_text": "https://docs.rs/star_frame/latest/star_frame/"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://build.staratlas.com/dev-resources/star-frame",
+      "anchor_text": "Skip to content"
+    },
+    {
+      "url": "https://build.staratlas.com/",
+      "anchor_text": "Star Atlas Build"
+    },
+    {
+      "url": "https://github.com/staratlasmeta/star_frame",
+      "anchor_text": "https://github.com/staratlasmeta/star_frame"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://build.staratlas.com/dev-resources/star-frame",
+    "final_url": "https://build.staratlas.com/dev-resources/star-frame",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 32075,
+    "retrieved_at": "2026-07-13T01:04:30.436546Z",
+    "elapsed_ms": 145
+  }
+}

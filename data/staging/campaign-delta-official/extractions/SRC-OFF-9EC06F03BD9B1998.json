@@ -1,0 +1,141 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-9EC06F03BD9B1998",
+    "url": "https://build.staratlas.com/dev-resources/apis-and-data/galaxy-api/items",
+    "title": "Star Atlas Build",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Build / ATMTA",
+    "published_at": null,
+    "updated_at": "2026-04-16T16:32:35.000Z",
+    "original_date_text": "2026-04-16T16:32:35.000Z",
+    "document_type": "TECHNICAL_DOCUMENTATION",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Build / ATMTA",
+    "publication_role": "TECHNICAL_DOCUMENTATION",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Star Atlas Build / ATMTA"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official technical documentation titled “Star Atlas Build.” This record preserves what Star Atlas Build / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Items | Star Atlas Build\nSkip to contentStar Atlas BuildSearchK\nAppearance\nMenuReturn to top\nItems ​\nFetch a list of all Star Atlas items ​\nGET\nhttps://galaxy.staratlas.com/nfts\n200: OK ​\njavascript\n{\n\"_id\": \"6083562f1b5bc51379ab9e21\",\n\"deactivated\": false,\n\"name\": \"Star Atlas\",\n\"description\": \"“The first to arrive at the universe’s next frontier is the first to knock on the gates of prosperity.” — Ustur Armi.eldr\",\n\"image\": \"https://storage.googleapis.com/nft-assets/ReBirth/poster-14/star-atlas-movie.jpg\",\n\"media\": {\n\"qrInstagram\": \"https://www.instagram.com/ar/904004656822201/\",\n\"qrFacebook\": \"https://www.facebook.com/fbcameraeffects/tryit/904004656822201/\",\n\"sketchfab\": \"0e0eb24342d64579836aa9ea2d768bcc\",\n\"audio\": \"https://storage.googleapis.com/nft-assets/ReBirth/poster-14/star-atlas-movie.wav\",\n\"thumbnailUrl\": \"\",\n\"gallery\": null\n},\n\"attributes\": {\n\"itemType\": \"collectible\",\n\"tier\": 14,\n\"class\": \"poster\",\n\"category\": \"rebirth\",\n\"score\": 6,\n\"rarity\": \"anomaly\",\n\"musician\": \"The Beat of the Metaverse\"\n},\n\"symbol\": \"STAR\",\n\"markets\": [\n{\n\"_id\": \"6131c9ff5d6a474a6cc488ad\",\n\"id\": \"G919S8193DGxgt133dkwiMnEbd7AK5MnjTjfaiZLM9HS\",\n\"quotePair\": \"USDC\"\n}\n],\n\"totalSupply\": 4,\n\"mint\": \"BrzwWsG845VttbTsacZMLKhyc2jAZU12MaPkTYrJHoqm\",\n\"network\": \"mainnet-beta\",\n\"tradeSettings\": {\n\"expireTime\": 1627164001,\n\"saleTime\": 1627164000,\n\"vwap\": 0\n},\n\"airdrops\": [],\n\"primarySales\": [],\n\"updatedAt\": \"2022-02-01T05:20:46.815Z\",\n\"collection\": { \"name\": \"Star Atlas\", \"family\": \"Star Atlas\" },\n\"slots\": { \"crewSlots\": null, \"componentSlots\": null, \"moduleSlots\": null },\n\"id\": \"6083562f1b5bc51379ab9e21\"\n},\n{\n\"_id\": \"6083562f1b5bc51379ab9e1c\",\n\"deactivated\": false,\n\"name\": \"The Last Stand\",\n\"description\": \"Their Titan class warship served as a fortified city to protect them. Built in retaliation for the decimation of their species and the slaying of their leader, the Sogmian behemoth was a galactic alpha predator. This weapon of war was so intimidating it caused the other factions to encourage peace talks.\",\n\"image\": \"https://storage.googleapis.com/nft-assets/ReBirth/poster-9/the-last-stand.jpg\",\n\"media\": {\n\"qrInstagram\": \"https://www.instagram.com/ar/232776338363268/\",\n\"qrFacebook\": \"https://www.facebook.com/fbcameraeffects/tryit/232776338363268/\",\n\"sketchfab\": \"72f9b5ef7df54805ac8748fde899d652\",\n\"audio\": \"https://storage.googleapis.com/nft-assets/ReBirth/poster-9/the-last-stand.mp3\",\n\"thumbnailUrl\": \"\",\n\"gallery\": null\n},\n\"attributes\": {\n\"itemType\": \"collectible\",\n\"tier\": 9,\n\"class\": \"poster\",\n\"category\": \"rebirth\",\n\"score\": 4,\n\"rarity\": \"legendary\",\n\"musician\": \"Blond:ish\"\n},\n\"symbol\": \"TLS\",\n\"markets\": [\n{\n\"_id\": \"6131c9ff5d6a474a6cc4889e\",\n\"id\": \"AVHndcEDUjP9Liz5dfcvAPAMffADXG6KMPn8sWB1XhFQ\",\n\"quotePair\": \"USDC\"\n}\n],\n\"totalSupply\": 5,\n\"mint\": \"Hfjgcs9ix17EwgXVVbKjo6NfMm2CXfr34cwty3xWARUm\",\n\"network\": \"mainnet-beta\",\n\"tradeSettings\": {\n\"expireTime\": 1624226400,\n\"saleTime\": 1624140000,\n\"vwap\": 0\n},\n\"airdrops\": [],\n\"primarySales\": [],\n\"updatedAt\": \"2022-02-01T05:20:47.953Z\",\n\"collection\": { \"name\": \"The Last Stand\", \"family\": \"Star Atlas\" },\n\"slots\": { \"crewSlots\": null, \"componentSlots\": null, \"moduleSlots\": null },\n\"id\": \"6083562f1b5bc51379ab9e1c\"\n},\n{\n\"_id\": \"6083562f1b5bc51379ab9e20\",\n\"deactivated\": false,\n\"name\": \"Om Photoli\",\n\"description\": \"The Photoli race are highly advanced aliens of light. Their natural state is navigating the universe in the form of light energy. Their ability to maintain a corporeal form with amorphous anatomical shapes and halos conveys expressions to other species. During galactic explorations, they are known to be confused with deities by more primitive civilizations. One Photoli rogue scout in particular played a pivotal role in advancing humankind to the stars.\",\n\"image\": \"https://storage.googleapis.com/nft-assets/ReBirth/poster-13/om-photoli.png\",\n\"media\": {\n\"qrInstagram\": \"https://www.instagram.com/ar/572586480433225/\",\n\"qrFacebook\": \"https://www.facebook.com/fbcameraeffects/tryit/572586480433225/\",\n\"sketchfab\": \"f122414c011545f79b57b69c9df83edf\",\n\"audio\": \"https://storage.googleapis.com/nft-assets/ReBirth/poster-13/om-photoli.mp3\",\n\"thumbnailUrl\": \"\",\n\"gallery\": null\n},\n\"attributes\": {\n\"itemType\": \"collectible\",\n\"tier\": 13,\n\"class\": \"poster\",\n\"category\": \"rebirth\",\n\"score\": 5,\n\"rarity\": \"anomaly\",\n\"musician\": \"deadmau5\"\n},\n\"symbol\": \"OMPH\",\n\"markets\": [\n{\n\"_id\": \"6131c9ff5d6a474a6cc488aa\",\n\"id\": \"HdvXMScwAQQh9pEvLZjuaaeJcLTmixxYoMFefeqHFn2E\",\n\"quotePair\": \"USDC\"\n}\n],\n\"totalSupply\": 4,\n\"mint\": \"DB76aiNQeLzHPwvFhzgwfpe6HGHCDTQ6snW6UD7AnHid\",\n\"network\": \"mainnet-beta\",\n\"tradeSettings\": {\n\"expireTime\": 1626570000,\n\"saleTime\": 1626559200,\n\"vwap\": 0\n},\n\"airdrops\": [],\n\"primarySales\": [],\n\"updatedAt\": \"2022-02-01T05:20:49.085Z\",\n\"collection\": { \"name\": \"Om Photoli\", \"family\": \"Star Atlas\" },\n\"slots\": { \"crewSlots\": null, \"componentSlots\": null, \"moduleSlots\": null },\n\"id\": \"6083562f1b5bc51379ab9e20\"\n},",
+  "content_hash": "43e998657624c1e5c5d667cd770b1adf6db8aac0c8c55aba2f0a452b0dcd678a",
+  "entities": [
+    "ATLAS",
+    "SCORE"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-9EC06F03BD9B1998-01",
+      "text": "Built in retaliation for the decimation of their species and the slaying of their leader, the Sogmian behemoth was a galactic alpha predator.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-9EC06F03BD9B1998",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-9EC06F03BD9B1998-02",
+      "text": "Their natural state is navigating the universe in the form of light energy.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-9EC06F03BD9B1998",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-9EC06F03BD9B1998-03",
+      "text": "Their ability to maintain a corporeal form with amorphous anatomical shapes and halos conveys expressions to other species.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-9EC06F03BD9B1998",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-9EC06F03BD9B1998-04",
+      "text": "During galactic explorations, they are known to be confused with deities by more primitive civilizations.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-9EC06F03BD9B1998",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "SCORE",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [
+    "Ustur"
+  ],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/galaxy-api/items",
+      "anchor_text": "Skip to content"
+    },
+    {
+      "url": "https://build.staratlas.com/",
+      "anchor_text": "Star Atlas Build"
+    },
+    {
+      "url": "https://discord.com/invite/staratlas",
+      "anchor_text": ""
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/galaxy-api/items",
+      "anchor_text": "Skip to content"
+    },
+    {
+      "url": "https://build.staratlas.com/",
+      "anchor_text": "Star Atlas Build"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://build.staratlas.com/dev-resources/apis-and-data/galaxy-api/items",
+    "final_url": "https://build.staratlas.com/dev-resources/apis-and-data/galaxy-api/items",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 74304,
+    "retrieved_at": "2026-07-13T01:04:27.436678Z",
+    "elapsed_ms": 413
+  }
+}

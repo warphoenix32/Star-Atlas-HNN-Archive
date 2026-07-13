@@ -1,0 +1,14 @@
+{
+  "topic": "article, atmta, game, new, remain, the, this, time",
+  "official_source_ids": [
+    "SRC-OFF-ED7AD490CF12BFA6"
+  ],
+  "community_source_ids": [
+    "SRC-IH-0099D27AA2A64715"
+  ],
+  "relationship": "COMMUNITY_ADDS_CONTEXT",
+  "finding": "Automated topic overlap on: article, atmta, game, new, remain, the, this, time, what. Official authority is limited to the official wording; community context remains separately attributed.",
+  "confidence": "LOW",
+  "promotion_candidate": false,
+  "manual_review_required": true
+}

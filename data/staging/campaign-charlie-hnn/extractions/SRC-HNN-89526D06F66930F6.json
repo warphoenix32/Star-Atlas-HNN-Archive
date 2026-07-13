@@ -1,0 +1,121 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-89526D06F66930F6",
+    "url_id": "URL-89526D06F66930F6",
+    "url": "https://medium.com/the-hologram/star-atlas-lost-ustur-language-decoded-6d0b82fe5acb",
+    "title": "Star Atlas — Lost Ustur Language Decoded",
+    "author": "Krigs",
+    "publisher": "The Hologram",
+    "publication_identity": "The Hologram (Medium publication)",
+    "published_at": "2023-02-09T03:22:05Z",
+    "updated_at": "2023-02-09T03:22:38Z",
+    "retrieved_at": "2026-07-13T00:08:41.607693Z",
+    "document_type": "REFERENCE",
+    "source_role": "REFERENCE",
+    "publication_role": "REFERENCE",
+    "classification_rationale": "Publication is structured as a guide or reference."
+  },
+  "source_lineage": {
+    "publication": "The Hologram (Medium publication)",
+    "publication_role": "REFERENCE",
+    "relationship": "REFERENCES",
+    "primary_sources": [],
+    "original_creators": [
+      "Krigs"
+    ],
+    "attribution_chain": [],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "This reference published by The Hologram on 2023-02-09 documents “Star Atlas — Lost Ustur Language Decoded.” Its surviving text addresses economy, game development, lore. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "Member-only story\nStar AtlasLore\nStar Atlas — Lost Ustur Language Decoded\nKrigs5 min read·Feb 9, 2023\n--\n1\nListen\nShare\nData runners from The Hologram, with the assistance of cryptologists Star Atlas Leeks, have translated what is believed to be the first known alphabet of Star Atlas.\nPress enter or click to view image in full size\nThis alphabet once belonged to Ancient Ustur society, and while little is known about their culture, it appears that their language is still in use. For the first in Star Atlas history, the collective language of the Ancient Usturs is on display.\nAuthor Note: This article contains spoilers regarding the Ancient Ustur Alphabet contained in the CORE Graphic novel series. The first section details the decryption method. The final alphabet is displayed towards the end.\nUnlocking the Secret\nThe continued use of Ancient Ustur was first made known during the recent release of Star Atlas CORE: Episode 1. In select editions of the graphic novel, single characters were discovered at the bottom corners of each page within the manuscript. This first episode contained 13 distinct characters within its pages. However, there was simply not enough data to reconcile a complete record. As intriguing as the secret message may have been, linguists and cryptographers alike would have to wait until another record was found.\nNearly four weeks later, a second manuscript was discovered, this time containing a second…",
+  "content_hash": "ce60b767b4b97124f327bed13c1a2307305ffda4992faad3efb4bb294e318c74",
+  "major_topics": [
+    "economy",
+    "game development",
+    "lore"
+  ],
+  "entities": [
+    "ATLAS",
+    "Krigs",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Star Atlas",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [
+    "Ustur"
+  ],
+  "actors": [
+    "Krigs"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://medium.com/@krigsfoniks?source=post_page---byline--6d0b82fe5acb---------------------------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fthe-hologram%2F6d0b82fe5acb&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fstar-atlas-lost-ustur-language-decoded-6d0b82fe5acb&user=Krigs&userId=41e0c5b141f1&source=---header_actions--6d0b82fe5acb---------------------clap_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Frepost%2Fp%2F6d0b82fe5acb&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fstar-atlas-lost-ustur-language-decoded-6d0b82fe5acb&user=Krigs&userId=41e0c5b141f1&source=---header_actions--6d0b82fe5acb---------------------repost_header------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F6d0b82fe5acb&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fstar-atlas-lost-ustur-language-decoded-6d0b82fe5acb&source=---header_actions--6d0b82fe5acb---------------------bookmark_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2Fplans%3Fdimension%3Dpost_audio_button%26postId%3D6d0b82fe5acb&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fstar-atlas-lost-ustur-language-decoded-6d0b82fe5acb&source=---header_actions--6d0b82fe5acb---------------------post_audio_button------------------",
+      "anchor_text": "Listen"
+    },
+    {
+      "url": "https://twitter.com/staratlasleeks",
+      "anchor_text": "Star Atlas Leeks"
+    },
+    {
+      "url": "https://medium.com/u/5ed69ff9cfb0?source=post_page---user_mention--6d0b82fe5acb---------------------------------------",
+      "anchor_text": "Star Atlas"
+    },
+    {
+      "url": "https://medium.com/the-hologram/star-atlas-core-book-one-recap-spoilers-a634ce395671",
+      "anchor_text": "Star Atlas CORE: Episode 1"
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "author_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "No explicit primary source was identifiable from preserved outbound links.",
+      "Extraction completeness or publication dating requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://medium.com/the-hologram/star-atlas-lost-ustur-language-decoded-6d0b82fe5acb",
+    "final_url": "https://medium.com/the-hologram/star-atlas-lost-ustur-language-decoded-6d0b82fe5acb",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 111241,
+    "elapsed_ms": 749,
+    "retrieval_mode": "LIVE",
+    "archive_capture": null
+  }
+}

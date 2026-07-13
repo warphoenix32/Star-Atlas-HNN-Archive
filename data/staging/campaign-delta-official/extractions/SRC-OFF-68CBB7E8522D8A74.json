@@ -1,0 +1,169 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-68CBB7E8522D8A74",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47021309214867-What-is-PIP",
+    "title": "What is PIP?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-02T15:04:07Z",
+    "updated_at": "2025-12-08T18:24:18Z",
+    "original_date_text": "2025-12-02T15:04:07Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://star-atlas-dao.gitbook.io/knowledge-base",
+        "anchor_text": "https://star-atlas-dao.gitbook.io/knowledge-base"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “What is PIP?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "A POLIS Improvement Proposal (PIP) is the official format used by the Star Atlas DAO to propose and vote on changes that affect the Star Atlas metaverse.\nPIPs are formal proposals that may include ideas for new features, economic policies, DAO processes, or the use of treasury funds. Each PIP outlines the rationale for the proposed change and is subject to community review and on-chain voting by POLIS holders.\nWhile not all community discussions result in PIPs, any impactful change that falls under the governance of the DAO will eventually be structured and voted on as a PIP.\nWhat Makes a PIP Different?\nFormal structure: PIPs follow a consistent format to ensure transparency and clarity.\nDecentralized input: PIPs are reviewed and debated by the community and the elected DAO Council.\nBinding decisions: Once a PIP passes on-chain voting, it becomes an official directive for the Star Atlas ecosystem.\nWant to Learn More?\nThe first DAO Council created a comprehensive knowledge base on PIPs, POLIS Voting Power (PVP), and Star Atlas governance: https://star-atlas-dao.gitbook.io/knowledge-base",
+  "content_hash": "0c54203ad60376e9dd6a3af277a2eaba62960d8a95ae7bbd4b23e47f623a87ce",
+  "entities": [
+    "ATLAS",
+    "POLIS",
+    "Star Atlas DAO"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-68CBB7E8522D8A74-01",
+      "text": "A POLIS Improvement Proposal (PIP) is the official format used by the Star Atlas DAO to propose and vote on changes that affect the Star Atlas metaverse.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-68CBB7E8522D8A74",
+      "publication_date": "2025-12-02T15:04:07Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-68CBB7E8522D8A74-02",
+      "text": "PIPs are formal proposals that may include ideas for new features, economic policies, DAO processes, or the use of treasury funds.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-68CBB7E8522D8A74",
+      "publication_date": "2025-12-02T15:04:07Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-68CBB7E8522D8A74-03",
+      "text": "Each PIP outlines the rationale for the proposed change and is subject to community review and on-chain voting by POLIS holders.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-68CBB7E8522D8A74",
+      "publication_date": "2025-12-02T15:04:07Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-68CBB7E8522D8A74-04",
+      "text": "While not all community discussions result in PIPs, any impactful change that falls under the governance of the DAO will eventually be structured and voted on as a PIP.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-68CBB7E8522D8A74",
+      "publication_date": "2025-12-02T15:04:07Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-68CBB7E8522D8A74-05",
+      "text": "Formal structure: PIPs follow a consistent format to ensure transparency and clarity.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-68CBB7E8522D8A74",
+      "publication_date": "2025-12-02T15:04:07Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-68CBB7E8522D8A74-06",
+      "text": "Decentralized input: PIPs are reviewed and debated by the community and the elected DAO Council.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-68CBB7E8522D8A74",
+      "publication_date": "2025-12-02T15:04:07Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-68CBB7E8522D8A74-07",
+      "text": "Binding decisions: Once a PIP passes on-chain voting, it becomes an official directive for the Star Atlas ecosystem.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-68CBB7E8522D8A74",
+      "publication_date": "2025-12-02T15:04:07Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-68CBB7E8522D8A74-08",
+      "text": "The first DAO Council created a comprehensive knowledge base on PIPs, POLIS Voting Power (PVP), and Star Atlas governance: https://star-atlas-dao.gitbook.io/knowledge-base",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-68CBB7E8522D8A74",
+      "publication_date": "2025-12-02T15:04:07Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "POLIS",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [
+    "Star Atlas DAO"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://star-atlas-dao.gitbook.io/knowledge-base",
+      "anchor_text": "https://star-atlas-dao.gitbook.io/knowledge-base"
+    }
+  ],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47021309214867-What-is-PIP",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.304242Z"
+  }
+}

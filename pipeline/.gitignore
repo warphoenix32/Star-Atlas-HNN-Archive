@@ -1,0 +1,6 @@
+# Runtime state and raw retrievals are local working data.
+state/
+raw/
+*.egg-info/
+__pycache__/
+.pytest_cache/

@@ -1,0 +1,187 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-C7D5882BA13C5A86",
+    "url_id": "URL-C7D5882BA13C5A86",
+    "url": "https://medium.com/@krigsfoniks/star-atlas-to-sell-5-million-dollar-titan-ships-d9dd9822ae9f",
+    "title": "Star Atlas To Sell $5 Million Dollar ‘Titan’ Ships",
+    "author": "Krigs",
+    "publisher": "Medium",
+    "publication_identity": "Kr1gs Medium publication",
+    "published_at": "2022-11-23T02:11:09Z",
+    "updated_at": "2022-11-23T15:44:48Z",
+    "retrieved_at": "2026-07-13T00:09:51.027561Z",
+    "document_type": "FEATURE",
+    "source_role": "FEATURE",
+    "publication_role": "FEATURE",
+    "classification_rationale": "Publication provides feature-style background or profile coverage."
+  },
+  "source_lineage": {
+    "publication": "Kr1gs Medium publication",
+    "publication_role": "FEATURE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Krigs"
+    ],
+    "attribution_chain": [],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "This feature published by Medium on 2022-11-23 documents “Star Atlas To Sell $5 Million Dollar ‘Titan’ Ships.” Its surviving text addresses governance, economy, guilds and DACs, game development, community, lore, technology. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "Star Atlas To Sell $5 Million Dollar ‘Titan’ Ships\nKrigs3 min read·Nov 23, 2022\n--\nListen\nShare\nIn the wake of the FTX fallout which negatively impacted game developer Automata, the company behind Star Atlas announced a series of upcoming sales to help raise new revenue.\nBeginning on Wednesday, November 23rd, three Titan class ships will be listed on the Star Atlas marketplace. The Titans will retail for $1 million dollars initially, an 80% markdown from their $5 million dollar valuation.\nEvery week thereafter, the price for each Titan will increase by $500,000, reaching $2.5 million by the end of Week 4. At the end of 4 weeks, any unsold Titan ships will be delisted from the Star Atlas marketplace to be sold at a future date.\nShould any of these ‘Titans’ sell, it would be the second largest single item purchase in a video game to date. The current most expensive video game item ever sold was Planet Calypso in Entropia which sold for $6 million dollars.\nBuyers in a Bear Market\nThe 2022 bear market has been a harsh environment for blockchain games. Nevertheless, potential buyers are lining up to be one of the first Titan purchasers in the history of Star Atlas. The three most prominent guilds in Star Atlas — Quimera, The Club, and Aephia Industries are all predicted to be in strong financial positions to become Titan owners.\nThe sale of Titan ships is part of Star Atlas’s SAGE: Star Sequence, an initiative by the game developer to ramp up player interest prior to a test launch of its Star Atlas Golden Era browser game towards the end of the year.\nCommunity sentiment remains mixed, mostly due to the overall bear market conditions and FTX contagion. On the positive side, players are looking forward to purchasing Central Space Station Land Sales and mining claims.\nThree Titans For Sale\nPress enter or click to view image in full sizePearce T1Press enter or click to view image in full sizeBusan The Last Stand Mk. VIIIPress enter or click to view image in full sizeFimbul ECOS Superphoenix\nThe sale of Titans begins on November 23 at 12 pm Eastern Standard Time. Don’t forget to follow and subscribe to find out who becomes the million dollar owner of these high-valued assets.\nDisclaimers:The author holds assets in the game of Star Atlas.\nCurrent market conditions present significant risk in the crypto environment. This article is in no way an endorsement of any investment proposals by the reader.\nThis article is in no way endorsed by Star Atlas or ATMTA, Inc.\nKrigs is the founder of The Hologram News Network, an independent blockchain gaming meta-news organization devoted to the coverage of the Star Atlas game. Krigs has covered Star Atlas for the past year and enjoys writing about the potential that blockchain technology has to revolutionize the gaming industry.\nFollow on Social Media:\nKrigs: https://twitter.com/KrigsfoniksThe Hologram: https://twitter.com/Hologram_News",
+  "content_hash": "35ef6ee2fe68820a2493d11388dd76fce982610ce3852ec654c4e4aa9c7df446",
+  "major_topics": [
+    "governance",
+    "economy",
+    "guilds and DACs",
+    "game development",
+    "community",
+    "lore",
+    "technology"
+  ],
+  "entities": [
+    "ATLAS",
+    "Krigs",
+    "SAGE",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-C7D5882BA13C5A86-01",
+      "text": "Star Atlas To Sell $5 Million Dollar ‘Titan’ Ships Krigs3 min read·Nov 23, 2022 -- Listen Share In the wake of the FTX fallout which negatively impacted game developer Automata, the company behind Star Atlas announced a series of upcoming sales to help raise new revenue.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-C7D5882BA13C5A86",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-C7D5882BA13C5A86-02",
+      "text": "Beginning on Wednesday, November 23rd, three Titan class ships will be listed on the Star Atlas marketplace.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-C7D5882BA13C5A86",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-C7D5882BA13C5A86-03",
+      "text": "The Titans will retail for $1 million dollars initially, an 80% markdown from their $5 million dollar valuation.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-C7D5882BA13C5A86",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-C7D5882BA13C5A86-04",
+      "text": "Every week thereafter, the price for each Titan will increase by $500,000, reaching $2.5 million by the end of Week 4.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-C7D5882BA13C5A86",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-C7D5882BA13C5A86-05",
+      "text": "At the end of 4 weeks, any unsold Titan ships will be delisted from the Star Atlas marketplace to be sold at a future date.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-C7D5882BA13C5A86",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "SAGE",
+    "Star Atlas",
+    "ATLAS"
+  ],
+  "governance_items": [
+    "Star Atlas governance / DAO"
+  ],
+  "lore_items": [
+    "ONI"
+  ],
+  "actors": [
+    "Krigs"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://medium.com/@krigsfoniks?source=---byline--d9dd9822ae9f---------------------------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fblockchain-biz%2Fd9dd9822ae9f&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fblockchain-biz%2Fstar-atlas-to-sell-5-million-dollar-titan-ships-d9dd9822ae9f&user=Krigs&userId=41e0c5b141f1&source=---header_actions--d9dd9822ae9f---------------------clap_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Frepost%2Fp%2Fd9dd9822ae9f&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fblockchain-biz%2Fstar-atlas-to-sell-5-million-dollar-titan-ships-d9dd9822ae9f&user=Krigs&userId=41e0c5b141f1&source=---header_actions--d9dd9822ae9f---------------------repost_header------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fd9dd9822ae9f&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fblockchain-biz%2Fstar-atlas-to-sell-5-million-dollar-titan-ships-d9dd9822ae9f&source=---header_actions--d9dd9822ae9f---------------------bookmark_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2Fplans%3Fdimension%3Dpost_audio_button%26postId%3Dd9dd9822ae9f&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fblockchain-biz%2Fstar-atlas-to-sell-5-million-dollar-titan-ships-d9dd9822ae9f&source=---header_actions--d9dd9822ae9f---------------------post_audio_button------------------",
+      "anchor_text": "Listen"
+    },
+    {
+      "url": "https://medium.com/blockchain-biz/star-atlas-heavily-affected-by-ftx-catastrophe-ceo-remains-committed-180cf3c2f5a9",
+      "anchor_text": "impacted"
+    },
+    {
+      "url": "https://medium.com/star-atlas/star-atlas-golden-era-start-sequence-our-path-towards-tomorrow-cb7d51f19c84",
+      "anchor_text": "SAGE: Star Sequence"
+    },
+    {
+      "url": "https://medium.com/blockchain-biz/star-atlas-land-and-player-habitat-sales-begins-in-december-4b342a305573",
+      "anchor_text": "Land Sales"
+    },
+    {
+      "url": "https://twitter.com/Krigsfoniks",
+      "anchor_text": "https://twitter.com/Krigsfoniks"
+    },
+    {
+      "url": "https://twitter.com/Hologram_News",
+      "anchor_text": "https://twitter.com/Hologram_News"
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "No explicit primary source was identifiable from preserved outbound links."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://medium.com/@krigsfoniks/star-atlas-to-sell-5-million-dollar-titan-ships-d9dd9822ae9f",
+    "final_url": "https://medium.com/blockchain-biz/star-atlas-to-sell-5-million-dollar-titan-ships-d9dd9822ae9f",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 263684,
+    "elapsed_ms": 1222,
+    "retrieval_mode": "LIVE",
+    "archive_capture": null
+  }
+}

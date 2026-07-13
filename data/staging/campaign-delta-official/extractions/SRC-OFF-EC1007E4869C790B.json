@@ -1,0 +1,169 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-EC1007E4869C790B",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47031387314195-How-do-I-start-quests-in-Holosim",
+    "title": "How do I start quests in Holosim?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-02T19:07:25Z",
+    "updated_at": "2025-12-08T18:23:59Z",
+    "original_date_text": "2025-12-02T19:07:25Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “How do I start quests in Holosim?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Quests in Holosim are the main way to learn the game and progress your character. Starting them is simple and guided from the very beginning.\nSteps to start a quest:\nLook for the Quests icon: you’ll find it in the bottom-right corner of the screen. When a new quest is available, it will glow to catch your attention.\nOpen the Quests menu: click the icon to see the available questlines: Tutorial, Storyline, Expertise, and Daily.\nSelect a quest: choose the quest you want to begin and click on it for details.\nFollow the objectives: each quest will explain what you need to do, such as forming a fleet, mining resources, or completing combat actions.\nClaim your rewards: once you finish the objectives, return to the Quests menu and click “Claim Rewards” to receive your XP, crew, or zATLAS.\nStarting quests is the fastest way to get familiar with Holosim’s mechanics and earn the resources needed to grow your fleets.",
+  "content_hash": "7642d034c5ff7ae2362dbaef686a049a7e3bf751f0577da8b3267007e7cc14ab",
+  "entities": [
+    "Crew",
+    "Holosim"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-EC1007E4869C790B-01",
+      "text": "Quests in Holosim are the main way to learn the game and progress your character.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-EC1007E4869C790B",
+      "publication_date": "2025-12-02T19:07:25Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-EC1007E4869C790B-02",
+      "text": "Starting them is simple and guided from the very beginning.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-EC1007E4869C790B",
+      "publication_date": "2025-12-02T19:07:25Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-EC1007E4869C790B-03",
+      "text": "Steps to start a quest: Look for the Quests icon: you’ll find it in the bottom-right corner of the screen.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-EC1007E4869C790B",
+      "publication_date": "2025-12-02T19:07:25Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-EC1007E4869C790B-04",
+      "text": "When a new quest is available, it will glow to catch your attention.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-EC1007E4869C790B",
+      "publication_date": "2025-12-02T19:07:25Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-EC1007E4869C790B-05",
+      "text": "Open the Quests menu: click the icon to see the available questlines: Tutorial, Storyline, Expertise, and Daily.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-EC1007E4869C790B",
+      "publication_date": "2025-12-02T19:07:25Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-EC1007E4869C790B-06",
+      "text": "Select a quest: choose the quest you want to begin and click on it for details.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-EC1007E4869C790B",
+      "publication_date": "2025-12-02T19:07:25Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-EC1007E4869C790B-07",
+      "text": "Follow the objectives: each quest will explain what you need to do, such as forming a fleet, mining resources, or completing combat actions.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-EC1007E4869C790B",
+      "publication_date": "2025-12-02T19:07:25Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-EC1007E4869C790B-08",
+      "text": "Claim your rewards: once you finish the objectives, return to the Quests menu and click “Claim Rewards” to receive your XP, crew, or zATLAS.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-EC1007E4869C790B",
+      "publication_date": "2025-12-02T19:07:25Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-EC1007E4869C790B-09",
+      "text": "Starting quests is the fastest way to get familiar with Holosim’s mechanics and earn the resources needed to grow your fleets.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-EC1007E4869C790B",
+      "publication_date": "2025-12-02T19:07:25Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Holosim",
+    "Crew"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47031387314195-How-do-I-start-quests-in-Holosim",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.260057Z"
+  }
+}

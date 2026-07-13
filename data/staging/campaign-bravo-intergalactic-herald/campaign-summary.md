@@ -1,0 +1,289 @@
+# Campaign Bravo summary
+
+- Inventory URLs considered: 411
+- Podcast URLs excluded: 151
+- Non-publication landing pages excluded: 1
+- URLs attempted: 259
+- URLs retrieved: 259
+- Articles extracted: 259
+- Retrieval failures: 0
+- Duplicate article records: 2
+- Classification counts: {'CURATED_SUMMARY': 254, 'REFERENCE': 5}
+- Articles requiring manual review: 254
+- Coverage dates: 2022-12-11T17:47:23 to 2026-07-03T23:00:00
+- Extraction confidence: {'HIGH': 243, 'MEDIUM': 16}
+
+## Retrieval failures
+
+None.
+
+## Duplicate records
+
+- `URL-73A1B12100BA1F26` — https://intergalacticherald.com/star-atlas-beginner-guide
+- `URL-A30A8FE220020005` — https://intergalacticherald.com/star-atlas-guide
+
+## Manual review queue
+
+- `URL-00683F22FF5CB062` — https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-202 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-0099D27AA2A64715` — https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-201 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-01FCC742522C1676` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-83 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-032A15CF6BD5A0D5` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-67 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-056350634B2A6DD2` — https://intergalacticherald.com/star-atlas-recap/event-recap-30-star-atlas-monthly-builder-hour-august-2025 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-068767DEE5E55B4C` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-131 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-07089F33E7DFCC72` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-146 — Verify which outbound links are primary sources and preserve creator attribution during promotion.; Short extraction requires completeness review.
+- `URL-0732FFD417E6120C` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-149 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-0788CDC3DEEE3C1A` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-90 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-08FC5B109D605D43` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-113 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-0A70ACD2C286226F` — https://intergalacticherald.com/star-atlas-recap/recap-18-star-atlas-economic-forum-q2-2025-report-breakdown — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-0AF651900B86C81C` — https://intergalacticherald.com/star-atlas-recap/recap-16-monthly-builder-hour-june-2025 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-0B872508E41EA0FD` — https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-193 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-0BC8CB9C78AD008A` — https://intergalacticherald.com/star-atlas-recap/recap-12-atlas-brew-162-deep-dive-into-c4-the-next-evolution-of-star-atlas — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-0D993847A5626C97` — https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-217 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-0DBCD4AE706DF5B8` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-55 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-0E70509CB73938D1` — https://intergalacticherald.com/star-atlas-recap/recap-11-star-atlas-economic-forum-june-2025-deep-dive-into-c4-with-chris — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-0F7F2F28927A3839` — https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-219 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-167670B8AE698571` — https://intergalacticherald.com/star-atlas-recap/star-atlas-event-recap-54-atlas-brew-185-open-markets-operations-the-future-of-star-atlas — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-17596D94BCA3CABE` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-65 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-1A31998D214E9D0B` — https://intergalacticherald.com/star-atlas-recap/star-atlas-event-recap-52-atlas-brew-184-ses-deep-dive-with-danny — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-1A9E8E9E03A4142F` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-103 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-1AD5B49F933B14C6` — https://intergalacticherald.com/star-atlas-recap/recap-17-atlas-brew-165 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-1CE84EFF35410E07` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-109 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-1FD988DBBC80C5FD` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-162 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-1FDFA889567CF1FE` — https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-169 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-220D95DA57A78876` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-92 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-2220AC093B815D8E` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-80 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-2319DAF2BAC3D356` — https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-192 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-2393F6E366B5A7DD` — https://intergalacticherald.com/star-atlas-recap/star-atlas-event-recap-35-lore-keepers-14-exploring-the-star-atlas-universe — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-23A5C8D932B249D3` — https://intergalacticherald.com/star-atlas-recap/star-atlas-event-recap-88-atlas-brew-209-ptr-updates — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-23C5638BCCF18DCD` — https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-182 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-2501B6F41CC66C5C` — https://intergalacticherald.com/star-atlas-recap/star-atlas-event-recap-77-the-atlas-brew-201 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-254DE07B73A7F59C` — https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-177 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-25A62D3792E5A320` — https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-204 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-264B1731138AEC39` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-158 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-27192B4B169BE0A8` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-159 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-2B3C48A9744F6C3F` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-125 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-2BF856A14D111390` — https://intergalacticherald.com/star-atlas-recap/star-atlas-event-recap-89-embercoil-lorekeeepers — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-2CD9514792C974D6` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-138 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-2D60697B556375BB` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-87 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-2D632AC4F2A8B8A2` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-124 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-2DAF73079452BAFB` — https://intergalacticherald.com/star-atlas-recap/star-atlas-event-recap-38-atlas-brew-175-dao-updates — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-2EB84889C14C8DF5` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-142 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-2F0E261CAD81520B` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-71 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-305854BA9621765D` — https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-194 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-3109C72885989B5A` — https://intergalacticherald.com/star-atlas-recap/star-atlas-event-recap-60-star-atlas-economic-forum-january-2026 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-31A06F2DBB756A7D` — https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-213 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-32B2FA61A065153B` — https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-179 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-33378ED5E2F5CFE7` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-139 — Verify which outbound links are primary sources and preserve creator attribution during promotion.; Short extraction requires completeness review.
+- `URL-347F4EEF882FB83E` — https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-184 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-349EE3ECB8006295` — https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-218 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-351D4AF3CAB83D8F` — https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-207 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-359EF21B3396EB4E` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-150 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-35E80F6E8E79D32C` — https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-203 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-3656EC319D619E57` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-116 — Verify which outbound links are primary sources and preserve creator attribution during promotion.; Short extraction requires completeness review.
+- `URL-368C34C5AB6CEC2C` — https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-181 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-3767A4D7C4CBF81C` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-105 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-3D0A7B83A28DEF19` — https://intergalacticherald.com/star-atlas-recap/star-atlas-event-recap-63-star-atlas-economic-forum-february-2026 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-3D1553D4ADD50F9B` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-52 — Verify which outbound links are primary sources and preserve creator attribution during promotion.; Short extraction requires completeness review.
+- `URL-3E60C75BA1069525` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-59 — Verify which outbound links are primary sources and preserve creator attribution during promotion.; Short extraction requires completeness review.
+- `URL-400396C30661E607` — https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-180 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-404C94E23CCDB190` — https://intergalacticherald.com/star-atlas-recap/event-recap-31-atlas-brew-171-star-atlas-summer-recap — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-411157179835B223` — https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-199 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-4130302F88AE00D8` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-155 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-414B176736E8BD15` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-107 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-4225C839CE89E3C1` — https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-205 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-4396805082C29EC2` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-86 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-4532953569B8395E` — https://intergalacticherald.com/star-atlas-recap/star-atlas-event-recap-74-atlas-brew-199-latest-updates-community-talk — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-4586B3E36E0C08B6` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-152 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-45A9A1F4C34F00B8` — https://intergalacticherald.com/star-atlas-recap/star-atlas-event-recap-81-atlas-brew-204-is-live — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-45EC2E588D4C4920` — https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-175 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-4607CECFCC5715C1` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-118 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-479B5C61CECAAAC8` — https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-215 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-4893A3196757B8E8` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-156 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-4B93DB7F2E41E585` — https://intergalacticherald.com/star-atlas-recap/recap-10-star-atlas-town-hall-june-2025 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-4C2E61D6560F2C22` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-70 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-4CC193E41138B963` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-108 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-4DA8F4B2BBD8845A` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-148 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-4F98201A8D14A0A7` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-110 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-51459015C5468FCD` — https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-220 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-532B57AA1A08E8BC` — https://intergalacticherald.com/star-atlas-recap/recap-14-lore-keepers-12-chaos-in-c4-secrets-of-holosim — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-53861E9E812F47BB` — https://intergalacticherald.com/star-atlas-recap/star-atlas-event-recap-76-star-atlas-lore-keepers-20 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-54A6F5C41597AC7F` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-81 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-5876B51209F0611C` — https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-222 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-591FC5D5E7CD844F` — https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-212 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-59CD7403F930ED28` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-151 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-5C11E7CB68BD83A0` — https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-188 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-5C2CA9DAA7619953` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-140 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-5C63B5BE5AC63127` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-154 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-5CC6220EDBD2F463` — https://intergalacticherald.com/star-atlas-recap/star-atlas-event-recap-86-atlas-brew-207-star-atlas-news-sage-updates-community-highlights — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-5E5B7249E1CDC657` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-68 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-5E8FEE2F86BBE68A` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-120 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-5EB0A03062B32CEF` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-96 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-5EFF5E827985A311` — https://intergalacticherald.com/star-atlas-recap/star-atlas-event-recap-82-the-atlas-brew-205 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-5FBC5D6A77CBDBE7` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-98 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-60CFE8FA8D026D43` — https://intergalacticherald.com/star-atlas-recap/star-atlas-event-recap-34-atlas-brew-173-state-of-the-community — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-6189A054325CCD73` — https://intergalacticherald.com/star-atlas-recap/star-atlas-event-recap-83-lore-keepers-21 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-63012AC2B632FA83` — https://intergalacticherald.com/star-atlas-recap/star-atlas-event-recap-79-atlas-brew-202-updates-and-upgrades — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-6404945A129E46FA` — https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-176 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-6522F8E40CFE7D98` — https://intergalacticherald.com/star-atlas-recap/star-atlas-event-recap-39-star-atlas-economic-forum-october-2025 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-667428AA4B792033` — https://intergalacticherald.com/star-atlas-recap/star-atlas-event-recap-85-star-atlas-townhall-community-discussion-development-updates — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-66973DD7131DA498` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-157 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-66D8A69E75E4CCCA` — https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-221 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-67CC9C09B4DE5F7E` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-132 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-6838B00AECF957C2` — https://intergalacticherald.com/star-atlas-recap/star-atlas-event-recap-44-atlas-brew-179-calm-before-the-storm — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-6964C525900B5830` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-66 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-6A62200616B25DCB` — https://intergalacticherald.com/star-atlas-recap/star-atlas-event-recap-58-the-lore-keepers-17-chaos-in-c4-the-secrets-of-holosim — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-6B7B5B9C22A91167` — https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-214 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-6D8274E09DAD8518` — https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-185 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-6EA05AFCA495982B` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-115 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-6F039825FD1200BA` — https://intergalacticherald.com/star-atlas-recap/event-recap-28-atlas-brew-170-z-ink — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-7004C31C5C8FF6A9` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-56 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-7144D7D00C8B700D` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-122 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-72EBE0E6E3042E66` — https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-211 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-73D9777855C875E1` — https://intergalacticherald.com/star-atlas-recap/star-atlas-event-recap-69-the-atlas-brew-195 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-76C1E361A2C101A7` — https://intergalacticherald.com/star-atlas-recap/recap-13-atlas-brew-163-c4-qa-part-2 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-7713C1F275F0A220` — https://intergalacticherald.com/star-atlas-recap/star-atlas-event-recap-78-atlas-brew-dao-casters-brew-01 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-7785CDA3ED844973` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-161 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-77B2106CD1000AFA` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-61 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-79B9126499F38B50` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-89 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-7A4D4204B7BCC049` — https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-171 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-7B4500C6936D2B55` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-76 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-7B8EDE45C01AFC53` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-121 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-7BE8DFDD9FB1E424` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-111 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-7C9898F26ADAFEDA` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-130 — Verify which outbound links are primary sources and preserve creator attribution during promotion.; Short extraction requires completeness review.
+- `URL-7E3AEC6A47CCCF3B` — https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-163 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-7ED81E8D91893207` — https://intergalacticherald.com/star-atlas-recap/recap-23-star-atlas-monthly-builder-hour-july-2025-edition — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-8212C22A8818B131` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-64 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-82A2A25F1225BB1C` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-102 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-8335AD8F4F901D6E` — https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-208 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-83E9E4A6C6E6D18D` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-112 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-87524E2BB2911D18` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-88 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-88415C91B9E7040D` — https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-183 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-89A6CE25900606FD` — https://intergalacticherald.com/star-atlas-recap/recap-7-atlas-brew-160 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-8B30BDE39273B9A1` — https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-187 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-8CB5EDD6005C4137` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-153 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-8DB9395656D303F5` — https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-206 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-8FC73D4839CFB8C4` — https://intergalacticherald.com/star-atlas-recap/star-atlas-event-recap-73-atlas-brew-198-c4-ptr-holosim-new-achievements-rpg-systems — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-8FDF770EAD0BD2C1` — https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-164 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-91031CFCBBC88DD8` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-127 — Verify which outbound links are primary sources and preserve creator attribution during promotion.; Short extraction requires completeness review.
+- `URL-922E1BC5D4D67B9E` — https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-216 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-937EDF0340335E63` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-128 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-93AD6A0B72CBC912` — https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-209 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-94A6C33F2CA02AF6` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-106 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-94B5ADB2589C95F5` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-141 — Verify which outbound links are primary sources and preserve creator attribution during promotion.; Short extraction requires completeness review.
+- `URL-95514671CEA7D534` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-94 — Verify which outbound links are primary sources and preserve creator attribution during promotion.; Short extraction requires completeness review.
+- `URL-9571912C1F48F336` — https://intergalacticherald.com/star-atlas-recap/star-atlas-event-recap-68-the-atlas-brew-194 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-9654E758AD3CC0AC` — https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-224 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-989ECDA63DADD741` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-69 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-9994B64BDF90F434` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-133 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-9B3441B34E65BB0B` — https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-191 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-9BB689A40127D69F` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-74 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-9F17A9CFB9A54D6C` — https://intergalacticherald.com/star-atlas-recap/recap-15-atlas-brew-164-holosim — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-A08015D52440CED8` — https://intergalacticherald.com/star-atlas-recap/star-atlas-event-recap-90-the-atlas-brew-210 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-A212B1C2390A1F4D` — https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-195 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-A2C1802626103F79` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-84 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-A3320F0492D531D7` — https://intergalacticherald.com/star-atlas-recap/event-recap-29-star-atlas-summer-town-hall-part-3 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-A3AD17606CD9E5E0` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-93 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-A3FFC9A5F689A3EE` — https://intergalacticherald.com/star-atlas-recap/star-atlas-event-recap-72-the-atlas-brew-197 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-A6FE3D21ED2EE544` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-144 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-A894712943E8F4FB` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-147 — Verify which outbound links are primary sources and preserve creator attribution during promotion.; Short extraction requires completeness review.
+- `URL-A8E9668F6B629049` — https://intergalacticherald.com/star-atlas-recap/recap-20-atlas-brew-167-star-atlas-summer-begins — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-A95E9479411CBB2D` — https://intergalacticherald.com/star-atlas-recap/star-atlas-event-recap-42-lore-keepers-15 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-AA41818792D18ACE` — https://intergalacticherald.com/star-atlas-recap/star-atlas-event-recap-66-lore-keepers-18 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-AC88FFF919BE05A0` — https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-198 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-ACC66BA2C4798346` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-114 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-AD0654BD4270F080` — https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-223 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-AF49450A4D8FBE27` — https://intergalacticherald.com/star-atlas-recap/star-atlas-event-recap-45-z-ink-the-secret-launch-townhall-1 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-AF53BA86385DCBA9` — https://intergalacticherald.com/star-atlas-recap/star-atlas-event-recap-51-atlas-brew-183-the-end-of-the-never-alone-campaign — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-B07B3728FFB4A11C` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-85 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-B2867E461BC267E1` — https://intergalacticherald.com/star-atlas-recap/star-atlas-event-recap-56-atlas-brew-186-topic-today-2026 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-B2B73AC0B5B8805B` — https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-173 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-B2DA9A845A44F75D` — https://intergalacticherald.com/star-atlas-recap/star-atlas-event-recap-64-the-atlas-brew-191 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-B3B88E11CABF766F` — https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-174 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-B4B2DA821D51E185` — https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-178 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-B50564B9F53BDB67` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-54 — Verify which outbound links are primary sources and preserve creator attribution during promotion.; Short extraction requires completeness review.
+- `URL-B60306D3D6C5306B` — https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-210 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-B7A03A3FC1AD1A2B` — https://intergalacticherald.com/star-atlas-recap/star-atlas-event-recap-47-november-2025-star-atlas-economic-forum — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-BA37769180C3729C` — https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-168 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-BB129782A01639FF` — https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-172 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-BBF8B0090A32EA6D` — https://intergalacticherald.com/star-atlas-recap/star-atlas-event-recap-70-the-atlas-brew-196 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-BC52D7FB5AF6A5D1` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-78 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-BD7612318E1AAA15` — https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-165 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-C23A6A895BCA5373` — https://intergalacticherald.com/star-atlas-recap/star-atlas-event-recap-87-atlas-brew-208-the-ptr-saga-continues-star-atlas-news-community-updates — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-C3DD89B88123981A` — https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-197 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-C469AD6F804E3F06` — https://intergalacticherald.com/star-atlas-recap/star-atlas-event-recap-61-atlas-brew-189 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-C4CF9297FC48AFFE` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-79 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-C6184BEB8F6D3217` — https://intergalacticherald.com/star-atlas-recap/star-atlas-event-recap-65-the-atlas-brew-192 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-C6915F84A350E4E1` — https://intergalacticherald.com/star-atlas-recap/star-atlas-event-recap-59-the-atlas-brew-188 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-C6A6044E16635A36` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-72 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-C704EF3A6F4100DE` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-134 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-C743D6FC60D5C133` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-95 — Verify which outbound links are primary sources and preserve creator attribution during promotion.; Short extraction requires completeness review.
+- `URL-C7B15793FBDB5524` — https://intergalacticherald.com/star-atlas-recap/star-atlas-event-recap-57-live-atlas-brew-187 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-C7C9FE7619E9B199` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-137 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-C94170BC7C89A540` — https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-167 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-C9AD5B9C924908F3` — https://intergalacticherald.com/star-atlas-recap/star-atlas-event-recap-71-star-atlas-lore-keepers-19 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-CAF9B8387077EA9C` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-60 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-CB4AB91D1A6E0FDF` — https://intergalacticherald.com/star-atlas-recap/star-atlas-event-recap-62-the-atlas-brew-190 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-CC1DCBF078076CBC` — https://intergalacticherald.com/star-atlas-recap/recap-9-atlas-brew-161-level-design-deep-dive — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-CC48DEA76A052D0F` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-58 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-CF50AFB17420F540` — https://intergalacticherald.com/star-atlas-recap/event-recap-25-atlas-brew-169-the-infinite-star-atlas-ip-universe-pip-discussion — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-D0160CCD45941DD9` — https://intergalacticherald.com/star-atlas-recap/star-atlas-event-recap-67-the-atlas-brew-193 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-D04BDF3C15E269D7` — https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-189 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-D0F914CBADC9BF8C` — https://intergalacticherald.com/star-atlas-recap/event-recap-24-star-atlas-summer-town-hall-part-1 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-D1F9C624BF245EC7` — https://intergalacticherald.com/star-atlas-recap/star-atlas-event-recap-43-atlas-brew-178-interview-with-jacob-co-founder-and-cto-of-star-atlas — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-D30A57DFFDC3BB30` — https://intergalacticherald.com/star-atlas-recap/star-atlas-event-recap-48-atlas-brew-181-project-galia-with-brad — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-D4263BC6477C6466` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-63 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-D443A63A350785E3` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-91 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-D5CF34DF49957FC2` — https://intergalacticherald.com/star-atlas-recap/star-atlas-event-recap-91-atlas-brew-211 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-D67E264899CC5889` — https://intergalacticherald.com/star-atlas-recap/star-atlas-event-recap-41-atlas-brew-177-freestyle-star-atlas-weekly-talk — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-D85C0779B3AB535F` — https://intergalacticherald.com/star-atlas-recap/event-recap-26-star-atlas-economic-forum-august-2025 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-D98FF926BA91577C` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-101 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-D9C4E1F9B4463FA1` — https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-190 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-DA9F0AE5816B49C4` — https://intergalacticherald.com/star-atlas-recap/star-atlas-event-recap-50-lore-keepers-16-ecos-our-near-term-future — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-DAFE2C4FC513F803` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-97 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-DBF42AEA2CE8826E` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-75 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-DC355D94436B3C03` — https://intergalacticherald.com/star-atlas-recap/star-atlas-event-recap-53-star-atlas-economic-forum-december-2025 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-DCD75807074E7655` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-104 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-DD85F62D99253218` — https://intergalacticherald.com/star-atlas-recap/star-atlas-event-recap-55-star-atlas-end-of-year-town-hall-2025 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-E09C5E03D997C19A` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-57 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-E194C21DAB34E428` — https://intergalacticherald.com/star-atlas-recap/star-atlas-event-recap-40-atlas-brew-176 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-E1A99E9CB4B49C43` — https://intergalacticherald.com/star-atlas-recap/star-atlas-event-recap-36-atlas-brew-174-holosim — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-E2146E94DFB3D005` — https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-170 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-E3841819E863D6B3` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-126 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-E3A663FE41C3095C` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-123 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-E403828EE45C829D` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-62 — Verify which outbound links are primary sources and preserve creator attribution during promotion.; Short extraction requires completeness review.
+- `URL-E534442B260D0990` — https://intergalacticherald.com/star-atlas-recap/recap-8-lore-keepers-10 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-E6D5C156D496C8EE` — https://intergalacticherald.com/star-atlas-recap/star-atlas-event-recap-84-atlas-brew-206-town-hall-prep-star-atlas-community-chat — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-E868F7FF94437970` — https://intergalacticherald.com/star-atlas-recap/recap-22-atlas-brew-168-star-atlas-marketing-deep-dive — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-EB28156AF6710242` — https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-166 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-EC239AEFD22B45F3` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-82 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-ED59F4F4A0FB7DD9` — https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-196 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-EDC3CFA8EB162E2D` — https://intergalacticherald.com/star-atlas-recap/recap-21-lore-keepers-13-chaos-in-c4-borders-factions-future-conflicts — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-EE71F71B1D80B58C` — https://intergalacticherald.com/star-atlas-recap/star-atlas-event-recap-49-atlas-brew-182-dao-council-candidates — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-EEA0FC752B659C8B` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-143 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-EFE3F51E34ECF802` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-135 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-F0026F6029DE497A` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-129 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-F19D3D27D05B2BA8` — https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-186 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-F26652809350DFB7` — https://intergalacticherald.com/star-atlas-recap/event-recap-32-star-atlas-economic-forum-september-2025 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-F2860D530930E94A` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-100 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-F436A40BCC61BA22` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-77 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-F46945CB870349A0` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-160 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-F488F7BCBA14FBEC` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-119 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-F4C2A6A0B64F3E98` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-53 — Verify which outbound links are primary sources and preserve creator attribution during promotion.; Short extraction requires completeness review.
+- `URL-F5278374B4F76425` — https://intergalacticherald.com/star-atlas-recap/star-atlas-event-recap-75-atlas-brew-200-big-beautiful-brew — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-F53BF1EF99FCB9BC` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-117 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-F67D0460173AD418` — https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-200 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-F842DD2290DC930C` — https://intergalacticherald.com/star-atlas-recap/star-atlas-event-recap-80-star-atlas-brew-203 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-F8D6B62E402DB531` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-145 — Verify which outbound links are primary sources and preserve creator attribution during promotion.; Short extraction requires completeness review.
+- `URL-F92A178AD39FBAC8` — https://intergalacticherald.com/star-atlas-recap/event-recap-27-star-atlas-town-hall-pt-2 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-FB8940925CABA910` — https://intergalacticherald.com/star-atlas-recap/star-atlas-event-recap-46-atlas-brew-180-zink-alpha — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-FCA4C5453DA44A90` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-73 — Verify which outbound links are primary sources and preserve creator attribution during promotion.
+- `URL-FE5DD29CFF29D0A3` — https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-136 — Verify which outbound links are primary sources and preserve creator attribution during promotion.; Short extraction requires completeness review.
+
+## Source Lineage Validation
+
+- Articles reviewed: 259
+- Primary sources identified: 254
+- Primary sources missing: 5
+- Lineage confidence: {'MEDIUM': 122, 'HIGH': 132, 'UNKNOWN': 5}
+- Relationship counts: {'CURATED_SUMMARY_OF': 250, 'REFERENCES': 5, 'SUMMARIZES': 4}
+- Articles still requiring manual review: 127

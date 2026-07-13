@@ -1,0 +1,151 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-A021979A621E6BE1",
+    "url": "https://staratlas.com/game/life-in-galia/",
+    "title": "Life in Galia | Star Atlas",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas / ATMTA",
+    "published_at": null,
+    "updated_at": null,
+    "original_date_text": null,
+    "document_type": "REFERENCE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas / ATMTA",
+    "publication_role": "LORE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://play.staratlas.com",
+        "anchor_text": "Play Now"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official lore titled “Life in Galia | Star Atlas.” This record preserves what Star Atlas / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Life in Galia | Star Atlas\n0001.\nLife in Galia\nThe Galia Expanse is home to an extraordinary diversity of life. Three major factions, each comprising multiple species with unique cultures and technologies, compete and cooperate in shaping the galaxy's future.\nYour browser does not support the video tag.\nThe Council of Peace\nAfter the devastating Convergence War, the surviving factions established the Council of Peace, a fragile alliance that maintains order in Galia. Each faction brings its own history, strengths, and vision for the future, creating a rich tapestry of politics, culture, and conflict.\n3\nMajor Factions\n12+\nPlayable Races\nAncient\nLore\nPlayer\nChoice\nMUD (Manus Ultima Divina)\nThe human faction, originating from Earth. Under the leadership of Charon Gotti Jr., MUD has transformed from its controversial origins into an industrial powerhouse built on fair trade and diplomatic relations.\nHuman-centric culture\nIndustrial strength\nDiplomatic approach\nEarth heritage\nONI Consortium\nA coalition of diverse alien species united by shared interests. ONI represents technological advancement and the pursuit of knowledge across the stars.\nMulti-species alliance\nAdvanced technology\nScientific focus\nExploration driven\nUstur Sector\nA faction of sentient androids guided by logic and efficiency. The Ustur seek to optimize existence itself, bringing a unique perspective to galactic affairs.\nAndroid civilization\nLogic-based society\nEfficiency focused\nTechnological mastery\nThe Tufa\nMysterious hybrid mineral-organic beings dwelling near the Cataclysm zone. The Tufa guard the galaxy's most valuable resources with zealous intensity.\nAncient beings\nMineral-organic hybrid\nResource guardians\nMysterious origins\nChoose Your Path\nYour faction shapes your story. Will you fight for humanity's future, pursue knowledge with the ONI, or embrace the cold logic of the Ustur?\nPlay Now\nExplore More Features\nGalia ExpanseGame ModesYour Fleet, Your WayFleet CommandHolosimSAGE Labs",
+  "content_hash": "6f4084ff9896c87e2b885f627641a3bcaa9a2e3dc2877b1edcdc30b774fb7a64",
+  "entities": [
+    "ATLAS"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-A021979A621E6BE1-01",
+      "text": "Will you fight for humanity's future, pursue knowledge with the ONI, or embrace the cold logic of the Ustur?",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-A021979A621E6BE1",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [
+    "MUD",
+    "ONI",
+    "Ustur",
+    "Convergence War",
+    "Galia"
+  ],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://play.staratlas.com",
+      "anchor_text": "Play Now"
+    },
+    {
+      "url": "https://staratlas.com/game/galia/",
+      "anchor_text": "Galia Expanse"
+    },
+    {
+      "url": "https://staratlas.com/game/game-modes/",
+      "anchor_text": "Game Modes"
+    },
+    {
+      "url": "https://staratlas.com/game/your-fleet-your-way/",
+      "anchor_text": "Your Fleet, Your Way"
+    },
+    {
+      "url": "https://staratlas.com/game/fleet-command/",
+      "anchor_text": "Fleet Command"
+    },
+    {
+      "url": "https://staratlas.com/game/holosim/",
+      "anchor_text": "Holosim"
+    },
+    {
+      "url": "https://staratlas.com/game/sage-labs/",
+      "anchor_text": "SAGE Labs"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://play.staratlas.com",
+      "anchor_text": "Play Now"
+    },
+    {
+      "url": "https://staratlas.com/game/galia/",
+      "anchor_text": "Galia Expanse"
+    },
+    {
+      "url": "https://staratlas.com/game/game-modes/",
+      "anchor_text": "Game Modes"
+    },
+    {
+      "url": "https://staratlas.com/game/your-fleet-your-way/",
+      "anchor_text": "Your Fleet, Your Way"
+    },
+    {
+      "url": "https://staratlas.com/game/fleet-command/",
+      "anchor_text": "Fleet Command"
+    },
+    {
+      "url": "https://staratlas.com/game/holosim/",
+      "anchor_text": "Holosim"
+    },
+    {
+      "url": "https://staratlas.com/game/sage-labs/",
+      "anchor_text": "SAGE Labs"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "LOW",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://staratlas.com/game/life-in-galia/",
+    "final_url": "https://staratlas.com/game/life-in-galia/",
+    "http_status": 200,
+    "content_type": "text/html",
+    "response_size": 9414,
+    "retrieved_at": "2026-07-13T01:05:03.810211Z",
+    "elapsed_ms": 196
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-F31A03A826213BF7",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47057428605331-What-are-Star-Atlas-ships",
+    "title": "What are Star Atlas ships?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-03T15:14:30Z",
+    "updated_at": "2025-12-08T18:23:49Z",
+    "original_date_text": "2025-12-03T15:14:30Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://play.staratlas.com/market/?category=ship",
+        "anchor_text": "Star Atlas Marketplace"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “What are Star Atlas ships?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Star Atlas ships are NFT-powered vehicles that form the backbone of gameplay across the entire Star Atlas ecosystem.\nEach ship is a unique digital asset stored in your wallet and used to explore space, engage in battles, transport goods, craft items and more. Ships are composed of various components and modules and require crew members to operate at full potential\nUtility & Gameplay Integration\nShips are more than just collectibles—they’re essential for progression:\nFaction Fleet: Stake ships to earn passive ATLAS rewards\nSAGE Labs: Use your ships to mine, craft, transport and soon fight\nUE5 Game (Epic Games): Fly your ship in immersive 3D environments\nFleet Rental: Assemble and rent your Sage fleet for passive income\nComponents, Crew & Customization\nEach ship includes:\nModular Components – Can be upgraded or swapped to suit your strategy (e.g. weapons, shields, scanners)\nCrew Slots – Most ships require crew to function fully. Matching the right crew to the right ship improves efficiency and unlocks buffs\nAptitudes – Ships have native aptitudes that align with specific gameplay roles, like combat, freight, or repair\n🚀 Proper crew assignment improves performance. Crew members trained together will receive synergy buffs, while mismatched assignments may lead to de-buffs\nHow to Get a Ship\nBuy directly from the Star Atlas Marketplace using ATLAS or USDC\nTrade with other players on the secondary market\nCraft in SAGE Labs",
+  "content_hash": "e01dae6839fb43921fc46ab2d874241f01d0695f5a1a6c7f1805a71288ec2744",
+  "entities": [
+    "ATLAS",
+    "Crew",
+    "Faction Fleet",
+    "SAGE",
+    "SAGE Labs"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-F31A03A826213BF7-01",
+      "text": "Star Atlas ships are NFT-powered vehicles that form the backbone of gameplay across the entire Star Atlas ecosystem.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F31A03A826213BF7",
+      "publication_date": "2025-12-03T15:14:30Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F31A03A826213BF7-02",
+      "text": "Each ship is a unique digital asset stored in your wallet and used to explore space, engage in battles, transport goods, craft items and more.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F31A03A826213BF7",
+      "publication_date": "2025-12-03T15:14:30Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F31A03A826213BF7-03",
+      "text": "weapons, shields, scanners) Crew Slots – Most ships require crew to function fully.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F31A03A826213BF7",
+      "publication_date": "2025-12-03T15:14:30Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F31A03A826213BF7-04",
+      "text": "Matching the right crew to the right ship improves efficiency and unlocks buffs Aptitudes – Ships have native aptitudes that align with specific gameplay roles, like combat, freight, or repair 🚀 Proper crew assignment improves performance.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F31A03A826213BF7",
+      "publication_date": "2025-12-03T15:14:30Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F31A03A826213BF7-05",
+      "text": "Crew members trained together will receive synergy buffs, while mismatched assignments may lead to de-buffs How to Get a Ship Buy directly from the Star Atlas Marketplace using ATLAS or USDC Trade with other players on the secondary market Craft in SAGE Labs",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F31A03A826213BF7",
+      "publication_date": "2025-12-03T15:14:30Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "SAGE Labs",
+    "SAGE",
+    "Faction Fleet",
+    "ATLAS",
+    "Crew"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://play.staratlas.com/market/?category=ship",
+      "anchor_text": "Star Atlas Marketplace"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://play.staratlas.com/market/?category=ship",
+      "anchor_text": "Star Atlas Marketplace"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47057428605331-What-are-Star-Atlas-ships",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.234896Z"
+  }
+}

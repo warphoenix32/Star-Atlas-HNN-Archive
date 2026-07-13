@@ -1,0 +1,14 @@
+{
+  "topic": "claims, for, how, long, record, remain, the, this",
+  "official_source_ids": [
+    "SRC-OFF-58CAA243BD4690DF"
+  ],
+  "community_source_ids": [
+    "SRC-HNN-ACA5B685ADE173D0"
+  ],
+  "relationship": "OFFICIAL_SUPERSEDES_OLDER_GUIDE",
+  "finding": "Automated topic overlap on: claims, for, how, long, record, remain, the, this, time. Official authority is limited to the official wording; community context remains separately attributed.",
+  "confidence": "LOW",
+  "promotion_candidate": false,
+  "manual_review_required": true
+}

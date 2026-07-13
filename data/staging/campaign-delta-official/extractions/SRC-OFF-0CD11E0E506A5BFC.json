@@ -1,0 +1,213 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-0CD11E0E506A5BFC",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47061431907475-How-to-Transfer-a-Solana-Wallet-or-Address-to-Another-Wallet",
+    "title": "How to Transfer a Solana Wallet or Address to Another Wallet",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-03T17:01:49Z",
+    "updated_at": "2025-12-08T18:23:29Z",
+    "original_date_text": "2025-12-03T17:01:49Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://backpack.app/",
+        "anchor_text": "Backpack"
+      },
+      {
+        "url": "https://phantom.com/",
+        "anchor_text": "Phantom"
+      },
+      {
+        "url": "https://www.solflare.com/download/",
+        "anchor_text": "Solflare"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “How to Transfer a Solana Wallet or Address to Another Wallet.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "If you want to use your existing Solana wallet address in a different wallet app (e.g., Backpack, Phantom, Solflare), you'll need to import the private key or recovery phrase associated with that address.\nTwo Key Concepts: Private Key vs. Recovery Phrase\nTo understand wallet transfers, it’s important to know the difference:\nRecovery Phrase (Seed Phrase)\nA set of 12 or 24 words\nGives access to all wallet addresses derived from that phrase\nImporting this phrase restores every account linked to it\nPrivate Key\nA unique string of characters for one specific address\nGrants access to a single wallet address only\nUseful when you want to migrate just one address, not the whole wallet\nHow to Transfer a Wallet Address\nOption 1: Using Your Private Key (Recommended for Single Address)\nExport the private key of the address you want to move (from your current wallet app).\nOpen your new wallet app (e.g., Phantom).\nSelect \"Import Wallet\" → choose \"Import using private key\".\nPaste your private key and confirm.\nThis method lets you migrate a single address without exposing your entire recovery phrase.\nOption 2: Using Your Recovery Phrase (Full Wallet Migration)\nLocate your 12 or 24 word seed phrase.\nIn the new wallet app, choose “Import Wallet” and select \"I already have a wallet\".\nEnter the recovery phrase and complete setup.\n⚠️ This gives access to all wallet addresses linked to that phrase, so only use this method on trusted devices.\nSecurity Tips\nPrefer importing using a private key when moving just one wallet address.\nNever share your recovery phrase, it gives full control over your assets.\nIf using your recovery phrase, do it on a secure, private device.\nAlways store your recovery phrase offline in a safe place.",
+  "content_hash": "755ceb39689eb970f1c7d0b7d6fd7001a36140bf2eb1ed13a818b6455e4bef72",
+  "entities": [
+    "Solana"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-0CD11E0E506A5BFC-01",
+      "text": "If you want to use your existing Solana wallet address in a different wallet app (e.g., Backpack, Phantom, Solflare), you'll need to import the private key or recovery phrase associated with that address.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0CD11E0E506A5BFC",
+      "publication_date": "2025-12-03T17:01:49Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-0CD11E0E506A5BFC-02",
+      "text": "Select \"Import Wallet\" → choose \"Import using private key\".",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0CD11E0E506A5BFC",
+      "publication_date": "2025-12-03T17:01:49Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-0CD11E0E506A5BFC-03",
+      "text": "This method lets you migrate a single address without exposing your entire recovery phrase.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0CD11E0E506A5BFC",
+      "publication_date": "2025-12-03T17:01:49Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-0CD11E0E506A5BFC-04",
+      "text": "Option 2: Using Your Recovery Phrase (Full Wallet Migration) Locate your 12 or 24 word seed phrase.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0CD11E0E506A5BFC",
+      "publication_date": "2025-12-03T17:01:49Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-0CD11E0E506A5BFC-05",
+      "text": "In the new wallet app, choose “Import Wallet” and select \"I already have a wallet\".",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0CD11E0E506A5BFC",
+      "publication_date": "2025-12-03T17:01:49Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-0CD11E0E506A5BFC-06",
+      "text": "Enter the recovery phrase and complete setup.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0CD11E0E506A5BFC",
+      "publication_date": "2025-12-03T17:01:49Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-0CD11E0E506A5BFC-07",
+      "text": "⚠️ This gives access to all wallet addresses linked to that phrase, so only use this method on trusted devices.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0CD11E0E506A5BFC",
+      "publication_date": "2025-12-03T17:01:49Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-0CD11E0E506A5BFC-08",
+      "text": "Security Tips Prefer importing using a private key when moving just one wallet address.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0CD11E0E506A5BFC",
+      "publication_date": "2025-12-03T17:01:49Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-0CD11E0E506A5BFC-09",
+      "text": "Never share your recovery phrase, it gives full control over your assets.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0CD11E0E506A5BFC",
+      "publication_date": "2025-12-03T17:01:49Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-0CD11E0E506A5BFC-10",
+      "text": "If using your recovery phrase, do it on a secure, private device.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0CD11E0E506A5BFC",
+      "publication_date": "2025-12-03T17:01:49Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-0CD11E0E506A5BFC-11",
+      "text": "Always store your recovery phrase offline in a safe place.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0CD11E0E506A5BFC",
+      "publication_date": "2025-12-03T17:01:49Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [
+    "Solana"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://backpack.app/",
+      "anchor_text": "Backpack"
+    },
+    {
+      "url": "https://phantom.com/",
+      "anchor_text": "Phantom"
+    },
+    {
+      "url": "https://www.solflare.com/download/",
+      "anchor_text": "Solflare"
+    }
+  ],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47061431907475-How-to-Transfer-a-Solana-Wallet-or-Address-to-Another-Wallet",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.187679Z"
+  }
+}

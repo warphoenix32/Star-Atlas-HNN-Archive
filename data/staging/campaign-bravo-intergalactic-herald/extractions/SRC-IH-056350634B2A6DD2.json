@@ -1,0 +1,180 @@
+{
+  "source": {
+    "source_id": "SRC-IH-056350634B2A6DD2",
+    "url_id": "URL-056350634B2A6DD2",
+    "url": "https://intergalacticherald.com/star-atlas-recap/event-recap-30-star-atlas-monthly-builder-hour-august-2025/",
+    "inventory_url": "https://intergalacticherald.com/star-atlas-recap/event-recap-30-star-atlas-monthly-builder-hour-august-2025",
+    "title": "Event Recap 30: Star Atlas Monthly Builder Hour (August 2025)",
+    "author": "Intergalactic Herald",
+    "publisher": "Intergalactic Herald",
+    "published_at": "2025-08-28T11:00:00",
+    "updated_at": "2025-08-30T18:19:14",
+    "retrieved_at": "2026-07-12T22:00:30.576174Z",
+    "document_type": "EVENT_RECAP",
+    "source_role": "CURATED_SUMMARY",
+    "source_classification": "CURATED_SUMMARY",
+    "classification_rationale": "Event recap summarizes an externally originated event, broadcast, or discussion.",
+    "wordpress_type": "posts"
+  },
+  "summary": {
+    "neutral_abstract": "In this episode, hear an AI summary of the latest Star Atlas community event. Full video recordings can be found on the YouTube channel of Star Atlas TV at https://www.youtube.com/@staratlastv. I am launching a Star Atlas merch store. Please check it out at Intergalactic Gear. I am also creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic",
+    "historical_value": "Contemporary Intergalactic Herald publication preserved with role and attribution boundaries.",
+    "current_validity_warning": "Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources."
+  },
+  "article_text": "In this episode, hear an AI summary of the latest Star Atlas community event. Full video recordings can be found on the YouTube channel of Star Atlas TV at https://www.youtube.com/@staratlastv.\nListen on Apple Podcasts\nListen on Spotify\nhttps://www.youtube.com/watch?v=IldOfgSq4xE\nI am launching a Star Atlas merch store. Please check it out at Intergalactic Gear.\nI am also creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic Coalition.\nStar Atlas Weekly Recap Newsletter – Catch up on all the important videos and articles from the Star Atlas community in a weekly recap email newsletter. https://intergalacticherald.com/star-atlas-weekly-recap-newsletter/\nStar Atlas Week in Review Podcast – Audio podcast where I break down everything that happened in Star Atlas the past week plus my analysis on what it all means. https://intergalacticherald.com/podcast/\nStar Atlas Discord News Feed Newsletter – Star Atlas Discord announcements send directly to your email so you never miss out on updates from the Star Atlas team. https://intergalacticherald.com/star-atlas-discord-news-feed/\nIf you would like to support my efforts, donations can be sent to intergalacticherald.sol\nPodcast Transcript\nThe recent “Star Atlas Monthly Builder Hour” discussed significant updates across several key areas, including the major announcement of Starframe, the release of the Sage Editor Suite’s source code, ongoing developments with Holosim, and the future of C4 and Starcom.\nA primary focus of the discussion was Starframe, which was introduced as a major announcement at the town hall. Starframe is a new framework built on Pinocchio, making it exceptionally fast, efficient, and the highest-performing framework on Solana. It offers a more modular design than Anchor, improved performance, and a more enjoyable developer experience, particularly for Rust fans, by eliminating issues like tick_info lifetimes for accounts. The Star Atlas team is actively converting all its core programs, including Sage, C4, and player profiles, to Starframe, with plans to eventually include marketplaces and lockers. A key advantage of Starframe is its ability to handle account migrations to different versions more smoothly than Anchor, utilizing enums and an unsized type system to allow for automatic updates when an account is accessed. This also enables more efficient data handling, often performing significantly better than Borsch by employing a zero-copy approach and dynamically resizing accounts cheaply. While powerful, Starframe is noted to be more complex and potentially intimidating for those new to Rust due to its heavy reliance on the Rust type and trait system, which can sometimes lead to obscure errors. The community is encouraged to assist with Starframe by using it, providing feedback, opening issues, and contributing to documentation, though it is still considered pre-production and has not yet been audited. A live coding demonstration by Sammy showcased how Starframe allows for custom implementations, such as a Borch-compatible account type, highlighting its flexibility compared to Anchor’s reliance on its macro system. This demonstrated Starframe’s philosophy of offering high-level functionality while allowing developers to replace low-level components for specific performance or customization needs, akin to an open-source library approach.\nAnother important release was the Sage Editor Suite, whose source code was made publicly available. This suite provides developers with direct access to the same development tools used by the Star Atlas team, offering insights into the complexities of C4 and aiding in product planning. The open-sourced nature of the suite, licensed under Apache, allows users to modify the code, suggest improvements, fix bugs, or even build new applications and visualizations, such as heat maps for resource distribution or custom ship stat systems. Local changes can be exported as JSON files, but actual code modifications for the public repository require pull requests and approval.\nRegarding Holosim, the video noted a recent influx of new users and highlighted its potential as a valuable tool for user acquisition, particularly since it allows users to experience the game without spending real money or incurring transaction risks. Support for Holosim is being integrated by various teams, with SLI working on an assistant and Evai having added scanning-only support. The plan is to further integrate Holosim into a web environment, though environment switching between game modes is still under development. Holosim is also among the systems shifting to RPC for higher throughput and features like quests.\nThe discussion also touched on significant updates for C4, including a major upcoming update for fleet rentals. It was confirmed that C4 will be operating with a new program ID, which means a complete overhaul of the underlying state, as previous systems like cargo have been fundamentally redesigned. The test environment for C4 will be part of the Public Test Realm (PTR), and most of its on-chain systems are already built, with UI, testing, and other final elements making up the remaining development. C4 will run on Starcom 2.1, which is effectively Starcom V3, designed to be much more scalable than the older Firebase-dependent V2, capable of supporting hundreds of thousands of users. While the architecture of Starcom 2.1 will be more open, providing a standard API spec is still being considered, as the current RPC spec doesn’t support the complex, filtered queries that Starcom offers, particularly with dynamic data structures enabled by Starframe.\nFinally, the topic of asset ownership and wallet connection for exclusive in-game access was addressed. To verify real ownership of Star Atlas assets, a wallet connection paired with a signed message is necessary to prevent faking ownership. This process currently involves looking up both wallet and profile inventories, which can be complex. However, future developments in the Zinc world aim to simplify this by making everything primarily profile-based rather than wallet-based.",
+  "content_hash": "44bc43836f5af8e1679b3b1deda9d0350cc0b0765af0350c2dc33651104980e2",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [],
+  "external_sources": [
+    {
+      "url": "https://www.youtube.com/@staratlastv",
+      "anchor_text": "https://www.youtube.com/@staratlastv"
+    },
+    {
+      "url": "https://podcasts.apple.com/us/podcast/star-atlas-week-in-review-podcast/id1678661043",
+      "anchor_text": "Listen on Apple Podcasts"
+    },
+    {
+      "url": "https://open.spotify.com/show/0aHDjCqFpy8Lzrkilv8n16",
+      "anchor_text": "Listen on Spotify"
+    },
+    {
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    }
+  ],
+  "primary_source_relationships": [
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/@staratlastv",
+      "anchor_text": "https://www.youtube.com/@staratlastv"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://podcasts.apple.com/us/podcast/star-atlas-week-in-review-podcast/id1678661043",
+      "anchor_text": "Listen on Apple Podcasts"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://open.spotify.com/show/0aHDjCqFpy8Lzrkilv8n16",
+      "anchor_text": "Listen on Spotify"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    }
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Verify which outbound links are primary sources and preserve creator attribution during promotion.",
+      "Source lineage: attribution requires manual confirmation."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=event-recap-30-star-atlas-monthly-builder-hour-august-2025&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 10528,
+    "elapsed_ms": 1840,
+    "attempts": [
+      {
+        "endpoint": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=event-recap-30-star-atlas-monthly-builder-hour-august-2025&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "http_status": 200,
+        "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=event-recap-30-star-atlas-monthly-builder-hour-august-2025&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "content_type": "application/json; charset=UTF-8",
+        "response_size": 10528,
+        "elapsed_ms": 1840
+      }
+    ]
+  },
+  "source_lineage": {
+    "publication": "Intergalactic Herald",
+    "publication_role": "CURATED_SUMMARY",
+    "relationship": "CURATED_SUMMARY_OF",
+    "primary_sources": [
+      {
+        "publication": "Star Atlas Monthly Builder Hour",
+        "author": "UNKNOWN",
+        "url": "UNKNOWN",
+        "organization": "Star Atlas",
+        "evidence": "Explicitly named in publication title"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "publication": "@Staratlastv",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/@staratlastv",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Listen on Apple Podcasts",
+        "author": "UNKNOWN",
+        "url": "https://podcasts.apple.com/us/podcast/star-atlas-week-in-review-podcast/id1678661043",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Listen on Spotify",
+        "author": "UNKNOWN",
+        "url": "https://open.spotify.com/show/0aHDjCqFpy8Lzrkilv8n16",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Intergalactic Gear",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticgear.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Intergalactic Coalition",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticcoalition.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Star Atlas Monthly Builder Hour",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "UNKNOWN"
+      }
+    ],
+    "lineage_confidence": "MEDIUM"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-80FD92B53B0F7452",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47057445677075-Why-can-t-I-withdraw-my-ship",
+    "title": "Why can't I withdraw my ship?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-03T15:14:39Z",
+    "updated_at": "2025-12-08T18:24:48Z",
+    "original_date_text": "2025-12-03T15:14:39Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "http://discord.gg/staratlas",
+        "anchor_text": "Discord"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “Why can't I withdraw my ship?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "There are two main reasons that could explain this problem:\nMake sure that you have enough sol in your wallet to pay transaction fees, it's at least recommended to have 0,03 SOL\nAlso your ship needs to be fully repaired to be withdrawn, you have to hold enough toolkit during the withdrawal process to fully repair it.If you have enough toolkit and SOL and you still can't withdraw your ship please contact one of our agents using the chatbot that you will find at the bottom right of this page or join us in Discord and create a ticket, one of our moderators will take care of your issue.",
+  "content_hash": "5783427e11ceace84016543f4059c9e917d1055f38d25cda90fac7d431c6c378",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "http://discord.gg/staratlas",
+      "anchor_text": "Discord"
+    }
+  ],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47057445677075-Why-can-t-I-withdraw-my-ship",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.399812Z"
+  }
+}

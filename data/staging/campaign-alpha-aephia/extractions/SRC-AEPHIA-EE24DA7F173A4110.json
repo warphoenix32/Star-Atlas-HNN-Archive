@@ -1,0 +1,65 @@
+{
+  "source": {
+    "source_id": "SRC-AEPHIA-EE24DA7F173A4110",
+    "url_id": "URL-EE24DA7F173A4110",
+    "url": "https://aephia.com/star-atlas/help-how-to-get-toolkits/",
+    "inventory_url": "https://aephia.com/star-atlas/help-how-to-get-toolkits",
+    "title": "HELP! How to get Toolkits?",
+    "author": "Aephia",
+    "publisher": "Aephia",
+    "published_at": "2022-04-13T18:20:57",
+    "updated_at": "2022-06-08T20:47:04",
+    "retrieved_at": "2026-07-12T21:41:01.316931Z",
+    "document_type": "REFERENCE",
+    "source_role": "COMMUNITY_INSTITUTION"
+  },
+  "summary": {
+    "neutral_abstract": "At the moment of writing, many Star Atlas enthusiasts are struggling with the Solana network, in particular when trying to acquire Toolkits to sustain their fleet. Nine out of ten times (if not far more often) your Toolkit-purchase transaction will fail. This has to do with the current — insane — levels of bot activity on the Solana network. There is no solution to this issue, but there is a way that might increase your chance of success by quite a bit. How? By temporarily using a different marketplace, like",
+    "historical_value": "Contemporary Aephia coverage preserved as a community-institution source.",
+    "current_validity_warning": "Operational, economic, governance, and roadmap statements may be historical and require reconciliation with later primary sources."
+  },
+  "article_text": "At the moment of writing, many Star Atlas enthusiasts are struggling with the Solana network, in particular when trying to acquire Toolkits to sustain their fleet.\nNine out of ten times (if not far more often) your Toolkit-purchase transaction will fail. This has to do with the current — insane — levels of bot activity on the Solana network.\nSolution?\nThere is no solution to this issue, but there is a way that might increase your chance of success by quite a bit. How? By temporarily using a different marketplace, like Raydium.\nThis has the following benefits:\nThe chance of your transaction failing appears to be smaller (but it will fail plenty of times still)\nFailure goes quicker, so you can try again faster\nUsing Raydium\nHow to do this? Follow these steps:\n1️⃣ Copy the Market ID for the Toolkits here:\n32Pr4MhSD1K4J9buESjjbSZnXWLQ5oHFgB9MhEC2hp6J\nOr, if you don’t trust this:\n– Go to the Star Atlas marketplace\n– Navigate to the Toolkit page\n– Copy the Market ID portion (the long hash with letter and numbers) from the URL\nStar Atlas — If you want to copy the market ID yourself\n2️⃣ Next, navigate to Raydium (https://dex.raydium.io/) and connect your wallet (do not forget this step, else Raydium might get stuck in a loop near the end)\n3️⃣ Click the small “+” in the blue circle near the top-left corner of the page\nRaydium — Add a new market\n4️⃣ Paste the Market ID into the first input box, and add something that makes sense to you into the other two inputs, like “Toolkit”. If you get an “Invalid market ID” notification, make sure you did not include any spaces.\nRaydium — Add a new market for Toolkits\n5️⃣ Navigate to the newly added marketplace by clicking on the current market in the top left corner and selecting “TOOOOOOOL/ATLAS” (or the name you gave the market in the previous step).\nNote: Instead of the “RAY/USDC” that you see in this screenshot, you will probably see a different market listed here, or “Select market” if you’ve never been here before.\nRaydium — Select the newly added market\n6️⃣ Now you are going to create a standard limit order, by inputting the price you are willing to pay per Toolkit into the “Limit price”. This is of course equal to the price asked by Star Atlas, which you can find on their marketplace page. For convenience, you can copy it here:\n0.0017408\n7️⃣ Enter the amount you want in the “Amount” input. If you can afford it, it would make sense to select enough so that you don’t have to come back for the next 2 to 3 days at the least.\nRaydium — Fill in your order with the official price and amount required\n8️⃣ Now, leave “Total” alone -it should have calculated the correct amount of ATLAS you will have to pay- and click the “LIMIT BUY Toolkit” button.\nThere is a good chance this results in an error, but you can do it multiple times relatively quickly. Usually sooner or later one goes through. Once it does, carry on!\n9️⃣ Go to your inventory on the Star Atlas website and claim your toolkits.\nSat Atlas — As some ATLAS was used for fees, the amount is less than ordered\n⚠️ Note: You will have received fewer toolkits than you ordered. This is normal, as there are some fees that are not automatically taken into account when the “Total” was calculated for you by Raydium.\nAgain: This is normal, as a portion of your ATLAS was used to pay for fees.\nGood luck!",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [],
+  "external_sources": [
+    "https://cdn-images-1.medium.com/max/1600/1*3Ypsm8R3R7YdmaIhxQS2bA.png\"",
+    "https://cdn-images-1.medium.com/max/1600/1*Z3WXUv8Ai7CiduUpDnifLw.png\"",
+    "https://cdn-images-1.medium.com/max/1600/1*_PYeX70pZiOXkf-bMdvYaA.png\"",
+    "https://cdn-images-1.medium.com/max/1600/1*bM2A_LKTcvpWBf8IvNLsrw.png\"",
+    "https://cdn-images-1.medium.com/max/1600/1*hAV7TuTXNn6s-_qMxmXSLA.png\"",
+    "https://cdn-images-1.medium.com/max/1600/1*hDLx4rNnte3zH54GLa_dtg.png\"",
+    "https://dex.raydium.io/",
+    "https://dex.raydium.io/\"",
+    "https://play.staratlas.com/inventory?category=resource\"",
+    "https://play.staratlas.com/market\"",
+    "https://twitter.com/staratlas/status/1514254318500663302?s=21\""
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Article was modified after publication; review temporal claims against later evidence."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://aephia.com/wp-json/wp/v2/posts?slug=help-how-to-get-toolkits&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 9884,
+    "elapsed_ms": 564
+  }
+}

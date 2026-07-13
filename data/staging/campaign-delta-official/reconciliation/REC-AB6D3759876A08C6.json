@@ -1,0 +1,14 @@
+{
+  "topic": "claims, record, reference, remain, the, this, time, what",
+  "official_source_ids": [
+    "SRC-OFF-7375CE6619CF2B43"
+  ],
+  "community_source_ids": [
+    "SRC-HNN-D6CDA50BCCC8E650"
+  ],
+  "relationship": "COMMUNITY_ADDS_CONTEXT",
+  "finding": "Automated topic overlap on: claims, record, reference, remain, the, this, time, what. Official authority is limited to the official wording; community context remains separately attributed.",
+  "confidence": "LOW",
+  "promotion_candidate": false,
+  "manual_review_required": true
+}

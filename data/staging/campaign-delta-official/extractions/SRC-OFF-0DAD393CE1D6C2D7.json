@@ -1,0 +1,127 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-0DAD393CE1D6C2D7",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47053502692243-Do-Aptitude-and-Personality-Traits-Have-Utility-in-SAGE",
+    "title": "Do Aptitude and Personality Traits Have Utility in SAGE?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-03T13:16:54Z",
+    "updated_at": "2025-12-08T18:25:00Z",
+    "original_date_text": "2025-12-03T13:16:54Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “Do Aptitude and Personality Traits Have Utility in SAGE?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Aptitude and personality traits are key features of crew members in Star Atlas, designed to provide unique advantages and customization options. However, you might be wondering whether these attributes have any utility in the current version of SAGE\nShort Answer: Not Yet\nAs of now, aptitude and personality traits do not have any functional impact in SAGE. These attributes are planned for future releases, where they will play a significant role in enhancing gameplay and providing strategic advantages. For now, all crew members are treated equally regardless of their aptitudes or personality traits.\nStay tuned for announcements on when these attributes will become active, and in the meantime, continue to explore other ways to optimize your crew’s performance in SAGE!",
+  "content_hash": "65e20a6d34e34422c1b1a0b7951e6fefbd33a4884361e3577d45dfb7667b3e80",
+  "entities": [
+    "ATLAS",
+    "Crew",
+    "SAGE"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-0DAD393CE1D6C2D7-01",
+      "text": "Aptitude and personality traits are key features of crew members in Star Atlas, designed to provide unique advantages and customization options.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0DAD393CE1D6C2D7",
+      "publication_date": "2025-12-03T13:16:54Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-0DAD393CE1D6C2D7-02",
+      "text": "However, you might be wondering whether these attributes have any utility in the current version of SAGE Short Answer: Not Yet As of now, aptitude and personality traits do not have any functional impact in SAGE.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0DAD393CE1D6C2D7",
+      "publication_date": "2025-12-03T13:16:54Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-0DAD393CE1D6C2D7-03",
+      "text": "These attributes are planned for future releases, where they will play a significant role in enhancing gameplay and providing strategic advantages.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0DAD393CE1D6C2D7",
+      "publication_date": "2025-12-03T13:16:54Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-0DAD393CE1D6C2D7-04",
+      "text": "For now, all crew members are treated equally regardless of their aptitudes or personality traits.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0DAD393CE1D6C2D7",
+      "publication_date": "2025-12-03T13:16:54Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-0DAD393CE1D6C2D7-05",
+      "text": "Stay tuned for announcements on when these attributes will become active, and in the meantime, continue to explore other ways to optimize your crew’s performance in SAGE!",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0DAD393CE1D6C2D7",
+      "publication_date": "2025-12-03T13:16:54Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "SAGE",
+    "ATLAS",
+    "Crew"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47053502692243-Do-Aptitude-and-Personality-Traits-Have-Utility-in-SAGE",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.438157Z"
+  }
+}

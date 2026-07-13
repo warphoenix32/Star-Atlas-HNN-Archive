@@ -1,0 +1,261 @@
+{
+  "source": {
+    "source_id": "SRC-IH-3E60C75BA1069525",
+    "url_id": "URL-3E60C75BA1069525",
+    "url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-59/",
+    "inventory_url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-59",
+    "title": "Star Atlas Weekly News Recap #59",
+    "author": "Intergalactic Herald",
+    "publisher": "Intergalactic Herald",
+    "published_at": "2023-05-07T17:00:31",
+    "updated_at": "2023-05-06T15:36:59",
+    "retrieved_at": "2026-07-12T22:02:31.775437Z",
+    "document_type": "NEWSLETTER",
+    "source_role": "CURATED_SUMMARY",
+    "source_classification": "CURATED_SUMMARY",
+    "classification_rationale": "Weekly newsletter/recap aggregates developments and linked sources.",
+    "wordpress_type": "posts"
+  },
+  "summary": {
+    "neutral_abstract": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week. We are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us. The Hologram published an article about the departure of a Star Atlas",
+    "historical_value": "Contemporary Intergalactic Herald publication preserved with role and attribution boundaries.",
+    "current_validity_warning": "Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources."
+  },
+  "article_text": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week.\nWe are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us.\nMetaverse Nomads #92 Star Atlas- SAGE: Escape Velocity\nMetaverse Nomads posted a video of their weekly Star Atlas live stream.\nWEEKLY STAR ATLAS NEWSLETTER #77\nAephia published their latest Star Atlas newsletter.\nATMTA Insider Spills on Quiroga Departure\nThe Hologram published an article about the departure of a Star Atlas co-founder.\nStar Atlas IP Updates\nOCG Thor posted a video about the Star Atlas IP policies.\nTalking Star Atlas Releases and S.A.G.E.\nGladiator posted a video about Star Atlas updates.\nCall to Action: Star Atlas Host Largest Scavenge Hunt Featuring Giveaway Prizes\nThe Hologram published an article about an upcoming event in SAGE Escape Velocity.\nSTAR ATLAS #178 CRASH THE GAME!\nMetaVerse Explorer posted a video about the latest Star Atlas updates.\nWhat is the size of your ship?\nGladiator posted a video comparing ship sizes in the Star Atlas Showroom.",
+  "content_hash": "d7546ea0f2640f22e81eddb302a3ebf456bc9b16bfe1ed012bb9e106f894040b",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [],
+  "external_sources": [
+    {
+      "url": "https://www.youtube.com/watch?v=EuNX76_amnk",
+      "anchor_text": "weekly Star Atlas live stream"
+    },
+    {
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-77/",
+      "anchor_text": "latest Star Atlas newsletter"
+    },
+    {
+      "url": "https://medium.com/the-hologram/atmta-insider-spills-on-quiroga-departure-e76045f906d8",
+      "anchor_text": "departure of a Star Atlas co-founder"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=EqzGsDNOAbI",
+      "anchor_text": "Star Atlas IP policies"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=5VzJq2i5sYo",
+      "anchor_text": "Star Atlas updates"
+    },
+    {
+      "url": "https://medium.com/the-hologram/call-to-action-star-atlas-host-largest-scavenge-hunt-featuring-giveaway-prizes-f5f96a83fbc3",
+      "anchor_text": "upcoming event in SAGE Escape Velocity"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ydrgAZqisCU",
+      "anchor_text": "latest Star Atlas updates."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=laICd4LqPso",
+      "anchor_text": "comparing ship sizes in the Star Atlas Showroom"
+    }
+  ],
+  "primary_source_relationships": [
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=EuNX76_amnk",
+      "anchor_text": "weekly Star Atlas live stream"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-77/",
+      "anchor_text": "latest Star Atlas newsletter"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://medium.com/the-hologram/atmta-insider-spills-on-quiroga-departure-e76045f906d8",
+      "anchor_text": "departure of a Star Atlas co-founder"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=EqzGsDNOAbI",
+      "anchor_text": "Star Atlas IP policies"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=5VzJq2i5sYo",
+      "anchor_text": "Star Atlas updates"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://medium.com/the-hologram/call-to-action-star-atlas-host-largest-scavenge-hunt-featuring-giveaway-prizes-f5f96a83fbc3",
+      "anchor_text": "upcoming event in SAGE Escape Velocity"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=ydrgAZqisCU",
+      "anchor_text": "latest Star Atlas updates."
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=laICd4LqPso",
+      "anchor_text": "comparing ship sizes in the Star Atlas Showroom"
+    }
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Verify which outbound links are primary sources and preserve creator attribution during promotion.",
+      "Short extraction requires completeness review."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-59&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 4397,
+    "elapsed_ms": 1485,
+    "attempts": [
+      {
+        "endpoint": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-59&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "http_status": 200,
+        "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-59&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "content_type": "application/json; charset=UTF-8",
+        "response_size": 4397,
+        "elapsed_ms": 1485
+      }
+    ]
+  },
+  "source_lineage": {
+    "publication": "Intergalactic Herald",
+    "publication_role": "CURATED_SUMMARY",
+    "relationship": "CURATED_SUMMARY_OF",
+    "primary_sources": [
+      {
+        "publication": "weekly Star Atlas live stream",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=EuNX76_amnk",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: weekly Star Atlas live stream"
+      },
+      {
+        "publication": "latest Star Atlas newsletter",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-77/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest Star Atlas newsletter"
+      },
+      {
+        "publication": "departure of a Star Atlas co-founder",
+        "author": "UNKNOWN",
+        "url": "https://medium.com/the-hologram/atmta-insider-spills-on-quiroga-departure-e76045f906d8",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: departure of a Star Atlas co-founder"
+      },
+      {
+        "publication": "Star Atlas IP policies",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=EqzGsDNOAbI",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas IP policies"
+      },
+      {
+        "publication": "Star Atlas updates",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=5VzJq2i5sYo",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas updates"
+      },
+      {
+        "publication": "upcoming event in SAGE Escape Velocity",
+        "author": "UNKNOWN",
+        "url": "https://medium.com/the-hologram/call-to-action-star-atlas-host-largest-scavenge-hunt-featuring-giveaway-prizes-f5f96a83fbc3",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: upcoming event in SAGE Escape Velocity"
+      },
+      {
+        "publication": "latest Star Atlas updates.",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=ydrgAZqisCU",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest Star Atlas updates."
+      },
+      {
+        "publication": "comparing ship sizes in the Star Atlas Showroom",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=laICd4LqPso",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: comparing ship sizes in the Star Atlas Showroom"
+      }
+    ],
+    "secondary_sources": [],
+    "original_creators": [
+      "Aephia"
+    ],
+    "attribution_chain": [
+      {
+        "from": "weekly Star Atlas live stream",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=EuNX76_amnk"
+      },
+      {
+        "from": "latest Star Atlas newsletter",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-77/"
+      },
+      {
+        "from": "departure of a Star Atlas co-founder",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://medium.com/the-hologram/atmta-insider-spills-on-quiroga-departure-e76045f906d8"
+      },
+      {
+        "from": "Star Atlas IP policies",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=EqzGsDNOAbI"
+      },
+      {
+        "from": "Star Atlas updates",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=5VzJq2i5sYo"
+      },
+      {
+        "from": "upcoming event in SAGE Escape Velocity",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://medium.com/the-hologram/call-to-action-star-atlas-host-largest-scavenge-hunt-featuring-giveaway-prizes-f5f96a83fbc3"
+      },
+      {
+        "from": "latest Star Atlas updates.",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=ydrgAZqisCU"
+      },
+      {
+        "from": "comparing ship sizes in the Star Atlas Showroom",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=laICd4LqPso"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  }
+}

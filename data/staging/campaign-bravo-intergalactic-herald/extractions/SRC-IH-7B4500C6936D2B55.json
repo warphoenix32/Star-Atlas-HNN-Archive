@@ -1,0 +1,384 @@
+{
+  "source": {
+    "source_id": "SRC-IH-7B4500C6936D2B55",
+    "url_id": "URL-7B4500C6936D2B55",
+    "url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-76/",
+    "inventory_url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-76",
+    "title": "Star Atlas Weekly News Recap #76",
+    "author": "Intergalactic Herald",
+    "publisher": "Intergalactic Herald",
+    "published_at": "2023-09-03T17:00:00",
+    "updated_at": "2023-09-02T16:36:56",
+    "retrieved_at": "2026-07-12T22:05:00.839764Z",
+    "document_type": "NEWSLETTER",
+    "source_role": "CURATED_SUMMARY",
+    "source_classification": "CURATED_SUMMARY",
+    "classification_rationale": "Weekly newsletter/recap aggregates developments and linked sources.",
+    "wordpress_type": "posts"
+  },
+  "summary": {
+    "neutral_abstract": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week. We are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us. We are launching a Star Atlas merch store. Please check it out at Intergalactic",
+    "historical_value": "Contemporary Intergalactic Herald publication preserved with role and attribution boundaries.",
+    "current_validity_warning": "Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources."
+  },
+  "article_text": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week.\nWe are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us.\nWe are launching a Star Atlas merch store. Please check it out at Intergalactic Gear.\nWe are creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic Coalition.\nStar Atlas Lets Build A Fleet!!\nBeyond the Horizon posted a video building his Star Atlas fleet.\nStar Atlas Chatter #11 – SAGE Labs & Does SIZE Matter?\nRahMega posted a video recapping the past week of Star Atlas news.\nMetaverse Nomads #109 Star Atlas\nMetaVerse Nomads posted a video replay of their Star Atlas livestream.\nWEEKLY STAR ATLAS NEWSLETTER #94\nAephia published their weekly Star Atlas newsletter.\nStar Atlas – 2023 Development Sneak Peek\nStar Atlas posted a video looking at ongoing game development.\n10 | WHAT THE @#$% HAPPENED TO MY STAR ATLAS EARNINGS???\nPathfinder posted a video looking at Star Atlas earnings.\nStar Atas Amazing Video & Sage Labs Spreadsheets\nBeyond the Horizon posted a video about the latest Star Atlas news.\nSTAR ATLAS #195 FORM YOUR FLEETS NOW!\nMetaVerse Explorer posted a video of Star Atlas updates.\nStar Atlas – Preparing for SAGE Labs (Zero to Hero)\nAtlas Theory posted a video in his Zero to Hero series.\nAtlas Brew #77\nThe Hologram News Network posted a video replay of the latest Atlas Brew.\nThe Atlas Brew #77\nStar Atlas TV posted a video replay of the latest Atlas Brew.\nStar Atlas Recap August 31 2023\nBeyond the Horizon posted a video recapping the latest Star Atlas news.",
+  "content_hash": "bc52f37df7411d65b5afbaf5556631b866039bba11d8a31517e29d935454a130",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [
+    "2023"
+  ],
+  "external_sources": [
+    {
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ufxKhD3nVjE",
+      "anchor_text": "Star Atlas fleet"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=pKJmkPWJ_6k",
+      "anchor_text": "past week of Star Atlas news"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=yvAqGjS1R80",
+      "anchor_text": "Star Atlas livestream"
+    },
+    {
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-94/",
+      "anchor_text": "weekly Star Atlas newsletter"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=-vqvNEhlt7Y",
+      "anchor_text": "ongoing game development"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=rEIc-6YIN2M",
+      "anchor_text": "Star Atlas earnings"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=0G3pjEBe4Hk",
+      "anchor_text": "latest Star Atlas news"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Gv03xyryMgw",
+      "anchor_text": "Star Atlas updates"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=eeb9y0tZeB4",
+      "anchor_text": "Zero to Hero series"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=q0fMbYMD-hw",
+      "anchor_text": "latest Atlas Brew"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=MPpJeg6MlI8",
+      "anchor_text": "latest Atlas Brew"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=xM1n5-wJrTw",
+      "anchor_text": "latest Star Atlas news"
+    }
+  ],
+  "primary_source_relationships": [
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=ufxKhD3nVjE",
+      "anchor_text": "Star Atlas fleet"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=pKJmkPWJ_6k",
+      "anchor_text": "past week of Star Atlas news"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=yvAqGjS1R80",
+      "anchor_text": "Star Atlas livestream"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-94/",
+      "anchor_text": "weekly Star Atlas newsletter"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=-vqvNEhlt7Y",
+      "anchor_text": "ongoing game development"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=rEIc-6YIN2M",
+      "anchor_text": "Star Atlas earnings"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=0G3pjEBe4Hk",
+      "anchor_text": "latest Star Atlas news"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=Gv03xyryMgw",
+      "anchor_text": "Star Atlas updates"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=eeb9y0tZeB4",
+      "anchor_text": "Zero to Hero series"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=q0fMbYMD-hw",
+      "anchor_text": "latest Atlas Brew"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=MPpJeg6MlI8",
+      "anchor_text": "latest Atlas Brew"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=xM1n5-wJrTw",
+      "anchor_text": "latest Star Atlas news"
+    }
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Verify which outbound links are primary sources and preserve creator attribution during promotion."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-76&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 6300,
+    "elapsed_ms": 2761,
+    "attempts": [
+      {
+        "endpoint": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-76&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "http_status": 200,
+        "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-76&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "content_type": "application/json; charset=UTF-8",
+        "response_size": 6300,
+        "elapsed_ms": 2761
+      }
+    ]
+  },
+  "source_lineage": {
+    "publication": "Intergalactic Herald",
+    "publication_role": "CURATED_SUMMARY",
+    "relationship": "CURATED_SUMMARY_OF",
+    "primary_sources": [
+      {
+        "publication": "Star Atlas fleet",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=ufxKhD3nVjE",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas fleet"
+      },
+      {
+        "publication": "past week of Star Atlas news",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=pKJmkPWJ_6k",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: past week of Star Atlas news"
+      },
+      {
+        "publication": "Star Atlas livestream",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=yvAqGjS1R80",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas livestream"
+      },
+      {
+        "publication": "weekly Star Atlas newsletter",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-94/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article with anchor text: weekly Star Atlas newsletter"
+      },
+      {
+        "publication": "ongoing game development",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=-vqvNEhlt7Y",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: ongoing game development"
+      },
+      {
+        "publication": "Star Atlas earnings",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=rEIc-6YIN2M",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas earnings"
+      },
+      {
+        "publication": "latest Star Atlas news",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=0G3pjEBe4Hk",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest Star Atlas news"
+      },
+      {
+        "publication": "Star Atlas updates",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=Gv03xyryMgw",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas updates"
+      },
+      {
+        "publication": "Zero to Hero series",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=eeb9y0tZeB4",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Zero to Hero series"
+      },
+      {
+        "publication": "latest Atlas Brew",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=q0fMbYMD-hw",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest Atlas Brew"
+      },
+      {
+        "publication": "latest Atlas Brew",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=MPpJeg6MlI8",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest Atlas Brew"
+      },
+      {
+        "publication": "latest Star Atlas news",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=xM1n5-wJrTw",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest Star Atlas news"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "publication": "Intergalactic Gear",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticgear.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Intergalactic Coalition",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticcoalition.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      }
+    ],
+    "original_creators": [
+      "Aephia",
+      "Star Atlas"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Star Atlas fleet",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=ufxKhD3nVjE"
+      },
+      {
+        "from": "past week of Star Atlas news",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=pKJmkPWJ_6k"
+      },
+      {
+        "from": "Star Atlas livestream",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=yvAqGjS1R80"
+      },
+      {
+        "from": "weekly Star Atlas newsletter",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-94/"
+      },
+      {
+        "from": "ongoing game development",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=-vqvNEhlt7Y"
+      },
+      {
+        "from": "Star Atlas earnings",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=rEIc-6YIN2M"
+      },
+      {
+        "from": "latest Star Atlas news",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=0G3pjEBe4Hk"
+      },
+      {
+        "from": "Star Atlas updates",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=Gv03xyryMgw"
+      },
+      {
+        "from": "Zero to Hero series",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=eeb9y0tZeB4"
+      },
+      {
+        "from": "latest Atlas Brew",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=q0fMbYMD-hw"
+      },
+      {
+        "from": "latest Atlas Brew",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=MPpJeg6MlI8"
+      },
+      {
+        "from": "latest Star Atlas news",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=xM1n5-wJrTw"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  }
+}

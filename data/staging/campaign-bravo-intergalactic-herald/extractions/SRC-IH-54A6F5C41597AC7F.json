@@ -1,0 +1,451 @@
+{
+  "source": {
+    "source_id": "SRC-IH-54A6F5C41597AC7F",
+    "url_id": "URL-54A6F5C41597AC7F",
+    "url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-81/",
+    "inventory_url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-81",
+    "title": "Star Atlas Weekly News Recap #81",
+    "author": "Intergalactic Herald",
+    "publisher": "Intergalactic Herald",
+    "published_at": "2023-10-08T17:00:00",
+    "updated_at": "2025-10-29T20:36:13",
+    "retrieved_at": "2026-07-12T22:03:18.728106Z",
+    "document_type": "NEWSLETTER",
+    "source_role": "CURATED_SUMMARY",
+    "source_classification": "CURATED_SUMMARY",
+    "classification_rationale": "Weekly newsletter/recap aggregates developments and linked sources.",
+    "wordpress_type": "posts"
+  },
+  "summary": {
+    "neutral_abstract": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week. We are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us. We are launching a Star Atlas merch store. Please check it out at Intergalactic",
+    "historical_value": "Contemporary Intergalactic Herald publication preserved with role and attribution boundaries.",
+    "current_validity_warning": "Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources."
+  },
+  "article_text": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week.\nWe are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us.\nWe are launching a Star Atlas merch store. Please check it out at Intergalactic Gear.\nWe are creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic Coalition.\nIf you would like to support our efforts, donations can be sent to intergalacticherald.sol\nStar Atlas Economic Report 2023 Q3\nStar Atlas published their latest economic report.\nStar Atlas Recap September 29th 2023\nBeyond the Horizon posted a video recap of the latest in Star Atlas.\nStar Atlas Economy – R4 Supply and Demand (Aephia DataRunners)\nUndisputed Noobs posted a video looking at the R4 supply and demand.\nMost people playing Star Atlas are missing this MASSIVE advantage / Weekly Recap\nUndisputed Noobs posted a video recap of the latest in Star Atlas.\nMetaverse Nomads #114 Star Atlas w/ Chypto\nMetaverse Nomads posted a video replay of their Star Atlas livestream.\nStar Atlas Ships – Introducing the Fimbul ECOS Unibomba\nStar Atlas posted a video of the Fimbul ECOS Unibomba.\nWEEKLY STAR ATLAS NEWSLETTER #99\nAephia published their weekly Star Atlas newsletter.\nThe latest Star Atlas news and drops!!\nAtlas Theory posted a video about the latest Star Atlas news.\nStar Atlas Chatter #15 – Chypto’s ALPHA & Game IDs?\nRahMega posted a video with news of Star Atlas.\n#12 | BACK… To Escape Velocity | Star Atlas\nPathfinder posted a video about his experiences in Star Atlas SAGE Labs.\nStar Atlas Opens Doors to Free Development for Solana Builders and Creators in SAGE Labs and Beyond\nStar Atlas published an article about open-platforming its developer tools.\nThe Atlas Brew #82\nStar Atlas TV posted a video replay of the latest Atlas Brew.\nStar Atlas Brew #82: SAGE Labs w/ Economics Team\nTLDR 3.0 posted a recap of the latest Atlas Brew.\nStar Atlas Sage Labs Week 2 And SDU’s\nBeyond the Horizon posted a video about his experiences in SAGE Labs.\nStar Atlas: Let’s Go Shopping!\nOCG Thor posted a video about a Star Atlas tool he is building.",
+  "content_hash": "5caf818347b13987299bc8957a0a4c18961296ac0e0cf1c928e60beca874d0af",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [
+    "2023"
+  ],
+  "external_sources": [
+    {
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/economic-reports/star-atlas-economic-report-2023-q3",
+      "anchor_text": "latest economic report"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=85ywVm-yGDA",
+      "anchor_text": "latest in Star Atlas"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=wWh6T01mSO4",
+      "anchor_text": "R4 supply and demand"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Uycxn_miPSE",
+      "anchor_text": "latest in Star Atlas"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=3HwwPj9ZavQ",
+      "anchor_text": "Star Atlas livestream"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=iCRGynIcpIo",
+      "anchor_text": "Fimbul ECOS Unibomba"
+    },
+    {
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-99/",
+      "anchor_text": "weekly Star Atlas newsletter"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=FdBtceiV5E4",
+      "anchor_text": "latest Star Atlas news"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=U3If8VJt_OQ",
+      "anchor_text": "news of Star Atlas"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ZMM3sLKZEyU",
+      "anchor_text": "experiences in Star Atlas SAGE Labs"
+    },
+    {
+      "url": "https://medium.com/star-atlas/star-atlas-opens-free-development-solana-builders-creators-sage-labs-programs-1d6cbcdd33d7",
+      "anchor_text": "developer tools"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=-oynmNP_qug",
+      "anchor_text": "latest Atlas Brew"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=AieGdLeNfbg",
+      "anchor_text": "latest Atlas Brew"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=hXu7YdNqEbU",
+      "anchor_text": "experiences in SAGE Labs"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=tf4atFrKvZI",
+      "anchor_text": "Star Atlas tool"
+    }
+  ],
+  "primary_source_relationships": [
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://experience.staratlas.com/newsroom/economic-reports/star-atlas-economic-report-2023-q3",
+      "anchor_text": "latest economic report"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=85ywVm-yGDA",
+      "anchor_text": "latest in Star Atlas"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=wWh6T01mSO4",
+      "anchor_text": "R4 supply and demand"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=Uycxn_miPSE",
+      "anchor_text": "latest in Star Atlas"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=3HwwPj9ZavQ",
+      "anchor_text": "Star Atlas livestream"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=iCRGynIcpIo",
+      "anchor_text": "Fimbul ECOS Unibomba"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-99/",
+      "anchor_text": "weekly Star Atlas newsletter"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=FdBtceiV5E4",
+      "anchor_text": "latest Star Atlas news"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=U3If8VJt_OQ",
+      "anchor_text": "news of Star Atlas"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=ZMM3sLKZEyU",
+      "anchor_text": "experiences in Star Atlas SAGE Labs"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://medium.com/star-atlas/star-atlas-opens-free-development-solana-builders-creators-sage-labs-programs-1d6cbcdd33d7",
+      "anchor_text": "developer tools"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=-oynmNP_qug",
+      "anchor_text": "latest Atlas Brew"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=AieGdLeNfbg",
+      "anchor_text": "latest Atlas Brew"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=hXu7YdNqEbU",
+      "anchor_text": "experiences in SAGE Labs"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=tf4atFrKvZI",
+      "anchor_text": "Star Atlas tool"
+    }
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Verify which outbound links are primary sources and preserve creator attribution during promotion."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-81&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 7850,
+    "elapsed_ms": 1676,
+    "attempts": [
+      {
+        "endpoint": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-81&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "http_status": 200,
+        "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-81&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "content_type": "application/json; charset=UTF-8",
+        "response_size": 7850,
+        "elapsed_ms": 1676
+      }
+    ]
+  },
+  "source_lineage": {
+    "publication": "Intergalactic Herald",
+    "publication_role": "CURATED_SUMMARY",
+    "relationship": "CURATED_SUMMARY_OF",
+    "primary_sources": [
+      {
+        "publication": "latest economic report",
+        "author": "UNKNOWN",
+        "url": "https://experience.staratlas.com/newsroom/economic-reports/star-atlas-economic-report-2023-q3",
+        "organization": "ATMTA / Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest economic report"
+      },
+      {
+        "publication": "latest in Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=85ywVm-yGDA",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest in Star Atlas"
+      },
+      {
+        "publication": "R4 supply and demand",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=wWh6T01mSO4",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: R4 supply and demand"
+      },
+      {
+        "publication": "latest in Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=Uycxn_miPSE",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest in Star Atlas"
+      },
+      {
+        "publication": "Star Atlas livestream",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=3HwwPj9ZavQ",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas livestream"
+      },
+      {
+        "publication": "Fimbul ECOS Unibomba",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=iCRGynIcpIo",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Fimbul ECOS Unibomba"
+      },
+      {
+        "publication": "weekly Star Atlas newsletter",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-99/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article with anchor text: weekly Star Atlas newsletter"
+      },
+      {
+        "publication": "latest Star Atlas news",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=FdBtceiV5E4",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest Star Atlas news"
+      },
+      {
+        "publication": "news of Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=U3If8VJt_OQ",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: news of Star Atlas"
+      },
+      {
+        "publication": "experiences in Star Atlas SAGE Labs",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=ZMM3sLKZEyU",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: experiences in Star Atlas SAGE Labs"
+      },
+      {
+        "publication": "developer tools",
+        "author": "UNKNOWN",
+        "url": "https://medium.com/star-atlas/star-atlas-opens-free-development-solana-builders-creators-sage-labs-programs-1d6cbcdd33d7",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: developer tools"
+      },
+      {
+        "publication": "latest Atlas Brew",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=-oynmNP_qug",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest Atlas Brew"
+      },
+      {
+        "publication": "latest Atlas Brew",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=AieGdLeNfbg",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest Atlas Brew"
+      },
+      {
+        "publication": "experiences in SAGE Labs",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=hXu7YdNqEbU",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: experiences in SAGE Labs"
+      },
+      {
+        "publication": "Star Atlas tool",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=tf4atFrKvZI",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas tool"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "publication": "Intergalactic Gear",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticgear.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Intergalactic Coalition",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticcoalition.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      }
+    ],
+    "original_creators": [
+      "ATMTA / Star Atlas",
+      "Aephia",
+      "Star Atlas"
+    ],
+    "attribution_chain": [
+      {
+        "from": "latest economic report",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://experience.staratlas.com/newsroom/economic-reports/star-atlas-economic-report-2023-q3"
+      },
+      {
+        "from": "latest in Star Atlas",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=85ywVm-yGDA"
+      },
+      {
+        "from": "R4 supply and demand",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=wWh6T01mSO4"
+      },
+      {
+        "from": "latest in Star Atlas",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=Uycxn_miPSE"
+      },
+      {
+        "from": "Star Atlas livestream",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=3HwwPj9ZavQ"
+      },
+      {
+        "from": "Fimbul ECOS Unibomba",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=iCRGynIcpIo"
+      },
+      {
+        "from": "weekly Star Atlas newsletter",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-99/"
+      },
+      {
+        "from": "latest Star Atlas news",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=FdBtceiV5E4"
+      },
+      {
+        "from": "news of Star Atlas",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=U3If8VJt_OQ"
+      },
+      {
+        "from": "experiences in Star Atlas SAGE Labs",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=ZMM3sLKZEyU"
+      },
+      {
+        "from": "developer tools",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://medium.com/star-atlas/star-atlas-opens-free-development-solana-builders-creators-sage-labs-programs-1d6cbcdd33d7"
+      },
+      {
+        "from": "latest Atlas Brew",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=-oynmNP_qug"
+      },
+      {
+        "from": "latest Atlas Brew",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=AieGdLeNfbg"
+      },
+      {
+        "from": "experiences in SAGE Labs",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=hXu7YdNqEbU"
+      },
+      {
+        "from": "Star Atlas tool",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=tf4atFrKvZI"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-AD99A9BB2DDC4F0A",
+    "url": "https://github.com/staratlasmeta/FoundationKit#readme",
+    "title": "FoundationKit README",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "staratlasmeta GitHub organization",
+    "published_at": "2022-09-08T20:15:31Z",
+    "updated_at": "2025-07-13T09:54:07Z",
+    "original_date_text": "2022-09-08T20:15:31Z",
+    "document_type": "TECHNICAL_DOCUMENTATION",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "staratlasmeta GitHub organization",
+    "publication_role": "TECHNICAL_DOCUMENTATION",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "staratlasmeta GitHub organization"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official technical documentation titled “FoundationKit README.” This record preserves what staratlasmeta GitHub organization publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "# FoundationKit\n\n## What is it\n\nThe **Foundation Kit** is an **Unreal Engine Plugin** created for `Unreal Engine 4` and `Unreal Engine 5`\nallowing `Unreal Game Clients` to connect and interact with the **Solana Blockchain**.\n\nIt consists of 2 layers, the `Core SDK` and the `Wallet and Blueprint interface` that uses the SDK.\n\nThe `Core SDK` contains all of the tools necessary to connect to the Solana Blockchain. From generating mnemonics and key pairs, importing private keys, checking account data, sending and receiving transactions, to interacting with on-chain programs. \n\nThe second layer is the `Wallet and  Blueprint interface`. The wallet manages multiple accounts, encrypting and saving locally your key pairs. All that is needed is for the user to develop their own custom UI and hook it up. Either via `C++` or by using the `Blueprint interface`.\n\n## Documentation\nYou can find the documentation on how to use the FoundationKit [here](https://github.com/staratlasmeta/FoundationKit/tree/main/Documentation/).\n",
+  "content_hash": "a923955a128868bfc4f62e79ea8bdd366a13a1677a672d3bd41519da3c3104b7",
+  "entities": [
+    "CORE",
+    "Solana"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-AD99A9BB2DDC4F0A-01",
+      "text": "# FoundationKit  ## What is it  The **Foundation Kit** is an **Unreal Engine Plugin** created for `Unreal Engine 4` and `Unreal Engine 5` allowing `Unreal Game Clients` to connect and interact with the **Solana Blockchain**.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-AD99A9BB2DDC4F0A",
+      "publication_date": "2022-09-08T20:15:31Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-AD99A9BB2DDC4F0A-02",
+      "text": "It consists of 2 layers, the `Core SDK` and the `Wallet and Blueprint interface` that uses the SDK.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-AD99A9BB2DDC4F0A",
+      "publication_date": "2022-09-08T20:15:31Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-AD99A9BB2DDC4F0A-03",
+      "text": "The `Core SDK` contains all of the tools necessary to connect to the Solana Blockchain.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-AD99A9BB2DDC4F0A",
+      "publication_date": "2022-09-08T20:15:31Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-AD99A9BB2DDC4F0A-04",
+      "text": "From generating mnemonics and key pairs, importing private keys, checking account data, sending and receiving transactions, to interacting with on-chain programs.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-AD99A9BB2DDC4F0A",
+      "publication_date": "2022-09-08T20:15:31Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-AD99A9BB2DDC4F0A-05",
+      "text": "The second layer is the `Wallet and  Blueprint interface`.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-AD99A9BB2DDC4F0A",
+      "publication_date": "2022-09-08T20:15:31Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-AD99A9BB2DDC4F0A-06",
+      "text": "The wallet manages multiple accounts, encrypting and saving locally your key pairs.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-AD99A9BB2DDC4F0A",
+      "publication_date": "2022-09-08T20:15:31Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-AD99A9BB2DDC4F0A-07",
+      "text": "All that is needed is for the user to develop their own custom UI and hook it up.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-AD99A9BB2DDC4F0A",
+      "publication_date": "2022-09-08T20:15:31Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-AD99A9BB2DDC4F0A-08",
+      "text": "Either via `C++` or by using the `Blueprint interface`.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-AD99A9BB2DDC4F0A",
+      "publication_date": "2022-09-08T20:15:31Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-AD99A9BB2DDC4F0A-09",
+      "text": "## Documentation You can find the documentation on how to use the FoundationKit [here](https://github.com/staratlasmeta/FoundationKit/tree/main/Documentation/).",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-AD99A9BB2DDC4F0A",
+      "publication_date": "2022-09-08T20:15:31Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "CORE"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [
+    "Solana"
+  ],
+  "guilds": [],
+  "external_sources": [],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "https://api.github.com/repos/staratlasmeta/FoundationKit/readme",
+    "final_url": "https://api.github.com/repos/staratlasmeta/FoundationKit/readme",
+    "http_status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "response_size": 2241,
+    "retrieved_at": "2026-07-13T01:05:07.155410Z",
+    "elapsed_ms": 227
+  }
+}

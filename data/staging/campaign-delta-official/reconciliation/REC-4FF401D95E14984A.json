@@ -1,0 +1,14 @@
+{
+  "topic": "claims, game, lore, record, remain, source, the, this",
+  "official_source_ids": [
+    "SRC-OFF-0373ACC08A613B85"
+  ],
+  "community_source_ids": [
+    "SRC-HNN-2505F6293729CD47"
+  ],
+  "relationship": "COMMUNITY_ADDS_CONTEXT",
+  "finding": "Automated topic overlap on: claims, game, lore, record, remain, source, the, this, time. Official authority is limited to the official wording; community context remains separately attributed.",
+  "confidence": "MEDIUM",
+  "promotion_candidate": false,
+  "manual_review_required": true
+}

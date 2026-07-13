@@ -1,0 +1,295 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-BFA6D14D54A9AA6A",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47021308457747-What-is-the-Star-Atlas-DAO-Treasury",
+    "title": "What is the Star Atlas DAO Treasury?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-02T15:04:02Z",
+    "updated_at": "2025-12-08T18:24:21Z",
+    "original_date_text": "2025-12-02T15:04:02Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://govern.staratlas.com/treasury",
+        "anchor_text": "DAO Treasury"
+      },
+      {
+        "url": "https://govern.staratlas.com/proposals/bc8475e4-0525-4fba-b4f8-b848ccde7a9d",
+        "anchor_text": "PIP-1"
+      },
+      {
+        "url": "https://govern.staratlas.com/proposals/1e2d7066-ec44-46e0-945f-b2e56b1e61b0",
+        "anchor_text": "PIP-2"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “What is the Star Atlas DAO Treasury?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "The DAO Treasury is a critical component of decentralized governance in Star Atlas. It holds the funds collected from in-game economic activity and empowers the community to shape the ecosystem’s future through formal proposals and on-chain voting.\nWhere Does the Treasury Get Its Funds?\nThe Star Atlas DAO treasury is funded through multiple in-game economic activities across the ecosystem. Since the launch of Faction Fleet in December 2021, it has accumulated over 1 billion ATLAS in total revenue.\nCurrent sources of income include:\nMarketplace fees collected from player trades on the Galactic Marketplace\nGame Activity such as ATLAS costs for crafting or self-destructing assets in Sage\nThese ATLAS-based fees are automatically routed to the DAO treasury, giving the community real financial influence over the metaverse’s future.\nWho Controls the Treasury?\nThe treasury is currently safeguarded by ATMTA, who manages the funds on behalf of the DAO while the multisig treasury system undergoes audits and final security checks.\nEventually, the DAO treasury will be fully on-chain and governed via multisig, meaning spending decisions will require community voting and decentralized approval processes.\n⚠️ While the treasury is not yet held in a decentralized wallet, DAO proposals to use these funds can already be made and voted on.\nWhat Can the Treasury Be Used For?\nThe Star Atlas DAO Treasury collects ATLAS from in-game fees and taxes (e.g. SAGE crafting, Galactic Marketplace) and can be used in any way the community approves via on-chain proposals.\nCommunity-approved uses include:\nFunding development: Tools, features, infrastructure, or upgrades to improve Star Atlas.\nGrants & Ecosystem Growth: Through the Ecosystem Fund (PIP-4), the DAO can fund builders, DACs, artists, educators, and event organizers via structured grant proposals.\nFoundation Operations: Covering legal, technical, or coordination services provided by the Star Atlas Foundation (PIP-2).\nAsset acquisition: Purchasing NFTs, IP licenses, or resources to support long-term DAO strategy.\nDAO-hosted events or competitions: Funding prizes, marketing, or coordination.\nFunds can only be spent through on-chain governance approval and are currently managed by the Star Atlas Foundation under DAO control (see PIP-1 and PIP-2).",
+  "content_hash": "7cc222df0d91d52dc72918612e7c4ebd5fb99592d3e0be8bff662782b364f8d6",
+  "entities": [
+    "ATLAS",
+    "ATMTA",
+    "Faction Fleet",
+    "Galactic Marketplace",
+    "SAGE",
+    "Star Atlas DAO",
+    "Star Atlas Foundation"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-BFA6D14D54A9AA6A-01",
+      "text": "The DAO Treasury is a critical component of decentralized governance in Star Atlas.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-BFA6D14D54A9AA6A",
+      "publication_date": "2025-12-02T15:04:02Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-BFA6D14D54A9AA6A-02",
+      "text": "It holds the funds collected from in-game economic activity and empowers the community to shape the ecosystem’s future through formal proposals and on-chain voting.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-BFA6D14D54A9AA6A",
+      "publication_date": "2025-12-02T15:04:02Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-BFA6D14D54A9AA6A-03",
+      "text": "The Star Atlas DAO treasury is funded through multiple in-game economic activities across the ecosystem.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-BFA6D14D54A9AA6A",
+      "publication_date": "2025-12-02T15:04:02Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-BFA6D14D54A9AA6A-04",
+      "text": "Since the launch of Faction Fleet in December 2021, it has accumulated over 1 billion ATLAS in total revenue.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-BFA6D14D54A9AA6A",
+      "publication_date": "2025-12-02T15:04:02Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-BFA6D14D54A9AA6A-05",
+      "text": "Current sources of income include: Marketplace fees collected from player trades on the Galactic Marketplace Game Activity such as ATLAS costs for crafting or self-destructing assets in Sage These ATLAS-based fees are automatically routed to the DAO treasury, giving the community real financial influence over the metaverse’s future.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-BFA6D14D54A9AA6A",
+      "publication_date": "2025-12-02T15:04:02Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-BFA6D14D54A9AA6A-06",
+      "text": "The treasury is currently safeguarded by ATMTA, who manages the funds on behalf of the DAO while the multisig treasury system undergoes audits and final security checks.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-BFA6D14D54A9AA6A",
+      "publication_date": "2025-12-02T15:04:02Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-BFA6D14D54A9AA6A-07",
+      "text": "Eventually, the DAO treasury will be fully on-chain and governed via multisig, meaning spending decisions will require community voting and decentralized approval processes.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-BFA6D14D54A9AA6A",
+      "publication_date": "2025-12-02T15:04:02Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-BFA6D14D54A9AA6A-08",
+      "text": "⚠️ While the treasury is not yet held in a decentralized wallet, DAO proposals to use these funds can already be made and voted on.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-BFA6D14D54A9AA6A",
+      "publication_date": "2025-12-02T15:04:02Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-BFA6D14D54A9AA6A-09",
+      "text": "The Star Atlas DAO Treasury collects ATLAS from in-game fees and taxes (e.g.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-BFA6D14D54A9AA6A",
+      "publication_date": "2025-12-02T15:04:02Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-BFA6D14D54A9AA6A-10",
+      "text": "SAGE crafting, Galactic Marketplace) and can be used in any way the community approves via on-chain proposals.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-BFA6D14D54A9AA6A",
+      "publication_date": "2025-12-02T15:04:02Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-BFA6D14D54A9AA6A-11",
+      "text": "Community-approved uses include: Funding development: Tools, features, infrastructure, or upgrades to improve Star Atlas.",
+      "claim_type": "GOVERNANCE_APPROVAL",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-BFA6D14D54A9AA6A",
+      "publication_date": "2025-12-02T15:04:02Z",
+      "confidence": "MEDIUM",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-BFA6D14D54A9AA6A-12",
+      "text": "Grants & Ecosystem Growth: Through the Ecosystem Fund (PIP-4), the DAO can fund builders, DACs, artists, educators, and event organizers via structured grant proposals.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-BFA6D14D54A9AA6A",
+      "publication_date": "2025-12-02T15:04:02Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-BFA6D14D54A9AA6A-13",
+      "text": "Foundation Operations: Covering legal, technical, or coordination services provided by the Star Atlas Foundation (PIP-2).",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-BFA6D14D54A9AA6A",
+      "publication_date": "2025-12-02T15:04:02Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-BFA6D14D54A9AA6A-14",
+      "text": "Asset acquisition: Purchasing NFTs, IP licenses, or resources to support long-term DAO strategy.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-BFA6D14D54A9AA6A",
+      "publication_date": "2025-12-02T15:04:02Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-BFA6D14D54A9AA6A-15",
+      "text": "DAO-hosted events or competitions: Funding prizes, marketing, or coordination.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-BFA6D14D54A9AA6A",
+      "publication_date": "2025-12-02T15:04:02Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "SAGE",
+    "Faction Fleet",
+    "Galactic Marketplace",
+    "ATLAS"
+  ],
+  "governance_items": [
+    {
+      "claim_id": "CLM-BFA6D14D54A9AA6A-11",
+      "text": "Community-approved uses include: Funding development: Tools, features, infrastructure, or upgrades to improve Star Atlas.",
+      "claim_type": "GOVERNANCE_APPROVAL",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-BFA6D14D54A9AA6A",
+      "publication_date": "2025-12-02T15:04:02Z",
+      "confidence": "MEDIUM",
+      "requires_follow_up": true
+    }
+  ],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [
+    "ATMTA",
+    "Star Atlas DAO",
+    "Star Atlas Foundation"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://govern.staratlas.com/treasury",
+      "anchor_text": "DAO Treasury"
+    },
+    {
+      "url": "https://govern.staratlas.com/proposals/bc8475e4-0525-4fba-b4f8-b848ccde7a9d",
+      "anchor_text": "PIP-1"
+    },
+    {
+      "url": "https://govern.staratlas.com/proposals/1e2d7066-ec44-46e0-945f-b2e56b1e61b0",
+      "anchor_text": "PIP-2"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://govern.staratlas.com/treasury",
+      "anchor_text": "DAO Treasury"
+    },
+    {
+      "url": "https://govern.staratlas.com/proposals/bc8475e4-0525-4fba-b4f8-b848ccde7a9d",
+      "anchor_text": "PIP-1"
+    },
+    {
+      "url": "https://govern.staratlas.com/proposals/1e2d7066-ec44-46e0-945f-b2e56b1e61b0",
+      "anchor_text": "PIP-2"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47021308457747-What-is-the-Star-Atlas-DAO-Treasury",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.313093Z"
+  }
+}

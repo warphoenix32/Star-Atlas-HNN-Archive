@@ -1,0 +1,233 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-F16EDE163D73ECE2",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47053502454547-How-to-Use-Crew-Members-in-SAGE-for-Crafting-Operations",
+    "title": "How to Use Crew Members in SAGE for Crafting Operations?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-03T13:16:51Z",
+    "updated_at": "2025-12-08T18:24:41Z",
+    "original_date_text": "2025-12-03T13:16:51Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “How to Use Crew Members in SAGE for Crafting Operations?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Using crew members for crafting operations in SAGE is straightforward and similar to other in-game tasks. To begin crafting, you'll need to navigate to your starbase and initiate the crafting process.\nStep-by-Step Guide to Crafting with Crew in SAGE\nAccess Your Starbase Operations: Go to the \"Starbase Operations\" section within SAGE to view the available crafting options.\nSelect the Item to Craft: Choose the specific item you want to craft. Make sure you have the necessary resources and materials for the crafting process.\nDetermine the Quantity: Enter the number of items you wish to craft. This will help you plan your crafting strategy and resource allocation.\nAssign Your Crew: Assign the desired number of crew members to the crafting task. All crew members currently have the same utility in SAGE, so the system will randomly select crew from those available at the starbase. The number of crew members you assign will affect the crafting speed when producing multiple items simultaneously.\nStart Crafting: Once everything is set, click the \"Start Crafting\" button to begin the process. Your assigned crew will start working on the items, and the progress will be displayed in real time.\nAdditional Tips:\nCrew Assignment: If crafting a single item, adding more crew members won’t speed up the process. However, when crafting multiple items (e.g., crafting two units of fuel simultaneously), allocating more crew members will result in faster completion compared to using fewer crew members.\nCrafting Time: Larger quantities or more complex items may take longer to craft, so plan accordingly.",
+  "content_hash": "43f1f7c7842a9e5c3136ef484c89ae360d0989c63dc77fa242f2917e5a390a75",
+  "entities": [
+    "Crew",
+    "SAGE"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-F16EDE163D73ECE2-01",
+      "text": "Using crew members for crafting operations in SAGE is straightforward and similar to other in-game tasks.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F16EDE163D73ECE2",
+      "publication_date": "2025-12-03T13:16:51Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F16EDE163D73ECE2-02",
+      "text": "To begin crafting, you'll need to navigate to your starbase and initiate the crafting process.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F16EDE163D73ECE2",
+      "publication_date": "2025-12-03T13:16:51Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F16EDE163D73ECE2-03",
+      "text": "Step-by-Step Guide to Crafting with Crew in SAGE Access Your Starbase Operations: Go to the \"Starbase Operations\" section within SAGE to view the available crafting options.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F16EDE163D73ECE2",
+      "publication_date": "2025-12-03T13:16:51Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F16EDE163D73ECE2-04",
+      "text": "Select the Item to Craft: Choose the specific item you want to craft.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F16EDE163D73ECE2",
+      "publication_date": "2025-12-03T13:16:51Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F16EDE163D73ECE2-05",
+      "text": "Make sure you have the necessary resources and materials for the crafting process.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F16EDE163D73ECE2",
+      "publication_date": "2025-12-03T13:16:51Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F16EDE163D73ECE2-06",
+      "text": "Determine the Quantity: Enter the number of items you wish to craft.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F16EDE163D73ECE2",
+      "publication_date": "2025-12-03T13:16:51Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F16EDE163D73ECE2-07",
+      "text": "This will help you plan your crafting strategy and resource allocation.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F16EDE163D73ECE2",
+      "publication_date": "2025-12-03T13:16:51Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F16EDE163D73ECE2-08",
+      "text": "Assign Your Crew: Assign the desired number of crew members to the crafting task.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F16EDE163D73ECE2",
+      "publication_date": "2025-12-03T13:16:51Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F16EDE163D73ECE2-09",
+      "text": "All crew members currently have the same utility in SAGE, so the system will randomly select crew from those available at the starbase.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F16EDE163D73ECE2",
+      "publication_date": "2025-12-03T13:16:51Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F16EDE163D73ECE2-10",
+      "text": "The number of crew members you assign will affect the crafting speed when producing multiple items simultaneously.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F16EDE163D73ECE2",
+      "publication_date": "2025-12-03T13:16:51Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F16EDE163D73ECE2-11",
+      "text": "Start Crafting: Once everything is set, click the \"Start Crafting\" button to begin the process.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F16EDE163D73ECE2",
+      "publication_date": "2025-12-03T13:16:51Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F16EDE163D73ECE2-12",
+      "text": "Your assigned crew will start working on the items, and the progress will be displayed in real time.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F16EDE163D73ECE2",
+      "publication_date": "2025-12-03T13:16:51Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F16EDE163D73ECE2-13",
+      "text": "Additional Tips: Crew Assignment: If crafting a single item, adding more crew members won’t speed up the process.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F16EDE163D73ECE2",
+      "publication_date": "2025-12-03T13:16:51Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F16EDE163D73ECE2-14",
+      "text": "However, when crafting multiple items (e.g., crafting two units of fuel simultaneously), allocating more crew members will result in faster completion compared to using fewer crew members.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F16EDE163D73ECE2",
+      "publication_date": "2025-12-03T13:16:51Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F16EDE163D73ECE2-15",
+      "text": "Crafting Time: Larger quantities or more complex items may take longer to craft, so plan accordingly.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F16EDE163D73ECE2",
+      "publication_date": "2025-12-03T13:16:51Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "SAGE",
+    "Crew"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47053502454547-How-to-Use-Crew-Members-in-SAGE-for-Crafting-Operations",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.376256Z"
+  }
+}

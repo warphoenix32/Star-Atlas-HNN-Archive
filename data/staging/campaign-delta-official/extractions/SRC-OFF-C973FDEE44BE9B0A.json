@@ -1,0 +1,123 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-C973FDEE44BE9B0A",
+    "url": "https://build.staratlas.com/dev-resources/apis-and-data/galactic-marketplace",
+    "title": "Star Atlas Build",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Build / ATMTA",
+    "published_at": null,
+    "updated_at": "2026-04-16T16:32:35.000Z",
+    "original_date_text": "2026-04-16T16:32:35.000Z",
+    "document_type": "TECHNICAL_DOCUMENTATION",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Build / ATMTA",
+    "publication_role": "TECHNICAL_DOCUMENTATION",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://www.npmjs.com/package/@staratlas/galactic-marketplace",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://staratlasmeta.github.io/star-atlas-programs/galactic-marketplace",
+        "anchor_text": ""
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Build / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official technical documentation titled “Star Atlas Build.” This record preserves what Star Atlas Build / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Galactic Marketplace | Star Atlas Build\nSkip to contentStar Atlas BuildSearchK\nAppearance\nMenuReturn to top\nGalactic Marketplace ​\nIntroduction ​\nThis is an NPM module for interfacing with the Galactic Marketplace\nPackage\nDescription\nVersion\nDocs\n@staratlas/galactic-marketplace\nTypeScript bindings for the galactic-marketplace program\nInstallation ​\nReference: https://www.npmjs.com/package/@staratlas/galactic-marketplace\nbash\nnpm i @staratlas/galactic-marketplace\nExamples ​\nComing soon...",
+  "content_hash": "ebf50798df953f7fbd18c11247085d3d5b63ea99faf2faff8431462841a6b7b8",
+  "entities": [
+    "ATLAS",
+    "Galactic Marketplace"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-C973FDEE44BE9B0A-01",
+      "text": "Galactic Marketplace | Star Atlas Build Skip to contentStar Atlas BuildSearchK Appearance MenuReturn to top Galactic Marketplace ​ Introduction ​ This is an NPM module for interfacing with the Galactic Marketplace Package Description Version Docs @staratlas/galactic-marketplace TypeScript bindings for the galactic-marketplace program Installation ​ Reference: https://www.npmjs.com/package/@staratlas/galactic-marketplace bash npm i @staratlas/galactic-marketplace Examples ​ Coming soon...",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-C973FDEE44BE9B0A",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Galactic Marketplace",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/galactic-marketplace",
+      "anchor_text": "Skip to content"
+    },
+    {
+      "url": "https://build.staratlas.com/",
+      "anchor_text": "Star Atlas Build"
+    },
+    {
+      "url": "https://discord.com/invite/staratlas",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://www.npmjs.com/package/@staratlas/galactic-marketplace",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://staratlasmeta.github.io/star-atlas-programs/galactic-marketplace",
+      "anchor_text": ""
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/galactic-marketplace",
+      "anchor_text": "Skip to content"
+    },
+    {
+      "url": "https://build.staratlas.com/",
+      "anchor_text": "Star Atlas Build"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://build.staratlas.com/dev-resources/apis-and-data/galactic-marketplace",
+    "final_url": "https://build.staratlas.com/dev-resources/apis-and-data/galactic-marketplace",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 33553,
+    "retrieved_at": "2026-07-13T01:04:26.809286Z",
+    "elapsed_ms": 198
+  }
+}

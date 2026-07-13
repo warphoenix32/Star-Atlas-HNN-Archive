@@ -1,0 +1,633 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-C6B9C26055452AF8",
+    "url": "https://experience.staratlas.com/newsroom/star-atlas-news/star-atlas-launches-unreal-engine-5-powered-pre-alpha-showroom-on-the-epic",
+    "title": "Star Atlas Launches Unreal Engine 5-powered Pre-Alpha Showroom on the Epic Games Store | Star Atlas",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Newsroom / ATMTA",
+    "published_at": "2022-09-30",
+    "updated_at": null,
+    "original_date_text": "Sep 30, 2022",
+    "document_type": "OFFICIAL_ANNOUNCEMENT",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Newsroom / ATMTA",
+    "publication_role": "ECONOMIC_REPORT",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://play.staratlas.com",
+        "anchor_text": "Play Now"
+      },
+      {
+        "url": "https://coinmarketcap.com/currencies/star-atlas/",
+        "anchor_text": "CMC"
+      },
+      {
+        "url": "https://www.coingecko.com/en/coins/star-atlas",
+        "anchor_text": "CoinGecko"
+      },
+      {
+        "url": "https://coinmarketcap.com/currencies/star-atlas-polis/",
+        "anchor_text": "CMC"
+      },
+      {
+        "url": "https://www.coingecko.com/en/coins/star-atlas-dao",
+        "anchor_text": "CoinGecko"
+      },
+      {
+        "url": "https://discord.gg/staratlas",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://t.me/staratlasgame",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://www.reddit.com/r/StarAtlas/",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://www.facebook.com/StarAtlasMMO",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://www.instagram.com/staratlasgame/",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://www.youtube.com/channel/UCt-y8Npwje5KDG5MSZ0a9Jw",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://www.twitch.tv/staratlasgame",
+        "anchor_text": ""
+      },
+      {
+        "url": "http://play.staratlas.com/",
+        "anchor_text": "Star Atlas"
+      },
+      {
+        "url": "https://store.epicgames.com/p/star-atlas-bead34",
+        "anchor_text": "Epic Games Store"
+      },
+      {
+        "url": "https://www.unrealengine.com/",
+        "anchor_text": "Unreal Engine 5 (UE5)"
+      },
+      {
+        "url": "https://c212.net/c/link/?t=0&l=en&o=3663203-1&h=4007058594&u=https%3A%2F%2Fsolana.com%2F&a=Solana+blockchain.",
+        "anchor_text": "Solana blockchain"
+      },
+      {
+        "url": "http://solana.com/",
+        "anchor_text": "Solana Foundation"
+      },
+      {
+        "url": "https://c212.net/c/link/?t=0&l=en&o=3663203-1&h=2463664663&u=https%3A%2F%2Ffellowship.mlh.io%2Fpartners&a=the+MLH+Fellowship",
+        "anchor_text": "Major League Hacking Web3 Fellowship"
+      },
+      {
+        "url": "https://staratlas.com/campaigns/core-graphic-novel",
+        "anchor_text": "Star Atlas: CORE"
+      },
+      {
+        "url": "https://govern.staratlas.com/lockers/atlas",
+        "anchor_text": "ATLAS Locking"
+      },
+      {
+        "url": "https://medium.com/star-atlas/the-star-atlas-dao-releases-its-sustainable-governance-framework-5a45b4fad790",
+        "anchor_text": "The Sustainable Governance Framework for the Star Atlas DAO"
+      },
+      {
+        "url": "https://hangar.staratlas.com/",
+        "anchor_text": "the Hangar"
+      },
+      {
+        "url": "https://c212.net/c/link/?t=0&l=en&o=3663203-1&h=3080757180&u=http%3A%2F%2Fdiscord.gg%2FStarAtlas&a=Star+Atlas+Discord",
+        "anchor_text": "Star Atlas Discord"
+      },
+      {
+        "url": "https://youtu.be/77xQE51uRmM",
+        "anchor_text": "in here"
+      },
+      {
+        "url": "https://t.co/PHb65b12LP",
+        "anchor_text": "https://store.epicgames.com/en-US/p/star-atlas-bead34"
+      },
+      {
+        "url": "https://t.co/kusYK6rtNA",
+        "anchor_text": "https://hangar.staratlas.com"
+      },
+      {
+        "url": "https://t.co/Hd229RjvRq",
+        "anchor_text": "https://staratlas.com/campaigns/core-graphic-novel"
+      },
+      {
+        "url": "https://t.co/RpEzgc789W",
+        "anchor_text": "https://staratlas.com/assets/pdfs/sustainable-governance.pdf"
+      },
+      {
+        "url": "https://t.co/wtC1NLuThp",
+        "anchor_text": "https://support.staratlas.com/knowledge"
+      },
+      {
+        "url": "https://c212.net/c/link/?t=0&l=en&o=3663203-1&h=3753628769&u=https%3A%2F%2Fc212.net%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D3518016-1%26h%3D2748636143%26u%3Dhttps%253A%252F%252Fc212.net%252Fc%252Flink%252F%253Ft%253D0%2526l%253Den%2526o%253D3397231-1%2526h%253D2982849003%2526u%253Dhttp%25253A%25252F%25252Fsolana.com%25252F%2526a%253DSolana%26a%3DSolana&a=Solana",
+        "anchor_text": "Solana"
+      },
+      {
+        "url": "https://c212.net/c/link/?t=0&l=en&o=3663203-1&h=1765538021&u=https%3A%2F%2Fc212.net%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D3518016-1%26h%3D1530369193%26u%3Dhttps%253A%252F%252Fc212.net%252Fc%252Flink%252F%253Ft%253D0%2526l%253Den%2526o%253D3397231-1%2526h%253D3652583731%2526u%253Dhttps%25253A%25252F%25252Fstaratlas.com%25252F%2526a%253DStarAtlas.com%26a%3DStarAtlas.com&a=StarAtlas.com",
+        "anchor_text": "StarAtlas.com"
+      },
+      {
+        "url": "https://c212.net/c/link/?t=0&l=en&o=3663203-1&h=3476152977&u=https%3A%2F%2Fc212.net%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D3518016-1%26h%3D3921988929%26u%3Dhttps%253A%252F%252Fc212.net%252Fc%252Flink%252F%253Ft%253D0%2526l%253Den%2526o%253D3397231-1%2526h%253D445912205%2526u%253Dhttp%25253A%25252F%25252Fplay.staratlas.com%25252F%2526a%253DPlay.StarAtlas.com%26a%3DPlay.StarAtlas.com&a=Play.StarAtlas.com",
+        "anchor_text": "Play.StarAtlas.com"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Newsroom / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official economic report titled “Star Atlas Launches Unreal Engine 5-powered Pre-Alpha Showroom on the Epic Games Store | Star Atlas.” This record preserves what Star Atlas Newsroom / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Star Atlas Launches Unreal Engine 5-powered Pre-Alpha Showroom on the Epic Games Store | Star Atlas\nPlay Now\nEconomic Reports\nWhite Paper • PDF\nRead Our Official White Paper!\nEconomics Paper • PDF\nLearn the tokenomics of ATLAS and POLIS in the galactic economy.\nGovernance Documentation\nLearn how Star Atlas is governed and built by its community.\nATLAS\n(\nCMC\nCoinGecko\n)\nPOLIS\n(\nCMC\nCoinGecko\n)\nTerms of Service\nPrivacy Policy\nPromotional Terms\nPlay Now\nBack\nSep 30, 2022\nTag: Latest News\nStar Atlas Launches Unreal Engine 5-powered Pre-Alpha Showroom on the Epic Games Store\nOpen-sourcing of its UE5 SDK for Solana, ATLAS Locking, and a Star Atlas Graphic Novel among the latest updates unveiled by the Star Atlas team\nBack to top\nStar Atlas, a next-gen gaming experience with triple-A game design and visuals powered by Unreal Engine 5 — built on the Solana blockchain — today hosted their second community-focused 426LIVE event announcing a series of updates, including the highly-anticipated launch of the first playable experience in Star Atlas, available on the Epic Games Store.\nMichael Wagner, Co-Founder of Star Atlas and CEO of ATMTA, Inc., commented, “We’re really excited to finally be able to give users a taste of Star Atlas and start to bring this immersive world to life. We’re excited to bring our triple-A quality blockchain game to the Epic Games Store, and we can’t wait to see web3 gaming become mainstream.”\n426LIVE:NYK Keynote Product Announcements\nStar Atlas: Showroom / Pre-Alpha Gameplay Demo\nThe Showroom features a real-time Unreal Engine 5 (UE5) game environment and is the first glimpse into what players can look forward to in Star Atlas. The downloadable Pre-Alpha demo client combines UE5’s Nanite, Lumen, and other cutting-edge graphics technology, to deliver cinematic quality video game visuals, with the state-of-the-art in blockchain, allowing for a display of in-game assets that’s wholly owned by the players. The full Showroom with expanded functionality is aimed for release in Q4 2022. You can obtain an access key to the Pre-Alpha demo by joining the Star Atlas metaverse, selecting a faction, choosing your ship and enrolling it in your faction’s fleet to be eligible for a key.\nDanny Floyd, Co-Founder and CPO of ATMTA, Inc., commented on the Pre-Alpha Demo: “With this first Pre-Alpha module released on the Epic Games Store, Star Atlas continues to pave the way for mass adoption of Web3 gaming. As one of the early adopters to utilize UE5’s advanced all-new technologies like Nanite and Lumen, we believe that we’re setting the worldwide standards for the next generation of triple-A gaming. With every single pixel and texture expertly placed in the environment, we achieve the best immersive experience with a look and feel that rivals reality itself.”\nFoundation Software Development Kit: F-KIT\nThe fully open source SDK is the ultimate tool designed to lead an entire new generation of entertainment and facilitate the mass adoption of web3 gaming. Available to any developer worldwide, it enables quick and simple integration of Unreal Engine 5 with the Solana blockchain. By sharing with developers worldwide, Star Atlas is making it easier than ever for studios to build on the Solana blockchain.\nMatt Sorg, Head of Partner Engineering of the Solana Foundation, commented on the Foundation SDK launch: “Star Atlas is a pioneer that is bolstering the entire Solana ecosystem. With a major reduction in development time and cost compared to building the functionality from scratch, Star Atlas is supporting and expediting the development of high quality Solana games and lowering the barrier of entry for studios new to blockchain gaming and Solana.”\nYat Siu, the Co-Founder and Executive Chairman of Animoca Brands, commented: “Channeling the spirit of Web3, the Star Atlas F-kit paves the way for mass adoption of decentralized gaming. It instantly renders the open metaverse accessible to hundreds of millions of new entrants and enables anyone to build immersive experiences themselves, creating more opportunities through digital ownership and by giving game studios and publishers the ability to integrate the Solana blockchain into high-quality projects built using Unreal Engine.”\nStar Atlas participates in the MLH Fellowship\nTo introduce aspiring developers to the future of web3 gaming, Star Atlas is participating in the Major League Hacking Web3 Fellowship, a program sponsored by Solana where developers come to contribute to projects and launch their careers in the web3 ecosystem. Over the course of 12 weeks, 4 emerging developers will pair up with the Star Atlas development team to expand the use cases supported by the Foundation SDK.\nJon Gottfried, Co-Founder of Major League Hacking, commented on the project: “We see a lot of developers that are passionate about web3, and they’ve been clamoring for a project in the gaming space — now we can give them the best of both worlds. This program is designed to power the next generation of open source developers, and we see this partnership as a pathway for the MLH community to help build the future of web3 gaming.”\nStar Atlas: CORE\nStar Atlas: CORE is an episodic graphic novel that brings the Star Atlas metaverse, its lore, and characters to a global audience. Featuring a gripping tale with high-quality art, this first-of-its-kind metaverse graphic novel is being released to the community in individual chapters that follow the story development and will be available for reading on the Star Atlas website as well as in the Showroom at a later date. Sign up for CORE updates.\nTim McBurnie, Lead Artist at ATMTA, Inc, commented on the release of CORE: “The CORE graphic novel takes you on a journey of a lifetime in the form of individual chapters that mark key developments in the Star Atlas lore and deepen the reader’s understanding of the Star Atlas metaverse.”\nATLAS Locking\nATLAS Locking is a new feature in the Star Atlas DAO interface that makes the galactic economy and its Marketplace even more interwoven with the governance layer. Much like the recently announced POLIS Locking, players can now lock their ATLAS tokens for up to five years. See the ATLAS Locker here and lock your ATLAS.\nDan Park, General Counsel at ATMTA, Inc., commented on the Star Atlas DAO: “The Sustainable Governance Framework for the Star Atlas DAO reflects a community-first and community-driven ethos. Just as players own Star Atlas assets via non-fungible tokens and ecosystem development is increasingly led by community developers, the fate of the Star Atlas metaverse itself is in the hands of a decentralized and diverse community expressing its will via on-chain governance.”\nMr. Wagner concluded: “To bring the future to Unreal and blockchain developers at warp speed, we are also publishing F-kit, a first-ever entirely open source SDK for easily connecting the Solana blockchain to Unreal Engine 5 projects.”\nThe event also brought a new web-based 3D fleet viewer for Star Atlas players, who can now head to the Hangar to view their WebGL-fidelity spaceships. See the new feature here.\nAlso unveiled was a revamped home page on [Play.StarAtlas.com](http://play.staratlas.com/), which now features an overview of the newly released products. Check it out.\nThis 426LIVE is the second in a series of community events marking the grand finale on the cusp of Star Atlas summer, with the first having taken place earlier this summer in July, announcing new releases like the new Galactic Marketplace and the Star Atlas DAO. These events will be followed by additional product releases throughout the next months, with more to be announced on the Star Atlas Discord and elsewhere.\nWatch the full 426LIVE:NYK livestream recording on YouTube in here\nProduct Release Recap\nStar Atlas Showroom: https://store.epicgames.com/en-US/p/star-atlas-bead34\nWeb-based Fleet Viewer: https://hangar.staratlas.com\nStar Atlas: CORE Graphic Novel: https://staratlas.com/campaigns/core-graphic-novel\nATLAS Locking — Lock your ATLAS: https://govern.staratlas.com/lockers\nRead the Governance Whitepaper: https://staratlas.com/assets/pdfs/sustainable-governance.pdf\nNew Knowledge Base Content: https://support.staratlas.com/knowledge\nABOUT STAR ATLAS\nStar Atlas is a next-gen gaming metaverse emerging from the confluence of state-of-the-art blockchain, real-time graphics, multiplayer video game, and decentralized financial technologies. Real-time graphics technology using Unreal Engine 5’s Nanite allows for cinematic quality video game visuals. Blockchain technology using the Solana protocol establishes a largely serverless and secured gameplay experience.\nNon-fungible tokens obtained and traded within Star Atlas create an economy that replicates the tangibility of real-world assets and ownership.\nTo learn more, visit StarAtlas.com, download the game demo on the Epic Game Store, join a faction at Play.StarAtlas.com.\nPrev\nThe Showroom - A Journey Through a Handcrafted Metaverse\nNext\nThe Atlas Star ✧ Issue #11\nA tale about building a new world…\nTrailer\nWe use cookies to enhance your experience and analyze our site usage.\nPlease see our Privacy Policy\nfor more information.\nAccept Cookies",
+  "content_hash": "542d61cdd368eb6907324734d9b46a7365c1fa3bdbc64f1240184d08f8c0b676",
+  "entities": [
+    "ATLAS",
+    "ATMTA",
+    "Animoca Brands",
+    "CORE",
+    "Danny Floyd",
+    "F-KIT",
+    "Galactic Marketplace",
+    "Michael Wagner",
+    "POLIS",
+    "Showroom",
+    "Solana",
+    "Star Atlas DAO",
+    "Tim McBurnie"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-C6B9C26055452AF8-01",
+      "text": "Star Atlas Launches Unreal Engine 5-powered Pre-Alpha Showroom on the Epic Games Store | Star Atlas Play Now Economic Reports White Paper • PDF Read Our Official White Paper!",
+      "claim_type": "EVENT_OCCURRED",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-C6B9C26055452AF8",
+      "publication_date": "2022-09-30",
+      "confidence": "MEDIUM",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-C6B9C26055452AF8-02",
+      "text": "We’re excited to bring our triple-A quality blockchain game to the Epic Games Store, and we can’t wait to see web3 gaming become mainstream.” 426LIVE:NYK Keynote Product Announcements Star Atlas: Showroom / Pre-Alpha Gameplay Demo The Showroom features a real-time Unreal Engine 5 (UE5) game environment and is the first glimpse into what players can look forward to in Star Atlas.",
+      "claim_type": "EVENT_OCCURRED",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-C6B9C26055452AF8",
+      "publication_date": "2022-09-30",
+      "confidence": "MEDIUM",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-C6B9C26055452AF8-03",
+      "text": "The full Showroom with expanded functionality is aimed for release in Q4 2022.",
+      "claim_type": "EVENT_OCCURRED",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-C6B9C26055452AF8",
+      "publication_date": "2022-09-30",
+      "confidence": "MEDIUM",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-C6B9C26055452AF8-04",
+      "text": "Danny Floyd, Co-Founder and CPO of ATMTA, Inc., commented on the Pre-Alpha Demo: “With this first Pre-Alpha module released on the Epic Games Store, Star Atlas continues to pave the way for mass adoption of Web3 gaming.",
+      "claim_type": "EVENT_OCCURRED",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-C6B9C26055452AF8",
+      "publication_date": "2022-09-30",
+      "confidence": "MEDIUM",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-C6B9C26055452AF8-05",
+      "text": "Available to any developer worldwide, it enables quick and simple integration of Unreal Engine 5 with the Solana blockchain.",
+      "claim_type": "EVENT_OCCURRED",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-C6B9C26055452AF8",
+      "publication_date": "2022-09-30",
+      "confidence": "MEDIUM",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-C6B9C26055452AF8-06",
+      "text": "Matt Sorg, Head of Partner Engineering of the Solana Foundation, commented on the Foundation SDK launch: “Star Atlas is a pioneer that is bolstering the entire Solana ecosystem.",
+      "claim_type": "EVENT_OCCURRED",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-C6B9C26055452AF8",
+      "publication_date": "2022-09-30",
+      "confidence": "MEDIUM",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-C6B9C26055452AF8-07",
+      "text": "With a major reduction in development time and cost compared to building the functionality from scratch, Star Atlas is supporting and expediting the development of high quality Solana games and lowering the barrier of entry for studios new to blockchain gaming and Solana.” Yat Siu, the Co-Founder and Executive Chairman of Animoca Brands, commented: “Channeling the spirit of Web3, the Star Atlas F-kit paves the way for mass adoption of decentralized gaming.",
+      "claim_type": "EVENT_OCCURRED",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-C6B9C26055452AF8",
+      "publication_date": "2022-09-30",
+      "confidence": "MEDIUM",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-C6B9C26055452AF8-08",
+      "text": "Over the course of 12 weeks, 4 emerging developers will pair up with the Star Atlas development team to expand the use cases supported by the Foundation SDK.",
+      "claim_type": "ANNOUNCEMENT",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-C6B9C26055452AF8",
+      "publication_date": "2022-09-30",
+      "confidence": "HIGH",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-C6B9C26055452AF8-09",
+      "text": "Jon Gottfried, Co-Founder of Major League Hacking, commented on the project: “We see a lot of developers that are passionate about web3, and they’ve been clamoring for a project in the gaming space — now we can give them the best of both worlds.",
+      "claim_type": "EVENT_OCCURRED",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-C6B9C26055452AF8",
+      "publication_date": "2022-09-30",
+      "confidence": "MEDIUM",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-C6B9C26055452AF8-10",
+      "text": "This program is designed to power the next generation of open source developers, and we see this partnership as a pathway for the MLH community to help build the future of web3 gaming.” Star Atlas: CORE Star Atlas: CORE is an episodic graphic novel that brings the Star Atlas metaverse, its lore, and characters to a global audience.",
+      "claim_type": "EVENT_OCCURRED",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-C6B9C26055452AF8",
+      "publication_date": "2022-09-30",
+      "confidence": "MEDIUM",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-C6B9C26055452AF8-11",
+      "text": "Featuring a gripping tale with high-quality art, this first-of-its-kind metaverse graphic novel is being released to the community in individual chapters that follow the story development and will be available for reading on the Star Atlas website as well as in the Showroom at a later date.",
+      "claim_type": "ANNOUNCEMENT",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-C6B9C26055452AF8",
+      "publication_date": "2022-09-30",
+      "confidence": "HIGH",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-C6B9C26055452AF8-12",
+      "text": "Tim McBurnie, Lead Artist at ATMTA, Inc, commented on the release of CORE: “The CORE graphic novel takes you on a journey of a lifetime in the form of individual chapters that mark key developments in the Star Atlas lore and deepen the reader’s understanding of the Star Atlas metaverse.” ATLAS Locking ATLAS Locking is a new feature in the Star Atlas DAO interface that makes the galactic economy and its Marketplace even more interwoven with the governance layer.",
+      "claim_type": "EVENT_OCCURRED",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-C6B9C26055452AF8",
+      "publication_date": "2022-09-30",
+      "confidence": "MEDIUM",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-C6B9C26055452AF8-13",
+      "text": "Much like the recently announced POLIS Locking, players can now lock their ATLAS tokens for up to five years.",
+      "claim_type": "ANNOUNCEMENT",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-C6B9C26055452AF8",
+      "publication_date": "2022-09-30",
+      "confidence": "HIGH",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-C6B9C26055452AF8-14",
+      "text": "Just as players own Star Atlas assets via non-fungible tokens and ecosystem development is increasingly led by community developers, the fate of the Star Atlas metaverse itself is in the hands of a decentralized and diverse community expressing its will via on-chain governance.” Mr.",
+      "claim_type": "ANNOUNCEMENT",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-C6B9C26055452AF8",
+      "publication_date": "2022-09-30",
+      "confidence": "HIGH",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-C6B9C26055452AF8-15",
+      "text": "Also unveiled was a revamped home page on [Play.StarAtlas.com](http://play.staratlas.com/), which now features an overview of the newly released products.",
+      "claim_type": "EVENT_OCCURRED",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-C6B9C26055452AF8",
+      "publication_date": "2022-09-30",
+      "confidence": "MEDIUM",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Galactic Marketplace",
+    "Showroom",
+    "CORE",
+    "POLIS",
+    "ATLAS",
+    "F-KIT"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [
+    "Michael Wagner",
+    "Danny Floyd",
+    "Tim McBurnie"
+  ],
+  "organizations": [
+    "ATMTA",
+    "Star Atlas DAO",
+    "Solana",
+    "Animoca Brands"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://experience.staratlas.com/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://play.staratlas.com",
+      "anchor_text": "Play Now"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/economic-reports/",
+      "anchor_text": "Economic Reports"
+    },
+    {
+      "url": "https://experience.staratlas.com/assets/pdfs/white-paper.pdf",
+      "anchor_text": "White Paper • PDF Read Our Official White Paper!"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/governance-documentation",
+      "anchor_text": "Governance Documentation Learn how Star Atlas is governed and built by its community."
+    },
+    {
+      "url": "https://coinmarketcap.com/currencies/star-atlas/",
+      "anchor_text": "CMC"
+    },
+    {
+      "url": "https://www.coingecko.com/en/coins/star-atlas",
+      "anchor_text": "CoinGecko"
+    },
+    {
+      "url": "https://coinmarketcap.com/currencies/star-atlas-polis/",
+      "anchor_text": "CMC"
+    },
+    {
+      "url": "https://www.coingecko.com/en/coins/star-atlas-dao",
+      "anchor_text": "CoinGecko"
+    },
+    {
+      "url": "https://twitter.com/staratlas",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://discord.gg/staratlas",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://t.me/staratlasgame",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/StarAtlas/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://www.facebook.com/StarAtlasMMO",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://www.instagram.com/staratlasgame/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCt-y8Npwje5KDG5MSZ0a9Jw",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://www.twitch.tv/staratlasgame",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://experience.staratlas.com/terms-of-service",
+      "anchor_text": "Terms of Service"
+    },
+    {
+      "url": "https://experience.staratlas.com/privacy-policy",
+      "anchor_text": "Privacy Policy"
+    },
+    {
+      "url": "https://experience.staratlas.com/promotional-terms-and-conditions",
+      "anchor_text": "Promotional Terms"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/news",
+      "anchor_text": "Back"
+    },
+    {
+      "url": "http://play.staratlas.com/",
+      "anchor_text": "Star Atlas"
+    },
+    {
+      "url": "https://store.epicgames.com/p/star-atlas-bead34",
+      "anchor_text": "Epic Games Store"
+    },
+    {
+      "url": "https://www.unrealengine.com/",
+      "anchor_text": "Unreal Engine 5 (UE5)"
+    },
+    {
+      "url": "https://c212.net/c/link/?t=0&l=en&o=3663203-1&h=4007058594&u=https%3A%2F%2Fsolana.com%2F&a=Solana+blockchain.",
+      "anchor_text": "Solana blockchain"
+    },
+    {
+      "url": "http://solana.com/",
+      "anchor_text": "Solana Foundation"
+    },
+    {
+      "url": "https://c212.net/c/link/?t=0&l=en&o=3663203-1&h=2463664663&u=https%3A%2F%2Ffellowship.mlh.io%2Fpartners&a=the+MLH+Fellowship",
+      "anchor_text": "Major League Hacking Web3 Fellowship"
+    },
+    {
+      "url": "https://staratlas.com/campaigns/core-graphic-novel",
+      "anchor_text": "Star Atlas: CORE"
+    },
+    {
+      "url": "https://govern.staratlas.com/lockers/atlas",
+      "anchor_text": "ATLAS Locking"
+    },
+    {
+      "url": "https://medium.com/star-atlas/the-star-atlas-dao-releases-its-sustainable-governance-framework-5a45b4fad790",
+      "anchor_text": "The Sustainable Governance Framework for the Star Atlas DAO"
+    },
+    {
+      "url": "https://hangar.staratlas.com/",
+      "anchor_text": "the Hangar"
+    },
+    {
+      "url": "https://c212.net/c/link/?t=0&l=en&o=3663203-1&h=3080757180&u=http%3A%2F%2Fdiscord.gg%2FStarAtlas&a=Star+Atlas+Discord",
+      "anchor_text": "Star Atlas Discord"
+    },
+    {
+      "url": "https://youtu.be/77xQE51uRmM",
+      "anchor_text": "in here"
+    },
+    {
+      "url": "https://t.co/PHb65b12LP",
+      "anchor_text": "https://store.epicgames.com/en-US/p/star-atlas-bead34"
+    },
+    {
+      "url": "https://t.co/kusYK6rtNA",
+      "anchor_text": "https://hangar.staratlas.com"
+    },
+    {
+      "url": "https://t.co/Hd229RjvRq",
+      "anchor_text": "https://staratlas.com/campaigns/core-graphic-novel"
+    },
+    {
+      "url": "https://t.co/RpEzgc789W",
+      "anchor_text": "https://staratlas.com/assets/pdfs/sustainable-governance.pdf"
+    },
+    {
+      "url": "https://t.co/wtC1NLuThp",
+      "anchor_text": "https://support.staratlas.com/knowledge"
+    },
+    {
+      "url": "https://c212.net/c/link/?t=0&l=en&o=3663203-1&h=3753628769&u=https%3A%2F%2Fc212.net%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D3518016-1%26h%3D2748636143%26u%3Dhttps%253A%252F%252Fc212.net%252Fc%252Flink%252F%253Ft%253D0%2526l%253Den%2526o%253D3397231-1%2526h%253D2982849003%2526u%253Dhttp%25253A%25252F%25252Fsolana.com%25252F%2526a%253DSolana%26a%3DSolana&a=Solana",
+      "anchor_text": "Solana"
+    },
+    {
+      "url": "https://c212.net/c/link/?t=0&l=en&o=3663203-1&h=1765538021&u=https%3A%2F%2Fc212.net%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D3518016-1%26h%3D1530369193%26u%3Dhttps%253A%252F%252Fc212.net%252Fc%252Flink%252F%253Ft%253D0%2526l%253Den%2526o%253D3397231-1%2526h%253D3652583731%2526u%253Dhttps%25253A%25252F%25252Fstaratlas.com%25252F%2526a%253DStarAtlas.com%26a%3DStarAtlas.com&a=StarAtlas.com",
+      "anchor_text": "StarAtlas.com"
+    },
+    {
+      "url": "https://c212.net/c/link/?t=0&l=en&o=3663203-1&h=3476152977&u=https%3A%2F%2Fc212.net%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D3518016-1%26h%3D3921988929%26u%3Dhttps%253A%252F%252Fc212.net%252Fc%252Flink%252F%253Ft%253D0%2526l%253Den%2526o%253D3397231-1%2526h%253D445912205%2526u%253Dhttp%25253A%25252F%25252Fplay.staratlas.com%25252F%2526a%253DPlay.StarAtlas.com%26a%3DPlay.StarAtlas.com&a=Play.StarAtlas.com",
+      "anchor_text": "Play.StarAtlas.com"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/star-atlas-news/the-showroom-a-journey-through-a-handcrafted-metaverse",
+      "anchor_text": "Prev The Showroom - A Journey Through a Handcrafted Metaverse"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/star-atlas-news/the-atlas-star-issue-11",
+      "anchor_text": "Next The Atlas Star ✧ Issue #11 A tale about building a new world…"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/star-atlas-news/star-atlas-launches-unreal-engine-5-powered-pre-alpha-showroom-on-the-epic",
+      "anchor_text": "Trailer"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://experience.staratlas.com/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://play.staratlas.com",
+      "anchor_text": "Play Now"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/economic-reports/",
+      "anchor_text": "Economic Reports"
+    },
+    {
+      "url": "https://experience.staratlas.com/assets/pdfs/white-paper.pdf",
+      "anchor_text": "White Paper • PDF Read Our Official White Paper!"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/governance-documentation",
+      "anchor_text": "Governance Documentation Learn how Star Atlas is governed and built by its community."
+    },
+    {
+      "url": "https://experience.staratlas.com/terms-of-service",
+      "anchor_text": "Terms of Service"
+    },
+    {
+      "url": "https://experience.staratlas.com/privacy-policy",
+      "anchor_text": "Privacy Policy"
+    },
+    {
+      "url": "https://experience.staratlas.com/promotional-terms-and-conditions",
+      "anchor_text": "Promotional Terms"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/news",
+      "anchor_text": "Back"
+    },
+    {
+      "url": "http://play.staratlas.com/",
+      "anchor_text": "Star Atlas"
+    },
+    {
+      "url": "https://staratlas.com/campaigns/core-graphic-novel",
+      "anchor_text": "Star Atlas: CORE"
+    },
+    {
+      "url": "https://govern.staratlas.com/lockers/atlas",
+      "anchor_text": "ATLAS Locking"
+    },
+    {
+      "url": "https://hangar.staratlas.com/",
+      "anchor_text": "the Hangar"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/star-atlas-news/the-showroom-a-journey-through-a-handcrafted-metaverse",
+      "anchor_text": "Prev The Showroom - A Journey Through a Handcrafted Metaverse"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/star-atlas-news/the-atlas-star-issue-11",
+      "anchor_text": "Next The Atlas Star ✧ Issue #11 A tale about building a new world…"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/star-atlas-news/star-atlas-launches-unreal-engine-5-powered-pre-alpha-showroom-on-the-epic",
+      "anchor_text": "Trailer"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://experience.staratlas.com/newsroom/star-atlas-news/star-atlas-launches-unreal-engine-5-powered-pre-alpha-showroom-on-the-epic",
+    "final_url": "https://experience.staratlas.com/newsroom/star-atlas-news/star-atlas-launches-unreal-engine-5-powered-pre-alpha-showroom-on-the-epic",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "response_size": 72059,
+    "retrieved_at": "2026-07-13T01:04:49.097756Z",
+    "elapsed_ms": 242
+  }
+}

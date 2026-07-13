@@ -1,0 +1,361 @@
+{
+  "source": {
+    "source_id": "SRC-IH-7B8EDE45C01AFC53",
+    "url_id": "URL-7B8EDE45C01AFC53",
+    "url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-121/",
+    "inventory_url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-121",
+    "title": "Star Atlas Weekly News Recap #121",
+    "author": "Intergalactic Herald",
+    "publisher": "Intergalactic Herald",
+    "published_at": "2024-07-14T17:00:00",
+    "updated_at": "2024-07-12T22:08:17",
+    "retrieved_at": "2026-07-12T22:05:05.075696Z",
+    "document_type": "NEWSLETTER",
+    "source_role": "CURATED_SUMMARY",
+    "source_classification": "CURATED_SUMMARY",
+    "classification_rationale": "Weekly newsletter/recap aggregates developments and linked sources.",
+    "wordpress_type": "posts"
+  },
+  "summary": {
+    "neutral_abstract": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week. We are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us. We are launching a Star Atlas merch store. Please check it out at Intergalactic",
+    "historical_value": "Contemporary Intergalactic Herald publication preserved with role and attribution boundaries.",
+    "current_validity_warning": "Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources."
+  },
+  "article_text": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week.\nWe are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us.\nWe are launching a Star Atlas merch store. Please check it out at Intergalactic Gear.\nWe are creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic Coalition.\nIf you would like to support our efforts, donations can be sent to intergalacticherald.sol\nMetaverse Nomads #154 – Star Atlas Town Hall #43 Recap w/ Virtuwul\nMetaverse Nomads posted their weekly Star Atlas livestream.\nStar Atlas Townhall #43 – TLDR\nBeth posted a recap of the Star Atlas Townhall.\nStar Atlas Townhall UnrealEngine Preview\nPockThePirate posted a video talking about the latest preview of Star Atlas using Unreal Engine.\nA Dawn for a DAO — Star Atlas Kickstarts Its Path Toward Political Decentralization\nStar Atlas published an article about the start of the Star Atlas DAO.\nWEEKLY STAR ATLAS NEWSLETTER #137\nAephia published their weekly Star Atlas newsletter.\nDAO Release\nStar Atlas TV posted a recording of the Star Atlas DAO release.\nOn Star Atlas DAO Governance\nKrigs published an article about governance in the Star Atlas DAO.\nSTAR ATLAS #242 Roadmap Updated & Polis Utility Finally!\nMetaVerse Explorer posted a video of Star Atlas updates.\nThe Atlas Brew #119\nStar Atlas TV posted a recording of the latest Atlas Brew.\nStar Atlas DAO Release – TLDR\nBeth posted a recap of the Star Atlas DAO release event.\nPIP 1 & 2 Discussion Threads TLDR\nBeth posted a recap of the discussion threads about the first proposals for the Star Atlas DAO.",
+  "content_hash": "85236e81e9844b3057ed943397e5f56cc22280894a984e06908a722a66e898c6",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [],
+  "external_sources": [
+    {
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "url": "https://www.youtube.com/live/aXssbcQ9V90",
+      "anchor_text": "weekly Star Atlas livestream"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=qYRmHoDnznA",
+      "anchor_text": "Star Atlas Townhall"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Plywyb0zJGw",
+      "anchor_text": "latest preview of Star Atlas"
+    },
+    {
+      "url": "https://medium.com/star-atlas/a-dawn-for-a-dao-star-atlas-kickstarts-its-path-toward-political-decentralization-b001d8ce6be5",
+      "anchor_text": "start of the Star Atlas DAO"
+    },
+    {
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-137/",
+      "anchor_text": "weekly Star Atlas newsletter"
+    },
+    {
+      "url": "https://www.youtube.com/live/4osBYMTVX-M",
+      "anchor_text": "Star Atlas DAO release"
+    },
+    {
+      "url": "https://hologramnews.com/on-star-atlas-dao-governance/",
+      "anchor_text": "governance in the Star Atlas DAO"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=6Itd8T2Klzw",
+      "anchor_text": "Star Atlas updates"
+    },
+    {
+      "url": "https://www.youtube.com/live/4EqiBPRTPSE",
+      "anchor_text": "latest Atlas Brew"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=t0oVsDcf1HE",
+      "anchor_text": "Star Atlas DAO release event"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=05PoMOnRNVk",
+      "anchor_text": "first proposals for the Star Atlas DAO"
+    }
+  ],
+  "primary_source_relationships": [
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/live/aXssbcQ9V90",
+      "anchor_text": "weekly Star Atlas livestream"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=qYRmHoDnznA",
+      "anchor_text": "Star Atlas Townhall"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=Plywyb0zJGw",
+      "anchor_text": "latest preview of Star Atlas"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://medium.com/star-atlas/a-dawn-for-a-dao-star-atlas-kickstarts-its-path-toward-political-decentralization-b001d8ce6be5",
+      "anchor_text": "start of the Star Atlas DAO"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-137/",
+      "anchor_text": "weekly Star Atlas newsletter"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/live/4osBYMTVX-M",
+      "anchor_text": "Star Atlas DAO release"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://hologramnews.com/on-star-atlas-dao-governance/",
+      "anchor_text": "governance in the Star Atlas DAO"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=6Itd8T2Klzw",
+      "anchor_text": "Star Atlas updates"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/live/4EqiBPRTPSE",
+      "anchor_text": "latest Atlas Brew"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=t0oVsDcf1HE",
+      "anchor_text": "Star Atlas DAO release event"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=05PoMOnRNVk",
+      "anchor_text": "first proposals for the Star Atlas DAO"
+    }
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Verify which outbound links are primary sources and preserve creator attribution during promotion."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-121&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 6204,
+    "elapsed_ms": 4033,
+    "attempts": [
+      {
+        "endpoint": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-121&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "http_status": 200,
+        "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-121&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "content_type": "application/json; charset=UTF-8",
+        "response_size": 6204,
+        "elapsed_ms": 4033
+      }
+    ]
+  },
+  "source_lineage": {
+    "publication": "Intergalactic Herald",
+    "publication_role": "CURATED_SUMMARY",
+    "relationship": "CURATED_SUMMARY_OF",
+    "primary_sources": [
+      {
+        "publication": "weekly Star Atlas livestream",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/live/aXssbcQ9V90",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: weekly Star Atlas livestream"
+      },
+      {
+        "publication": "Star Atlas Townhall",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=qYRmHoDnznA",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas Townhall"
+      },
+      {
+        "publication": "latest preview of Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=Plywyb0zJGw",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest preview of Star Atlas"
+      },
+      {
+        "publication": "start of the Star Atlas DAO",
+        "author": "UNKNOWN",
+        "url": "https://medium.com/star-atlas/a-dawn-for-a-dao-star-atlas-kickstarts-its-path-toward-political-decentralization-b001d8ce6be5",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: start of the Star Atlas DAO"
+      },
+      {
+        "publication": "weekly Star Atlas newsletter",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-137/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article with anchor text: weekly Star Atlas newsletter"
+      },
+      {
+        "publication": "Star Atlas DAO release",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/live/4osBYMTVX-M",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas DAO release"
+      },
+      {
+        "publication": "governance in the Star Atlas DAO",
+        "author": "UNKNOWN",
+        "url": "https://hologramnews.com/on-star-atlas-dao-governance/",
+        "organization": "Hologram News Network (HNN)",
+        "evidence": "Direct outbound link preserved in article with anchor text: governance in the Star Atlas DAO"
+      },
+      {
+        "publication": "Star Atlas updates",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=6Itd8T2Klzw",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas updates"
+      },
+      {
+        "publication": "latest Atlas Brew",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/live/4EqiBPRTPSE",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest Atlas Brew"
+      },
+      {
+        "publication": "Star Atlas DAO release event",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=t0oVsDcf1HE",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas DAO release event"
+      },
+      {
+        "publication": "first proposals for the Star Atlas DAO",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=05PoMOnRNVk",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: first proposals for the Star Atlas DAO"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "publication": "Intergalactic Gear",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticgear.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Intergalactic Coalition",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticcoalition.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas",
+      "Aephia",
+      "Hologram News Network (HNN)"
+    ],
+    "attribution_chain": [
+      {
+        "from": "weekly Star Atlas livestream",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/live/aXssbcQ9V90"
+      },
+      {
+        "from": "Star Atlas Townhall",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=qYRmHoDnznA"
+      },
+      {
+        "from": "latest preview of Star Atlas",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=Plywyb0zJGw"
+      },
+      {
+        "from": "start of the Star Atlas DAO",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://medium.com/star-atlas/a-dawn-for-a-dao-star-atlas-kickstarts-its-path-toward-political-decentralization-b001d8ce6be5"
+      },
+      {
+        "from": "weekly Star Atlas newsletter",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-137/"
+      },
+      {
+        "from": "Star Atlas DAO release",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/live/4osBYMTVX-M"
+      },
+      {
+        "from": "governance in the Star Atlas DAO",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://hologramnews.com/on-star-atlas-dao-governance/"
+      },
+      {
+        "from": "Star Atlas updates",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=6Itd8T2Klzw"
+      },
+      {
+        "from": "latest Atlas Brew",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/live/4EqiBPRTPSE"
+      },
+      {
+        "from": "Star Atlas DAO release event",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=t0oVsDcf1HE"
+      },
+      {
+        "from": "first proposals for the Star Atlas DAO",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=05PoMOnRNVk"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  }
+}

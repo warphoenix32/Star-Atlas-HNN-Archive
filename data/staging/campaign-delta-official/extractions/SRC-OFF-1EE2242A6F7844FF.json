@@ -1,0 +1,238 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-1EE2242A6F7844FF",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47061480208915-How-to-Create-a-Buy-or-Sell-Order-on-the-Star-Atlas-Marketplace",
+    "title": "How to Create a Buy or Sell Order on the Star Atlas Marketplace",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-03T17:02:16Z",
+    "updated_at": "2025-12-08T18:23:06Z",
+    "original_date_text": "2025-12-03T17:02:16Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://play.staratlas.com",
+        "anchor_text": "play.staratlas.com"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “How to Create a Buy or Sell Order on the Star Atlas Marketplace.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Want to list your item for sale or place an open buy order for others to fill? The Star Atlas Marketplace allows players to act as market makers by creating buy or sell orders that other users can match.\nStep-by-Step: Creating a Buy or Sell Order\n1. Browse the Marketplace\nGo to play.staratlas.com and open the MarketplaceUse the Search bar or drop-down menus to locate the item you want to trade.\n2. Select the Item\nClick on the item you wish to buy or sell.If the item is available in both ATLAS and USDC, make sure to select the version listed in your preferred currency.\n3. Click “Create Order”\nThis opens the maker panel where you can set the terms of your offer.\n4. Agree to the Terms\nCheck the boxes for the Terms of Service and Privacy Policy\n5. Connect Your Wallet\nIf not already connected, click Connect Wallet and approve using your Solana wallet.\n6. Choose Order Type\nSelect whether you want to:\nBuy this item(Create a buy order for someone to sell to you)\nSell this item(List your item for sale at your chosen price)\n7. Set Your Order Details\nEnter the:\nQuantity\nPrice per item\nDouble-check that the currency shown (ATLAS or USDC) is correct—this is based on the version of the item you selected in Step 2. You cannot change the currency at this stage.\n8. Click “Place Order”\nOnce all details are correct, hit the Place Order button.\n9. Approve the Transaction\nApprove the transaction in your wallet to publish your order on-chain.\n10. Order Confirmation\nYou’ll see a confirmation notification, and the order will appear under “My Orders” in the Marketplace.",
+  "content_hash": "4ea0ba207648ac17ba9e48eea13ab82273a90c161d25ffed81830531c53c1eb2",
+  "entities": [
+    "ATLAS",
+    "Solana"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-1EE2242A6F7844FF-01",
+      "text": "Want to list your item for sale or place an open buy order for others to fill?",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-1EE2242A6F7844FF",
+      "publication_date": "2025-12-03T17:02:16Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-1EE2242A6F7844FF-02",
+      "text": "The Star Atlas Marketplace allows players to act as market makers by creating buy or sell orders that other users can match.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-1EE2242A6F7844FF",
+      "publication_date": "2025-12-03T17:02:16Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-1EE2242A6F7844FF-03",
+      "text": "Step-by-Step: Creating a Buy or Sell Order 1.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-1EE2242A6F7844FF",
+      "publication_date": "2025-12-03T17:02:16Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-1EE2242A6F7844FF-04",
+      "text": "Browse the Marketplace Go to play.staratlas.com and open the MarketplaceUse the Search bar or drop-down menus to locate the item you want to trade.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-1EE2242A6F7844FF",
+      "publication_date": "2025-12-03T17:02:16Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-1EE2242A6F7844FF-05",
+      "text": "Select the Item Click on the item you wish to buy or sell.If the item is available in both ATLAS and USDC, make sure to select the version listed in your preferred currency.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-1EE2242A6F7844FF",
+      "publication_date": "2025-12-03T17:02:16Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-1EE2242A6F7844FF-06",
+      "text": "Click “Create Order” This opens the maker panel where you can set the terms of your offer.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-1EE2242A6F7844FF",
+      "publication_date": "2025-12-03T17:02:16Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-1EE2242A6F7844FF-07",
+      "text": "Agree to the Terms Check the boxes for the Terms of Service and Privacy Policy 5.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-1EE2242A6F7844FF",
+      "publication_date": "2025-12-03T17:02:16Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-1EE2242A6F7844FF-08",
+      "text": "Connect Your Wallet If not already connected, click Connect Wallet and approve using your Solana wallet.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-1EE2242A6F7844FF",
+      "publication_date": "2025-12-03T17:02:16Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-1EE2242A6F7844FF-09",
+      "text": "Choose Order Type Select whether you want to: Buy this item(Create a buy order for someone to sell to you) Sell this item(List your item for sale at your chosen price) 7.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-1EE2242A6F7844FF",
+      "publication_date": "2025-12-03T17:02:16Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-1EE2242A6F7844FF-10",
+      "text": "Set Your Order Details Enter the: Quantity Price per item Double-check that the currency shown (ATLAS or USDC) is correct—this is based on the version of the item you selected in Step 2.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-1EE2242A6F7844FF",
+      "publication_date": "2025-12-03T17:02:16Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-1EE2242A6F7844FF-11",
+      "text": "You cannot change the currency at this stage.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-1EE2242A6F7844FF",
+      "publication_date": "2025-12-03T17:02:16Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-1EE2242A6F7844FF-12",
+      "text": "Click “Place Order” Once all details are correct, hit the Place Order button.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-1EE2242A6F7844FF",
+      "publication_date": "2025-12-03T17:02:16Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-1EE2242A6F7844FF-13",
+      "text": "Approve the Transaction Approve the transaction in your wallet to publish your order on-chain.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-1EE2242A6F7844FF",
+      "publication_date": "2025-12-03T17:02:16Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-1EE2242A6F7844FF-14",
+      "text": "Order Confirmation You’ll see a confirmation notification, and the order will appear under “My Orders” in the Marketplace.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-1EE2242A6F7844FF",
+      "publication_date": "2025-12-03T17:02:16Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [
+    "Solana"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://play.staratlas.com",
+      "anchor_text": "play.staratlas.com"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://play.staratlas.com",
+      "anchor_text": "play.staratlas.com"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47061480208915-How-to-Create-a-Buy-or-Sell-Order-on-the-Star-Atlas-Marketplace",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.136523Z"
+  }
+}

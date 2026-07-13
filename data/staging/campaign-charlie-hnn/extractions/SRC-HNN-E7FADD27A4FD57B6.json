@@ -1,0 +1,186 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-E7FADD27A4FD57B6",
+    "url_id": "URL-E7FADD27A4FD57B6",
+    "url": "https://hologramnews.com/puri-token-rallies-after-targeted-long-squeeze",
+    "title": "Puri Token Rallies After Targeted Long Squeeze - Hologram News Network 🦉",
+    "author": "UNKNOWN",
+    "publisher": "Hologram News Network (HNN)",
+    "publication_identity": "HNN website (hologramnews.com)",
+    "published_at": "2024-02-10T19:12:11+00:00",
+    "updated_at": "2024-02-10T19:29:14+00:00",
+    "retrieved_at": "2026-07-13T00:10:21.595335Z",
+    "document_type": "INVESTIGATIVE_REPORT",
+    "source_role": "INVESTIGATIVE_REPORT",
+    "publication_role": "INVESTIGATIVE_REPORT",
+    "classification_rationale": "Publication uses investigative framing or documents an inquiry."
+  },
+  "source_lineage": {
+    "publication": "HNN website (hologramnews.com)",
+    "publication_role": "INVESTIGATIVE_REPORT",
+    "relationship": "INVESTIGATES",
+    "primary_sources": [
+      {
+        "publication": "Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://staratlas.com/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [],
+    "attribution_chain": [
+      {
+        "from": "Star Atlas",
+        "to": "HNN website (hologramnews.com)",
+        "relationship": "INVESTIGATES",
+        "url": "https://staratlas.com/"
+      }
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "This investigative report published by Hologram News Network (HNN) on 2024-02-10 documents “Puri Token Rallies After Targeted Long Squeeze - Hologram News Network 🦉.” Its surviving text addresses economy, game development, community, lore, technology. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "Puri Token Rallies After Targeted Long Squeeze\nBy KrigsPublished On: 10 February 2024Tags: puri, Star Atlas Community\nThis past Thursday, the Star Atlas community token Puri experienced a massive decrease in price triggered a singular mass sell-off followed by liquidations on the lending platform Solend.\nData via Birdeye\nThe initial triggering appears to have been cause by a long squeeze, likely in response to a now deleted tweet made by one of the tokens project leaders. In the now deleted tweet, an overleveraged long position on Solend was exposed, potentially catching the attention of a third party short investor. The unknown shorter hedged approximately $6,000 USDC in an attempt to push the price of Puri lower. While the initial sale caused an immediate liquidation of overleveraged positions on Solend, the Puri community enacted several buy backs in an effort to maintain the price of Puri. Through a flurry of social media campaigning, the Puri project was able to stave off the long-squeeze.\nThe Puri project released the following statement late Wednesday afternoon:\nWhen an awesome community comes together nothing can stop it. United together under the flag of Star Atlas we have risen together to face attacks against us from the very beginning. The demon whale has not prevailed, assaults on X have not taken us out, a nemesis token is no match for us, infiltration into our ranks builds our bond, even well intentioned support that goes off course has not dampened our resolve. We are making a mark on the blockchain that will stand as a standard to those who follow in our footsteps. As we stand out among the others and gather support outside of our ranks we grow stronger. We are now allied with Orca as they have given us validation and will be only the first to do so. What we are doing is revolutionary and makes us the target of some, as this morning we endured another battle and came out victorious. A short seller attack looking to take advantage of our position quickly learned that we are indeed a formidable opponent. We stood ready for the fight and immediately put the attacker on defense. The community rallied around like no other and we successfully reversed the position and left the attacker with nothing. This is a call for us to continue to stand united. And a call to those who have not experienced what it means to be part of something bigger, join us. Together we will show the difference between a Star Atlas community coin and all the others. Power to the Puri and Puri to the People!!\nAbout the Author: Krigs\nAn ardent supporter of emerging technologies, Krigs has been covering blockchain games for over two years and believes passionately in their power to revolutionize our collective gaming experience.\nlatest video\neditor's pick\nDiscover Star Atlas Alpha Content Pipelines at Solana Breakpoint 2022\nUnlocking Star Atlas Secrets: CEO Michael Wagner’s CoinDesk.TV Exclusive\nnews via inbox\nGet news from the Hologram first\nVisit Galia Art Station",
+  "content_hash": "63a3b0831f2acaa70e120ef09e8881f269589ef4048990a5b31334d1137f5a60",
+  "major_topics": [
+    "economy",
+    "game development",
+    "community",
+    "lore",
+    "technology"
+  ],
+  "entities": [
+    "ATLAS",
+    "Krigs",
+    "Michael Wagner",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-E7FADD27A4FD57B6-01",
+      "text": "The Puri project released the following statement late Wednesday afternoon: When an awesome community comes together nothing can stop it.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-E7FADD27A4FD57B6",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-E7FADD27A4FD57B6-02",
+      "text": "We are making a mark on the blockchain that will stand as a standard to those who follow in our footsteps.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-E7FADD27A4FD57B6",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-E7FADD27A4FD57B6-03",
+      "text": "We are now allied with Orca as they have given us validation and will be only the first to do so.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-E7FADD27A4FD57B6",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-E7FADD27A4FD57B6-04",
+      "text": "Together we will show the difference between a Star Atlas community coin and all the others.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-E7FADD27A4FD57B6",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Star Atlas",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [
+    "ONI"
+  ],
+  "actors": [
+    "Michael Wagner",
+    "Krigs"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://hologramnews.com/puri-token-rallies-after-targeted-long-squeeze/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://hologramnews.com/author/krigs/",
+      "anchor_text": "Krigs"
+    },
+    {
+      "url": "https://hologramnews.com/tag/puri/",
+      "anchor_text": "puri"
+    },
+    {
+      "url": "https://hologramnews.com/tag/community/",
+      "anchor_text": "Star Atlas Community"
+    },
+    {
+      "url": "https://staratlas.com/",
+      "anchor_text": "Star Atlas"
+    },
+    {
+      "url": "https://hologramnews.com/puri-token/",
+      "anchor_text": "Puri"
+    },
+    {
+      "url": "https://hologramnews.com/discover-star-atlas-alpha-content-pipelines-at-solana-breakpoint-2022/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://hologramnews.com/unlocking-star-atlas-secrets-ceo-michael-wagners-coindesk-tv-exclusive/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://hologramnews.com/galia-art-station/",
+      "anchor_text": "Visit Galia Art Station"
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "UNKNOWN",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Author is not explicit in the surviving publication metadata."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://web.archive.org/web/20240417024606id_/https://hologramnews.com/puri-token-rallies-after-targeted-long-squeeze/",
+    "final_url": "https://web.archive.org/web/20240417024606id_/https://hologramnews.com/puri-token-rallies-after-targeted-long-squeeze/",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "response_size": 207029,
+    "elapsed_ms": 1192,
+    "retrieval_mode": "INTERNET_ARCHIVE",
+    "archive_capture": {
+      "timestamp": "20240417024606",
+      "original": "https://hologramnews.com/puri-token-rallies-after-targeted-long-squeeze/",
+      "digest": "6DEHQ27IOP6M2FH4TRKUYDZTHM5YQPTF"
+    }
+  }
+}

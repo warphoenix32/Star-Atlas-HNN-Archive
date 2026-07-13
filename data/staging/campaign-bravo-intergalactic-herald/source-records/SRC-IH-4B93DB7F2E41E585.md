@@ -1,0 +1,73 @@
+# Recap 10: Star Atlas Town Hall | June 2025
+
+## Source metadata
+
+- Source ID: `SRC-IH-4B93DB7F2E41E585`
+- URL: https://intergalacticherald.com/star-atlas-recap/recap-10-star-atlas-town-hall-june-2025/
+- Publisher: Intergalactic Herald
+- Published: 2025-06-04T21:00:00
+- Updated: 2025-06-05T20:46:34
+- Classification: `CURATED_SUMMARY`
+- Classification rationale: Event recap summarizes an externally originated event, broadcast, or discussion.
+- Extraction confidence: `HIGH`
+
+## Source Lineage
+
+**Publication Role:** `CURATED_SUMMARY`
+
+**Relationship:** `CURATED_SUMMARY_OF`
+
+**Primary Sources:**
+
+- **Official Star Atlas Town Hall** — Author: UNKNOWN; Organization: Star Atlas; URL: UNKNOWN
+
+**Original Creators:**
+
+- Star Atlas
+
+**Lineage Confidence:** `MEDIUM`
+
+## Neutral synopsis
+
+In this episode, hear an AI summary of the latest Star Atlas community event. Full video recordings can be found on the YouTube channel of Star Atlas TV at https://www.youtube.com/@staratlastv. We are launching a Star Atlas merch store. Please check it out at Intergalactic Gear. We are creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic
+
+## Attribution and linked sources
+
+- [https://www.youtube.com/@staratlastv](https://www.youtube.com/@staratlastv)
+- [Intergalactic Gear](https://intergalacticgear.com/)
+- [Intergalactic Coalition](https://intergalacticcoalition.com/)
+- [Listen on Apple Podcasts](https://podcasts.apple.com/us/podcast/star-atlas-week-in-review-podcast/id1678661043)
+- [Listen on Spotify](https://open.spotify.com/show/0aHDjCqFpy8Lzrkilv8n16)
+
+## Temporal warning
+
+Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources.
+
+## Manual review
+
+- Verify which outbound links are primary sources and preserve creator attribution during promotion.
+
+## Extracted article text
+
+In this episode, hear an AI summary of the latest Star Atlas community event. Full video recordings can be found on the YouTube channel of Star Atlas TV at https://www.youtube.com/@staratlastv.
+We are launching a Star Atlas merch store. Please check it out at Intergalactic Gear.
+We are creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic Coalition.
+If you would like to support our efforts, donations can be sent to intergalacticherald.sol
+Listen on Apple Podcasts
+Listen on Spotify
+Podcast Transcript
+GM everyone, and thank you for joining the first Star Atlas town hall of 2025. This was the first town hall in more than six months and covered a tremendous amount of updates. The team has been working with the highest velocity ever, shipping three Unreal Engine releases and rolling out fleet rentals in March, along with smaller updates to Starbased. Despite a generally negative sentiment in the gaming market, the team remains focused on their vision and goals, making significant progress over the last four and a half years.
+A major focus of the town hall was the upcoming update known internally as C4. C4 is the next major update to the Sage Star Atlas Golden Era product suite, which currently exists largely in browser as a 2D RTS MMO. C4 is designed to turn Sage into a full 4X game (Exploration, Expansion, Exploitation, and Extermination). The four core pillars of C4 are Council Rank, Claim Stakes, Crafting Habs, and Combat. Star Atlas is doubling down on blockchain technology, leveraging it extensively for C4, and believes its integration of blockchain into gaming is order of magnitudes beyond other teams.
+Significant map updates are part of C4. The number of systems is drastically increasing from 51 to 945, organized into 69 regions. A new decimal point number system allows for much higher density and precise ship positioning. Movement is changing with the introduction of warp lanes as a third type of movement alongside subwarp and warp. Warp lanes require owning starbases at both ends and charge an Atlas fee, with revenue going to the DAO. Owning a region requires owning all of its core systems, allowing you to make regions behind it safe from enemy entry or attack, creating a dynamic border system. The map will feature 86 different raw resources, 229 intermediate components, and 145 ingredients. Starbase Upkeep, toolkits, and food will no longer be required.
+The combat system in C4 will be atomic, meaning a ship chooses a target, attacks instantly, and results are calculated. Combat involves ship-to-ship and ship-to-starbase engagements. When a ship is destroyed, its cargo pod drops, allowing a portion of items to be looted, with salvage ships getting more. A global interaction range determines engagement distance. An action point system influences attack and defense capabilities, preventing large ships from simply overwhelming small ones. Both ships shoot back when attacked, avoiding a clickfest.
+A new ship configurator tool allows for extensive customization. All 3900 craftable items (components, modules, weapons, countermeasures, missiles) can be used to configure ships. While full customizability is a future goal, C4 will launch with 15-20 preset configurations per ship (like mining or gray goo heavy configs). These configurations require crafting underlying components. When a ship is added to a fleet, the required component tokens are consumed. If a fleet is destroyed, components are burned, and ships respawn at the CSS. This configurability, combined with some randomness in combat, helps make battles more dynamic and allows strategically configured smaller fleets to potentially defeat larger, misconfigured ones. Combat systems will be heavily weighted in LP (Loyalty Points) emissions of Atlas, incentivizing engagements.
+Attacking a starbase is the mechanism for territory conquest. Starbases are basically large stat blocks. Attacking reduces the starbase’s tier, and destroying a Tier 1 starbase makes it Tier 0. Blowing up a Tier 0 starbase allows you to conquer it. Conquered starbases become yours at Tier 0, and you must upgrade them to level one to fully own the system. If you destroy an upgrading starbase, you get a portion of the upgrade progress. Resources within a starbase are burned when it changes hands. Existing Starbase upgrades from Starbase will persist into C4. Starbase tiers unlock features like local markets (potentially a single ‘king system’ per region), reduced warp lane fees, and more claim stake/crafting hab plots. Upgrading starbases also increases their stat block and defense.
+Claim stakes are placed on planets within systems where you own the starbase, provided you also own the region. They are player-owned extraction and production facilities for raw resources and outputs like food. They offer autocrafting capability in safe regions, avoiding the 7% Starbase crafting fee. Claim stakes take buildings which consume slots and potentially power or crew, requiring players to balance inputs and outputs. Claim stakes cannot be crafted or upgraded in tier, but existing tiers can be lost if the starbase level drops below the required threshold. Claim stakes require paying rent to the DAO, based on their tier and the starbase level. Failure to pay rent leads to a grace period before potential eviction. Ship mining of asteroids will still exist but may be reduced.
+Crafting habs are similar to claim stakes but are built on starbases. They also use a slot and rent system but have no power requirement as the starbase provides it. Crafting habs adjust crafting capabilities, affecting efficiency, crew requirements, unlocking new recipes, and fee reductions.
+Council rank is the game’s main progression system. Players earn XP in categories like mining, building, and combat (pilot) and Renown (overall rank). These points are spent on a research tree to unlock various game elements like buildings, ship configurations, higher tiers of assets, ship sizes, and fleet limits. Existing XP earned by players will carry over, allowing OG players to benefit and access most of their assets. Players can still form fleets they can’t fly for the purpose of renting them out. New scanning patterns with different loot types and cosmic currents will also be unlocked through council rank.
+An announcement was made regarding a Data Runner sale. Due to recent updates and upcoming features for data runners, Rangers and Rayfams will be available at a 50% discount for a limited time and quantity (280 Rangers, 400 Rayfams). The sale is live now and runs through the weekend, likely ending Monday morning PST.
+Infrastructure improvements were discussed, including a major rewrite of Starcom for increased scalability and observability, and the development of Starframe, a new library for Solana development that replaces Anchor and significantly speeds up development by simplifying account structures and instructions. Coherent UI has been integrated into the Unreal workflow, allowing for significant UI sharing between web and Unreal Engine, streamlining development. These infrastructure changes are expected to improve performance and transaction reliability.
+The C4 rollout approach will begin with a PTR (Player Test Range/Realm). This will be a beta version on a separate network (Atlas Net) accessible for free to playtest C4 without mainnet rewards. The PTR is expected to last a couple of months. Following PTR, C4 will launch as Sage (dropping the ‘Labs’ moniker) in browser. Ultimately, C4 features will be integrated into Fleet Command, the immersive 3D Unreal Engine version. Atlas Net, a clone of the Solana SVM, will host both Hollow Sim and C4 PTR, providing fast, zero-cost transactions.
+Updates on the Unreal Engine 5 product were provided. The midyear release for the UE team focuses on progression for multiplayer arena gameplay. This introduces Pre-season character group rank, progressing crew members by species and gender across 20 levels with up to 10 prestiges. XP is earned by playing matches on dedicated servers, with bonuses from crew rarity, daily check-ins, and prestige level. Ranking up unlocks different equipable variants for jetties (jetpacks) and bubbies (shields). Onchain rewards like crew packs and a new Unreal-exclusive resource called nanobot goo (used in C4 crafting) are planned based on progression, creating an economic crossover between UE and Sage. A loadout system is being introduced, using weapon/config slots for equipping weapons, jetties, and bubbies, with variants offering trade-offs. This system can be toggled on or off for matches. Ammo pickups will replace weapon pickups on maps when the loadout system is active. Scoreboards have been redesigned to provide more detailed stats, including assists. New movement mechanics are being added, focusing on momentum preservation, including an improved slide and the addition of bunny hopping. Persistent regional dedicated server lobbies, weekly game mode rotations, and Easy Anticheat integration are coming. Spectator mode is being prioritized for esports tournaments. Pisules Arena will be polished to 100% fidelity, and Track B will be replaced with a new Xenonate track. The main menu is also getting a refresh. Significant progress has been made on joystick and gamepad support. Scanning gameplay is being prototyped in Galia, allowing players to find distress signals and engage in random encounters or mini-quests while subwarping.
+Finally, the Hollow Sim product was announced and demoed. Hollow Sim is a full free-to-play simulated universe version of Sage, designed to reduce the barrier to entry, simplify onboarding, and attract a large audience outside the native web3 space. It requires no wallet exposure (though one is created in the background), no asset investment, and no user registration – players can start instantly via the website. Hollow Sim aims to be fun and engaging, teaching new users how Sage works through tutorials and missions, with the potential to bridge them to the mainnet economy. It also serves as a platform to test new mechanics and features, leverages Atlas Net for fast, free transactions, and creates potential new revenue streams through web2 monetization like battle passes, subscriptions, and microtransactions. Each season of Hollow Sim will be based on a specific scenario with unique rules. The first scenario is a faction race to fulfill contracts, incorporating a quest system to specialize in careers (Soldier, Data Runner, Miner, Merchant) and highlighting ship specializations. A faction chat system is integrated for coordination. An artificial intelligence crew member assists players with information and lore. Hollow Sim introduces a combat v0 mechanic with high-risk combat where fleets and crew are lost upon destruction, allowing players to ambush and loot contracts from enemies. Automated fleet instructions and a Route Manager for mining/transport loops are included. The crafting interface has been upgraded with search and auto-population features. Crew is a precious resource, starting with 21 and supplemented by daily airdrops, but lost if ships are destroyed. Leveling up gates access to higher-tier resources, recipes, ships, and contracts. While the UI currently differs from Sage and UE, the goal is to converge on a single unified design language. Hollow Sim will eventually be accessible directly within Fleet Command and is being prepared for potential mobile app store release. While the current community can play and test combat, the primary target audience is new web2 and mainstream gamers. Future plans include a play to airdrop concept with incentives and rewards to bridge users to mainnet. Hollow Sim is live now at hollowosim.staratlas.com.
+Looking ahead, no specific dates for C4 mainnet were given, but the PTR is still a couple of months away. A transition plan for current Sage Starbase assets is being developed. Another large town hall is being prepared, potentially discussing the future of Atlas Net and tokenomics updates like POLIS integration and Atlas Locker benefits. The Data Runner sale is currently active.

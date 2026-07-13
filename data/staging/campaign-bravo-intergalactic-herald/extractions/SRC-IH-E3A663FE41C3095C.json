@@ -1,0 +1,427 @@
+{
+  "source": {
+    "source_id": "SRC-IH-E3A663FE41C3095C",
+    "url_id": "URL-E3A663FE41C3095C",
+    "url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-123/",
+    "inventory_url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-123",
+    "title": "Star Atlas Weekly News Recap #123",
+    "author": "Intergalactic Herald",
+    "publisher": "Intergalactic Herald",
+    "published_at": "2024-07-28T17:00:00",
+    "updated_at": "2024-07-26T21:47:18",
+    "retrieved_at": "2026-07-12T22:08:59.837374Z",
+    "document_type": "NEWSLETTER",
+    "source_role": "CURATED_SUMMARY",
+    "source_classification": "CURATED_SUMMARY",
+    "classification_rationale": "Weekly newsletter/recap aggregates developments and linked sources.",
+    "wordpress_type": "posts"
+  },
+  "summary": {
+    "neutral_abstract": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week. We are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us. We are launching a Star Atlas merch store. Please check it out at Intergalactic",
+    "historical_value": "Contemporary Intergalactic Herald publication preserved with role and attribution boundaries.",
+    "current_validity_warning": "Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources."
+  },
+  "article_text": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week.\nWe are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us.\nWe are launching a Star Atlas merch store. Please check it out at Intergalactic Gear.\nWe are creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic Coalition.\nIf you would like to support our efforts, donations can be sent to intergalacticherald.sol\nMichael Wagner – Development and Challenges of Star Atlas\nAephia posted a video interview with Star Atlas CEO Michael Wagner by the MetaVerse Explorer.\nWhy Star Atlas token prices are sinking despite bull run\nSiggy published an article talking about the price of the ATLAS token.\nMetaverse Nomads #156 Three Year Anniversary\nMetaverse Nomads posted a video of their weekly Star Atlas livestream.\nHow to play Starbased as a small player\nAephia posted a video about how to play Starbased as a small player.\nWeekly Star Atlas Newsletter #139\nAephia published their weekly Star Atlas newsletter.\nAephia Content Overview\nAephia posted a video about content they have created.\nStar Atlas DAO passes first two governance proposals\nHologram News Network published an article about the Star Atlas DAO proposals.\nSTAR ATLAS #244 Happy 3rd Anniversary To All Aephians!\nMetaVerse Explorer posted a video of Star Atlas updates.\nThe Atlas Brew #121\nStar Atlas TV posted a video recording of the latest Atlas Brew.\nCrew Packs and Star Atlas Airdrops are Coming in August — Important Dates, Utility in SAGE Labs, and More!\nStar Atlas published an article about the release of Star Atlas Crew Packs.\nStar Atlas sponsors Solana hackathon with $50,000 in prizes\nHologram News Network published an article about a Star Atlas hackathon.\nBecome Part of the Universe | Crew Packs Trailer – Star Atlas\nStar Atlas posted a video trailer about Crew Packs.\nStarbased – The Missing Manual – Part 2\nAephia published a second part of a missing manual for Star Atlas SAGE Starbased.\nStar Atlas Brew #121: State of the Community – TLDR\nBeth posted a video recapping the latest Atlas Brew.",
+  "content_hash": "e5b6f4f0cf61748682852fb4ab17d8a854dc4ccd2fbf61fb4c7f7660aeb94e55",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [],
+  "external_sources": [
+    {
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=StXEWHNX49M",
+      "anchor_text": "Star Atlas CEO Michael Wagner"
+    },
+    {
+      "url": "https://hologramnews.com/why-star-atlas-token-prices-are-sinking-despite-bull-run/",
+      "anchor_text": "price of the ATLAS token"
+    },
+    {
+      "url": "https://www.youtube.com/live/05nrFYFIdwQ",
+      "anchor_text": "weekly Star Atlas livestream"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=DJTNQ5x-loI",
+      "anchor_text": "how to play Starbased as a small player"
+    },
+    {
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-139/",
+      "anchor_text": "weekly Star Atlas newsletter"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=weKMv1OgWmg",
+      "anchor_text": "content"
+    },
+    {
+      "url": "https://hologramnews.com/star-atlas-dao-passes-first-two-governance-proposals/",
+      "anchor_text": "Star Atlas DAO proposals"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=zaXT9bvGnhg",
+      "anchor_text": "Star Atlas updates"
+    },
+    {
+      "url": "https://www.youtube.com/live/gmVDB1cemJY",
+      "anchor_text": "Atlas Brew"
+    },
+    {
+      "url": "https://medium.com/star-atlas/crew-packs-and-star-atlas-airdrops-are-coming-in-august-important-dates-utility-in-sage-labs-a261baa7a3b6",
+      "anchor_text": "Star Atlas Crew Packs"
+    },
+    {
+      "url": "https://hologramnews.com/star-atlas-sponsors-solana-hackathon-with-50000-in-prizes/",
+      "anchor_text": "Star Atlas hackathon"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=TSsTTbx3kcQ",
+      "anchor_text": "Crew Packs"
+    },
+    {
+      "url": "https://aephia.com/star-atlas/starbased-the-missing-manual-part-2/",
+      "anchor_text": "missing manual"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=51NMV9U--ms",
+      "anchor_text": "Atlas Brew"
+    }
+  ],
+  "primary_source_relationships": [
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=StXEWHNX49M",
+      "anchor_text": "Star Atlas CEO Michael Wagner"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://hologramnews.com/why-star-atlas-token-prices-are-sinking-despite-bull-run/",
+      "anchor_text": "price of the ATLAS token"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/live/05nrFYFIdwQ",
+      "anchor_text": "weekly Star Atlas livestream"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=DJTNQ5x-loI",
+      "anchor_text": "how to play Starbased as a small player"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-139/",
+      "anchor_text": "weekly Star Atlas newsletter"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=weKMv1OgWmg",
+      "anchor_text": "content"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://hologramnews.com/star-atlas-dao-passes-first-two-governance-proposals/",
+      "anchor_text": "Star Atlas DAO proposals"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=zaXT9bvGnhg",
+      "anchor_text": "Star Atlas updates"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/live/gmVDB1cemJY",
+      "anchor_text": "Atlas Brew"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://medium.com/star-atlas/crew-packs-and-star-atlas-airdrops-are-coming-in-august-important-dates-utility-in-sage-labs-a261baa7a3b6",
+      "anchor_text": "Star Atlas Crew Packs"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://hologramnews.com/star-atlas-sponsors-solana-hackathon-with-50000-in-prizes/",
+      "anchor_text": "Star Atlas hackathon"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=TSsTTbx3kcQ",
+      "anchor_text": "Crew Packs"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/starbased-the-missing-manual-part-2/",
+      "anchor_text": "missing manual"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=51NMV9U--ms",
+      "anchor_text": "Atlas Brew"
+    }
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Verify which outbound links are primary sources and preserve creator attribution during promotion."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-123&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 7663,
+    "elapsed_ms": 1644,
+    "attempts": [
+      {
+        "endpoint": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-123&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "http_status": 200,
+        "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-123&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "content_type": "application/json; charset=UTF-8",
+        "response_size": 7663,
+        "elapsed_ms": 1644
+      }
+    ]
+  },
+  "source_lineage": {
+    "publication": "Intergalactic Herald",
+    "publication_role": "CURATED_SUMMARY",
+    "relationship": "CURATED_SUMMARY_OF",
+    "primary_sources": [
+      {
+        "publication": "Star Atlas CEO Michael Wagner",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=StXEWHNX49M",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas CEO Michael Wagner"
+      },
+      {
+        "publication": "price of the ATLAS token",
+        "author": "UNKNOWN",
+        "url": "https://hologramnews.com/why-star-atlas-token-prices-are-sinking-despite-bull-run/",
+        "organization": "Hologram News Network (HNN)",
+        "evidence": "Direct outbound link preserved in article with anchor text: price of the ATLAS token"
+      },
+      {
+        "publication": "weekly Star Atlas livestream",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/live/05nrFYFIdwQ",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: weekly Star Atlas livestream"
+      },
+      {
+        "publication": "how to play Starbased as a small player",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=DJTNQ5x-loI",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: how to play Starbased as a small player"
+      },
+      {
+        "publication": "weekly Star Atlas newsletter",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-139/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article with anchor text: weekly Star Atlas newsletter"
+      },
+      {
+        "publication": "content",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=weKMv1OgWmg",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: content"
+      },
+      {
+        "publication": "Star Atlas DAO proposals",
+        "author": "UNKNOWN",
+        "url": "https://hologramnews.com/star-atlas-dao-passes-first-two-governance-proposals/",
+        "organization": "Hologram News Network (HNN)",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas DAO proposals"
+      },
+      {
+        "publication": "Star Atlas updates",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=zaXT9bvGnhg",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas updates"
+      },
+      {
+        "publication": "Atlas Brew",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/live/gmVDB1cemJY",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: Atlas Brew"
+      },
+      {
+        "publication": "Star Atlas Crew Packs",
+        "author": "UNKNOWN",
+        "url": "https://medium.com/star-atlas/crew-packs-and-star-atlas-airdrops-are-coming-in-august-important-dates-utility-in-sage-labs-a261baa7a3b6",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas Crew Packs"
+      },
+      {
+        "publication": "Star Atlas hackathon",
+        "author": "UNKNOWN",
+        "url": "https://hologramnews.com/star-atlas-sponsors-solana-hackathon-with-50000-in-prizes/",
+        "organization": "Hologram News Network (HNN)",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas hackathon"
+      },
+      {
+        "publication": "Crew Packs",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=TSsTTbx3kcQ",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Crew Packs"
+      },
+      {
+        "publication": "missing manual",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/starbased-the-missing-manual-part-2/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article with anchor text: missing manual"
+      },
+      {
+        "publication": "Atlas Brew",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=51NMV9U--ms",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: Atlas Brew"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "publication": "Intergalactic Gear",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticgear.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Intergalactic Coalition",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticcoalition.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      }
+    ],
+    "original_creators": [
+      "Hologram News Network (HNN)",
+      "Aephia",
+      "Star Atlas"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Star Atlas CEO Michael Wagner",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=StXEWHNX49M"
+      },
+      {
+        "from": "price of the ATLAS token",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://hologramnews.com/why-star-atlas-token-prices-are-sinking-despite-bull-run/"
+      },
+      {
+        "from": "weekly Star Atlas livestream",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/live/05nrFYFIdwQ"
+      },
+      {
+        "from": "how to play Starbased as a small player",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=DJTNQ5x-loI"
+      },
+      {
+        "from": "weekly Star Atlas newsletter",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-139/"
+      },
+      {
+        "from": "content",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=weKMv1OgWmg"
+      },
+      {
+        "from": "Star Atlas DAO proposals",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://hologramnews.com/star-atlas-dao-passes-first-two-governance-proposals/"
+      },
+      {
+        "from": "Star Atlas updates",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=zaXT9bvGnhg"
+      },
+      {
+        "from": "Atlas Brew",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/live/gmVDB1cemJY"
+      },
+      {
+        "from": "Star Atlas Crew Packs",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://medium.com/star-atlas/crew-packs-and-star-atlas-airdrops-are-coming-in-august-important-dates-utility-in-sage-labs-a261baa7a3b6"
+      },
+      {
+        "from": "Star Atlas hackathon",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://hologramnews.com/star-atlas-sponsors-solana-hackathon-with-50000-in-prizes/"
+      },
+      {
+        "from": "Crew Packs",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=TSsTTbx3kcQ"
+      },
+      {
+        "from": "missing manual",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/starbased-the-missing-manual-part-2/"
+      },
+      {
+        "from": "Atlas Brew",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=51NMV9U--ms"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  }
+}

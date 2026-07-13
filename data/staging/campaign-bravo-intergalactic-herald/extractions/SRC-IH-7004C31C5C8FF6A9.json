@@ -1,0 +1,370 @@
+{
+  "source": {
+    "source_id": "SRC-IH-7004C31C5C8FF6A9",
+    "url_id": "URL-7004C31C5C8FF6A9",
+    "url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-56/",
+    "inventory_url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-56",
+    "title": "Star Atlas Weekly News Recap #56",
+    "author": "Intergalactic Herald",
+    "publisher": "Intergalactic Herald",
+    "published_at": "2023-04-16T17:00:50",
+    "updated_at": "2023-04-15T14:56:06",
+    "retrieved_at": "2026-07-12T22:04:33.531131Z",
+    "document_type": "NEWSLETTER",
+    "source_role": "CURATED_SUMMARY",
+    "source_classification": "CURATED_SUMMARY",
+    "classification_rationale": "Weekly newsletter/recap aggregates developments and linked sources.",
+    "wordpress_type": "posts"
+  },
+  "summary": {
+    "neutral_abstract": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week. We are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us. The Hologram News Network posted a video about some events that Star Atlas will",
+    "historical_value": "Contemporary Intergalactic Herald publication preserved with role and attribution boundaries.",
+    "current_validity_warning": "Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources."
+  },
+  "article_text": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week.\nWe are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us.\nSTAR ATLAS #172 Ship Giveaway & Next Week is a BIG REVEAL week!\nMetaVerse Explorer posted a video about the latest updates from Star Atlas.\nStar Atlas At Play GG and San Diego Comic Con\nThe Hologram News Network posted a video about some events that Star Atlas will attend.\nMetaverse Nomads #89 Star Atlas Co-founder departs Company?\nMetaverse Nomads posted a video of their latest Star Atlas live stream.\nATMTA Sells $1.6 Million USD Worth of ATLAS and POLIS Over Last 3 Months\nThe Hologram published an article about some cryptocurrency sales by Star Atlas.\nSTAR ATLAS #173 SHOCKING NEWS. Insert Shocked Influencer Face.\nThe MetaVerse Explorer posted a video about the departure of one of the Star Atlas co-founders.\nATMTA Employees Speak On Quiroga Departure\nThe Hologram published an article with some comments from Star Atlas employees to the co-founder departure.\nWEEKLY STAR ATLAS NEWSLETTER #74\nAephia published their latest Star Atlas newsletter.\nStar Atlas Let’s Have A 3 way\nOCG Thor posted a video comparing 3 Star Atlas ships.\nStar Atlas Update : What happened this week? Town hall is coming\nPockThePirate posted a video about the latest in Star Atlas.\nStar Atlas Ignites Space Mining Economy with Claim Stakes Feature Release\nStar Atlas published an article explaining the new Claim Stakes.\nSTAR ATLAS #174 Claim Stake First Experience!\nMetaVerse Explorer posted a video demonstrating the Star Atlas Claim Stakes.\nStar Atlas : Claim Stakes – How To\nPockThePirate posted a video discussing the Star Atlas Claim Stakes.\nStar Atlas, Ranking Ships… in the correct order\nOCG Thor posted a video ranking the Star Atlas ships.",
+  "content_hash": "7a538c2a51495001105a0aa81c2a5fc179ed1a00a5f74876898b3a6f42e53203",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [],
+  "external_sources": [
+    {
+      "url": "https://www.youtube.com/watch?v=4l-IRvgqIWQ",
+      "anchor_text": "latest updates from Star Atlas"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=RygZy85sk5s",
+      "anchor_text": "Star Atlas will attend"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=eOsdAuZJDYw",
+      "anchor_text": "latest Star Atlas live stream"
+    },
+    {
+      "url": "https://medium.com/the-hologram/atmta-sells-1-6-million-usd-worth-of-atlas-and-polis-over-last-3-months-30666e2359ba",
+      "anchor_text": "cryptocurrency sales by Star Atlas"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=WjF43zVtMPY",
+      "anchor_text": "departure of one of the Star Atlas co-founders"
+    },
+    {
+      "url": "https://medium.com/the-hologram/atmta-employees-speak-on-quiroga-departure-fd8197c23ca1",
+      "anchor_text": "comments from Star Atlas employee"
+    },
+    {
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-74/",
+      "anchor_text": "latest Star Atlas newsletter"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ZmF3O2__ias",
+      "anchor_text": "comparing 3 Star Atlas ships"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=N3TZL1_m7gY",
+      "anchor_text": "latest in Star Atlas"
+    },
+    {
+      "url": "https://medium.com/star-atlas/star-atlas-faction-claims-space-mining-claim-stakes-feature-37e3b456da97",
+      "anchor_text": "Claim Stakes"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=teQtOgN3GN8",
+      "anchor_text": "Star Atlas Claim Stakes"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=_aQugdnytBs",
+      "anchor_text": "Star Atlas Claim Stakes"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Qh2YiaIa9z4",
+      "anchor_text": "ranking the Star Atlas ships"
+    }
+  ],
+  "primary_source_relationships": [
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=4l-IRvgqIWQ",
+      "anchor_text": "latest updates from Star Atlas"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=RygZy85sk5s",
+      "anchor_text": "Star Atlas will attend"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=eOsdAuZJDYw",
+      "anchor_text": "latest Star Atlas live stream"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://medium.com/the-hologram/atmta-sells-1-6-million-usd-worth-of-atlas-and-polis-over-last-3-months-30666e2359ba",
+      "anchor_text": "cryptocurrency sales by Star Atlas"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=WjF43zVtMPY",
+      "anchor_text": "departure of one of the Star Atlas co-founders"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://medium.com/the-hologram/atmta-employees-speak-on-quiroga-departure-fd8197c23ca1",
+      "anchor_text": "comments from Star Atlas employee"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-74/",
+      "anchor_text": "latest Star Atlas newsletter"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=ZmF3O2__ias",
+      "anchor_text": "comparing 3 Star Atlas ships"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=N3TZL1_m7gY",
+      "anchor_text": "latest in Star Atlas"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://medium.com/star-atlas/star-atlas-faction-claims-space-mining-claim-stakes-feature-37e3b456da97",
+      "anchor_text": "Claim Stakes"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=teQtOgN3GN8",
+      "anchor_text": "Star Atlas Claim Stakes"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=_aQugdnytBs",
+      "anchor_text": "Star Atlas Claim Stakes"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=Qh2YiaIa9z4",
+      "anchor_text": "ranking the Star Atlas ships"
+    }
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Verify which outbound links are primary sources and preserve creator attribution during promotion."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-56&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 6600,
+    "elapsed_ms": 2863,
+    "attempts": [
+      {
+        "endpoint": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-56&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "http_status": 200,
+        "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-56&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "content_type": "application/json; charset=UTF-8",
+        "response_size": 6600,
+        "elapsed_ms": 2863
+      }
+    ]
+  },
+  "source_lineage": {
+    "publication": "Intergalactic Herald",
+    "publication_role": "CURATED_SUMMARY",
+    "relationship": "CURATED_SUMMARY_OF",
+    "primary_sources": [
+      {
+        "publication": "latest updates from Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=4l-IRvgqIWQ",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest updates from Star Atlas"
+      },
+      {
+        "publication": "Star Atlas will attend",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=RygZy85sk5s",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas will attend"
+      },
+      {
+        "publication": "latest Star Atlas live stream",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=eOsdAuZJDYw",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest Star Atlas live stream"
+      },
+      {
+        "publication": "cryptocurrency sales by Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://medium.com/the-hologram/atmta-sells-1-6-million-usd-worth-of-atlas-and-polis-over-last-3-months-30666e2359ba",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: cryptocurrency sales by Star Atlas"
+      },
+      {
+        "publication": "departure of one of the Star Atlas co-founders",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=WjF43zVtMPY",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: departure of one of the Star Atlas co-founders"
+      },
+      {
+        "publication": "comments from Star Atlas employee",
+        "author": "UNKNOWN",
+        "url": "https://medium.com/the-hologram/atmta-employees-speak-on-quiroga-departure-fd8197c23ca1",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: comments from Star Atlas employee"
+      },
+      {
+        "publication": "latest Star Atlas newsletter",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-74/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest Star Atlas newsletter"
+      },
+      {
+        "publication": "comparing 3 Star Atlas ships",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=ZmF3O2__ias",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: comparing 3 Star Atlas ships"
+      },
+      {
+        "publication": "latest in Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=N3TZL1_m7gY",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest in Star Atlas"
+      },
+      {
+        "publication": "Claim Stakes",
+        "author": "UNKNOWN",
+        "url": "https://medium.com/star-atlas/star-atlas-faction-claims-space-mining-claim-stakes-feature-37e3b456da97",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Claim Stakes"
+      },
+      {
+        "publication": "Star Atlas Claim Stakes",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=teQtOgN3GN8",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas Claim Stakes"
+      },
+      {
+        "publication": "Star Atlas Claim Stakes",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=_aQugdnytBs",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas Claim Stakes"
+      },
+      {
+        "publication": "ranking the Star Atlas ships",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=Qh2YiaIa9z4",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: ranking the Star Atlas ships"
+      }
+    ],
+    "secondary_sources": [],
+    "original_creators": [
+      "Aephia"
+    ],
+    "attribution_chain": [
+      {
+        "from": "latest updates from Star Atlas",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=4l-IRvgqIWQ"
+      },
+      {
+        "from": "Star Atlas will attend",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=RygZy85sk5s"
+      },
+      {
+        "from": "latest Star Atlas live stream",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=eOsdAuZJDYw"
+      },
+      {
+        "from": "cryptocurrency sales by Star Atlas",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://medium.com/the-hologram/atmta-sells-1-6-million-usd-worth-of-atlas-and-polis-over-last-3-months-30666e2359ba"
+      },
+      {
+        "from": "departure of one of the Star Atlas co-founders",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=WjF43zVtMPY"
+      },
+      {
+        "from": "comments from Star Atlas employee",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://medium.com/the-hologram/atmta-employees-speak-on-quiroga-departure-fd8197c23ca1"
+      },
+      {
+        "from": "latest Star Atlas newsletter",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-74/"
+      },
+      {
+        "from": "comparing 3 Star Atlas ships",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=ZmF3O2__ias"
+      },
+      {
+        "from": "latest in Star Atlas",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=N3TZL1_m7gY"
+      },
+      {
+        "from": "Claim Stakes",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://medium.com/star-atlas/star-atlas-faction-claims-space-mining-claim-stakes-feature-37e3b456da97"
+      },
+      {
+        "from": "Star Atlas Claim Stakes",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=teQtOgN3GN8"
+      },
+      {
+        "from": "Star Atlas Claim Stakes",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=_aQugdnytBs"
+      },
+      {
+        "from": "ranking the Star Atlas ships",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=Qh2YiaIa9z4"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  }
+}

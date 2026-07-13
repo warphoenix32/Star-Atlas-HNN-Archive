@@ -1,0 +1,216 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-D35F7F6FE0E80A87",
+    "url_id": "URL-D35F7F6FE0E80A87",
+    "url": "https://thehologram.io/syntax-riddle",
+    "title": "Complete Syntax's Riddle, Win An Opal Jet Jet",
+    "author": "Krigs",
+    "publisher": "Hologram News Network (HNN)",
+    "publication_identity": "Archived HNN website (thehologram.io)",
+    "published_at": "2022-08-17T05:28:38+00:00",
+    "updated_at": null,
+    "retrieved_at": "2026-07-13T00:15:52.800186Z",
+    "document_type": "ORIGINAL_REPORTING",
+    "source_role": "ORIGINAL_REPORTING",
+    "publication_role": "ORIGINAL_REPORTING",
+    "classification_rationale": "Publication reports a development without explicit interview, editorial, investigative, event, or reference framing."
+  },
+  "source_lineage": {
+    "publication": "Archived HNN website (thehologram.io)",
+    "publication_role": "ORIGINAL_REPORTING",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [
+      {
+        "publication": "Opal Jet Jet",
+        "author": "UNKNOWN",
+        "url": "https://play.staratlas.com/market/opal-jetjet",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://staratlas.com/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [
+      "Krigs"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Opal Jet Jet",
+        "to": "Archived HNN website (thehologram.io)",
+        "relationship": "REPORTS_ON",
+        "url": "https://play.staratlas.com/market/opal-jetjet"
+      },
+      {
+        "from": "Star Atlas",
+        "to": "Archived HNN website (thehologram.io)",
+        "relationship": "REPORTS_ON",
+        "url": "https://staratlas.com/"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "This original reporting published by Hologram News Network (HNN) on 2022-08-17 documents “Complete Syntax's Riddle, Win An Opal Jet Jet.” Its surviving text addresses economy, guilds and DACs, community, lore. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "Complete Syntax’s Riddle, Win An Opal Jet Jet\nPosted by Krigs | Aug 17, 2022 | Guilds\nIn a cryptic tweet, the Star Atlas data running DAC Syntax announced a mysterious puzzle in celebration of their one year anniversary. The first person to solve Syntax’s cipher will claim victory over an Opal Jet Jet. The contest is ongoing until a victor claims the prize.\nSyntax founder ElectricSheep posted this riddle in the Syntax discord server:\nWith a direct neural link to your ship, you plunge headfirst into the dizzying data-winds of unexplored space. As an electronic wraith, you are the ultimate data runner, your brain, one with the ship. It was meant to be a quick recovery job for a bit of ATLAS; go here, recover a drive, and return home. Everything was going to plan until your scanners picked up a strange transmission.\nOut of the waves of static came a voice:\nstatic “1. protector” static “2. three” static “3. ghost” static “3. nebula” static “1. orion” static “4. caesar” static “End transmission”.\nUsing the answer and hints from the above transmission, visit the “analytics” twitter account. Solve the cipher to receive your reward\nTo date, no one has claimed the prize. Public knowledge of the “analytics” twitter account is also unknown at this time. The leads would indicate a relationship within the Star Atlas metaverse, but to what extent is speculative.\nThis page will continually update as more clues are delivered and puzzle pieces discovered.\nYouy can participate in Syntax’s puzzle and potentially claim the Star Atlas Opal Jet Jet through Syntax’s discord.\nAbout The Hologram\nThe Hologram is Star Atlas’ first and only independent news network. Our vision is to become the most trusted source of information about Star Atlas and a voice for the whole community. Readers can expect a high standard from our reporting and staff. Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.\nThe Hologram is not endorsed or paid by the Star Atlas team. Any information published by The Hologram nor its writers should be considered as informational in nature and does not constitute any financial advice.\nShare:",
+  "content_hash": "662e304ed9a4f45111d2f001eb9230f0662d41990c6ef44b6e52f2178d1bc609",
+  "major_topics": [
+    "economy",
+    "guilds and DACs",
+    "community",
+    "lore"
+  ],
+  "entities": [
+    "ATLAS",
+    "Krigs",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-D35F7F6FE0E80A87-01",
+      "text": "Complete Syntax’s Riddle, Win An Opal Jet Jet Posted by Krigs | Aug 17, 2022 | Guilds In a cryptic tweet, the Star Atlas data running DAC Syntax announced a mysterious puzzle in celebration of their one year anniversary.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-D35F7F6FE0E80A87",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-D35F7F6FE0E80A87-02",
+      "text": "The first person to solve Syntax’s cipher will claim victory over an Opal Jet Jet.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-D35F7F6FE0E80A87",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-D35F7F6FE0E80A87-03",
+      "text": "Everything was going to plan until your scanners picked up a strange transmission.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-D35F7F6FE0E80A87",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-D35F7F6FE0E80A87-04",
+      "text": "Solve the cipher to receive your reward To date, no one has claimed the prize.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-D35F7F6FE0E80A87",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-D35F7F6FE0E80A87-05",
+      "text": "This page will continually update as more clues are delivered and puzzle pieces discovered.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-D35F7F6FE0E80A87",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-D35F7F6FE0E80A87-06",
+      "text": "Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-D35F7F6FE0E80A87",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Star Atlas",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [
+    "ONI"
+  ],
+  "actors": [
+    "Krigs"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://thehologram.io/author/krigs/",
+      "anchor_text": "Krigs"
+    },
+    {
+      "url": "https://thehologram.io/category/community/guilds/",
+      "anchor_text": "Guilds"
+    },
+    {
+      "url": "https://thehologram.io/syntax-star-atlas-best-data-runners-is-recruiting/",
+      "anchor_text": "Syntax"
+    },
+    {
+      "url": "https://play.staratlas.com/market/opal-jetjet",
+      "anchor_text": "Opal Jet Jet"
+    },
+    {
+      "url": "https://thehologram.io/",
+      "anchor_text": "The Hologram"
+    },
+    {
+      "url": "https://staratlas.com/",
+      "anchor_text": "Star Atlas"
+    },
+    {
+      "url": "http://www.facebook.com/sharer.php?u=https://thehologram.io/syntax-riddle/&t=Complete%20Syntax%E2%80%99s%20Riddle%2C%20Win%20An%20Opal%20Jet%20Jet",
+      "anchor_text": ""
+    },
+    {
+      "url": "http://twitter.com/intent/tweet?text=Complete%20Syntax%E2%80%99s%20Riddle%2C%20Win%20An%20Opal%20Jet%20Jet%20https://thehologram.io/syntax-riddle/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://plus.google.com/share?url=https://thehologram.io/syntax-riddle/&t=Complete%20Syntax%E2%80%99s%20Riddle%2C%20Win%20An%20Opal%20Jet%20Jet",
+      "anchor_text": ""
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "https://web.archive.org/web/20220817052839id_/https://thehologram.io/syntax-riddle/",
+    "final_url": "https://web.archive.org/web/20220817052839id_/https://thehologram.io/syntax-riddle/",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "response_size": 164574,
+    "elapsed_ms": 1225,
+    "retrieval_mode": "INTERNET_ARCHIVE",
+    "archive_capture": {
+      "timestamp": "20220817052839",
+      "original": "https://thehologram.io/syntax-riddle/",
+      "digest": "QH23GRD5RPFQYIORGDHEOYTASCM4C7UV"
+    }
+  }
+}

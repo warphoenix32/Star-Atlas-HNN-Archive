@@ -1,0 +1,272 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-585BABA910AC9649",
+    "url": "https://build.staratlas.com/dev-resources/apis-and-data/fleet-rentals",
+    "title": "Star Atlas Build",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Build / ATMTA",
+    "published_at": null,
+    "updated_at": "2026-04-16T16:32:35.000Z",
+    "original_date_text": "2026-04-16T16:32:35.000Z",
+    "document_type": "TECHNICAL_DOCUMENTATION",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Build / ATMTA",
+    "publication_role": "TECHNICAL_DOCUMENTATION",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://file.notion.so/f/f/5e9f15d0-134d-44b3-a8c8-fc55b80d2e5b/95c3b26c-63d1-45b3-b511-07b47594ba6c/srsly_(1).json?table=block&id=1cec6190-86e9-80f4-8299-f8541b47ed0c&spaceId=5e9f15d0-134d-44b3-a8c8-fc55b80d2e5b&expirationTimestamp=1749052800000&signature=ABuyviX4Of4tz1yawG77oflT5-prDYzFOz7_pg4kygw&downloadName=srsly+%281%29.json",
+        "anchor_text": "srsly (1).json"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Build / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official technical documentation titled “Star Atlas Build.” This record preserves what Star Atlas Build / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Fleet Rentals | Star Atlas Build\nSkip to contentStar Atlas BuildSearchK\nAppearance\nMenuReturn to top\nFleet Rentals ​\nThe SRSLY program enables on–chain rental agreements for fleets in the Star Atlas ecosystem. It lets fleet owners create rental contracts and borrowers accept rentals, automate recurring payments via threads, and later cancel, close, or reset rentals. This guide provides a comprehensive walkthrough of how to set up your environment, load the program, and interact with key instructions using the updated IDL.\nProgram Details ​\nProgram Name:\nsrsly\nVersion:\n1.0.0\n(spec:\n0.1.0\n)\nProgram Address:\nSRSLY1fq9TJqCk1gNSE7VZL2bztvTn9wm4VR8u8jMKT\nDescription: SRSLY is a rental contract system for Star Atlas. It enables fleet owners to define rental terms (e.g. rate, duration, payment frequency) and borrowers to accept rentals using in–game ATLAS tokens.\nToken Used:\nATLAS\n(ATLAS mint address:\nATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx\n)\nIDL Attachment:\nsrsly (1).json\nSetting Up Your Environment ​\nBefore you begin, make sure you have the proper dependencies installed:\n🔧 Required Versions ​\nAnchor: 0.31.0\nSolana CLI: 2.1.6\nYou can verify your versions with:\nbash\nsolana --version # Expected: solana-cli 2.1.6\nanchor --version # Expected: anchor-cli 0.30.1\nIf you need updates, follow the standard update procedures for Anchor and Solana CLI.\nLoading the SRSLY Program in a TypeScript Project ​\nIn your project, set up your Anchor provider and load the SRSLY program as follows.\n1️⃣ Import Required Dependencies ​\nIn your TypeScript file, import the necessary modules:\ntsx\nimport { Program, AnchorProvider, BN, setProvider, workspace } from \"@coral-xyz/anchor\";\nimport { PublicKey } from \"@solana/web3.js\";\nimport { Srsly } from \"./srsly\"; // Adjust the path to point to your IDL file\n2️⃣ Set Up the Anchor Provider ​\nEstablish your Solana connection and wallet provider:\ntsx\nconst provider = AnchorProvider.local();\nsetProvider(provider);\n3️⃣ Load the SRSLY Program ​\nOnce the provider is set, load the SRSLY program from your local workspace:\ntsx\nconst program = workspace.Srsly as Program<Srsly>;\nconsole.log(\"SRSLY Program ID:\", program.programId.toBase58());\nThis confirms that you have the correct program loaded.\nQuick Start: Running Sample Scripts ​\nOnce your environment is set, you can run sample scripts. Below are two examples for fetching account data.\nExample: Fetch a Rental Contract Account ​\nAssume you have already derived the program–derived address (PDA) for the contract. For example:\ntsx\nconst fleetPublicKey = new PublicKey(\"...\"); // Replace with your fleet's public key\nconst [contractPDA] = PublicKey.findProgramAddressSync(\n[Buffer.from(\"rental_contract\"), fleetPublicKey.toBuffer()],\nprogram.programId\n);\nasync function getContract() {\nconst contract = await program.account.contractState.fetch(contractPDA);\nconsole.log(\"Fleet:\", contract.fleet.toBase58());\nconsole.log(\"Rental Rate:\", contract.rate.toString());\nconsole.log(\"Owner:\", contract.owner.toBase58());\n}\ngetContract();\nExample: Fetch a Rental State Account ​\nDerive the rental state PDA using the contract PDA and borrower's key:\ntsx\nconst borrowerPublicKey = new PublicKey(\"...\"); // Replace with your borrower's public key\nconst [rentalStatePDA] = PublicKey.findProgramAddressSync(\n[\nBuffer.from(\"rental_state\"),\ncontractPDA.toBuffer(),\nborrowerPublicKey.toBuffer()\n],\nprogram.programId\n);\nasync function getRentalState() {\nconst rental = await program.account.rentalState.fetch(rentalStatePDA);\nconsole.log(\"Borrower:\", rental.borrower.toBase58());\nconsole.log(\"Rental Effective Rate:\", rental.rate.toString());\nconsole.log(\"Rental End Time:\", rental.end_time.toString());\n}\ngetRentalState();\nKey Accounts & Structures ​\nRental Contract Account (contractState) ​\nThis account defines the overall rental contract parameters for a fleet. It stores the essential terms, fleet details, and owner information which govern the rental agreement.\nPurpose:\n• Establish terms for the rental (rental rate, duration limits, and payment frequency).\n• Track the fleet being offered for rent and its ownership details.\n• Maintain the current rental state (or indicate if no rental is active, via a default value such as the system program’s ID).\nPDA Derivation:\nThe contract account is derived using the following seed:\n• Seeds:\n[ \"rental_contract\", fleet.publicKey ]\nFor example, in TypeScript:\ntsx\nconst [contractPDA] = PublicKey.findProgramAddressSync(\n[Buffer.from(\"rental_contract\"), fleetPublicKey.toBuffer()],\nprogram.programId\n);\nData Structure:\nField Name\nType\nDescription\nversion\nu8\nThe account version (typically set to 1).\nto_close\nbool\nFlag indicating if the contract is scheduled for closure.\nrate\nu64\nThe rental price per period (converted from Stardust to ATLAS).\nduration_min\nu64\nThe minimum duration allowed for the rental session.\nduration_max\nu64\nThe maximum allowable rental duration.\npayments_feq\nPaymentFrequency\nEnum representing the payment frequency (Daily)\nfleet\npubkey\nPublic key representing the fleet asset being rented.\ngame_id\npubkey\nIdentifier for the associated game.\ncurrent_rental_state\npubkey\nTracks the PDA of the active rental state. Defaults to system program’s ID when free.\nowner\npubkey\nThe fleet owner’s public key.\nowner_token_account\npubkey\nOwner’s token account used for receiving rental payments.\nowner_profile\npubkey\nThe owner’s profile account from the Sage program.\nbump\nu8\nThe bump seed value from the PDA derivation.\n–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––\nRental State Account (rentalState) ​\nThe Rental State account captures all details specific to an active rental session. It keeps track of payment details, session timings, cancellation status, and the thread that automates recurring payments.\nPurpose:\n• Record the active rental details including the borrower, effective payment rate, and the overall timeline of the rental.\n• Coordinate with a recurring payment thread to automate the transfer of rental fees over the rental period.\nPDA Derivation:\nThis account is derived using:\n• Seeds:\n[ \"rental_state\", contractPDA, borrower.publicKey ]\nFor example, in TypeScript:\ntsx\nconst [rentalStatePDA] = PublicKey.findProgramAddressSync(\n[Buffer.from(\"rental_state\"), contractPDA.toBuffer(), borrowerPublicKey.toBuffer()],\nprogram.programId\n);\nData Structure:\nField Name\nType\nDescription\nversion\nu8\nThe account version (typically 1).\nborrower\npubkey\nPublic key of the user borrowing the fleet.\nthread\npubkey\nThe public key of the thread account managing recurring payments for this rental.\ncontract\npubkey\nThe rental contract’s public key associated with this rental session.\nowner_token_account\npubkey\nThe owner’s token account; payments are routed here.\nrate\nf64\nThe effective rental rate for this session (after fee adjustments).\nstart_time\ni64\nUnix timestamp when the rental session started.\nend_time\ni64\nUnix timestamp when the rental session is scheduled to end.\ncancelled\nbool\nFlag indicating whether the rental was cancelled before the agreed end time.\nbump\nu8\nThe PDA bump seed used during derivation.\n–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––\nThese two accounts work together to support the full lifecycle of a rental: the contract establishes the rules and availability for renting a fleet, while the rental state captures each active session’s details, enabling automated payment processing and control via associated threads.\nFeel free to modify the formatting in Notion as needed to match your style preferences.\nDetailed Step–by–Step Instruction Guide ​\nThe following instructions detail how to work with the major functionalities of the SRSLY program using Anchor and the updated IDL.\n1️⃣ Create a Rental Contract ​\nThis instruction creates a new rental contract and registers the fleet with defined terms.\nInstruction:\ncreate_contract\n​\nKey Accounts:\nmint: (ATLAS mint account)\nowner: (Signer – fleet owner)\nowner_token_account: (Owner’s token account; often a PDA)\nfleet: (Fleet account from Sage)\nowner_profile: (Owner’s profile)\ngame_id: (Identifier for the game)\ncontract: (Writable PDA; derived using seeds\n[ \"rental_contract\", fleet.publicKey ]\n)\nrental_authority: (PDA using seed\n\"rental_authority\"\n)\nsage_program, token_program, system_program: (For CPI and token transfers)\nArguments:\nrate: u64\n– Rental price per period\nduration_min: u64\n– Minimum rental duration\nduration_max: u64\n– Maximum rental duration\npayments_feq: string\n– Payment frequency (e.g.,\n@daily\n)\nowner_key_index: u16\n– Owner profile key index\nExample Usage:\ntsx\nawait program.methods.createContract(\nnew BN(5000), // rate (in ATLAS)\nnew BN(1), // minimum duration (days)\nnew BN(10), // maximum duration (days)\n\"@daily\", // payment frequency\n0 // owner key index\n).accounts({\nowner: ownerPublicKey,\nfleet: fleetPublicKey,\nowner_profile: ownerProfilePublicKey,\ngame_id: gameIdPublicKey,\nmint: new PublicKey(\"ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx\"),\nowner_token_account: ownerTokenAccountPublicKey,\ncontract: contractPDA,\nrental_authority: rentalAuthorityPDA,\nsage_program: new PublicKey(\"sAgezwJpDb1aHvzNr3o24cKjsETmFEKghBEyJ1askDi\"),\ntoken_program: new PublicKey(\"TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA\"),\nsystem_program: new PublicKey(\"11111111111111111111111111111111\")\n}).rpc();\n2️⃣ Accept a Rental ​\nThis call allows a borrower to accept a rental contract. It sets up a rental state, transfers tokens into an escrow account, and creates a recurring payment thread.\nInstruction:\naccept_rental\n​\nKey Accounts:\nmint: ATLAS mint (provided account)\nborrower: Signer accepting the rental\nborrower_profile & borrower_profile_faction: (Sage accounts)\nborrower_token_account: (Writable, PDA derived from borrower and mint)\nfleet: (Writable; must follow\nsub_profile\nrules)\ngame_id, starbase, starbase_player: (Sage integration accounts)\ncontract: (Writable PDA from\n[ \"rental_contract\", fleet ]\n)\nrental_state: (Writable PDA from\n[ \"rental_state\", contract, borrower ]\n)\nrental_authority: PDA using seed\n\"rental_authority\"\nrental_token_account: (Escrow account for rental payments)\nrental_thread: (Thread account for recurring payments)\nfee_token_account: (For fee collection)\nsage_program, antegen_program, token_program, associated_token_program, system_program: (For CPI and transfers)\nArguments:\namount: u64\n– Payment amount\nduration: u64\n– Duration (in days, etc.)\nExample Usage:\ntsx\nawait program.methods.acceptRental(\nnew BN(5000), // Payment amount in ATLAS\nnew BN(5) // Rental duration (5 days)\n).accounts({\nborrower: borrowerPublicKey,\nfleet: fleetPublicKey,\ngame_id: gameIdPublicKey,\nborrower_profile: borrowerProfilePublicKey,\nborrower_profile_faction: borrowerProfileFactionPublicKey,\nrental_state: rentalStatePDA,\nmint: new PublicKey(\"ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx\"),\nrental_token_account: rentalTokenAccountPDA,\nrental_thread: rentalThreadPublicKey,\nsage_program: new PublicKey(\"sAgezwJpDb1aHvzNr3o24cKjsETmFEKghBEyJ1askDi\"),\ntoken_program: new PublicKey(\"TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA\"),\nantegen_program: new PublicKey(\"AgThdyi1P5RkVeZD2rQahTvs8HePJoGFFxKtvok5s2J1\"),\nassociated_token_program: new PublicKey(\"ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL\"),\nsystem_program: new PublicKey(\"11111111111111111111111111111111\")\n}).rpc();\n3️⃣ Pay Rental ​\nThis instruction handles ongoing rental payments. It transfers tokens from the escrow to the owner, evaluates whether the rental term is complete, and—if needed—finalizes and closes or resets the rental.\nInstruction:\npay_rental\n​\nKey Accounts:\nborrower & borrower_token_account: (For sending payment details)\nowner & owner_token_account: (For receiving rental payments)\nfleet, game_id, starbase, starbase_player: (Related Sage accounts)\ncontract: (Writable PDA for the rental contract)\nrental_state: (Writable current rental state)\nrental_authority: PDA for automated execution\nrental_token_account: (Escrow account)\nrental_thread: (Signer; thread account for payment scheduling)\nsage_program, antegen_program, token_program: (For CPI and transfers)\nExample Usage:\ntsx\nconst response = await program.methods.payRental().accounts({\nborrower: borrowerPublicKey,\nborrower_token_account: borrowerTokenAccountPublicKey,\nowner: ownerPublicKey,\nowner_token_account: ownerTokenAccountPublicKey,\nfleet: fleetPublicKey,\ngame_id: gameIdPublicKey,\nstarbase: starbasePublicKey,\nstarbase_player: starbasePlayerPublicKey,\ncontract: contractPDA,\nrental_state: rentalStatePDA,\nrental_authority: rentalAuthorityPDA,\nrental_token_account: rentalTokenAccountPDA,\nrental_thread: rentalThreadPublicKey,\nsage_program: new PublicKey(\"sAgezwJpDb1aHvzNr3o24cKjsETmFEKghBEyJ1askDi\"),\nantegen_program: new PublicKey(\"AgThdyi1P5RkVeZD2rQahTvs8HePJoGFFxKtvok5s2J1\"),\ntoken_program: new PublicKey(\"TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA\")\n}).rpc();\nconsole.log(\"Thread Response:\", response);\nThe returned value is a ThreadResponse that may include a new trigger or a close–to account if the rental session is finalized.\n4️⃣ Cancel Rental ​\nThis instruction allows the borrower to cancel an active rental early. It updates the rental state (setting a cancellation flag and adjusting the end time) so that final payment logic can refund funds accordingly.\nInstruction:\ncancel_rental\n​\nKey Accounts:\nborrower: (Signer requesting cancellation)\nrental_thread: (Thread account associated with the rental)\ncontract: (Rental contract account)\nrental_state: (Writable PDA representing the active rental)\nExample Usage:\ntsx\nawait program.methods.cancelRental().accounts({\nborrower: borrowerPublicKey,\nrental_thread: rentalThreadPublicKey,\ncontract: contractPDA,\nrental_state: rentalStatePDA\n}).rpc();\n5️⃣ Close Rental ​\nClose an active rental session by processing any remaining payments, deleting the recurring thread, and finalizing the rental state.\nInstruction:\nclose_rental\n​\nKey Accounts:\nborrower: (Signer)\nborrower_token_account & owner_token_account: (For final token transfers)\ncontract: (Rental contract account)\nrental_state: (Writable PDA for the active rental)\nrental_token_account: (Escrow token account)\nrental_authority: (PDA)\nrental_thread: (Thread account)\nantegen_program, token_program, system_program: (For final transfers and thread deletion)\nExample Usage:\ntsx\nawait program.methods.closeRental().accounts({\nborrower: borrowerPublicKey,\nborrower_token_account: borrowerTokenAccountPublicKey,\nowner_token_account: ownerTokenAccountPublicKey,\ncontract: contractPDA,\nrental_state: rentalStatePDA,\nrental_token_account: rentalTokenAccountPDA,\nrental_authority: rentalAuthorityPDA,\nrental_thread: rentalThreadPublicKey,\nantegen_program: new PublicKey(\"AgThdyi1P5RkVeZD2rQahTvs8HePJoGFFxKtvok5s2J1\"),\ntoken_program: new PublicKey(\"TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA\"),\nsystem_program: new PublicKey(\"11111111111111111111111111111111\")\n}).rpc();\n6️⃣ Close Contract ​\nShut down a rental contract. If a rental is in progress, final payments are processed before closure. Otherwise, the contract is closed immediately.\nInstruction:\nclose_contract\n​\nKey Accounts:\nowner: (Signer, fleet owner)\ncontract: (Writable rental contract account)\nowner_token_account, rental_token_account, borrower_token_account, rental_state: (Optional accounts if an active rental exists)\nfleet, game_id, starbase, starbase_player: (Additional Sage accounts)\nrental_authority: (PDA)\nsage_program, token_program: (For CPI transfers)\nExample Usage:\ntsx\nawait program.methods.closeContract().accounts({\nowner: ownerPublicKey,\ncontract: contractPDA,\nsage_program: new PublicKey(\"sAgezwJpDb1aHvzNr3o24cKjsETmFEKghBEyJ1askDi\"),\ntoken_program: new PublicKey(\"TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA\")\n}).rpc();\n7️⃣ Reset Rental ​\nReset the rental state (for example, after an early cancellation or when cleaning up state). This call uses a Sage CPI call to invalidate the rental.\nInstruction:\nreset_rental\n​\nKey Accounts:\nfleet, game_id, starbase, starbase_player: (Writable or checked accounts for rental reset)\nrental_state: (Must be empty – ensures no active rental state exists)\ncontract: (Writable rental contract account)\nrental_authority: (PDA)\nsage_program: (For CPI calls)\nExample Usage:\ntsx\nawait program.methods.resetRental().accounts({\nfleet: fleetPublicKey,\ngame_id: gameIdPublicKey,\nstarbase: starbasePublicKey,\nstarbase_player: starbasePlayerPublicKey,\nrental_state: rentalStatePublicKey, // Should be empty\ncontract: contractPDA,\nrental_authority: rentalAuthorityPDA,\nsage_program: new PublicKey(\"sAgezwJpDb1aHvzNr3o24cKjsETmFEKghBEyJ1askDi\")\n}).rpc();\nPDA Derivation Summary ​\nMany key accounts in the SRSLY program are derived using Program Derived Addresses (PDAs).\nRental Contract PDA ​\ntsx\nconst [contractPDA] = PublicKey.findProgramAddressSync(\n[Buffer.from(\"rental_contract\"), fleetPublicKey.toBuffer()],\nprogram.programId\n);\nRental State PDA ​\ntsx\nconst [rentalStatePDA] = PublicKey.findProgramAddressSync(\n[Buffer.from(\"rental_state\"), contractPDA.toBuffer(), borrowerPublicKey.toBuffer()],\nprogram.programId\n);\nRental Authority PDA ​\ntsx\nconst [rentalAuthorityPDA] = PublicKey.findProgramAddressSync(\n[Buffer.from(\"rental_authority\")],\nprogram.programId\n);\nRental Token Account PDA Example ​\nOften, the rental token escrow account is derived using a combination of the rental state, the token program, and the ATLAS mint:\ntsx\nconst [rentalTokenAccountPDA] = PublicKey.findProgramAddressSync(\n[\nrentalStatePDA.toBuffer(),\nnew PublicKey(\"TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA\").toBuffer(),\nnew PublicKey(\"ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx\").toBuffer()\n],\nnew PublicKey(\"ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL\")\n);\nRental Payment Thread PDA ​\ntsx\nconst [rentalThreadPDA] = PublicKey.findProgramAddressSync(\n[rentalAuthorityPDA.toBuffer(), rentalStatePDA.toBuffer()],\nnew PublicKey(\"AgThdyi1P5RkVeZD2rQahTvs8HePJoGFFxKtvok5s2J1\")\n);\nProgram Errors ​\nThe SRSLY program uses custom error codes to enforce rules and validations throughout its instructions. Each error code provides a descriptive message that helps in diagnosing issues during contract interactions.\nError Code\nError Name\nDescription\n6000\nInvalidDurationMinimum\n\"Invalid duration minimum. Must be between 1 and the duration maximum.\"\n6001\nInvalidDurationMaximum\n\"Invalid duration maximum. Must be greater than or equal to the duration minimum.\"\n6002\nInvalidRateCalculation\n\"The contract rate multiplied by duration exceeds the payment amount.\"\n6003\nFleetAlreadyRented\n\"Fleet is already rented (sub_profile is not empty).\"\n6004\nInvalidRate\n\"Contract rate must be greater than or equal to 0.\"\n6005\nInvalidPaymentFrequency\n\"Invalid payment frequency. Must be one of: @daily\"\n6006\nInvalidSubProfileInvalidator\n\"Invalid sub_profile invalidator.\"\n6007\nInsufficientCancellationNotice\n\"Rental time remaining is less than minimum cancellation notice required.\"\n6008\nContractClosed\n\"The contract is closed.\"\n6009\nDevOnlyFrequency\n\"This frequency is only allowed in development.\"\n6010\nExpectedDailyFrequency\n\"Expected daily frequency but contract is set differently.\"\n6011\nInvalidThreadContext\n\"Thread has invalid context set.\"\n6012\nRentalIsActive\n\"Rental is still active.\"\n6013\nRentalStateExists\n\"Rental reset requires rental state to not exist.\"\nKey Constants ​\nThese public keys are essential for interacting with the SRSLY rental program and related Solana programs:\nConstant Name\nPublic Key\nDescription\nSAGE_PROGRAM\nSAGE2HAwep459SNq61LHvjxPk4pLPEJLoMETef7f7EE\nSage in-game asset control.\nSRSLY_PROGRAM\nSRSLY1fq9TJqCk1gNSE7VZL2bztvTn9wm4VR8u8jMKT\nSRSLY rental program ID.\nANTIGEN_PROGRAM\nAgThdyi1P5RkVeZD2rQahTvs8HePJoGFFxKtvok5s2J1\nThread automation framework.\nSYSTEM_PROGRAM\n11111111111111111111111111111111\nSolana’s system program.\nTOKEN_PROGRAM\nTokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA\nSPL token program.\nASSOCIATED_TOKEN_PROGRAM\nATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL\nCreates associated token accounts.\nFACTION_PROGRAM\npFACSRuobDmvfMKq1bAzwj27t6d2GJhSCHb1VcfnRmq\nManages player factions.\nGAME_STATE\nDeXGvdhyVUMSbmGWZtwFm5NM3q3TmRDKaAF3KgGx3dBJ\nSage global game state. (Will Change)\nGAME_ID\nGAMEzqJehF8yAnKiTARUuhZMvLvkZVAsCVri5vSfemLr\nUnique game instance in Star Atlas.\nATLAS_MINT\nATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx\nOfficial\nATLAS\ntoken mint.\nFinal Remarks ​\nIntegration with Sage:\nMany instructions (like accepting a rental and resetting) require interaction with Sage program accounts (such as the fleet’s\nsub_profile\nand\nsub_profile_invalidator\n).\nToken Transfers & Escrow:\nThe program uses the Anchor SPL Token library. Account addresses are derived via a mix of constant seeds and account keys.\nHappy Renting on Solana!\nEnsure you review the full IDL (attached above) for all details and updates before integration.",
+  "content_hash": "b61e8e63fd0d44982db845af4617737c13ed60063b480d60959ec7b7b0501df5",
+  "entities": [
+    "ATLAS",
+    "SAGE",
+    "Solana"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-585BABA910AC9649-01",
+      "text": "Fleet Rentals | Star Atlas Build Skip to contentStar Atlas BuildSearchK Appearance MenuReturn to top Fleet Rentals ​ The SRSLY program enables on–chain rental agreements for fleets in the Star Atlas ecosystem.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-585BABA910AC9649",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-585BABA910AC9649-02",
+      "text": "It lets fleet owners create rental contracts and borrowers accept rentals, automate recurring payments via threads, and later cancel, close, or reset rentals.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-585BABA910AC9649",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-585BABA910AC9649-03",
+      "text": "This guide provides a comprehensive walkthrough of how to set up your environment, load the program, and interact with key instructions using the updated IDL.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-585BABA910AC9649",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-585BABA910AC9649-04",
+      "text": "Program Details ​ Program Name: srsly Version: 1.0.0 (spec: 0.1.0 ) Program Address: SRSLY1fq9TJqCk1gNSE7VZL2bztvTn9wm4VR8u8jMKT Description: SRSLY is a rental contract system for Star Atlas.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-585BABA910AC9649",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-585BABA910AC9649-05",
+      "text": "It enables fleet owners to define rental terms (e.g.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-585BABA910AC9649",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-585BABA910AC9649-06",
+      "text": "rate, duration, payment frequency) and borrowers to accept rentals using in–game ATLAS tokens.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-585BABA910AC9649",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-585BABA910AC9649-07",
+      "text": "Token Used: ATLAS (ATLAS mint address: ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx ) IDL Attachment: srsly (1).json Setting Up Your Environment ​ Before you begin, make sure you have the proper dependencies installed: 🔧 Required Versions ​ Anchor: 0.31.0 Solana CLI: 2.1.6 You can verify your versions with: bash solana --version # Expected: solana-cli 2.1.6 anchor --version # Expected: anchor-cli 0.30.1 If you need updates, follow the standard update procedures for Anchor and Solana CLI.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-585BABA910AC9649",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-585BABA910AC9649-08",
+      "text": "Loading the SRSLY Program in a TypeScript Project ​ In your project, set up your Anchor provider and load the SRSLY program as follows.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-585BABA910AC9649",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-585BABA910AC9649-09",
+      "text": "Quick Start: Running Sample Scripts ​ Once your environment is set, you can run sample scripts.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-585BABA910AC9649",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-585BABA910AC9649-10",
+      "text": "Below are two examples for fetching account data.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-585BABA910AC9649",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-585BABA910AC9649-11",
+      "text": "Example: Fetch a Rental Contract Account ​ Assume you have already derived the program–derived address (PDA) for the contract.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-585BABA910AC9649",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-585BABA910AC9649-12",
+      "text": "It stores the essential terms, fleet details, and owner information which govern the rental agreement.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-585BABA910AC9649",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-585BABA910AC9649-13",
+      "text": "Purpose: • Establish terms for the rental (rental rate, duration limits, and payment frequency).",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-585BABA910AC9649",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-585BABA910AC9649-14",
+      "text": "• Track the fleet being offered for rent and its ownership details.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-585BABA910AC9649",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-585BABA910AC9649-15",
+      "text": "• Maintain the current rental state (or indicate if no rental is active, via a default value such as the system program’s ID).",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-585BABA910AC9649",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "SAGE",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [
+    "Solana"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/fleet-rentals",
+      "anchor_text": "Skip to content"
+    },
+    {
+      "url": "https://build.staratlas.com/",
+      "anchor_text": "Star Atlas Build"
+    },
+    {
+      "url": "https://discord.com/invite/staratlas",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://file.notion.so/f/f/5e9f15d0-134d-44b3-a8c8-fc55b80d2e5b/95c3b26c-63d1-45b3-b511-07b47594ba6c/srsly_(1).json?table=block&id=1cec6190-86e9-80f4-8299-f8541b47ed0c&spaceId=5e9f15d0-134d-44b3-a8c8-fc55b80d2e5b&expirationTimestamp=1749052800000&signature=ABuyviX4Of4tz1yawG77oflT5-prDYzFOz7_pg4kygw&downloadName=srsly+%281%29.json",
+      "anchor_text": "srsly (1).json"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/fleet-rentals",
+      "anchor_text": "Skip to content"
+    },
+    {
+      "url": "https://build.staratlas.com/",
+      "anchor_text": "Star Atlas Build"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://build.staratlas.com/dev-resources/apis-and-data/fleet-rentals",
+    "final_url": "https://build.staratlas.com/dev-resources/apis-and-data/fleet-rentals",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 113839,
+    "retrieved_at": "2026-07-13T01:04:26.539990Z",
+    "elapsed_ms": 190
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "source": {
+    "source_id": "SRC-IH-3D1553D4ADD50F9B",
+    "url_id": "URL-3D1553D4ADD50F9B",
+    "url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-52/",
+    "inventory_url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-52",
+    "title": "Star Atlas Weekly News Recap #52",
+    "author": "Intergalactic Herald",
+    "publisher": "Intergalactic Herald",
+    "published_at": "2023-03-19T17:00:29",
+    "updated_at": "2023-03-18T13:25:43",
+    "retrieved_at": "2026-07-12T22:02:30.087854Z",
+    "document_type": "NEWSLETTER",
+    "source_role": "CURATED_SUMMARY",
+    "source_classification": "CURATED_SUMMARY",
+    "classification_rationale": "Weekly newsletter/recap aggregates developments and linked sources.",
+    "wordpress_type": "posts"
+  },
+  "summary": {
+    "neutral_abstract": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week. Star Atlas Galactic Marketplace mishap allows ship NFTs to sell at insane",
+    "historical_value": "Contemporary Intergalactic Herald publication preserved with role and attribution boundaries.",
+    "current_validity_warning": "Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources."
+  },
+  "article_text": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week.\nCORE Ep. 5 and Automata Pulls USDC from Marketplace\nThe Hologram News Network posted a video of the latest Star Atlas news.\nMetaverse Nomads #85\nMetaverse Nomads posted a video of their latest Star Atlas live stream.\nWEEKLY STAR ATLAS NEWSLETTER #70\nAephia published their latest Star Atlas newsletter.\nLanding Pads Graybox – STAR ATLAS\nGladiator posted a video analyzing some new images of Star Atlas development.\nStar Atlas Galactic Marketplace mishap allows ship NFTs to sell at insane discounts\nThe Hologram published an article about a mishap on the Star Atlas Marketplace.\nVSUS Solos Grayscale review – 4K STAR ATLAS Showroom\nGladiator posted a video review of the VSUS Solos Star Atlas ship.\nIs your system and Internet ready? STAR ATLAS\nGladiator posted a video of his thoughts on technology for Star Atlas.\nReview: The Club’s bot J33ves is your R4 supplier of last resort\nThe Hologram published an article about The Club’s bot J33ves.\nNext-Level Gaming: Unity + Web3!\nThe Hologram published an article about the Unity game engine.",
+  "content_hash": "e448bfa4298798e11803782ae6e10c2c9d2697cf8afc0da039bfc3e8262ac196",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [],
+  "external_sources": [
+    {
+      "url": "https://www.youtube.com/watch?v=T3gX_nmJOCI",
+      "anchor_text": "latest Star Atlas news"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=-LK1w_8ksp8",
+      "anchor_text": "latest Star Atlas live stream"
+    },
+    {
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-70/",
+      "anchor_text": "latest Star Atlas newsletter"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=L21FFd_lQNw",
+      "anchor_text": "new images of Star Atlas development"
+    },
+    {
+      "url": "https://medium.com/the-hologram/star-atlas-galactic-marketplace-mishap-allows-ship-nfts-to-sell-at-insane-discounts-ea67816d64ba",
+      "anchor_text": "Star Atlas Marketplace"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=mxHj0e8rlB0",
+      "anchor_text": "VSUS Solos"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=OTjC2RpW9ak",
+      "anchor_text": "technology for Star Atlas"
+    },
+    {
+      "url": "https://medium.com/the-hologram/review-the-clubs-bot-j33ves-is-your-r4-supplier-of-last-resort-cf124667f59c",
+      "anchor_text": "The Club’s bot J33ves"
+    },
+    {
+      "url": "https://medium.com/the-hologram/next-level-gaming-unity-web3-b8810add31c3",
+      "anchor_text": "Unity game engine"
+    }
+  ],
+  "primary_source_relationships": [
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=T3gX_nmJOCI",
+      "anchor_text": "latest Star Atlas news"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=-LK1w_8ksp8",
+      "anchor_text": "latest Star Atlas live stream"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-70/",
+      "anchor_text": "latest Star Atlas newsletter"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=L21FFd_lQNw",
+      "anchor_text": "new images of Star Atlas development"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://medium.com/the-hologram/star-atlas-galactic-marketplace-mishap-allows-ship-nfts-to-sell-at-insane-discounts-ea67816d64ba",
+      "anchor_text": "Star Atlas Marketplace"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=mxHj0e8rlB0",
+      "anchor_text": "VSUS Solos"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=OTjC2RpW9ak",
+      "anchor_text": "technology for Star Atlas"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://medium.com/the-hologram/review-the-clubs-bot-j33ves-is-your-r4-supplier-of-last-resort-cf124667f59c",
+      "anchor_text": "The Club’s bot J33ves"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://medium.com/the-hologram/next-level-gaming-unity-web3-b8810add31c3",
+      "anchor_text": "Unity game engine"
+    }
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Verify which outbound links are primary sources and preserve creator attribution during promotion.",
+      "Short extraction requires completeness review."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-52&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 4625,
+    "elapsed_ms": 1955,
+    "attempts": [
+      {
+        "endpoint": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-52&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "http_status": 200,
+        "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-52&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "content_type": "application/json; charset=UTF-8",
+        "response_size": 4625,
+        "elapsed_ms": 1955
+      }
+    ]
+  },
+  "source_lineage": {
+    "publication": "Intergalactic Herald",
+    "publication_role": "CURATED_SUMMARY",
+    "relationship": "CURATED_SUMMARY_OF",
+    "primary_sources": [
+      {
+        "publication": "latest Star Atlas news",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=T3gX_nmJOCI",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest Star Atlas news"
+      },
+      {
+        "publication": "latest Star Atlas live stream",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=-LK1w_8ksp8",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest Star Atlas live stream"
+      },
+      {
+        "publication": "latest Star Atlas newsletter",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-70/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest Star Atlas newsletter"
+      },
+      {
+        "publication": "new images of Star Atlas development",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=L21FFd_lQNw",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: new images of Star Atlas development"
+      },
+      {
+        "publication": "Star Atlas Marketplace",
+        "author": "UNKNOWN",
+        "url": "https://medium.com/the-hologram/star-atlas-galactic-marketplace-mishap-allows-ship-nfts-to-sell-at-insane-discounts-ea67816d64ba",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas Marketplace"
+      },
+      {
+        "publication": "VSUS Solos",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=mxHj0e8rlB0",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: VSUS Solos"
+      },
+      {
+        "publication": "technology for Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=OTjC2RpW9ak",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: technology for Star Atlas"
+      },
+      {
+        "publication": "The Club’s bot J33ves",
+        "author": "UNKNOWN",
+        "url": "https://medium.com/the-hologram/review-the-clubs-bot-j33ves-is-your-r4-supplier-of-last-resort-cf124667f59c",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: The Club’s bot J33ves"
+      },
+      {
+        "publication": "Unity game engine",
+        "author": "UNKNOWN",
+        "url": "https://medium.com/the-hologram/next-level-gaming-unity-web3-b8810add31c3",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Unity game engine"
+      }
+    ],
+    "secondary_sources": [],
+    "original_creators": [
+      "Aephia"
+    ],
+    "attribution_chain": [
+      {
+        "from": "latest Star Atlas news",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=T3gX_nmJOCI"
+      },
+      {
+        "from": "latest Star Atlas live stream",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=-LK1w_8ksp8"
+      },
+      {
+        "from": "latest Star Atlas newsletter",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-70/"
+      },
+      {
+        "from": "new images of Star Atlas development",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=L21FFd_lQNw"
+      },
+      {
+        "from": "Star Atlas Marketplace",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://medium.com/the-hologram/star-atlas-galactic-marketplace-mishap-allows-ship-nfts-to-sell-at-insane-discounts-ea67816d64ba"
+      },
+      {
+        "from": "VSUS Solos",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=mxHj0e8rlB0"
+      },
+      {
+        "from": "technology for Star Atlas",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=OTjC2RpW9ak"
+      },
+      {
+        "from": "The Club’s bot J33ves",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://medium.com/the-hologram/review-the-clubs-bot-j33ves-is-your-r4-supplier-of-last-resort-cf124667f59c"
+      },
+      {
+        "from": "Unity game engine",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://medium.com/the-hologram/next-level-gaming-unity-web3-b8810add31c3"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  }
+}

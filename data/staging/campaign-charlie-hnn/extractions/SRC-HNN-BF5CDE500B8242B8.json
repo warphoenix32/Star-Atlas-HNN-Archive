@@ -1,0 +1,263 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-BF5CDE500B8242B8",
+    "url_id": "URL-BF5CDE500B8242B8",
+    "url": "https://medium.com/the-hologram/the-ultimate-star-atlas-escape-velocity-guide-updated-with-new-loot-table-c35b97761ecb",
+    "title": "The Ultimate Star Atlas Escape Velocity Guide — Updated with NEW Loot Table!",
+    "author": "Krigs",
+    "publisher": "The Hologram",
+    "publication_identity": "The Hologram (Medium publication)",
+    "published_at": "2023-04-27T03:08:26Z",
+    "updated_at": "2023-04-27T03:08:26Z",
+    "retrieved_at": "2026-07-13T00:09:39.315453Z",
+    "document_type": "REFERENCE",
+    "source_role": "REFERENCE",
+    "publication_role": "REFERENCE",
+    "classification_rationale": "Publication is structured as a guide or reference."
+  },
+  "source_lineage": {
+    "publication": "The Hologram (Medium publication)",
+    "publication_role": "REFERENCE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "publication": "sage.staratlas.com",
+        "author": "UNKNOWN",
+        "url": "https://t.co/OIw22srWhP",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Podcast",
+        "author": "UNKNOWN",
+        "url": "https://open.spotify.com/show/2mxndrDW6yPfpS350ijzjt?si=ec7c717f998240d6",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "YouTube",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/channel/UCDa-YxgNG6A9xpH1qyP0OaQ",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://staratlas.com/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [
+      "Krigs"
+    ],
+    "attribution_chain": [
+      {
+        "from": "sage.staratlas.com",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REFERENCES",
+        "url": "https://t.co/OIw22srWhP"
+      },
+      {
+        "from": "Podcast",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REFERENCES",
+        "url": "https://open.spotify.com/show/2mxndrDW6yPfpS350ijzjt?si=ec7c717f998240d6"
+      },
+      {
+        "from": "YouTube",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REFERENCES",
+        "url": "https://www.youtube.com/channel/UCDa-YxgNG6A9xpH1qyP0OaQ"
+      },
+      {
+        "from": "Star Atlas",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REFERENCES",
+        "url": "https://staratlas.com/"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "This reference published by The Hologram on 2023-04-27 documents “The Ultimate Star Atlas Escape Velocity Guide — Updated with NEW Loot Table!.” Its surviving text addresses economy, game development, community, lore, technology. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "The Ultimate Star Atlas Escape Velocity Guide — Updated with NEW Loot Table!\nKrigs4 min read·Apr 27, 2023\n--\nListen\nShare\nUpdated post-launch on Aprl 27th with the new loot table and scanning mechanics!\nPress enter or click to view image in full size\nWhat is Escape Velocity?\nEscape Velocity is the first in a series of modules in the SAGE product line from Star Atlas. The purpose of Escape Velocity is to test the mass on-chain movement of thousands of player ships on a single map.\nEvery ship movement represents an on-chain transaction on the Solana blockchain. To incentivize as many participants as possible, Star Atlas if offering over $600K in player rewards.\nPlay Here: sage.staratlas.com\nWhat You Need to Play\nYou Will Need:\nA Solana wallet (we recommend Phantom)\nSome $SOL\nAt least 1,000 $ATLAS\nSpawning a ship will cost you 1,000 ATLAS. This ship will be the Fimbul Lowbie and is the only ship available. Every person gets the same type of ship and there are no differences between individual ships. You can spawn additional ships to scan with for 1,000 ATLAS each. You will get all your ATLAS back when you despawn each ship.\nHow to Play\nEach of your ships have three actions then can take in real time. Scanning and Movement each have individual ship cool down timers. There is an undisclosed global timer for scanning across all your ships.\nScanning — Each of your ships will be able to scan individually for loot with a 30 second timer for each ship. There is a maximum cap of 15 scans in 30 seconds for all your ships to prevent spamming.\nMovement — Ships can move to another sector that is within their warp range. Ships do not have to move to adjacent sectors.\nObserve — Takes you to a special view where you can look around the system that you are in.\nLoot Table\nThere was a change in the Loot Table just prior to Escape Velocity’s launch. The Copper tier probability of spawning loot was greatly increased, however, at the cost of the probability of higher tiers spawning.\nAdditionally the amount of ATLAS dropped in the Copper tier was reduced from 100 ATLAS to 10 ATLAS\nPress enter or click to view image in full size\nLoot Mechanics\nLoot spawns in a fixed quantity on the map.\nLoot spawns to the maximum capacity every minute.\nLoot randomly spawns across the map.\nA single loot drop can have multiple cannisters to claim.\nTotal amount of loot on the map at any given time is also capped.\nLoot probability is based on spawning and item in that category, not the chance of player encountering the item\nGeneral Strategy\nThe player goal of Escape Velocity is to find as much loot as possible. Here are some general tips:\nThe more ships you have the more you can scan. Since there is a global cap of 15 scans per 30 seconds, we recommend an initial target of 10–15 ships that you can manage.\nEscape Velocity has a player heat map showing the density of players in an area. The more players in an area, the more competition in that sector for loot. But….\nPlay with friends! You can divide and conquer and split the rewards. You can also cover more ground and find drops that multiple people can claim at once.\nMore players means more loot! This might seem counterintuitive but since loot is on a global refresh timer and resets to its maximum every minute, that means the more loot that is picked up every minute, the more loot that is randomly spawned across the map, up to the global cap.\nLastly, have fun! This is the very first SAGE gameplay module that is released.\nHappy Hunting!\nAbout the Author\nKrigs\nis a pioneer in the world of Star Atlas, having founded The Hologram News Network — an independent meta-news organization that keeps players up to date on all developments regarding Star Atlas. An ardent supporter of emerging technologies, Krigs has been covering this game for over a year and believes passionately in their power to revolutionize our collective gaming experience.\nFollow on Social Media:\nPodcast | YouTube | Twitter | Instagram | Web\nAbout The Hologram\nThe Hologram is Star Atlas’ first and only independent news network. Our vision is to become the most trusted source of information about Star Atlas and a voice for the whole community. Readers can expect a high standard from our reporting and staff. Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.\nThe Hologram is not endorsed or paid by the Star Atlas team. Any information published by The Hologram nor its writers should be considered as informational in nature and does not constitute any financial advice.",
+  "content_hash": "3cac28edbd546c62f9d96d4b77ca47d98e745a37ebff7d4f59af343d626b5694",
+  "major_topics": [
+    "economy",
+    "game development",
+    "community",
+    "lore",
+    "technology"
+  ],
+  "entities": [
+    "ATLAS",
+    "Escape Velocity",
+    "Krigs",
+    "SAGE",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-BF5CDE500B8242B8-01",
+      "text": "Play Here: sage.staratlas.com What You Need to Play You Will Need: A Solana wallet (we recommend Phantom) Some $SOL At least 1,000 $ATLAS Spawning a ship will cost you 1,000 ATLAS.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-BF5CDE500B8242B8",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-BF5CDE500B8242B8-02",
+      "text": "This ship will be the Fimbul Lowbie and is the only ship available.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-BF5CDE500B8242B8",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-BF5CDE500B8242B8-03",
+      "text": "You will get all your ATLAS back when you despawn each ship.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-BF5CDE500B8242B8",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-BF5CDE500B8242B8-04",
+      "text": "Scanning — Each of your ships will be able to scan individually for loot with a 30 second timer for each ship.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-BF5CDE500B8242B8",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-BF5CDE500B8242B8-05",
+      "text": "This is the very first SAGE gameplay module that is released.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-BF5CDE500B8242B8",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-BF5CDE500B8242B8-06",
+      "text": "Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-BF5CDE500B8242B8",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "SAGE",
+    "Star Atlas",
+    "Escape Velocity",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [
+    "ONI"
+  ],
+  "actors": [
+    "Krigs"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://medium.com/@krigsfoniks?source=post_page---byline--c35b97761ecb---------------------------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fthe-hologram%2Fc35b97761ecb&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fthe-ultimate-star-atlas-escape-velocity-guide-updated-with-new-loot-table-c35b97761ecb&user=Krigs&userId=41e0c5b141f1&source=---header_actions--c35b97761ecb---------------------clap_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Frepost%2Fp%2Fc35b97761ecb&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fthe-ultimate-star-atlas-escape-velocity-guide-updated-with-new-loot-table-c35b97761ecb&user=Krigs&userId=41e0c5b141f1&source=---header_actions--c35b97761ecb---------------------repost_header------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc35b97761ecb&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fthe-ultimate-star-atlas-escape-velocity-guide-updated-with-new-loot-table-c35b97761ecb&source=---header_actions--c35b97761ecb---------------------bookmark_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2Fplans%3Fdimension%3Dpost_audio_button%26postId%3Dc35b97761ecb&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fthe-ultimate-star-atlas-escape-velocity-guide-updated-with-new-loot-table-c35b97761ecb&source=---header_actions--c35b97761ecb---------------------post_audio_button------------------",
+      "anchor_text": "Listen"
+    },
+    {
+      "url": "https://medium.com/u/5ed69ff9cfb0?source=post_page---user_mention--c35b97761ecb---------------------------------------",
+      "anchor_text": "Star Atlas"
+    },
+    {
+      "url": "https://t.co/OIw22srWhP",
+      "anchor_text": "sage.staratlas.com"
+    },
+    {
+      "url": "https://medium.com/u/41e0c5b141f1",
+      "anchor_text": "Krigs"
+    },
+    {
+      "url": "https://open.spotify.com/show/2mxndrDW6yPfpS350ijzjt?si=ec7c717f998240d6",
+      "anchor_text": "Podcast"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCDa-YxgNG6A9xpH1qyP0OaQ",
+      "anchor_text": "YouTube"
+    },
+    {
+      "url": "https://twitter.com/home",
+      "anchor_text": "Twitter"
+    },
+    {
+      "url": "https://thehologram.io/",
+      "anchor_text": "Web"
+    },
+    {
+      "url": "https://medium.com/the-hologram",
+      "anchor_text": "The Hologram"
+    },
+    {
+      "url": "https://staratlas.com/",
+      "anchor_text": "Star Atlas"
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "https://medium.com/the-hologram/the-ultimate-star-atlas-escape-velocity-guide-updated-with-new-loot-table-c35b97761ecb",
+    "final_url": "https://medium.com/the-hologram/the-ultimate-star-atlas-escape-velocity-guide-updated-with-new-loot-table-c35b97761ecb",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 146342,
+    "elapsed_ms": 1250,
+    "retrieval_mode": "LIVE",
+    "archive_capture": null
+  }
+}

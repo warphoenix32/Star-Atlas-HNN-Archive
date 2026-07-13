@@ -1,0 +1,263 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-3DEE6029035C799A",
+    "url_id": "URL-3DEE6029035C799A",
+    "url": "https://medium.com/the-hologram/4-things-to-expect-from-star-atlas-this-week-9e25a4c1547e",
+    "title": "4 Things To Expect From Star Atlas This Week",
+    "author": "Krigs",
+    "publisher": "The Hologram",
+    "publication_identity": "The Hologram (Medium publication)",
+    "published_at": "2023-07-17T03:21:41Z",
+    "updated_at": "2023-07-17T03:21:41Z",
+    "retrieved_at": "2026-07-13T00:07:22.206764Z",
+    "document_type": "ORIGINAL_REPORTING",
+    "source_role": "ORIGINAL_REPORTING",
+    "publication_role": "ORIGINAL_REPORTING",
+    "classification_rationale": "Publication reports a development without explicit interview, editorial, investigative, event, or reference framing."
+  },
+  "source_lineage": {
+    "publication": "The Hologram (Medium publication)",
+    "publication_role": "ORIGINAL_REPORTING",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [
+      {
+        "publication": "Podcast",
+        "author": "UNKNOWN",
+        "url": "https://open.spotify.com/show/2mxndrDW6yPfpS350ijzjt?si=ec7c717f998240d6",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "YouTube",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/channel/UCDa-YxgNG6A9xpH1qyP0OaQ",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [
+      "Krigs"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Podcast",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://open.spotify.com/show/2mxndrDW6yPfpS350ijzjt?si=ec7c717f998240d6"
+      },
+      {
+        "from": "YouTube",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://www.youtube.com/channel/UCDa-YxgNG6A9xpH1qyP0OaQ"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "This original reporting published by The Hologram on 2023-07-17 documents “4 Things To Expect From Star Atlas This Week.” Its surviving text addresses economy, game development, community, lore, technology. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "4 Things To Expect From Star Atlas This Week\nKrigs3 min read·Jul 17, 2023\n--\nListen\nShare\nMonday, July 17th — It’s the start of one of the biggest weeks in Star Atlas. Here’s four things that you should be expecting to see this week from the team.\n1. Star Atlas at Play GG\nPress enter or click to view image in full size\nOn Tuesday, Star Atlas will make a grand appearance at Solana’s Play GG event in San Diego. The two day event will showcase dozens of games including Star Atlas. CEO Michael Wagner is expected to deliver a presentation to a live audience.\nOver the past few weeks, the team has been hinting at some pretty major announcements during the event, although it hasn’t been confirmed what those announcements could be.\n2. A Star Atlas Mobile App\nOf any of the possible announcements that Star Atlas could make at the event, the revelation of a Star Atlas mobile companion app seems to be the most likely.\nOver recent weeks, the team has hinted at the strong possibility that details on the mobile companion app could be revealed. In a recent tweet, Wagner said that Star Atlas would be running one hell of a promo and to get the ships ready. The announcement of a broad-appeal mobile game could be just the type of promotion event that’s been hinted at.\nWe know that the mobile app will be tied to some sort of crew mechanic for ships. Wagner also revealed recently that there will be additional income potential for ship owners coming in the future.\n3. CORE Episode 7\nAfter a two month hiatus, the Star Atlas graphic novel series CORE will be making its return to the digital shelves of the Star Atlas Marketplace. Episode seven will begin the second act of the 18 part story, and players will be able to continue the adventures of the story’s heroes after the act one cliff hanger.\nImages of the covers were leaked online recently by a pretty reliable source of star atlas info.\n4. Never Alone Mission Two.\nPress enter or click to view image in full size\nAlso taking place on Tuesday, the second mission of the Star Atlas Never Alone Campaign will officially kick off. Players can expect an entirely new set of missions to earn three tiers of memories, as adventures work throughout the year to restore Saa’nds memories.\nThose that qualified for memories in Star Atlas Never Alone Mission One can expect an airdrop on Wednesday for their rewards.\nThe exact method for turning memories into rewards for mission one hasn’t been revealed yet, but it does appear that players will have until September to complete some of mission one’s quests with a second airdrop coming in the future.\nAbout the Author\nKrigs is a pioneer in the world of Star Atlas, having founded The Hologram News Network — an independent meta-news organization that keeps players up to date on all developments regarding Star Atlas. An ardent supporter of emerging technologies, Krigs has been covering this game for over a year and believes passionately in their power to revolutionize our collective gaming experience.\nFollow on Social Media:\nPodcast | YouTube | Twitter | Instagram | Web\nAbout The Hologram\nThe Hologram is Star Atlas’ first and only independent news network. Our vision is to become the most trusted source of information about Star Atlas and a voice for the whole community. Readers can expect a high standard from our reporting and staff. Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.\nAny information published by The Hologram or its writers should be considered as informational in nature and does not constitute any financial advice.",
+  "content_hash": "30791c162bfc438b9b75b8ff6a49cc25cb701b2374664589cefca3da065ab111",
+  "major_topics": [
+    "economy",
+    "game development",
+    "community",
+    "lore",
+    "technology"
+  ],
+  "entities": [
+    "ATLAS",
+    "Krigs",
+    "Michael Wagner",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-3DEE6029035C799A-01",
+      "text": "Star Atlas at Play GG Press enter or click to view image in full size On Tuesday, Star Atlas will make a grand appearance at Solana’s Play GG event in San Diego.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-3DEE6029035C799A",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-3DEE6029035C799A-02",
+      "text": "The two day event will showcase dozens of games including Star Atlas.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-3DEE6029035C799A",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-3DEE6029035C799A-03",
+      "text": "In a recent tweet, Wagner said that Star Atlas would be running one hell of a promo and to get the ships ready.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-3DEE6029035C799A",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-3DEE6029035C799A-04",
+      "text": "We know that the mobile app will be tied to some sort of crew mechanic for ships.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-3DEE6029035C799A",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-3DEE6029035C799A-05",
+      "text": "Wagner also revealed recently that there will be additional income potential for ship owners coming in the future.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-3DEE6029035C799A",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-3DEE6029035C799A-06",
+      "text": "CORE Episode 7 After a two month hiatus, the Star Atlas graphic novel series CORE will be making its return to the digital shelves of the Star Atlas Marketplace.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-3DEE6029035C799A",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-3DEE6029035C799A-07",
+      "text": "Episode seven will begin the second act of the 18 part story, and players will be able to continue the adventures of the story’s heroes after the act one cliff hanger.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-3DEE6029035C799A",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-3DEE6029035C799A-08",
+      "text": "Press enter or click to view image in full size Also taking place on Tuesday, the second mission of the Star Atlas Never Alone Campaign will officially kick off.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-3DEE6029035C799A",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-3DEE6029035C799A-09",
+      "text": "The exact method for turning memories into rewards for mission one hasn’t been revealed yet, but it does appear that players will have until September to complete some of mission one’s quests with a second airdrop coming in the future.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-3DEE6029035C799A",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-3DEE6029035C799A-10",
+      "text": "Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-3DEE6029035C799A",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Star Atlas",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [
+    "ONI"
+  ],
+  "actors": [
+    "Michael Wagner",
+    "Krigs"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://medium.com/@krigsfoniks?source=post_page---byline--9e25a4c1547e---------------------------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fthe-hologram%2F9e25a4c1547e&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2F4-things-to-expect-from-star-atlas-this-week-9e25a4c1547e&user=Krigs&userId=41e0c5b141f1&source=---header_actions--9e25a4c1547e---------------------clap_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Frepost%2Fp%2F9e25a4c1547e&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2F4-things-to-expect-from-star-atlas-this-week-9e25a4c1547e&user=Krigs&userId=41e0c5b141f1&source=---header_actions--9e25a4c1547e---------------------repost_header------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F9e25a4c1547e&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2F4-things-to-expect-from-star-atlas-this-week-9e25a4c1547e&source=---header_actions--9e25a4c1547e---------------------bookmark_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2Fplans%3Fdimension%3Dpost_audio_button%26postId%3D9e25a4c1547e&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2F4-things-to-expect-from-star-atlas-this-week-9e25a4c1547e&source=---header_actions--9e25a4c1547e---------------------post_audio_button------------------",
+      "anchor_text": "Listen"
+    },
+    {
+      "url": "https://medium.com/u/41e0c5b141f1",
+      "anchor_text": "Krigs"
+    },
+    {
+      "url": "https://open.spotify.com/show/2mxndrDW6yPfpS350ijzjt?si=ec7c717f998240d6",
+      "anchor_text": "Podcast"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCDa-YxgNG6A9xpH1qyP0OaQ",
+      "anchor_text": "YouTube"
+    },
+    {
+      "url": "https://twitter.com/home",
+      "anchor_text": "Twitter"
+    },
+    {
+      "url": "https://thehologram.io/",
+      "anchor_text": "Web"
+    },
+    {
+      "url": "https://medium.com/the-hologram",
+      "anchor_text": "The Hologram"
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "https://medium.com/the-hologram/4-things-to-expect-from-star-atlas-this-week-9e25a4c1547e",
+    "final_url": "https://medium.com/the-hologram/4-things-to-expect-from-star-atlas-this-week-9e25a4c1547e",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 132646,
+    "elapsed_ms": 758,
+    "retrieval_mode": "LIVE",
+    "archive_capture": null
+  }
+}

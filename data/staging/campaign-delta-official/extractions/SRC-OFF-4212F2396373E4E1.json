@@ -1,0 +1,121 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-4212F2396373E4E1",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47057433352339-Where-can-I-find-the-different-staking-rewards-for-ships",
+    "title": "Where can I find the different staking rewards for ships?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-03T15:14:33Z",
+    "updated_at": "2025-12-08T18:24:55Z",
+    "original_date_text": "2025-12-03T15:14:33Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “Where can I find the different staking rewards for ships?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "The Star Atlas team does not publish official staking rewards tables for Faction Fleet (SCORE).However, several community guilds and contributors have created detailed spreadsheets and tools to help players estimate staking returns based on ship models, resources, and durations.\nWhere to Look\nCommunity-Created Resources\nMany guilds have shared staking data across platforms like Discord, Twitter, and YouTube. These resources are created by active community members who regularly track performance and reward rates.\nWhile these tools are not official, they are widely used and helpful for understanding potential returns\nJoin the Star Atlas Discord\nThe #help channel and guild threads in our official Discord are great places to:\nAsk for staking calculators or updated spreadsheets\nGet guidance from experienced players\nDiscover new tools shared by the community",
+  "content_hash": "42d8a56cb15b5f70c0c7475dbaa61b0e810d013a324fdf105bbee5264f279b11",
+  "entities": [
+    "ATLAS",
+    "Faction Fleet",
+    "SCORE"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-4212F2396373E4E1-01",
+      "text": "The Star Atlas team does not publish official staking rewards tables for Faction Fleet (SCORE).However, several community guilds and contributors have created detailed spreadsheets and tools to help players estimate staking returns based on ship models, resources, and durations.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-4212F2396373E4E1",
+      "publication_date": "2025-12-03T15:14:33Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-4212F2396373E4E1-02",
+      "text": "Where to Look Community-Created Resources Many guilds have shared staking data across platforms like Discord, Twitter, and YouTube.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-4212F2396373E4E1",
+      "publication_date": "2025-12-03T15:14:33Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-4212F2396373E4E1-03",
+      "text": "These resources are created by active community members who regularly track performance and reward rates.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-4212F2396373E4E1",
+      "publication_date": "2025-12-03T15:14:33Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-4212F2396373E4E1-04",
+      "text": "While these tools are not official, they are widely used and helpful for understanding potential returns Join the Star Atlas Discord The #help channel and guild threads in our official Discord are great places to: Ask for staking calculators or updated spreadsheets Get guidance from experienced players Discover new tools shared by the community",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-4212F2396373E4E1",
+      "publication_date": "2025-12-03T15:14:33Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "SCORE",
+    "Faction Fleet",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://discord.com/invite/staratlas",
+      "anchor_text": "official Discord"
+    }
+  ],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47057433352339-Where-can-I-find-the-different-staking-rewards-for-ships",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.424099Z"
+  }
+}

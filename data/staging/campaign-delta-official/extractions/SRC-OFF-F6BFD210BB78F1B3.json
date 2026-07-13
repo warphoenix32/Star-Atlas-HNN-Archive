@@ -1,0 +1,151 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-F6BFD210BB78F1B3",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47029053074835-What-Are-Fleet-Rental-Fees",
+    "title": "What Are Fleet Rental Fees?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-02T18:09:24Z",
+    "updated_at": "2025-12-08T18:24:07Z",
+    "original_date_text": "2025-12-02T18:09:24Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “What Are Fleet Rental Fees?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "When you rent out your ships through the Fleet Rental platform in Star Atlas, a 10% fee is applied to each rental transaction. This fee ensures the continued development and sustainability of the platform.\nFee Breakdown\nThe 10% Fleet Rental fee is split among multiple contributors:\n50% – Core developers of the lending program\n15% – Third-party contributors (UI/UX, frontend dev, and original negotiators)\n30% – ATMTA (Star Atlas core development team)\n5% – Star Atlas DAO (goes to the DAO Treasury)\nThis breakdown supports the infrastructure and incentivizes ongoing improvements to the rental system.\nImportant Notes\nThe renter pays the full listed price, but 10% is taken as a fee, so the lender receives 90% of the rental income.\nThe fee is automatically deducted at the time of rental.\nThe DAO’s share of this fee supports decentralized governance and can be tracked in the DAO Treasury.",
+  "content_hash": "8fdd3612f09d85bdc1c8ddc1982fe42f234b6224c42b8600d422d9acc23a95ce",
+  "entities": [
+    "ATLAS",
+    "ATMTA",
+    "CORE",
+    "Star Atlas DAO"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-F6BFD210BB78F1B3-01",
+      "text": "When you rent out your ships through the Fleet Rental platform in Star Atlas, a 10% fee is applied to each rental transaction.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F6BFD210BB78F1B3",
+      "publication_date": "2025-12-02T18:09:24Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F6BFD210BB78F1B3-02",
+      "text": "This fee ensures the continued development and sustainability of the platform.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F6BFD210BB78F1B3",
+      "publication_date": "2025-12-02T18:09:24Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F6BFD210BB78F1B3-03",
+      "text": "Fee Breakdown The 10% Fleet Rental fee is split among multiple contributors: 50% – Core developers of the lending program 15% – Third-party contributors (UI/UX, frontend dev, and original negotiators) 30% – ATMTA (Star Atlas core development team) 5% – Star Atlas DAO (goes to the DAO Treasury) This breakdown supports the infrastructure and incentivizes ongoing improvements to the rental system.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F6BFD210BB78F1B3",
+      "publication_date": "2025-12-02T18:09:24Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F6BFD210BB78F1B3-04",
+      "text": "Important Notes The renter pays the full listed price, but 10% is taken as a fee, so the lender receives 90% of the rental income.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F6BFD210BB78F1B3",
+      "publication_date": "2025-12-02T18:09:24Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F6BFD210BB78F1B3-05",
+      "text": "The fee is automatically deducted at the time of rental.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F6BFD210BB78F1B3",
+      "publication_date": "2025-12-02T18:09:24Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F6BFD210BB78F1B3-06",
+      "text": "The DAO’s share of this fee supports decentralized governance and can be tracked in the DAO Treasury.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F6BFD210BB78F1B3",
+      "publication_date": "2025-12-02T18:09:24Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "CORE",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [
+    "ATMTA",
+    "Star Atlas DAO"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://support.staratlas.com/dao-treasury-help-page",
+      "anchor_text": "DAO Treasury"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://support.staratlas.com/dao-treasury-help-page",
+      "anchor_text": "DAO Treasury"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47029053074835-What-Are-Fleet-Rental-Fees",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.277333Z"
+  }
+}

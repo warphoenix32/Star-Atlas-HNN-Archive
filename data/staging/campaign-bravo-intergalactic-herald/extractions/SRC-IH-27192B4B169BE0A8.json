@@ -1,0 +1,335 @@
+{
+  "source": {
+    "source_id": "SRC-IH-27192B4B169BE0A8",
+    "url_id": "URL-27192B4B169BE0A8",
+    "url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-159/",
+    "inventory_url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-159",
+    "title": "Star Atlas Weekly News Recap #159",
+    "author": "Intergalactic Herald",
+    "publisher": "Intergalactic Herald",
+    "published_at": "2025-04-06T17:00:00",
+    "updated_at": "2025-10-30T19:47:09",
+    "retrieved_at": "2026-07-12T22:01:36.376203Z",
+    "document_type": "NEWSLETTER",
+    "source_role": "CURATED_SUMMARY",
+    "source_classification": "CURATED_SUMMARY",
+    "classification_rationale": "Weekly newsletter/recap aggregates developments and linked sources.",
+    "wordpress_type": "posts"
+  },
+  "summary": {
+    "neutral_abstract": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week. We are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us. We are launching a Star Atlas merch store. Please check it out at Intergalactic",
+    "historical_value": "Contemporary Intergalactic Herald publication preserved with role and attribution boundaries.",
+    "current_validity_warning": "Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources."
+  },
+  "article_text": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week.\nWe are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us.\nWe are launching a Star Atlas merch store. Please check it out at Intergalactic Gear.\nWe are creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic Coalition.\nIf you would like to support our efforts, donations can be sent to intergalacticherald.sol\nSolana Game ‘Star Atlas’ Will Fill Its Galaxy With SingularityNET’s AI Agents\nDecrypt published an article about Star Atlas implementing AI agents.\nStar Atlas: How A.I. will be Incorporated into Gameplay\nBeyond the Horizon posted a video about a new AI partnership with Star Atlas.\nWeekly Star Atlas Newsletter #173\nAephia published their weekly Star Atlas newsletter.\nStar Atlas Space Exploration with No Loading Screens – A Look at Galia\nDominicVain posted a video showing space exploration in Star Atlas.\nASI Alliance x Star Atlas – Integrating Advanced AI in @StarAtlas\nASI Alliance and Star Atlas did a X Spaces chat.\nWhat Does Star Atlas Look Like Now?\nDominicVain posted a video of the current look of Star Atlas.\nStar Atlas Economic Report 2025 Q1\nStar Atlas published a new Economic Report.\nAtlas Brew #153 – State of the Star Atlas Community\nStar Atlas TV posted a recording of the latest Atlas Brew.\nStar Atlas Economic Forum – April 2025\nStar Atlas TV posted a recording of the latest Star Atlas Economic Forum.\nStar Atlas: Building a Gaming Cybernation from the Ground Up\nStar Atlas published an article about building Star Atlas.\nLatest podcast\nPodcast 176: Star Atlas Weekly Reviewby MattJuly 5, 2026In this episode, I recap the latest news of Star Atlas from the past week. Listen on Apple Podcasts Listen on Spotify I am looking for guests to be on the podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in… Read more: Podcast 176: Star Atlas Weekly Review",
+  "content_hash": "24b3684f4009006a81fadea693e7558d13249a696b71f35ed34787311672bd93",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [
+    "2025"
+  ],
+  "external_sources": [
+    {
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "url": "https://decrypt.co/311702/solana-game-star-atlas-ai-agents",
+      "anchor_text": "Star Atlas implementing AI agents"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=O0L7bH1OGZU",
+      "anchor_text": "AI partnership with Star Atlas"
+    },
+    {
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-173/",
+      "anchor_text": "weekly Star Atlas newsletter"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=hcia-bS5Mxc",
+      "anchor_text": "space exploration in Star Atlas"
+    },
+    {
+      "url": "https://x.com/i/spaces/1YqxoonpykBxv/peek",
+      "anchor_text": "X Spaces chat"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=hWpAHdj64gw",
+      "anchor_text": "current look of Star Atlas"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/economic-reports",
+      "anchor_text": "new Economic Report"
+    },
+    {
+      "url": "https://www.youtube.com/live/IOqv8buDDuk",
+      "anchor_text": "latest Atlas Brew"
+    },
+    {
+      "url": "https://www.youtube.com/live/rwgJHskBMQQ",
+      "anchor_text": "Star Atlas Economic Forum"
+    },
+    {
+      "url": "https://medium.com/star-atlas/star-atlas-building-a-gaming-cybernation-from-the-ground-up-a204b7ab8afb",
+      "anchor_text": "building Star Atlas"
+    }
+  ],
+  "primary_source_relationships": [
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://decrypt.co/311702/solana-game-star-atlas-ai-agents",
+      "anchor_text": "Star Atlas implementing AI agents"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=O0L7bH1OGZU",
+      "anchor_text": "AI partnership with Star Atlas"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-173/",
+      "anchor_text": "weekly Star Atlas newsletter"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=hcia-bS5Mxc",
+      "anchor_text": "space exploration in Star Atlas"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://x.com/i/spaces/1YqxoonpykBxv/peek",
+      "anchor_text": "X Spaces chat"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=hWpAHdj64gw",
+      "anchor_text": "current look of Star Atlas"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://experience.staratlas.com/newsroom/economic-reports",
+      "anchor_text": "new Economic Report"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/live/IOqv8buDDuk",
+      "anchor_text": "latest Atlas Brew"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/live/rwgJHskBMQQ",
+      "anchor_text": "Star Atlas Economic Forum"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://medium.com/star-atlas/star-atlas-building-a-gaming-cybernation-from-the-ground-up-a204b7ab8afb",
+      "anchor_text": "building Star Atlas"
+    }
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Verify which outbound links are primary sources and preserve creator attribution during promotion."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-159&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 8297,
+    "elapsed_ms": 1566,
+    "attempts": [
+      {
+        "endpoint": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-159&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "http_status": 200,
+        "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-159&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "content_type": "application/json; charset=UTF-8",
+        "response_size": 8297,
+        "elapsed_ms": 1566
+      }
+    ]
+  },
+  "source_lineage": {
+    "publication": "Intergalactic Herald",
+    "publication_role": "CURATED_SUMMARY",
+    "relationship": "CURATED_SUMMARY_OF",
+    "primary_sources": [
+      {
+        "publication": "Star Atlas implementing AI agents",
+        "author": "UNKNOWN",
+        "url": "https://decrypt.co/311702/solana-game-star-atlas-ai-agents",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas implementing AI agents"
+      },
+      {
+        "publication": "AI partnership with Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=O0L7bH1OGZU",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: AI partnership with Star Atlas"
+      },
+      {
+        "publication": "weekly Star Atlas newsletter",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-173/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article with anchor text: weekly Star Atlas newsletter"
+      },
+      {
+        "publication": "space exploration in Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=hcia-bS5Mxc",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: space exploration in Star Atlas"
+      },
+      {
+        "publication": "current look of Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=hWpAHdj64gw",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: current look of Star Atlas"
+      },
+      {
+        "publication": "new Economic Report",
+        "author": "UNKNOWN",
+        "url": "https://experience.staratlas.com/newsroom/economic-reports",
+        "organization": "ATMTA / Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: new Economic Report"
+      },
+      {
+        "publication": "latest Atlas Brew",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/live/IOqv8buDDuk",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest Atlas Brew"
+      },
+      {
+        "publication": "Star Atlas Economic Forum",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/live/rwgJHskBMQQ",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas Economic Forum"
+      },
+      {
+        "publication": "building Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://medium.com/star-atlas/star-atlas-building-a-gaming-cybernation-from-the-ground-up-a204b7ab8afb",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: building Star Atlas"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "publication": "Intergalactic Gear",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticgear.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Intergalactic Coalition",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticcoalition.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "X Spaces chat",
+        "author": "UNKNOWN",
+        "url": "https://x.com/i/spaces/1YqxoonpykBxv/peek",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      }
+    ],
+    "original_creators": [
+      "Aephia",
+      "ATMTA / Star Atlas",
+      "Star Atlas"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Star Atlas implementing AI agents",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://decrypt.co/311702/solana-game-star-atlas-ai-agents"
+      },
+      {
+        "from": "AI partnership with Star Atlas",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=O0L7bH1OGZU"
+      },
+      {
+        "from": "weekly Star Atlas newsletter",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-173/"
+      },
+      {
+        "from": "space exploration in Star Atlas",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=hcia-bS5Mxc"
+      },
+      {
+        "from": "current look of Star Atlas",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=hWpAHdj64gw"
+      },
+      {
+        "from": "new Economic Report",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://experience.staratlas.com/newsroom/economic-reports"
+      },
+      {
+        "from": "latest Atlas Brew",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/live/IOqv8buDDuk"
+      },
+      {
+        "from": "Star Atlas Economic Forum",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/live/rwgJHskBMQQ"
+      },
+      {
+        "from": "building Star Atlas",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://medium.com/star-atlas/star-atlas-building-a-gaming-cybernation-from-the-ground-up-a204b7ab8afb"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  }
+}

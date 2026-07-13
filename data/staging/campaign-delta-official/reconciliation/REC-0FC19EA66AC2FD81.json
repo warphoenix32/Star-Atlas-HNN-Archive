@@ -1,0 +1,14 @@
+{
+  "topic": "and, claims, live, polis, record, remain, showroom, the",
+  "official_source_ids": [
+    "SRC-OFF-2BC7D317600C6107"
+  ],
+  "community_source_ids": [
+    "SRC-HNN-5A433D5B64D7648F"
+  ],
+  "relationship": "COMMUNITY_ADDS_CONTEXT",
+  "finding": "Automated topic overlap on: and, claims, live, polis, record, remain, showroom, the, this, time, with. Official authority is limited to the official wording; community context remains separately attributed.",
+  "confidence": "LOW",
+  "promotion_candidate": false,
+  "manual_review_required": true
+}

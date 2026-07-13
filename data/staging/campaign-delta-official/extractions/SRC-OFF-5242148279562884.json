@@ -1,0 +1,150 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-5242148279562884",
+    "url": "https://build.staratlas.com/creative-assets/royalties",
+    "title": "Star Atlas Build",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Build / ATMTA",
+    "published_at": null,
+    "updated_at": "2026-04-16T16:32:35.000Z",
+    "original_date_text": "2026-04-16T16:32:35.000Z",
+    "document_type": "TECHNICAL_DOCUMENTATION",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Build / ATMTA",
+    "publication_role": "TECHNICAL_DOCUMENTATION",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://experience.staratlas.com/terms-of-service",
+        "anchor_text": "Terms of Service"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Build / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official technical documentation titled “Star Atlas Build.” This record preserves what Star Atlas Build / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Royalties | Star Atlas Build\nSkip to contentStar Atlas BuildSearchK\nAppearance\nMenuReturn to top\nRoyalties ​\nIf your project earns more than $1 million USD in lifetime Gross Revenue, here’s what happens next\nUnder the Star Atlas Terms of Service, if your product or service generates over $1M USD in gross revenue, you’ll need to pay royalties only on the amount beyond that threshold.\nThis system keeps the ecosystem fair, supports open IP acces and helps sustain ongoing development while still rewarding creators\nRoyalty Rates (After $1M USD Gross Revenue) ​\nIndustry\nProduct\nRoyalty Rate on Gross Revenue\nSoftware\nEntertainment\n5%\nSystem Application\n4%\nMedia\nBooks/Comics\n3%\nFilm\n3%\nMusic\n3%\nArt\n10%\nGames & Figures\nBoard Games\n2%\nFigurines\n5%\nCard Games\n7%\nApparel\nClothing\n3%\nHome Appliances/Decor\nHome Appliances\n3%\nHome Decor\n8%\nOther\n10%\nThese rates apply only to the revenue above your first $1,000,000 USD. (Example: If your comic generates $1.3M total, only $300k is subject to a 3% royalty.) Please note that these Royalty Rates are subject to change\nWhat to Do If You Hit $1M+ ​\nIf your project passes the $1 million mark, reach out to us directly We’ll guide you through royalty reporting and next steps\nContact: legal@staratlas.com\nNeed a Custom License? ​\nAlso, you can request a custom license if the standard license terms do not make sense for your particular business model. Contact us at legal@staratlas.com to see whether a custom license might be available for your project",
+  "content_hash": "25167bfc6b710d9050df5303b99deae35202fff1f9f9914c5505fa625b6629f2",
+  "entities": [
+    "ATLAS"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-5242148279562884-01",
+      "text": "Royalties | Star Atlas Build Skip to contentStar Atlas BuildSearchK Appearance MenuReturn to top Royalties ​ If your project earns more than $1 million USD in lifetime Gross Revenue, here’s what happens next Under the Star Atlas Terms of Service, if your product or service generates over $1M USD in gross revenue, you’ll need to pay royalties only on the amount beyond that threshold.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-5242148279562884",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-5242148279562884-02",
+      "text": "(Example: If your comic generates $1.3M total, only $300k is subject to a 3% royalty.) Please note that these Royalty Rates are subject to change What to Do If You Hit $1M+ ​ If your project passes the $1 million mark, reach out to us directly We’ll guide you through royalty reporting and next steps Contact: legal@staratlas.com Need a Custom License?",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-5242148279562884",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-5242148279562884-03",
+      "text": "​ Also, you can request a custom license if the standard license terms do not make sense for your particular business model.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-5242148279562884",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-5242148279562884-04",
+      "text": "Contact us at legal@staratlas.com to see whether a custom license might be available for your project",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-5242148279562884",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://build.staratlas.com/creative-assets/royalties",
+      "anchor_text": "Skip to content"
+    },
+    {
+      "url": "https://build.staratlas.com/",
+      "anchor_text": "Star Atlas Build"
+    },
+    {
+      "url": "https://discord.com/invite/staratlas",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://experience.staratlas.com/terms-of-service",
+      "anchor_text": "Terms of Service"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://build.staratlas.com/creative-assets/royalties",
+      "anchor_text": "Skip to content"
+    },
+    {
+      "url": "https://build.staratlas.com/",
+      "anchor_text": "Star Atlas Build"
+    },
+    {
+      "url": "https://experience.staratlas.com/terms-of-service",
+      "anchor_text": "Terms of Service"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://build.staratlas.com/creative-assets/royalties",
+    "final_url": "https://build.staratlas.com/creative-assets/royalties",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 24603,
+    "retrieved_at": "2026-07-13T01:04:24.074466Z",
+    "elapsed_ms": 210
+  }
+}

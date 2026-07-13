@@ -1,0 +1,14 @@
+{
+  "topic": "claims, faction, record, remain, the, this, time",
+  "official_source_ids": [
+    "SRC-OFF-9215EB0D04AE77F8"
+  ],
+  "community_source_ids": [
+    "SRC-HNN-232EC6F1D6301E88"
+  ],
+  "relationship": "OFFICIAL_SUPERSEDES_OLDER_GUIDE",
+  "finding": "Automated topic overlap on: claims, faction, record, remain, the, this, time. Official authority is limited to the official wording; community context remains separately attributed.",
+  "confidence": "LOW",
+  "promotion_candidate": false,
+  "manual_review_required": true
+}

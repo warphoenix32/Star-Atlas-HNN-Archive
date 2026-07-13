@@ -1,0 +1,372 @@
+{
+  "source": {
+    "source_id": "SRC-IH-77B2106CD1000AFA",
+    "url_id": "URL-77B2106CD1000AFA",
+    "url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-61/",
+    "inventory_url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-61",
+    "title": "Star Atlas Weekly News Recap #61",
+    "author": "Intergalactic Herald",
+    "publisher": "Intergalactic Herald",
+    "published_at": "2023-05-21T14:00:54",
+    "updated_at": "2023-05-20T14:16:30",
+    "retrieved_at": "2026-07-12T22:04:53.750101Z",
+    "document_type": "NEWSLETTER",
+    "source_role": "CURATED_SUMMARY",
+    "source_classification": "CURATED_SUMMARY",
+    "classification_rationale": "Weekly newsletter/recap aggregates developments and linked sources.",
+    "wordpress_type": "posts"
+  },
+  "summary": {
+    "neutral_abstract": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week. We are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us. The Hologram News Network posted a video about how to claim a memory fragment in the Star Atlas Never Alone",
+    "historical_value": "Contemporary Intergalactic Herald publication preserved with role and attribution boundaries.",
+    "current_validity_warning": "Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources."
+  },
+  "article_text": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week.\nWe are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us.\nSTAR ATLAS #179 NEVER ALONE\nMetaVerse Explorer posted a video about the Star Atlas Never Alone campaign.\nHow to Claim a Star Atlas Memory Fragment – Never Alone\nThe Hologram News Network posted a video about how to claim a memory fragment in the Star Atlas Never Alone campaign.\nMetaverse Nomads #94 Star Atlas – Never Alone\nMetaverse Nomads posted a replay of their weekly Star Atlas live stream.\nSTAR ATLAS: Never Alone social campaign 2023 | FULL TUTORIAL | Quests Cheat Sheet\nWinston posted a video tutorial of the Star Atlas Never Alone campaign.\nSTAR ATLAS: Never Alone – Rewards Explained\nRahMega posted a video discussing the rewards in Never Alone.\nWEEKLY STAR ATLAS NEWSLETTER #79\nAephia published their weekly Star Atlas newsletter.\nNEVER ALONE – A GUIDE TO MISSION 1\nAephia published a guide to Mission 1 of the Star Atlas Never Alone campaign.\nStar Atlas : Fan-Fiction and Lore – The adventure to Never Alone\nPockThePirate posted a video of some fan fiction in Star Atlas.\nSTAR ATLAS – Grinding For Our First Ship (Zero to Hero)\nAtlas Theory posted a video on episode 2 of his Zero to Hero series.\nSTAR ATLAS #180 Questing with Zealy\nMetaVerse Explorer posted a video of his experiences of questing in Never Alone.\nStar Atlas News Never Alone Escape Velocity\nBeyond the Horizon 2620 posted a video of Star Atlas news.\nFormer Star Atlas CRO Speaks on Departure\nThe Hologram published an article about the former Star Atlas CRO departure.\nThe Atlas Star Issue #18\nStar Atlas published their latest newsletter.",
+  "content_hash": "2519b2738e0f120890abc835fc358bdfaacfa095d7f9131adee21235d47895f5",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [
+    "2023"
+  ],
+  "external_sources": [
+    {
+      "url": "https://www.youtube.com/watch?v=WGGgcnKgKSw",
+      "anchor_text": "Star Atlas Never Alone campaign"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=XgtrcTojjU8",
+      "anchor_text": "Star Atlas Never Alone campaign"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=kRSFvUkqEl8",
+      "anchor_text": "weekly Star Atlas live stream"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=XpBAT8Z3s1s",
+      "anchor_text": "video tutorial"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=UwtOZHRokag",
+      "anchor_text": "rewards in Never Alone"
+    },
+    {
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-79/",
+      "anchor_text": "weekly Star Atlas newsletter"
+    },
+    {
+      "url": "https://aephia.com/star-atlas/never-alone-a-guide-to-mission-1/",
+      "anchor_text": "Mission 1 of the Star Atlas Never Alone campaign"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=DeGgGg5FObA",
+      "anchor_text": "fan fiction in Star Atlas"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Z3dNKGoSQzs",
+      "anchor_text": "episode 2 of his Zero to Hero series"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=gZGKjdU6KaY",
+      "anchor_text": "his experiences of questing in Never Alone"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=r1DqAzPY100",
+      "anchor_text": "video of Star Atlas news"
+    },
+    {
+      "url": "https://medium.com/the-hologram/former-star-atlas-cro-speak-on-departure-eb37dc95ff3",
+      "anchor_text": "former Star Atlas CRO departure"
+    },
+    {
+      "url": "https://medium.com/star-atlas/the-atlas-star-issue-18-a96964ef350b",
+      "anchor_text": "latest newsletter"
+    }
+  ],
+  "primary_source_relationships": [
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=WGGgcnKgKSw",
+      "anchor_text": "Star Atlas Never Alone campaign"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=XgtrcTojjU8",
+      "anchor_text": "Star Atlas Never Alone campaign"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=kRSFvUkqEl8",
+      "anchor_text": "weekly Star Atlas live stream"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=XpBAT8Z3s1s",
+      "anchor_text": "video tutorial"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=UwtOZHRokag",
+      "anchor_text": "rewards in Never Alone"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-79/",
+      "anchor_text": "weekly Star Atlas newsletter"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/never-alone-a-guide-to-mission-1/",
+      "anchor_text": "Mission 1 of the Star Atlas Never Alone campaign"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=DeGgGg5FObA",
+      "anchor_text": "fan fiction in Star Atlas"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=Z3dNKGoSQzs",
+      "anchor_text": "episode 2 of his Zero to Hero series"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=gZGKjdU6KaY",
+      "anchor_text": "his experiences of questing in Never Alone"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=r1DqAzPY100",
+      "anchor_text": "video of Star Atlas news"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://medium.com/the-hologram/former-star-atlas-cro-speak-on-departure-eb37dc95ff3",
+      "anchor_text": "former Star Atlas CRO departure"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://medium.com/star-atlas/the-atlas-star-issue-18-a96964ef350b",
+      "anchor_text": "latest newsletter"
+    }
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Verify which outbound links are primary sources and preserve creator attribution during promotion."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-61&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 6410,
+    "elapsed_ms": 1982,
+    "attempts": [
+      {
+        "endpoint": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-61&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "http_status": 200,
+        "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-61&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "content_type": "application/json; charset=UTF-8",
+        "response_size": 6410,
+        "elapsed_ms": 1982
+      }
+    ]
+  },
+  "source_lineage": {
+    "publication": "Intergalactic Herald",
+    "publication_role": "CURATED_SUMMARY",
+    "relationship": "CURATED_SUMMARY_OF",
+    "primary_sources": [
+      {
+        "publication": "Star Atlas Never Alone campaign",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=WGGgcnKgKSw",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas Never Alone campaign"
+      },
+      {
+        "publication": "Star Atlas Never Alone campaign",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=XgtrcTojjU8",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas Never Alone campaign"
+      },
+      {
+        "publication": "weekly Star Atlas live stream",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=kRSFvUkqEl8",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: weekly Star Atlas live stream"
+      },
+      {
+        "publication": "video tutorial",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=XpBAT8Z3s1s",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: video tutorial"
+      },
+      {
+        "publication": "rewards in Never Alone",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=UwtOZHRokag",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: rewards in Never Alone"
+      },
+      {
+        "publication": "weekly Star Atlas newsletter",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-79/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article with anchor text: weekly Star Atlas newsletter"
+      },
+      {
+        "publication": "Mission 1 of the Star Atlas Never Alone campaign",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/never-alone-a-guide-to-mission-1/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article with anchor text: Mission 1 of the Star Atlas Never Alone campaign"
+      },
+      {
+        "publication": "fan fiction in Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=DeGgGg5FObA",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: fan fiction in Star Atlas"
+      },
+      {
+        "publication": "episode 2 of his Zero to Hero series",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=Z3dNKGoSQzs",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: episode 2 of his Zero to Hero series"
+      },
+      {
+        "publication": "his experiences of questing in Never Alone",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=gZGKjdU6KaY",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: his experiences of questing in Never Alone"
+      },
+      {
+        "publication": "video of Star Atlas news",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=r1DqAzPY100",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: video of Star Atlas news"
+      },
+      {
+        "publication": "former Star Atlas CRO departure",
+        "author": "UNKNOWN",
+        "url": "https://medium.com/the-hologram/former-star-atlas-cro-speak-on-departure-eb37dc95ff3",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: former Star Atlas CRO departure"
+      },
+      {
+        "publication": "latest newsletter",
+        "author": "UNKNOWN",
+        "url": "https://medium.com/star-atlas/the-atlas-star-issue-18-a96964ef350b",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest newsletter"
+      }
+    ],
+    "secondary_sources": [],
+    "original_creators": [
+      "Aephia"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Star Atlas Never Alone campaign",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=WGGgcnKgKSw"
+      },
+      {
+        "from": "Star Atlas Never Alone campaign",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=XgtrcTojjU8"
+      },
+      {
+        "from": "weekly Star Atlas live stream",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=kRSFvUkqEl8"
+      },
+      {
+        "from": "video tutorial",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=XpBAT8Z3s1s"
+      },
+      {
+        "from": "rewards in Never Alone",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=UwtOZHRokag"
+      },
+      {
+        "from": "weekly Star Atlas newsletter",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-79/"
+      },
+      {
+        "from": "Mission 1 of the Star Atlas Never Alone campaign",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/never-alone-a-guide-to-mission-1/"
+      },
+      {
+        "from": "fan fiction in Star Atlas",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=DeGgGg5FObA"
+      },
+      {
+        "from": "episode 2 of his Zero to Hero series",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=Z3dNKGoSQzs"
+      },
+      {
+        "from": "his experiences of questing in Never Alone",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=gZGKjdU6KaY"
+      },
+      {
+        "from": "video of Star Atlas news",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=r1DqAzPY100"
+      },
+      {
+        "from": "former Star Atlas CRO departure",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://medium.com/the-hologram/former-star-atlas-cro-speak-on-departure-eb37dc95ff3"
+      },
+      {
+        "from": "latest newsletter",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://medium.com/star-atlas/the-atlas-star-issue-18-a96964ef350b"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  }
+}

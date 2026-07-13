@@ -1,0 +1,362 @@
+{
+  "source": {
+    "source_id": "SRC-IH-01FCC742522C1676",
+    "url_id": "URL-01FCC742522C1676",
+    "url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-83/",
+    "inventory_url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-83",
+    "title": "Star Atlas Weekly News Recap #83",
+    "author": "Intergalactic Herald",
+    "publisher": "Intergalactic Herald",
+    "published_at": "2023-10-22T17:00:00",
+    "updated_at": "2023-10-21T19:50:19",
+    "retrieved_at": "2026-07-12T22:00:25.856086Z",
+    "document_type": "NEWSLETTER",
+    "source_role": "CURATED_SUMMARY",
+    "source_classification": "CURATED_SUMMARY",
+    "classification_rationale": "Weekly newsletter/recap aggregates developments and linked sources.",
+    "wordpress_type": "posts"
+  },
+  "summary": {
+    "neutral_abstract": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week. We are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us. We are launching a Star Atlas merch store. Please check it out at Intergalactic",
+    "historical_value": "Contemporary Intergalactic Herald publication preserved with role and attribution boundaries.",
+    "current_validity_warning": "Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources."
+  },
+  "article_text": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week.\nWe are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us.\nWe are launching a Star Atlas merch store. Please check it out at Intergalactic Gear.\nWe are creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic Coalition.\nIf you would like to support our efforts, donations can be sent to intergalacticherald.sol\nStar Atlas Sage Labs HOT TIPS!\nBeyond the Horizon posted a video with some tips on playing SAGE Labs.\nMetaverse Nomads #116 Star Atlas w/ @Santiacc_\nMetaverse Nomads posted a replay of their weekly Star Atlas livestream.\nWEEKLY STAR ATLAS NEWSLETTER #101\nAephia posted their weekly Star Atlas Newsletter.\n14 | My ULTIMATE Plan for Star Atlas!!!\nPathfinder posted a video about his thoughts on Star Atlas.\nStar Atlas Recap Oct 17 2023\nBeyond the Horizon posted a video recapping recent Star Atlas news.\nSTAR ATLAS #202 Updates on THE GAME!\nMetaVerse Explorer posted a video of Star Atlas updates.\nNavigating Star Atlas #1 – The Vision with CPO Danny Floyd\nStar Atlas posted a video interview with the Star Atlas CPO Danny Floyd.\nThe Atlas Brew #84\nStar Atlas TV posted a video replay of the latest Atlas Brew.\nStar Atlas Brew #84: Michael Wagner – TLDR\nTLDR posted a recap of the latest Atlas Brew.\nHow to Stay Updated on Star Atlas\nAtlas Theory posted a video about how to stay updated on Star Atlas.\nSTAR ATLAS #203 New Patch With New Ship that SCANS FOR FREE!\nMetaVerse Explorer posted another video of Star Atlas updates.",
+  "content_hash": "01f41fa7a2bdad6fdbdd265198d727a1348c987e150a7c504ba45e022769ba0f",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [
+    "2023"
+  ],
+  "external_sources": [
+    {
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=3j8_LYtvMIs",
+      "anchor_text": "tips on playing SAGE Labs"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=wWzelQsKfWQ",
+      "anchor_text": "weekly Star Atlas livestream"
+    },
+    {
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-101/",
+      "anchor_text": "weekly Star Atlas Newsletter"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=I9iJnhlmdMc",
+      "anchor_text": "his thoughts on Star Atlas"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=S4M29nz3HcU",
+      "anchor_text": "recent Star Atlas news"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=y75_WabDv1M",
+      "anchor_text": "Star Atlas updates"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=aHmp7HNk6gM",
+      "anchor_text": "Star Atlas CPO Danny Floyd"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=reJ1HGoDeOg",
+      "anchor_text": "latest Atlas Brew"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=UJ6AwLo9cng",
+      "anchor_text": "recap of the latest Atlas Brew"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=gFexuai6ee4",
+      "anchor_text": "how to stay updated on Star Atlas"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=HGRVy66_d9k",
+      "anchor_text": "another video of Star Atlas updates"
+    }
+  ],
+  "primary_source_relationships": [
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=3j8_LYtvMIs",
+      "anchor_text": "tips on playing SAGE Labs"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=wWzelQsKfWQ",
+      "anchor_text": "weekly Star Atlas livestream"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-101/",
+      "anchor_text": "weekly Star Atlas Newsletter"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=I9iJnhlmdMc",
+      "anchor_text": "his thoughts on Star Atlas"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=S4M29nz3HcU",
+      "anchor_text": "recent Star Atlas news"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=y75_WabDv1M",
+      "anchor_text": "Star Atlas updates"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=aHmp7HNk6gM",
+      "anchor_text": "Star Atlas CPO Danny Floyd"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=reJ1HGoDeOg",
+      "anchor_text": "latest Atlas Brew"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=UJ6AwLo9cng",
+      "anchor_text": "recap of the latest Atlas Brew"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=gFexuai6ee4",
+      "anchor_text": "how to stay updated on Star Atlas"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=HGRVy66_d9k",
+      "anchor_text": "another video of Star Atlas updates"
+    }
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Verify which outbound links are primary sources and preserve creator attribution during promotion."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-83&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 6051,
+    "elapsed_ms": 2499,
+    "attempts": [
+      {
+        "endpoint": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-83&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "http_status": 200,
+        "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-83&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "content_type": "application/json; charset=UTF-8",
+        "response_size": 6051,
+        "elapsed_ms": 2499
+      }
+    ]
+  },
+  "source_lineage": {
+    "publication": "Intergalactic Herald",
+    "publication_role": "CURATED_SUMMARY",
+    "relationship": "CURATED_SUMMARY_OF",
+    "primary_sources": [
+      {
+        "publication": "tips on playing SAGE Labs",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=3j8_LYtvMIs",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: tips on playing SAGE Labs"
+      },
+      {
+        "publication": "weekly Star Atlas livestream",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=wWzelQsKfWQ",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: weekly Star Atlas livestream"
+      },
+      {
+        "publication": "weekly Star Atlas Newsletter",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-101/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article with anchor text: weekly Star Atlas Newsletter"
+      },
+      {
+        "publication": "his thoughts on Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=I9iJnhlmdMc",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: his thoughts on Star Atlas"
+      },
+      {
+        "publication": "recent Star Atlas news",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=S4M29nz3HcU",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: recent Star Atlas news"
+      },
+      {
+        "publication": "Star Atlas updates",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=y75_WabDv1M",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas updates"
+      },
+      {
+        "publication": "Star Atlas CPO Danny Floyd",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=aHmp7HNk6gM",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas CPO Danny Floyd"
+      },
+      {
+        "publication": "latest Atlas Brew",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=reJ1HGoDeOg",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest Atlas Brew"
+      },
+      {
+        "publication": "recap of the latest Atlas Brew",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=UJ6AwLo9cng",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: recap of the latest Atlas Brew"
+      },
+      {
+        "publication": "how to stay updated on Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=gFexuai6ee4",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: how to stay updated on Star Atlas"
+      },
+      {
+        "publication": "another video of Star Atlas updates",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=HGRVy66_d9k",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: another video of Star Atlas updates"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "publication": "Intergalactic Gear",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticgear.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Intergalactic Coalition",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticcoalition.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      }
+    ],
+    "original_creators": [
+      "Aephia",
+      "Star Atlas"
+    ],
+    "attribution_chain": [
+      {
+        "from": "tips on playing SAGE Labs",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=3j8_LYtvMIs"
+      },
+      {
+        "from": "weekly Star Atlas livestream",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=wWzelQsKfWQ"
+      },
+      {
+        "from": "weekly Star Atlas Newsletter",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-101/"
+      },
+      {
+        "from": "his thoughts on Star Atlas",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=I9iJnhlmdMc"
+      },
+      {
+        "from": "recent Star Atlas news",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=S4M29nz3HcU"
+      },
+      {
+        "from": "Star Atlas updates",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=y75_WabDv1M"
+      },
+      {
+        "from": "Star Atlas CPO Danny Floyd",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=aHmp7HNk6gM"
+      },
+      {
+        "from": "latest Atlas Brew",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=reJ1HGoDeOg"
+      },
+      {
+        "from": "recap of the latest Atlas Brew",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=UJ6AwLo9cng"
+      },
+      {
+        "from": "how to stay updated on Star Atlas",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=gFexuai6ee4"
+      },
+      {
+        "from": "another video of Star Atlas updates",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=HGRVy66_d9k"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-9D5736FEFB41332D",
+    "url_id": "URL-9D5736FEFB41332D",
+    "url": "https://medium.com/the-hologram/the-galia-archives-a-star-atlas-library-system-30934fddff58",
+    "title": "The Galia Archives: A Star Atlas Library System",
+    "author": "Oni Merchant",
+    "publisher": "The Hologram",
+    "publication_identity": "The Hologram (Medium publication)",
+    "published_at": "2023-01-17T02:29:53Z",
+    "updated_at": "2023-01-17T02:29:53Z",
+    "retrieved_at": "2026-07-13T00:09:11.023070Z",
+    "document_type": "ORIGINAL_REPORTING",
+    "source_role": "ORIGINAL_REPORTING",
+    "publication_role": "ORIGINAL_REPORTING",
+    "classification_rationale": "Publication reports a development without explicit interview, editorial, investigative, event, or reference framing."
+  },
+  "source_lineage": {
+    "publication": "The Hologram (Medium publication)",
+    "publication_role": "ORIGINAL_REPORTING",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [
+      {
+        "publication": "F-KIT",
+        "author": "UNKNOWN",
+        "url": "https://github.com/staratlasmeta/FoundationKit",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "staratlas.com",
+        "author": "UNKNOWN",
+        "url": "https://staratlas.com/newsroom/star-atlas-news/the-f-kit-a-bridge-to-web3-for-game-developers",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Star Atlas — Marketplace",
+        "author": "UNKNOWN",
+        "url": "https://play.staratlas.com/market/?category=story",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Magic Eden",
+        "author": "UNKNOWN",
+        "url": "https://magiceden.io/marketplace/star_atlas_core",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Blockworks",
+        "author": "UNKNOWN",
+        "url": "https://www.blockworks.uk/the-uncensored-library",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://staratlas.com/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [
+      "Oni Merchant"
+    ],
+    "attribution_chain": [
+      {
+        "from": "F-KIT",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://github.com/staratlasmeta/FoundationKit"
+      },
+      {
+        "from": "staratlas.com",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://staratlas.com/newsroom/star-atlas-news/the-f-kit-a-bridge-to-web3-for-game-developers"
+      },
+      {
+        "from": "Star Atlas — Marketplace",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://play.staratlas.com/market/?category=story"
+      },
+      {
+        "from": "Magic Eden",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://magiceden.io/marketplace/star_atlas_core"
+      },
+      {
+        "from": "Blockworks",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://www.blockworks.uk/the-uncensored-library"
+      },
+      {
+        "from": "Star Atlas",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://staratlas.com/"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "This original reporting published by The Hologram on 2023-01-17 documents “The Galia Archives: A Star Atlas Library System.” Its surviving text addresses governance, economy, guilds and DACs, game development, community, lore, technology. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "The Galia Archives: A Star Atlas Library System\nOni Merchant5 min read·Jan 17, 2023\n--\n1\nListen\nShare\nHow would it happen and what would it look like?\nThe developing Star Atlas metaverse is a unique and immersive gaming experience that combines the elements of gaming, space exploration, and cryptocurrency. While the game itself is already becoming a captivating experience, imagine for a moment the addition of a simple, yet visually appealing Library System on the Solana blockchain, built for browser and Unreal Engine 5 integration.\nNear the end of 2022, Star Atlas released massive news:\nA bridge to web3 for game developers: “…An in-game wallet that connects the Solana blockchain to Unreal Engine 5, as well as F-KIT, a free version of the software for developers looking to build on Solana.” (staratlas.com)\nThis leads us to the theorization of many things, one of them being NFT books and a comprehensive library within the Star Atlas metaverse. Developers are finally given the preliminary tools to take part in the digital creation of such ideas. Star Atlas — Marketplace has shown off the seeds of this by releasing NFT comic books (also available on Magic Eden) on the Solana blockchain.\nPress enter or click to view image in full size\nInspirations for a Star Atlas Library\nWeb3 libraries would allow users to access a wide range of books and other written materials, such as The Hologram news, notes, comics, lore, guild documents, mining articles, reference materials for crafting, etc. The books themselves could be interactive, allowing users to flip through pages, highlight text, and make notes. They could be designed to look and feel like real libraries, with shelves, tables, and chairs. Users could search for books and other materials using a variety of criteria, such as author, title, or subject.\nPress enter or click to view image in full size\nThe first time I experienced life-like books in videogames was in The Elder Scrolls games. The books were beautifully rendered, with intricate text that seemed to jump off the screen. I couldn’t help but feel a sense of realism that made the experience feel new and exciting. It was as if I was reading an actual book, rather than just staring at a computer screen. I was able to collect books within my inventory, and eventually organize them into libraries. This experience helped me feel the power of digital technology to create truly immersive experiences.\nAnother inspiration takes place in Minecraft. Blockworks, with the help of 24 individuals from 16 countries, pioneered a library containing censored journals and articles as in-game book objects. It’s currently hosted on a server allowing anyone around the world to visit and is also free to download for single-player. Award-winning projects like these could be used to inspire the galactic libraries of Star Atlas.\nA Divergence from Expectations\nThe libraries of Star Atlas might be different than expected, however. After all, most spaceships have monitor displays. We can look at an additional concept of a digital library system in pop-culture for inspiration. One that comes to mind is the greatest repository of knowledge ever created…The Jedi Archives. It might not be as nostalgic, but it would definitely be convenient and futuristic.\n“If an item does not appear in our records, it does not exist.”\nShaping the future of the Metaverse\nRegardless of what direction the Star Atlas team takes the library system or whether a third-party is able to develop something more pronounced, opening up publishing input to all users would be a game-changer. Giving players the ability to submit and publish documents within the game (with a fee to discourage spam) would be incredibly attractive to gamers and writers alike. It would create a sense of community and ownership and would provide a way for players to share tips and strategies while also helping developers gather important feedback.\nA Call to Developers Interested in the Metaverse\nF-KIT is said to significantly reduce development and time costs associated with integrating Unreal Engine 5 and Solana. It features in-engine generation and imports of private keys and wallets, enabling interactions with on-chain data and facilitating on-chain transactions such as sNFTs, xNFTs, and tokens. Additionally, it offers a wallet management feature for SPL tokens and NFTs, embedded development support, and includes visual coding blueprints for user interfaces and user experience. It’s also capable of integrating with any Solana program.\nPress enter or click to view image in full size\nAs a mud pilot, I plan on catching up on a little reading while traveling between planets.\nPress enter or click to view image in full size\nSimilar to the spaceships, it will be exciting to witness the fruition of libraries within the game itself. Of course, don’t forget to give your eyes a break. Go outside every once in a while.\nAbout the Author\nNotBitcoinCEO is a mud pilot & writer on The Hologram News Network, an independent blockchain gaming meta-news organization devoted to the coverage of Star Atlas.\nFollow on Social Media:\nTwitter | Instagram | Web\nAbout The Hologram\nThe Hologram is Star Atlas’ first and only independent news network. Our vision is to become the most trusted source of information about Star Atlas and a voice for the whole community. Readers can expect a high standard from our reporting and staff. Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.\nPress enter or click to view image in full size\nThe Hologram is not endorsed or paid by the Star Atlas team. Any information published by The Hologram nor its writers should be considered as informational in nature and does not constitute any financial advice.",
+  "content_hash": "59d46f1fc5f5a512eeb657a3c6cdeead6cd582e537de214318210aab7612b258",
+  "major_topics": [
+    "governance",
+    "economy",
+    "guilds and DACs",
+    "game development",
+    "community",
+    "lore",
+    "technology"
+  ],
+  "entities": [
+    "ATLAS",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-9D5736FEFB41332D-01",
+      "text": "Near the end of 2022, Star Atlas released massive news: A bridge to web3 for game developers: “…An in-game wallet that connects the Solana blockchain to Unreal Engine 5, as well as F-KIT, a free version of the software for developers looking to build on Solana.” (staratlas.com) This leads us to the theorization of many things, one of them being NFT books and a comprehensive library within the Star Atlas metaverse.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-9D5736FEFB41332D",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-9D5736FEFB41332D-02",
+      "text": "A Call to Developers Interested in the Metaverse F-KIT is said to significantly reduce development and time costs associated with integrating Unreal Engine 5 and Solana.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-9D5736FEFB41332D",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-9D5736FEFB41332D-03",
+      "text": "Press enter or click to view image in full size As a mud pilot, I plan on catching up on a little reading while traveling between planets.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-9D5736FEFB41332D",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-9D5736FEFB41332D-04",
+      "text": "Press enter or click to view image in full size Similar to the spaceships, it will be exciting to witness the fruition of libraries within the game itself.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-9D5736FEFB41332D",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-9D5736FEFB41332D-05",
+      "text": "Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-9D5736FEFB41332D",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Star Atlas",
+    "ATLAS"
+  ],
+  "governance_items": [
+    "Star Atlas governance / DAO"
+  ],
+  "lore_items": [
+    "MUD",
+    "ONI"
+  ],
+  "actors": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://medium.com/@punaab?source=post_page---byline--30934fddff58---------------------------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fthe-hologram%2F30934fddff58&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fthe-galia-archives-a-star-atlas-library-system-30934fddff58&user=Oni+Merchant&userId=ad2a3faef607&source=---header_actions--30934fddff58---------------------clap_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Frepost%2Fp%2F30934fddff58&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fthe-galia-archives-a-star-atlas-library-system-30934fddff58&user=Oni+Merchant&userId=ad2a3faef607&source=---header_actions--30934fddff58---------------------repost_header------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F30934fddff58&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fthe-galia-archives-a-star-atlas-library-system-30934fddff58&source=---header_actions--30934fddff58---------------------bookmark_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2Fplans%3Fdimension%3Dpost_audio_button%26postId%3D30934fddff58&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fthe-galia-archives-a-star-atlas-library-system-30934fddff58&source=---header_actions--30934fddff58---------------------post_audio_button------------------",
+      "anchor_text": "Listen"
+    },
+    {
+      "url": "https://medium.com/u/5ed69ff9cfb0?source=post_page---user_mention--30934fddff58---------------------------------------",
+      "anchor_text": "Star Atlas"
+    },
+    {
+      "url": "https://medium.com/u/af6a22150fa9?source=post_page---user_mention--30934fddff58---------------------------------------",
+      "anchor_text": "Solana"
+    },
+    {
+      "url": "https://github.com/staratlasmeta/FoundationKit",
+      "anchor_text": "F-KIT"
+    },
+    {
+      "url": "https://staratlas.com/newsroom/star-atlas-news/the-f-kit-a-bridge-to-web3-for-game-developers",
+      "anchor_text": "staratlas.com"
+    },
+    {
+      "url": "https://play.staratlas.com/market/?category=story",
+      "anchor_text": "Star Atlas — Marketplace"
+    },
+    {
+      "url": "https://magiceden.io/marketplace/star_atlas_core",
+      "anchor_text": "Magic Eden"
+    },
+    {
+      "url": "https://www.blockworks.uk/the-uncensored-library",
+      "anchor_text": "Blockworks"
+    },
+    {
+      "url": "https://medium.com/@mudpilot",
+      "anchor_text": "NotBitcoinCEO"
+    },
+    {
+      "url": "https://twitter.com/Hologram_News",
+      "anchor_text": "Twitter"
+    },
+    {
+      "url": "https://www.instagram.com/hologram_news/",
+      "anchor_text": "Instagram"
+    },
+    {
+      "url": "https://thehologram.io/",
+      "anchor_text": "Web"
+    },
+    {
+      "url": "https://medium.com/the-hologram",
+      "anchor_text": "The Hologram"
+    },
+    {
+      "url": "https://staratlas.com/",
+      "anchor_text": "Star Atlas"
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "https://medium.com/the-hologram/the-galia-archives-a-star-atlas-library-system-30934fddff58",
+    "final_url": "https://medium.com/the-hologram/the-galia-archives-a-star-atlas-library-system-30934fddff58",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 153709,
+    "elapsed_ms": 673,
+    "retrieval_mode": "LIVE",
+    "archive_capture": null
+  }
+}

@@ -1,0 +1,543 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-1943EB02EECEDABB",
+    "url": "https://experience.staratlas.com/newsroom/the-atlassian-newsletter/the-atlas-star-issue-4",
+    "title": "The Atlas Star ✧ Issue #4 | Star Atlas",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Newsroom / ATMTA",
+    "published_at": "2021-07-15",
+    "updated_at": null,
+    "original_date_text": "Jul 15, 2021",
+    "document_type": "LORE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Newsroom / ATMTA",
+    "publication_role": "ECONOMIC_REPORT",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://play.staratlas.com",
+        "anchor_text": "Play Now"
+      },
+      {
+        "url": "https://coinmarketcap.com/currencies/star-atlas/",
+        "anchor_text": "CMC"
+      },
+      {
+        "url": "https://www.coingecko.com/en/coins/star-atlas",
+        "anchor_text": "CoinGecko"
+      },
+      {
+        "url": "https://coinmarketcap.com/currencies/star-atlas-polis/",
+        "anchor_text": "CMC"
+      },
+      {
+        "url": "https://www.coingecko.com/en/coins/star-atlas-dao",
+        "anchor_text": "CoinGecko"
+      },
+      {
+        "url": "https://discord.gg/staratlas",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://t.me/staratlasgame",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://www.reddit.com/r/StarAtlas/",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://www.facebook.com/StarAtlasMMO",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://www.instagram.com/staratlasgame/",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://www.youtube.com/channel/UCt-y8Npwje5KDG5MSZ0a9Jw",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://www.twitch.tv/staratlasgame",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://www.arweave.org/",
+        "anchor_text": "Arweave"
+      },
+      {
+        "url": "https://www.solana.com/",
+        "anchor_text": "Solana"
+      },
+      {
+        "url": "https://play.staratlas.com/rebirth",
+        "anchor_text": "ReBirth"
+      },
+      {
+        "url": "https://dex.projectserum.com/",
+        "anchor_text": "Serum marketplace"
+      },
+      {
+        "url": "https://staratlas.com/",
+        "anchor_text": "StarAtlas.com"
+      },
+      {
+        "url": "http://play.staratlas.com/rebirth",
+        "anchor_text": "play.staratlas.com/rebirth"
+      },
+      {
+        "url": "https://www.reddit.com/r/StarAtlas",
+        "anchor_text": "Reddit"
+      },
+      {
+        "url": "https://www.linkedin.com/company/star-atlas",
+        "anchor_text": "Linkedin"
+      },
+      {
+        "url": "https://medium.com/star-atlas",
+        "anchor_text": "Medium"
+      },
+      {
+        "url": "https://www.tiktok.com/@staratlasmetaverse",
+        "anchor_text": "Tik Tok"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Newsroom / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official economic report titled “The Atlas Star ✧ Issue #4 | Star Atlas.” This record preserves what Star Atlas Newsroom / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "The Atlas Star ✧ Issue #4 | Star Atlas\nPlay Now\nEconomic Reports\nWhite Paper • PDF\nRead Our Official White Paper!\nEconomics Paper • PDF\nLearn the tokenomics of ATLAS and POLIS in the galactic economy.\nGovernance Documentation\nLearn how Star Atlas is governed and built by its community.\nATLAS\n(\nCMC\nCoinGecko\n)\nPOLIS\n(\nCMC\nCoinGecko\n)\nTerms of Service\nPrivacy Policy\nPromotional Terms\nPlay Now\nBack\nJul 15, 2021\nTag: The Atlas Star ✧ Newsletter\nThe Atlas Star ✧ Issue #4\nThe Official Star Atlas Newsletter: Dev Edition\nDelivering you original long-form updates covering our latest news and backstage sneak peeks.\nThis edition of The Atlas Star ✧ is brought to you by the Star Atlas Engineering Team… reporting from the frontier of very next-gen technology.\nBack to top\nGreetings, deep space wanderers. We are back to take you on another interstellar journey.\nThis work is fueled by the enthusiasm and support of our community, without which none of this would be possible. Much light to you and yours.\nCoverage includes:\nStar Atlas Engineering Content\nA Note from the CRO’s desk\nA Note from the CPO’s desk\nRoadmap Updates & Media Related Activities\nIntro\nDown the road, our team is planning to release monthly devblogs to keep our community up to date and engaged with our software engineering team. To offer you a glimpse of what is to come, The Atlas Star ✧ this month is focused on our development efforts for the upcoming mini-game release and dives into some of the philosophy behind our technical vision and ambitions. The team is very interested in hearing the types of content you’d like to see in future devblogs — let us know in the comments below, on Twitter or Discord!\nDEX marketplace for Serum\nEnabling seamless in-app trading for your assets\nMichael Lu\nTech Lead\n> I’m very excited to announce that the next major release of the mini-game will include a direct integration with Serum. For players, this means that you’ll be able to have full control over selling & buying Star Atlas NFTs right inside the application without having to use third party tools. The DEX marketplace is decentralized, so you may choose to use another platform if you wish, though of course I recommend using ours.\nWIP interface layout /// Star Atlas design team /// Exclusive Preview\nAbout a month ago (which is ancient history in developer time), the initial Alpha release of the mini-game gave players the ability to:\nBrowse our assets & view their augmented reality experiences\nSeamlessly connect their wallets and purchase exclusive collector’s items\nWith the Serum integration complete, we’ll have finished the foundations for the full in-game marketplace where you’ll be able to purchase ships, parts, crew, planetary claims, fuel, and other equipment.\nIt’s a lot of fun to imagine the dynamics that will emerge in our metaverse as a result of decentralization. There may be trade wars between factions and organizations, interplanetary battles fighting over valuable resource nodes, political unrest, and even whole sectors of space dominated by value. Maybe the universe devolves into only mistrusting, rogue agents flying solo through space — or maybe players band together for a common cause for the good of their digital universe. There will be leaders in the universe, anarchists, even financial moguls who dominate entire markets. It’s your sandbox.\nDuring internal discussions, the conversation has frequently come up regarding the dynamics of the in-game market and implications of how and when items get released. It’s such a major consideration that we’re hiring an economist specifically to think about the bigger picture.\nOur philosophy behind this is unwavering: our team is creating the Star Atlas universe and the tools to interact with it. Everything else is in the hands of the players.\nRainbow Chi WIP /// Future Blockchain Based NFT In-Game Asset /// Owner/Player Builder Controlled\nGaming on the blockchain\nChallenges and considerations in building a decentralized metaverse\nBy: Michael Lu, Tech Lead\nIn Star Atlas, we have flipped the script for in-game asset ownership from the traditional video game model. Once we’ve minted an item and released it into the world, the player is now the custodian of that item — not our team.\nWhat this means is that your in-game item doesn’t rely on some arbitrary, centralized database to exist. Once the token is in your wallet the data stored is as close to permanent as possible. Even better, you don’t need anyone’s permission to use it.\nTo draw an analogy, let’s make a comparison with the non-digital world of trading card games.\nIn a trading card game, players will typically visit a store to purchase packs of cards. As soon as they complete their purchase and leave the store, the cards in that pack belong to them. They now have complete control over that asset — what happens to those cards is entirely up to them.\nSo now that you’ve got your own cards, what can you do with them? Here are some examples.\n- Swap them with other players you meet in real life\n- Store them sleeved in a safe deposit box for safekeeping\n- Rip them up or burn them\n- Put them up for auction on sites like eBay\nYou get the picture. Once you’ve acquired a card, it’s yours. You have full control over it.\nNow let’s take this exact same model and apply it to the digital world. Imagine instead that our trading card game requires a monthly subscription or other form of payment to play. When you and your friends want to exchange cards, you first have to go to a gaming center and show a clerk your ID. After the clerk verifies your identity, they fetch your box of cards from the vault. You take your box to the designated playing area and then can trade and battle with your opponents. At the end of your session you return your updated box of cards to the clerk and leave.\nUnfortunately for you and all the other players, the gaming center is frequently closed for maintenance. It could get flooded or there might be a mold problem that destroys all of the cards. You might show up on a Saturday to play and find out that the carpet needed replacement so the center is closed for the day.\nWorst of all, you didn’t go home with your cards. When you checked out, you handed them back over to the clerk.\nUntil now, the gaming industry has worked in this fashion. In a centralized video game, your loot and items don’t really belong to you, per se. Sure, they’re tied to your login information, but who actually owns the data? Where does it live? Probably some Amazon or Google data warehouse.\nJust like our fictional card gaming center, if you want to play with your items you have to log in through their servers. You put tons of hours into playing the game, but your in-game earnings are just bits and bytes sitting on a centralized server.\nAI-enabled Usturn WIP /// Blockchain Based NFT In-Game Asset /// Owner/Player Builder Enabled\nWhat if there was another, better way of creating the gaming experience, one that doesn’t lock you in and leave you hanging in the end? In our metaverse, your in-game effort is directly rewarded and tied to fiat currency. You don’t need anyone’s permission to sell, buy, or destroy your items. It’s completely up to you. If our servers go down, your items still exist — represented by tokens on the Solana blockchain that’s more immutable than any other data storage solution in existence. Unless our entire planet gets blown up, your items are there.\nAt Star Atlas, our blockchain engineers are in constant conversation with game designers and developers in order to leverage the blockchain for as many game mechanics as possible. We’re investigating technologies such as Arweave for large-asset storage, and developing bespoke smart contracts in the Solana ecosystem to handle challenges such as space combat, resource generation, and even the ebb and flow of the economics underlying the metaverse.\nThe problems that our team are actively solving involve tightly integrating our interface with the on-chain mechanics. This means no centralized servers executing game logic — it all happens on-chain. We’re moving into a new generation of gaming that empowers the player and blurs the boundary between the physical world and the virtual world.\nThe digitalization of our society is inevitable, and we’re lucky enough to be living in the transition period between old and new. The people working on our team, at Solana, Serum, in Ethereum, or in a hundred other Web 3.0 spaces are the creators defining our future. I’m both humbled and grateful to be working with such a driven, talented team. Our engineers are explorers at the border of an unknown frontier, and it’s both exciting and empowering to be a part of it.\nShameless plug: we’re hiring! If you’re an Unreal, TypeScript / React, Solana or Serum developer who is interested in contributing to this galaxy, feel free to send your resume to us at careers@staratlas.com.\nOn-chain Mechanics in Action\nA practical look at NFTs on the Solana blockchain\nBy: Michael Lu, Tech Lead\nFrom a birds-eye view, non-fungible tokens were destined to become an integral part of the cryptocurrency space. While one can view fungible tokens as a digital abstraction of fiat currency, NFTs can similarly be seen as the digital parallel to real-life objects. It’s a natural evolution. Once the digital space had the means to trade with its own currency, the next natural progression was to enable the trading of non divisible digital entities.\nFrom the beginning, Star Atlas has understood the massive importance of our choice in blockchain protocols. When Ethereum came out, it was groundbreaking and enabled users to not only trade digital currencies but to execute on-chain logic in the form of smart contracts. Decentralized applications were enabled, and another quantum leap in the decentralization of the digital word was made. Then the ERC-20 and ERC-721 protocols were released as layers on top of Ethereum to accommodate for the user’s need to mint and trade their own tokens, backed by the strong foundation of the core token. True to the decentralized nature of blockchain technology, this added additional control and freedom for both users and developers.\nDeep Space Mining Landscape WIP /// Blockchain Based NFT In-Game Asset /// Owner/Player Controlled\nSolana solves the one major problem that Etherum is experiencing right now — slow transaction speeds and high gas fees. The last time I checked, it cost a few hundred USD to deploy a smart contract on Ethereum. On Solana, it can be pennies, if not fractions of a penny. Even better, the ERC-20 equivalent in the Solana ecosystem, the SPL Token program, is a core part of the protocol which wasn’t layered on later. Solana has already proven itself to scale incredibly well with sub-second transaction speeds and the ability to accommodate 50,000+ transactions per second. Ethereum struggles with 20.\nStar Atlas has a tightly controlled process surrounding the administration of our tokens so that the supply is transparent to the public. To manage this, we have two wallets — one for market transactions on Serum and Metaplex, and another exclusively to control the issuing and minting of both NFTs and in-game currencies.\nThere are two general types of token issuances we create: 1) unlimited supply with a time-constraint or 2) limited supply with no time constraint. Both use cases have value for different applications.\nThe recently released ReBirth event is a great example of the first use case. To create an “unlimited” supply of the tokens we first mint a ridiculous amount of the token, e.g. a 1MM total supply. We tightly scope the release window of the token by automating the creation and removal of our official sale on the Serum marketplace. In this way, we drive item rarity through the quantity sold in the release window. This schema makes the most sense when we want to only ever release one edition of the same item, and has proven itself to work for our use case. In April, prior to the official launch of the ReBirth Collection, we had several metaverse enthusiasts commit to purchasing the entire 14-poster series ahead of time. In addition, the unlimited supply has enabled us to run giveaways and competitions with the Star Atlas to win individual posters.\nThe second use case is more applicable when we intend to release individual versions of the same item, especially for in-game items that have gameplay value. Let’s say there’s a ship that we release with a supply of 1000. The owners of that edition will now be the only holders of that specific version of the ship with its specific stats. In the future there might be game balancing changes on additional editions of that ship, but the people who own that original ship will\nhave it locked into the historical stats and value.\nWe’ll be locking in the total supply of the entire meta-poster series as the event comes to a close. Like I mentioned, there were a small number of pre-sales of the entire series which will be most noticeable in the later posters where only a few were recorded as sold on the primary market. Once the final tallies are made after the sale of the 13th meta-poster closes, we’ll be burning the rest of our “unlimited” supply and will be unable to mint any more.\nThe full overview of NFTs including ReBirth Meta-Posters in chronological order minted through sales, presales, community growth partnerships and giveaways/rewards (until July 15):\nDOI: 10,561 (including 150 for GrowYourBase; 6 for giveaways)\nHOSA: 6,633 (including 50 for GrowYourBase)\nTCW: 3,104\nLOST: 928\nLOVE: 707\nMRDR: 111\nPFP: 79\nAVE: 72\nTLS: 5\nSPT: 5\nPBA: 4\nUWB: 4\nOMPH: 4\nPearce x4 Racer: 15 for giveaways\nThere’s a certain amount of romanticism I associate with the permanence and infinite possibilities of the metaverse we’re building. It’s a huge undertaking, and when our final vision is realized my hope is that there will be little to no distinction between the world of Star Atlas and the galaxy we’re physically a part of.\nThanks for tuning into the developer-focused edition of The Atlas Star ✧; much light to you and yours.\nPearce X4 Game Model WIP /// Blockchain Based In-Game NFT Asset /// Owner/Player Controlled\nOn Manifesting our Metaverse Destiny\nA Note from the CRO’s desk: Pablo Quiroga\nOur collective consciousness is a state of mind where our deepest desires explore the boundaries of what is possible. With cutting edge technology built by Star Atlas engineers and a design team envisioning a metropolis of creativity working with Blond:ish, Jason Silva, Steve James, Maejor, Sueco, Ricky Desktop, Deadmau5, and others to deliver original soundscapes for ReBirth was mind altering. Knowing that we have an amazing team building a solid infrastructure allows for the Revenue Operations team along with our Marketing and Community team to manifest a dream vision being shared by millions worldwide.\nWorking with global AAA class talent across every category is power-charging development to new heights. The technologies we are utilizing today in our creative process are enabling next-gen experiences unfathomable just years ago. The ability for artists to capture the essence of Star Atlas is seamless and inspiring. We are looking forward to more collaborations that expand the doorways of perception towards our interstellar destiny.\nDesign in an Immutable World\nA Note from the CPO’s desk: Danny Floyd\nTypically, tools created by engineers are built to facilitate the visions established by artists and other creatives. On the Star Atlas Dev Team, we are blessed to have engineers who are also creatives themselves. This makes collaboration between the design team and the technical team not only fun and invigorating, it also propels the structuring of these visions to unforeseen heights.\nWe’ve turned a page on the product design side. All ship roles and all ship manufacturers have been defined. This gives a broad understanding of the variety of aesthetics players will see on their travels through the universe of Star Atlas. More effort is now being put towards fleshing out the full ship supply line of each manufacturer rather than spending detailed time on establishing the initial design languages.\nArt production roles have increased. We are also in the formalizing stage of onboarding an external co-development team to allow us to ramp up full game development to much larger capacities. This should give us all the help needed to see through our AAA goals in Unreal Engine 5.\nThe internal roadmap for the mini game has been cleanly phased out and design hurdles have been met with brilliant solutions and enthusiasm from the engineering side. Code has been paving new territory with their decentralized, blockchain programs to manifest this ambitious vision. Based on this past year, I have full faith in the engineering team to see everything we are planning through to it’s most compelling and most fun potential.\nRainbow Chi WIP /// Future Blockchain Based NFT In-Game Asset /// Owner/Player Builder Controlled\nClosing thoughts\nLet us know what you thought about this engineering-focused edition of The Atlas Star ✧! For future devblogs, we’d love to know what type of content our community is interested in hearing about. Join us on Discord to share your feedback and ideas.\nWhat’s next?\nRoadmap Updates and Media Related Activities\nRoadmap Updates\nJuly 17, 2021 /// Launching the final Tier 5 Meta-Poster of Re-Birth: Genesis of a Metaverse NFT Art Collectibles Series with deadmau5\nQ3 2021 /// Galactic Asset Offering Launch /// Minigame Launch — Beta\nMedia Related Activities\nPast highlights\nSocial Ray Podcast: “The Future of Blockchain Gaming, Cryptocurrency, and NFTs in Space”, June 9, 2021\nDamian Nordmann Podcast “Your Are the Superhero”, June 28, 2021\nStar Atlas x Grape, Whale’s Friend AMA with CEO Michael Wagner about Crypto, Video games, Space, and the Future, June 30, 2021\nFuture activities\nStar Atlas Town Hall, July 16, 2021, 10PM UTC/ 3PM PDT\nAdditional AMAs and events will be announced via our social media channels\nABOUT STAR ATLAS\nStar Atlas is a next-gen gaming metaverse emerging from the confluence of state of the art blockchain, real-time graphics, multiplayer video game, and decentralized financial technologies.\nReal-time graphics technology using Unreal Engine 5’s Nanite allows for cinematic quality video game visuals. Blockchain technology using the Solana protocol established a largely serverless and secured gameplay experience. Non-fungible tokens obtained and traded within Star Atlas creates an economy that replicates the tangibility of real world assets and ownership. To learn more, visit StarAtlas.com.\nJoin the ReBirth to experience the metaverse at play.staratlas.com/rebirth.\nJOIN OUR COMMUNITY\nTwitter | Discord | Telegram | Youtube | Instagram | Reddit | Facebook | Linkedin | Medium | Tik Tok | Twitch\nPrev\nStar Atlas To Sponsor Play to Earn Game Festival\nNext\nStar Atlas Announces NFT Loot Box Rewards Drop for ReBirth Meta-Poster Collectors\nHolders of full Tiers of Meta-Posters now have a path to claiming in-game metaverse NFTs, including state-of-the-art intergalactic spaceships and Tigu.\nTrailer\nWe use cookies to enhance your experience and analyze our site usage.\nPlease see our Privacy Policy\nfor more information.\nAccept Cookies",
+  "content_hash": "46fef714d678b99b0d33bbb1b7e2fe8cdfa8480cbd1631eb468952a6b04cd6ed",
+  "entities": [
+    "ATLAS",
+    "CORE",
+    "Crew",
+    "Danny Floyd",
+    "Metaplex",
+    "Michael Wagner",
+    "POLIS",
+    "Pablo Quiroga",
+    "Serum",
+    "Solana"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-1943EB02EECEDABB-01",
+      "text": "The Atlas Star ✧ Issue #4 | Star Atlas Play Now Economic Reports White Paper • PDF Read Our Official White Paper!",
+      "claim_type": "LORE_STATEMENT",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-1943EB02EECEDABB",
+      "publication_date": "2021-07-15",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-1943EB02EECEDABB-02",
+      "text": "This edition of The Atlas Star ✧ is brought to you by the Star Atlas Engineering Team… reporting from the frontier of very next-gen technology.",
+      "claim_type": "LORE_STATEMENT",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-1943EB02EECEDABB",
+      "publication_date": "2021-07-15",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-1943EB02EECEDABB-03",
+      "text": "Coverage includes: Star Atlas Engineering Content A Note from the CRO’s desk A Note from the CPO’s desk Roadmap Updates & Media Related Activities Intro Down the road, our team is planning to release monthly devblogs to keep our community up to date and engaged with our software engineering team.",
+      "claim_type": "LORE_STATEMENT",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-1943EB02EECEDABB",
+      "publication_date": "2021-07-15",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-1943EB02EECEDABB-04",
+      "text": "To offer you a glimpse of what is to come, The Atlas Star ✧ this month is focused on our development efforts for the upcoming mini-game release and dives into some of the philosophy behind our technical vision and ambitions.",
+      "claim_type": "LORE_STATEMENT",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-1943EB02EECEDABB",
+      "publication_date": "2021-07-15",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-1943EB02EECEDABB-05",
+      "text": "DEX marketplace for Serum Enabling seamless in-app trading for your assets Michael Lu Tech Lead > I’m very excited to announce that the next major release of the mini-game will include a direct integration with Serum.",
+      "claim_type": "LORE_STATEMENT",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-1943EB02EECEDABB",
+      "publication_date": "2021-07-15",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-1943EB02EECEDABB-06",
+      "text": "It’s a lot of fun to imagine the dynamics that will emerge in our metaverse as a result of decentralization.",
+      "claim_type": "LORE_STATEMENT",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-1943EB02EECEDABB",
+      "publication_date": "2021-07-15",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-1943EB02EECEDABB-07",
+      "text": "There will be leaders in the universe, anarchists, even financial moguls who dominate entire markets.",
+      "claim_type": "LORE_STATEMENT",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-1943EB02EECEDABB",
+      "publication_date": "2021-07-15",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-1943EB02EECEDABB-08",
+      "text": "During internal discussions, the conversation has frequently come up regarding the dynamics of the in-game market and implications of how and when items get released.",
+      "claim_type": "LORE_STATEMENT",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-1943EB02EECEDABB",
+      "publication_date": "2021-07-15",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-1943EB02EECEDABB-09",
+      "text": "Once we’ve minted an item and released it into the world, the player is now the custodian of that item — not our team.",
+      "claim_type": "LORE_STATEMENT",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-1943EB02EECEDABB",
+      "publication_date": "2021-07-15",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-1943EB02EECEDABB-10",
+      "text": "In a trading card game, players will typically visit a store to purchase packs of cards.",
+      "claim_type": "LORE_STATEMENT",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-1943EB02EECEDABB",
+      "publication_date": "2021-07-15",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-1943EB02EECEDABB-11",
+      "text": "Unless our entire planet gets blown up, your items are there.",
+      "claim_type": "LORE_STATEMENT",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-1943EB02EECEDABB",
+      "publication_date": "2021-07-15",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-1943EB02EECEDABB-12",
+      "text": "This means no centralized servers executing game logic — it all happens on-chain.",
+      "claim_type": "LORE_STATEMENT",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-1943EB02EECEDABB",
+      "publication_date": "2021-07-15",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-1943EB02EECEDABB-13",
+      "text": "When Ethereum came out, it was groundbreaking and enabled users to not only trade digital currencies but to execute on-chain logic in the form of smart contracts.",
+      "claim_type": "LORE_STATEMENT",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-1943EB02EECEDABB",
+      "publication_date": "2021-07-15",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-1943EB02EECEDABB-14",
+      "text": "Then the ERC-20 and ERC-721 protocols were released as layers on top of Ethereum to accommodate for the user’s need to mint and trade their own tokens, backed by the strong foundation of the core token.",
+      "claim_type": "LORE_STATEMENT",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-1943EB02EECEDABB",
+      "publication_date": "2021-07-15",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-1943EB02EECEDABB-15",
+      "text": "The recently released ReBirth event is a great example of the first use case.",
+      "claim_type": "LORE_STATEMENT",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-1943EB02EECEDABB",
+      "publication_date": "2021-07-15",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "CORE",
+    "POLIS",
+    "ATLAS",
+    "Crew"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [
+    "Michael Wagner",
+    "Pablo Quiroga",
+    "Danny Floyd"
+  ],
+  "organizations": [
+    "Solana",
+    "Serum",
+    "Metaplex"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://experience.staratlas.com/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://play.staratlas.com",
+      "anchor_text": "Play Now"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/economic-reports/",
+      "anchor_text": "Economic Reports"
+    },
+    {
+      "url": "https://experience.staratlas.com/assets/pdfs/white-paper.pdf",
+      "anchor_text": "White Paper • PDF Read Our Official White Paper!"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/governance-documentation",
+      "anchor_text": "Governance Documentation Learn how Star Atlas is governed and built by its community."
+    },
+    {
+      "url": "https://coinmarketcap.com/currencies/star-atlas/",
+      "anchor_text": "CMC"
+    },
+    {
+      "url": "https://www.coingecko.com/en/coins/star-atlas",
+      "anchor_text": "CoinGecko"
+    },
+    {
+      "url": "https://coinmarketcap.com/currencies/star-atlas-polis/",
+      "anchor_text": "CMC"
+    },
+    {
+      "url": "https://www.coingecko.com/en/coins/star-atlas-dao",
+      "anchor_text": "CoinGecko"
+    },
+    {
+      "url": "https://twitter.com/staratlas",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://discord.gg/staratlas",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://t.me/staratlasgame",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/StarAtlas/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://www.facebook.com/StarAtlasMMO",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://www.instagram.com/staratlasgame/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCt-y8Npwje5KDG5MSZ0a9Jw",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://www.twitch.tv/staratlasgame",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://experience.staratlas.com/terms-of-service",
+      "anchor_text": "Terms of Service"
+    },
+    {
+      "url": "https://experience.staratlas.com/privacy-policy",
+      "anchor_text": "Privacy Policy"
+    },
+    {
+      "url": "https://experience.staratlas.com/promotional-terms-and-conditions",
+      "anchor_text": "Promotional Terms"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/news",
+      "anchor_text": "Back"
+    },
+    {
+      "url": "https://www.arweave.org/",
+      "anchor_text": "Arweave"
+    },
+    {
+      "url": "https://www.solana.com/",
+      "anchor_text": "Solana"
+    },
+    {
+      "url": "https://play.staratlas.com/rebirth",
+      "anchor_text": "ReBirth"
+    },
+    {
+      "url": "https://dex.projectserum.com/",
+      "anchor_text": "Serum marketplace"
+    },
+    {
+      "url": "https://staratlas.com/",
+      "anchor_text": "StarAtlas.com"
+    },
+    {
+      "url": "http://play.staratlas.com/rebirth",
+      "anchor_text": "play.staratlas.com/rebirth"
+    },
+    {
+      "url": "https://www.reddit.com/r/StarAtlas",
+      "anchor_text": "Reddit"
+    },
+    {
+      "url": "https://www.linkedin.com/company/star-atlas",
+      "anchor_text": "Linkedin"
+    },
+    {
+      "url": "https://medium.com/star-atlas",
+      "anchor_text": "Medium"
+    },
+    {
+      "url": "https://www.tiktok.com/@staratlasmetaverse",
+      "anchor_text": "Tik Tok"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/the-atlassian-newsletter/star-atlas-to-sponsor-play-to-earn-game-festival",
+      "anchor_text": "Prev Star Atlas To Sponsor Play to Earn Game Festival"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/the-atlassian-newsletter/star-atlas-announces-nft-loot-box-rewards-drop-for-rebirth-meta-poster",
+      "anchor_text": "Next Star Atlas Announces NFT Loot Box Rewards Drop for ReBirth Meta-Poster Collectors Holders of full Tiers of Meta-Posters now have a path to claiming in-game metaverse NFTs, including state-of-the-art intergalactic spaceships and Tigu."
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/the-atlassian-newsletter/the-atlas-star-issue-4",
+      "anchor_text": "Trailer"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://experience.staratlas.com/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://play.staratlas.com",
+      "anchor_text": "Play Now"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/economic-reports/",
+      "anchor_text": "Economic Reports"
+    },
+    {
+      "url": "https://experience.staratlas.com/assets/pdfs/white-paper.pdf",
+      "anchor_text": "White Paper • PDF Read Our Official White Paper!"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/governance-documentation",
+      "anchor_text": "Governance Documentation Learn how Star Atlas is governed and built by its community."
+    },
+    {
+      "url": "https://experience.staratlas.com/terms-of-service",
+      "anchor_text": "Terms of Service"
+    },
+    {
+      "url": "https://experience.staratlas.com/privacy-policy",
+      "anchor_text": "Privacy Policy"
+    },
+    {
+      "url": "https://experience.staratlas.com/promotional-terms-and-conditions",
+      "anchor_text": "Promotional Terms"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/news",
+      "anchor_text": "Back"
+    },
+    {
+      "url": "https://play.staratlas.com/rebirth",
+      "anchor_text": "ReBirth"
+    },
+    {
+      "url": "https://staratlas.com/",
+      "anchor_text": "StarAtlas.com"
+    },
+    {
+      "url": "http://play.staratlas.com/rebirth",
+      "anchor_text": "play.staratlas.com/rebirth"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/the-atlassian-newsletter/star-atlas-to-sponsor-play-to-earn-game-festival",
+      "anchor_text": "Prev Star Atlas To Sponsor Play to Earn Game Festival"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/the-atlassian-newsletter/star-atlas-announces-nft-loot-box-rewards-drop-for-rebirth-meta-poster",
+      "anchor_text": "Next Star Atlas Announces NFT Loot Box Rewards Drop for ReBirth Meta-Poster Collectors Holders of full Tiers of Meta-Posters now have a path to claiming in-game metaverse NFTs, including state-of-the-art intergalactic spaceships and Tigu."
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/the-atlassian-newsletter/the-atlas-star-issue-4",
+      "anchor_text": "Trailer"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://experience.staratlas.com/newsroom/the-atlassian-newsletter/the-atlas-star-issue-4",
+    "final_url": "https://experience.staratlas.com/newsroom/the-atlassian-newsletter/the-atlas-star-issue-4",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "response_size": 90345,
+    "retrieved_at": "2026-07-13T01:04:59.708866Z",
+    "elapsed_ms": 241
+  }
+}

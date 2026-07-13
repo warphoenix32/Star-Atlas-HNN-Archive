@@ -1,0 +1,362 @@
+{
+  "source": {
+    "source_id": "SRC-IH-220D95DA57A78876",
+    "url_id": "URL-220D95DA57A78876",
+    "url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-92/",
+    "inventory_url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-92",
+    "title": "Star Atlas Weekly News Recap #92",
+    "author": "Intergalactic Herald",
+    "publisher": "Intergalactic Herald",
+    "published_at": "2023-12-24T17:00:00",
+    "updated_at": "2025-10-30T19:48:01",
+    "retrieved_at": "2026-07-12T22:01:16.815267Z",
+    "document_type": "NEWSLETTER",
+    "source_role": "CURATED_SUMMARY",
+    "source_classification": "CURATED_SUMMARY",
+    "classification_rationale": "Weekly newsletter/recap aggregates developments and linked sources.",
+    "wordpress_type": "posts"
+  },
+  "summary": {
+    "neutral_abstract": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week. We are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us. We are launching a Star Atlas merch store. Please check it out at Intergalactic",
+    "historical_value": "Contemporary Intergalactic Herald publication preserved with role and attribution boundaries.",
+    "current_validity_warning": "Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources."
+  },
+  "article_text": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week.\nWe are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us.\nWe are launching a Star Atlas merch store. Please check it out at Intergalactic Gear.\nWe are creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic Coalition.\nIf you would like to support our efforts, donations can be sent to intergalacticherald.sol\nStar Atlas Recap 12-16-23\nBeyond the Horizon posted a video recapping the latest Star Atlas news.\nMetaverse Nomads #125 Star Atlas and Honeyland w/ Co-founder Filbert Steiner\nMetaverse Nomads posted a video replay of their Star Atlas livestream.\nTownhall #41\nStar Atlas TV posted a video reply of the latest Star Atlas Townhall.\nQuick RECAP: Star Atlas Townhall #41 – End of Year 2023\nRahMega posted a video recapping the Star Atlas Townhall.\nSTAR ATLAS #214 LABS VERSION 2\nMetaVerse Explorer posted a video about version 2 of SAGE Labs.\nThe Atlas Brew #93\nStar Atlas TV posted a video replay of the latest Atlas Brew.\nAtlas Brew #93: The Last Brew of the Year – TLDR\nTLDR posted a recap of the latest Atlas Brew.\nSTAR ATLAS #215 SCORE EMISSIONS CUT BY 33%\nMetaVerse Explorer posted a video about the changes to the Star Atlas economy.\nStar Atlas – SCORE Reduction and Economic Planning w/Chris S.\nThe Hologram News Network posted a video about economic planning in Star Atlas.\nStar Atlas Economic Report 2023 Q4\nStar Atlas published their latest economic report.\nStar Atlas – Release 2.1.9 Trailer\nStar Atlas posted a video trailer of release 2.1.9 of the Showroom.",
+  "content_hash": "02943e01bf6fe6826def6e349ce553f7bca391badce0b6bd6f34a6ed944d6fd2",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [
+    "2023"
+  ],
+  "external_sources": [
+    {
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=kU84CENBwv4",
+      "anchor_text": "latest Star Atlas news"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=S_rh6Pd56lc",
+      "anchor_text": "Star Atlas livestream"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=rQgyK4P7BUg",
+      "anchor_text": "latest Star Atlas Townhall"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=JvqprXbm82A",
+      "anchor_text": "recapping the Star Atlas Townhall"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=L0aj0BOKHcA",
+      "anchor_text": "version 2 of SAGE Labs"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=4q25P4ZA_L8",
+      "anchor_text": "latest Atlas Brew"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=7xovgxgw8xc",
+      "anchor_text": "latest Atlas Brew"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=e2HQuHmuBnw",
+      "anchor_text": "changes to the Star Atlas economy"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=zHY_NyK9kCk",
+      "anchor_text": "economic planning in Star Atlas"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/economic-reports",
+      "anchor_text": "economic report"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=G6LVjV_58J8",
+      "anchor_text": "release 2.1.9 of the Showroom"
+    }
+  ],
+  "primary_source_relationships": [
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=kU84CENBwv4",
+      "anchor_text": "latest Star Atlas news"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=S_rh6Pd56lc",
+      "anchor_text": "Star Atlas livestream"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=rQgyK4P7BUg",
+      "anchor_text": "latest Star Atlas Townhall"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=JvqprXbm82A",
+      "anchor_text": "recapping the Star Atlas Townhall"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=L0aj0BOKHcA",
+      "anchor_text": "version 2 of SAGE Labs"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=4q25P4ZA_L8",
+      "anchor_text": "latest Atlas Brew"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=7xovgxgw8xc",
+      "anchor_text": "latest Atlas Brew"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=e2HQuHmuBnw",
+      "anchor_text": "changes to the Star Atlas economy"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=zHY_NyK9kCk",
+      "anchor_text": "economic planning in Star Atlas"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://experience.staratlas.com/newsroom/economic-reports",
+      "anchor_text": "economic report"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=G6LVjV_58J8",
+      "anchor_text": "release 2.1.9 of the Showroom"
+    }
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Verify which outbound links are primary sources and preserve creator attribution during promotion."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-92&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 6100,
+    "elapsed_ms": 1574,
+    "attempts": [
+      {
+        "endpoint": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-92&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "http_status": 200,
+        "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-92&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "content_type": "application/json; charset=UTF-8",
+        "response_size": 6100,
+        "elapsed_ms": 1574
+      }
+    ]
+  },
+  "source_lineage": {
+    "publication": "Intergalactic Herald",
+    "publication_role": "CURATED_SUMMARY",
+    "relationship": "CURATED_SUMMARY_OF",
+    "primary_sources": [
+      {
+        "publication": "latest Star Atlas news",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=kU84CENBwv4",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest Star Atlas news"
+      },
+      {
+        "publication": "Star Atlas livestream",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=S_rh6Pd56lc",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas livestream"
+      },
+      {
+        "publication": "latest Star Atlas Townhall",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=rQgyK4P7BUg",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest Star Atlas Townhall"
+      },
+      {
+        "publication": "recapping the Star Atlas Townhall",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=JvqprXbm82A",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: recapping the Star Atlas Townhall"
+      },
+      {
+        "publication": "version 2 of SAGE Labs",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=L0aj0BOKHcA",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: version 2 of SAGE Labs"
+      },
+      {
+        "publication": "latest Atlas Brew",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=4q25P4ZA_L8",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest Atlas Brew"
+      },
+      {
+        "publication": "latest Atlas Brew",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=7xovgxgw8xc",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest Atlas Brew"
+      },
+      {
+        "publication": "changes to the Star Atlas economy",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=e2HQuHmuBnw",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: changes to the Star Atlas economy"
+      },
+      {
+        "publication": "economic planning in Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=zHY_NyK9kCk",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: economic planning in Star Atlas"
+      },
+      {
+        "publication": "economic report",
+        "author": "UNKNOWN",
+        "url": "https://experience.staratlas.com/newsroom/economic-reports",
+        "organization": "ATMTA / Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: economic report"
+      },
+      {
+        "publication": "release 2.1.9 of the Showroom",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=G6LVjV_58J8",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: release 2.1.9 of the Showroom"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "publication": "Intergalactic Gear",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticgear.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Intergalactic Coalition",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticcoalition.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas",
+      "ATMTA / Star Atlas"
+    ],
+    "attribution_chain": [
+      {
+        "from": "latest Star Atlas news",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=kU84CENBwv4"
+      },
+      {
+        "from": "Star Atlas livestream",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=S_rh6Pd56lc"
+      },
+      {
+        "from": "latest Star Atlas Townhall",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=rQgyK4P7BUg"
+      },
+      {
+        "from": "recapping the Star Atlas Townhall",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=JvqprXbm82A"
+      },
+      {
+        "from": "version 2 of SAGE Labs",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=L0aj0BOKHcA"
+      },
+      {
+        "from": "latest Atlas Brew",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=4q25P4ZA_L8"
+      },
+      {
+        "from": "latest Atlas Brew",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=7xovgxgw8xc"
+      },
+      {
+        "from": "changes to the Star Atlas economy",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=e2HQuHmuBnw"
+      },
+      {
+        "from": "economic planning in Star Atlas",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=zHY_NyK9kCk"
+      },
+      {
+        "from": "economic report",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://experience.staratlas.com/newsroom/economic-reports"
+      },
+      {
+        "from": "release 2.1.9 of the Showroom",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=G6LVjV_58J8"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  }
+}

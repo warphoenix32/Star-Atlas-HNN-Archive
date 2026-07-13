@@ -1,0 +1,439 @@
+{
+  "source": {
+    "source_id": "SRC-IH-5E5B7249E1CDC657",
+    "url_id": "URL-5E5B7249E1CDC657",
+    "url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-68/",
+    "inventory_url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-68",
+    "title": "Star Atlas Weekly News Recap #68",
+    "author": "Intergalactic Herald",
+    "publisher": "Intergalactic Herald",
+    "published_at": "2023-07-09T17:00:33",
+    "updated_at": "2025-11-21T08:16:46",
+    "retrieved_at": "2026-07-12T22:03:41.104554Z",
+    "document_type": "NEWSLETTER",
+    "source_role": "CURATED_SUMMARY",
+    "source_classification": "CURATED_SUMMARY",
+    "classification_rationale": "Weekly newsletter/recap aggregates developments and linked sources.",
+    "wordpress_type": "posts"
+  },
+  "summary": {
+    "neutral_abstract": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week. We are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us. Star Atlas Chatter #3 - The Only Constant in Life… Week in Review 6/24 – 6/30",
+    "historical_value": "Contemporary Intergalactic Herald publication preserved with role and attribution boundaries.",
+    "current_validity_warning": "Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources."
+  },
+  "article_text": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week.\nWe are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us.\nThe Atlas Star ✧ Issue #19\nStar Atlas published their latest newsletter.\nStar Atlas Economic Report 2023 Q2\nStar Atlas published their latest economic report.\nStar Atlas, Building a Digital Economy\nTomorrows World posted a video summary of Star Atlas.\nAephia Data Dashboards\nAephia releases a data dashboard about the Star Atlas Marketplace.\nStar Atlas Chatter #3 - The Only Constant in Life… Week in Review 6/24 – 6/30 2023\nRahMega posted a video recapping the past week of news in Star Atlas.\nMetaverse Nomads #101 Star Atlas w/ Winston | ROME\nMetaverse Nomads posted a video of their weekly Star Atlas live stream.\nImpromptu Friday Q&A with Michael and the Star Atlas Team\nAephia posted a video replay of a Star Atlas Q&A.\nStar Atlas – June Recap (Star Atlas R2.1, R4 Transition, New Ships, and More!)\nDominicVain posted a video recapping the Star Atlas announcements for June.\nSTAR ATLAS #188 CHECK YOUR SHIPS!\nMetaVerse Explorer posted a video of Star Atlas news.\nStar Atlas July 4th Recap News!!\nBeyond The Horizon posted a Star Atlas news recap.\nEverything We Know About REC So Far\nThe Hologram published an article about the upcoming Star Atlas REC.\nStar Atlas Claim Stakes VS Star Atlas Mining Ships\nBeyond the Horizon posted a video comparing Star Atlas claim stakes to mining ships.\nThe Atlas Brew #70\nStar Atlas TV posted a video replay of the recent Atlas Brew.\nStar Atlas and Hello Moon Partner to Level Up Gaming with Live Data Streaming\nStar Atlas published an article about their partnership with Hello Moon.\nStar Atlas DAO Lays Foundation for Sustainable Governance in Gaming\nStar Atlas published an article introducing the first proposal for the Star Atlas DAO.\nStar Atlas PIP-1 Part I – Constitution and DAO\nThe Hologram News Network posted a video summary of the news about the Star Atlas DAO.\nMichael Wagner Addresses New Star Atlas Ship Configs\nThe Hologram News Network posted a video about comments from the Star Atlas CEO on the recent ship reconfigurations.",
+  "content_hash": "97181cf3bac1417a75653dc360503c5706ab1cdde8aa69a2ae9e7787ba68d040",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [
+    "2023"
+  ],
+  "external_sources": [
+    {
+      "url": "https://medium.com/star-atlas/the-atlas-star-issue-19-2cadcc3143a3",
+      "anchor_text": "latest newsletter"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/economic-reports/star-atlas-economic-report-2023-q2",
+      "anchor_text": "latest economic report"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=qHyLarNpme4",
+      "anchor_text": "summary of Star Atlas"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=opJpPTjxKhI",
+      "anchor_text": "past week of news in Star Atlas"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=tsF1N06L7cs",
+      "anchor_text": "weekly Star Atlas live stream"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Rj2fsGtt82k",
+      "anchor_text": "replay of a Star Atlas Q&A"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=0kkKD2SNT04",
+      "anchor_text": "Star Atlas announcements for June"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=EvLBcojpDMs",
+      "anchor_text": "Star Atlas news"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=4xJB6LrTcck",
+      "anchor_text": "Star Atlas news recap"
+    },
+    {
+      "url": "https://medium.com/the-hologram/everything-we-know-about-rec-so-far-1713d6dd0697",
+      "anchor_text": "upcoming Star Atlas REC"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=f3X8ADyIfIo",
+      "anchor_text": "comparing Star Atlas claim stakes to mining ships"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=vh8MxCQrhzA",
+      "anchor_text": "recent Atlas Brew"
+    },
+    {
+      "url": "https://medium.com/star-atlas/star-atlas-hello-moon-solana-gaming-live-data-streaming-d6261618b03e",
+      "anchor_text": "partnership with Hello Moon"
+    },
+    {
+      "url": "https://medium.com/star-atlas/star-atlas-dao-foundation-pip-sustainable-governance-in-gaming-39105cc0121f",
+      "anchor_text": "first proposal for the Star Atlas DAO"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=vz-HnfiyXF8",
+      "anchor_text": "news about the Star Atlas DAO"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=cNOR3PBCgTQ",
+      "anchor_text": "recent ship reconfigurations"
+    }
+  ],
+  "primary_source_relationships": [
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://medium.com/star-atlas/the-atlas-star-issue-19-2cadcc3143a3",
+      "anchor_text": "latest newsletter"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://experience.staratlas.com/newsroom/economic-reports/star-atlas-economic-report-2023-q2",
+      "anchor_text": "latest economic report"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=qHyLarNpme4",
+      "anchor_text": "summary of Star Atlas"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=opJpPTjxKhI",
+      "anchor_text": "past week of news in Star Atlas"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=tsF1N06L7cs",
+      "anchor_text": "weekly Star Atlas live stream"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=Rj2fsGtt82k",
+      "anchor_text": "replay of a Star Atlas Q&A"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=0kkKD2SNT04",
+      "anchor_text": "Star Atlas announcements for June"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=EvLBcojpDMs",
+      "anchor_text": "Star Atlas news"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=4xJB6LrTcck",
+      "anchor_text": "Star Atlas news recap"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://medium.com/the-hologram/everything-we-know-about-rec-so-far-1713d6dd0697",
+      "anchor_text": "upcoming Star Atlas REC"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=f3X8ADyIfIo",
+      "anchor_text": "comparing Star Atlas claim stakes to mining ships"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=vh8MxCQrhzA",
+      "anchor_text": "recent Atlas Brew"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://medium.com/star-atlas/star-atlas-hello-moon-solana-gaming-live-data-streaming-d6261618b03e",
+      "anchor_text": "partnership with Hello Moon"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://medium.com/star-atlas/star-atlas-dao-foundation-pip-sustainable-governance-in-gaming-39105cc0121f",
+      "anchor_text": "first proposal for the Star Atlas DAO"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=vz-HnfiyXF8",
+      "anchor_text": "news about the Star Atlas DAO"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=cNOR3PBCgTQ",
+      "anchor_text": "recent ship reconfigurations"
+    }
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Verify which outbound links are primary sources and preserve creator attribution during promotion."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-68&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 8025,
+    "elapsed_ms": 1734,
+    "attempts": [
+      {
+        "endpoint": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-68&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "http_status": 200,
+        "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-68&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "content_type": "application/json; charset=UTF-8",
+        "response_size": 8025,
+        "elapsed_ms": 1734
+      }
+    ]
+  },
+  "source_lineage": {
+    "publication": "Intergalactic Herald",
+    "publication_role": "CURATED_SUMMARY",
+    "relationship": "CURATED_SUMMARY_OF",
+    "primary_sources": [
+      {
+        "publication": "latest newsletter",
+        "author": "UNKNOWN",
+        "url": "https://medium.com/star-atlas/the-atlas-star-issue-19-2cadcc3143a3",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest newsletter"
+      },
+      {
+        "publication": "latest economic report",
+        "author": "UNKNOWN",
+        "url": "https://experience.staratlas.com/newsroom/economic-reports/star-atlas-economic-report-2023-q2",
+        "organization": "ATMTA / Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest economic report"
+      },
+      {
+        "publication": "summary of Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=qHyLarNpme4",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: summary of Star Atlas"
+      },
+      {
+        "publication": "past week of news in Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=opJpPTjxKhI",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: past week of news in Star Atlas"
+      },
+      {
+        "publication": "weekly Star Atlas live stream",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=tsF1N06L7cs",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: weekly Star Atlas live stream"
+      },
+      {
+        "publication": "replay of a Star Atlas Q&A",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=Rj2fsGtt82k",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: replay of a Star Atlas Q&A"
+      },
+      {
+        "publication": "Star Atlas announcements for June",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=0kkKD2SNT04",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas announcements for June"
+      },
+      {
+        "publication": "Star Atlas news",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=EvLBcojpDMs",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas news"
+      },
+      {
+        "publication": "Star Atlas news recap",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=4xJB6LrTcck",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas news recap"
+      },
+      {
+        "publication": "upcoming Star Atlas REC",
+        "author": "UNKNOWN",
+        "url": "https://medium.com/the-hologram/everything-we-know-about-rec-so-far-1713d6dd0697",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: upcoming Star Atlas REC"
+      },
+      {
+        "publication": "comparing Star Atlas claim stakes to mining ships",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=f3X8ADyIfIo",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: comparing Star Atlas claim stakes to mining ships"
+      },
+      {
+        "publication": "recent Atlas Brew",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=vh8MxCQrhzA",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: recent Atlas Brew"
+      },
+      {
+        "publication": "partnership with Hello Moon",
+        "author": "UNKNOWN",
+        "url": "https://medium.com/star-atlas/star-atlas-hello-moon-solana-gaming-live-data-streaming-d6261618b03e",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: partnership with Hello Moon"
+      },
+      {
+        "publication": "first proposal for the Star Atlas DAO",
+        "author": "UNKNOWN",
+        "url": "https://medium.com/star-atlas/star-atlas-dao-foundation-pip-sustainable-governance-in-gaming-39105cc0121f",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: first proposal for the Star Atlas DAO"
+      },
+      {
+        "publication": "news about the Star Atlas DAO",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=vz-HnfiyXF8",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: news about the Star Atlas DAO"
+      },
+      {
+        "publication": "recent ship reconfigurations",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=cNOR3PBCgTQ",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: recent ship reconfigurations"
+      }
+    ],
+    "secondary_sources": [],
+    "original_creators": [
+      "ATMTA / Star Atlas",
+      "Star Atlas"
+    ],
+    "attribution_chain": [
+      {
+        "from": "latest newsletter",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://medium.com/star-atlas/the-atlas-star-issue-19-2cadcc3143a3"
+      },
+      {
+        "from": "latest economic report",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://experience.staratlas.com/newsroom/economic-reports/star-atlas-economic-report-2023-q2"
+      },
+      {
+        "from": "summary of Star Atlas",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=qHyLarNpme4"
+      },
+      {
+        "from": "past week of news in Star Atlas",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=opJpPTjxKhI"
+      },
+      {
+        "from": "weekly Star Atlas live stream",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=tsF1N06L7cs"
+      },
+      {
+        "from": "replay of a Star Atlas Q&A",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=Rj2fsGtt82k"
+      },
+      {
+        "from": "Star Atlas announcements for June",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=0kkKD2SNT04"
+      },
+      {
+        "from": "Star Atlas news",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=EvLBcojpDMs"
+      },
+      {
+        "from": "Star Atlas news recap",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=4xJB6LrTcck"
+      },
+      {
+        "from": "upcoming Star Atlas REC",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://medium.com/the-hologram/everything-we-know-about-rec-so-far-1713d6dd0697"
+      },
+      {
+        "from": "comparing Star Atlas claim stakes to mining ships",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=f3X8ADyIfIo"
+      },
+      {
+        "from": "recent Atlas Brew",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=vh8MxCQrhzA"
+      },
+      {
+        "from": "partnership with Hello Moon",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://medium.com/star-atlas/star-atlas-hello-moon-solana-gaming-live-data-streaming-d6261618b03e"
+      },
+      {
+        "from": "first proposal for the Star Atlas DAO",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://medium.com/star-atlas/star-atlas-dao-foundation-pip-sustainable-governance-in-gaming-39105cc0121f"
+      },
+      {
+        "from": "news about the Star Atlas DAO",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=vz-HnfiyXF8"
+      },
+      {
+        "from": "recent ship reconfigurations",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=cNOR3PBCgTQ"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  }
+}

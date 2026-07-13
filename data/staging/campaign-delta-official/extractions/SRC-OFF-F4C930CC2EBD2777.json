@@ -1,0 +1,146 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-F4C930CC2EBD2777",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47210147563539-How-do-I-connect-my-Ledger-in-the-UE5-Game",
+    "title": "How do I connect my Ledger in the UE5 Game?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-08T20:25:36Z",
+    "updated_at": "2025-12-08T21:22:04Z",
+    "original_date_text": "2025-12-08T20:25:36Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “How do I connect my Ledger in the UE5 Game?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Great news! Ledger support is now available in the Star Atlas Unreal Engine 5 Game!In this article, we’ll show you how to connect your Ledger hardware wallet by following a few simple steps.\nStep-by-step Instructions\nStep 1: Connect and unlock your Ledger wallet\nConnect your Ledger to your computer and enter your PIN.\nStep 2: Open the Solana app on your Ledger\nOn your Ledger device, open the Solana app.\nStep 3: Import your wallet\nIf this is your first time launching the game:On the wallet connection/creation screen, click Import Wallet\nIf you already have a profile:Click your profile icon in the top-right corner of the screen, then select Link an existing wallet\nStep 4: Select the Ledger option\nClick Use a Ledger Hardware Wallet.\nStep 5: Choose your derivation path and account\nSelect a Derivation Path and your Account, then click Select Account.\nStep 6: Confirm your public key\nConfirm the public key displayed on your Ledger device.\nStep 7: Create a wallet name and password\nChoose a wallet name and a password for your local access.",
+  "content_hash": "532a2aa83ff229fa33d719d12db3db77ae26bc2169ecb81867a69ac383b81288",
+  "entities": [
+    "ATLAS",
+    "Solana"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-F4C930CC2EBD2777-01",
+      "text": "Ledger support is now available in the Star Atlas Unreal Engine 5 Game!In this article, we’ll show you how to connect your Ledger hardware wallet by following a few simple steps.",
+      "claim_type": "RELEASE_CONFIRMED",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F4C930CC2EBD2777",
+      "publication_date": "2025-12-08T20:25:36Z",
+      "confidence": "MEDIUM",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-F4C930CC2EBD2777-02",
+      "text": "Step-by-step Instructions Step 1: Connect and unlock your Ledger wallet Connect your Ledger to your computer and enter your PIN.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F4C930CC2EBD2777",
+      "publication_date": "2025-12-08T20:25:36Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F4C930CC2EBD2777-03",
+      "text": "Step 2: Open the Solana app on your Ledger On your Ledger device, open the Solana app.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F4C930CC2EBD2777",
+      "publication_date": "2025-12-08T20:25:36Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F4C930CC2EBD2777-04",
+      "text": "Step 3: Import your wallet If this is your first time launching the game:On the wallet connection/creation screen, click Import Wallet If you already have a profile:Click your profile icon in the top-right corner of the screen, then select Link an existing wallet Step 4: Select the Ledger option Click Use a Ledger Hardware Wallet.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F4C930CC2EBD2777",
+      "publication_date": "2025-12-08T20:25:36Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F4C930CC2EBD2777-05",
+      "text": "Step 5: Choose your derivation path and account Select a Derivation Path and your Account, then click Select Account.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F4C930CC2EBD2777",
+      "publication_date": "2025-12-08T20:25:36Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F4C930CC2EBD2777-06",
+      "text": "Step 6: Confirm your public key Confirm the public key displayed on your Ledger device.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F4C930CC2EBD2777",
+      "publication_date": "2025-12-08T20:25:36Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F4C930CC2EBD2777-07",
+      "text": "Step 7: Create a wallet name and password Choose a wallet name and a password for your local access.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F4C930CC2EBD2777",
+      "publication_date": "2025-12-08T20:25:36Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [
+    "Solana"
+  ],
+  "guilds": [],
+  "external_sources": [],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47210147563539-How-do-I-connect-my-Ledger-in-the-UE5-Game",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.121665Z"
+  }
+}

@@ -1,0 +1,360 @@
+{
+  "source": {
+    "source_id": "SRC-IH-DBF42AEA2CE8826E",
+    "url_id": "URL-DBF42AEA2CE8826E",
+    "url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-75/",
+    "inventory_url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-75",
+    "title": "Star Atlas Weekly News Recap #75",
+    "author": "Intergalactic Herald",
+    "publisher": "Intergalactic Herald",
+    "published_at": "2023-08-27T18:21:59",
+    "updated_at": "2023-08-27T18:22:00",
+    "retrieved_at": "2026-07-12T22:08:40.601209Z",
+    "document_type": "NEWSLETTER",
+    "source_role": "CURATED_SUMMARY",
+    "source_classification": "CURATED_SUMMARY",
+    "classification_rationale": "Weekly newsletter/recap aggregates developments and linked sources.",
+    "wordpress_type": "posts"
+  },
+  "summary": {
+    "neutral_abstract": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week. We are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us. We are launching a Star Atlas merch store. Please check it out at Intergalactic",
+    "historical_value": "Contemporary Intergalactic Herald publication preserved with role and attribution boundaries.",
+    "current_validity_warning": "Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources."
+  },
+  "article_text": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week.\nWe are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us.\nWe are launching a Star Atlas merch store. Please check it out at Intergalactic Gear.\nWe are creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic Coalition.\nSTAR ATLAS #193 SAGE LABS CRAFTING & PREPERATION\nMetaVerse Explorer posted a video with updates on Star Atlas.\nStar Atlas Chatter #10 – SAGE Labs & Exclusive Redeemable Ships!\nRahMega posted a video about Star Atlas updates from the past week.\nStar Atlas Sage Labs Crafting Tree!\nBeyond The Horizon posted a video looking at the SAGE Labs crafting tree.\nMetaverse Nomads #108 Star Atlas w/ Krigs – Guild Leader of Deep Profits\nMetaverse Nomads posted a video replay of their Star Atlas live stream.\nStar Atlas Atlas Brew #75 REMIX\nBeyond the Horizon posted a video remix of the latest Atlas Brew.\nWEEKLY STAR ATLAS NEWSLETTER #93\nAephia published their weekly Star Atlas newsletter.\nSTAR ATLAS – Fleet Building Tips and Tricks!\nAtlas Theory posted a video about fleet building ideas for Star Atlas SAGE Labs.\nAtlas Brew #76 – SAGE Labs Lore\nThe Hologram News Network posted a video reply of the latest Atlas Brew.\nThe Atlas Brew #76\nStar Atlas TV posted a video reply of the latest Atlas Brew.\nSTAR ATLAS #194 MORE 1 SHIP TURNS NEGATIVE with ONE CLOSE!\nMetaVerse Explorer posted a video with Star Atlas updates.\nStar Atlas – SHIP MASTERY Progression Path!!\nAtlas Theory posted a video about Star Atlas ship mastery.",
+  "content_hash": "0ba2c098a873104567a22e66a4112e5c4e688f97563e7bc29c91dd51dfdfc5fe",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [],
+  "external_sources": [
+    {
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=0nxEkwv4eyo",
+      "anchor_text": "updates on Star Atlas"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=bFY7HiKcB98",
+      "anchor_text": "Star Atlas updates"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ZH63nAHCWDs",
+      "anchor_text": "SAGE Labs crafting tree"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=9-HBW5f8db8",
+      "anchor_text": "Star Atlas live stream"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Q_VRm1MTkhg",
+      "anchor_text": "video remix of the latest Atlas Brew"
+    },
+    {
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-93/",
+      "anchor_text": "weekly Star Atlas newsletter"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=v9Qs7yf276U",
+      "anchor_text": "fleet building ideas"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ojgYiMh1A2A",
+      "anchor_text": "latest Atlas Brew"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=IExpdwpDSB4",
+      "anchor_text": "latest Atlas Brew"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=SM9Xh5aoEm0",
+      "anchor_text": "Star Atlas updates"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=6FMTFrFGuwo",
+      "anchor_text": "Star Atlas ship mastery"
+    }
+  ],
+  "primary_source_relationships": [
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=0nxEkwv4eyo",
+      "anchor_text": "updates on Star Atlas"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=bFY7HiKcB98",
+      "anchor_text": "Star Atlas updates"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=ZH63nAHCWDs",
+      "anchor_text": "SAGE Labs crafting tree"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=9-HBW5f8db8",
+      "anchor_text": "Star Atlas live stream"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=Q_VRm1MTkhg",
+      "anchor_text": "video remix of the latest Atlas Brew"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-93/",
+      "anchor_text": "weekly Star Atlas newsletter"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=v9Qs7yf276U",
+      "anchor_text": "fleet building ideas"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=ojgYiMh1A2A",
+      "anchor_text": "latest Atlas Brew"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=IExpdwpDSB4",
+      "anchor_text": "latest Atlas Brew"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=SM9Xh5aoEm0",
+      "anchor_text": "Star Atlas updates"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=6FMTFrFGuwo",
+      "anchor_text": "Star Atlas ship mastery"
+    }
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Verify which outbound links are primary sources and preserve creator attribution during promotion."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-75&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 6044,
+    "elapsed_ms": 4719,
+    "attempts": [
+      {
+        "endpoint": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-75&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "http_status": 200,
+        "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-75&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "content_type": "application/json; charset=UTF-8",
+        "response_size": 6044,
+        "elapsed_ms": 4719
+      }
+    ]
+  },
+  "source_lineage": {
+    "publication": "Intergalactic Herald",
+    "publication_role": "CURATED_SUMMARY",
+    "relationship": "CURATED_SUMMARY_OF",
+    "primary_sources": [
+      {
+        "publication": "updates on Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=0nxEkwv4eyo",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: updates on Star Atlas"
+      },
+      {
+        "publication": "Star Atlas updates",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=bFY7HiKcB98",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas updates"
+      },
+      {
+        "publication": "SAGE Labs crafting tree",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=ZH63nAHCWDs",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: SAGE Labs crafting tree"
+      },
+      {
+        "publication": "Star Atlas live stream",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=9-HBW5f8db8",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas live stream"
+      },
+      {
+        "publication": "video remix of the latest Atlas Brew",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=Q_VRm1MTkhg",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: video remix of the latest Atlas Brew"
+      },
+      {
+        "publication": "weekly Star Atlas newsletter",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-93/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article with anchor text: weekly Star Atlas newsletter"
+      },
+      {
+        "publication": "fleet building ideas",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=v9Qs7yf276U",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: fleet building ideas"
+      },
+      {
+        "publication": "latest Atlas Brew",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=ojgYiMh1A2A",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest Atlas Brew"
+      },
+      {
+        "publication": "latest Atlas Brew",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=IExpdwpDSB4",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest Atlas Brew"
+      },
+      {
+        "publication": "Star Atlas updates",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=SM9Xh5aoEm0",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas updates"
+      },
+      {
+        "publication": "Star Atlas ship mastery",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=6FMTFrFGuwo",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas ship mastery"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "publication": "Intergalactic Gear",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticgear.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Intergalactic Coalition",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticcoalition.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas",
+      "Aephia"
+    ],
+    "attribution_chain": [
+      {
+        "from": "updates on Star Atlas",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=0nxEkwv4eyo"
+      },
+      {
+        "from": "Star Atlas updates",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=bFY7HiKcB98"
+      },
+      {
+        "from": "SAGE Labs crafting tree",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=ZH63nAHCWDs"
+      },
+      {
+        "from": "Star Atlas live stream",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=9-HBW5f8db8"
+      },
+      {
+        "from": "video remix of the latest Atlas Brew",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=Q_VRm1MTkhg"
+      },
+      {
+        "from": "weekly Star Atlas newsletter",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-93/"
+      },
+      {
+        "from": "fleet building ideas",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=v9Qs7yf276U"
+      },
+      {
+        "from": "latest Atlas Brew",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=ojgYiMh1A2A"
+      },
+      {
+        "from": "latest Atlas Brew",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=IExpdwpDSB4"
+      },
+      {
+        "from": "Star Atlas updates",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=SM9Xh5aoEm0"
+      },
+      {
+        "from": "Star Atlas ship mastery",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=6FMTFrFGuwo"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-B55575F3CDFE67A4",
+    "url_id": "URL-B55575F3CDFE67A4",
+    "url": "https://medium.com/the-hologram/the-plant-market-of-star-atlas-655f8b7fe5c1",
+    "title": "The Plant Market of Star Atlas",
+    "author": "Oni Merchant",
+    "publisher": "The Hologram",
+    "publication_identity": "The Hologram (Medium publication)",
+    "published_at": "2023-02-01T04:17:35Z",
+    "updated_at": "2023-02-03T02:34:32Z",
+    "retrieved_at": "2026-07-13T00:14:54.777885Z",
+    "document_type": "FEATURE",
+    "source_role": "FEATURE",
+    "publication_role": "FEATURE",
+    "classification_rationale": "Publication provides feature-style background or profile coverage."
+  },
+  "source_lineage": {
+    "publication": "The Hologram (Medium publication)",
+    "publication_role": "FEATURE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [
+      {
+        "publication": "ArtStation — Star Atlas Concept Art — Flora and Fauna",
+        "author": "UNKNOWN",
+        "url": "https://www.artstation.com/artwork/nEamNe",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://staratlas.com/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [
+      "Oni Merchant"
+    ],
+    "attribution_chain": [
+      {
+        "from": "ArtStation — Star Atlas Concept Art — Flora and Fauna",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://www.artstation.com/artwork/nEamNe"
+      },
+      {
+        "from": "Star Atlas",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://staratlas.com/"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "This feature published by The Hologram on 2023-02-01 documents “The Plant Market of Star Atlas.” Its surviving text addresses governance, economy, game development, community, lore, technology. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "The Plant Market of Star Atlas\nOni Merchant4 min read·Feb 1, 2023\n--\nListen\nShare\nA call to 3D artists to create flora and fauna in the metaverse.\nThe discovery of new alien worlds was a momentous occasion for Mud, Oni, and Ustur alike. For centuries, many eager travelers set out to explore the unknown, hoping to discover secrets of the cosmos. Many planets they encountered were lush, verdant worlds, teeming with life. The plant-life was unlike anything they had ever seen before — towering trees with leaves the size of houses, and creatures that seemed to defy the laws of physics.\nPress enter or click to view image in full sizeConcept Art\nAs they explored these new worlds, a team of scientists and explorers couldn’t help but feel a sense of awe and wonder at the beauty and diversity of the life they were encountering. They knew that they had to document and preserve this new world, so they sent a transmission to 3D artists in the community to help them create realistic and detailed digital assets of the flora and fauna they were discovering.\nThe artists responded eagerly, creating stunning 3D models of the plants and animals they encountered. They used a pre-determined classification system to ensure authenticity, and included detailed descriptions, animations, rarity, lore, special traits, abilities, etc. for each asset.\nThese digital assets were then made available on a decentralized platform, where the community could view and vote on them. Some of the most popular assets would eventually be synthesized and relocated into official landscapes, providing a unique and satisfying experience for those who had created them.\nPress enter or click to view image in full sizeConcept Art\nAs the exploration of new worlds continued, the community of 3D artists began to grow and flourish, creating new and exciting digital assets for the archive. The artists were also able to monetize their work, selling NFTs of their assets on different Solana marketplaces. They even had the possibility to earn royalties through smart contracts when their assets were used on Star Atlas land claims.\nTraditional video games often fail to take plants seriously as a gameplay feature, depicting them as mere decoration or solid obstacles. There are a few games that have implemented regenerative foliage or the ability to destroy trees, and these features are often not utilized to their full potential. It would be interesting if mechanics were eventually incorporated in Star Atlas, such as reducing player speed or making rustling noises, when moving through plants. When Star Atlas has to focus less on the assets themselves, it will give them more time to come up with better gameplay.\nThe discovery of new alien worlds has expanded Galactic understanding of the universe. To all developers out there: We need a decentralized marketplace for 3D flora & fauna with a robust classification system. If accepted into the game by the Star Atlas team, assets could receive a special badge, differentiating them from the rest.\nA Plant I Hope to Sell in the Star Atlas ecosystem:\nBehold, the Crimson Coil\nName: Crimson Coil\nRarity: Secret Rare\nDescription: A poisonous Oni flower with bright red petals and a stem that resembles a coil. Its stem is incredibly valuable and is harvested for use in Oni technology. The flower emits a mesmerizing glow that attracts insects and small creatures, killing unwanted visitors not immune.\nLore: The Crimson Coil is said to have evolved on a planet with high levels of radiation, where it developed its unique abilities for survival. It’s now found on many different planets and is highly sought after for its beauty and abilities. The Oni are immune to its poisonous effects.\nSpecial Traits:\nCoil Stem: Used for advanced technology.\nMesmerizing Glow: It emits a glow that attracts creatures.\nRare Chemical: The substance secreted from its petals is rare and highly sought after.\nAbilities:\nDefense: Its stem can be used as a weapon to defend against predators.\nPress enter or click to view image in full size\nSee more of my concept art here: ArtStation — Star Atlas Concept Art — Flora and Fauna\nPress enter or click to view image in full size\nI’d like to thank FowlAC from The Hologram for the direction on this article.\nAbout the Author\nSean Layton is a writer on The Hologram News Network, an independent blockchain gaming meta-news organization devoted to the coverage of Star Atlas.\nFollow on Social Media:\nTwitter | Instagram | Web\nAbout The Hologram\nThe Hologram is Star Atlas’ first and only independent news network. Our vision is to become the most trusted source of information about Star Atlas and a voice for the whole community. Readers can expect a high standard from our reporting and staff. Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.\nThe Hologram is not endorsed or paid by the Star Atlas team. Any information published by The Hologram nor its writers should be considered as informational in nature and does not constitute any financial advice.",
+  "content_hash": "a33f5c6c32309f09859afdfe59acc2933b354a7fdb76a538e1418f828f324637",
+  "major_topics": [
+    "governance",
+    "economy",
+    "game development",
+    "community",
+    "lore",
+    "technology"
+  ],
+  "entities": [
+    "ATLAS",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-B55575F3CDFE67A4-01",
+      "text": "When Star Atlas has to focus less on the assets themselves, it will give them more time to come up with better gameplay.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-B55575F3CDFE67A4",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-B55575F3CDFE67A4-02",
+      "text": "Lore: The Crimson Coil is said to have evolved on a planet with high levels of radiation, where it developed its unique abilities for survival.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-B55575F3CDFE67A4",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-B55575F3CDFE67A4-03",
+      "text": "Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-B55575F3CDFE67A4",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Star Atlas",
+    "ATLAS"
+  ],
+  "governance_items": [
+    "Star Atlas governance / DAO"
+  ],
+  "lore_items": [
+    "MUD",
+    "ONI",
+    "Ustur"
+  ],
+  "actors": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://medium.com/@punaab?source=post_page---byline--655f8b7fe5c1---------------------------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fthe-hologram%2F655f8b7fe5c1&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fthe-plant-market-of-star-atlas-655f8b7fe5c1&user=Oni+Merchant&userId=ad2a3faef607&source=---header_actions--655f8b7fe5c1---------------------clap_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Frepost%2Fp%2F655f8b7fe5c1&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fthe-plant-market-of-star-atlas-655f8b7fe5c1&user=Oni+Merchant&userId=ad2a3faef607&source=---header_actions--655f8b7fe5c1---------------------repost_header------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F655f8b7fe5c1&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fthe-plant-market-of-star-atlas-655f8b7fe5c1&source=---header_actions--655f8b7fe5c1---------------------bookmark_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2Fplans%3Fdimension%3Dpost_audio_button%26postId%3D655f8b7fe5c1&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fthe-plant-market-of-star-atlas-655f8b7fe5c1&source=---header_actions--655f8b7fe5c1---------------------post_audio_button------------------",
+      "anchor_text": "Listen"
+    },
+    {
+      "url": "https://medium.com/u/af6a22150fa9?source=post_page---user_mention--655f8b7fe5c1---------------------------------------",
+      "anchor_text": "Solana"
+    },
+    {
+      "url": "https://medium.com/u/5ed69ff9cfb0?source=post_page---user_mention--655f8b7fe5c1---------------------------------------",
+      "anchor_text": "Star Atlas"
+    },
+    {
+      "url": "https://www.artstation.com/artwork/nEamNe",
+      "anchor_text": "ArtStation — Star Atlas Concept Art — Flora and Fauna"
+    },
+    {
+      "url": "https://medium.com/u/ab6dbce60d64?source=post_page---user_mention--655f8b7fe5c1---------------------------------------",
+      "anchor_text": "FowlAC"
+    },
+    {
+      "url": "https://medium.com/@mudpilot",
+      "anchor_text": "Sean Layton"
+    },
+    {
+      "url": "https://twitter.com/Hologram_News",
+      "anchor_text": "Twitter"
+    },
+    {
+      "url": "https://www.instagram.com/hologram_news/",
+      "anchor_text": "Instagram"
+    },
+    {
+      "url": "https://thehologram.io/",
+      "anchor_text": "Web"
+    },
+    {
+      "url": "https://medium.com/the-hologram",
+      "anchor_text": "The Hologram"
+    },
+    {
+      "url": "https://staratlas.com/",
+      "anchor_text": "Star Atlas"
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "https://medium.com/the-hologram/the-plant-market-of-star-atlas-655f8b7fe5c1",
+    "final_url": "https://medium.com/the-hologram/the-plant-market-of-star-atlas-655f8b7fe5c1",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 148529,
+    "elapsed_ms": 678,
+    "retrieval_mode": "LIVE",
+    "archive_capture": null
+  }
+}

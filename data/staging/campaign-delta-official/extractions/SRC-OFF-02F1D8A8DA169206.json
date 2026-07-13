@@ -1,0 +1,237 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-02F1D8A8DA169206",
+    "url": "https://support.staratlas.com/hc/en-us/articles/52244580822419-C4-PTR-Menu-Overview",
+    "title": "C4 PTR Menu Overview",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2026-06-02T16:45:30Z",
+    "updated_at": "2026-06-03T14:43:31Z",
+    "original_date_text": "2026-06-02T16:45:30Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “C4 PTR Menu Overview.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "The C4 PTR map gives you access to several menus that help you manage your fleets, inventory, crew, crafting jobs, scans, buildings, and galaxy view.\nThis article gives a quick overview of the main menus available from the map screen.\nTop menu bar\nThe top menu bar is visible from the main map.\nIt includes the following menus:\nMy Fleets\nInventory\nCrew\nCrafting\nScans\nBuildings\nGalaxy\nEach menu gives you a different way to view or manage your activity across the galaxy.\nMy Fleets\nThe My Fleets menu lets you select your fleets without needing to manually find them on the map.\nFrom this menu, you can click one of your fleets to select it. Once selected, you can use the fleet action bar to perform available actions.\nInventory\nThe My Inventory menu gives you an overview of your inventory across the galaxy.\nYou can use it to see where your inventory, crew, and ships are located.\nClicking a base from this menu will focus that base on the map and allow you to enter the Starbase directly.\nCrew\nThe My Crew menu shows where your crew members are stationed.\nIt shows crew assigned to fleets as well as crew located at Starbases.\nClicking a base from this menu will focus that base on the map and allow you to enter the Starbase directly.\nCrafting\nThe My Crafting Efforts menu gives you an overview of crafting jobs currently processing across the galaxy.\nCompleted crafting jobs cannot be collected from this menu.\nTo collect completed crafting jobs, you must go to the Starbase where the crafting is being processed.\nScans\nThe My Scans menu gives you an overview of fleets that are ready to scan or have already scanned and are currently on scanning cooldown.\nUse this menu to quickly check which fleets are available for scanning activity.\nBuildings\nThe My Buildings menu gives you an overview of buildings you have constructed.\nThis menu includes two tabs:\nClaim Stakes\nCrafting Habs\nGalaxy\nThe My Galaxy menu gives you an overview of systems in the galaxy.\nYou can save planets from this menu to favorite them. Favorited planets are pinned to the top of the list, making them easier to access later.\nPlayer menu\nThe player menu is located in the top-right corner of the screen.\nThis area shows your character name, current level, and several additional icons.\nFrom this area, you can access other menus such as:\nLeaderboards\nCouncil Rank\nMarketplace\nCommunity feedback and bug reporting\nNotifications\nGame and account settings\nLeaderboards\nClicking the leaderboard text near your character name opens the leaderboard menu.\nLeaderboards may not be active during the current PTR. When leaderboards are live, this is where leaderboard-specific information will be available.\nCouncil Rank\nThe Council Rank menu is where you spend skill points to unlock research nodes.\nMany actions in C4 PTR require research before you can progress deeper into a career or gameplay path.\nDuring PTR, players may be able to use God Mode to avoid basic research requirement restrictions. This node is located at the top of the Council Rank tree.\nMarketplace\nThe marketplace can be used to buy and sell resources with other players within your faction.\nThe marketplace is still early in development during PTR, so its features and behavior may change over time.\nCommunity feedback and bug reporting\nClicking the orange bug icon opens the support menu.\nFrom this menu, you can access:\nThe Knowledge Base\nThe Community Reports Dashboard\nBug reporting\nFeedback and suggestions\nFeature requests\nSupport ticket creation\nIf you encounter an issue or have feedback, use this menu so the team can review it properly.\nNotifications\nThe notifications menu works as a transaction log.\nSuccessful and failed transactions will appear there.\nIf you think a transaction failed or did not process correctly, this should be one of the first places you check.\nGame and account settings\nThe settings menu contains account and game options, including:\nAccount Settings - View wallet balances and your daily check-in streak.\nView Character Info - Deposit or withdraw ATLAS, SOL, or ZINK.\nChange Character - Create or switch between characters.\nHelp & Support - Access reporting tools and support resources.\nDisconnect Wallet - Sign your wallet out of the game.\nImport Keypair - Restore a saved PTR account using a keypair file.\nExport Keypair - Save your PTR account as a keypair file so you can import it later or use it on another device.\nCommand Settings - Adjust basic audio and visual settings.\nWhat to do next\nOnce you understand the main menus, you can start using them to manage your activity in C4 PTR.\nRecommended next steps:\nLearn how to use the C4 PTR map.\nImport your starting assets.\nCreate and manage fleets.\nSet up Claim Stakes.\nReport bugs or feedback through the support menu when needed.",
+  "content_hash": "79ca15364ecc73b0415cae14634829704e73193318f2692adae33487f5a8931e",
+  "entities": [
+    "ATLAS",
+    "C4",
+    "Claim Stakes",
+    "Crew"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-02F1D8A8DA169206-01",
+      "text": "The C4 PTR map gives you access to several menus that help you manage your fleets, inventory, crew, crafting jobs, scans, buildings, and galaxy view.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-02F1D8A8DA169206",
+      "publication_date": "2026-06-02T16:45:30Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-02F1D8A8DA169206-02",
+      "text": "This article gives a quick overview of the main menus available from the map screen.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-02F1D8A8DA169206",
+      "publication_date": "2026-06-02T16:45:30Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-02F1D8A8DA169206-03",
+      "text": "Top menu bar The top menu bar is visible from the main map.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-02F1D8A8DA169206",
+      "publication_date": "2026-06-02T16:45:30Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-02F1D8A8DA169206-04",
+      "text": "It includes the following menus: My Fleets Inventory Crew Crafting Scans Buildings Galaxy Each menu gives you a different way to view or manage your activity across the galaxy.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-02F1D8A8DA169206",
+      "publication_date": "2026-06-02T16:45:30Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-02F1D8A8DA169206-05",
+      "text": "My Fleets The My Fleets menu lets you select your fleets without needing to manually find them on the map.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-02F1D8A8DA169206",
+      "publication_date": "2026-06-02T16:45:30Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-02F1D8A8DA169206-06",
+      "text": "From this menu, you can click one of your fleets to select it.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-02F1D8A8DA169206",
+      "publication_date": "2026-06-02T16:45:30Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-02F1D8A8DA169206-07",
+      "text": "Once selected, you can use the fleet action bar to perform available actions.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-02F1D8A8DA169206",
+      "publication_date": "2026-06-02T16:45:30Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-02F1D8A8DA169206-08",
+      "text": "Inventory The My Inventory menu gives you an overview of your inventory across the galaxy.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-02F1D8A8DA169206",
+      "publication_date": "2026-06-02T16:45:30Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-02F1D8A8DA169206-09",
+      "text": "You can use it to see where your inventory, crew, and ships are located.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-02F1D8A8DA169206",
+      "publication_date": "2026-06-02T16:45:30Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-02F1D8A8DA169206-10",
+      "text": "Clicking a base from this menu will focus that base on the map and allow you to enter the Starbase directly.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-02F1D8A8DA169206",
+      "publication_date": "2026-06-02T16:45:30Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-02F1D8A8DA169206-11",
+      "text": "Crew The My Crew menu shows where your crew members are stationed.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-02F1D8A8DA169206",
+      "publication_date": "2026-06-02T16:45:30Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-02F1D8A8DA169206-12",
+      "text": "It shows crew assigned to fleets as well as crew located at Starbases.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-02F1D8A8DA169206",
+      "publication_date": "2026-06-02T16:45:30Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-02F1D8A8DA169206-13",
+      "text": "Clicking a base from this menu will focus that base on the map and allow you to enter the Starbase directly.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-02F1D8A8DA169206",
+      "publication_date": "2026-06-02T16:45:30Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-02F1D8A8DA169206-14",
+      "text": "Crafting The My Crafting Efforts menu gives you an overview of crafting jobs currently processing across the galaxy.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-02F1D8A8DA169206",
+      "publication_date": "2026-06-02T16:45:30Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-02F1D8A8DA169206-15",
+      "text": "Completed crafting jobs cannot be collected from this menu.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-02F1D8A8DA169206",
+      "publication_date": "2026-06-02T16:45:30Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "ATLAS",
+    "C4",
+    "Claim Stakes",
+    "Crew"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/52244580822419-C4-PTR-Menu-Overview",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.323813Z"
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-E061D3A6454697AB",
+    "url": "https://support.staratlas.com/hc/en-us/articles/52243005225363-How-to-Get-Started-in-C4-PTR",
+    "title": "How to Get Started in C4 PTR",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2026-06-02T16:05:16Z",
+    "updated_at": "2026-06-04T21:17:15Z",
+    "original_date_text": "2026-06-02T16:05:16Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://sage.staratlas.com/",
+        "anchor_text": "https://sage.staratlas.com"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “How to Get Started in C4 PTR.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "C4 PTR is a test environment where players can access the latest SAGE C4 experience, create a test profile, import provided PTR assets, and begin exploring the Galia Expanse.\nThis guide will walk you through the first steps needed to enter C4 PTR, create your character, and import your starting assets.\nImportant: PTR assets and wallet information are provided for testing purposes only. They are not real assets.\nStep 1: Open SAGE\nTo get started:\nOpen your web browser.\nGo to https://sage.staratlas.com.\nClick Play Game.\nRead through and accept the terms.\nClick Continue.\nStep 2: Create your C4 PTR profile\nAfter accepting the terms, you will need to create your PTR profile.\nTo create your profile:\nSelect your faction.\nSet your character name / callsign.\nMake sure the SOL balance is less than 10. The default value of 5 is enough for PTR.\nClick Create Profile.\nOnce your profile is created, you will be taken to the main map.\nStep 3: Do not worry if the map feels overwhelming\nAfter creating your profile, you will arrive on the main map of Galia.\nThe Galia Expanse can feel overwhelming at first, but you do not need to understand everything immediately. C4 PTR is meant to be explored step by step.\nIf you need help understanding the map and menus, check the C4 PTR map guide and C4 menu overview\nStep 4: Import your starting assets\nBefore you can start using your ships and resources, you need to import your assets into the game.\nIn PTR, these assets are provided to you for testing.\nTo start importing assets:\nLook for the Port of Entry in the bottom-right corner of the map.\nClick the Port of Entry.\nOpen the import interface.\nThe import process in PTR is expected to be similar to the mainnet process, although C4 PTR remains a test environment and may change over time.\nStep 5: Transfer your assets into the game\nOnce you are in the import interface:\nClick MAX on the right side of each item you want to import.\nClick Deposit next to each item.\nThe selected items will move into the manifest on the right side of the screen.\nReview the manifest.\nClick Transfer Manifest at the top of the manifest box.\nAfter the transfer is complete, your assets will be imported into your faction CSS.\nThe CSS is the only base that has a Port of Entry for import and export.\nWhat to do next\nOnce your character is created and your assets are imported, you are ready to start exploring C4 PTR.\nRecommended next steps:\nLearn how to use the C4 PTR map.\nReview the main map menus.\nCheck how to set up fleets, Claim Stakes, crafting, and other systems.\nUse the support and bug reporting tools if you encounter an issue.\nC4 PTR is a test environment, so some systems may change over time. If you find a bug or have feedback, please use the available reporting tools so the team can review it.",
+  "content_hash": "293da8838e72b925c15bc865c25ee1b35022be39303f375328e54c847d7ca1b0",
+  "entities": [
+    "C4",
+    "Claim Stakes",
+    "SAGE"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-E061D3A6454697AB-01",
+      "text": "C4 PTR is a test environment where players can access the latest SAGE C4 experience, create a test profile, import provided PTR assets, and begin exploring the Galia Expanse.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E061D3A6454697AB",
+      "publication_date": "2026-06-02T16:05:16Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E061D3A6454697AB-02",
+      "text": "This guide will walk you through the first steps needed to enter C4 PTR, create your character, and import your starting assets.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E061D3A6454697AB",
+      "publication_date": "2026-06-02T16:05:16Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E061D3A6454697AB-03",
+      "text": "Important: PTR assets and wallet information are provided for testing purposes only.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E061D3A6454697AB",
+      "publication_date": "2026-06-02T16:05:16Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E061D3A6454697AB-04",
+      "text": "Step 1: Open SAGE To get started: Open your web browser.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E061D3A6454697AB",
+      "publication_date": "2026-06-02T16:05:16Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E061D3A6454697AB-05",
+      "text": "Step 2: Create your C4 PTR profile After accepting the terms, you will need to create your PTR profile.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E061D3A6454697AB",
+      "publication_date": "2026-06-02T16:05:16Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E061D3A6454697AB-06",
+      "text": "Once your profile is created, you will be taken to the main map.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E061D3A6454697AB",
+      "publication_date": "2026-06-02T16:05:16Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E061D3A6454697AB-07",
+      "text": "Step 3: Do not worry if the map feels overwhelming After creating your profile, you will arrive on the main map of Galia.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E061D3A6454697AB",
+      "publication_date": "2026-06-02T16:05:16Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E061D3A6454697AB-08",
+      "text": "The Galia Expanse can feel overwhelming at first, but you do not need to understand everything immediately.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E061D3A6454697AB",
+      "publication_date": "2026-06-02T16:05:16Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E061D3A6454697AB-09",
+      "text": "If you need help understanding the map and menus, check the C4 PTR map guide and C4 menu overview Step 4: Import your starting assets Before you can start using your ships and resources, you need to import your assets into the game.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E061D3A6454697AB",
+      "publication_date": "2026-06-02T16:05:16Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E061D3A6454697AB-10",
+      "text": "In PTR, these assets are provided to you for testing.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E061D3A6454697AB",
+      "publication_date": "2026-06-02T16:05:16Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E061D3A6454697AB-11",
+      "text": "To start importing assets: Look for the Port of Entry in the bottom-right corner of the map.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E061D3A6454697AB",
+      "publication_date": "2026-06-02T16:05:16Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E061D3A6454697AB-12",
+      "text": "The import process in PTR is expected to be similar to the mainnet process, although C4 PTR remains a test environment and may change over time.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E061D3A6454697AB",
+      "publication_date": "2026-06-02T16:05:16Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E061D3A6454697AB-13",
+      "text": "Step 5: Transfer your assets into the game Once you are in the import interface: Click MAX on the right side of each item you want to import.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E061D3A6454697AB",
+      "publication_date": "2026-06-02T16:05:16Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E061D3A6454697AB-14",
+      "text": "The selected items will move into the manifest on the right side of the screen.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E061D3A6454697AB",
+      "publication_date": "2026-06-02T16:05:16Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E061D3A6454697AB-15",
+      "text": "Click Transfer Manifest at the top of the manifest box.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E061D3A6454697AB",
+      "publication_date": "2026-06-02T16:05:16Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "SAGE",
+    "C4",
+    "Claim Stakes"
+  ],
+  "governance_items": [],
+  "lore_items": [
+    "Galia"
+  ],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://sage.staratlas.com/",
+      "anchor_text": "https://sage.staratlas.com"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/52243941755923",
+      "anchor_text": "C4 PTR map guide"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/52244580822419",
+      "anchor_text": "C4 menu overview"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/52251721868563",
+      "anchor_text": "set up fleets"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/52247034465939",
+      "anchor_text": "Claim Stakes"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/52250104058131",
+      "anchor_text": "support and bug reporting tools"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://sage.staratlas.com/",
+      "anchor_text": "https://sage.staratlas.com"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/52243941755923",
+      "anchor_text": "C4 PTR map guide"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/52244580822419",
+      "anchor_text": "C4 menu overview"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/52251721868563",
+      "anchor_text": "set up fleets"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/52247034465939",
+      "anchor_text": "Claim Stakes"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/52250104058131",
+      "anchor_text": "support and bug reporting tools"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/52243005225363-How-to-Get-Started-in-C4-PTR",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.118223Z"
+  }
+}

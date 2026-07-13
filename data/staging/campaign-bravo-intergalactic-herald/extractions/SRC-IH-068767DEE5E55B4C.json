@@ -1,0 +1,273 @@
+{
+  "source": {
+    "source_id": "SRC-IH-068767DEE5E55B4C",
+    "url_id": "URL-068767DEE5E55B4C",
+    "url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-131/",
+    "inventory_url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-131",
+    "title": "Star Atlas Weekly News Recap #131",
+    "author": "Intergalactic Herald",
+    "publisher": "Intergalactic Herald",
+    "published_at": "2024-09-22T17:00:00",
+    "updated_at": "2024-09-20T21:12:45",
+    "retrieved_at": "2026-07-12T22:00:32.630210Z",
+    "document_type": "NEWSLETTER",
+    "source_role": "CURATED_SUMMARY",
+    "source_classification": "CURATED_SUMMARY",
+    "classification_rationale": "Weekly newsletter/recap aggregates developments and linked sources.",
+    "wordpress_type": "posts"
+  },
+  "summary": {
+    "neutral_abstract": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week. We are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us. We are launching a Star Atlas merch store. Please check it out at Intergalactic",
+    "historical_value": "Contemporary Intergalactic Herald publication preserved with role and attribution boundaries.",
+    "current_validity_warning": "Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources."
+  },
+  "article_text": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week.\nWe are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us.\nWe are launching a Star Atlas merch store. Please check it out at Intergalactic Gear.\nWe are creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic Coalition.\nIf you would like to support our efforts, donations can be sent to intergalacticherald.sol\nSTAR ATLAS #252 USE CREW IN SAGE, IMPACT SUMMIT!\nMetaVerse Explorer posted a video of Star Atlas updates.\nStar Atlas: SAGE Starbased Tutorial Part One (2024)\nBeyond the Horizon posted a video tutorial of how to play SAGE Starbased.\nStar Atlas: SAGE Starbased Tutorial Part Two (2024)\nBeyond the Horizon posted the second part of his SAGE Starbased tutorial.\nMetaverse Nomads #164 Star Atlas DAO Council Election\nMetaverse Nomads posted their weekly Star Atlas livestream.\nWeekly Star Atlas Newsletter #147\nAephia published their weekly Star Atlas newsletter.\nOur 200th Star Atlas Episode!!!\nBeyond the Horizon posted his 200th Star Atlas video.\nStar Atlas: Deposit Crew into SAGE\nOCG Thor posted a video of how to deposit crew into SAGE.",
+  "content_hash": "2953c27d66c0bc1f7cd782350a2d9c8ec8790d663f17dc0013c4f0673fbe9c11",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [
+    "2024"
+  ],
+  "external_sources": [
+    {
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=HKRHHjdJSTI",
+      "anchor_text": "Star Atlas updates"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=SnfuA1WdxHc",
+      "anchor_text": "how to play SAGE Starbased"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=SA-hyIr0pfA",
+      "anchor_text": "SAGE Starbased tutorial"
+    },
+    {
+      "url": "https://www.youtube.com/live/bfiUtPRpFNY",
+      "anchor_text": "weekly Star Atlas livestream"
+    },
+    {
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-147/",
+      "anchor_text": "weekly Star Atlas newsletter."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=8aCusERm1dE",
+      "anchor_text": "200th Star Atlas video"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=k74CWYBzE4I",
+      "anchor_text": "deposit crew into SAGE"
+    }
+  ],
+  "primary_source_relationships": [
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=HKRHHjdJSTI",
+      "anchor_text": "Star Atlas updates"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=SnfuA1WdxHc",
+      "anchor_text": "how to play SAGE Starbased"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=SA-hyIr0pfA",
+      "anchor_text": "SAGE Starbased tutorial"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/live/bfiUtPRpFNY",
+      "anchor_text": "weekly Star Atlas livestream"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-147/",
+      "anchor_text": "weekly Star Atlas newsletter."
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=8aCusERm1dE",
+      "anchor_text": "200th Star Atlas video"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=k74CWYBzE4I",
+      "anchor_text": "deposit crew into SAGE"
+    }
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Verify which outbound links are primary sources and preserve creator attribution during promotion."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-131&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 4552,
+    "elapsed_ms": 1852,
+    "attempts": [
+      {
+        "endpoint": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-131&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "http_status": 200,
+        "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-131&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "content_type": "application/json; charset=UTF-8",
+        "response_size": 4552,
+        "elapsed_ms": 1852
+      }
+    ]
+  },
+  "source_lineage": {
+    "publication": "Intergalactic Herald",
+    "publication_role": "CURATED_SUMMARY",
+    "relationship": "CURATED_SUMMARY_OF",
+    "primary_sources": [
+      {
+        "publication": "Star Atlas updates",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=HKRHHjdJSTI",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas updates"
+      },
+      {
+        "publication": "how to play SAGE Starbased",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=SnfuA1WdxHc",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: how to play SAGE Starbased"
+      },
+      {
+        "publication": "SAGE Starbased tutorial",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=SA-hyIr0pfA",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: SAGE Starbased tutorial"
+      },
+      {
+        "publication": "weekly Star Atlas livestream",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/live/bfiUtPRpFNY",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: weekly Star Atlas livestream"
+      },
+      {
+        "publication": "weekly Star Atlas newsletter.",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-147/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article with anchor text: weekly Star Atlas newsletter."
+      },
+      {
+        "publication": "200th Star Atlas video",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=8aCusERm1dE",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: 200th Star Atlas video"
+      },
+      {
+        "publication": "deposit crew into SAGE",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=k74CWYBzE4I",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: deposit crew into SAGE"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "publication": "Intergalactic Gear",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticgear.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Intergalactic Coalition",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticcoalition.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      }
+    ],
+    "original_creators": [
+      "Aephia"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Star Atlas updates",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=HKRHHjdJSTI"
+      },
+      {
+        "from": "how to play SAGE Starbased",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=SnfuA1WdxHc"
+      },
+      {
+        "from": "SAGE Starbased tutorial",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=SA-hyIr0pfA"
+      },
+      {
+        "from": "weekly Star Atlas livestream",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/live/bfiUtPRpFNY"
+      },
+      {
+        "from": "weekly Star Atlas newsletter.",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-147/"
+      },
+      {
+        "from": "200th Star Atlas video",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=8aCusERm1dE"
+      },
+      {
+        "from": "deposit crew into SAGE",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=k74CWYBzE4I"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  }
+}

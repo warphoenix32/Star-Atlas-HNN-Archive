@@ -1,0 +1,123 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-276913D514D4F26A",
+    "url": "https://build.staratlas.com/dev-resources/apis-and-data/claim-stakes",
+    "title": "Star Atlas Build",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Build / ATMTA",
+    "published_at": null,
+    "updated_at": "2026-04-16T16:32:35.000Z",
+    "original_date_text": "2026-04-16T16:32:35.000Z",
+    "document_type": "TECHNICAL_DOCUMENTATION",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Build / ATMTA",
+    "publication_role": "TECHNICAL_DOCUMENTATION",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://www.npmjs.com/package/@staratlas/claim-stake",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://staratlasmeta.github.io/star-atlas-programs/claim-stake",
+        "anchor_text": ""
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Build / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official technical documentation titled “Star Atlas Build.” This record preserves what Star Atlas Build / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Claim Stakes | Star Atlas Build\nSkip to contentStar Atlas BuildSearchK\nAppearance\nMenuReturn to top\nClaim Stakes ​\nIntroduction ​\nFull TypeScript bindings for interacting with the Claim Stake program\n@staratlas/claim-stake\nwill help you:\nPackage\nDescription\nVersion\nDocs\n@staratlas/claim-stake\nTypeScript bindings for the claim-stake program\nInstallation ​\nReference: https://www.npmjs.com/package/@staratlas/claim-stake\nbash\nnpm i @staratlas/claim-stakes\nExamples ​\nComing Soon...",
+  "content_hash": "3b6961918ab2f35058458171e52e8d4e67310656d76b773b459ecf3bddf849aa",
+  "entities": [
+    "ATLAS",
+    "Claim Stakes"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-276913D514D4F26A-01",
+      "text": "Claim Stakes | Star Atlas Build Skip to contentStar Atlas BuildSearchK Appearance MenuReturn to top Claim Stakes ​ Introduction ​ Full TypeScript bindings for interacting with the Claim Stake program @staratlas/claim-stake will help you: Package Description Version Docs @staratlas/claim-stake TypeScript bindings for the claim-stake program Installation ​ Reference: https://www.npmjs.com/package/@staratlas/claim-stake bash npm i @staratlas/claim-stakes Examples ​ Coming Soon...",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-276913D514D4F26A",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "ATLAS",
+    "Claim Stakes"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/claim-stakes",
+      "anchor_text": "Skip to content"
+    },
+    {
+      "url": "https://build.staratlas.com/",
+      "anchor_text": "Star Atlas Build"
+    },
+    {
+      "url": "https://discord.com/invite/staratlas",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://www.npmjs.com/package/@staratlas/claim-stake",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://staratlasmeta.github.io/star-atlas-programs/claim-stake",
+      "anchor_text": ""
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/claim-stakes",
+      "anchor_text": "Skip to content"
+    },
+    {
+      "url": "https://build.staratlas.com/",
+      "anchor_text": "Star Atlas Build"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://build.staratlas.com/dev-resources/apis-and-data/claim-stakes",
+    "final_url": "https://build.staratlas.com/dev-resources/apis-and-data/claim-stakes",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 33432,
+    "retrieved_at": "2026-07-13T01:04:25.537314Z",
+    "elapsed_ms": 242
+  }
+}

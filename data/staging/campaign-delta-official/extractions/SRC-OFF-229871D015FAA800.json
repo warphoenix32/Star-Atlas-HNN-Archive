@@ -1,0 +1,177 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-229871D015FAA800",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47061469156883-How-do-I-join-the-Star-Atlas-community",
+    "title": "How do I join the Star Atlas community?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-03T17:01:54Z",
+    "updated_at": "2025-12-08T18:23:25Z",
+    "original_date_text": "2025-12-03T17:01:54Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://discord.gg/staratlas",
+        "anchor_text": "Discord"
+      },
+      {
+        "url": "https://www.youtube.com/channel/UCt-y8Npwje5KDG5MSZ0a9Jw",
+        "anchor_text": "YouTube"
+      },
+      {
+        "url": "https://www.instagram.com/staratlasgame/",
+        "anchor_text": "Instagram"
+      },
+      {
+        "url": "https://www.reddit.com/r/StarAtlas/",
+        "anchor_text": "Reddit"
+      },
+      {
+        "url": "https://www.facebook.com/StarAtlasMMO",
+        "anchor_text": "Facebook"
+      },
+      {
+        "url": "https://www.linkedin.com/company/star-atlas",
+        "anchor_text": "LinkedIn"
+      },
+      {
+        "url": "https://www.twitch.tv/staratlasgame",
+        "anchor_text": "Twitch"
+      },
+      {
+        "url": "https://www.tiktok.com/@staratlasmetaverse",
+        "anchor_text": "Tik Tok"
+      },
+      {
+        "url": "https://t.me/staratlasgame",
+        "anchor_text": "Telegram"
+      },
+      {
+        "url": "https://audius.co/staratlasbeats",
+        "anchor_text": "Audius"
+      },
+      {
+        "url": "https://medium.com/star-atlas",
+        "anchor_text": "Medium"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “How do I join the Star Atlas community?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "The Star Atlas Discord server is the best place to connect with other players, ask questions, get help, and stay up to date with all the latest game news\nYou can also follow Star Atlas on a variety of official social media platforms:\nOfficial Star Atlas Accounts & Channels\nTwitter | Discord | YouTube | Instagram | Reddit | Facebook | LinkedIn | Twitch | Tik Tok | Telegram | Audius | Medium",
+  "content_hash": "6df15b8dbc88fd8b8190ddd675320871b366e985da29f345adc2db877f6cef25",
+  "entities": [
+    "ATLAS"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-229871D015FAA800-01",
+      "text": "The Star Atlas Discord server is the best place to connect with other players, ask questions, get help, and stay up to date with all the latest game news You can also follow Star Atlas on a variety of official social media platforms: Official Star Atlas Accounts & Channels Twitter | Discord | YouTube | Instagram | Reddit | Facebook | LinkedIn | Twitch | Tik Tok | Telegram | Audius | Medium",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-229871D015FAA800",
+      "publication_date": "2025-12-03T17:01:54Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://discord.com/invite/staratlas",
+      "anchor_text": "Star Atlas Discord server"
+    },
+    {
+      "url": "https://twitter.com/staratlas",
+      "anchor_text": "Twitter"
+    },
+    {
+      "url": "https://discord.gg/staratlas",
+      "anchor_text": "Discord"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCt-y8Npwje5KDG5MSZ0a9Jw",
+      "anchor_text": "YouTube"
+    },
+    {
+      "url": "https://www.instagram.com/staratlasgame/",
+      "anchor_text": "Instagram"
+    },
+    {
+      "url": "https://www.reddit.com/r/StarAtlas/",
+      "anchor_text": "Reddit"
+    },
+    {
+      "url": "https://www.facebook.com/StarAtlasMMO",
+      "anchor_text": "Facebook"
+    },
+    {
+      "url": "https://www.linkedin.com/company/star-atlas",
+      "anchor_text": "LinkedIn"
+    },
+    {
+      "url": "https://www.twitch.tv/staratlasgame",
+      "anchor_text": "Twitch"
+    },
+    {
+      "url": "https://www.tiktok.com/@staratlasmetaverse",
+      "anchor_text": "Tik Tok"
+    },
+    {
+      "url": "https://t.me/staratlasgame",
+      "anchor_text": "Telegram"
+    },
+    {
+      "url": "https://audius.co/staratlasbeats",
+      "anchor_text": "Audius"
+    },
+    {
+      "url": "https://medium.com/star-atlas",
+      "anchor_text": "Medium"
+    }
+  ],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47061469156883-How-do-I-join-the-Star-Atlas-community",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.178365Z"
+  }
+}

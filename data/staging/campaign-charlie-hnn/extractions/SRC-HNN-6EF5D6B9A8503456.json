@@ -1,0 +1,245 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-6EF5D6B9A8503456",
+    "url_id": "URL-6EF5D6B9A8503456",
+    "url": "https://medium.com/the-hologram/star-atlas-sage-labs-sneak-peak-2a3f7753e630",
+    "title": "Star Atlas SAGE Labs Sneak Peak",
+    "author": "Krigs",
+    "publisher": "The Hologram",
+    "publication_identity": "The Hologram (Medium publication)",
+    "published_at": "2023-08-12T04:14:44Z",
+    "updated_at": "2023-08-13T03:58:15Z",
+    "retrieved_at": "2026-07-13T00:08:16.227446Z",
+    "document_type": "EVENT_COVERAGE",
+    "source_role": "EVENT_COVERAGE",
+    "publication_role": "EVENT_COVERAGE",
+    "classification_rationale": "Publication documents or recaps a named event."
+  },
+  "source_lineage": {
+    "publication": "The Hologram (Medium publication)",
+    "publication_role": "EVENT_COVERAGE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Krigs"
+    ],
+    "attribution_chain": [],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "This event coverage published by The Hologram on 2023-08-12 documents “Star Atlas SAGE Labs Sneak Peak.” Its surviving text addresses economy, game development, community, lore, technology. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "Star Atlas\nStar Atlas SAGE Labs Sneak Peak\nKrigs7 min read·Aug 12, 2023\n--\nListen\nShare\nIn this article, we recap the latest updates from Star Atlas, specifically gameplay updates on SAGE Labs Mining, Crafting, Scanning and more. Sneak peaks at the SAGE map, resources, and over $1 million in prizes to come!\nPress enter or click to view image in full sizeSAGE Labs — ATMTA Inc\nSage LABS\nThis past Wednesday, the Star Atlas Brew Boys Santi, Dominic, and Jose sat down with Head of Economy Chris Smith and CEO Michael Wagner to discuss “What is Sage LABS?” and to give a little sneak peak at the mechanics behind the upcoming 2D lite game.\nTo kick things off, Chris described SAGE Labs as a limited UI version of Star Atlas Starbased, in essence, an extraction and crafting game.\nWhat Economic features are going to be in SAGE Labs?\nPer the Chris and6 team, players will have access to Central Space Stations and Faction Starbases at which they will be able compile fleets for adventures out onto the SAGE Labs Map.\nIn SAGE Labs, fleets will generally perform functions of crafting, scanning, or mining.\nCrafting is conducted at either a Central Space Station or Starbase.51 different systems in SAGE Labs.\nScanning can be done in any one of the 51 star sectors of the map. Fleets will scan for Survey Data Units (SDUs). More on that later!\nLastly, Mining will be conducted at asteroid fields within star sectors. Note that not every star sector will have an asteroid field.\nSpeaking of the SAGE Labs map, here’s a sneak preview of the map and user interface.\nPress enter or click to view image in full sizeSource: ATMTA Inc\nAs you can see from the map, there are 36 Sectors for the Medium Risk Zone with an additional 15 sectors for the three Faction Zones.\nMining and Travel\nIn order to extract the valuable materials needed to craft in SAGE Labs, fleets will need to leave the safety of their star bases to discover asteroids in space.\nPlayers must use good planning when traveling out of a star base as traveling will consume varying levels of fuel and food in transit. However, with risk comes reward. The farther you get away from star base, the better materials you will find in terms of quantity and rarity. (Note that in In SAGE labs, only fuel, food, and ammo will be used. Toolkits will not be used since there are no combat loops.)\nHowever, should a player fail to plan properly and run out of fuel, the costs could potentially be significant. If a fleet runs out of fuel, players will need to pay an ATLAS fee to “respawn” at a star base (Don’t worry, ships aren’t destroyed in SAGE Labs).\nBut that’s not all! Any loot or resources collected by that fleet will also be dropped from the fleet’s inventory and lost. Plan accordingly!\nMining at an Asteroid\nMining is a relatively simple activity in SAGE Labs. Once you find an asteroid, players will be able choose to mine what available resources an asteroid has.\nThe team has mentioned several times that there will only be 9 of the raw resources available in SAGE Labs to start.\nPress enter or click to view image in full size\nThese resources are:\nCopper\nIron\nArco\nRochinol\nDiamond\nLumanite\nHydrogen\nCarbon\nBiomass\nMining consumes ammo and food at fixed rates and gathers at fixed rates, all calculated based on the ships that you are using to mine. Some ships, like mining ships and bombing ships are more efficient at mining.\nAdditionally, players can be selective as to how they spend their time mining. Cargo capacity will dictate how much a player can haul back to a station, but that doesn't mean a fleet has to fill up its cargo with one asset. Players will have the ability to interrupt the mining processes to change what is being mined.\nOnce a fleet’s cargo hold is full, it’s time to head back to a star base to craft or sell your goods!\nCrafting\nCrafting is, and will be, one of the more complex systems in SAGE Labs and the future robust SAGE version. Even in this first iteration, there are multiple recipes to craft with a 3 layer deep crafting system. In future updates, crafting can have closer to 10 layers before reaching a final product.\nDuring the Atlas Brews, Chris revealed some of the items that will be craftable in SAGE Labs in addition to the standard R4 of Fuel, Ammo, Toolkits, and Food.\nSuch items like radiation absorbers, frameworks, crystal lattice, particle accelerators are but a few of the items available.\nChris also noted that each crafting recipe has a hidden associated value number assigned to it that helps keep the recipes balanced across gameplay.\nCrafting will also have a small ATLAS fee cost as an economic sink.\nCrafting Mechanic\nDuring the discussion on Crafting, Michael Wagner went through an explanation of how Crafting will work in SAGE. In the process, they revealed that the conversion of Biomass into Food is a 1:1 ratio. They also revealed that the time to complete a single Food craft is 1 second.\nWagner also revealed that the speed of a crafting job is affected by the number of crew assigned to a job.\nFor example — 100 Food takes 100 total work seconds. A single crew assigned to the job would take 100 seconds to complete the order. However, if 100 crew were assigned to the job, the order would be completed in 1 second.\n(Crafted Item Quantity / Assigned Crew) x Base Item Craft Time = Total Job Craft Time\nNote that crafting mechanics could be subject to change in the future.\nScanning and SDUs\nDuring the Atlas Brew, it was shared that there would be a scanning function in SAGE Labs similar to Escape Velocity. Like in EV, players will perform scan functions in search of loot — however, this loot now comes in the form of Survey Data Units or SDUs.\nBut what are SDUS?\nFirst, lets take a quick look at why SDUs were included and implemented. According to Chris, SDUs were conceived as a way to create gameplay balance and mechanics that were accessible to players with smaller fleets. Knowing that players with large mining fleets would eventually dominate the Mining and Crafting game, SDUs are an attempt at creating equity at the lower player levels.\nSDUs are important because they are required to craft Golden Tickets and are required to redeem items from the SAGE Labs loot table.\nHow to get SDUs\nAs previously mentioned, SDUs can be found by scanning sectors of the map. There are some key things to know about your chances on finding these unique items.\nPlayers have a 25% of finding SDUs on a scan attempt if an SDU has not been found within that sector within the previous 2 minutes.\nIf a scan is successful, a number of SDUs will be rewarded based on the number and size of Ships used to scan. 1 XX-Small ship yields 1 SDU. 1 X-Small ship yields 2 SDUs. The number of SDUs discovered by Ship size increases linearly.\nSDU loot spawns have a cap of 10. This is the gating mechanism that limits large fleet owners from massing SDUs.\nWhat are SDUs For?\nSDUs are used in three ways.\nCan be traded/sold on the Galactic Market to other players\nUsed in the redemption process when claiming SAGE Labs Loot in exchange for crafted items.\nUsed in the process of crafting Golden Tickets\nAs you can see, SDUs have multiple purposes and will likely be quite valuable in game.\nGolden Tickets and 1.2Mil Giveaway\nTo create a full cycle economic loop for SAGE Labs, the team has implemented a 8-week prize raffle equating to a total of $1.2 million dollars.\nEvery week for 8 weeks, $150K worth of prizes will be given away to random winners using the Golden Ticket raffle.\nTo enter, players will need to obtain a Golden Ticket, either through crafting or purchase from other players, and enter it into a weekly contest.\nPlayers can enter a weekly prize pool using multiple golden tickets. However, its very important to note that Golden Tickets are used upon entry and do not carry over from week to week.\nEach week, multiple prizes will be drawn from that weeks pool of entered Golden Tickets.\nOther SAGE Labs Notables\nPay Solana Fees in Atlas\nPlayers will have the option to pay their in game Solana transaction fees using ATLAS.\nStar Atlas has developed a revolutionary system by which they now act as in intermediary for the payment of the transaction fee, essentially paying SOL to the network while collecting ATLAS in return from the player.\nReferral System\nThe team also touched upon the newly revamped player referral system\nThe nws system is now Web 3 based. Any referred player that makes a a primary purchase on the marketplace, 25% of that value is granted to the referring player.\nIf a referred player makes a secondary market purchase, 25% of the net fees collected goes to the referring player.\nEvery $500 a referee spends in the galactic marketplace will earn the referring player a golden ticket.\n*BONUS* Pearce X4 UE5 Skin Update Photos\nThe team also released a new look at Unreal Engine 5 development of the limited Pearce X4 skins.\nPress enter or click to view image in full sizePress enter or click to view image in full sizePearce X4 Blue Tigu and Nanobyte SkinsPress enter or click to view image in full sizePress enter or click to view image in full sizePearce X4 Suntiger and RedX-IV Skins",
+  "content_hash": "ef37099774525ccc2dd4356a9cef8ac1e1b544ed4291599b38c70109e6e7d107",
+  "major_topics": [
+    "economy",
+    "game development",
+    "community",
+    "lore",
+    "technology"
+  ],
+  "entities": [
+    "ATLAS",
+    "Escape Velocity",
+    "Krigs",
+    "Michael Wagner",
+    "SAGE",
+    "SAGE Labs",
+    "Santi",
+    "Star Atlas",
+    "Starbased"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-6EF5D6B9A8503456-01",
+      "text": "Per the Chris and6 team, players will have access to Central Space Stations and Faction Starbases at which they will be able compile fleets for adventures out onto the SAGE Labs Map.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-6EF5D6B9A8503456",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-6EF5D6B9A8503456-02",
+      "text": "In SAGE Labs, fleets will generally perform functions of crafting, scanning, or mining.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-6EF5D6B9A8503456",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-6EF5D6B9A8503456-03",
+      "text": "Lastly, Mining will be conducted at asteroid fields within star sectors.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-6EF5D6B9A8503456",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-6EF5D6B9A8503456-04",
+      "text": "Note that not every star sector will have an asteroid field.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-6EF5D6B9A8503456",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-6EF5D6B9A8503456-05",
+      "text": "Mining and Travel In order to extract the valuable materials needed to craft in SAGE Labs, fleets will need to leave the safety of their star bases to discover asteroids in space.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-6EF5D6B9A8503456",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-6EF5D6B9A8503456-06",
+      "text": "Players must use good planning when traveling out of a star base as traveling will consume varying levels of fuel and food in transit.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-6EF5D6B9A8503456",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-6EF5D6B9A8503456-07",
+      "text": "The farther you get away from star base, the better materials you will find in terms of quantity and rarity.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-6EF5D6B9A8503456",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-6EF5D6B9A8503456-08",
+      "text": "(Note that in In SAGE labs, only fuel, food, and ammo will be used.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-6EF5D6B9A8503456",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-6EF5D6B9A8503456-09",
+      "text": "Toolkits will not be used since there are no combat loops.) However, should a player fail to plan properly and run out of fuel, the costs could potentially be significant.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-6EF5D6B9A8503456",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-6EF5D6B9A8503456-10",
+      "text": "If a fleet runs out of fuel, players will need to pay an ATLAS fee to “respawn” at a star base (Don’t worry, ships aren’t destroyed in SAGE Labs).",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-6EF5D6B9A8503456",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-6EF5D6B9A8503456-11",
+      "text": "Any loot or resources collected by that fleet will also be dropped from the fleet’s inventory and lost.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-6EF5D6B9A8503456",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-6EF5D6B9A8503456-12",
+      "text": "Once you find an asteroid, players will be able choose to mine what available resources an asteroid has.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-6EF5D6B9A8503456",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "SAGE",
+    "SAGE Labs",
+    "Star Atlas",
+    "Escape Velocity",
+    "Starbased",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [
+    "Michael Wagner",
+    "Krigs",
+    "Santi"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://medium.com/@krigsfoniks?source=post_page---byline--2a3f7753e630---------------------------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fthe-hologram%2F2a3f7753e630&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fstar-atlas-sage-labs-sneak-peak-2a3f7753e630&user=Krigs&userId=41e0c5b141f1&source=---header_actions--2a3f7753e630---------------------clap_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Frepost%2Fp%2F2a3f7753e630&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fstar-atlas-sage-labs-sneak-peak-2a3f7753e630&user=Krigs&userId=41e0c5b141f1&source=---header_actions--2a3f7753e630---------------------repost_header------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F2a3f7753e630&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fstar-atlas-sage-labs-sneak-peak-2a3f7753e630&source=---header_actions--2a3f7753e630---------------------bookmark_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2Fplans%3Fdimension%3Dpost_audio_button%26postId%3D2a3f7753e630&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fstar-atlas-sage-labs-sneak-peak-2a3f7753e630&source=---header_actions--2a3f7753e630---------------------post_audio_button------------------",
+      "anchor_text": "Listen"
+    },
+    {
+      "url": "https://medium.com/u/5ed69ff9cfb0?source=post_page---user_mention--2a3f7753e630---------------------------------------",
+      "anchor_text": "Star Atlas"
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "No explicit primary source was identifiable from preserved outbound links."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://medium.com/the-hologram/star-atlas-sage-labs-sneak-peak-2a3f7753e630",
+    "final_url": "https://medium.com/the-hologram/star-atlas-sage-labs-sneak-peak-2a3f7753e630",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 183730,
+    "elapsed_ms": 686,
+    "retrieval_mode": "LIVE",
+    "archive_capture": null
+  }
+}

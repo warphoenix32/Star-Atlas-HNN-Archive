@@ -1,0 +1,106 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-4F78671802CD2C44",
+    "url": "https://build.staratlas.com/dev-resources/apis-and-data/galaxy-api/tokens",
+    "title": "Star Atlas Build",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Build / ATMTA",
+    "published_at": null,
+    "updated_at": "2026-04-16T16:32:35.000Z",
+    "original_date_text": "2026-04-16T16:32:35.000Z",
+    "document_type": "TECHNICAL_DOCUMENTATION",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Build / ATMTA",
+    "publication_role": "TECHNICAL_DOCUMENTATION",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Star Atlas Build / ATMTA"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official technical documentation titled “Star Atlas Build.” This record preserves what Star Atlas Build / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Tokens | Star Atlas Build\nSkip to contentStar Atlas BuildSearchK\nAppearance\nMenuReturn to top\nTokens ​\nCirculating token supply information ​\nGET\nhttps://galaxy.staratlas.com/tokens/:token\nPath Parameters ​\nName\nType\nDescription\n:token*\nString\nOptions: atlas, polis\n200: OK ​\njavascript\n{\n\"symbol\": \"ATLAS\",\n\"mint\": \"ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx\",\n\"totalSupply\": 36000000000,\n\"circulating\": 7261703535.9892,\n\"circulatingPercentage\": 0.201714\n}",
+  "content_hash": "6a56ccc429a6780c49e15b6956a1b059e3387d7ec3342282ac48039acc530b1e",
+  "entities": [
+    "ATLAS",
+    "POLIS"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-4F78671802CD2C44-01",
+      "text": "Tokens | Star Atlas Build Skip to contentStar Atlas BuildSearchK Appearance MenuReturn to top Tokens ​ Circulating token supply information ​ GET https://galaxy.staratlas.com/tokens/:token Path Parameters ​ Name Type Description :token* String Options: atlas, polis 200: OK ​ javascript { \"symbol\": \"ATLAS\", \"mint\": \"ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx\", \"totalSupply\": 36000000000, \"circulating\": 7261703535.9892, \"circulatingPercentage\": 0.201714 }",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-4F78671802CD2C44",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "POLIS",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/galaxy-api/tokens",
+      "anchor_text": "Skip to content"
+    },
+    {
+      "url": "https://build.staratlas.com/",
+      "anchor_text": "Star Atlas Build"
+    },
+    {
+      "url": "https://discord.com/invite/staratlas",
+      "anchor_text": ""
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/galaxy-api/tokens",
+      "anchor_text": "Skip to content"
+    },
+    {
+      "url": "https://build.staratlas.com/",
+      "anchor_text": "Star Atlas Build"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://build.staratlas.com/dev-resources/apis-and-data/galaxy-api/tokens",
+    "final_url": "https://build.staratlas.com/dev-resources/apis-and-data/galaxy-api/tokens",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 34517,
+    "retrieved_at": "2026-07-13T01:04:27.880899Z",
+    "elapsed_ms": 201
+  }
+}

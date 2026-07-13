@@ -1,0 +1,163 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-3E660B0FDC1AF7CA",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47053519496083-How-to-Dock-Undock-Your-Fleet-in-Sage",
+    "title": "How to Dock/Undock Your Fleet in Sage",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-03T13:17:00Z",
+    "updated_at": "2025-12-08T18:23:54Z",
+    "original_date_text": "2025-12-03T13:17:00Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “How to Dock/Undock Your Fleet in Sage.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Docking and undocking your fleet in Starbased allows you to safely manage your assets, refuel, or prepare for your next mission.\nHow to Dock Your Fleet\nLocate Your Fleet\nYour fleets are shown at the bottom of your screen. If hidden, click “Hide/Show My Fleets Overview” on the middle right to view them.\nWarp to a Starbase (If Needed)\nIf your fleet is not already at a Starbase, warp or subwarp your fleet to your chosen Starbase location.\nSelect “Dock”\nClick on your fleet, then choose “Dock” to safely station your fleet at the Starbase.\nApprove the Transaction\nConfirm the docking transaction in your wallet.\nHow to Undock Your Fleet\nGo to Your Docked Fleet\nLocate your fleet at the Starbase where it is currently docked.\nSelect “Undock”\nClick on your fleet, then choose “Undock” to send it back into space.\nApprove the Transaction\nConfirm the undocking transaction in your wallet.",
+  "content_hash": "c8139888ec7e7c4b9ddd6ef77b1537d3ccff4f8902e24edbd3cb679a358fa545",
+  "entities": [],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-3E660B0FDC1AF7CA-01",
+      "text": "Docking and undocking your fleet in Starbased allows you to safely manage your assets, refuel, or prepare for your next mission.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-3E660B0FDC1AF7CA",
+      "publication_date": "2025-12-03T13:17:00Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-3E660B0FDC1AF7CA-02",
+      "text": "How to Dock Your Fleet Locate Your Fleet Your fleets are shown at the bottom of your screen.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-3E660B0FDC1AF7CA",
+      "publication_date": "2025-12-03T13:17:00Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-3E660B0FDC1AF7CA-03",
+      "text": "If hidden, click “Hide/Show My Fleets Overview” on the middle right to view them.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-3E660B0FDC1AF7CA",
+      "publication_date": "2025-12-03T13:17:00Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-3E660B0FDC1AF7CA-04",
+      "text": "Warp to a Starbase (If Needed) If your fleet is not already at a Starbase, warp or subwarp your fleet to your chosen Starbase location.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-3E660B0FDC1AF7CA",
+      "publication_date": "2025-12-03T13:17:00Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-3E660B0FDC1AF7CA-05",
+      "text": "Select “Dock” Click on your fleet, then choose “Dock” to safely station your fleet at the Starbase.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-3E660B0FDC1AF7CA",
+      "publication_date": "2025-12-03T13:17:00Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-3E660B0FDC1AF7CA-06",
+      "text": "Approve the Transaction Confirm the docking transaction in your wallet.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-3E660B0FDC1AF7CA",
+      "publication_date": "2025-12-03T13:17:00Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-3E660B0FDC1AF7CA-07",
+      "text": "How to Undock Your Fleet Go to Your Docked Fleet Locate your fleet at the Starbase where it is currently docked.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-3E660B0FDC1AF7CA",
+      "publication_date": "2025-12-03T13:17:00Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-3E660B0FDC1AF7CA-08",
+      "text": "Select “Undock” Click on your fleet, then choose “Undock” to send it back into space.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-3E660B0FDC1AF7CA",
+      "publication_date": "2025-12-03T13:17:00Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-3E660B0FDC1AF7CA-09",
+      "text": "Approve the Transaction Confirm the undocking transaction in your wallet.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-3E660B0FDC1AF7CA",
+      "publication_date": "2025-12-03T13:17:00Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47053519496083-How-to-Dock-Undock-Your-Fleet-in-Sage",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.248500Z"
+  }
+}

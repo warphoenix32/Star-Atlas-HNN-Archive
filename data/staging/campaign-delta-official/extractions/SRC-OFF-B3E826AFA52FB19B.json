@@ -1,0 +1,430 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-B3E826AFA52FB19B",
+    "url": "https://github.com/staratlasmeta/star-atlas-decoders#readme",
+    "title": "star-atlas-decoders README",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "staratlasmeta GitHub organization",
+    "published_at": "2025-09-23T23:31:11Z",
+    "updated_at": "2026-01-21T22:41:42Z",
+    "original_date_text": "2025-09-23T23:31:11Z",
+    "document_type": "TECHNICAL_DOCUMENTATION",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "staratlasmeta GitHub organization",
+    "publication_role": "TECHNICAL_DOCUMENTATION",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://crates.io/crates/carbon-sage-starbased-decoder",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://crates.io/crates/carbon-sage-holosim-decoder",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://crates.io/crates/carbon-atlas-staking-decoder",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://crates.io/crates/carbon-locked-voter-decoder",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://crates.io/crates/carbon-marketplace-decoder",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://crates.io/crates/carbon-atlas-fee-payer-decoder",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://crates.io/crates/carbon-cargo-decoder",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://crates.io/crates/carbon-crafting-decoder",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://crates.io/crates/carbon-crew-decoder",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://crates.io/crates/carbon-profile-vault-decoder",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://crates.io/crates/carbon-srsly-decoder",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://crates.io/crates/carbon-tcomp-decoder",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://crates.io/crates/carbon-player-profile-decoder",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://crates.io/crates/carbon-points-decoder",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://crates.io/crates/carbon-points-store-decoder",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://crates.io/crates/carbon-profile-faction-decoder",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://crates.io/crates/carbon-score-decoder",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://crates.io/crates/carbon-claim-stake-decoder",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://crates.io/crates/carbon-proxy-rewarder-decoder",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://crates.io/crates/carbon-snapshots-decoder",
+        "anchor_text": ""
+      }
+    ],
+    "original_creators": [
+      "staratlasmeta GitHub organization"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official technical documentation titled “star-atlas-decoders README.” This record preserves what staratlasmeta GitHub organization publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "# Star Atlas Decoders\n\n<p align=\"center\">\n  <a href=\"https://github.com/staratlasmeta/star-atlas-decoders/actions/workflows/ci.yml\">\n    <img src=\"https://img.shields.io/github/actions/workflow/status/staratlasmeta/star-atlas-decoders/ci.yml?logo=GitHub\" />\n  </a>\n  <a href=\"LICENSE\">\n    <img src=\"https://img.shields.io/badge/license-Apache%202.0-blue\" />\n  </a>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://crates.io/crates/carbon-sage-starbased-decoder\">\n    <img src=\"https://img.shields.io/crates/v/carbon-sage-starbased-decoder?logo=rust&label=sage-starbased\" />\n  </a>\n  <a href=\"https://crates.io/crates/carbon-sage-holosim-decoder\">\n    <img src=\"https://img.shields.io/crates/v/carbon-sage-holosim-decoder?logo=rust&label=sage-holosim\" />\n  </a>\n  <a href=\"https://crates.io/crates/carbon-atlas-staking-decoder\">\n    <img src=\"https://img.shields.io/crates/v/carbon-atlas-staking-decoder?logo=rust&label=atlas-staking\" />\n  </a>\n  <a href=\"https://crates.io/crates/carbon-locked-voter-decoder\">\n    <img src=\"https://img.shields.io/crates/v/carbon-locked-voter-decoder?logo=rust&label=locked-voter\" />\n  </a>\n  <a href=\"https://crates.io/crates/carbon-marketplace-decoder\">\n    <img src=\"https://img.shields.io/crates/v/carbon-marketplace-decoder?logo=rust&label=marketplace\" />\n  </a>\n  <a href=\"https://crates.io/crates/carbon-atlas-fee-payer-decoder\">\n    <img src=\"https://img.shields.io/crates/v/carbon-atlas-fee-payer-decoder?logo=rust&label=atlas-fee-payer\" />\n  </a>\n  <a href=\"https://crates.io/crates/carbon-cargo-decoder\">\n    <img src=\"https://img.shields.io/crates/v/carbon-cargo-decoder?logo=rust&label=cargo\" />\n  </a>\n  <a href=\"https://crates.io/crates/carbon-crafting-decoder\">\n    <img src=\"https://img.shields.io/crates/v/carbon-crafting-decoder?logo=rust&label=crafting\" />\n  </a>\n  <a href=\"https://crates.io/crates/carbon-crew-decoder\">\n    <img src=\"https://img.shields.io/crates/v/carbon-crew-decoder?logo=rust&label=crew\" />\n  </a>\n  <a href=\"https://crates.io/crates/carbon-profile-vault-decoder\">\n    <img src=\"https://img.shields.io/crates/v/carbon-profile-vault-decoder?logo=rust&label=profile-vault\" />\n  </a>\n  <a href=\"https://crates.io/crates/carbon-srsly-decoder\">\n    <img src=\"https://img.shields.io/crates/v/carbon-srsly-decoder?logo=rust&label=srsly\" />\n  </a>\n  <a href=\"https://crates.io/crates/carbon-tcomp-decoder\">\n    <img src=\"https://img.shields.io/crates/v/carbon-tcomp-decoder?logo=rust&label=tcomp\" />\n  </a>\n  <a href=\"https://crates.io/crates/carbon-player-profile-decoder\">\n    <img src=\"https://img.shields.io/crates/v/carbon-player-profile-decoder?logo=rust&label=player-profile\" />\n  </a>\n  <a href=\"https://crates.io/crates/carbon-points-decoder\">\n    <img src=\"https://img.shields.io/crates/v/carbon-points-decoder?logo=rust&label=points\" />\n  </a>\n  <a href=\"https://crates.io/crates/carbon-points-store-decoder\">\n    <img src=\"https://img.shields.io/crates/v/carbon-points-store-decoder?logo=rust&label=points-store\" />\n  </a>\n  <a href=\"https://crates.io/crates/carbon-profile-faction-decoder\">\n    <img src=\"https://img.shields.io/crates/v/carbon-profile-faction-decoder?logo=rust&label=profile-faction\" />\n  </a>\n  <a href=\"https://crates.io/crates/carbon-score-decoder\">\n    <img src=\"https://img.shields.io/crates/v/carbon-score-decoder?logo=rust&label=score\" />\n  </a>\n  <a href=\"https://crates.io/crates/carbon-claim-stake-decoder\">\n    <img src=\"https://img.shields.io/crates/v/carbon-claim-stake-decoder?logo=rust&label=claim-stake\" />\n  </a>\n  <a href=\"https://crates.io/crates/carbon-proxy-rewarder-decoder\">\n    <img src=\"https://img.shields.io/crates/v/carbon-proxy-rewarder-decoder?logo=rust&label=proxy-rewarder\" />\n  </a>\n  <a href=\"https://crates.io/crates/carbon-snapshots-decoder\">\n    <img src=\"https://img.shields.io/crates/v/carbon-snapshots-decoder?logo=rust&label=snapshots\" />\n  </a>\n</p>\n\nRust decoders for Star Atlas Solana programs, generated from IDLs using Carbon CLI with custom patches for complex account deserialization.\n\n## Overview\n\nThis project generates and maintains Rust decoders for Star Atlas programs on Solana. It uses [Carbon CLI](https://github.com/sevenlabs-hq/carbon) to generate initial decoder code from program IDLs, then applies custom patches to handle complex account structures that require manual deserialization logic.\n\n### Supported Decoders\n\n- **sage-starbased**: SAGE Starbase program (`SAGE2HAwep459SNq61LHvjxPk4pLPEJLoMETef7f7EE`)\n  - Fleet and starbase management for Star Atlas\n  - Custom patches for remaining data deserialization\n\n- **sage-holosim**: SAGE Holosim program (`SAgEeT8u14TE69JXtanGSgNkEdoPUcLabeyZD2uw8x9`)\n  - Fleet and starbase management for Star Atlas (uses local IDL)\n  - Custom patches for remaining data deserialization\n\n- **atlas-staking**: Atlas Staking program (`ATLocKpzDbTokxgvnLew3d7drZkEzLzDpzwgrgWKDbmc`)\n  - ATLAS token staking with configurable rewards and cooldown periods\n  - Minimal patches for serialization support\n\n- **locked-voter**: Locked Voter program (`Lock7kBijGCQLEFAmXcengzXKA88iDNQPriQ7TbgeyG`)\n  - POLIS governance and voting with escrow and whitelist controls\n  - Minimal patches for serialization support\n\n- **marketplace**: Galactic Marketplace program (`traderDnaR5w6Tcoi3NFm53i48FTDNbGjBSZwWXDRrg`)\n  - NFT marketplace with order books, currency management, and royalty tiers\n  - Minimal patches for serialization support\n\n- **atlas-fee-payer**: ATLAS Fee Payer program (`APR1MEny25pKupwn72oVqMH4qpDouArsX8zX4VwwfoXD`)\n  - Fee payment management for Star Atlas transactions\n  - Minimal patches for serialization support\n\n- **cargo**: Cargo program (`Cargo2VNTPPTi9c1vq1Jw5d3BWUNr18MjRtSupAghKEk`)\n  - Resource container management with dynamic stat tracking\n  - Custom patches for remaining data deserialization\n\n- **crafting**: Crafting program (`CRAFT2RPXPJWCEix4WpJST3E7NLf79GTqZUL75wngXo5`)\n  - Recipe-based item crafting with facilities and process tracking\n  - Custom patches for type-safe enum handling and remaining data deserialization\n\n- **crew**: Crew Management program (`CREWiq8qbxvo4SKkAFpVnc6t7CRQC4tAAscsNAENXgrJ`)\n  - Crew management for Star Atlas ships and operations\n  - Minimal patches for serialization support\n\n- **profile-vault**: Profile Vault program (`pv1ttom8tbyh83C1AVh6QH2naGRdVQUVt3HY1Yst5sv`)\n  - Profile vault management for Star Atlas player profiles\n  - Minimal patches for serialization support\n\n- **srsly**: Fleet Rentals (SRSLY) program (`SRSLY1fq9TJqCk1gNSE7VZL2bztvTn9wm4VR8u8jMKT`)\n  - Fleet rental contracts and automated payment processing\n  - Custom patches for numeric field handling\n\n- **tcomp**: Tensor cNFT Compressed program (`TCMPhJdwDryooaGtiocG1u3xcYbRpiJzb283XfCZsDp`)\n  - Compressed NFT marketplace for trading cNFTs\n  - Minimal patches for serialization support\n\n- **player-profile**: Player Profile program (`pprofELXjL5Kck7Jn5hCpwAL82DpTkSYBENzahVtbc9`)\n  - Player identity and role-based access control for Star Atlas\n  - Custom patches for remaining data deserialization\n\n- **points**: Points program (`Point2iBvz7j5TMVef8nEgpmz4pDr7tU7v3RjAfkQbM`)\n  - Player progression with points, levels, and token-gated unlocks\n  - Custom patches for remaining data deserialization (point category levels)\n\n- **points-store**: Points Store program (`PsToRxhEPScGt1Bxpm7zNDRzaMk31t8Aox7fyewoVse`)\n  - Token purchases and redemptions using points\n  - Custom patches for remaining data deserialization (redemption config epochs)\n\n- **profile-faction**: Profile Faction program (`pFACSRuobDmvfMKq1bAzwj27t6d2GJhSCHb1VcfnRmq`)\n  - Player faction affiliation management for Star Atlas universe\n  - Custom patches for type-safe faction handling\n\n- **score**: SCORE Fleet Staking program (`FLEET1qqzpexyaDpqb2DGsSzE2sDCizewCg9WjrA6DBW`)\n  - Legacy fleet staking system for Star Atlas ships\n  - Minimal patches for serialization support\n\n- **claim-stake**: Claim Stake program (`STAKEr4Bh8sbBMoAVmTDBRqouPzgdocVrvtjmhJhd65`)\n  - Staking and claim management for Star Atlas rewards\n  - Minimal patches for serialization support\n\n- **proxy-rewarder**: Proxy Rewarder program (`gateVwTnKyFrE8nxUUgfzoZTPKgJQZUbLsEidpG4Dp2`)\n  - Proxy-based reward distribution for locked token holders\n  - Minimal patches for serialization support\n\n- **snapshots**: Snapshots program (`snapNQkxsiqDWdbNfz8KVB7e3NPzLwtHHA6WV8kKgUc`)\n  - Historical state snapshots for escrow and locker accounts\n  - Minimal patches for serialization support\n\n## Prerequisites\n\nRun `./scripts/check-tools.sh` to verify all required tools are installed:\n\n- **Rust** (1.85+ for edition 2024)\n- **Carbon CLI**: `cargo install --git https://github.com/sevenlabs-hq/carbon.git carbon-cli`\n- **Just**: `cargo install just` or `brew install just`\n- **Git** and standard Unix tools (sed, find)\n\n## Quick Start\n\n```bash\n# Check required tools\n./scripts/check-tools.sh\n\n# Build all decoders and run CI checks\n./scripts/ci.sh\n```\n\n## Project Structure\n\n```\nstar-atlas-decoders/\n├── carbon-decoders/         # Published decoder crates\n├── dist/                    # Temporary build directory (gitignored)\n├── patches/                 # Custom patches for decoders\n├── idl/                     # Local IDL files\n├── scripts/                 # CI and utility scripts\n│   ├── ci-clean.sh          # Full CI pipeline\n│   ├── ci.sh                # GitHub CI pipeline\n│   └── check-tools.sh       # Tool verification\n├── docs/                    # Documentation\n│   ├── adding-new-decoder.md\n│   ├── patch-development-workflow.md\n│   └── readmes/             # Individual decoder READMEs\n├── tools/                   # Development tools\n│   └── decoder-explorer/    # Test decoders against live accounts\n└── justfile                 # Build automation\n```\n\n## Development Workflow\n\n### Building Decoders\n\nThe build process follows these stages:\n\n1. **Generate**: Fetch IDL and generate initial decoder code\n2. **Prepare**: Fix compilation issues (array sizes, workspace refs)\n3. **Patch**: Apply custom implementations for complex accounts\n4. **Publish**: Move to workspace and verify compilation\n\n```bash\n# Full pipeline for a decoder\njust all-sage-starbased\n\n# Individual steps\njust generate-sage-starbased   # Generate from IDL\njust build-sage-starbased      # Clean + generate + prepare\njust apply-patches-sage-starbased  # Apply custom patches\njust publish-sage-starbased    # Move to workspace\n```\n\n### Creating Custom Patches\n\nSome accounts require custom deserialization for \"remaining data\" fields or dynamic arrays not in the IDL:\n\n```bash\n# 1. Build clean decoder\njust build-sage-starbased\n\n# 2. Apply existing patches\njust apply-patches-sage-starbased\n\n# 3. Edit files in dist/sage-starbased/\ncd dist/sage-starbased\n# Make your changes\nvim src/accounts/fleet.rs\n\n# 4. Test changes\ncargo check\n\n# 5. Create patch\njust create-patch-sage-starbased my-change\n\n# 6. Publish to workspace\njust publish-sage-starbased\n```\n\nSee [docs/patch-development-workflow.md](docs/patch-development-workflow.md) for detailed instructions.\n\n### Patch Naming Convention\n\nWhen multiple patches need specific ordering, use numbered prefixes:\n- `sage-starbased-01-accounts.patch` (applied first)\n- `sage-starbased-02-instructions.patch` (applied second)\n\n## Common Commands\n\n### CI and Testing\n\n```bash\n# Run full CI pipeline\n./scripts/ci.sh\n\n# Run clippy\n# cargo clippy --all-targets --all-features -- -D warnings\n\n# Run tests\ncargo test --all\n```\n\n### Maintenance\n\n```bash\n# Clean build artifacts\njust clean-all\n\n# List available patches\njust list-patches\n```\n\n## Custom Implementations\n\nThe decoders include custom deserialization for accounts with:\n\n- **Variable-length \"remaining data\" fields**: e.g., Fleet's `fleet_state`, CargoType's `cargo_stats`, CargoPod's `cargo_contents`\n- **Dynamic arrays not in IDL**: e.g., StarbasePlayer's `ship_escrows`, Profile's `profile_keys`\n- **Complex nested structures**: Custom BorshDeserialize implementations\n\nExample accounts with custom deserialization:\n- `Fleet`: Includes `fleet_state` enum for current fleet activity\n- `StarbasePlayer`: Includes dynamic `ship_escrows` list\n- `CargoType`: Includes `cargo_stats` array (length = `stats_count`)\n- `CargoPod`: Includes `cargo_contents` array of u64 values\n\n> For detailed patch implementations, see the `patches/` directory and individual decoder READMEs in `docs/readmes/`.\n\n## Technical Details\n\n- **Rust Edition**: 2024 (requires Rust 1.85.0+)\n- **Carbon Version**: 0.12.0 (available on [crates.io](https://crates.io/crates/carbon-core))\n- **Solana SDK**: 3.x\n- **Platform**: macOS and Linux compatible\n\n## Tools\n\n### [Decoder Explorer](tools/decoder-explorer/README.md)\n\nCLI tool for testing and debugging Carbon decoders against live Solana accounts. Fetches all program accounts and analyzes decoder success rates, type distributions, and failure patterns.\n\n```bash\ncd tools/decoder-explorer\nRPC_URL=\"https://api.mainnet-beta.solana.com\" cargo run --release --features cargo\n```\n\n## Contributing\n\n1. Follow the existing patch workflow for modifications\n2. Ensure all changes pass `./scripts/ci.sh`\n3. Document any new custom deserializations\n4. Use numbered patch prefixes when order matters\n\n## License\n\nThis project is licensed under the [Apache-2.0](LICENSE) license.\n\n## Resources\n\n- [Carbon CLI Documentation](https://github.com/sevenlabs-hq/carbon)\n- [Star Atlas Build](https://build.staratlas.com/)\n",
+  "content_hash": "0e9675cb1668ebe2a8349858425ed549af019a0b4d4d99357a9ebbfb265809c2",
+  "entities": [
+    "ATLAS",
+    "CORE",
+    "Crew",
+    "Galactic Marketplace",
+    "Holosim",
+    "POLIS",
+    "SAGE",
+    "SCORE",
+    "Solana"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-B3E826AFA52FB19B-01",
+      "text": "## Overview  This project generates and maintains Rust decoders for Star Atlas programs on Solana.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B3E826AFA52FB19B",
+      "publication_date": "2025-09-23T23:31:11Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-B3E826AFA52FB19B-02",
+      "text": "It uses [Carbon CLI](https://github.com/sevenlabs-hq/carbon) to generate initial decoder code from program IDLs, then applies custom patches to handle complex account structures that require manual deserialization logic.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B3E826AFA52FB19B",
+      "publication_date": "2025-09-23T23:31:11Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-B3E826AFA52FB19B-03",
+      "text": "**Generate**: Fetch IDL and generate initial decoder code 2.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B3E826AFA52FB19B",
+      "publication_date": "2025-09-23T23:31:11Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-B3E826AFA52FB19B-04",
+      "text": "**Prepare**: Fix compilation issues (array sizes, workspace refs) 3.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B3E826AFA52FB19B",
+      "publication_date": "2025-09-23T23:31:11Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-B3E826AFA52FB19B-05",
+      "text": "**Patch**: Apply custom implementations for complex accounts 4.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B3E826AFA52FB19B",
+      "publication_date": "2025-09-23T23:31:11Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-B3E826AFA52FB19B-06",
+      "text": "Build clean decoder just build-sage-starbased  # 2.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B3E826AFA52FB19B",
+      "publication_date": "2025-09-23T23:31:11Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-B3E826AFA52FB19B-07",
+      "text": "Apply existing patches just apply-patches-sage-starbased  # 3.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B3E826AFA52FB19B",
+      "publication_date": "2025-09-23T23:31:11Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-B3E826AFA52FB19B-08",
+      "text": "Edit files in dist/sage-starbased/ cd dist/sage-starbased # Make your changes vim src/accounts/fleet.rs  # 4.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B3E826AFA52FB19B",
+      "publication_date": "2025-09-23T23:31:11Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-B3E826AFA52FB19B-09",
+      "text": "Create patch just create-patch-sage-starbased my-change  # 6.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B3E826AFA52FB19B",
+      "publication_date": "2025-09-23T23:31:11Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-B3E826AFA52FB19B-10",
+      "text": "Publish to workspace just publish-sage-starbased ```  See [docs/patch-development-workflow.md](docs/patch-development-workflow.md) for detailed instructions.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B3E826AFA52FB19B",
+      "publication_date": "2025-09-23T23:31:11Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-B3E826AFA52FB19B-11",
+      "text": "## Technical Details  - **Rust Edition**: 2024 (requires Rust 1.85.0+) - **Carbon Version**: 0.12.0 (available on [crates.io](https://crates.io/crates/carbon-core)) - **Solana SDK**: 3.x - **Platform**: macOS and Linux compatible  ## Tools  ### [Decoder Explorer](tools/decoder-explorer/README.md)  CLI tool for testing and debugging Carbon decoders against live Solana accounts.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B3E826AFA52FB19B",
+      "publication_date": "2025-09-23T23:31:11Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-B3E826AFA52FB19B-12",
+      "text": "Fetches all program accounts and analyzes decoder success rates, type distributions, and failure patterns.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B3E826AFA52FB19B",
+      "publication_date": "2025-09-23T23:31:11Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-B3E826AFA52FB19B-13",
+      "text": "```bash cd tools/decoder-explorer RPC_URL=\"https://api.mainnet-beta.solana.com\" cargo run --release --features cargo ```  ## Contributing  1.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B3E826AFA52FB19B",
+      "publication_date": "2025-09-23T23:31:11Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-B3E826AFA52FB19B-14",
+      "text": "Follow the existing patch workflow for modifications 2.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B3E826AFA52FB19B",
+      "publication_date": "2025-09-23T23:31:11Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-B3E826AFA52FB19B-15",
+      "text": "Use numbered patch prefixes when order matters  ## License  This project is licensed under the [Apache-2.0](LICENSE) license.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B3E826AFA52FB19B",
+      "publication_date": "2025-09-23T23:31:11Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "SAGE",
+    "SCORE",
+    "Galactic Marketplace",
+    "CORE",
+    "POLIS",
+    "ATLAS",
+    "Holosim",
+    "Crew"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [
+    "Solana"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://github.com/staratlasmeta/star-atlas-decoders/actions/workflows/ci.yml",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://github.com/staratlasmeta/LICENSE",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://crates.io/crates/carbon-sage-starbased-decoder",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://crates.io/crates/carbon-sage-holosim-decoder",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://crates.io/crates/carbon-atlas-staking-decoder",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://crates.io/crates/carbon-locked-voter-decoder",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://crates.io/crates/carbon-marketplace-decoder",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://crates.io/crates/carbon-atlas-fee-payer-decoder",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://crates.io/crates/carbon-cargo-decoder",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://crates.io/crates/carbon-crafting-decoder",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://crates.io/crates/carbon-crew-decoder",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://crates.io/crates/carbon-profile-vault-decoder",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://crates.io/crates/carbon-srsly-decoder",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://crates.io/crates/carbon-tcomp-decoder",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://crates.io/crates/carbon-player-profile-decoder",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://crates.io/crates/carbon-points-decoder",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://crates.io/crates/carbon-points-store-decoder",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://crates.io/crates/carbon-profile-faction-decoder",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://crates.io/crates/carbon-score-decoder",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://crates.io/crates/carbon-claim-stake-decoder",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://crates.io/crates/carbon-proxy-rewarder-decoder",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://crates.io/crates/carbon-snapshots-decoder",
+      "anchor_text": ""
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://github.com/staratlasmeta/star-atlas-decoders/actions/workflows/ci.yml",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://github.com/staratlasmeta/LICENSE",
+      "anchor_text": ""
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "https://api.github.com/repos/staratlasmeta/star-atlas-decoders/readme",
+    "final_url": "https://api.github.com/repos/staratlasmeta/star-atlas-decoders/readme",
+    "http_status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "response_size": 19438,
+    "retrieved_at": "2026-07-13T01:05:09.061397Z",
+    "elapsed_ms": 365
+  }
+}

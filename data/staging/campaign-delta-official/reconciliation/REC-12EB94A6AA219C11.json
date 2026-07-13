@@ -1,0 +1,14 @@
+{
+  "topic": "article, can, different, find, for, ships, the, this",
+  "official_source_ids": [
+    "SRC-OFF-4212F2396373E4E1"
+  ],
+  "community_source_ids": [
+    "SRC-AEPHIA-28C2189BA89947A5"
+  ],
+  "relationship": "OFFICIAL_SUPERSEDES_OLDER_GUIDE",
+  "finding": "Automated topic overlap on: article, can, different, find, for, ships, the, this, time. Official authority is limited to the official wording; community context remains separately attributed.",
+  "confidence": "LOW",
+  "promotion_candidate": false,
+  "manual_review_required": true
+}

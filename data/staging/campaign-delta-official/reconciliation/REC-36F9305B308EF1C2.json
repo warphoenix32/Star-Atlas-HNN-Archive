@@ -1,0 +1,14 @@
+{
+  "topic": "are, claims, fees, record, remain, the, this, time",
+  "official_source_ids": [
+    "SRC-OFF-F6BFD210BB78F1B3"
+  ],
+  "community_source_ids": [
+    "SRC-HNN-78C569032095B831"
+  ],
+  "relationship": "OFFICIAL_SUPERSEDES_OLDER_GUIDE",
+  "finding": "Automated topic overlap on: are, claims, fees, record, remain, the, this, time. Official authority is limited to the official wording; community context remains separately attributed.",
+  "confidence": "LOW",
+  "promotion_candidate": false,
+  "manual_review_required": true
+}

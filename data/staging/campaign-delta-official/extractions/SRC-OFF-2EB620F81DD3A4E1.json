@@ -1,0 +1,158 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-2EB620F81DD3A4E1",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47031349882003-What-is-the-Battle-Pass-in-Holosim",
+    "title": "What is the Battle Pass in Holosim?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-02T19:07:20Z",
+    "updated_at": "2025-12-08T18:24:41Z",
+    "original_date_text": "2025-12-02T19:07:20Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “What is the Battle Pass in Holosim?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "The Battle Pass in Holosim is an optional upgrade that provides extra rewards and bonuses as you play. It is not required to enjoy the game, you can still complete quests, form fleets, and explore freely without it.\nKey things to know:\nOptional purchase: costs $10 per Chapter.\nExclusive cosmetics & perks: such as an avatar border and extra crew bonuses.\nDaily streak boosts: get more rewards each day you check in.\nzATLAS multiplier: significantly increases the amount of zATLAS you earn from daily streaks.\nSeasonal: each Chapter introduces a new Battle Pass with fresh rewards.\nThe Battle Pass is designed as a way for players who want more rewards to enhance their experience, but the game remains fully accessible without it.",
+  "content_hash": "46481998dcd84f8e2cdc1c5f43c1ba6919f23178b07f8336cc9e62295ca7334b",
+  "entities": [
+    "Crew",
+    "Holosim"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-2EB620F81DD3A4E1-01",
+      "text": "The Battle Pass in Holosim is an optional upgrade that provides extra rewards and bonuses as you play.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-2EB620F81DD3A4E1",
+      "publication_date": "2025-12-02T19:07:20Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-2EB620F81DD3A4E1-02",
+      "text": "It is not required to enjoy the game, you can still complete quests, form fleets, and explore freely without it.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-2EB620F81DD3A4E1",
+      "publication_date": "2025-12-02T19:07:20Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-2EB620F81DD3A4E1-03",
+      "text": "Key things to know: Optional purchase: costs $10 per Chapter.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-2EB620F81DD3A4E1",
+      "publication_date": "2025-12-02T19:07:20Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-2EB620F81DD3A4E1-04",
+      "text": "Exclusive cosmetics & perks: such as an avatar border and extra crew bonuses.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-2EB620F81DD3A4E1",
+      "publication_date": "2025-12-02T19:07:20Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-2EB620F81DD3A4E1-05",
+      "text": "Daily streak boosts: get more rewards each day you check in.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-2EB620F81DD3A4E1",
+      "publication_date": "2025-12-02T19:07:20Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-2EB620F81DD3A4E1-06",
+      "text": "zATLAS multiplier: significantly increases the amount of zATLAS you earn from daily streaks.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-2EB620F81DD3A4E1",
+      "publication_date": "2025-12-02T19:07:20Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-2EB620F81DD3A4E1-07",
+      "text": "Seasonal: each Chapter introduces a new Battle Pass with fresh rewards.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-2EB620F81DD3A4E1",
+      "publication_date": "2025-12-02T19:07:20Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-2EB620F81DD3A4E1-08",
+      "text": "The Battle Pass is designed as a way for players who want more rewards to enhance their experience, but the game remains fully accessible without it.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-2EB620F81DD3A4E1",
+      "publication_date": "2025-12-02T19:07:20Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Holosim",
+    "Crew"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47031349882003-What-is-the-Battle-Pass-in-Holosim",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.378250Z"
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-674D5FD2E8A89D9B",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47061470949267-What-is-the-reward-for-enlisting-a-Claim-Stake",
+    "title": "What is the reward for enlisting a Claim Stake?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-03T17:02:05Z",
+    "updated_at": "2025-12-08T18:23:17Z",
+    "original_date_text": "2025-12-03T17:02:05Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://play.staratlas.com/claims/",
+        "anchor_text": "Faction Claims"
+      },
+      {
+        "url": "https://play.staratlas.com/claims",
+        "anchor_text": "Play.StarAtlas.com"
+      },
+      {
+        "url": "https://play.staratlas.com/market/?symbol=ATLAS",
+        "anchor_text": "Star Atlas Marketplace"
+      },
+      {
+        "url": "https://based.staratlas.com/",
+        "anchor_text": "Sage"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “What is the reward for enlisting a Claim Stake?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "When you enlist a Claim Stake in Faction Claims on Play.StarAtlas.com, you begin generating R4 resources, the essential materials needed to fuel most economic and gameplay loops in Star Atlas.\nWhat Rewards Do I Earn?\nOnce enlisted, your Claim Stake produces four types of R4 resources:\nFuel\nFood\nAmmunition\nToolkits\nThese resources are automatically generated over time and can be claimed directly to your wallet.\nWhat Determines the Amount of Rewards?\nThe tier of your Claim Stake determines how much R4 you earn:\nHigher-tier Claim Stakes (Tier 2–5) generate greater quantities of R4 per hour.\nLower-tier Claim Stakes (Tier 1) produce less but require lower upfront investment.\nEach Claim Stake is limited to producing R4 only when actively enlisted in Faction Claims. You can view and manage your enlisted stakes here: https://play.staratlas.com/claims\nR4 Emission Rates by Tier\nHere's how much R4 each Claim Stake Tier generates per day:\nTier\nAmmo\nFood\nFuel\nToolkits\n1\n1,426\n1,454\n2,160\n2,102\n2\n12,384\n11,923\n11,002\n12,485\n3\n25,546\n24,883\n28,682\n26,496\n4\n82,296\n77,889\n82,296\n74,952\n5\n272,808\n268,344\n214,675\n263,894\nThe higher the tier, the greater the daily output of resources\n💡 Important: Claim Stakes will stop generating R4 once their storage capacity is full. Be sure to claim your rewards regularly to avoid production halts.\nWhy Is R4 Important?\nR4 (Fuel, Food, Ammunition, and Toolkits) is essential to many gameplay systems in Star Atlas and represents the foundation of the in-game economy.\nYou’ll need R4 to:\nMaintain your fleet in Faction Fleet\nCraft items and components in SAGE\nOperate and upkeep Starbases\nIf you don't produce R4 through Claim Stakes, you can still buy or sell it directly on the Star Atlas Marketplace or craft them in Sage\nR4 is always in demand and managing it well is key to maximizing your long-term gameplay and earnings",
+  "content_hash": "b1f106b174fb4e36705775216442071b59447e47223bab23ed43d75726421d61",
+  "entities": [
+    "ATLAS",
+    "Claim Stakes",
+    "Faction Fleet",
+    "SAGE"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-674D5FD2E8A89D9B-01",
+      "text": "When you enlist a Claim Stake in Faction Claims on Play.StarAtlas.com, you begin generating R4 resources, the essential materials needed to fuel most economic and gameplay loops in Star Atlas.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-674D5FD2E8A89D9B",
+      "publication_date": "2025-12-03T17:02:05Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-674D5FD2E8A89D9B-02",
+      "text": "Once enlisted, your Claim Stake produces four types of R4 resources: Fuel Food Ammunition Toolkits These resources are automatically generated over time and can be claimed directly to your wallet.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-674D5FD2E8A89D9B",
+      "publication_date": "2025-12-03T17:02:05Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-674D5FD2E8A89D9B-03",
+      "text": "The tier of your Claim Stake determines how much R4 you earn: Higher-tier Claim Stakes (Tier 2–5) generate greater quantities of R4 per hour.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-674D5FD2E8A89D9B",
+      "publication_date": "2025-12-03T17:02:05Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-674D5FD2E8A89D9B-04",
+      "text": "Lower-tier Claim Stakes (Tier 1) produce less but require lower upfront investment.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-674D5FD2E8A89D9B",
+      "publication_date": "2025-12-03T17:02:05Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-674D5FD2E8A89D9B-05",
+      "text": "Each Claim Stake is limited to producing R4 only when actively enlisted in Faction Claims.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-674D5FD2E8A89D9B",
+      "publication_date": "2025-12-03T17:02:05Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-674D5FD2E8A89D9B-06",
+      "text": "You can view and manage your enlisted stakes here: https://play.staratlas.com/claims R4 Emission Rates by Tier Here's how much R4 each Claim Stake Tier generates per day: Tier Ammo Food Fuel Toolkits 1 1,426 1,454 2,160 2,102 2 12,384 11,923 11,002 12,485 3 25,546 24,883 28,682 26,496 4 82,296 77,889 82,296 74,952 5 272,808 268,344 214,675 263,894 The higher the tier, the greater the daily output of resources 💡 Important: Claim Stakes will stop generating R4 once their storage capacity is full.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-674D5FD2E8A89D9B",
+      "publication_date": "2025-12-03T17:02:05Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-674D5FD2E8A89D9B-07",
+      "text": "Be sure to claim your rewards regularly to avoid production halts.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-674D5FD2E8A89D9B",
+      "publication_date": "2025-12-03T17:02:05Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-674D5FD2E8A89D9B-08",
+      "text": "R4 (Fuel, Food, Ammunition, and Toolkits) is essential to many gameplay systems in Star Atlas and represents the foundation of the in-game economy.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-674D5FD2E8A89D9B",
+      "publication_date": "2025-12-03T17:02:05Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-674D5FD2E8A89D9B-09",
+      "text": "You’ll need R4 to: Maintain your fleet in Faction Fleet Craft items and components in SAGE Operate and upkeep Starbases If you don't produce R4 through Claim Stakes, you can still buy or sell it directly on the Star Atlas Marketplace or craft them in Sage R4 is always in demand and managing it well is key to maximizing your long-term gameplay and earnings",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-674D5FD2E8A89D9B",
+      "publication_date": "2025-12-03T17:02:05Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "SAGE",
+    "Faction Fleet",
+    "ATLAS",
+    "Claim Stakes"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://play.staratlas.com/claims/",
+      "anchor_text": "Faction Claims"
+    },
+    {
+      "url": "https://play.staratlas.com/claims",
+      "anchor_text": "Play.StarAtlas.com"
+    },
+    {
+      "url": "https://play.staratlas.com/market/?symbol=ATLAS",
+      "anchor_text": "Star Atlas Marketplace"
+    },
+    {
+      "url": "https://based.staratlas.com/",
+      "anchor_text": "Sage"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://play.staratlas.com/claims/",
+      "anchor_text": "Faction Claims"
+    },
+    {
+      "url": "https://play.staratlas.com/claims",
+      "anchor_text": "Play.StarAtlas.com"
+    },
+    {
+      "url": "https://play.staratlas.com/market/?symbol=ATLAS",
+      "anchor_text": "Star Atlas Marketplace"
+    },
+    {
+      "url": "https://based.staratlas.com/",
+      "anchor_text": "Sage"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47061470949267-What-is-the-reward-for-enlisting-a-Claim-Stake",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.157004Z"
+  }
+}

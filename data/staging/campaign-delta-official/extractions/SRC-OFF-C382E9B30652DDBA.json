@@ -1,0 +1,158 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-C382E9B30652DDBA",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47061432400403-What-are-ship-components",
+    "title": "What are ship components?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-03T17:01:52Z",
+    "updated_at": "2025-12-08T18:23:26Z",
+    "original_date_text": "2025-12-03T17:01:52Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “What are ship components?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Ship components are modular parts that determine a ship’s performance, specialization, and customization potential in Star Atlas. Each ship contains specific component slots, filled by default parts that enable core functionality. Over time, these components will be swappable, upgradable and craftable, allowing players to fully configure their ships to match gameplay needs.\nComponent Overview\nEvery ship hull includes Tier 0 core components by default, allowing the ship to function. These cannot be removed or traded but can be overwritten by higher-tier components in the future.\nCommon component types include:\nRadar\nWarp Drive\nImpulse Engine\nPower Supply\nShield Generator\nWeapon Slot\nMissile Bay\nCountermeasure Bay\nTractor Beam\nManeuvering Thruster\nHull Plating\nAdditional modules and weapons will also be equippable, offering specialized functionality for combat, logistics, or exploration. These are separate from the default components.\nLegacy Ship Parts Bundles (Airdrop)\nOn August 8, 2024, a snapshot was taken of all wallets holding Star Atlas ships. As a reward for early adoption, players received Ship Parts Bundles corresponding to each ship owned\nThese bundles contain higher-tier components and weapons, tied to the specific ship model\nThey are tradable on the Marketplace today but not yet usable in-game\nOnce the Ship Configuration Protocol is live, these bundles will be convertible into individual, equipable components\nShips purchased after this snapshot are considered ship hulls only and do not include any of the legacy airdropped components, crew, or weapons.\nWhat Comes With a Ship Today?\nShips bought on the primary or secondary marketplace now include:\n✅ Tier 0 core components (non-tradeable, cannot be removed)✅ Utility Rigs (pre-installed, vary by ship purpose)✅ Interior Elements (crew quarters, command deck, etc.)\n❌ No weapons❌ No modules❌ No crew❌ No Ship Parts Bundles (if bought after the August 8, 2024 snapshot)\nThe Future: Ship Configuration Protocol\nOnce implemented, the Ship Configuration Protocol will:\nAllow you to open Ship Parts Bundles\nEquip, upgrade, and swap components\nCustomize ship performance for various game loops like combat, exploration, crafting, and racing\nIntroduce a player-driven economy of component manufacturing and trade\nThis system will evolve ship NFTs from semi-fungible tokens into fully customized and player-defined digital assets.",
+  "content_hash": "aaa349d900ad7d5b6fb71ca9b52407b399a25dbee6e89ca437086d8233deec28",
+  "entities": [
+    "ATLAS",
+    "CORE",
+    "Crew"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-C382E9B30652DDBA-01",
+      "text": "Ship components are modular parts that determine a ship’s performance, specialization, and customization potential in Star Atlas.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-C382E9B30652DDBA",
+      "publication_date": "2025-12-03T17:01:52Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-C382E9B30652DDBA-02",
+      "text": "Each ship contains specific component slots, filled by default parts that enable core functionality.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-C382E9B30652DDBA",
+      "publication_date": "2025-12-03T17:01:52Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-C382E9B30652DDBA-03",
+      "text": "Over time, these components will be swappable, upgradable and craftable, allowing players to fully configure their ships to match gameplay needs.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-C382E9B30652DDBA",
+      "publication_date": "2025-12-03T17:01:52Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-C382E9B30652DDBA-04",
+      "text": "Component Overview Every ship hull includes Tier 0 core components by default, allowing the ship to function.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-C382E9B30652DDBA",
+      "publication_date": "2025-12-03T17:01:52Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-C382E9B30652DDBA-05",
+      "text": "These cannot be removed or traded but can be overwritten by higher-tier components in the future.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-C382E9B30652DDBA",
+      "publication_date": "2025-12-03T17:01:52Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-C382E9B30652DDBA-06",
+      "text": "Common component types include: Radar Warp Drive Impulse Engine Power Supply Shield Generator Weapon Slot Missile Bay Countermeasure Bay Tractor Beam Maneuvering Thruster Hull Plating Additional modules and weapons will also be equippable, offering specialized functionality for combat, logistics, or exploration.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-C382E9B30652DDBA",
+      "publication_date": "2025-12-03T17:01:52Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-C382E9B30652DDBA-07",
+      "text": "These are separate from the default components.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-C382E9B30652DDBA",
+      "publication_date": "2025-12-03T17:01:52Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-C382E9B30652DDBA-08",
+      "text": "Legacy Ship Parts Bundles (Airdrop) On August 8, 2024, a snapshot was taken of all wallets holding Star Atlas ships.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-C382E9B30652DDBA",
+      "publication_date": "2025-12-03T17:01:52Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "CORE",
+    "ATLAS",
+    "Crew"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47061432400403-What-are-ship-components",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.179902Z"
+  }
+}

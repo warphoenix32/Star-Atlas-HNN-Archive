@@ -1,0 +1,123 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-9C47F3E7D9676D81",
+    "url": "https://build.staratlas.com/dev-resources/apis-and-data/crew",
+    "title": "Star Atlas Build",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Build / ATMTA",
+    "published_at": null,
+    "updated_at": "2026-04-16T16:32:35.000Z",
+    "original_date_text": "2026-04-16T16:32:35.000Z",
+    "document_type": "TECHNICAL_DOCUMENTATION",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Build / ATMTA",
+    "publication_role": "TECHNICAL_DOCUMENTATION",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://www.npmjs.com/package/@staratlas/crew",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://staratlasmeta.github.io/star-atlas-programs/crew",
+        "anchor_text": ""
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Build / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official technical documentation titled “Star Atlas Build.” This record preserves what Star Atlas Build / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Crew | Star Atlas Build\nSkip to contentStar Atlas BuildSearchK\nAppearance\nMenuReturn to top\nCrew ​\nFull TypeScript bindings for interacting with the Crew program\nPackages ​\nPackage\nDescription\nVersion\nDocs\n@staratlas/crew\nTypeScript bindings for the crew program\nReadme ​\nKeywords ​",
+  "content_hash": "d86e309fac2e5e924634338961899101d05cc08404da5575fc0b2e3d05bcf19c",
+  "entities": [
+    "ATLAS",
+    "Crew"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-9C47F3E7D9676D81-01",
+      "text": "Crew | Star Atlas Build Skip to contentStar Atlas BuildSearchK Appearance MenuReturn to top Crew ​ Full TypeScript bindings for interacting with the Crew program Packages ​ Package Description Version Docs @staratlas/crew TypeScript bindings for the crew program Readme ​ Keywords ​",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-9C47F3E7D9676D81",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "ATLAS",
+    "Crew"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/crew",
+      "anchor_text": "Skip to content"
+    },
+    {
+      "url": "https://build.staratlas.com/",
+      "anchor_text": "Star Atlas Build"
+    },
+    {
+      "url": "https://discord.com/invite/staratlas",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://www.npmjs.com/package/@staratlas/crew",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://staratlasmeta.github.io/star-atlas-programs/crew",
+      "anchor_text": ""
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/crew",
+      "anchor_text": "Skip to content"
+    },
+    {
+      "url": "https://build.staratlas.com/",
+      "anchor_text": "Star Atlas Build"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://build.staratlas.com/dev-resources/apis-and-data/crew",
+    "final_url": "https://build.staratlas.com/dev-resources/apis-and-data/crew",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 33076,
+    "retrieved_at": "2026-07-13T01:04:25.898014Z",
+    "elapsed_ms": 101
+  }
+}

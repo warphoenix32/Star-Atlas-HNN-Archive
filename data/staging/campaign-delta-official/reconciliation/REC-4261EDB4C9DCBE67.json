@@ -1,0 +1,14 @@
+{
+  "topic": "about, claims, economy, escape, record, remain, sage, the",
+  "official_source_ids": [
+    "SRC-OFF-D023F6DAFA12F9AA"
+  ],
+  "community_source_ids": [
+    "SRC-HNN-8ECF631D1920EBB2"
+  ],
+  "relationship": "OFFICIAL_CONFIRMS_COMMUNITY_REPORT",
+  "finding": "Automated topic overlap on: about, claims, economy, escape, record, remain, sage, the, this, time, velocity. Official authority is limited to the official wording; community context remains separately attributed.",
+  "confidence": "LOW",
+  "promotion_candidate": false,
+  "manual_review_required": true
+}

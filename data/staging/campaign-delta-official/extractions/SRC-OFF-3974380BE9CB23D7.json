@@ -1,0 +1,219 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-3974380BE9CB23D7",
+    "url": "https://github.com/staratlasmeta/star_frame#readme",
+    "title": "star_frame README",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "staratlasmeta GitHub organization",
+    "published_at": "2024-01-23T19:58:39Z",
+    "updated_at": "2026-06-15T02:19:57Z",
+    "original_date_text": "2024-01-23T19:58:39Z",
+    "document_type": "TECHNICAL_DOCUMENTATION",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "staratlasmeta GitHub organization",
+    "publication_role": "TECHNICAL_DOCUMENTATION",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://crates.io/crates/star_frame",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://docs.rs/star_frame",
+        "anchor_text": ""
+      }
+    ],
+    "original_creators": [
+      "staratlasmeta GitHub organization"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official technical documentation titled “star_frame README.” This record preserves what staratlasmeta GitHub organization publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "<h1 align=\"center\">\n  <code>star_frame</code>\n</h1>\n<p align=\"center\">\n  A high-performance, trait-based Solana program framework for building <strong>fast</strong>, <strong>reliable</strong>, and <strong>type-safe</strong> programs.\n</p>\n\n<p align=\"center\">\n  <a href=\"https://crates.io/crates/star_frame\"><img src=\"https://img.shields.io/crates/v/star_frame?logo=rust\" /></a>\n  <a href=\"https://docs.rs/star_frame\"><img src=\"https://img.shields.io/docsrs/star_frame?logo=docsdotrs\" /></a>\n  <a href=\"https://github.com/staratlasmeta/star_frame/actions/workflows/ci.yml\"><img src=\"https://img.shields.io/github/actions/workflow/status/staratlasmeta/star_frame/ci.yml?logo=GitHub\" /></a>\n  <a href=\"LICENSE\"><img src=\"https://img.shields.io/badge/license-Apache%202.0-blue\" /></a>\n</p>\n\n## Overview\n\nStar Frame is a modern Solana program framework designed to make developing on-chain programs more ergonomic, safe, and performant. Built with a trait-based architecture, it provides:\n\n-   **Performance**: Optimized for Solana's compute unit constraints by utilizing Pinocchio and our `unsized_type` system (check out the [Compute Units](/example_programs/bench/COMPUTE_UNITS.md) benchmark vs Anchor).\n-   **Developer Experience**: Intuitive APIs with comprehensive compile-time validation (traits and types all the way down!).\n-   **Modularity**: Everything is a trait or a type, so you can use what you need when you need it. For example, the entrypoint is a method on the `StarFrameProgram` trait, and client/cpi account sets are associated types of the `ClientAccountSet` and `CpiAccountSet` traits.\n\n## Getting Help\n\nStar Frame is in active development (and improving our docs is a main priority now!). If you need help:\n\n-   Check out the [API documentation](https://docs.rs/star_frame)\n-   Browse the [examples](/example_programs/) in this repository\n-   Open an [issue](https://github.com/staratlasmeta/star_frame/issues) for bug reports or feature requests\n-   Join our [Star Atlas Discord](https://discord.gg/gahmBHsc) and chat in our `#community-developers` channel\n\n## Getting Started\n\n### Create a new project using the CLI\n\n```bash\ncargo install star_frame_cli\nsf --help\n```\n\n```bash\nsf new <PROJECT-NAME>\n```\n\n### Update an existing project to use Star Frame\n\nAdd `star_frame` and `bytemuck` to your `Cargo.toml`:\n\n```shell\ncargo add star_frame bytemuck\n```\n\nUse the `prelude` to import the most commonly used traits and macros:\n\n```rs\nuse star_frame::prelude::*;\n```\n\n## Example\n\nBelow is a simple counter program demonstrating the basic features of Star Frame. In this example, only the designated authority can increment the counter.\nSee the [full example](/example_programs/simple_counter/src/lib.rs) for additional useful features.\n\n```rust\nuse star_frame::prelude::*;\n\n#[derive(StarFrameProgram)]\n#[program(\n    instruction_set = CounterInstructionSet,\n    id = \"Coux9zxTFKZpRdFpE4F7Fs5RZ6FdaURdckwS61BUTMG\"\n)]\npub struct CounterProgram;\n\n#[derive(InstructionSet)]\npub enum CounterInstructionSet {\n    Initialize(Initialize),\n    Increment(Increment),\n}\n\n#[zero_copy(pod)]\n#[derive(ProgramAccount, Default, Debug, Eq, PartialEq)]\npub struct CounterAccount {\n    pub authority: Pubkey,\n    pub count: u64,\n}\n\n#[derive(BorshSerialize, BorshDeserialize, Debug, InstructionArgs)]\npub struct Initialize {\n    #[ix_args(run)]\n    pub start_at: u64,\n}\n\n#[derive(AccountSet)]\npub struct InitializeAccounts {\n    #[validate(funder)]\n    pub authority: Signer<Mut<SystemAccount>>,\n    #[validate(arg = Create(()))]\n    pub counter: Init<Signer<Account<CounterAccount>>>,\n    pub system_program: Program<System>,\n}\n\n#[star_frame_instruction]\nfn Initialize(account_set: &mut InitializeAccounts, start_at: u64) -> Result<()> {\n    **account_set.counter.data_mut()? = CounterAccount {\n        authority: *account_set.authority.pubkey(),\n        count: start_at,\n    };\n    Ok(())\n}\n\n#[derive(BorshSerialize, BorshDeserialize, Debug, Copy, Clone, InstructionArgs)]\npub struct Increment;\n\n#[derive(AccountSet, Debug)]\npub struct IncrementAccounts {\n    pub authority: Signer,\n    pub counter: Mut<Account<CounterAccount>>,\n}\n\n#[star_frame_instruction]\nfn Increment(accounts: &mut IncrementAccounts) -> Result<()> {\n    ensure!(\n        *accounts.authority.pubkey() == accounts.counter.data()?.authority,\n        ProgramError::IncorrectAuthority\n    );\n    let mut counter = accounts.counter.data_mut()?;\n    counter.count += 1;\n    Ok(())\n}\n```\n\n## Supported Rust Versions\n\nStar Frame is built against the latest stable Solana Rust Release: https://github.com/anza-xyz/rust. The minimum supported version is currently **1.84.1**.\n\n## License\n\nThis project is licensed under the [Apache-2.0](LICENSE) license.\n",
+  "content_hash": "589adb535513a9aee33b8963ab86c0c35657218c4f2561e31b4cd461a508cc31",
+  "entities": [
+    "ATLAS",
+    "Solana",
+    "Star Frame"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-3974380BE9CB23D7-01",
+      "text": "<h1 align=\"center\">   <code>star_frame</code> </h1> <p align=\"center\">   A high-performance, trait-based Solana program framework for building <strong>fast</strong>, <strong>reliable</strong>, and <strong>type-safe</strong> programs.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-3974380BE9CB23D7",
+      "publication_date": "2024-01-23T19:58:39Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-3974380BE9CB23D7-02",
+      "text": "Built with a trait-based architecture, it provides:  -   **Performance**: Optimized for Solana's compute unit constraints by utilizing Pinocchio and our `unsized_type` system (check out the [Compute Units](/example_programs/bench/COMPUTE_UNITS.md) benchmark vs Anchor).",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-3974380BE9CB23D7",
+      "publication_date": "2024-01-23T19:58:39Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-3974380BE9CB23D7-03",
+      "text": "-   **Developer Experience**: Intuitive APIs with comprehensive compile-time validation (traits and types all the way down!).",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-3974380BE9CB23D7",
+      "publication_date": "2024-01-23T19:58:39Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-3974380BE9CB23D7-04",
+      "text": "-   **Modularity**: Everything is a trait or a type, so you can use what you need when you need it.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-3974380BE9CB23D7",
+      "publication_date": "2024-01-23T19:58:39Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-3974380BE9CB23D7-05",
+      "text": "For example, the entrypoint is a method on the `StarFrameProgram` trait, and client/cpi account sets are associated types of the `ClientAccountSet` and `CpiAccountSet` traits.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-3974380BE9CB23D7",
+      "publication_date": "2024-01-23T19:58:39Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-3974380BE9CB23D7-06",
+      "text": "## Getting Help  Star Frame is in active development (and improving our docs is a main priority now!).",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-3974380BE9CB23D7",
+      "publication_date": "2024-01-23T19:58:39Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-3974380BE9CB23D7-07",
+      "text": "In this example, only the designated authority can increment the counter.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-3974380BE9CB23D7",
+      "publication_date": "2024-01-23T19:58:39Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-3974380BE9CB23D7-08",
+      "text": "See the [full example](/example_programs/simple_counter/src/lib.rs) for additional useful features.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-3974380BE9CB23D7",
+      "publication_date": "2024-01-23T19:58:39Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-3974380BE9CB23D7-09",
+      "text": "The minimum supported version is currently **1.84.1**.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-3974380BE9CB23D7",
+      "publication_date": "2024-01-23T19:58:39Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-3974380BE9CB23D7-10",
+      "text": "## License  This project is licensed under the [Apache-2.0](LICENSE) license.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-3974380BE9CB23D7",
+      "publication_date": "2024-01-23T19:58:39Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "ATLAS",
+    "Star Frame"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [
+    "Solana"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://crates.io/crates/star_frame",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://docs.rs/star_frame",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://github.com/staratlasmeta/star_frame/actions/workflows/ci.yml",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://github.com/staratlasmeta/LICENSE",
+      "anchor_text": ""
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://github.com/staratlasmeta/star_frame/actions/workflows/ci.yml",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://github.com/staratlasmeta/LICENSE",
+      "anchor_text": ""
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "https://api.github.com/repos/staratlasmeta/star_frame/readme",
+    "final_url": "https://api.github.com/repos/staratlasmeta/star_frame/readme",
+    "http_status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "response_size": 7308,
+    "retrieved_at": "2026-07-13T01:05:07.471099Z",
+    "elapsed_ms": 314
+  }
+}

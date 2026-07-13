@@ -1,0 +1,238 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-B7F11CD1E84CA317",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47061462878355-How-to-Buy-ATLAS-and-POLIS-Tokens",
+    "title": "How to Buy ATLAS and POLIS Tokens",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-03T17:01:57Z",
+    "updated_at": "2025-12-08T18:23:22Z",
+    "original_date_text": "2025-12-03T17:01:57Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://play.staratlas.com",
+        "anchor_text": "play.staratlas.com"
+      },
+      {
+        "url": "https://jup.ag",
+        "anchor_text": "Jupiter Aggregator"
+      },
+      {
+        "url": "https://raydium.io",
+        "anchor_text": "Raydium"
+      },
+      {
+        "url": "https://orca.so",
+        "anchor_text": "Orca"
+      },
+      {
+        "url": "https://www.gate.com/trade/POLIS_USDT",
+        "anchor_text": "Gate.io"
+      },
+      {
+        "url": "https://www.mexc.com/exchange/POLIS_USDT",
+        "anchor_text": "MEXC"
+      },
+      {
+        "url": "https://pro.kraken.com/app/trade/polis-eur",
+        "anchor_text": "Kraken"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “How to Buy ATLAS and POLIS Tokens.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Star Atlas's in-game currencies are easy to buy using a credit card or by swapping other crypto tokens.\nWhat Are ATLAS and POLIS?\nATLAS is the main currency used for gameplay buy ships, resources, crew, and more.\nPOLIS is the governance token lock it to vote in the DAO and earn POLIS rewards.\nBoth tokens are built on the Solana blockchain, so you’ll need a Solana wallet (like Phantom) to hold and use them in Star Atlas.\nBuy with a Credit Card on PLAY\nYou can buy ATLAS, POLIS, or SOL directly from your wallet section on play.staratlas.com using Topper, a fiat on-ramp provider.\nHow it works:\nOpen the wallet panel on PLAY\nScroll down to \"Manage your wallet’s funds\"\nClick Launch next to Topper\nIn the popup:\nSelect your currency (USD, EUR, etc.)\nChoose ATLAS, POLIS, or SOL\nEnter your payment details and complete KYC\nOnce approved, the tokens will be sent to your wallet.\n📝 Note: You can use the tokens right away in SAGE or the Marketplace.\nSwap Tokens on a DEX (Decentralized Exchange)\nIf your wallet already holds SOL or USDC, you can use a decentralized exchange like:\nJupiter Aggregator (recommended)\nRaydium\nOrca\nJust connect your wallet, choose the token you want to swap (e.g. SOL → ATLAS), and confirm the transaction.\nBuy on a Centralized Exchange (CEX)\nATLAS and POLIS are also available on centralized exchanges like:\nGate.io\nMEXC\nKraken\nOn these platforms, you can:\nCreate an account\nDeposit funds (like USDT or USD)\nBuy ATLAS or POLIS\nSend your tokens to your Solana wallet\nSummary: 3 Ways to Buy\nMethod\nUse Case\nTools\nCredit Card\nFastest & easiest for new users\nTopper on play.staratlas.com\nSwap\nIf you already have SOL or USDC\nJupiter, Raydium, Orca\nCentralized Exchange\nFor traders or fiat-to-crypto conversion\nGate.io, MEXC, Kraken",
+  "content_hash": "f53f9657e3b186fff43c468782549756916f4b39326019576597174f9813b9a4",
+  "entities": [
+    "ATLAS",
+    "Crew",
+    "POLIS",
+    "SAGE",
+    "Solana"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-B7F11CD1E84CA317-01",
+      "text": "Star Atlas's in-game currencies are easy to buy using a credit card or by swapping other crypto tokens.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B7F11CD1E84CA317",
+      "publication_date": "2025-12-03T17:01:57Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-B7F11CD1E84CA317-02",
+      "text": "ATLAS is the main currency used for gameplay buy ships, resources, crew, and more.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B7F11CD1E84CA317",
+      "publication_date": "2025-12-03T17:01:57Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-B7F11CD1E84CA317-03",
+      "text": "POLIS is the governance token lock it to vote in the DAO and earn POLIS rewards.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B7F11CD1E84CA317",
+      "publication_date": "2025-12-03T17:01:57Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-B7F11CD1E84CA317-04",
+      "text": "Both tokens are built on the Solana blockchain, so you’ll need a Solana wallet (like Phantom) to hold and use them in Star Atlas.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B7F11CD1E84CA317",
+      "publication_date": "2025-12-03T17:01:57Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-B7F11CD1E84CA317-05",
+      "text": "Buy with a Credit Card on PLAY You can buy ATLAS, POLIS, or SOL directly from your wallet section on play.staratlas.com using Topper, a fiat on-ramp provider.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B7F11CD1E84CA317",
+      "publication_date": "2025-12-03T17:01:57Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-B7F11CD1E84CA317-06",
+      "text": "How it works: Open the wallet panel on PLAY Scroll down to \"Manage your wallet’s funds\" Click Launch next to Topper In the popup: Select your currency (USD, EUR, etc.) Choose ATLAS, POLIS, or SOL Enter your payment details and complete KYC Once approved, the tokens will be sent to your wallet.",
+      "claim_type": "GOVERNANCE_APPROVAL",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B7F11CD1E84CA317",
+      "publication_date": "2025-12-03T17:01:57Z",
+      "confidence": "MEDIUM",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-B7F11CD1E84CA317-07",
+      "text": "📝 Note: You can use the tokens right away in SAGE or the Marketplace.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B7F11CD1E84CA317",
+      "publication_date": "2025-12-03T17:01:57Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-B7F11CD1E84CA317-08",
+      "text": "Swap Tokens on a DEX (Decentralized Exchange) If your wallet already holds SOL or USDC, you can use a decentralized exchange like: Jupiter Aggregator (recommended) Raydium Orca Just connect your wallet, choose the token you want to swap (e.g.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B7F11CD1E84CA317",
+      "publication_date": "2025-12-03T17:01:57Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "SAGE",
+    "POLIS",
+    "ATLAS",
+    "Crew"
+  ],
+  "governance_items": [
+    {
+      "claim_id": "CLM-B7F11CD1E84CA317-06",
+      "text": "How it works: Open the wallet panel on PLAY Scroll down to \"Manage your wallet’s funds\" Click Launch next to Topper In the popup: Select your currency (USD, EUR, etc.) Choose ATLAS, POLIS, or SOL Enter your payment details and complete KYC Once approved, the tokens will be sent to your wallet.",
+      "claim_type": "GOVERNANCE_APPROVAL",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B7F11CD1E84CA317",
+      "publication_date": "2025-12-03T17:01:57Z",
+      "confidence": "MEDIUM",
+      "requires_follow_up": true
+    }
+  ],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [
+    "Solana"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://play.staratlas.com",
+      "anchor_text": "play.staratlas.com"
+    },
+    {
+      "url": "https://jup.ag",
+      "anchor_text": "Jupiter Aggregator"
+    },
+    {
+      "url": "https://raydium.io",
+      "anchor_text": "Raydium"
+    },
+    {
+      "url": "https://orca.so",
+      "anchor_text": "Orca"
+    },
+    {
+      "url": "https://www.gate.com/trade/POLIS_USDT",
+      "anchor_text": "Gate.io"
+    },
+    {
+      "url": "https://www.mexc.com/exchange/POLIS_USDT",
+      "anchor_text": "MEXC"
+    },
+    {
+      "url": "https://pro.kraken.com/app/trade/polis-eur",
+      "anchor_text": "Kraken"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://play.staratlas.com",
+      "anchor_text": "play.staratlas.com"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47061462878355-How-to-Buy-ATLAS-and-POLIS-Tokens",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.169085Z"
+  }
+}

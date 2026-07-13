@@ -1,0 +1,462 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-BE3F6F5D62BE9688",
+    "url": "https://experience.staratlas.com/newsroom/article/star-atlas-nft-cosmos-the-hunt-for-an-ancient-artifact",
+    "title": "Star Atlas NFT Cosmos: The Hunt for an Ancient Artifact | Star Atlas",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Newsroom / ATMTA",
+    "published_at": "2021-10-26",
+    "updated_at": null,
+    "original_date_text": "Oct 26, 2021",
+    "document_type": "OFFICIAL_ANNOUNCEMENT",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Newsroom / ATMTA",
+    "publication_role": "ECONOMIC_REPORT",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://play.staratlas.com",
+        "anchor_text": "Play Now"
+      },
+      {
+        "url": "https://coinmarketcap.com/currencies/star-atlas/",
+        "anchor_text": "CMC"
+      },
+      {
+        "url": "https://www.coingecko.com/en/coins/star-atlas",
+        "anchor_text": "CoinGecko"
+      },
+      {
+        "url": "https://coinmarketcap.com/currencies/star-atlas-polis/",
+        "anchor_text": "CMC"
+      },
+      {
+        "url": "https://www.coingecko.com/en/coins/star-atlas-dao",
+        "anchor_text": "CoinGecko"
+      },
+      {
+        "url": "https://discord.gg/staratlas",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://t.me/staratlasgame",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://www.reddit.com/r/StarAtlas/",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://www.facebook.com/StarAtlasMMO",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://www.instagram.com/staratlasgame/",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://www.youtube.com/channel/UCt-y8Npwje5KDG5MSZ0a9Jw",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://www.twitch.tv/staratlasgame",
+        "anchor_text": ""
+      },
+      {
+        "url": "http://play.staratlas.com/faction",
+        "anchor_text": "faction"
+      },
+      {
+        "url": "https://play.staratlas.com/leaderboards",
+        "anchor_text": "MUD"
+      },
+      {
+        "url": "https://medium.com/star-atlas/star-atlas-mud-faction-captain-66db0bc4cf14",
+        "anchor_text": "supply run"
+      },
+      {
+        "url": "https://play.staratlas.com/market/2W6ff8LajAwekXVxDARGQ9QFNcRbxmJPE2p3eNsGR7Qu",
+        "anchor_text": "Opal JetJet"
+      },
+      {
+        "url": "https://play.staratlas.com/market/C5UdbBXYyeDFPcNjw9zQkcWadzP6tgKoCp7YxhqGcJp1",
+        "anchor_text": "Galactic Marketplace"
+      },
+      {
+        "url": "https://play.staratlas.com/market/6Y4bSkNwcugHzDc8eDSqDL9m15mQi9Mc8UncxVm5YZRX",
+        "anchor_text": "Vintage Astronaut Suit"
+      },
+      {
+        "url": "https://play.staratlas.com/market/4TpCAobnJfGFRbZ8gAppS9aZBwEGG1k9tRVmx6FPUvUp",
+        "anchor_text": "Calico Guardian"
+      },
+      {
+        "url": "https://staratlas.com/",
+        "anchor_text": "staratlas.com"
+      },
+      {
+        "url": "https://c212.net/c/link/?t=0&l=en&o=3518016-1&h=2748636143&u=https%3A%2F%2Fc212.net%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D3397231-1%26h%3D2982849003%26u%3Dhttp%253A%252F%252Fsolana.com%252F%26a%3DSolana&a=Solana",
+        "anchor_text": "Solana"
+      },
+      {
+        "url": "https://c212.net/c/link/?t=0&l=en&o=3518016-1&h=1530369193&u=https%3A%2F%2Fc212.net%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D3397231-1%26h%3D3652583731%26u%3Dhttps%253A%252F%252Fstaratlas.com%252F%26a%3DStarAtlas.com&a=StarAtlas.com",
+        "anchor_text": "StarAtlas.com"
+      },
+      {
+        "url": "https://c212.net/c/link/?t=0&l=en&o=3518016-1&h=3921988929&u=https%3A%2F%2Fc212.net%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D3397231-1%26h%3D445912205%26u%3Dhttp%253A%252F%252Fplay.staratlas.com%252F%26a%3DPlay.StarAtlas.com&a=Play.StarAtlas.com",
+        "anchor_text": "Play.StarAtlas.com"
+      },
+      {
+        "url": "https://www.reddit.com/r/StarAtlas",
+        "anchor_text": "Reddit"
+      },
+      {
+        "url": "https://www.linkedin.com/company/star-atlas",
+        "anchor_text": "Linkedin"
+      },
+      {
+        "url": "https://medium.com/star-atlas",
+        "anchor_text": "Medium"
+      },
+      {
+        "url": "https://www.tiktok.com/@staratlasmetaverse",
+        "anchor_text": "Tik Tok"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Newsroom / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official economic report titled “Star Atlas NFT Cosmos: The Hunt for an Ancient Artifact | Star Atlas.” This record preserves what Star Atlas Newsroom / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Star Atlas NFT Cosmos: The Hunt for an Ancient Artifact | Star Atlas\nPlay Now\nEconomic Reports\nWhite Paper • PDF\nRead Our Official White Paper!\nEconomics Paper • PDF\nLearn the tokenomics of ATLAS and POLIS in the galactic economy.\nGovernance Documentation\nLearn how Star Atlas is governed and built by its community.\nATLAS\n(\nCMC\nCoinGecko\n)\nPOLIS\n(\nCMC\nCoinGecko\n)\nTerms of Service\nPrivacy Policy\nPromotional Terms\nPlay Now\nBack\nOct 26, 2021\nTag: Articles\nStar Atlas NFT Cosmos: The Hunt for an Ancient Artifact\nA deeper dive into how a single intergalactic relic can inspire epic adventures and bitter betrayals on the edge of the metaverse.\nBack to top\nDeep Space Nebula /// Star Atlas In-game Player-Owned Asset /// Fully Immersive Metaverse Experience\nZulro, an explorer, was drifting away in her bar stool while being mesmerized by the glowing bands of dancing particles in the nebula. She was enjoying a quiet, lonely drink after a lengthy expedition to identify mining and salvaging opportunities in uncharted deep space territory, when she received a transmission from the human captain of the Torch of Ulysses. Even though the two spacefarers weren’t in the same faction — humans mostly in MUD, and Mierese aliens like Zulro in ONI — life on the fringes of Star Atlas wasn’t always based on tribal loyalty.\nPersonal alliances were fluid, and information shared today may mean a favor that could be called in tomorrow.\nAn ancient artifact, one lost by the first humans to reach for the stars centuries ago, was spotted in contested space that the Torch of Ulysses barreled through during a supply run. The human crew fended off ONI marauders but was unable to double back for a retrieval mission. Perhaps a freelancer who was nearby was up for a treasure hunt?\nZulro transferred a few bits of ATLAS, the intergalactic currency, to close her bar tab, slid into her Opal JetJet — the fastest modifiable space racer with a massive engine block — and keyed in the vectors provided by her MUD contact. Updated maps indicated she would have to cruise into an Ustur enclave, a recent change in the sector’s status after landowners holding POLIS, Star Atlas’ multifunctional governance token, voted to remap control of this space. But if the human’s tip was legitimate, it was a risk worth taking. Artifacts commanded a handsome premium in the Galactic Marketplace, and this one seemed even more promising.\nBesides, this was a mission fit for a true explorer.\nAt her destination coordinates, Zulro found the wreckage of ONI pirate ships, each once an NFT controlled by players, burned forever after the ships were destroyed in dogfights. She initiated a scan of the proximal territory around her.\nOpal JetJet in Acceleration Mode /// Star Atlas In-game Player-Owned Asset /// Fully Immersive Metaverse Experience\nA faint blip registered on her instruments. A rare mix of artificial materials, some no longer produced by any faction, was dead ahead. Zulro coasted toward the signal and discovered a Vintage Astronaut Suit, an archaic garment worn by human explorers in harsh conditions.\nThe suit was weathered by time, but its functions were intact. It could still protect the wearer from harmful cosmic radiation during extravehicular activities and provide a modest health boost — a testament to human engineering even during ancient times.\nThe retrieval was easy — almost too simple an affair. With her bounty secured, Zulro wasn’t about to press her luck in hostile territory, so she initiated a turnaround and glided slowly along a heading that would take her back to the safety of a Security Zone. The JetJet could roar, but Zulro kept its power signature low to avoid detection by Ustur patrols.\nA split second after the JetJet’s alarm sounded, two explosions disabled the ship’s engine. The torpedoes were fired from a Calico Guardian called The Curator, captained by an Ustur museum director named Embr.soul, who needed new objects in their collection to attract visitors to prestigious exhibitions of NFT-powered experiences. A continued rotation of rare items on display was the only way to justify their hiked ticket prices.\nJudging from the assortment of rare collectible tags on Embr’s accoutrements, Zulro could tell they were acquisitive. There was no point in negotiating. With her ship dead, the ONI transferred her Vintage Astronaut Suit to the Ustur android, the NFT passing from one wallet to another in hopes that her ship would be spared from destruction.\nAs final punishment for the ONI intruder, The Curator fired off a blast from its heavy turret. In the final seconds of Zulro’s existence, she realized the MUD captain must have struck a deal with the Ustur collector. They needed her specialized in-depth scanning equipment — gear that only an explorer would install on her ship — to locate the prized artifact.\nThis is Star Atlas. A friend today could be a foe tomorrow. Factional strife, guild skirmishes, economic leverage and espionage are all part of the game. The year is 2620. Prepare for deep space exploration, combat, diplomacy, and conquest by visiting staratlas.com.\nABOUT STAR ATLAS\nStar Atlas is a next-gen gaming Metaverse emerging from the confluence of state of the art blockchain, real-time graphics, multiplayer video game, and decentralized financial technologies.\nReal-time graphics technology using Unreal Engine 5’s Nanite allows for cinematic quality video game visuals. Blockchain technology using the Solana protocol establishes a largely serverless and secured gameplay experience. Non-fungible tokens obtained and traded within Star Atlas create an economy that replicates the tangibility of real world assets and ownership. To learn more, visit StarAtlas.com, join a faction at Play.StarAtlas.com and send your spaceships on a deep space mission by enrolling them into a Faction Fleet.\nJOIN OUR COMMUNITY\nTwitter | Discord | Telegram | Youtube | Instagram | Reddit | Facebook | Linkedin | Medium | Tik Tok | Twitch\nPrev\nStar Atlas In-Game Play: Adventures as a MUD Explorer\nNext\nThe Countdown Starts: Inbound WAVE 4 Spaceship Drop Featuring Payment with ATLAS\nBrace yourself for four heavily anticipated new intergalactic spaceships, which will now also be available for purchase with the in-game ATLAS currency.\nTrailer\nWe use cookies to enhance your experience and analyze our site usage.\nPlease see our Privacy Policy\nfor more information.\nAccept Cookies",
+  "content_hash": "6002bd4d0b8d6b29c89dd0daf0f60c459673437a06676b82479ed88033e4fdd1",
+  "entities": [
+    "ATLAS",
+    "Crew",
+    "Faction Fleet",
+    "Galactic Marketplace",
+    "POLIS",
+    "Solana"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-BE3F6F5D62BE9688-01",
+      "text": "Star Atlas NFT Cosmos: The Hunt for an Ancient Artifact | Star Atlas Play Now Economic Reports White Paper • PDF Read Our Official White Paper!",
+      "claim_type": "EVENT_OCCURRED",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-BE3F6F5D62BE9688",
+      "publication_date": "2021-10-26",
+      "confidence": "MEDIUM",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-BE3F6F5D62BE9688-02",
+      "text": "With her ship dead, the ONI transferred her Vintage Astronaut Suit to the Ustur android, the NFT passing from one wallet to another in hopes that her ship would be spared from destruction.",
+      "claim_type": "EVENT_OCCURRED",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-BE3F6F5D62BE9688",
+      "publication_date": "2021-10-26",
+      "confidence": "MEDIUM",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-BE3F6F5D62BE9688-03",
+      "text": "JOIN OUR COMMUNITY Twitter | Discord | Telegram | Youtube | Instagram | Reddit | Facebook | Linkedin | Medium | Tik Tok | Twitch Prev Star Atlas In-Game Play: Adventures as a MUD Explorer Next The Countdown Starts: Inbound WAVE 4 Spaceship Drop Featuring Payment with ATLAS Brace yourself for four heavily anticipated new intergalactic spaceships, which will now also be available for purchase with the in-game ATLAS currency.",
+      "claim_type": "ANNOUNCEMENT",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-BE3F6F5D62BE9688",
+      "publication_date": "2021-10-26",
+      "confidence": "HIGH",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Faction Fleet",
+    "Galactic Marketplace",
+    "POLIS",
+    "ATLAS",
+    "Crew"
+  ],
+  "governance_items": [],
+  "lore_items": [
+    "MUD",
+    "ONI",
+    "Ustur"
+  ],
+  "actors": [],
+  "organizations": [
+    "Solana"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://experience.staratlas.com/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://play.staratlas.com",
+      "anchor_text": "Play Now"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/economic-reports/",
+      "anchor_text": "Economic Reports"
+    },
+    {
+      "url": "https://experience.staratlas.com/assets/pdfs/white-paper.pdf",
+      "anchor_text": "White Paper • PDF Read Our Official White Paper!"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/governance-documentation",
+      "anchor_text": "Governance Documentation Learn how Star Atlas is governed and built by its community."
+    },
+    {
+      "url": "https://coinmarketcap.com/currencies/star-atlas/",
+      "anchor_text": "CMC"
+    },
+    {
+      "url": "https://www.coingecko.com/en/coins/star-atlas",
+      "anchor_text": "CoinGecko"
+    },
+    {
+      "url": "https://coinmarketcap.com/currencies/star-atlas-polis/",
+      "anchor_text": "CMC"
+    },
+    {
+      "url": "https://www.coingecko.com/en/coins/star-atlas-dao",
+      "anchor_text": "CoinGecko"
+    },
+    {
+      "url": "https://twitter.com/staratlas",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://discord.gg/staratlas",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://t.me/staratlasgame",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/StarAtlas/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://www.facebook.com/StarAtlasMMO",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://www.instagram.com/staratlasgame/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCt-y8Npwje5KDG5MSZ0a9Jw",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://www.twitch.tv/staratlasgame",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://experience.staratlas.com/terms-of-service",
+      "anchor_text": "Terms of Service"
+    },
+    {
+      "url": "https://experience.staratlas.com/privacy-policy",
+      "anchor_text": "Privacy Policy"
+    },
+    {
+      "url": "https://experience.staratlas.com/promotional-terms-and-conditions",
+      "anchor_text": "Promotional Terms"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/news",
+      "anchor_text": "Back"
+    },
+    {
+      "url": "http://play.staratlas.com/faction",
+      "anchor_text": "faction"
+    },
+    {
+      "url": "https://play.staratlas.com/leaderboards",
+      "anchor_text": "MUD"
+    },
+    {
+      "url": "https://medium.com/star-atlas/star-atlas-mud-faction-captain-66db0bc4cf14",
+      "anchor_text": "supply run"
+    },
+    {
+      "url": "https://play.staratlas.com/market/2W6ff8LajAwekXVxDARGQ9QFNcRbxmJPE2p3eNsGR7Qu",
+      "anchor_text": "Opal JetJet"
+    },
+    {
+      "url": "https://play.staratlas.com/market/C5UdbBXYyeDFPcNjw9zQkcWadzP6tgKoCp7YxhqGcJp1",
+      "anchor_text": "Galactic Marketplace"
+    },
+    {
+      "url": "https://play.staratlas.com/market/6Y4bSkNwcugHzDc8eDSqDL9m15mQi9Mc8UncxVm5YZRX",
+      "anchor_text": "Vintage Astronaut Suit"
+    },
+    {
+      "url": "https://play.staratlas.com/market/4TpCAobnJfGFRbZ8gAppS9aZBwEGG1k9tRVmx6FPUvUp",
+      "anchor_text": "Calico Guardian"
+    },
+    {
+      "url": "https://staratlas.com/",
+      "anchor_text": "staratlas.com"
+    },
+    {
+      "url": "https://c212.net/c/link/?t=0&l=en&o=3518016-1&h=2748636143&u=https%3A%2F%2Fc212.net%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D3397231-1%26h%3D2982849003%26u%3Dhttp%253A%252F%252Fsolana.com%252F%26a%3DSolana&a=Solana",
+      "anchor_text": "Solana"
+    },
+    {
+      "url": "https://c212.net/c/link/?t=0&l=en&o=3518016-1&h=1530369193&u=https%3A%2F%2Fc212.net%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D3397231-1%26h%3D3652583731%26u%3Dhttps%253A%252F%252Fstaratlas.com%252F%26a%3DStarAtlas.com&a=StarAtlas.com",
+      "anchor_text": "StarAtlas.com"
+    },
+    {
+      "url": "https://c212.net/c/link/?t=0&l=en&o=3518016-1&h=3921988929&u=https%3A%2F%2Fc212.net%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D3397231-1%26h%3D445912205%26u%3Dhttp%253A%252F%252Fplay.staratlas.com%252F%26a%3DPlay.StarAtlas.com&a=Play.StarAtlas.com",
+      "anchor_text": "Play.StarAtlas.com"
+    },
+    {
+      "url": "https://www.reddit.com/r/StarAtlas",
+      "anchor_text": "Reddit"
+    },
+    {
+      "url": "https://www.linkedin.com/company/star-atlas",
+      "anchor_text": "Linkedin"
+    },
+    {
+      "url": "https://medium.com/star-atlas",
+      "anchor_text": "Medium"
+    },
+    {
+      "url": "https://www.tiktok.com/@staratlasmetaverse",
+      "anchor_text": "Tik Tok"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/article/star-atlas-in-game-play-adventures-as-a-mud-explorer",
+      "anchor_text": "Prev Star Atlas In-Game Play: Adventures as a MUD Explorer"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/article/the-countdown-starts-inbound-wave-4-spaceship-drop-featuring-payment-with",
+      "anchor_text": "Next The Countdown Starts: Inbound WAVE 4 Spaceship Drop Featuring Payment with ATLAS Brace yourself for four heavily anticipated new intergalactic spaceships, which will now also be available for purchase with the in-game ATLAS currency."
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/article/star-atlas-nft-cosmos-the-hunt-for-an-ancient-artifact",
+      "anchor_text": "Trailer"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://experience.staratlas.com/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://play.staratlas.com",
+      "anchor_text": "Play Now"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/economic-reports/",
+      "anchor_text": "Economic Reports"
+    },
+    {
+      "url": "https://experience.staratlas.com/assets/pdfs/white-paper.pdf",
+      "anchor_text": "White Paper • PDF Read Our Official White Paper!"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/governance-documentation",
+      "anchor_text": "Governance Documentation Learn how Star Atlas is governed and built by its community."
+    },
+    {
+      "url": "https://experience.staratlas.com/terms-of-service",
+      "anchor_text": "Terms of Service"
+    },
+    {
+      "url": "https://experience.staratlas.com/privacy-policy",
+      "anchor_text": "Privacy Policy"
+    },
+    {
+      "url": "https://experience.staratlas.com/promotional-terms-and-conditions",
+      "anchor_text": "Promotional Terms"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/news",
+      "anchor_text": "Back"
+    },
+    {
+      "url": "http://play.staratlas.com/faction",
+      "anchor_text": "faction"
+    },
+    {
+      "url": "https://play.staratlas.com/leaderboards",
+      "anchor_text": "MUD"
+    },
+    {
+      "url": "https://play.staratlas.com/market/2W6ff8LajAwekXVxDARGQ9QFNcRbxmJPE2p3eNsGR7Qu",
+      "anchor_text": "Opal JetJet"
+    },
+    {
+      "url": "https://play.staratlas.com/market/C5UdbBXYyeDFPcNjw9zQkcWadzP6tgKoCp7YxhqGcJp1",
+      "anchor_text": "Galactic Marketplace"
+    },
+    {
+      "url": "https://play.staratlas.com/market/6Y4bSkNwcugHzDc8eDSqDL9m15mQi9Mc8UncxVm5YZRX",
+      "anchor_text": "Vintage Astronaut Suit"
+    },
+    {
+      "url": "https://play.staratlas.com/market/4TpCAobnJfGFRbZ8gAppS9aZBwEGG1k9tRVmx6FPUvUp",
+      "anchor_text": "Calico Guardian"
+    },
+    {
+      "url": "https://staratlas.com/",
+      "anchor_text": "staratlas.com"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/article/star-atlas-in-game-play-adventures-as-a-mud-explorer",
+      "anchor_text": "Prev Star Atlas In-Game Play: Adventures as a MUD Explorer"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/article/the-countdown-starts-inbound-wave-4-spaceship-drop-featuring-payment-with",
+      "anchor_text": "Next The Countdown Starts: Inbound WAVE 4 Spaceship Drop Featuring Payment with ATLAS Brace yourself for four heavily anticipated new intergalactic spaceships, which will now also be available for purchase with the in-game ATLAS currency."
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/article/star-atlas-nft-cosmos-the-hunt-for-an-ancient-artifact",
+      "anchor_text": "Trailer"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://experience.staratlas.com/newsroom/article/star-atlas-nft-cosmos-the-hunt-for-an-ancient-artifact",
+    "final_url": "https://experience.staratlas.com/newsroom/article/star-atlas-nft-cosmos-the-hunt-for-an-ancient-artifact",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "response_size": 68413,
+    "retrieved_at": "2026-07-13T01:04:37.875240Z",
+    "elapsed_ms": 256
+  }
+}

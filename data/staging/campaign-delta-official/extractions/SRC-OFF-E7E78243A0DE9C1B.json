@@ -1,0 +1,143 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-E7E78243A0DE9C1B",
+    "url": "https://staratlas.com/game/",
+    "title": "Game Overview | Star Atlas",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas / ATMTA",
+    "published_at": null,
+    "updated_at": null,
+    "original_date_text": null,
+    "document_type": "REFERENCE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas / ATMTA",
+    "publication_role": "LORE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://play.staratlas.com",
+        "anchor_text": "Play Now"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official lore titled “Game Overview | Star Atlas.” This record preserves what Star Atlas / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Game Overview | Star Atlas\n0001.\nThe Game\nStar Atlas offers multiple ways to experience the Galia Expanse. Explore on foot in third-person, command vast fleets from a strategic view, or dive into the economy. Choose your path and shape the galaxy's future.\nYour browser does not support the video tag.\nThird-Person Experience\nImmerse yourself in AAA-quality exploration. Walk the decks of your ships, engage in FPS combat, and experience Galia up close.\nShip interior exploration\nFPS and ship-to-ship combat\nResource extraction missions\nQuest-driven storylines\nFleet Command RTS\nSwitch to a top-down strategic view to manage your entire armada. Coordinate fleet movements, control territories, and outmaneuver rival factions.\nMass fleet management\nTerritory control\nFaction warfare\nReal-time strategy\nBrowser-Based Play\nAccess Star Atlas from any device. SAGE Labs and Holosim bring the economy and fleet simulation to your browser. No downloads required.\nPlay anywhere\nNo special hardware needed\nFull economic participation\nFree-to-play options\nReady to Begin?\nChoose your entry point into the Star Atlas universe. Start with the free Holosim simulation or dive into the full experience.\nPlay Now\nExplore More Features\nGalia ExpanseGame ModesYour Fleet, Your WayLife in GaliaFleet CommandHolosim",
+  "content_hash": "6b85dc5a6d91dce959c8e990d149ac983f1936e92c17bdf857d5dc1de416ae41",
+  "entities": [
+    "ATLAS",
+    "Fleet Command",
+    "Holosim",
+    "SAGE",
+    "SAGE Labs"
+  ],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "SAGE Labs",
+    "SAGE",
+    "ATLAS",
+    "Holosim",
+    "Fleet Command"
+  ],
+  "governance_items": [],
+  "lore_items": [
+    "Galia"
+  ],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://play.staratlas.com",
+      "anchor_text": "Play Now"
+    },
+    {
+      "url": "https://staratlas.com/game/galia/",
+      "anchor_text": "Galia Expanse"
+    },
+    {
+      "url": "https://staratlas.com/game/game-modes/",
+      "anchor_text": "Game Modes"
+    },
+    {
+      "url": "https://staratlas.com/game/your-fleet-your-way/",
+      "anchor_text": "Your Fleet, Your Way"
+    },
+    {
+      "url": "https://staratlas.com/game/life-in-galia/",
+      "anchor_text": "Life in Galia"
+    },
+    {
+      "url": "https://staratlas.com/game/fleet-command/",
+      "anchor_text": "Fleet Command"
+    },
+    {
+      "url": "https://staratlas.com/game/holosim/",
+      "anchor_text": "Holosim"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://play.staratlas.com",
+      "anchor_text": "Play Now"
+    },
+    {
+      "url": "https://staratlas.com/game/galia/",
+      "anchor_text": "Galia Expanse"
+    },
+    {
+      "url": "https://staratlas.com/game/game-modes/",
+      "anchor_text": "Game Modes"
+    },
+    {
+      "url": "https://staratlas.com/game/your-fleet-your-way/",
+      "anchor_text": "Your Fleet, Your Way"
+    },
+    {
+      "url": "https://staratlas.com/game/life-in-galia/",
+      "anchor_text": "Life in Galia"
+    },
+    {
+      "url": "https://staratlas.com/game/fleet-command/",
+      "anchor_text": "Fleet Command"
+    },
+    {
+      "url": "https://staratlas.com/game/holosim/",
+      "anchor_text": "Holosim"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "LOW",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://staratlas.com/game/",
+    "final_url": "https://staratlas.com/game/",
+    "http_status": 200,
+    "content_type": "text/html",
+    "response_size": 7779,
+    "retrieved_at": "2026-07-13T01:05:02.592717Z",
+    "elapsed_ms": 382
+  }
+}

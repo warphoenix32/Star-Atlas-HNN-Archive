@@ -1,0 +1,132 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-CB82A1B778C57ED7",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47053503072659-How-to-Warp-Subwarp-in-Starbased",
+    "title": "How to Warp/Subwarp in Starbased?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-03T13:16:59Z",
+    "updated_at": "2025-12-08T18:24:28Z",
+    "original_date_text": "2025-12-03T13:16:59Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “How to Warp/Subwarp in Starbased?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Moving your fleet across the Galia Expanse in Starbased requires using warp or subwarp travel. Here’s a straightforward guide:\nUndock Your Fleet\nGo to your Starbase and find your fleet in the Fleet Overview.\nSelect your fleet and click “Undock.”\nApprove the transaction in your wallet to launch your fleet into space.\nChoose Warp or Subwarp\nClick on your undocked fleet to view travel options:\nWarp: Faster, higher resource consumption.\nSubwarp: Slower, lower resource consumption.\nSet Your Destination\nClick on the sector you wish to travel to on the map.\nSelect “Start Warp” or “Start Subwarp.”\nApprove the wallet transaction to begin your journey.",
+  "content_hash": "df6f3d8170bb4ed96cbede9e8684491c2c139bba120635964bc02c6d67d4f468",
+  "entities": [],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-CB82A1B778C57ED7-01",
+      "text": "Moving your fleet across the Galia Expanse in Starbased requires using warp or subwarp travel.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-CB82A1B778C57ED7",
+      "publication_date": "2025-12-03T13:16:59Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-CB82A1B778C57ED7-02",
+      "text": "Here’s a straightforward guide: Undock Your Fleet Go to your Starbase and find your fleet in the Fleet Overview.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-CB82A1B778C57ED7",
+      "publication_date": "2025-12-03T13:16:59Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-CB82A1B778C57ED7-03",
+      "text": "Select your fleet and click “Undock.” Approve the transaction in your wallet to launch your fleet into space.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-CB82A1B778C57ED7",
+      "publication_date": "2025-12-03T13:16:59Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-CB82A1B778C57ED7-04",
+      "text": "Choose Warp or Subwarp Click on your undocked fleet to view travel options: Warp: Faster, higher resource consumption.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-CB82A1B778C57ED7",
+      "publication_date": "2025-12-03T13:16:59Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-CB82A1B778C57ED7-05",
+      "text": "Set Your Destination Click on the sector you wish to travel to on the map.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-CB82A1B778C57ED7",
+      "publication_date": "2025-12-03T13:16:59Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-CB82A1B778C57ED7-06",
+      "text": "Select “Start Warp” or “Start Subwarp.” Approve the wallet transaction to begin your journey.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-CB82A1B778C57ED7",
+      "publication_date": "2025-12-03T13:16:59Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "lore_items": [
+    "Galia"
+  ],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47053503072659-How-to-Warp-Subwarp-in-Starbased",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.341981Z"
+  }
+}

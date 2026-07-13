@@ -1,0 +1,141 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-67B2CF1C4180263C",
+    "url_id": "URL-67B2CF1C4180263C",
+    "url": "https://hologramnews.com/unveiling-star-atlas-the-future-of-vehicle-based-space-exploration",
+    "title": "Unveiling Star Atlas: The Future of Vehicle-Based Space Exploration - Hologram News Network 🦉",
+    "author": "UNKNOWN",
+    "publisher": "Hologram News Network (HNN)",
+    "publication_identity": "HNN website (hologramnews.com)",
+    "published_at": "2024-02-13T19:00:14+00:00",
+    "updated_at": "2024-02-19T23:25:17+00:00",
+    "retrieved_at": "2026-07-13T00:08:09.804233Z",
+    "document_type": "ORIGINAL_INTERVIEW",
+    "source_role": "ORIGINAL_INTERVIEW",
+    "publication_role": "ORIGINAL_INTERVIEW",
+    "classification_rationale": "Publication explicitly presents an interview or Q&A."
+  },
+  "source_lineage": {
+    "publication": "HNN website (hologramnews.com)",
+    "publication_role": "ORIGINAL_INTERVIEW",
+    "relationship": "INTERVIEWS",
+    "primary_sources": [
+      {
+        "publication": "Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://staratlas.com/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [],
+    "attribution_chain": [
+      {
+        "from": "Star Atlas",
+        "to": "HNN website (hologramnews.com)",
+        "relationship": "INTERVIEWS",
+        "url": "https://staratlas.com/"
+      }
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "This original interview published by Hologram News Network (HNN) on 2024-02-13 documents “Unveiling Star Atlas: The Future of Vehicle-Based Space Exploration - Hologram News Network 🦉.” Its surviving text addresses economy, game development, community, lore, technology. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "Unveiling Star Atlas: The Future of Vehicle-Based Space Exploration\nBy Hologram News NetworkPublished On: 13 February 2024Tags: Interview, Star Atlas Unreal Engine 5\nStar Atlas Vehicle Art Director Explores Ship Customization and Manufacturing in Exclusive Interview\nDominic Vain, Senior Community Manager for Star Atlas recently interviewed Star Atlas‘ Vehicle Art Director, Gary Sanchez, in their video series, Navigating Star Atlas, revealing new insights about the development process of Star Atlas spacecraft designs and customization. The discussion revealed everything about vehicles, manufacturers, and more, shedding light on fascinating aspects of Star Atlas‘s futuristic gaming metaverse.\nDuring the interview, Sanchez highlighted his design background, including his experience in graphics, automotive design, architecture projects, advertising, military and aeronautics, and films. He outlined how his varied career influences his work in creating immersive virtual spaceships for Star Atlas.\nIn defining his role at Star Atlas, Sanchez explained that he oversees the vehicle department and ensures that concepts translate seamlessly into 3D and Unreal Engine, aligning with the broader vision of the game design department. His responsibility extends to the creation of various ship designs, moving from 2D sketches or 3D quick blockouts to implementing gameplay convergence and finally overseeing 3D production to Unreal Engine.\nExcitingly, Sanchez touched on the topic of ship customization. The ultimate goal of the Star Atlas team is to allow players maximum freedom, from crafting skins and graphics to configuring weapons. He hinted on a system being developed which would offer players an incredible level of freedom to tailor their ship interiors.\nWorking on Titan classes ships, the largest player-owned spaceships in the game, Sanchez admitted, is a daunting task due to their sheer size and the detailed interiors that need to be created. He described the necessary research and development conducted to make such ships efficiently, from large class to Commander class ships.\nDiscussing space vehicle brands, he revealed the creative challenge of ensuring each ship brand has its unique look and feel, influenced by considerations like high tech levels, aesthetic preferences, and specific technological attributes. Star Atlas has created a diverse range of manufacturers, each having its signature charm and aesthetic.\nAs the interview came to an end, Sanchez expressed gratitude for being part of the Star Atlas team, full of industry-experienced designers and developers. He acknowledged the efforts being made to create the best game possible to transport players into a captivating and detail-rich metaverse.\nStar Atlas, harnessing Unreal Engine 5’s real-time graphics technology and Solana protocol’s blockchain technology, presents next-generation gaming with cinematic visuals and secure gameplays. Its use of non-fungible tokens establishes a concrete, real-world-like asset economy within its universe.\nAbout the Author: Hologram News Network\nThe Hologram is Star Atlas’ first and only independent news network. HNN's goal is to deliver the most trusted source of information about Star Atlas and be a voice for the whole community.Simultaneously, HNN seeks to enable community driven content creation by supporting and sponsoring emerging creators, writers, and community members.Readers can expect a high standard from our reporting and staff.\nlatest video\neditor's pick\nDiscover Star Atlas Alpha Content Pipelines at Solana Breakpoint 2022\nUnlocking Star Atlas Secrets: CEO Michael Wagner’s CoinDesk.TV Exclusive\nnews via inbox\nGet news from the Hologram first\nVisit Galia Art Station",
+  "content_hash": "418694e3f4a62445f74867f72bc2e446c6291f05e0f25c6f4ec8031fb959df6c",
+  "major_topics": [
+    "economy",
+    "game development",
+    "community",
+    "lore",
+    "technology"
+  ],
+  "entities": [
+    "ATLAS",
+    "Michael Wagner",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Star Atlas",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [
+    "Michael Wagner"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://hologramnews.com/unveiling-star-atlas-the-future-of-vehicle-based-space-exploration/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://hologramnews.com/author/hologramnews-com/",
+      "anchor_text": "Hologram News Network"
+    },
+    {
+      "url": "https://hologramnews.com/tag/interview/",
+      "anchor_text": "Interview"
+    },
+    {
+      "url": "https://hologramnews.com/tag/ue5/",
+      "anchor_text": "Star Atlas Unreal Engine 5"
+    },
+    {
+      "url": "https://staratlas.com/",
+      "anchor_text": "Star Atlas"
+    },
+    {
+      "url": "https://hologramnews.com/category/ue5/",
+      "anchor_text": "Unreal Engine"
+    },
+    {
+      "url": "https://hologramnews.com/discover-star-atlas-alpha-content-pipelines-at-solana-breakpoint-2022/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://hologramnews.com/unlocking-star-atlas-secrets-ceo-michael-wagners-coindesk-tv-exclusive/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://hologramnews.com/galia-art-station/",
+      "anchor_text": "Visit Galia Art Station"
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "UNKNOWN",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Author is not explicit in the surviving publication metadata."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://web.archive.org/web/20240417022525id_/https://hologramnews.com/unveiling-star-atlas-the-future-of-vehicle-based-space-exploration/",
+    "final_url": "https://web.archive.org/web/20240417022525id_/https://hologramnews.com/unveiling-star-atlas-the-future-of-vehicle-based-space-exploration/",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "response_size": 217764,
+    "elapsed_ms": 2624,
+    "retrieval_mode": "INTERNET_ARCHIVE",
+    "archive_capture": {
+      "timestamp": "20240417022525",
+      "original": "https://hologramnews.com/unveiling-star-atlas-the-future-of-vehicle-based-space-exploration/",
+      "digest": "5QKFMJS72KBKAFTLDFMA4VPHY7ABU7H2"
+    }
+  }
+}

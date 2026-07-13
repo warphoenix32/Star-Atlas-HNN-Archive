@@ -1,0 +1,294 @@
+{
+  "source": {
+    "source_id": "SRC-IH-5FBC5D6A77CBDBE7",
+    "url_id": "URL-5FBC5D6A77CBDBE7",
+    "url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-98/",
+    "inventory_url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-98",
+    "title": "Star Atlas Weekly News Recap #98",
+    "author": "Intergalactic Herald",
+    "publisher": "Intergalactic Herald",
+    "published_at": "2024-02-04T17:00:00",
+    "updated_at": "2024-02-04T12:27:07",
+    "retrieved_at": "2026-07-12T22:03:49.850099Z",
+    "document_type": "NEWSLETTER",
+    "source_role": "CURATED_SUMMARY",
+    "source_classification": "CURATED_SUMMARY",
+    "classification_rationale": "Weekly newsletter/recap aggregates developments and linked sources.",
+    "wordpress_type": "posts"
+  },
+  "summary": {
+    "neutral_abstract": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week. We are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us. We are launching a Star Atlas merch store. Please check it out at Intergalactic",
+    "historical_value": "Contemporary Intergalactic Herald publication preserved with role and attribution boundaries.",
+    "current_validity_warning": "Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources."
+  },
+  "article_text": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week.\nWe are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us.\nWe are launching a Star Atlas merch store. Please check it out at Intergalactic Gear.\nWe are creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic Coalition.\nIf you would like to support our efforts, donations can be sent to intergalacticherald.sol\nMetaverse Nomads #131 New Biggest Freighter in Star Atlas\nMetaverse Nomads posted a video of their latest Star Atlas livestream.\nWEEKLY STAR ATLAS NEWSLETTER #114\nAephia published their latest Star Atlas newsletter.\nStar Atlas: SCORE VS SAGE (part 5) Lab Assistant Tutorial cont.\nBeyond the Horizon posted a video continuing his tutorial of SAGE tools.\nStar Atlas: CEO Michael Wagner Interview w/ Neo-Tokyo News\nBeyond the Horizon posted a video replay of an interview with Star Atlas CEO Michael Wagner.\nAtlas Brew #97\nStar Atlas TV posted a video reply of the latest Atlas Brew.\nThe Rise of Corporations — Star Atlas Launches DAC Platform V0\nStar Atlas published an article about the release of the DAC Platform.\nSTAR ATLAS #219 HOLY SH*T, also the DAC platform.\nMetaVerse Explorer posted a video of Star Atlas updates.\nStar Atlas 101 — I have $20, what can I do?\nGalia Crafters published an article about how to play Star Atlas with $20.",
+  "content_hash": "bf4477d56e8d75baf3a3906318f1783900a21a21f63c058a472dcce10e505074",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [],
+  "external_sources": [
+    {
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=nz4-NQplxRY",
+      "anchor_text": "latest Star Atlas livestream"
+    },
+    {
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-114/",
+      "anchor_text": "latest Star Atlas newsletter"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=LZqwUjC1SEo",
+      "anchor_text": "tutorial of SAGE tools"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=JTdbLmKFnS4",
+      "anchor_text": "interview with Star Atlas CEO Michael Wagner"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=dgus-u5x7vk",
+      "anchor_text": "latest Atlas Brew"
+    },
+    {
+      "url": "https://medium.com/star-atlas/the-rise-of-corporations-star-atlas-launches-dac-platform-v0-b6eb60df626a",
+      "anchor_text": "DAC Platform"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Dtt0smU1QlU",
+      "anchor_text": "Star Atlas updates"
+    },
+    {
+      "url": "https://galiacrafters.medium.com/star-atlas-101-i-have-20-what-can-i-do-3e9c72e421d2",
+      "anchor_text": "how to play Star Atlas with $20"
+    }
+  ],
+  "primary_source_relationships": [
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=nz4-NQplxRY",
+      "anchor_text": "latest Star Atlas livestream"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-114/",
+      "anchor_text": "latest Star Atlas newsletter"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=LZqwUjC1SEo",
+      "anchor_text": "tutorial of SAGE tools"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=JTdbLmKFnS4",
+      "anchor_text": "interview with Star Atlas CEO Michael Wagner"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=dgus-u5x7vk",
+      "anchor_text": "latest Atlas Brew"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://medium.com/star-atlas/the-rise-of-corporations-star-atlas-launches-dac-platform-v0-b6eb60df626a",
+      "anchor_text": "DAC Platform"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=Dtt0smU1QlU",
+      "anchor_text": "Star Atlas updates"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://galiacrafters.medium.com/star-atlas-101-i-have-20-what-can-i-do-3e9c72e421d2",
+      "anchor_text": "how to play Star Atlas with $20"
+    }
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Verify which outbound links are primary sources and preserve creator attribution during promotion."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-98&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 5142,
+    "elapsed_ms": 1767,
+    "attempts": [
+      {
+        "endpoint": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-98&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "http_status": 200,
+        "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-98&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "content_type": "application/json; charset=UTF-8",
+        "response_size": 5142,
+        "elapsed_ms": 1767
+      }
+    ]
+  },
+  "source_lineage": {
+    "publication": "Intergalactic Herald",
+    "publication_role": "CURATED_SUMMARY",
+    "relationship": "CURATED_SUMMARY_OF",
+    "primary_sources": [
+      {
+        "publication": "latest Star Atlas livestream",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=nz4-NQplxRY",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest Star Atlas livestream"
+      },
+      {
+        "publication": "latest Star Atlas newsletter",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-114/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest Star Atlas newsletter"
+      },
+      {
+        "publication": "tutorial of SAGE tools",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=LZqwUjC1SEo",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: tutorial of SAGE tools"
+      },
+      {
+        "publication": "interview with Star Atlas CEO Michael Wagner",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=JTdbLmKFnS4",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: interview with Star Atlas CEO Michael Wagner"
+      },
+      {
+        "publication": "latest Atlas Brew",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=dgus-u5x7vk",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest Atlas Brew"
+      },
+      {
+        "publication": "DAC Platform",
+        "author": "UNKNOWN",
+        "url": "https://medium.com/star-atlas/the-rise-of-corporations-star-atlas-launches-dac-platform-v0-b6eb60df626a",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: DAC Platform"
+      },
+      {
+        "publication": "Star Atlas updates",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=Dtt0smU1QlU",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas updates"
+      },
+      {
+        "publication": "how to play Star Atlas with $20",
+        "author": "UNKNOWN",
+        "url": "https://galiacrafters.medium.com/star-atlas-101-i-have-20-what-can-i-do-3e9c72e421d2",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: how to play Star Atlas with $20"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "publication": "Intergalactic Gear",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticgear.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Intergalactic Coalition",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticcoalition.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      }
+    ],
+    "original_creators": [
+      "Aephia",
+      "Star Atlas"
+    ],
+    "attribution_chain": [
+      {
+        "from": "latest Star Atlas livestream",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=nz4-NQplxRY"
+      },
+      {
+        "from": "latest Star Atlas newsletter",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-114/"
+      },
+      {
+        "from": "tutorial of SAGE tools",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=LZqwUjC1SEo"
+      },
+      {
+        "from": "interview with Star Atlas CEO Michael Wagner",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=JTdbLmKFnS4"
+      },
+      {
+        "from": "latest Atlas Brew",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=dgus-u5x7vk"
+      },
+      {
+        "from": "DAC Platform",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://medium.com/star-atlas/the-rise-of-corporations-star-atlas-launches-dac-platform-v0-b6eb60df626a"
+      },
+      {
+        "from": "Star Atlas updates",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=Dtt0smU1QlU"
+      },
+      {
+        "from": "how to play Star Atlas with $20",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://galiacrafters.medium.com/star-atlas-101-i-have-20-what-can-i-do-3e9c72e421d2"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  }
+}

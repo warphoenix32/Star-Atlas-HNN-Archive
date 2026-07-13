@@ -1,0 +1,242 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-F2037ECDC1494C46",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47027531542547-How-to-Register-Your-DAC-in-Star-Atlas",
+    "title": "How to Register Your DAC in Star Atlas?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-02T17:34:41Z",
+    "updated_at": "2025-12-08T18:24:15Z",
+    "original_date_text": "2025-12-02T17:34:41Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://play.staratlas.com",
+        "anchor_text": "play.staratlas.com"
+      },
+      {
+        "url": "https://play.staratlas.com/dac",
+        "anchor_text": "DAC Platform"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “How to Register Your DAC in Star Atlas?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Creating your own Decentralized Autonomous Corporation (DAC) is the first step toward building a lasting legacy in the Galia Expanse. Whether your goal is to mine, trade, explore, or conquer, registering your DAC gives you a unique identity and platform to lead others.\nFollow this step-by-step guide to get started:\n1. Connect Your Wallet\nHead to play.staratlas.com\nClick the wallet icon at the bottom-left of the screen\nConnect your Solana wallet to access the DAC Platform\n2. Open the DAC Platform\nOnce your wallet is connected, click the DAC icon (bottom-left)\nThis will take you to the DAC dashboard where you can view or create organizations\n3. Create Your DAC\nClick “Register a New DAC”\nYou’ll be taken through a simple multi-step setup process:\nChoose Your DAC Name\nYour name defines your DAC’s identity in the Star Atlas universe. Make it meaningful, representative, and aligned with your vision\nSet Your DAC Avatar & Cover\nThese visuals represent your DAC throughout the platform\nRequirements:\nAvatar: 1080 × 1080 pixels\nCover: 1200 × 360 pixels\nMax File Size: 2MB\nImages must comply with content guidelines and pass an automated approval process\nWrite Your DAC Description\nThis is your pitch to future members. Share your values, goals, gameplay style, and what kind of players you’re looking to recruit\nAdd Tags\nTags help others find DACs aligned with their interests. You can create your own, such as:\nCombat\n,\nFreight\n,\nMining\n,\nUstur\n,\nCompetitive\n,\nCasual\n, etc.\n4. Finalize & Publish\nReview all your inputs and visuals\nWhen ready, click Confirm to complete registration\nYou’ll receive a unique DAC invite link you can share with others\n5. Start Recruiting\nYour DAC is now visible in the official registry! Share your invite link or welcome players browsing DACs through the platform.\nYour DAC will appear on the DAC Platform and be searchable by name or tag.",
+  "content_hash": "53abeb26eb6397e8efdc7ebb588bdfeb7042936a6b654d98660a3911c2ce0e49",
+  "entities": [
+    "ATLAS",
+    "Solana"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-F2037ECDC1494C46-01",
+      "text": "Creating your own Decentralized Autonomous Corporation (DAC) is the first step toward building a lasting legacy in the Galia Expanse.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F2037ECDC1494C46",
+      "publication_date": "2025-12-02T17:34:41Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F2037ECDC1494C46-02",
+      "text": "Whether your goal is to mine, trade, explore, or conquer, registering your DAC gives you a unique identity and platform to lead others.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F2037ECDC1494C46",
+      "publication_date": "2025-12-02T17:34:41Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F2037ECDC1494C46-03",
+      "text": "Follow this step-by-step guide to get started: 1.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F2037ECDC1494C46",
+      "publication_date": "2025-12-02T17:34:41Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F2037ECDC1494C46-04",
+      "text": "Connect Your Wallet Head to play.staratlas.com Click the wallet icon at the bottom-left of the screen Connect your Solana wallet to access the DAC Platform 2.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F2037ECDC1494C46",
+      "publication_date": "2025-12-02T17:34:41Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F2037ECDC1494C46-05",
+      "text": "Open the DAC Platform Once your wallet is connected, click the DAC icon (bottom-left) This will take you to the DAC dashboard where you can view or create organizations 3.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F2037ECDC1494C46",
+      "publication_date": "2025-12-02T17:34:41Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F2037ECDC1494C46-06",
+      "text": "Create Your DAC Click “Register a New DAC” You’ll be taken through a simple multi-step setup process: Choose Your DAC Name Your name defines your DAC’s identity in the Star Atlas universe.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F2037ECDC1494C46",
+      "publication_date": "2025-12-02T17:34:41Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F2037ECDC1494C46-07",
+      "text": "Make it meaningful, representative, and aligned with your vision Set Your DAC Avatar & Cover These visuals represent your DAC throughout the platform Requirements: Avatar: 1080 × 1080 pixels Cover: 1200 × 360 pixels Max File Size: 2MB Images must comply with content guidelines and pass an automated approval process Write Your DAC Description This is your pitch to future members.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F2037ECDC1494C46",
+      "publication_date": "2025-12-02T17:34:41Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F2037ECDC1494C46-08",
+      "text": "Share your values, goals, gameplay style, and what kind of players you’re looking to recruit Add Tags Tags help others find DACs aligned with their interests.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F2037ECDC1494C46",
+      "publication_date": "2025-12-02T17:34:41Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F2037ECDC1494C46-09",
+      "text": "You can create your own, such as: Combat , Freight , Mining , Ustur , Competitive , Casual , etc.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F2037ECDC1494C46",
+      "publication_date": "2025-12-02T17:34:41Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F2037ECDC1494C46-10",
+      "text": "Finalize & Publish Review all your inputs and visuals When ready, click Confirm to complete registration You’ll receive a unique DAC invite link you can share with others 5.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F2037ECDC1494C46",
+      "publication_date": "2025-12-02T17:34:41Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F2037ECDC1494C46-11",
+      "text": "Start Recruiting Your DAC is now visible in the official registry!",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F2037ECDC1494C46",
+      "publication_date": "2025-12-02T17:34:41Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F2037ECDC1494C46-12",
+      "text": "Share your invite link or welcome players browsing DACs through the platform.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F2037ECDC1494C46",
+      "publication_date": "2025-12-02T17:34:41Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F2037ECDC1494C46-13",
+      "text": "Your DAC will appear on the DAC Platform and be searchable by name or tag.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F2037ECDC1494C46",
+      "publication_date": "2025-12-02T17:34:41Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [
+    "Ustur",
+    "Galia"
+  ],
+  "actors": [],
+  "organizations": [
+    "Solana"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://play.staratlas.com",
+      "anchor_text": "play.staratlas.com"
+    },
+    {
+      "url": "https://play.staratlas.com/dac",
+      "anchor_text": "DAC Platform"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://play.staratlas.com",
+      "anchor_text": "play.staratlas.com"
+    },
+    {
+      "url": "https://play.staratlas.com/dac",
+      "anchor_text": "DAC Platform"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47027531542547-How-to-Register-Your-DAC-in-Star-Atlas",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.293681Z"
+  }
+}

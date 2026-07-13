@@ -1,0 +1,132 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-6FB2232270EDDAA1",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47061484838803-Will-I-be-able-to-choose-a-profession-in-Star-Atlas",
+    "title": "Will I be able to choose a profession in Star Atlas?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-03T17:01:59Z",
+    "updated_at": "2025-12-08T18:23:20Z",
+    "original_date_text": "2025-12-03T17:01:59Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “Will I be able to choose a profession in Star Atlas?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "There will be professional roles that players can build towards based on their chosen ship roles. Players can also earn in-game currency by having the correct ships, crew, and components for their desired roles. Examples of roles:\nTransport\nRescue\nFreight\nRepair\nConstruction\nRefueling\nMiner\nSalvage\nEntrepreneur\nCEO\nBroker\nBounty Hunter\nPirate\nSmuggler\nData Runner\nCommander\nGeneral\nMercenary\nScientist\nCrew members within a ship also have individual station roles such as:\nPilot\nEngineer\nRepair\nScanner\nScience\nGunner\nMercenary\nRescue\nPower Manager\nJanitor\nCargo Foreman\nHangar Foreman\nSalvage Operator\nScience Officer\nMilitary Commander\nMilitary General\nPrivate\nSargent\nRookie\nSmuggle Cargo Foreman\nCaptain\nAlthough we can't go into specifics right now, we are looking forward to making playing each of our careers entertaining! All of them will have an underlying logic and mechanics that will resonate with different gameplay styles, from mining in the deep space to racing leagues on low gravity moons. Hopefully, you will find the one most adequate to your tastes pretty quickly.\nThe crew members of ships are also important. For example, if the ship has a capacity of 3 people and you have more or less qualified crews, you can use the best ones to embark on the same mission and optimize profits.",
+  "content_hash": "dbace328a86e3a21247e1455a39c05d3f200222d1fd9e8c8d32c9380939ee6db",
+  "entities": [
+    "Crew"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-6FB2232270EDDAA1-01",
+      "text": "There will be professional roles that players can build towards based on their chosen ship roles.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-6FB2232270EDDAA1",
+      "publication_date": "2025-12-03T17:01:59Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-6FB2232270EDDAA1-02",
+      "text": "Players can also earn in-game currency by having the correct ships, crew, and components for their desired roles.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-6FB2232270EDDAA1",
+      "publication_date": "2025-12-03T17:01:59Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-6FB2232270EDDAA1-03",
+      "text": "All of them will have an underlying logic and mechanics that will resonate with different gameplay styles, from mining in the deep space to racing leagues on low gravity moons.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-6FB2232270EDDAA1",
+      "publication_date": "2025-12-03T17:01:59Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-6FB2232270EDDAA1-04",
+      "text": "Hopefully, you will find the one most adequate to your tastes pretty quickly.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-6FB2232270EDDAA1",
+      "publication_date": "2025-12-03T17:01:59Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-6FB2232270EDDAA1-05",
+      "text": "The crew members of ships are also important.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-6FB2232270EDDAA1",
+      "publication_date": "2025-12-03T17:01:59Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-6FB2232270EDDAA1-06",
+      "text": "For example, if the ship has a capacity of 3 people and you have more or less qualified crews, you can use the best ones to embark on the same mission and optimize profits.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-6FB2232270EDDAA1",
+      "publication_date": "2025-12-03T17:01:59Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Crew"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47061484838803-Will-I-be-able-to-choose-a-profession-in-Star-Atlas",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.163244Z"
+  }
+}

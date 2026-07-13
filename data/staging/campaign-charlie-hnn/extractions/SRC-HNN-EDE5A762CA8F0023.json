@@ -1,0 +1,201 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-EDE5A762CA8F0023",
+    "url_id": "URL-EDE5A762CA8F0023",
+    "url": "https://medium.com/the-hologram/foundations-of-a-digital-nation-state-the-path-to-sovereignty-f5e224b51174",
+    "title": "Foundations of a Digital Nation-State: the Path to Sovereignty",
+    "author": "bee.bod",
+    "publisher": "The Hologram",
+    "publication_identity": "The Hologram (Medium publication)",
+    "published_at": "2023-02-01T03:23:39Z",
+    "updated_at": "2023-02-01T03:23:39Z",
+    "retrieved_at": "2026-07-13T00:10:23.256142Z",
+    "document_type": "ORIGINAL_REPORTING",
+    "source_role": "ORIGINAL_REPORTING",
+    "publication_role": "ORIGINAL_REPORTING",
+    "classification_rationale": "Publication reports a development without explicit interview, editorial, investigative, event, or reference framing."
+  },
+  "source_lineage": {
+    "publication": "The Hologram (Medium publication)",
+    "publication_role": "ORIGINAL_REPORTING",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [
+      {
+        "publication": "governance channel",
+        "author": "UNKNOWN",
+        "url": "https://discordapp.com/channels/789226204980707409/1026590874865504426/1065326586460639322",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "YouTube",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/channel/UCDa-YxgNG6A9xpH1qyP0OaQ",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://staratlas.com/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [
+      "bee.bod"
+    ],
+    "attribution_chain": [
+      {
+        "from": "governance channel",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://discordapp.com/channels/789226204980707409/1026590874865504426/1065326586460639322"
+      },
+      {
+        "from": "YouTube",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://www.youtube.com/channel/UCDa-YxgNG6A9xpH1qyP0OaQ"
+      },
+      {
+        "from": "Star Atlas",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://staratlas.com/"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "This original reporting published by The Hologram on 2023-02-01 documents “Foundations of a Digital Nation-State: the Path to Sovereignty.” Its surviving text addresses governance, economy, guilds and DACs, community, lore. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "Star AtlasPolitics\nFoundations of a Digital Nation-State: the Path to Sovereignty\nbee.bod2 min read·Feb 1, 2023\n--\n1\nListen\nShare\nPress enter or click to view image in full sizeA mining town in deep space — Star Atlas official concept art\nOn January 18, ATMTA General Counsel Dan Park confirmed in the Star Atlas Discord governance channel that the timeline for a Star Atlas Constitution and voting on proposals (PIPs) in the POLIS DAO has been “pushed back.” With things quiet on the governance front while the team continues building, I thought it would be good to take a look at the ways in which the SA community already governs itself. Public safety, community-built public utilities, and civil society have all emerged over the past two years and can be understood as emergent community self-government. Integrating these community-driven efforts into the formal architecture of the Star Atlas Constitution should be a priority for citizens of the SA metaverse, who long to exist in a truly sovereign digital nation-state.\nFinally, there has been a substantial growth of civil society in the Star Atlas metaverse. The Hologram has led the way in independent SA journalism, while Metaverse Explorer and other YouTube channels provide virtual forums for Star Atlas interviews and discussion. As opinions and information circulate through various media outlets, Star Atlas citizens have the opportunity to get their updates directly from trusted, independent community members. Guilds and DACs are yet another form of emerging independent civil society, each with their own culture, identity, and self-government practices, where opinions and project info circulate independently from ATMTA moderation and visibility. The POLIS DAO should play in active role in fostering the growth of civil society in the metaverse, promoting citizens’ access to independent information and positive freedom of speech.\nOne of my hopes for the POLIS Constitution is that we can find ways to integrate already existing forms of community governance into the long-term architecture of the DAO. This will create a lasting acknowledgment of what the community has built so far and designate some areas where the DAO can begin playing a practical role.\nFollow on Social Media:\nYouTube | Twitter | Instagram | Web\nAbout The Hologram\nThe Hologram is Star Atlas’ first and only independent news network. Our vision is to become the most trusted source of information about Star Atlas and a voice for the whole community. Readers can expect a high standard from our reporting and staff. Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.\nThe Hologram is not endorsed or paid by the Star Atlas team. Any information published by The Hologram nor its writers should be considered as informational in nature and does not constitute any financial advice.",
+  "content_hash": "27e7e84e7f08797f0b6fc0bf0cc142534c9f90caab3b2cd615bfa4fb4ae0228b",
+  "major_topics": [
+    "governance",
+    "economy",
+    "guilds and DACs",
+    "community",
+    "lore"
+  ],
+  "entities": [
+    "ATLAS",
+    "POLIS",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-EDE5A762CA8F0023-01",
+      "text": "This will create a lasting acknowledgment of what the community has built so far and designate some areas where the DAO can begin playing a practical role.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-EDE5A762CA8F0023",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-EDE5A762CA8F0023-02",
+      "text": "Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-EDE5A762CA8F0023",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Star Atlas",
+    "POLIS",
+    "ATLAS"
+  ],
+  "governance_items": [
+    "Star Atlas governance / DAO"
+  ],
+  "lore_items": [],
+  "actors": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://medium.com/@bee.bod?source=post_page---byline--f5e224b51174---------------------------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fthe-hologram%2Ff5e224b51174&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Ffoundations-of-a-digital-nation-state-the-path-to-sovereignty-f5e224b51174&user=bee.bod&userId=2bfebca6a8e1&source=---header_actions--f5e224b51174---------------------clap_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Frepost%2Fp%2Ff5e224b51174&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Ffoundations-of-a-digital-nation-state-the-path-to-sovereignty-f5e224b51174&user=bee.bod&userId=2bfebca6a8e1&source=---header_actions--f5e224b51174---------------------repost_header------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Ff5e224b51174&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Ffoundations-of-a-digital-nation-state-the-path-to-sovereignty-f5e224b51174&source=---header_actions--f5e224b51174---------------------bookmark_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2Fplans%3Fdimension%3Dpost_audio_button%26postId%3Df5e224b51174&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Ffoundations-of-a-digital-nation-state-the-path-to-sovereignty-f5e224b51174&source=---header_actions--f5e224b51174---------------------post_audio_button------------------",
+      "anchor_text": "Listen"
+    },
+    {
+      "url": "https://twitter.com/danparktica",
+      "anchor_text": "Dan Park"
+    },
+    {
+      "url": "https://medium.com/u/5ed69ff9cfb0?source=post_page---user_mention--f5e224b51174---------------------------------------",
+      "anchor_text": "Star Atlas"
+    },
+    {
+      "url": "https://discordapp.com/channels/789226204980707409/1026590874865504426/1065326586460639322",
+      "anchor_text": "governance channel"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCDa-YxgNG6A9xpH1qyP0OaQ",
+      "anchor_text": "YouTube"
+    },
+    {
+      "url": "https://twitter.com/home",
+      "anchor_text": "Twitter"
+    },
+    {
+      "url": "https://thehologram.io/",
+      "anchor_text": "Web"
+    },
+    {
+      "url": "https://medium.com/the-hologram",
+      "anchor_text": "The Hologram"
+    },
+    {
+      "url": "https://staratlas.com/",
+      "anchor_text": "Star Atlas"
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "https://medium.com/the-hologram/foundations-of-a-digital-nation-state-the-path-to-sovereignty-f5e224b51174",
+    "final_url": "https://medium.com/the-hologram/foundations-of-a-digital-nation-state-the-path-to-sovereignty-f5e224b51174",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 116801,
+    "elapsed_ms": 656,
+    "retrieval_mode": "LIVE",
+    "archive_capture": null
+  }
+}

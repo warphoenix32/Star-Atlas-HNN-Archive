@@ -1,0 +1,243 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-084B9B05C94EBDDB",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47053532445843-How-to-Add-Crew-Manually-to-My-Fleet",
+    "title": "How to Add Crew Manually to My Fleet?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-03T13:16:53Z",
+    "updated_at": "2025-12-08T18:24:50Z",
+    "original_date_text": "2025-12-03T13:16:53Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “How to Add Crew Manually to My Fleet?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "In SAGE, the system automatically assigns the required crew members to ships in your fleet to ensure they can operate effectively. However, if your ships have available passenger slots, you can manually add extra crew members to your fleet. This can be useful for transporting crew between starbases or for other strategic purposes. Here’s how to manually add crew to your fleet.\nStep-by-Step Instructions to Add Crew Manually:\nCreate Your Fleet: Before adding any crew members, ensure that your fleet is created in SAGE. For detailed instructions, follow this guide on creating a fleet.\nCheck for Available Passenger Slots: Manual addition of crew members is only possible for ships with available passenger slots, such as the Lowbie, Maxhog, and Niruch. These ships have additional space beyond the crew needed for basic operations.\nSelect Your Fleet in the Starbase Hangar: Navigate to the Starbase Hangar and select the fleet you wish to manage. Make sure to choose a fleet with ships that have available passenger slots.\nOpen the Passenger Tab: Click on the Passenger tab to access the management options for adding or removing crew members.\nAdd Crew Members: In the Add or Remove Fleet Passengers section, select the number of crew members you want to add to your fleet. Remember, this option is only available for ships with extra passenger slots; the system will automatically fill the required crew slots for operational purposes.\nFinalize the Passenger Manifest: After selecting the desired crew members, click on FINALIZE PASSENGERS MANIFEST to confirm your changes.\nYour crew members are now manually added to the available passenger slots on your ships, ready for transport or other uses.\nAdditional Tips:\nOnly for Passenger Slots: Manual crew addition is only applicable for ships with extra passenger slots; the system automatically assigns the necessary crew for ships to operate.\nOptimize Fleet Usage: Use ships with passenger slots strategically to transport crew between starbases or for future operations.",
+  "content_hash": "6840813e46a4b2cb67e82f0d4353f54bf9b4b976e0c48852d708bc98fc537a0c",
+  "entities": [
+    "Crew",
+    "SAGE"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-084B9B05C94EBDDB-01",
+      "text": "In SAGE, the system automatically assigns the required crew members to ships in your fleet to ensure they can operate effectively.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-084B9B05C94EBDDB",
+      "publication_date": "2025-12-03T13:16:53Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-084B9B05C94EBDDB-02",
+      "text": "However, if your ships have available passenger slots, you can manually add extra crew members to your fleet.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-084B9B05C94EBDDB",
+      "publication_date": "2025-12-03T13:16:53Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-084B9B05C94EBDDB-03",
+      "text": "This can be useful for transporting crew between starbases or for other strategic purposes.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-084B9B05C94EBDDB",
+      "publication_date": "2025-12-03T13:16:53Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-084B9B05C94EBDDB-04",
+      "text": "Here’s how to manually add crew to your fleet.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-084B9B05C94EBDDB",
+      "publication_date": "2025-12-03T13:16:53Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-084B9B05C94EBDDB-05",
+      "text": "Step-by-Step Instructions to Add Crew Manually: Create Your Fleet: Before adding any crew members, ensure that your fleet is created in SAGE.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-084B9B05C94EBDDB",
+      "publication_date": "2025-12-03T13:16:53Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-084B9B05C94EBDDB-06",
+      "text": "For detailed instructions, follow this guide on creating a fleet.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-084B9B05C94EBDDB",
+      "publication_date": "2025-12-03T13:16:53Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-084B9B05C94EBDDB-07",
+      "text": "Check for Available Passenger Slots: Manual addition of crew members is only possible for ships with available passenger slots, such as the Lowbie, Maxhog, and Niruch.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-084B9B05C94EBDDB",
+      "publication_date": "2025-12-03T13:16:53Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-084B9B05C94EBDDB-08",
+      "text": "These ships have additional space beyond the crew needed for basic operations.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-084B9B05C94EBDDB",
+      "publication_date": "2025-12-03T13:16:53Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-084B9B05C94EBDDB-09",
+      "text": "Select Your Fleet in the Starbase Hangar: Navigate to the Starbase Hangar and select the fleet you wish to manage.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-084B9B05C94EBDDB",
+      "publication_date": "2025-12-03T13:16:53Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-084B9B05C94EBDDB-10",
+      "text": "Make sure to choose a fleet with ships that have available passenger slots.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-084B9B05C94EBDDB",
+      "publication_date": "2025-12-03T13:16:53Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-084B9B05C94EBDDB-11",
+      "text": "Open the Passenger Tab: Click on the Passenger tab to access the management options for adding or removing crew members.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-084B9B05C94EBDDB",
+      "publication_date": "2025-12-03T13:16:53Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-084B9B05C94EBDDB-12",
+      "text": "Add Crew Members: In the Add or Remove Fleet Passengers section, select the number of crew members you want to add to your fleet.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-084B9B05C94EBDDB",
+      "publication_date": "2025-12-03T13:16:53Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-084B9B05C94EBDDB-13",
+      "text": "Remember, this option is only available for ships with extra passenger slots; the system will automatically fill the required crew slots for operational purposes.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-084B9B05C94EBDDB",
+      "publication_date": "2025-12-03T13:16:53Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-084B9B05C94EBDDB-14",
+      "text": "Finalize the Passenger Manifest: After selecting the desired crew members, click on FINALIZE PASSENGERS MANIFEST to confirm your changes.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-084B9B05C94EBDDB",
+      "publication_date": "2025-12-03T13:16:53Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-084B9B05C94EBDDB-15",
+      "text": "Your crew members are now manually added to the available passenger slots on your ships, ready for transport or other uses.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-084B9B05C94EBDDB",
+      "publication_date": "2025-12-03T13:16:53Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "SAGE",
+    "Crew"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://support.staratlas.com/creating-a-fleet-in-starbased-step-by-step-guide",
+      "anchor_text": "this guide on creating a fleet"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://support.staratlas.com/creating-a-fleet-in-starbased-step-by-step-guide",
+      "anchor_text": "this guide on creating a fleet"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47053532445843-How-to-Add-Crew-Manually-to-My-Fleet",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.403730Z"
+  }
+}

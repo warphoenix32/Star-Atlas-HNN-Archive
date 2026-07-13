@@ -1,0 +1,318 @@
+{
+  "source": {
+    "source_id": "SRC-IH-0788CDC3DEEE3C1A",
+    "url_id": "URL-0788CDC3DEEE3C1A",
+    "url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-90/",
+    "inventory_url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-90",
+    "title": "Star Atlas Weekly News Recap #90",
+    "author": "Intergalactic Herald",
+    "publisher": "Intergalactic Herald",
+    "published_at": "2023-12-10T17:00:00",
+    "updated_at": "2023-12-09T18:00:34",
+    "retrieved_at": "2026-07-12T22:00:38.634221Z",
+    "document_type": "NEWSLETTER",
+    "source_role": "CURATED_SUMMARY",
+    "source_classification": "CURATED_SUMMARY",
+    "classification_rationale": "Weekly newsletter/recap aggregates developments and linked sources.",
+    "wordpress_type": "posts"
+  },
+  "summary": {
+    "neutral_abstract": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week. We are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us. We are launching a Star Atlas merch store. Please check it out at Intergalactic",
+    "historical_value": "Contemporary Intergalactic Herald publication preserved with role and attribution boundaries.",
+    "current_validity_warning": "Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources."
+  },
+  "article_text": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week.\nWe are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us.\nWe are launching a Star Atlas merch store. Please check it out at Intergalactic Gear.\nWe are creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic Coalition.\nIf you would like to support our efforts, donations can be sent to intergalacticherald.sol\nStar Atlas Recap 12-2-2023\nBeyond the Horizon posted a video recapping the latest Star Atlas news.\nMetaverse Nomads #123 20% Chance of SOL flipping ETH? and Star Atlas News\nMetaverse Nomads posted a video replay of their weekly Star Atlas livestream.\nWEEKLY STAR ATLAS NEWSLETTER #108\nAephia published their weekly Star Atlas newsletter.\nStar Atlas Partners With Web3 Mogul Alex Becker, Neo Tokyo\nKrigs published an article about Star Atlas partnering with Neo Tokyo.\nSTAR ATLAS announces End-of-Year Releases!!\nAtlas Theory posted a video about Star Atlas end of the year product releases.\nStar Atlas Has A Major Security Dilemma\nKrigs published an article about security issues with guilds in Star Atlas.\nThe Atlas Brew #91\nStar Atlas TV posted a video replay of the latest Atlas Brew.\nSTAR ATLAS #212 KILL IT! Before it’s Too Late – URGENT MISSION\nMetaVerse Explorer posted a video of Star Atlas updates.\nSTAR ATLAS – Never Alone Mission 3 Has Arrived\nAtlas Theory posted a video about the new mission in Star Atlas Never Alone campaign.",
+  "content_hash": "f4badd4a218efc659fefb2b048eefad783b6778213d58bfff3566c6bdbce0ec5",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [
+    "2023"
+  ],
+  "external_sources": [
+    {
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=bCTousRgbWY",
+      "anchor_text": "latest Star Atlas news"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=u9bp6NKNWWM",
+      "anchor_text": "weekly Star Atlas livestream"
+    },
+    {
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-108/",
+      "anchor_text": "weekly Star Atlas newsletter"
+    },
+    {
+      "url": "https://medium.com/the-hologram/star-atlas-partners-with-web3-mogul-alex-becker-neo-tokyo-f3dfe962c372",
+      "anchor_text": "Star Atlas partnering with Neo Tokyo"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=TEB6CZrDtiQ",
+      "anchor_text": "Star Atlas end of the year product releases"
+    },
+    {
+      "url": "https://medium.com/the-hologram/star-atlas-has-a-major-security-dilemma-b8aa65da5136",
+      "anchor_text": "issues with guilds in Star Atlas"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Wt1l0xtxdl0",
+      "anchor_text": "latest Atlas Brew"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=BEZNr1cSOws",
+      "anchor_text": "Star Atlas updates"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=j1ZUaBaLcDI",
+      "anchor_text": "new mission in Star Atlas Never Alone campaign"
+    }
+  ],
+  "primary_source_relationships": [
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=bCTousRgbWY",
+      "anchor_text": "latest Star Atlas news"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=u9bp6NKNWWM",
+      "anchor_text": "weekly Star Atlas livestream"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-108/",
+      "anchor_text": "weekly Star Atlas newsletter"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://medium.com/the-hologram/star-atlas-partners-with-web3-mogul-alex-becker-neo-tokyo-f3dfe962c372",
+      "anchor_text": "Star Atlas partnering with Neo Tokyo"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=TEB6CZrDtiQ",
+      "anchor_text": "Star Atlas end of the year product releases"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://medium.com/the-hologram/star-atlas-has-a-major-security-dilemma-b8aa65da5136",
+      "anchor_text": "issues with guilds in Star Atlas"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=Wt1l0xtxdl0",
+      "anchor_text": "latest Atlas Brew"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=BEZNr1cSOws",
+      "anchor_text": "Star Atlas updates"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=j1ZUaBaLcDI",
+      "anchor_text": "new mission in Star Atlas Never Alone campaign"
+    }
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Verify which outbound links are primary sources and preserve creator attribution during promotion."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-90&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 5524,
+    "elapsed_ms": 1551,
+    "attempts": [
+      {
+        "endpoint": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-90&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "http_status": 200,
+        "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-90&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "content_type": "application/json; charset=UTF-8",
+        "response_size": 5524,
+        "elapsed_ms": 1551
+      }
+    ]
+  },
+  "source_lineage": {
+    "publication": "Intergalactic Herald",
+    "publication_role": "CURATED_SUMMARY",
+    "relationship": "CURATED_SUMMARY_OF",
+    "primary_sources": [
+      {
+        "publication": "latest Star Atlas news",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=bCTousRgbWY",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest Star Atlas news"
+      },
+      {
+        "publication": "weekly Star Atlas livestream",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=u9bp6NKNWWM",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: weekly Star Atlas livestream"
+      },
+      {
+        "publication": "weekly Star Atlas newsletter",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-108/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article with anchor text: weekly Star Atlas newsletter"
+      },
+      {
+        "publication": "Star Atlas partnering with Neo Tokyo",
+        "author": "UNKNOWN",
+        "url": "https://medium.com/the-hologram/star-atlas-partners-with-web3-mogul-alex-becker-neo-tokyo-f3dfe962c372",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas partnering with Neo Tokyo"
+      },
+      {
+        "publication": "Star Atlas end of the year product releases",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=TEB6CZrDtiQ",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas end of the year product releases"
+      },
+      {
+        "publication": "issues with guilds in Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://medium.com/the-hologram/star-atlas-has-a-major-security-dilemma-b8aa65da5136",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: issues with guilds in Star Atlas"
+      },
+      {
+        "publication": "latest Atlas Brew",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=Wt1l0xtxdl0",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest Atlas Brew"
+      },
+      {
+        "publication": "Star Atlas updates",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=BEZNr1cSOws",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas updates"
+      },
+      {
+        "publication": "new mission in Star Atlas Never Alone campaign",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=j1ZUaBaLcDI",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: new mission in Star Atlas Never Alone campaign"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "publication": "Intergalactic Gear",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticgear.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Intergalactic Coalition",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticcoalition.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      }
+    ],
+    "original_creators": [
+      "Aephia",
+      "Star Atlas"
+    ],
+    "attribution_chain": [
+      {
+        "from": "latest Star Atlas news",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=bCTousRgbWY"
+      },
+      {
+        "from": "weekly Star Atlas livestream",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=u9bp6NKNWWM"
+      },
+      {
+        "from": "weekly Star Atlas newsletter",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-108/"
+      },
+      {
+        "from": "Star Atlas partnering with Neo Tokyo",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://medium.com/the-hologram/star-atlas-partners-with-web3-mogul-alex-becker-neo-tokyo-f3dfe962c372"
+      },
+      {
+        "from": "Star Atlas end of the year product releases",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=TEB6CZrDtiQ"
+      },
+      {
+        "from": "issues with guilds in Star Atlas",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://medium.com/the-hologram/star-atlas-has-a-major-security-dilemma-b8aa65da5136"
+      },
+      {
+        "from": "latest Atlas Brew",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=Wt1l0xtxdl0"
+      },
+      {
+        "from": "Star Atlas updates",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=BEZNr1cSOws"
+      },
+      {
+        "from": "new mission in Star Atlas Never Alone campaign",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=j1ZUaBaLcDI"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  }
+}

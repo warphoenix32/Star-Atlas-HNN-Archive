@@ -1,0 +1,14 @@
+{
+  "topic": "about, are, article, core, the, this, what",
+  "official_source_ids": [
+    "SRC-OFF-C382E9B30652DDBA"
+  ],
+  "community_source_ids": [
+    "SRC-IH-8212C22A8818B131"
+  ],
+  "relationship": "OFFICIAL_SUPERSEDES_OLDER_GUIDE",
+  "finding": "Automated topic overlap on: about, are, article, core, the, this, what. Official authority is limited to the official wording; community context remains separately attributed.",
+  "confidence": "LOW",
+  "promotion_candidate": false,
+  "manual_review_required": true
+}

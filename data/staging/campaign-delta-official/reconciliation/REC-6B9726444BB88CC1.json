@@ -1,0 +1,14 @@
+{
+  "topic": "claims, game, polis, record, remain, showroom, source, the",
+  "official_source_ids": [
+    "SRC-OFF-FC61779037A23908"
+  ],
+  "community_source_ids": [
+    "SRC-HNN-238F34DB897A6723"
+  ],
+  "relationship": "COMMUNITY_PRECEDES_OFFICIAL_ANNOUNCEMENT",
+  "finding": "Automated topic overlap on: claims, game, polis, record, remain, showroom, source, the, this, time. Official authority is limited to the official wording; community context remains separately attributed.",
+  "confidence": "LOW",
+  "promotion_candidate": false,
+  "manual_review_required": true
+}

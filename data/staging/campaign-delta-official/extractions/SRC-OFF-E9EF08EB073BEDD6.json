@@ -1,0 +1,231 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-E9EF08EB073BEDD6",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47061479995283-How-do-I-sell-an-item",
+    "title": "How do I sell an item?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-03T17:02:14Z",
+    "updated_at": "2025-12-08T18:23:08Z",
+    "original_date_text": "2025-12-03T17:02:14Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://play.staratlas.com",
+        "anchor_text": "play.staratlas.com"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “How do I sell an item?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "The Star Atlas Galactic Marketplace is a player-driven platform where you can list ships, crew, collectibles, and other assets for sale to other players. It uses an order-book system, allowing you to match open buy orders and complete secure, on-chain trades.\nStep-by-Step: Selling an Item\n1. Browse the Marketplace\nGo to play.staratlas.com and open the Marketplace tabUse the Search bar to find the item you want to sellOr browse categories using the drop-down menus\n2. Select the Item\nClick on the item you want to sell to view current buyer listings.Some assets may be listed in both ATLAS and USDC, while others are available in ATLAS only. Choose a buyer listing with your preferred currency.\n3. Choose a Buyer\nPick a listing from the available buy orders that matches your desired price and quantity.\n4. Review Terms & Policies\nCheck the boxes to agree to the Terms of Service and Privacy Policy.\n5. Connect Your Wallet\nIf you haven’t already, click Connect Wallet and approve the connection using your Solana wallet (e.g., Phantom, Backpack, etc.).\n6. Set the Quantity\nAdjust the Quantity to Sell based on how many units you want to list.\n7. Confirm Price & Currency\nDouble-check the total amount you’ll receive and make sure it’s in the correct token (ATLAS or USDC).\n8. Click “Sell Item”\nOnce everything looks good, hit the Sell Item button.\n9. Approve the Transaction\nYour wallet will prompt you to approve the transaction. Confirm to proceed.\n10. Order Complete\nOnce processed, you’ll see a confirmation notification.You can view the transaction under “My Orders” in the Marketplace menu.",
+  "content_hash": "328e5ebaacb8e62eea30e6d474280f74336242ddf41cc8034a9456da236d34ea",
+  "entities": [
+    "ATLAS",
+    "Crew",
+    "Galactic Marketplace",
+    "Solana"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-E9EF08EB073BEDD6-01",
+      "text": "The Star Atlas Galactic Marketplace is a player-driven platform where you can list ships, crew, collectibles, and other assets for sale to other players.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E9EF08EB073BEDD6",
+      "publication_date": "2025-12-03T17:02:14Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E9EF08EB073BEDD6-02",
+      "text": "It uses an order-book system, allowing you to match open buy orders and complete secure, on-chain trades.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E9EF08EB073BEDD6",
+      "publication_date": "2025-12-03T17:02:14Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E9EF08EB073BEDD6-03",
+      "text": "Browse the Marketplace Go to play.staratlas.com and open the Marketplace tabUse the Search bar to find the item you want to sellOr browse categories using the drop-down menus 2.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E9EF08EB073BEDD6",
+      "publication_date": "2025-12-03T17:02:14Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E9EF08EB073BEDD6-04",
+      "text": "Select the Item Click on the item you want to sell to view current buyer listings.Some assets may be listed in both ATLAS and USDC, while others are available in ATLAS only.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E9EF08EB073BEDD6",
+      "publication_date": "2025-12-03T17:02:14Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E9EF08EB073BEDD6-05",
+      "text": "Choose a buyer listing with your preferred currency.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E9EF08EB073BEDD6",
+      "publication_date": "2025-12-03T17:02:14Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E9EF08EB073BEDD6-06",
+      "text": "Choose a Buyer Pick a listing from the available buy orders that matches your desired price and quantity.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E9EF08EB073BEDD6",
+      "publication_date": "2025-12-03T17:02:14Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E9EF08EB073BEDD6-07",
+      "text": "Review Terms & Policies Check the boxes to agree to the Terms of Service and Privacy Policy.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E9EF08EB073BEDD6",
+      "publication_date": "2025-12-03T17:02:14Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E9EF08EB073BEDD6-08",
+      "text": "Connect Your Wallet If you haven’t already, click Connect Wallet and approve the connection using your Solana wallet (e.g., Phantom, Backpack, etc.).",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E9EF08EB073BEDD6",
+      "publication_date": "2025-12-03T17:02:14Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E9EF08EB073BEDD6-09",
+      "text": "Set the Quantity Adjust the Quantity to Sell based on how many units you want to list.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E9EF08EB073BEDD6",
+      "publication_date": "2025-12-03T17:02:14Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E9EF08EB073BEDD6-10",
+      "text": "Confirm Price & Currency Double-check the total amount you’ll receive and make sure it’s in the correct token (ATLAS or USDC).",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E9EF08EB073BEDD6",
+      "publication_date": "2025-12-03T17:02:14Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E9EF08EB073BEDD6-11",
+      "text": "Click “Sell Item” Once everything looks good, hit the Sell Item button.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E9EF08EB073BEDD6",
+      "publication_date": "2025-12-03T17:02:14Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E9EF08EB073BEDD6-12",
+      "text": "Approve the Transaction Your wallet will prompt you to approve the transaction.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E9EF08EB073BEDD6",
+      "publication_date": "2025-12-03T17:02:14Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E9EF08EB073BEDD6-13",
+      "text": "Order Complete Once processed, you’ll see a confirmation notification.You can view the transaction under “My Orders” in the Marketplace menu.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E9EF08EB073BEDD6",
+      "publication_date": "2025-12-03T17:02:14Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Galactic Marketplace",
+    "ATLAS",
+    "Crew"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [
+    "Solana"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://play.staratlas.com",
+      "anchor_text": "play.staratlas.com"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://play.staratlas.com",
+      "anchor_text": "play.staratlas.com"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47061479995283-How-do-I-sell-an-item",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.141412Z"
+  }
+}

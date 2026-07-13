@@ -1,0 +1,310 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-AB11BF8E61BDB201",
+    "url": "https://build.staratlas.com/creative-assets/user-services-requirements",
+    "title": "Star Atlas Build",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Build / ATMTA",
+    "published_at": null,
+    "updated_at": "2026-04-16T16:32:35.000Z",
+    "original_date_text": "2026-04-16T16:32:35.000Z",
+    "document_type": "TECHNICAL_DOCUMENTATION",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Build / ATMTA",
+    "publication_role": "TECHNICAL_DOCUMENTATION",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://experience.staratlas.com/terms-of-service",
+        "anchor_text": "Terms of Service"
+      },
+      {
+        "url": "https://docs.google.com/forms/d/1koPfnGWW06AF9z09lHjtI1f19ZZy9cLF4OgnKI24S4w",
+        "anchor_text": "Creators' Form"
+      },
+      {
+        "url": "https://nowpayments.io/blog/atlas-announcement?utm_source=twitter&utm_medium=social&utm_campaign=atlas-announcement",
+        "anchor_text": "NOWPayments"
+      },
+      {
+        "url": "https://solanapay.com/",
+        "anchor_text": "Solana Pay"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Build / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official technical documentation titled “Star Atlas Build.” This record preserves what Star Atlas Build / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "User Services Requirements | Star Atlas Build\nSkip to contentStar Atlas BuildSearchK\nAppearance\nMenuReturn to top\nUser Services Requirements ​\nIf you're building with Star Atlas IP, there are a few important rules you’ll need to follow These help protect the integrity of the Star Atlas brand while giving you the freedom to create, publish and monetize your project Here’s a quick summary of what’s expected but always refer to the Terms of Service for the full legal details\nNotify Us. You must complete the Creators' Form to get started.\nDisclaimer. You must include this disclaimer prominently: “[Name of Your User Service] is inspired by Star Atlas. STAR ATLAS and STAR ATLAS: POWERED BY THE PEOPLE are trademarks or registered trademarks of ATMTA, Inc. in the United States of America and elsewhere.”\nQuality Control. We impose quality control requirements on any community creations at our discretion. We will not tolerate any inappropriate uses, including, but not limited to, scams, misleading information, hate speech, personal attacks, harassment, or illegal activities.\nRoyalties. For revenue generated (whether received by you or others) beyond the first $1 million USD in lifetime Gross Revenue, you will need to pay certain Royalties. You will also need to fill out a Royalties Form (coming soon) and contact us for further information on payment.\nAccurate Records. You must keep accurate records, including about your revenue generated. We may ask to review such records from time to time.\nElectronic Games. For electronic games (such as videogames, console games, PC games, mobile app games), you will need to obtain advance written permission and a custom license from us first.\nATLAS, POLIS, and Star Atlas NFT Integration. If feasible and practical, you must accept ATLAS and/or POLIS as a payment option and integrate the use of Star Atlas NFTs. Payment implementation options include:\nNOWPayments to accept ATLAS\nSolana Pay to accept ATLAS or POLIS\nDo Not Use \"Star Atlas.\" You may not use \"Star Atlas\" (or the stylized \"Star Atlas\" or \"A\" logos) in your creations or in the name of your product or service.",
+  "content_hash": "a8d2b958c0c0e142822b7a8370dab6a620f0e7672688603adced18e0330f594f",
+  "entities": [
+    "ATLAS",
+    "ATMTA",
+    "POLIS",
+    "Solana"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-AB11BF8E61BDB201-01",
+      "text": "User Services Requirements | Star Atlas Build Skip to contentStar Atlas BuildSearchK Appearance MenuReturn to top User Services Requirements ​ If you're building with Star Atlas IP, there are a few important rules you’ll need to follow These help protect the integrity of the Star Atlas brand while giving you the freedom to create, publish and monetize your project Here’s a quick summary of what’s expected but always refer to the Terms of Service for the full legal details Notify Us.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-AB11BF8E61BDB201",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-AB11BF8E61BDB201-02",
+      "text": "You must complete the Creators' Form to get started.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-AB11BF8E61BDB201",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-AB11BF8E61BDB201-03",
+      "text": "You must include this disclaimer prominently: “[Name of Your User Service] is inspired by Star Atlas.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-AB11BF8E61BDB201",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-AB11BF8E61BDB201-04",
+      "text": "STAR ATLAS and STAR ATLAS: POWERED BY THE PEOPLE are trademarks or registered trademarks of ATMTA, Inc.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-AB11BF8E61BDB201",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-AB11BF8E61BDB201-05",
+      "text": "in the United States of America and elsewhere.” Quality Control.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-AB11BF8E61BDB201",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-AB11BF8E61BDB201-06",
+      "text": "We impose quality control requirements on any community creations at our discretion.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-AB11BF8E61BDB201",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-AB11BF8E61BDB201-07",
+      "text": "We will not tolerate any inappropriate uses, including, but not limited to, scams, misleading information, hate speech, personal attacks, harassment, or illegal activities.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-AB11BF8E61BDB201",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-AB11BF8E61BDB201-08",
+      "text": "For revenue generated (whether received by you or others) beyond the first $1 million USD in lifetime Gross Revenue, you will need to pay certain Royalties.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-AB11BF8E61BDB201",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-AB11BF8E61BDB201-09",
+      "text": "You will also need to fill out a Royalties Form (coming soon) and contact us for further information on payment.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-AB11BF8E61BDB201",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-AB11BF8E61BDB201-10",
+      "text": "You must keep accurate records, including about your revenue generated.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-AB11BF8E61BDB201",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-AB11BF8E61BDB201-11",
+      "text": "We may ask to review such records from time to time.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-AB11BF8E61BDB201",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-AB11BF8E61BDB201-12",
+      "text": "For electronic games (such as videogames, console games, PC games, mobile app games), you will need to obtain advance written permission and a custom license from us first.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-AB11BF8E61BDB201",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-AB11BF8E61BDB201-13",
+      "text": "ATLAS, POLIS, and Star Atlas NFT Integration.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-AB11BF8E61BDB201",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-AB11BF8E61BDB201-14",
+      "text": "If feasible and practical, you must accept ATLAS and/or POLIS as a payment option and integrate the use of Star Atlas NFTs.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-AB11BF8E61BDB201",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-AB11BF8E61BDB201-15",
+      "text": "Payment implementation options include: NOWPayments to accept ATLAS Solana Pay to accept ATLAS or POLIS Do Not Use \"Star Atlas.\" You may not use \"Star Atlas\" (or the stylized \"Star Atlas\" or \"A\" logos) in your creations or in the name of your product or service.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-AB11BF8E61BDB201",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "POLIS",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [
+    "ATMTA",
+    "Solana"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://build.staratlas.com/creative-assets/user-services-requirements",
+      "anchor_text": "Skip to content"
+    },
+    {
+      "url": "https://build.staratlas.com/",
+      "anchor_text": "Star Atlas Build"
+    },
+    {
+      "url": "https://discord.com/invite/staratlas",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://experience.staratlas.com/terms-of-service",
+      "anchor_text": "Terms of Service"
+    },
+    {
+      "url": "https://docs.google.com/forms/d/1koPfnGWW06AF9z09lHjtI1f19ZZy9cLF4OgnKI24S4w",
+      "anchor_text": "Creators' Form"
+    },
+    {
+      "url": "https://build.staratlas.com/creative-assets/royalties",
+      "anchor_text": "Royalties"
+    },
+    {
+      "url": "https://nowpayments.io/blog/atlas-announcement?utm_source=twitter&utm_medium=social&utm_campaign=atlas-announcement",
+      "anchor_text": "NOWPayments"
+    },
+    {
+      "url": "https://solanapay.com/",
+      "anchor_text": "Solana Pay"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://build.staratlas.com/creative-assets/user-services-requirements",
+      "anchor_text": "Skip to content"
+    },
+    {
+      "url": "https://build.staratlas.com/",
+      "anchor_text": "Star Atlas Build"
+    },
+    {
+      "url": "https://experience.staratlas.com/terms-of-service",
+      "anchor_text": "Terms of Service"
+    },
+    {
+      "url": "https://build.staratlas.com/creative-assets/royalties",
+      "anchor_text": "Royalties"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://build.staratlas.com/creative-assets/user-services-requirements",
+    "final_url": "https://build.staratlas.com/creative-assets/user-services-requirements",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 24778,
+    "retrieved_at": "2026-07-13T01:04:24.696905Z",
+    "elapsed_ms": 151
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-FF9C3616DFC41388",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47029000884883-How-Is-Payment-Handled",
+    "title": "How Is Payment Handled?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-02T18:09:19Z",
+    "updated_at": "2025-12-08T18:24:10Z",
+    "original_date_text": "2025-12-02T18:09:19Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “How Is Payment Handled?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Payments for fleet rentals work as follows:\nUpfront Payment: Renters pay the entire rental amount upfront, which is held in an escrow account.\nDaily Distribution: Lenders receive payments incrementally, with funds being released daily (00:00 UTC) during the rental period.",
+  "content_hash": "8b0c027110a131d1c1b5859971328da5ce4645adf299bbd8614f28c9c3aadd2b",
+  "entities": [],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-FF9C3616DFC41388-01",
+      "text": "Payments for fleet rentals work as follows: Upfront Payment: Renters pay the entire rental amount upfront, which is held in an escrow account.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-FF9C3616DFC41388",
+      "publication_date": "2025-12-02T18:09:19Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-FF9C3616DFC41388-02",
+      "text": "Daily Distribution: Lenders receive payments incrementally, with funds being released daily (00:00 UTC) during the rental period.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-FF9C3616DFC41388",
+      "publication_date": "2025-12-02T18:09:19Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47029000884883-How-Is-Payment-Handled",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.282600Z"
+  }
+}

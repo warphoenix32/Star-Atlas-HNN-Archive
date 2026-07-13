@@ -1,0 +1,157 @@
+{
+  "source": {
+    "source_id": "SRC-IH-922E1BC5D4D67B9E",
+    "url_id": "URL-922E1BC5D4D67B9E",
+    "url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-216/",
+    "inventory_url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-216",
+    "title": "Star Atlas Weekly Newsletter #216",
+    "author": "Intergalactic Herald",
+    "publisher": "Intergalactic Herald",
+    "published_at": "2026-05-08T23:00:00",
+    "updated_at": "2026-05-08T22:15:27",
+    "retrieved_at": "2026-07-12T22:05:51.986435Z",
+    "document_type": "NEWSLETTER",
+    "source_role": "CURATED_SUMMARY",
+    "source_classification": "CURATED_SUMMARY",
+    "classification_rationale": "Weekly newsletter/recap aggregates developments and linked sources.",
+    "wordpress_type": "posts"
+  },
+  "summary": {
+    "neutral_abstract": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week. The video and article summaries below are AI generated so they may not be 100% accurate. Weekly Star Atlas Newsletter #228 from Aephia – https://aephia.com/star-atlas/weekly-star-atlas-newsletter-228/ This week’s Star Atlas update highlights the Holosim Chapter 2 Phase 1 prize announcement, featuring an $8,815 ship pool for the top 200 players and Explorer Packs for those hitting 1,000,000 XP. To receive rewards, users must link their wallets before the May 5th distribution deadline, though the team is currently adjusting ship valuations following community feedback…",
+    "historical_value": "Contemporary Intergalactic Herald publication preserved with role and attribution boundaries.",
+    "current_validity_warning": "Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources."
+  },
+  "article_text": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week. The video and article summaries below are AI generated so they may not be 100% accurate.\nWeekly Star Atlas Newsletter #228 from Aephia – https://aephia.com/star-atlas/weekly-star-atlas-newsletter-228/\nThis week’s Star Atlas update highlights the Holosim Chapter 2 Phase 1 prize announcement, featuring an $8,815 ship pool for the top 200 players and Explorer Packs for those hitting 1,000,000 XP. To receive rewards, users must link their wallets before the May 5th distribution deadline, though the team is currently adjusting ship valuations following community feedback regarding the Opal BitBoat. In a notable governance event, PIP-31 technically passed but was withdrawn by its author, resulting in no ATLAS disbursement for Star Seekers 2. On the technical front, UE5 progress showcased planetary surface AI navigation, enabling new elimination mission flows across three outposts, alongside an upgraded ocean renderer. Community action is required for the Embercoil RPG campaign, with voting for the final five cast members closing on May 11th. Furthermore, Iris’ Blessing continues with a raffle on May 8th and a double XP weekend starting May 29th. Finally, development teases include SAGE C4 Crafting Hab management reveals and ongoing testing for the z.ink airdrop claim interface, signaling significant momentum across both the browser and Unreal Engine 5 environments.\nStar Atlas Brew 203 from Star Atlas TV – https://www.youtube.com/watch?v=ry5NyqHD2Ew\nThis week’s Atlas Brew #203 delivered major updates regarding the upcoming C4 release and significant technical overhauls for Holosím. The team showcased the intuitive new Claim Stakes interface, highlighting critical gameplay mechanics such as adjacency bonuses, infrastructure slots, and the impact of “hops” or distance on extraction efficiency. In a major move to improve player experience, developers are removing artificial global cooldowns in Holosím combat by transitioning to direct RPC stream reading, which aims to eliminate the current 7-to-15-second latency issues. Combat dynamics will further evolve with the imminent marketplace debut of drone ships, including the Opal Womp and Fimble Naga. These crewless vessels provide specialized fleet buffs, such as shield regeneration and increased DPS, without increasing crew requirements. Community members have a final deadline of Friday, May 10, to link their mainnet wallets for leaderboard prize eligibility. Additionally, the voting window for the first Star Atlas RPG campaign, Amber Coil, remains open until May 11. Finally, the team highlighted the recent Google DeepMind and CCP Games partnership as validation for the autonomous AI agent ecosystems Star Atlas has pioneered through the Echos faction.\nI am looking for guests to be on the podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact me.\nI am launching a Star Atlas merch store. Please check it out at Intergalactic Gear.\nI am also creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic Coalition.\nStar Atlas Week in Review Podcast – Audio podcast where I break down everything that happened in Star Atlas the past week plus my analysis on what it all means. https://intergalacticherald.com/podcast/\nStar Atlas Event Recap – AI audio summary covering all the key moments from Star Atlas community events. https://intergalacticherald.com/podcast/star-atlas-event-recaps/\nStar Atlas Discord News Feed Newsletter – Star Atlas Discord announcements send directly to your email so you never miss out on updates from the Star Atlas team. https://intergalacticherald.com/star-atlas-discord-news-feed/\nIf you would like to support my efforts, donations can be sent to intergalacticherald.sol\nLatest podcast\nPodcast 176: Star Atlas Weekly Reviewby MattJuly 5, 2026In this episode, I recap the latest news of Star Atlas from the past week. Listen on Apple Podcasts Listen on Spotify I am looking for guests to be on the podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in… Read more: Podcast 176: Star Atlas Weekly Review\nLatest recap\nStar Atlas Event Recap 91: Atlas Brew #211by MattJuly 2, 2026In this episode, hear an AI summary of the latest Star Atlas community event. Full video recordings can be found on the YouTube channel of Star Atlas TV at https://www.youtube.com/@staratlastv. Listen on Apple Podcasts Listen on Spotify Star Atlas Event Summary Hi, this isn’t Matt with the Intergalactic Herald. I… Read more: Star Atlas Event Recap 91: Atlas Brew #211",
+  "content_hash": "f236b8d1b45d6e3b984ac41d738c705f717dbfddaf8342ef0c438a86f5aadb8d",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [],
+  "external_sources": [
+    {
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-228/",
+      "anchor_text": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-228/"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ry5NyqHD2Ew",
+      "anchor_text": "https://www.youtube.com/watch?v=ry5NyqHD2Ew"
+    },
+    {
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    }
+  ],
+  "primary_source_relationships": [
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-228/",
+      "anchor_text": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-228/"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=ry5NyqHD2Ew",
+      "anchor_text": "https://www.youtube.com/watch?v=ry5NyqHD2Ew"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    }
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Verify which outbound links are primary sources and preserve creator attribution during promotion.",
+      "Source lineage: attribution requires manual confirmation."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-newsletter-216&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 11153,
+    "elapsed_ms": 1651,
+    "attempts": [
+      {
+        "endpoint": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-newsletter-216&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "http_status": 200,
+        "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-newsletter-216&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "content_type": "application/json; charset=UTF-8",
+        "response_size": 11153,
+        "elapsed_ms": 1651
+      }
+    ]
+  },
+  "source_lineage": {
+    "publication": "Intergalactic Herald",
+    "publication_role": "CURATED_SUMMARY",
+    "relationship": "CURATED_SUMMARY_OF",
+    "primary_sources": [
+      {
+        "publication": "Weekly Star Atlas Newsletter 228",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-228/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "publication": "Watch",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=ry5NyqHD2Ew",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Intergalactic Gear",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticgear.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Intergalactic Coalition",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticcoalition.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      }
+    ],
+    "original_creators": [
+      "Aephia"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Weekly Star Atlas Newsletter 228",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-228/"
+      }
+    ],
+    "lineage_confidence": "MEDIUM"
+  }
+}

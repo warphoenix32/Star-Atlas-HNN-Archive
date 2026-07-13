@@ -1,0 +1,258 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-716165C175CAAABA",
+    "url_id": "URL-716165C175CAAABA",
+    "url": "https://medium.com/the-hologram/star-atlas-has-a-major-security-dilemma-b8aa65da5136",
+    "title": "Star Atlas Has A Major Security Dilemma",
+    "author": "Krigs",
+    "publisher": "The Hologram",
+    "publication_identity": "The Hologram (Medium publication)",
+    "published_at": "2023-12-06T05:31:51Z",
+    "updated_at": "2023-12-06T05:31:51Z",
+    "retrieved_at": "2026-07-13T00:08:20.493267Z",
+    "document_type": "REFERENCE",
+    "source_role": "REFERENCE",
+    "publication_role": "REFERENCE",
+    "classification_rationale": "Publication is structured as a guide or reference."
+  },
+  "source_lineage": {
+    "publication": "The Hologram (Medium publication)",
+    "publication_role": "REFERENCE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "publication": "Herbert Butterfield",
+        "author": "UNKNOWN",
+        "url": "https://en.wikipedia.org/wiki/Herbert_Butterfield",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "John H. Herz",
+        "author": "UNKNOWN",
+        "url": "https://en.wikipedia.org/wiki/John_H._Herz",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Robert Jervis",
+        "author": "UNKNOWN",
+        "url": "https://en.wikipedia.org/wiki/Robert_Jervis",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "international relations",
+        "author": "UNKNOWN",
+        "url": "https://en.wikipedia.org/wiki/International_relations",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [
+      "Krigs"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Herbert Butterfield",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REFERENCES",
+        "url": "https://en.wikipedia.org/wiki/Herbert_Butterfield"
+      },
+      {
+        "from": "John H. Herz",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REFERENCES",
+        "url": "https://en.wikipedia.org/wiki/John_H._Herz"
+      },
+      {
+        "from": "Robert Jervis",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REFERENCES",
+        "url": "https://en.wikipedia.org/wiki/Robert_Jervis"
+      },
+      {
+        "from": "international relations",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REFERENCES",
+        "url": "https://en.wikipedia.org/wiki/International_relations"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "This reference published by The Hologram on 2023-12-06 documents “Star Atlas Has A Major Security Dilemma.” Its surviving text addresses economy, guilds and DACs, game development, community, lore, technology. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "Star AtlasPolitics\nStar Atlas Has A Major Security Dilemma\nKrigs5 min read·Dec 6, 2023\n--\nListen\nShare\nDespite the recent success of Star Atlas, a major security dilemma exists that not even Kudelski Security can prevent.\nThankfully, the growing security dilemma within Star Atlas has nothing to do with any underlying blockchain or program at all. Instead, the emergent security dilemma stems from the nascent formation of guilds and the intergalactic order as Star Atlas prepares for the future release of player vs player combat.\nWhat is a Security Dilemma?\nNow that we have your attention, we can lay out what this political security dilemma is, how its already occurring in Star Atlas, and the conditions under which the first large scale conflict in Star Atlas will likely occur.\nBut first, what is a security dilemma?\nThe Security Dilemma theory was first coined by political scholars Herbert Butterfield, John H. Herz, and Robert Jervis. In the field of international relations, the security dilemma theory is when the increase in one state’s security, generally through military strength, leads other states to fear for their own security. Because states do not know if the security-increasing state intends to use its growing military for offensive purposes, other states conclude that they must increase their own self security to prevent and threats.\nIn response, the first security raising state responds to others reactive measures and continues to bolster its own military strength. Thus, a spiral model ensues of continuous escalation.\nFurthermore, Herz and Jervis assert that security dilemmas can lead to alliance formation and arms races, something that is already occurring in Star Atlas. In Earth history, Security dilemmas were major contributing causes of conflict in both World War I and The Cold War.\nHow does this apply to Star Atlas?\nFor some time, DACs (Guilds) have been considered player-states or state-like entities within Star Atlas. Earlier this year, we covered how some current Guild-States presented their intergalactic policies and diplomatic stances towards others within Star Atlas.\nSince Star Atlas DACs will have both political influence and territorial control, qualities that resemble states, it is logical to substitute Star Atlas DACs for traditional state systems under the security dilemma model and reasonable to assume that behaviors that govern nation states will also govern Guild-States. Theories that apply to international relations and nation-states see parallel application in intergalactic relations and Guild-States.\nThe Great Galia Arms Race\nStar Atlas is, in part, a game of galactic conquest and territorial control. It’s no surprise then, that Guild-States seek to advance their own power and security relative to other Guild-States. This is done primarily through the acquisition of combat ships in increasingly larger quantities and power.\nLarge guilds like ROME and The Club are capable of fielding multiple Commander level ships, formidable machines of war that would make any Guild-State hesitate. Smaller Guild-States also seek to advance their security through ship acquisitions, however since they cannot scale at the same rate as larger Guild-States, they must rely more heavily on alliance formation.\nThus as Guild-States advance their own security, whether for peaceful purposes or not, calculations of power-balance are conducted by other Guild-States thus driving the security dilemma endlessly.\nEven self-described neutral Guild-States like Aephia are not immune from the pressure of the security dilemma. Sources report that a well known Aephia member unsuccessfully attempted to infiltrate The Club through covert methods. Sources report that this operation was unsanctioned by Aephia leadership and was thus acting alone. However, this brings into question of how successful can large Guild-States be at ensuring their members do not violate their own diplomatic policies? In the case of World War I, the unsanctioned actions of a small group of Bosnian-Serbs ignited a conflict that claimed millions of lives.\nAlliances — How they started World War 1 and how they’ll start the first Galactic Galia War\nWorld War 1 began with the assassination of Archduke Franz Ferdinand of Austria-Hungary. What would have been a conflict between two nations, quickly spiraled into a broader conflict the engulfed the world due to a complex layer of alliances. Some of these alliances were also secret alliances, which further exacerbated diplomacy efforts preceding the war.\nIn Star Atlas, these conditions are already forming. Aside from Guild-States themselves, powerful faction aligned groups like the Oni Consortium, The Ustur Nexus, and the Mud Consortium have formed within the recent months. Ironically, these faction based groups formed largely out of discussions over perceived threats from the other factions, thus validating to some degree, the existence of a security dilemma in Star Atlas.\nFurther complicating the diplomatic landscape are direct alliances between Guild-States, both public and secret. Over the past two years, alliances have already taken shape within Star Atlas. Interstellar Alliance was first on the scene, consolidating a large group of guild-states under its umbrella. However, in recent times, the validity of Interstellar Alliance mutual defense pact has come under question given faction conflicts.\nPerhaps the most notable alliance in recent history is that between Aephia and Quimera. Other major Guild-States took quick note of the announcement and quickly began evaluating their own positions in comparison.\nEven more recently, the alliance between Rome and Yield Guild Games drew the attention of the entire Star Atlas community as a notable and significant partnership.\nHowever, these large alliances do not account for the numerous secret or discrete alliances between Guild-States.\nAs smaller Guild-States seek to balance the power of larger Guild-States, alliances will continue to form. While the assassination of a Star Atlas Grand Duke is unlikely to be the direct cause of conflict, a simple miscalculation of the diplomatic environment could quickly engulf all of Galia.\nHow to Prevent or Mitigate The Security Dilemma\nFollowing World War 1, the League of Nations was established. One of the functions of the League of Nations was to ensure diplomacy, alliances, and treaty making were done in a transparent and open nature. Although the League of Nations was dissolved, its successor the United Nations is the primary venue for all global diplomacy.\nThe shift from direct diplomacy between nation-states towards transparent international diplomacy greatly reduced the security dilemma’s potential to cause conflict. Even following the Cold War, treaties between the United States and Soviet Union acknowledged the need for open dialogue to prevent nuclear arms races.\nHowever, no such intergalactic forum or equivalent exists in Star Atlas. Guild-States negotiate in direct messages or private groups, with no consolidated registrar of acknowledged treaties between states. To avoid future conflict due to security dilemmas, an intergalactic diplomatic forum should be established to facilitate discussions of such nature. Until then, Star Atlas is rife for a continuation of the security dilemma model and before long, conflict will emerge as the norm.\nAbout the Author\nKrigs\nAn ardent supporter of emerging technologies, Krigs has been covering blockchain games for over two years and believes passionately in their power to revolutionize our collective gaming experience.\nAbout The Hologram\nThe Hologram is an independent community news network. Our vision is to become the most trusted source of information about blockchain games and a voice for the whole community. Readers can expect a high standard from our reporting and staff. Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.\nAny information published by The Hologram or its writers should be considered as informational in nature and does not constitute any financial advice.",
+  "content_hash": "a33c7f86944db4db940984e25d3998584a301b1d74f773e23c67d9443aef31c9",
+  "major_topics": [
+    "economy",
+    "guilds and DACs",
+    "game development",
+    "community",
+    "lore",
+    "technology"
+  ],
+  "entities": [
+    "ATLAS",
+    "Krigs",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-716165C175CAAABA-01",
+      "text": "Now that we have your attention, we can lay out what this political security dilemma is, how its already occurring in Star Atlas, and the conditions under which the first large scale conflict in Star Atlas will likely occur.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-716165C175CAAABA",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-716165C175CAAABA-02",
+      "text": "Since Star Atlas DACs will have both political influence and territorial control, qualities that resemble states, it is logical to substitute Star Atlas DACs for traditional state systems under the security dilemma model and reasonable to assume that behaviors that govern nation states will also govern Guild-States.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-716165C175CAAABA",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-716165C175CAAABA-03",
+      "text": "In the case of World War I, the unsanctioned actions of a small group of Bosnian-Serbs ignited a conflict that claimed millions of lives.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-716165C175CAAABA",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-716165C175CAAABA-04",
+      "text": "As smaller Guild-States seek to balance the power of larger Guild-States, alliances will continue to form.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-716165C175CAAABA",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-716165C175CAAABA-05",
+      "text": "Until then, Star Atlas is rife for a continuation of the security dilemma model and before long, conflict will emerge as the norm.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-716165C175CAAABA",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-716165C175CAAABA-06",
+      "text": "Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-716165C175CAAABA",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Star Atlas",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [
+    "MUD",
+    "ONI",
+    "Ustur"
+  ],
+  "actors": [
+    "Krigs"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://medium.com/@krigsfoniks?source=---byline--b8aa65da5136---------------------------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fthe-hologram%2Fb8aa65da5136&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fstar-atlas-has-a-major-security-dilemma-b8aa65da5136&user=Krigs&userId=41e0c5b141f1&source=---header_actions--b8aa65da5136---------------------clap_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Frepost%2Fp%2Fb8aa65da5136&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fstar-atlas-has-a-major-security-dilemma-b8aa65da5136&user=Krigs&userId=41e0c5b141f1&source=---header_actions--b8aa65da5136---------------------repost_header------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fb8aa65da5136&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fstar-atlas-has-a-major-security-dilemma-b8aa65da5136&source=---header_actions--b8aa65da5136---------------------bookmark_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2Fplans%3Fdimension%3Dpost_audio_button%26postId%3Db8aa65da5136&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fstar-atlas-has-a-major-security-dilemma-b8aa65da5136&source=---header_actions--b8aa65da5136---------------------post_audio_button------------------",
+      "anchor_text": "Listen"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Herbert_Butterfield",
+      "anchor_text": "Herbert Butterfield"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/John_H._Herz",
+      "anchor_text": "John H. Herz"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Robert_Jervis",
+      "anchor_text": "Robert Jervis"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/International_relations",
+      "anchor_text": "international relations"
+    },
+    {
+      "url": "https://medium.com/the-hologram/the-guild-state-a-framework-for-understanding-guild-behavior-in-star-atlas-946af14901cf",
+      "anchor_text": "Guild-States presented their intergalactic policies and diplomatic"
+    },
+    {
+      "url": "https://medium.com/u/5ddf82148dcd?source=---user_mention--b8aa65da5136---------------------------------------",
+      "anchor_text": "Yield Guild Games"
+    },
+    {
+      "url": "https://medium.com/u/41e0c5b141f1",
+      "anchor_text": "Krigs"
+    },
+    {
+      "url": "https://medium.com/the-hologram",
+      "anchor_text": "The Hologram"
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "https://medium.com/the-hologram/star-atlas-has-a-major-security-dilemma-b8aa65da5136",
+    "final_url": "https://medium.com/the-hologram/star-atlas-has-a-major-security-dilemma-b8aa65da5136",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 279598,
+    "elapsed_ms": 733,
+    "retrieval_mode": "LIVE",
+    "archive_capture": null
+  }
+}

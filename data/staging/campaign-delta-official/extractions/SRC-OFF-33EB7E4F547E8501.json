@@ -1,0 +1,156 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-33EB7E4F547E8501",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47061454830099-What-are-in-game-zones",
+    "title": "What are in-game zones?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-03T17:01:26Z",
+    "updated_at": "2025-12-08T18:23:43Z",
+    "original_date_text": "2025-12-03T17:01:26Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “What are in-game zones?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "What Are In-Game Zones in Star Atlas?\nThe Star Atlas metaverse is divided into three primary risk zones that structure how gameplay, exploration, and conflict are experienced. These zones are essential for understanding how safety, rewards, and risk scale across the galaxy.\nSecurity Zone (SZ) – Safe & Social\nThis is each faction’s home region, heavily protected by the Council of Peace (COP)\nIdeal for beginners, social interactions, and low-risk exploration\nCombat is restricted: Only consensual duels are allowed using an opt-in system\nNo permanent asset loss is possible here\nDuel loot is limited to staked wagers—no full destruction or theft\nMedium Risk Zone (MRZ) – PvE & Limited PvP\nFound between the Safety Zone and the galaxy’s center.\nNPC pirates and raiders frequently attack, posing a moderate threat.\nNon-consensual PvP is allowed but discouraged via a bounty system.\nCombat losses don’t result in permanent destruction, but reclamation fees are higher.\nOpportunistic players may commit crimes like theft or attacks, triggering bounty rewards for bounty hunters.\nHigh Risk Zone (HRZ) – Dangerous & High Stakes\nLocated between MRZ quadrants and the galaxy’s mysterious center: The Cataclysm\nNo bounty enforcement applies here—anything goes\nPvP and high-level NPC threats are constant\nPermanent loss of ships, crew, and assets is possible unless covered by insurance\nHigh rewards attract experienced and daring players who accept the ultimate risks\nCrime & Bounties\nCriminal behavior like unprovoked attacks or theft is tracked by the COP in SZ and MRZ\nBounties apply to ships/fleets (not crew) and escalate with repeat offenses\nPlayers can take on bounty hunting contracts to apprehend or eliminate offenders—both NPC and player\nStar Atlas’ zone system balances safety for newcomers with escalating risk and reward for veterans. Whether you’re seeking peaceful exploration or full-throttle conflict, there’s a place in the stars for every playstyle.",
+  "content_hash": "18842a09056969c6b8652fe4d0a267cbae0026b579f3dab8ea068964a57f2052",
+  "entities": [
+    "ATLAS",
+    "Crew"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-33EB7E4F547E8501-01",
+      "text": "The Star Atlas metaverse is divided into three primary risk zones that structure how gameplay, exploration, and conflict are experienced.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-33EB7E4F547E8501",
+      "publication_date": "2025-12-03T17:01:26Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-33EB7E4F547E8501-02",
+      "text": "These zones are essential for understanding how safety, rewards, and risk scale across the galaxy.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-33EB7E4F547E8501",
+      "publication_date": "2025-12-03T17:01:26Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-33EB7E4F547E8501-03",
+      "text": "Security Zone (SZ) – Safe & Social This is each faction’s home region, heavily protected by the Council of Peace (COP) Ideal for beginners, social interactions, and low-risk exploration Combat is restricted: Only consensual duels are allowed using an opt-in system No permanent asset loss is possible here Duel loot is limited to staked wagers—no full destruction or theft Medium Risk Zone (MRZ) – PvE & Limited PvP Found between the Safety Zone and the galaxy’s center.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-33EB7E4F547E8501",
+      "publication_date": "2025-12-03T17:01:26Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-33EB7E4F547E8501-04",
+      "text": "NPC pirates and raiders frequently attack, posing a moderate threat.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-33EB7E4F547E8501",
+      "publication_date": "2025-12-03T17:01:26Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-33EB7E4F547E8501-05",
+      "text": "Non-consensual PvP is allowed but discouraged via a bounty system.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-33EB7E4F547E8501",
+      "publication_date": "2025-12-03T17:01:26Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-33EB7E4F547E8501-06",
+      "text": "Combat losses don’t result in permanent destruction, but reclamation fees are higher.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-33EB7E4F547E8501",
+      "publication_date": "2025-12-03T17:01:26Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-33EB7E4F547E8501-07",
+      "text": "Opportunistic players may commit crimes like theft or attacks, triggering bounty rewards for bounty hunters.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-33EB7E4F547E8501",
+      "publication_date": "2025-12-03T17:01:26Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-33EB7E4F547E8501-08",
+      "text": "Whether you’re seeking peaceful exploration or full-throttle conflict, there’s a place in the stars for every playstyle.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-33EB7E4F547E8501",
+      "publication_date": "2025-12-03T17:01:26Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "ATLAS",
+    "Crew"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47061454830099-What-are-in-game-zones",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.220210Z"
+  }
+}

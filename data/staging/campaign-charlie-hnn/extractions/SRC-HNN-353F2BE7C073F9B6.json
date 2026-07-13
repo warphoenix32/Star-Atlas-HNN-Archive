@@ -1,0 +1,312 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-353F2BE7C073F9B6",
+    "url_id": "URL-353F2BE7C073F9B6",
+    "url": "https://thehologram.io/polis-staking-apy",
+    "title": "POLIS Staking APY, High Yield Diminishing Over Time »",
+    "author": "Krigs",
+    "publisher": "Hologram News Network (HNN)",
+    "publication_identity": "Archived HNN website (thehologram.io)",
+    "published_at": "2022-08-05T18:37:57+00:00",
+    "updated_at": null,
+    "retrieved_at": "2026-07-13T00:14:02.331442Z",
+    "document_type": "ORIGINAL_REPORTING",
+    "source_role": "ORIGINAL_REPORTING",
+    "publication_role": "ORIGINAL_REPORTING",
+    "classification_rationale": "Publication reports a development without explicit interview, editorial, investigative, event, or reference framing."
+  },
+  "source_lineage": {
+    "publication": "Archived HNN website (thehologram.io)",
+    "publication_role": "ORIGINAL_REPORTING",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Krigs"
+    ],
+    "attribution_chain": [],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "This original reporting published by Hologram News Network (HNN) on 2022-08-05 documents “POLIS Staking APY, High Yield Diminishing Over Time ».” Its surviving text addresses governance, economy, guilds and DACs, community, lore, technology. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "POLIS Staking APY, High Yield Diminishing Over Time\nPosted by Krigs | Aug 5, 2022 | Economics, Politics\nIts been several days since the first reward period of the POLIS DAO and the initial data for POLIS staking APY is in. Since the first snapshot, roughly 4 million POLIS has been added to DAO representing an increase of nearly 30 million in communal POLIS Voting Power.\nAccording to figures provided by Automata, the initial average stake duration of POLIS DAO participants was 2.5 years during the first day of returns. Only a few days later, that average lock duration has increased to 4 years. This shift towards longer staking periods is being driven by initial POLIS staking APY figures.\nWith the combined increase in PVP and average staking durations, the APY on 5 year stake periods has already fallen below 100% in a matter of days, representing a 25% decrease in APY from August 1st. POLIS DAO participants on the short-term end of the spectrum have seen their APY rates cut by 33% individually, going from roughly 24% APY to 19% APY.\nAs the POLIS DAO increases in participants, the downturn in APY across all stake periods is expected to continue. Furthermore, the trend towards 5 year average lock durations will slowly increase over time. This will likely be due to short term stake contracts expiring and existing participant migration towards 5 years stakes to capture an increasingly divided share of POLIS DAO emissions.\nFor short term participants who prefer liquidity over long term governance participation, it is more likely that they will refrain from continually staking current and future emissions into the DAO.\nFor long term participants who do not have short term options, there are a few choices available to them. The simplest one is to go all in and continually lock for 5 years while simultaneously contributing more emissions to the DAO. However, this behavior across the DAO participants, will only further decline global APY in a race to capture as much emissions as possible. The other option is to not reinvest POLIS DAO emissions, to provide some limited liquidity.\nProjected APYs\nFor DAO participants, the POLIS locker now displays projected rewards for the next day. However, this does not project current of future POLIS DAO APY. Instead, users must calculate APYs individually. Thankfully, the formula to calculate APY is fairly simply. Taking the total daily POLIS DAO emissions, dividing by total communal PVP, then multiplying by individual PVP, one can calculate their individual APY. Thankfully, because PVP multipliers are linear, APY rates are also linear across all periods of staking.\nComparing APYs from Day 1 of the POLIS DAO emission period to today we find,\nPOLIS APY from Aug 2 – Aug 4\nLock Period\nAug 2 APY Rates\nAug 4 APY Rates\n1 Year\n24%\n19%\n2 Years\n48%\n38%\n3 Years\n72%\n57%\n4 Years\n96%\n76%\n5 Years\n120%\n95%\nLooking forward, we can also make projections about APY rewards at certain milestones of the POLIS DAO. We assume an average of a 4 year lock period as it is unlikely that duration will decrease. We also assume a daily POLIS DAO emission distribution of 51,283 tokens. The daily distribution of POLIS will eventually decrease over time but has a lesser statistical variable weight on APY compared to PVP.\n30M Locked Tokens/~240M PVP\nLock Period\nAPY Rates\n1 Year\n15.5%\n2 Years\n31%\n3 Years\n46.5%\n4 Years\n62%\n5 Years\n77.5%\n40M Locked Tokens/~320M PVP\nLock Period\nAPY Rates\n1 Year\n11.7%\n2 Years\n23.4%\n3 Years\n35.1%\n4 Years\n46.8%\n5 Years\n58.5%\n50M Locked Tokens/~400M PVP\nLock Period\nAPY Rates\n1 Year\n9.3%\n2 Years\n18.6%\n3 Years\n27.9%\n4 Years\n37.2%\n5 Years\n46.5%\nThese tables represent best case scenarios using realistic assumptions about participation in the POLIS DAO. Note that either a strong push towards 5 year lock periods or the gradual decline in daily POLIS emissions will lower the above APY projections. Forward leaning projections become less granular but full 5 year lock of 50M POLIS tokens, or 500M PVP, would approximate a 37% APY.\nIts unknown when the POLIS DAO will reach the above levels represented in the table. Since launch, the POLIS DAO has increased by approximately 20% in both locked tokens and PVP. If the past few days are any indication, the first table could likely be reached within a week.\nMany have stated that participation in the POLIS DAO is about governance and participation, not reward emissions. Fundamentally, this is accurate regarding the POLIS DAO. However, for others who view the DAO through a financial lens, its hard not to consider the APY potential of participation.\nAbout The Hologram\nThe Hologram is Star Atlas’ first and only independent news network. Our vision is to become the most trusted source of information about Star Atlas and a voice for the whole community. Readers can expect a high standard from our reporting and staff. Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.\nThe Hologram is not endorsed or paid by the Star Atlas team. Any information published by The Hologram nor its writers should be considered as informational in nature and does not constitute any financial advice.\nShare:\nAbout The Author\nKrigs\nRelated Posts\nTension Rise as Factions and Guilds Prepare For SCREAM\nJune 23, 2022\nDark Matter Calls On Interstellar Alliance For Transparency\nMay 16, 2022\nSCORE Badge Rewards Confirmed by Wagner\nMay 14, 2022\nStar Atlas Economic Report: The Good, The Bad, The Alpha\nJuly 3, 2022\nLeave a reply Cancel reply\nUpcoming Events\nThere are no upcoming events.\nRecent Posts\nPOLIS Staking APY, High Yield Diminishing Over Time\nAug 5, 2022 | Economics, Politics\n¿Qué facción de Star Atlas tiene la ventaja? (Parte I)\nAug 4, 2022 | Español, Políticas\nWhich Star Atlas Faction has the Upper Hand? (Part I)\nAug 4, 2022 | Politics\nUpdate – Solana Devs Narrow Down Source of $6M Exploit\nAug 4, 2022 | Crypto\nViaje inaugural: The Hologram contrata a los primero tripulantes del Opal BitBoat\nAug 1, 2022 | Community, Español\nMaiden Voyage: The Hologram Hires First Opal BitBoat Crew Members\nAug 1, 2022 | Community, Featured\nAnálisis: ¿Cuánto tiempo deberías stakear tus POLIS?\nJul 31, 2022 | Económicas, Español, Políticas\nAnalysis: How Long To Stake POLIS For?\nJul 30, 2022 | Economics, Politics\nLa DAO, el centro del metaverso de Star Atlas\nJul 27, 2022 | Español\nIlluvium vs Star Atlas\nJul 26, 2022 | Español, Featured\nFollow the Holo\nTwitter",
+  "content_hash": "31ac13097ac989f83bc99071727469cd4bd5bcfd2833e9101506266c12417fec",
+  "major_topics": [
+    "governance",
+    "economy",
+    "guilds and DACs",
+    "community",
+    "lore",
+    "technology"
+  ],
+  "entities": [
+    "ATLAS",
+    "Krigs",
+    "POLIS",
+    "SCORE",
+    "SCREAM",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-353F2BE7C073F9B6-01",
+      "text": "Furthermore, the trend towards 5 year average lock durations will slowly increase over time.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-353F2BE7C073F9B6",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-353F2BE7C073F9B6-02",
+      "text": "This will likely be due to short term stake contracts expiring and existing participant migration towards 5 years stakes to capture an increasingly divided share of POLIS DAO emissions.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-353F2BE7C073F9B6",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-353F2BE7C073F9B6-03",
+      "text": "For short term participants who prefer liquidity over long term governance participation, it is more likely that they will refrain from continually staking current and future emissions into the DAO.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-353F2BE7C073F9B6",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-353F2BE7C073F9B6-04",
+      "text": "However, this behavior across the DAO participants, will only further decline global APY in a race to capture as much emissions as possible.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-353F2BE7C073F9B6",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-353F2BE7C073F9B6-05",
+      "text": "We assume an average of a 4 year lock period as it is unlikely that duration will decrease.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-353F2BE7C073F9B6",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-353F2BE7C073F9B6-06",
+      "text": "The daily distribution of POLIS will eventually decrease over time but has a lesser statistical variable weight on APY compared to PVP.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-353F2BE7C073F9B6",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-353F2BE7C073F9B6-07",
+      "text": "Note that either a strong push towards 5 year lock periods or the gradual decline in daily POLIS emissions will lower the above APY projections.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-353F2BE7C073F9B6",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-353F2BE7C073F9B6-08",
+      "text": "Its unknown when the POLIS DAO will reach the above levels represented in the table.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-353F2BE7C073F9B6",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-353F2BE7C073F9B6-09",
+      "text": "Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-353F2BE7C073F9B6",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "SCORE",
+    "Star Atlas",
+    "POLIS",
+    "ATLAS",
+    "SCREAM"
+  ],
+  "governance_items": [
+    "Star Atlas governance / DAO"
+  ],
+  "lore_items": [],
+  "actors": [
+    "Krigs"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://thehologram.io/author/krigs/",
+      "anchor_text": "Krigs"
+    },
+    {
+      "url": "https://thehologram.io/category/economics/",
+      "anchor_text": "Economics"
+    },
+    {
+      "url": "https://thehologram.io/category/politics/",
+      "anchor_text": "Politics"
+    },
+    {
+      "url": "https://thehologram.io/star-atlas-dao/",
+      "anchor_text": "POLIS DAO"
+    },
+    {
+      "url": "https://thehologram.io/stake-polis/",
+      "anchor_text": "data"
+    },
+    {
+      "url": "https://thehologram.io/",
+      "anchor_text": "The Hologram"
+    },
+    {
+      "url": "http://www.facebook.com/sharer.php?u=https://thehologram.io/polis-staking-apy/&t=POLIS%20Staking%20APY%2C%20High%20Yield%20Diminishing%20Over%20Time",
+      "anchor_text": ""
+    },
+    {
+      "url": "http://twitter.com/intent/tweet?text=POLIS%20Staking%20APY%2C%20High%20Yield%20Diminishing%20Over%20Time%20https://thehologram.io/polis-staking-apy/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://plus.google.com/share?url=https://thehologram.io/polis-staking-apy/&t=POLIS%20Staking%20APY%2C%20High%20Yield%20Diminishing%20Over%20Time",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://twitter.com/Krigsfoniks",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/tension-rise-as-factions-and-guilds-prepare-for-scream/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/dark-matter-calls-for-transparency-interstellar-responds/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/score-badge-rewards-confirmed-by-wagner/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/new-star-atlas-economic-report/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/polis-staking-apy/",
+      "anchor_text": "Cancel reply"
+    },
+    {
+      "url": "https://thehologram.io/que-faccion-de-star-atlas-tiene-la-ventaja-parte-i/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/category/espanol/",
+      "anchor_text": "Español"
+    },
+    {
+      "url": "https://thehologram.io/category/espanol/politicas/",
+      "anchor_text": "Políticas"
+    },
+    {
+      "url": "https://thehologram.io/which-star-atlas-faction-has-the-upper-hand-part-i/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/2022-solana-exploit/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/category/crypto/",
+      "anchor_text": "Crypto"
+    },
+    {
+      "url": "https://thehologram.io/viaje-inaugural/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/category/community/",
+      "anchor_text": "Community"
+    },
+    {
+      "url": "https://thehologram.io/the-hologram-hires-first-opal-bitboat-crew-members/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/category/featured/",
+      "anchor_text": "Featured"
+    },
+    {
+      "url": "https://thehologram.io/analisis-staking-de-polis/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/category/espanol/economicas/",
+      "anchor_text": "Económicas"
+    },
+    {
+      "url": "https://thehologram.io/la-dao-el-centro-del-metaverso-de-star-atlas/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/illuvium-vs-star-atlas-es/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://twitter.com/Hologram_News",
+      "anchor_text": ""
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "No explicit primary source was identifiable from preserved outbound links."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://web.archive.org/web/20220805183759id_/https://thehologram.io/polis-staking-apy/",
+    "final_url": "https://web.archive.org/web/20220805183759id_/https://thehologram.io/polis-staking-apy/",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "response_size": 172367,
+    "elapsed_ms": 2196,
+    "retrieval_mode": "INTERNET_ARCHIVE",
+    "archive_capture": {
+      "timestamp": "20220805183759",
+      "original": "https://thehologram.io/polis-staking-apy/",
+      "digest": "PEXXKYEDGPHI2DJ7K43DYTVGLL4DNWXU"
+    }
+  }
+}

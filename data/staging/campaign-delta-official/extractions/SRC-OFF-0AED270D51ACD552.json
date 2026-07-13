@@ -1,0 +1,574 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-0AED270D51ACD552",
+    "url": "https://experience.staratlas.com/newsroom/game-updates/join-the-fleet-star-atlas-launches-its-inaugural-on-chain-gameplay",
+    "title": "Join the Fleet: Star Atlas Launches its Inaugural On-chain Gameplay Experience | Star Atlas",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Newsroom / ATMTA",
+    "published_at": "2021-12-17",
+    "updated_at": null,
+    "original_date_text": "Dec 17, 2021",
+    "document_type": "OFFICIAL_ANNOUNCEMENT",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Newsroom / ATMTA",
+    "publication_role": "ECONOMIC_REPORT",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://play.staratlas.com",
+        "anchor_text": "Play Now"
+      },
+      {
+        "url": "https://coinmarketcap.com/currencies/star-atlas/",
+        "anchor_text": "CMC"
+      },
+      {
+        "url": "https://www.coingecko.com/en/coins/star-atlas",
+        "anchor_text": "CoinGecko"
+      },
+      {
+        "url": "https://coinmarketcap.com/currencies/star-atlas-polis/",
+        "anchor_text": "CMC"
+      },
+      {
+        "url": "https://www.coingecko.com/en/coins/star-atlas-dao",
+        "anchor_text": "CoinGecko"
+      },
+      {
+        "url": "https://discord.gg/staratlas",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://t.me/staratlasgame",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://www.reddit.com/r/StarAtlas/",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://www.facebook.com/StarAtlasMMO",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://www.instagram.com/staratlasgame/",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://www.youtube.com/channel/UCt-y8Npwje5KDG5MSZ0a9Jw",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://www.twitch.tv/staratlasgame",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://play.staratlas.com/fleet",
+        "anchor_text": "Play.StarAtlas.com"
+      },
+      {
+        "url": "https://www.solana.com/",
+        "anchor_text": "Solana"
+      },
+      {
+        "url": "https://www.projectserum.com/",
+        "anchor_text": "Project Serum"
+      },
+      {
+        "url": "https://medium.com/star-atlas/galactic-marketplace-solana-serum-powered-core-of-star-atlas-nft-trading-7a18d2d33371",
+        "anchor_text": "released in Q3 of 2021"
+      },
+      {
+        "url": "https://staratlas.notion.site/staratlas/72cb710bbd894cd8819bde948e42ac31?v=5c5cca97579e4cd79089362bf03e55b1",
+        "anchor_text": "Star Atlas Roadmap"
+      },
+      {
+        "url": "https://medium.com/star-atlas/shipmas-9-new-star-atlas-spaceships-f24afc7956b1",
+        "anchor_text": "spaceship NFT drops"
+      },
+      {
+        "url": "https://play.staratlas.com/market",
+        "anchor_text": "Galactic Marketplace"
+      },
+      {
+        "url": "http://play.staratlas.com/faction",
+        "anchor_text": "picking a side"
+      },
+      {
+        "url": "https://phantom.app/",
+        "anchor_text": "Phantom"
+      },
+      {
+        "url": "https://play.staratlas.com/market/AdL6nGkPe3snPb7TEgSjaN8qCG493iYQqv4DeoCqH53F",
+        "anchor_text": "food"
+      },
+      {
+        "url": "https://play.staratlas.com/market/D6rLbJLqi1VvV81ViPScgWiKYcZoTPnMiQTcrmH9X5oQ",
+        "anchor_text": "fuel"
+      },
+      {
+        "url": "https://play.staratlas.com/market/8qtV9oq8VcrUHZdEeCJ2bUM3uLwjrfJ9U9FGrCSvu34z",
+        "anchor_text": "ammunition"
+      },
+      {
+        "url": "https://play.staratlas.com/market/32Pr4MhSD1K4J9buESjjbSZnXWLQ5oHFgB9MhEC2hp6J",
+        "anchor_text": "toolkits"
+      },
+      {
+        "url": "https://play.staratlas.com/market?category=resource",
+        "anchor_text": "Galactic Marketplace"
+      },
+      {
+        "url": "https://medium.com/aephia-industries/star-atlas-score-the-complete-guide-ff117f749058",
+        "anchor_text": "Aephia Industries Guild’s Complete Guide to SCORE — Medium article."
+      },
+      {
+        "url": "https://explorer.staratlas.club/ships/staking",
+        "anchor_text": "The Club Guild Calculator for SCORE ROI and Stats for Ship Staking."
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=pIcZ2buPxG4",
+        "anchor_text": "The Club Guild tutorial on the ship enlistment process — YouTube video."
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=vNzyHLJAVEs",
+        "anchor_text": "COEXIST Guild tutorial in Turkish on the SCORE feature — YouTube video."
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=aJXpisMBvdg",
+        "anchor_text": "Iñigo Echeverría Guide to SCORE in Spanish — YouTube video."
+      },
+      {
+        "url": "https://c212.net/c/link/?t=0&l=en&o=3518016-1&h=2748636143&u=https%3A%2F%2Fc212.net%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D3397231-1%26h%3D2982849003%26u%3Dhttp%253A%252F%252Fsolana.com%252F%26a%3DSolana&a=Solana",
+        "anchor_text": "Solana"
+      },
+      {
+        "url": "https://c212.net/c/link/?t=0&l=en&o=3518016-1&h=1530369193&u=https%3A%2F%2Fc212.net%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D3397231-1%26h%3D3652583731%26u%3Dhttps%253A%252F%252Fstaratlas.com%252F%26a%3DStarAtlas.com&a=StarAtlas.com",
+        "anchor_text": "StarAtlas.com"
+      },
+      {
+        "url": "https://c212.net/c/link/?t=0&l=en&o=3518016-1&h=3921988929&u=https%3A%2F%2Fc212.net%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D3397231-1%26h%3D445912205%26u%3Dhttp%253A%252F%252Fplay.staratlas.com%252F%26a%3DPlay.StarAtlas.com&a=Play.StarAtlas.com",
+        "anchor_text": "Play.StarAtlas.com"
+      },
+      {
+        "url": "https://www.reddit.com/r/StarAtlas",
+        "anchor_text": "Reddit"
+      },
+      {
+        "url": "https://www.linkedin.com/company/star-atlas",
+        "anchor_text": "Linkedin"
+      },
+      {
+        "url": "https://medium.com/star-atlas",
+        "anchor_text": "Medium"
+      },
+      {
+        "url": "https://www.tiktok.com/@staratlasmetaverse",
+        "anchor_text": "Tik Tok"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Newsroom / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official economic report titled “Join the Fleet: Star Atlas Launches its Inaugural On-chain Gameplay Experience | Star Atlas.” This record preserves what Star Atlas Newsroom / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Join the Fleet: Star Atlas Launches its Inaugural On-chain Gameplay Experience | Star Atlas\nPlay Now\nEconomic Reports\nWhite Paper • PDF\nRead Our Official White Paper!\nEconomics Paper • PDF\nLearn the tokenomics of ATLAS and POLIS in the galactic economy.\nGovernance Documentation\nLearn how Star Atlas is governed and built by its community.\nATLAS\n(\nCMC\nCoinGecko\n)\nPOLIS\n(\nCMC\nCoinGecko\n)\nTerms of Service\nPrivacy Policy\nPromotional Terms\nPlay Now\nBack\nDec 17, 2021\nTag: Game Updates\nJoin the Fleet: Star Atlas Launches its Inaugural On-chain Gameplay Experience\nBlockchain gaming metaverse on Solana fires up the mainnet with the launch of SCORE, the first playable browser-based game layer enabling players to earn in-game currency ATLAS\nBack to top\nDecember 16, 2021 is a historic day for Star Atlas, a the moment of grand expansion into a higher dimension with the creation of its key foundational layer, gameplay, allowing players to fully control and utilize their metaverse assets.\nThe new feature, accessible under the Faction Fleet tab on Play.StarAtlas.com, creates direct interoperability between the Solana blockchain and the players, allowing for the creation of complex gameplay mechanics, a sophisticated economic system as well as 2D and 3D interactivity — all completely on-chain.\nThis pillar of the decentralized metaverse is itself a major evolutionary advancement of the core of Star Atlas, its Project Serum-powered Galactic Marketplace, released in Q3 of 2021, and is on track to be continuously expanding with new gameplay modules set out in the public Star Atlas Roadmap.\nIt provides those involved in the Star Atlas ecosystem to get a taste of their how time and effort spent in-game translate to real world earnings through ATLAS-based rewards and usher in an entirely new, self-sovereign economic paradigm.\nJoining the Fleet Gameplay: SCORE\nThe first gameplay functionality is called Ship Commissions on Remote Expeditions or SCORE for short, fully accessible via a web browser.\nShipped to the worldwide Star Atlas community during the Shipmas season, between two waves of new spaceship NFT drops and in spirit of charitable giving, SCORE gives players the ability to enlist their own Star Atlas spaceship NFTs from the Galactic Marketplace into the fleet of their own faction: MUD, the ONI Consortium or the Ustur Sector.\nBy picking a side, joining the cause and volunteering the ships, players are helping their faction secure and expand control over their respective Council of Peace (COP) security zones in deep space, choosing a path of exploration.\nAs space is an unforgiving environment and heated situations during ship missions are unavoidable, players need to keep their ships maintained. As fleet managers, they learn how to supply them with fuel, food, ammo and maintain them via repairs in order to keep them running. As a reward for their work, they receive faction payments in the form of ATLAS, the in-game currency.\n> As a gesture in the spirit of giving during Star Atlas Shipmas, all owners of spaceships who had their ships in their Solana wallets like Phantom on Wednesday, have received a free supply package of fuel, food and ammo for each of their ships. The airdrop can be claimed in the Inventory.\nThe SCORE feature will be receiving regular updates over time, expanding its functionality via future modules. The focus on fleet management gameplay also serves as an onboarding process for players looking forward to play future modules including the Unreal Engine 5 version. It introduces the tasks and resource management strategies a space explorer must master to be able to fully benefit from the opportunities during the golden age of space exploration.\nAs SCORE is full-fledged blueprint for what is to come, the food, fuel, ammunition and repair toolkits are themselves NFTs whose supply can be depleted and replenished by purchasing them on the Galactic Marketplace.\nAs all spaceships are different from one another in their attributes, both strengths and weaknesses, and as the situation in deep space continues to evolve, players will have plenty of ways to strategize how to best run their fleet for the time to come.\nWhat are you waiting for?\nJoin the fleet now under the Faction Fleet tab on Play.StarAtlas.com!\nAdditional Community Resources\nAephia Industries Guild’s Complete Guide to SCORE — Medium article.\nThe Club Guild Calculator for SCORE ROI and Stats for Ship Staking.\nThe Club Guild tutorial on the ship enlistment process — YouTube video.\nCOEXIST Guild tutorial in Turkish on the SCORE feature — YouTube video.\nIñigo Echeverría Guide to SCORE in Spanish — YouTube video.\nABOUT STAR ATLAS\nStar Atlas is a next-gen gaming Metaverse emerging from the confluence of state of the art blockchain, real-time graphics, multiplayer video game, and decentralized financial technologies.\nReal-time graphics technology using Unreal Engine 5’s Nanite allows for cinematic quality video game visuals. Blockchain technology using the Solana protocol establishes a largely serverless and secured gameplay experience. Non-fungible tokens obtained and traded within Star Atlas create an economy that replicates the tangibility of real world assets and ownership. To learn more, visit StarAtlas.com, join a faction at Play.StarAtlas.com and send your spaceships on a deep space mission by enrolling them into a Faction Fleet.\nJOIN OUR COMMUNITY\nTwitter | Discord | Telegram | Youtube | Instagram | Reddit | Facebook | Linkedin | Medium | Tik Tok | Twitch\nPrev\nThe SHIPMAS Season Approaches: Countdown to 9 New Star Atlas Spaceships\nNext\nGAME ON: Pledge Your Ships for Factional Fleet Service in Star Atlas\n*At the height of Shipmas, a spacecraft with inexplicable shapeshifting capabilities has been discovered. You’re hunting it.*\nTrailer\nWe use cookies to enhance your experience and analyze our site usage.\nPlease see our Privacy Policy\nfor more information.\nAccept Cookies",
+  "content_hash": "164fb8602ef3ede77813424e5b42faaeba3e9dc8d8d58eef3dceac25db3e6064",
+  "entities": [
+    "ATLAS",
+    "Aephia",
+    "CORE",
+    "Faction Fleet",
+    "Galactic Marketplace",
+    "POLIS",
+    "SCORE",
+    "Serum",
+    "Solana",
+    "The Club"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-0AED270D51ACD552-01",
+      "text": "Join the Fleet: Star Atlas Launches its Inaugural On-chain Gameplay Experience | Star Atlas Play Now Economic Reports White Paper • PDF Read Our Official White Paper!",
+      "claim_type": "EVENT_OCCURRED",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0AED270D51ACD552",
+      "publication_date": "2021-12-17",
+      "confidence": "MEDIUM",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-0AED270D51ACD552-02",
+      "text": "This pillar of the decentralized metaverse is itself a major evolutionary advancement of the core of Star Atlas, its Project Serum-powered Galactic Marketplace, released in Q3 of 2021, and is on track to be continuously expanding with new gameplay modules set out in the public Star Atlas Roadmap.",
+      "claim_type": "ROADMAP_PLAN",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0AED270D51ACD552",
+      "publication_date": "2021-12-17",
+      "confidence": "MEDIUM",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-0AED270D51ACD552-03",
+      "text": "The SCORE feature will be receiving regular updates over time, expanding its functionality via future modules.",
+      "claim_type": "ANNOUNCEMENT",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0AED270D51ACD552",
+      "publication_date": "2021-12-17",
+      "confidence": "HIGH",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-0AED270D51ACD552-04",
+      "text": "As all spaceships are different from one another in their attributes, both strengths and weaknesses, and as the situation in deep space continues to evolve, players will have plenty of ways to strategize how to best run their fleet for the time to come.",
+      "claim_type": "ANNOUNCEMENT",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0AED270D51ACD552",
+      "publication_date": "2021-12-17",
+      "confidence": "HIGH",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "SCORE",
+    "Faction Fleet",
+    "Galactic Marketplace",
+    "CORE",
+    "POLIS",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [
+    "MUD",
+    "ONI",
+    "Ustur"
+  ],
+  "actors": [],
+  "organizations": [
+    "Solana",
+    "Serum"
+  ],
+  "guilds": [
+    "Aephia",
+    "The Club"
+  ],
+  "external_sources": [
+    {
+      "url": "https://experience.staratlas.com/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://play.staratlas.com",
+      "anchor_text": "Play Now"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/economic-reports/",
+      "anchor_text": "Economic Reports"
+    },
+    {
+      "url": "https://experience.staratlas.com/assets/pdfs/white-paper.pdf",
+      "anchor_text": "White Paper • PDF Read Our Official White Paper!"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/governance-documentation",
+      "anchor_text": "Governance Documentation Learn how Star Atlas is governed and built by its community."
+    },
+    {
+      "url": "https://coinmarketcap.com/currencies/star-atlas/",
+      "anchor_text": "CMC"
+    },
+    {
+      "url": "https://www.coingecko.com/en/coins/star-atlas",
+      "anchor_text": "CoinGecko"
+    },
+    {
+      "url": "https://coinmarketcap.com/currencies/star-atlas-polis/",
+      "anchor_text": "CMC"
+    },
+    {
+      "url": "https://www.coingecko.com/en/coins/star-atlas-dao",
+      "anchor_text": "CoinGecko"
+    },
+    {
+      "url": "https://twitter.com/staratlas",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://discord.gg/staratlas",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://t.me/staratlasgame",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/StarAtlas/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://www.facebook.com/StarAtlasMMO",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://www.instagram.com/staratlasgame/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCt-y8Npwje5KDG5MSZ0a9Jw",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://www.twitch.tv/staratlasgame",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://experience.staratlas.com/terms-of-service",
+      "anchor_text": "Terms of Service"
+    },
+    {
+      "url": "https://experience.staratlas.com/privacy-policy",
+      "anchor_text": "Privacy Policy"
+    },
+    {
+      "url": "https://experience.staratlas.com/promotional-terms-and-conditions",
+      "anchor_text": "Promotional Terms"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/news",
+      "anchor_text": "Back"
+    },
+    {
+      "url": "https://play.staratlas.com/fleet",
+      "anchor_text": "Play.StarAtlas.com"
+    },
+    {
+      "url": "https://www.solana.com/",
+      "anchor_text": "Solana"
+    },
+    {
+      "url": "https://www.projectserum.com/",
+      "anchor_text": "Project Serum"
+    },
+    {
+      "url": "https://medium.com/star-atlas/galactic-marketplace-solana-serum-powered-core-of-star-atlas-nft-trading-7a18d2d33371",
+      "anchor_text": "released in Q3 of 2021"
+    },
+    {
+      "url": "https://staratlas.notion.site/staratlas/72cb710bbd894cd8819bde948e42ac31?v=5c5cca97579e4cd79089362bf03e55b1",
+      "anchor_text": "Star Atlas Roadmap"
+    },
+    {
+      "url": "https://medium.com/star-atlas/shipmas-9-new-star-atlas-spaceships-f24afc7956b1",
+      "anchor_text": "spaceship NFT drops"
+    },
+    {
+      "url": "https://play.staratlas.com/market",
+      "anchor_text": "Galactic Marketplace"
+    },
+    {
+      "url": "http://play.staratlas.com/faction",
+      "anchor_text": "picking a side"
+    },
+    {
+      "url": "https://phantom.app/",
+      "anchor_text": "Phantom"
+    },
+    {
+      "url": "https://play.staratlas.com/market/AdL6nGkPe3snPb7TEgSjaN8qCG493iYQqv4DeoCqH53F",
+      "anchor_text": "food"
+    },
+    {
+      "url": "https://play.staratlas.com/market/D6rLbJLqi1VvV81ViPScgWiKYcZoTPnMiQTcrmH9X5oQ",
+      "anchor_text": "fuel"
+    },
+    {
+      "url": "https://play.staratlas.com/market/8qtV9oq8VcrUHZdEeCJ2bUM3uLwjrfJ9U9FGrCSvu34z",
+      "anchor_text": "ammunition"
+    },
+    {
+      "url": "https://play.staratlas.com/market/32Pr4MhSD1K4J9buESjjbSZnXWLQ5oHFgB9MhEC2hp6J",
+      "anchor_text": "toolkits"
+    },
+    {
+      "url": "https://play.staratlas.com/market?category=resource",
+      "anchor_text": "Galactic Marketplace"
+    },
+    {
+      "url": "https://medium.com/aephia-industries/star-atlas-score-the-complete-guide-ff117f749058",
+      "anchor_text": "Aephia Industries Guild’s Complete Guide to SCORE — Medium article."
+    },
+    {
+      "url": "https://explorer.staratlas.club/ships/staking",
+      "anchor_text": "The Club Guild Calculator for SCORE ROI and Stats for Ship Staking."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=pIcZ2buPxG4",
+      "anchor_text": "The Club Guild tutorial on the ship enlistment process — YouTube video."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=vNzyHLJAVEs",
+      "anchor_text": "COEXIST Guild tutorial in Turkish on the SCORE feature — YouTube video."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=aJXpisMBvdg",
+      "anchor_text": "Iñigo Echeverría Guide to SCORE in Spanish — YouTube video."
+    },
+    {
+      "url": "https://c212.net/c/link/?t=0&l=en&o=3518016-1&h=2748636143&u=https%3A%2F%2Fc212.net%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D3397231-1%26h%3D2982849003%26u%3Dhttp%253A%252F%252Fsolana.com%252F%26a%3DSolana&a=Solana",
+      "anchor_text": "Solana"
+    },
+    {
+      "url": "https://c212.net/c/link/?t=0&l=en&o=3518016-1&h=1530369193&u=https%3A%2F%2Fc212.net%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D3397231-1%26h%3D3652583731%26u%3Dhttps%253A%252F%252Fstaratlas.com%252F%26a%3DStarAtlas.com&a=StarAtlas.com",
+      "anchor_text": "StarAtlas.com"
+    },
+    {
+      "url": "https://c212.net/c/link/?t=0&l=en&o=3518016-1&h=3921988929&u=https%3A%2F%2Fc212.net%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D3397231-1%26h%3D445912205%26u%3Dhttp%253A%252F%252Fplay.staratlas.com%252F%26a%3DPlay.StarAtlas.com&a=Play.StarAtlas.com",
+      "anchor_text": "Play.StarAtlas.com"
+    },
+    {
+      "url": "https://www.reddit.com/r/StarAtlas",
+      "anchor_text": "Reddit"
+    },
+    {
+      "url": "https://www.linkedin.com/company/star-atlas",
+      "anchor_text": "Linkedin"
+    },
+    {
+      "url": "https://medium.com/star-atlas",
+      "anchor_text": "Medium"
+    },
+    {
+      "url": "https://www.tiktok.com/@staratlasmetaverse",
+      "anchor_text": "Tik Tok"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/game-updates/the-shipmas-season-approaches-countdown-to-9-new-star-atlas-spaceships",
+      "anchor_text": "Prev The SHIPMAS Season Approaches: Countdown to 9 New Star Atlas Spaceships"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/game-updates/game-on-pledge-your-ships-for-factional-fleet-service-in-star-atlas",
+      "anchor_text": "Next GAME ON: Pledge Your Ships for Factional Fleet Service in Star Atlas *At the height of Shipmas, a spacecraft with inexplicable shapeshifting capabilities has been discovered. You’re hunting it.*"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/game-updates/join-the-fleet-star-atlas-launches-its-inaugural-on-chain-gameplay",
+      "anchor_text": "Trailer"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://experience.staratlas.com/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://play.staratlas.com",
+      "anchor_text": "Play Now"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/economic-reports/",
+      "anchor_text": "Economic Reports"
+    },
+    {
+      "url": "https://experience.staratlas.com/assets/pdfs/white-paper.pdf",
+      "anchor_text": "White Paper • PDF Read Our Official White Paper!"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/governance-documentation",
+      "anchor_text": "Governance Documentation Learn how Star Atlas is governed and built by its community."
+    },
+    {
+      "url": "https://experience.staratlas.com/terms-of-service",
+      "anchor_text": "Terms of Service"
+    },
+    {
+      "url": "https://experience.staratlas.com/privacy-policy",
+      "anchor_text": "Privacy Policy"
+    },
+    {
+      "url": "https://experience.staratlas.com/promotional-terms-and-conditions",
+      "anchor_text": "Promotional Terms"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/news",
+      "anchor_text": "Back"
+    },
+    {
+      "url": "https://play.staratlas.com/fleet",
+      "anchor_text": "Play.StarAtlas.com"
+    },
+    {
+      "url": "https://play.staratlas.com/market",
+      "anchor_text": "Galactic Marketplace"
+    },
+    {
+      "url": "http://play.staratlas.com/faction",
+      "anchor_text": "picking a side"
+    },
+    {
+      "url": "https://play.staratlas.com/market/AdL6nGkPe3snPb7TEgSjaN8qCG493iYQqv4DeoCqH53F",
+      "anchor_text": "food"
+    },
+    {
+      "url": "https://play.staratlas.com/market/D6rLbJLqi1VvV81ViPScgWiKYcZoTPnMiQTcrmH9X5oQ",
+      "anchor_text": "fuel"
+    },
+    {
+      "url": "https://play.staratlas.com/market/8qtV9oq8VcrUHZdEeCJ2bUM3uLwjrfJ9U9FGrCSvu34z",
+      "anchor_text": "ammunition"
+    },
+    {
+      "url": "https://play.staratlas.com/market/32Pr4MhSD1K4J9buESjjbSZnXWLQ5oHFgB9MhEC2hp6J",
+      "anchor_text": "toolkits"
+    },
+    {
+      "url": "https://play.staratlas.com/market?category=resource",
+      "anchor_text": "Galactic Marketplace"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/game-updates/the-shipmas-season-approaches-countdown-to-9-new-star-atlas-spaceships",
+      "anchor_text": "Prev The SHIPMAS Season Approaches: Countdown to 9 New Star Atlas Spaceships"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/game-updates/game-on-pledge-your-ships-for-factional-fleet-service-in-star-atlas",
+      "anchor_text": "Next GAME ON: Pledge Your Ships for Factional Fleet Service in Star Atlas *At the height of Shipmas, a spacecraft with inexplicable shapeshifting capabilities has been discovered. You’re hunting it.*"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/game-updates/join-the-fleet-star-atlas-launches-its-inaugural-on-chain-gameplay",
+      "anchor_text": "Trailer"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://experience.staratlas.com/newsroom/game-updates/join-the-fleet-star-atlas-launches-its-inaugural-on-chain-gameplay",
+    "final_url": "https://experience.staratlas.com/newsroom/game-updates/join-the-fleet-star-atlas-launches-its-inaugural-on-chain-gameplay",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "response_size": 66294,
+    "retrieved_at": "2026-07-13T01:04:38.772748Z",
+    "elapsed_ms": 234
+  }
+}

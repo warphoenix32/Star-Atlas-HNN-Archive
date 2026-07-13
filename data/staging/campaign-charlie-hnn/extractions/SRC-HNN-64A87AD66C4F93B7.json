@@ -1,0 +1,278 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-64A87AD66C4F93B7",
+    "url_id": "URL-64A87AD66C4F93B7",
+    "url": "https://medium.com/the-hologram/will-star-atlas-give-power-to-the-people-17547ffcbc21",
+    "title": "Will Star Atlas give Power to the People?",
+    "author": "Oni Merchant",
+    "publisher": "The Hologram",
+    "publication_identity": "The Hologram (Medium publication)",
+    "published_at": "2023-01-19T01:17:28Z",
+    "updated_at": "2023-01-19T01:17:28Z",
+    "retrieved_at": "2026-07-13T00:08:05.618220Z",
+    "document_type": "FEATURE",
+    "source_role": "FEATURE",
+    "publication_role": "FEATURE",
+    "classification_rationale": "Publication provides feature-style background or profile coverage."
+  },
+  "source_lineage": {
+    "publication": "The Hologram (Medium publication)",
+    "publication_role": "FEATURE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [
+      {
+        "publication": "TED talk",
+        "author": "UNKNOWN",
+        "url": "https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Star Atlas DAO",
+        "author": "UNKNOWN",
+        "url": "https://govern.staratlas.com/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Star Atlas Newsroom",
+        "author": "UNKNOWN",
+        "url": "https://staratlas.com/newsroom/star-atlas-news/the-star-atlas-dao-the-game-of-polis",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://staratlas.com/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [
+      "Oni Merchant"
+    ],
+    "attribution_chain": [
+      {
+        "from": "TED talk",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads"
+      },
+      {
+        "from": "Star Atlas DAO",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://govern.staratlas.com/"
+      },
+      {
+        "from": "Star Atlas Newsroom",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://staratlas.com/newsroom/star-atlas-news/the-star-atlas-dao-the-game-of-polis"
+      },
+      {
+        "from": "Star Atlas",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://staratlas.com/"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "This feature published by The Hologram on 2023-01-19 documents “Will Star Atlas give Power to the People?.” Its surviving text addresses governance, economy, game development, community, lore, technology. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "Star AtlasDecentralizationWeb3Gaming\nWill Star Atlas give Power to the People?\nOni Merchant4 min read·Jan 19, 2023\n--\nListen\nShare\nA reflective look into the political claim of an ever-growing metaverse.\nThe developing phenomenon known as Star Atlas is a unique and immersive virtual experience that combines the elements of gaming, space exploration, and cryptocurrency. While the game itself is still being developed, its community has grown to a massive size. When you spend any small period of time with the Star Atlas crew, you’ll get accustomed to hearing one very important phrase: “Power to the People”.\nA Brief Look into the Decentralized Past\nGiving power to the people seems to echo the overall theme of modern governments and cryptocurrency itself. After all, Bitcoin was originally invented to do just that: To empower individuals with the ability to transact peer-to-peer, in a digital world. As decentralized technology became more widely adopted however, we saw increased efforts to regulate it. In order to protect consumers and prevent illegal activities, an increased demand for digital and financial control was imminent.\nPress enter or click to view image in full size\nHowever, it’s important to understand that even while regulation will continue to be pushed into the future, Web3 is more resistant to the attempts at centralized control than traditional systems. The balance between regulation and autonomy is an ongoing debate in the Web3 space (and outside of it), and it remains to be seen how it will evolve over time. Just as the internet and social networks developed differently than anticipated, the choices we make now will shape whether or not we achieve the utopia we desire.\nEarly Adopter to Disillusioned User\nI recall being among the early adopters of Facebook, as the platform was initially only available to individuals with a .edu email address. At the time, the platform was novel and provided an enjoyable experience, primarily focusing on photos, statuses, and tagging friends. It was fun! However, as the platform evolved and expanded, it became clear that the emphasis shifted towards monetization, advertisements, and business features, rather than fostering a sense of community and engagement for users.\nIn 2017 sociologist Zeynep Tufekci gave a TED talk called “We’re building a dystopia just to make people click on ads”. Facebook, Google, and a plethora of giant tech companies have pushed the advertising business model to destroy the best parts of their companies: The human connections. In order to connect with family and friends, I decreasingly opened Facebook to see pictures and statuses. I did however revert backwards in time to texting or calling.\nPress enter or click to view image in full size\nWhat Does this Have to Do with Star Atlas?\nThe answer to empowering the people lies in one small truth: When something good happens, it’s because we did something to make it that way. Remember that big problem with social media and how big business sucked all the fun straight out of it? The biggest asset Star Atlas has going for it, is that it’s going to be fun. The business is peer-to-peer and the people will begin to shape the future of this metaverse giant through something called a Decentralized Autonomous Organization known as the Star Atlas DAO.\n“One might say that the Star Atlas DAO is the jewel of the Star Atlas crown. It represents the fundamental ethos of the community: giving power to the people while serving as a very entertaining and essential gameplay feature that provides economic incentives and overall project governance.” (Star Atlas Newsroom)\nAs a decentralized organization, Star Atlas can steer away from the dystopian-level mistakes made by previous tech giants. While advertising will still exist in any truly free system, it’s up to each of us to decide what that might look like. Star Atlas is much more than a space game. It has the potential to onboard billions into the metaverse. Regardless of faction, if the time comes that any of you need a lift, there’s always one mud pilot willing to help out. — NotBitcoinCEO\nWould you like to check out the Star Atlas Economics Paper for yourself? Read it here. Also, if you enjoyed this article or would like to hear about something specific in the future, please leave a comment below.\nPress enter or click to view image in full size\nAbout the Author\nNotBitcoinCEO is a mud pilot & writer on The Hologram News Network, an independent blockchain gaming meta-news organization devoted to the coverage of Star Atlas.\nFollow on Social Media:\nTwitter | Instagram | Web\nAbout The Hologram\nThe Hologram is Star Atlas’ first and only independent news network. Our vision is to become the most trusted source of information about Star Atlas and a voice for the whole community. Readers can expect a high standard from our reporting and staff. Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.\nPress enter or click to view image in full size\nThe Hologram is not endorsed or paid by the Star Atlas team. Any information published by The Hologram nor its writers should be considered as informational in nature and does not constitute any financial advice.",
+  "content_hash": "0c72e68d74ccc66589cd15631131ab892c8c1f7cb8bd35f88adb1f21f28556cf",
+  "major_topics": [
+    "governance",
+    "economy",
+    "game development",
+    "community",
+    "lore",
+    "technology"
+  ],
+  "entities": [
+    "ATLAS",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-64A87AD66C4F93B7-01",
+      "text": "Star AtlasDecentralizationWeb3Gaming Will Star Atlas give Power to the People?",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-64A87AD66C4F93B7",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-64A87AD66C4F93B7-02",
+      "text": "Press enter or click to view image in full size However, it’s important to understand that even while regulation will continue to be pushed into the future, Web3 is more resistant to the attempts at centralized control than traditional systems.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-64A87AD66C4F93B7",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-64A87AD66C4F93B7-03",
+      "text": "The balance between regulation and autonomy is an ongoing debate in the Web3 space (and outside of it), and it remains to be seen how it will evolve over time.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-64A87AD66C4F93B7",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-64A87AD66C4F93B7-04",
+      "text": "Just as the internet and social networks developed differently than anticipated, the choices we make now will shape whether or not we achieve the utopia we desire.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-64A87AD66C4F93B7",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-64A87AD66C4F93B7-05",
+      "text": "The business is peer-to-peer and the people will begin to shape the future of this metaverse giant through something called a Decentralized Autonomous Organization known as the Star Atlas DAO.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-64A87AD66C4F93B7",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-64A87AD66C4F93B7-06",
+      "text": "While advertising will still exist in any truly free system, it’s up to each of us to decide what that might look like.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-64A87AD66C4F93B7",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-64A87AD66C4F93B7-07",
+      "text": "Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-64A87AD66C4F93B7",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Star Atlas",
+    "ATLAS"
+  ],
+  "governance_items": [
+    "Star Atlas governance / DAO"
+  ],
+  "lore_items": [
+    "MUD",
+    "ONI"
+  ],
+  "actors": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://medium.com/@punaab?source=---byline--17547ffcbc21---------------------------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fthe-hologram%2F17547ffcbc21&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fwill-star-atlas-give-power-to-the-people-17547ffcbc21&user=Oni+Merchant&userId=ad2a3faef607&source=---header_actions--17547ffcbc21---------------------clap_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Frepost%2Fp%2F17547ffcbc21&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fwill-star-atlas-give-power-to-the-people-17547ffcbc21&user=Oni+Merchant&userId=ad2a3faef607&source=---header_actions--17547ffcbc21---------------------repost_header------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F17547ffcbc21&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fwill-star-atlas-give-power-to-the-people-17547ffcbc21&source=---header_actions--17547ffcbc21---------------------bookmark_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2Fplans%3Fdimension%3Dpost_audio_button%26postId%3D17547ffcbc21&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fwill-star-atlas-give-power-to-the-people-17547ffcbc21&source=---header_actions--17547ffcbc21---------------------post_audio_button------------------",
+      "anchor_text": "Listen"
+    },
+    {
+      "url": "https://medium.com/u/5ed69ff9cfb0?source=---user_mention--17547ffcbc21---------------------------------------",
+      "anchor_text": "Star Atlas"
+    },
+    {
+      "url": "https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads",
+      "anchor_text": "TED talk"
+    },
+    {
+      "url": "https://govern.staratlas.com/",
+      "anchor_text": "Star Atlas DAO"
+    },
+    {
+      "url": "https://staratlas.com/newsroom/star-atlas-news/the-star-atlas-dao-the-game-of-polis",
+      "anchor_text": "Star Atlas Newsroom"
+    },
+    {
+      "url": "https://medium.com/u/ad2a3faef607?source=---user_mention--17547ffcbc21---------------------------------------",
+      "anchor_text": "NotBitcoinCEO"
+    },
+    {
+      "url": "https://medium.com/@mudpilot",
+      "anchor_text": "NotBitcoinCEO"
+    },
+    {
+      "url": "https://twitter.com/Hologram_News",
+      "anchor_text": "Twitter"
+    },
+    {
+      "url": "https://www.instagram.com/hologram_news/",
+      "anchor_text": "Instagram"
+    },
+    {
+      "url": "https://thehologram.io/",
+      "anchor_text": "Web"
+    },
+    {
+      "url": "https://medium.com/the-hologram",
+      "anchor_text": "The Hologram"
+    },
+    {
+      "url": "https://staratlas.com/",
+      "anchor_text": "Star Atlas"
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "https://medium.com/the-hologram/will-star-atlas-give-power-to-the-people-17547ffcbc21",
+    "final_url": "https://medium.com/the-hologram/will-star-atlas-give-power-to-the-people-17547ffcbc21",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 279315,
+    "elapsed_ms": 631,
+    "retrieval_mode": "LIVE",
+    "archive_capture": null
+  }
+}

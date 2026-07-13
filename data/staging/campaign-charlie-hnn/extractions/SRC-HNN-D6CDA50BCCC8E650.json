@@ -1,0 +1,250 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-D6CDA50BCCC8E650",
+    "url_id": "URL-D6CDA50BCCC8E650",
+    "url": "https://medium.com/the-hologram/tales-from-the-void-what-treasure-awaits-at-the-center-of-the-cataclysm-13647de6add3",
+    "title": "Tales from the Void: What Treasure Awaits at the Center of the Cataclysm?",
+    "author": "Krigs",
+    "publisher": "The Hologram",
+    "publication_identity": "The Hologram (Medium publication)",
+    "published_at": "2022-04-08T02:04:18Z",
+    "updated_at": "2022-04-08T02:11:20Z",
+    "retrieved_at": "2026-07-13T00:10:02.552614Z",
+    "document_type": "REFERENCE",
+    "source_role": "REFERENCE",
+    "publication_role": "REFERENCE",
+    "classification_rationale": "Publication is structured as a guide or reference."
+  },
+  "source_lineage": {
+    "publication": "The Hologram (Medium publication)",
+    "publication_role": "REFERENCE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "publication": "reported",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=2u50pd2NJjA",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "flavor text",
+        "author": "UNKNOWN",
+        "url": "https://play.staratlas.com/market/5Erzgrw9pTjNWLeqHp2sChJq7smB7WXRQYw9wvkvA59t",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "The Interstellar Alliance",
+        "author": "UNKNOWN",
+        "url": "https://interstellaralliance-1.gitbook.io/isa/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [
+      "Krigs"
+    ],
+    "attribution_chain": [
+      {
+        "from": "reported",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REFERENCES",
+        "url": "https://www.youtube.com/watch?v=2u50pd2NJjA"
+      },
+      {
+        "from": "flavor text",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REFERENCES",
+        "url": "https://play.staratlas.com/market/5Erzgrw9pTjNWLeqHp2sChJq7smB7WXRQYw9wvkvA59t"
+      },
+      {
+        "from": "The Interstellar Alliance",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REFERENCES",
+        "url": "https://interstellaralliance-1.gitbook.io/isa/"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "This reference published by The Hologram on 2022-04-08 documents “Tales from the Void: What Treasure Awaits at the Center of the Cataclysm?.” Its surviving text addresses governance, economy, guilds and DACs, game development, community, lore. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "Star AtlasLoreExploration\nTales from the Void: What Treasure Awaits at the Center of the Cataclysm?\nKrigs4 min read·Apr 8, 2022\n--\nListen\nShare\nThe Cataclysm sparked a three-sided conflict over the vast resource field in what is now known as The High Risk Zone. Loremasters familiar with Star Atlas’s rich history speculate that the most valuable resource in the Cataclysm is still yet to be claimed.\nPress enter or click to view image in full sizeWhat mysteries lie at the center of the Cataclysm?\nThe latest edition of the Atlas Star Newsletter delivered a substantial amount of content to the citizens of Star Atlas. The newsletter heavily featured updates on guilds, Polis DAO, GAO 2, and an extensive summary of the development team’s accomplishments over the past 90 days.\nBut our journey today takes us down a star lane a little less traveled, if at all. Hidden within plain sight of the newsletter is another clue that a valuable mystery exists at the center of the Star Atlas metaverse.\nIs it Nootopia?\nClue #?\nUnfortunately, no we’re not talking about Nootopia, sorry ZeSKK!\nClue #1\nOur first clue chronologically was first reported to us last November by famous Star Atlas media personality DAOcaster. Contained in the Star Atlas official trailer, a long cinematic sequence depicts three explorers on a barren planet discovering what appears to be the “Diamond Planet”. For the uninitiated, the Diamond Planet is exactly what it sounds. A planet made either entirely of or largely of diamonds. Such a huge store of diamonds would certainly be valuable to any who laid claim to it.\nReturning to the clue itself, the sequence opens at the 0:39 mark with a robotic voice, presumably belonging to the USTUR explorer of the three, grimly stating “If we go there, we might not come back”. This may imply that the trio journey to the High Resource Zone, or Cataclysm, to achieve their exploration objective.\nUpon reaching the planet’s surface, the unidentified MUD explorer wipes away the loose topsoil of the planet revealing a brilliant and shining solid surface underneath. Behold, the rumored Diamond Planet!\nClue #2\nOur second clue comes in the form of the meta poser “The Heart of Star Atlas” flavor text:\nAt the core of Star Atlas lies a treasure trove of priceless data. After an unsuspecting deep space explorer discovers “The Cataclysm”, he scans its riches, creating what will once be known as the first intergalactic data block. He sells this invaluable information to all three rival factions, igniting a lethal spark that forever changes the course of history.\nThis clue is less obvious, but again points to a highly valuable asset or resource existing near the center of the Star Atlas galaxy. The resources contained with the High Resource Zone were enough to start one war and it most certainly will be the catalyst of many wars in the future. Should an incredibly rare and powerful resource be discovered in the High Resource Zone, the race to claim it will be tumultuous.\nThis brings us to our third known clue so far…\n“The DACs of Star Atlas — Our Diamond at the Center of the Galaxy”\nClue #3\nNear the beginning of the most recent Atlas Star newsletter, a casual throw away section header holds our seemingly benign clue. “Our Diamond at the Center of the Galaxy” It’s easy for casual readers to dismiss this headline as a touching nod to the many guilds, or DACs, that have helped build the Star Atlas community.\nHowever, beneath its touching exterior, another piece of evidence exists from Star Atlas writers and developers that a Diamond Planet may exist within the High Resource Zone. Sure, this could be some long standing humor that has taken its own form and the writers are dangling treasure hunt that may never come. But many citizens that are in frequent contact with the Star Atlas team firmly believe that a Diamond Planet, or something of the like, exists within the High Resource Zone. So certain are they in this fact, guilds have arisen to take up the hunt. Organizations like The Interstellar Alliance are one of a few guilds who have entire departments dedicated to exploring the High Resource Zone and finding the Diamond Planet. While many are on the search for the fabled Diamond Planet, only one can lay first claim.\nAdditional Notes\nIf such a valuable place exists, it could very well be the same place that ignited the three-sided faction war that led to the deaths of many. Perhaps the resources of such a place remain unclaimed by any faction. Any explorer brave enough to navigate the dangers of The Cataclysm could certainly claim this valuable prize.\nPerhaps the Diamond Planet is not made of diamond at all? During faction selection, members considering the MUD faction should note that the faction has an easier time accessing diamonds as a resource. This would lead one to believe that diamonds are not, in fact, an extremely rare resource. In common Earth language, the word diamond is often used interchangeably to describe something valuable. Thus, early explorers may have not know what they had discovered and could only describe the rumored Diamond Planet as “diamond-like”\nCitizens of Star Atlas are still years away from accessing the High Resource Zone. Until then, explorers will be searching for the best, safest, or most reliable routes in and out of the HRZ. Probing the edges of HRZ space, both expeditioners and pirates alike will contest each other for the wave of resources flowing from the Cataclysm. At the core of it all, one of the most valuable treasures possibly awaits. Could the hunt lead to nothing at all? That’s certainly a possibility. But are you willing to risk sitting by and doing nothing on the chance that it’s not?\nUntil then, keep a sharp eye and a quick hand about you. Good Luck explorer!",
+  "content_hash": "4fb59b05e223ca96899b0b25aef5be575b57b3d5529c9a83c30ba4cfc2fd8f7c",
+  "major_topics": [
+    "governance",
+    "economy",
+    "guilds and DACs",
+    "game development",
+    "community",
+    "lore"
+  ],
+  "entities": [
+    "ATLAS",
+    "Krigs",
+    "POLIS",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-D6CDA50BCCC8E650-01",
+      "text": "Loremasters familiar with Star Atlas’s rich history speculate that the most valuable resource in the Cataclysm is still yet to be claimed.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-D6CDA50BCCC8E650",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-D6CDA50BCCC8E650-02",
+      "text": "Clue #1 Our first clue chronologically was first reported to us last November by famous Star Atlas media personality DAOcaster.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-D6CDA50BCCC8E650",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-D6CDA50BCCC8E650-03",
+      "text": "After an unsuspecting deep space explorer discovers “The Cataclysm”, he scans its riches, creating what will once be known as the first intergalactic data block.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-D6CDA50BCCC8E650",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-D6CDA50BCCC8E650-04",
+      "text": "The resources contained with the High Resource Zone were enough to start one war and it most certainly will be the catalyst of many wars in the future.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-D6CDA50BCCC8E650",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-D6CDA50BCCC8E650-05",
+      "text": "Should an incredibly rare and powerful resource be discovered in the High Resource Zone, the race to claim it will be tumultuous.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-D6CDA50BCCC8E650",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-D6CDA50BCCC8E650-06",
+      "text": "Until then, explorers will be searching for the best, safest, or most reliable routes in and out of the HRZ.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-D6CDA50BCCC8E650",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-D6CDA50BCCC8E650-07",
+      "text": "Probing the edges of HRZ space, both expeditioners and pirates alike will contest each other for the wave of resources flowing from the Cataclysm.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-D6CDA50BCCC8E650",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Star Atlas",
+    "POLIS",
+    "ATLAS"
+  ],
+  "governance_items": [
+    "Star Atlas governance / DAO"
+  ],
+  "lore_items": [
+    "MUD",
+    "Ustur"
+  ],
+  "actors": [
+    "Krigs"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://medium.com/@krigsfoniks?source=post_page---byline--13647de6add3---------------------------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fthe-hologram%2F13647de6add3&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Ftales-from-the-void-what-treasure-awaits-at-the-center-of-the-cataclysm-13647de6add3&user=Krigs&userId=41e0c5b141f1&source=---header_actions--13647de6add3---------------------clap_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Frepost%2Fp%2F13647de6add3&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Ftales-from-the-void-what-treasure-awaits-at-the-center-of-the-cataclysm-13647de6add3&user=Krigs&userId=41e0c5b141f1&source=---header_actions--13647de6add3---------------------repost_header------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F13647de6add3&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Ftales-from-the-void-what-treasure-awaits-at-the-center-of-the-cataclysm-13647de6add3&source=---header_actions--13647de6add3---------------------bookmark_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2Fplans%3Fdimension%3Dpost_audio_button%26postId%3D13647de6add3&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Ftales-from-the-void-what-treasure-awaits-at-the-center-of-the-cataclysm-13647de6add3&source=---header_actions--13647de6add3---------------------post_audio_button------------------",
+      "anchor_text": "Listen"
+    },
+    {
+      "url": "https://medium.com/star-atlas/the-atlas-star-issue-5-60af7ed85101",
+      "anchor_text": "Newsletter"
+    },
+    {
+      "url": "https://medium.com/@jose_eduardosiqueira/nootopia-the-diamond-at-the-center-of-the-universe-part-i-fa3cfbb11ca7",
+      "anchor_text": "Nootopia"
+    },
+    {
+      "url": "https://medium.com/u/15f2349787af?source=post_page---user_mention--13647de6add3---------------------------------------",
+      "anchor_text": "ZeSKK"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=2u50pd2NJjA",
+      "anchor_text": "reported"
+    },
+    {
+      "url": "https://play.staratlas.com/market/5Erzgrw9pTjNWLeqHp2sChJq7smB7WXRQYw9wvkvA59t",
+      "anchor_text": "flavor text"
+    },
+    {
+      "url": "https://interstellaralliance-1.gitbook.io/isa/",
+      "anchor_text": "The Interstellar Alliance"
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "https://medium.com/the-hologram/tales-from-the-void-what-treasure-awaits-at-the-center-of-the-cataclysm-13647de6add3",
+    "final_url": "https://medium.com/the-hologram/tales-from-the-void-what-treasure-awaits-at-the-center-of-the-cataclysm-13647de6add3",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 135400,
+    "elapsed_ms": 633,
+    "retrieval_mode": "LIVE",
+    "archive_capture": null
+  }
+}

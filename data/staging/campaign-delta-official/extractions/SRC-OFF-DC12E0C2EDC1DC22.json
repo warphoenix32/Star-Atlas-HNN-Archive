@@ -1,0 +1,84 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-DC12E0C2EDC1DC22",
+    "url": "https://github.com/staratlasmeta/validas#readme",
+    "title": "validas README",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "staratlasmeta GitHub organization",
+    "published_at": "2024-08-28T00:26:49Z",
+    "updated_at": "2024-08-28T13:15:24Z",
+    "original_date_text": "2024-08-28T00:26:49Z",
+    "document_type": "TECHNICAL_DOCUMENTATION",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "staratlasmeta GitHub organization",
+    "publication_role": "TECHNICAL_DOCUMENTATION",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "staratlasmeta GitHub organization"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official technical documentation titled “validas README.” This record preserves what staratlasmeta GitHub organization publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "# `validas`\n\nValidate Metaplex Digital Asset Standard getAssetProof responses for Solana cNFTs from multiple providers\n\n# Installation\n\n```shell\nnpm install -g validas\n```\n\n# Usage\n\n```shell\nvalidas --help\n```\n\nChecking multiple providers\n\n```shell\nvalidas -t <tree-key> -e Endpoint1,<das-endpoint2-url> Endpoint2,<das-endpoint2-url>\n```",
+  "content_hash": "2f7b3de1009709b5eed79355b92e6ec2a5d0738627416da283b5877562d81395",
+  "entities": [
+    "Metaplex",
+    "Solana"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-DC12E0C2EDC1DC22-01",
+      "text": "# `validas`  Validate Metaplex Digital Asset Standard getAssetProof responses for Solana cNFTs from multiple providers  # Installation  ```shell npm install -g validas ```  # Usage  ```shell validas --help ```  Checking multiple providers  ```shell validas -t <tree-key> -e Endpoint1,<das-endpoint2-url> Endpoint2,<das-endpoint2-url> ```",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-DC12E0C2EDC1DC22",
+      "publication_date": "2024-08-28T00:26:49Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [
+    "Solana",
+    "Metaplex"
+  ],
+  "guilds": [],
+  "external_sources": [],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://api.github.com/repos/staratlasmeta/validas/readme",
+    "final_url": "https://api.github.com/repos/staratlasmeta/validas/readme",
+    "http_status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "response_size": 1256,
+    "retrieved_at": "2026-07-13T01:05:08.383200Z",
+    "elapsed_ms": 319
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-0449B94A36A8B803",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47031385752211-What-is-zATLAS-in-Holosim",
+    "title": "What is zATLAS in Holosim?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-02T19:07:12Z",
+    "updated_at": "2025-12-08T18:24:04Z",
+    "original_date_text": "2025-12-02T19:07:12Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “What is zATLAS in Holosim?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "zATLAS is the main in-game currency of Holosim. Almost every action in the game requires a small amount of zATLAS, making it one of the most important resources to manage.\nHow to earn zATLAS:\nComplete quests: Tutorial, Storyline, Expertise, and Daily quests reward zATLAS.\nSell contracts: crafting and selling contracts is a steady way to generate income.\nDaily check-in: logging in daily grants zATLAS, with larger bonuses if you own a Battle Pass.\nWhat zATLAS is used for:\nOperating fleets (self-destruct).\nCrafting ships, components, and other items.\nMarketplace, buying and selling items with other players or NPCs.",
+  "content_hash": "13d419de120ce8df559add0605d8ac32c64a985e5dac26c0817dff687336d375",
+  "entities": [
+    "Holosim"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-0449B94A36A8B803-01",
+      "text": "zATLAS is the main in-game currency of Holosim.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0449B94A36A8B803",
+      "publication_date": "2025-12-02T19:07:12Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-0449B94A36A8B803-02",
+      "text": "Almost every action in the game requires a small amount of zATLAS, making it one of the most important resources to manage.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0449B94A36A8B803",
+      "publication_date": "2025-12-02T19:07:12Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-0449B94A36A8B803-03",
+      "text": "How to earn zATLAS: Complete quests: Tutorial, Storyline, Expertise, and Daily quests reward zATLAS.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0449B94A36A8B803",
+      "publication_date": "2025-12-02T19:07:12Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-0449B94A36A8B803-04",
+      "text": "Sell contracts: crafting and selling contracts is a steady way to generate income.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0449B94A36A8B803",
+      "publication_date": "2025-12-02T19:07:12Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-0449B94A36A8B803-05",
+      "text": "Daily check-in: logging in daily grants zATLAS, with larger bonuses if you own a Battle Pass.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0449B94A36A8B803",
+      "publication_date": "2025-12-02T19:07:12Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-0449B94A36A8B803-06",
+      "text": "What zATLAS is used for: Operating fleets (self-destruct).",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0449B94A36A8B803",
+      "publication_date": "2025-12-02T19:07:12Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-0449B94A36A8B803-07",
+      "text": "Marketplace, buying and selling items with other players or NPCs.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0449B94A36A8B803",
+      "publication_date": "2025-12-02T19:07:12Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Holosim"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47031385752211-What-is-zATLAS-in-Holosim",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.270017Z"
+  }
+}

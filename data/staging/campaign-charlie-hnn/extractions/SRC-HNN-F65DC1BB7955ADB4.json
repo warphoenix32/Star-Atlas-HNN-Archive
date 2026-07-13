@@ -1,0 +1,222 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-F65DC1BB7955ADB4",
+    "url_id": "URL-F65DC1BB7955ADB4",
+    "url": "https://medium.com/the-hologram/spcecmx-the-new-collection-of-nfts-for-the-star-atlas-metaverse-8c722bd59ef",
+    "title": "SPCECMX: The New Collection of NFTs for the Star Atlas metaverse",
+    "author": "Krigs",
+    "publisher": "The Hologram",
+    "publication_identity": "The Hologram (Medium publication)",
+    "published_at": "2023-05-31T13:12:20Z",
+    "updated_at": "2023-05-31T13:12:20Z",
+    "retrieved_at": "2026-07-13T00:10:38.366598Z",
+    "document_type": "ORIGINAL_REPORTING",
+    "source_role": "ORIGINAL_REPORTING",
+    "publication_role": "ORIGINAL_REPORTING",
+    "classification_rationale": "Publication reports a development without explicit interview, editorial, investigative, event, or reference framing."
+  },
+  "source_lineage": {
+    "publication": "The Hologram (Medium publication)",
+    "publication_role": "ORIGINAL_REPORTING",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [
+      {
+        "publication": "Magic Eden",
+        "author": "UNKNOWN",
+        "url": "https://magiceden.io/marketplace/spcecmx",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Podcast",
+        "author": "UNKNOWN",
+        "url": "https://open.spotify.com/show/2mxndrDW6yPfpS350ijzjt?si=ec7c717f998240d6",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "YouTube",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/channel/UCDa-YxgNG6A9xpH1qyP0OaQ",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://staratlas.com/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [
+      "Krigs"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Magic Eden",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://magiceden.io/marketplace/spcecmx"
+      },
+      {
+        "from": "Podcast",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://open.spotify.com/show/2mxndrDW6yPfpS350ijzjt?si=ec7c717f998240d6"
+      },
+      {
+        "from": "YouTube",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://www.youtube.com/channel/UCDa-YxgNG6A9xpH1qyP0OaQ"
+      },
+      {
+        "from": "Star Atlas",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://staratlas.com/"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "This original reporting published by The Hologram on 2023-05-31 documents “SPCECMX: The New Collection of NFTs for the Star Atlas metaverse.” Its surviving text addresses economy, game development, community, lore. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "SPCECMX: The New Collection of NFTs for the Star Atlas metaverse\nKrigs2 min read·May 31, 2023\n--\nListen\nShare\nPress enter or click to view image in full size\nSPCECMX is a new collection of funny and entertaining NFTs for the Star Atlas metaverse created by Andrea and Marcello, two Italian enthusiasts of the Star Atlas metaverse. Together, with Mauro an artist with a unique style, the trio have decided to combine their passion for the game with their creativity to launch a collection of funny and entertaining NFTs called “SPCECMX”.\nSPCECMX, a limited edition collection of NFTs that will be exclusively sold on Magic Eden, one of the most renowned crypto marketplaces in the world. “SPCECMX” vision is to answer the question: “What happens when digital art meets the funny side of the cosmos?”\nPress enter or click to view image in full sizePreview of SPCECMX Fimbul Lowbie NFT\nThe purpose of “SPCECMX” is to spread awareness of the Star Atlas world and to document in a funny way the highlights of the metaverse’s roadmap, as well as the community surrounding it. While waiting for the official launch of the game, Mauro, Andrea and Marcello are committed to entertaining the community in an ironic and sarcastic way, through the creation of a collection of NFTs containing colorful figurines that represent people, objects, and scenes referring to the world of Star Atlas.\nComing this Friday on Magic Eden\nFollow on Twitter\nDisclaimer: News coverage of SPCECMX does not constitute endorsement by the Hologram News Network.\nAbout the Author\nKrigs is a pioneer in the world of Star Atlas, having founded The Hologram News Network — an independent meta-news organization that keeps players up to date on all developments regarding Star Atlas. An ardent supporter of emerging technologies, Krigs has been covering this game for over a year and believes passionately in their power to revolutionize our collective gaming experience.\nFollow on Social Media:\nPodcast | YouTube | Twitter | Instagram | Web\nAbout The Hologram\nThe Hologram is Star Atlas’ first and only independent news network. Our vision is to become the most trusted source of information about Star Atlas and a voice for the whole community. Readers can expect a high standard from our reporting and staff. Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.\nThe Hologram is not endorsed or paid by the Star Atlas team. Any information published by The Hologram nor its writers should be considered as informational in nature and does not constitute any financial advice.",
+  "content_hash": "812d48c9982ae40e5afce7a8f974c0a2afb3868d253a4e416cc33ed954b092d5",
+  "major_topics": [
+    "economy",
+    "game development",
+    "community",
+    "lore"
+  ],
+  "entities": [
+    "ATLAS",
+    "Krigs",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-F65DC1BB7955ADB4-01",
+      "text": "SPCECMX, a limited edition collection of NFTs that will be exclusively sold on Magic Eden, one of the most renowned crypto marketplaces in the world.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-F65DC1BB7955ADB4",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-F65DC1BB7955ADB4-02",
+      "text": "Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-F65DC1BB7955ADB4",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Star Atlas",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [
+    "ONI"
+  ],
+  "actors": [
+    "Krigs"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://medium.com/@krigsfoniks?source=post_page---byline--8c722bd59ef---------------------------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fthe-hologram%2F8c722bd59ef&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fspcecmx-the-new-collection-of-nfts-for-the-star-atlas-metaverse-8c722bd59ef&user=Krigs&userId=41e0c5b141f1&source=---header_actions--8c722bd59ef---------------------clap_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Frepost%2Fp%2F8c722bd59ef&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fspcecmx-the-new-collection-of-nfts-for-the-star-atlas-metaverse-8c722bd59ef&user=Krigs&userId=41e0c5b141f1&source=---header_actions--8c722bd59ef---------------------repost_header------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F8c722bd59ef&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fspcecmx-the-new-collection-of-nfts-for-the-star-atlas-metaverse-8c722bd59ef&source=---header_actions--8c722bd59ef---------------------bookmark_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2Fplans%3Fdimension%3Dpost_audio_button%26postId%3D8c722bd59ef&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fspcecmx-the-new-collection-of-nfts-for-the-star-atlas-metaverse-8c722bd59ef&source=---header_actions--8c722bd59ef---------------------post_audio_button------------------",
+      "anchor_text": "Listen"
+    },
+    {
+      "url": "https://medium.com/u/5ed69ff9cfb0?source=post_page---user_mention--8c722bd59ef---------------------------------------",
+      "anchor_text": "Star Atlas"
+    },
+    {
+      "url": "https://magiceden.io/marketplace/spcecmx",
+      "anchor_text": "Magic Eden"
+    },
+    {
+      "url": "https://twitter.com/SpcmxART",
+      "anchor_text": "Twitter"
+    },
+    {
+      "url": "https://medium.com/u/41e0c5b141f1",
+      "anchor_text": "Krigs"
+    },
+    {
+      "url": "https://open.spotify.com/show/2mxndrDW6yPfpS350ijzjt?si=ec7c717f998240d6",
+      "anchor_text": "Podcast"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCDa-YxgNG6A9xpH1qyP0OaQ",
+      "anchor_text": "YouTube"
+    },
+    {
+      "url": "https://twitter.com/home",
+      "anchor_text": "Twitter"
+    },
+    {
+      "url": "https://thehologram.io/",
+      "anchor_text": "Web"
+    },
+    {
+      "url": "https://medium.com/the-hologram",
+      "anchor_text": "The Hologram"
+    },
+    {
+      "url": "https://staratlas.com/",
+      "anchor_text": "Star Atlas"
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "https://medium.com/the-hologram/spcecmx-the-new-collection-of-nfts-for-the-star-atlas-metaverse-8c722bd59ef",
+    "final_url": "https://medium.com/the-hologram/spcecmx-the-new-collection-of-nfts-for-the-star-atlas-metaverse-8c722bd59ef",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 124585,
+    "elapsed_ms": 650,
+    "retrieval_mode": "LIVE",
+    "archive_capture": null
+  }
+}

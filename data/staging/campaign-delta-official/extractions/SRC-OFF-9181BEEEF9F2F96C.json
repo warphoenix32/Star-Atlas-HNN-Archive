@@ -1,0 +1,178 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-9181BEEEF9F2F96C",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47053488955667-Crafting-Items-in-Starbased-What-You-Need-to-Know",
+    "title": "Crafting Items in Starbased: What You Need to Know",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-03T13:17:09Z",
+    "updated_at": "2025-12-08T18:23:52Z",
+    "original_date_text": "2025-12-03T13:17:09Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “Crafting Items in Starbased: What You Need to Know.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Crafting in Starbased lets you turn resources into valuable items to upgrade your fleet, contribute to your faction, and support your operations within the Galia Expanse.\nAccess the Operations Tab\nAt your Faction’s Starbase, open the Operations tab to:\nBase Management: Resupply your starbase with essentials like food and toolkits to keep it operational and earn Loyalty Points (LP).\nCraft Workshop: Select recipes, set quantities, and assign crew for crafting.\nStaff Effort: Track crafting and upgrade projects in progress.\nUsing the Craft Workshop\nChoose a recipe: Pick the item you wish to craft from your unlocked recipes.\nSet quantity: Decide how many you want to produce.\nAssign crew: The more crew you assign, the faster crafting completes.\nStart crafting: Approve the on-chain transaction to begin crafting.\nTrack and Claim Crafted Items\nIn Staff Effort, you can:\nView Crafting Projects: Monitor your current crafting jobs and claim finished items.\nCheck Upgrade Projects: Track your participation in starbase upgrades to unlock advanced recipes and capabilities.",
+  "content_hash": "1802e97306b0fc9401d3d04c9561adbf7fcaed654e834c148520324c1ac3bba6",
+  "entities": [
+    "Crew"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-9181BEEEF9F2F96C-01",
+      "text": "Crafting in Starbased lets you turn resources into valuable items to upgrade your fleet, contribute to your faction, and support your operations within the Galia Expanse.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-9181BEEEF9F2F96C",
+      "publication_date": "2025-12-03T13:17:09Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-9181BEEEF9F2F96C-02",
+      "text": "Access the Operations Tab At your Faction’s Starbase, open the Operations tab to: Base Management: Resupply your starbase with essentials like food and toolkits to keep it operational and earn Loyalty Points (LP).",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-9181BEEEF9F2F96C",
+      "publication_date": "2025-12-03T13:17:09Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-9181BEEEF9F2F96C-03",
+      "text": "Craft Workshop: Select recipes, set quantities, and assign crew for crafting.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-9181BEEEF9F2F96C",
+      "publication_date": "2025-12-03T13:17:09Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-9181BEEEF9F2F96C-04",
+      "text": "Staff Effort: Track crafting and upgrade projects in progress.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-9181BEEEF9F2F96C",
+      "publication_date": "2025-12-03T13:17:09Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-9181BEEEF9F2F96C-05",
+      "text": "Using the Craft Workshop Choose a recipe: Pick the item you wish to craft from your unlocked recipes.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-9181BEEEF9F2F96C",
+      "publication_date": "2025-12-03T13:17:09Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-9181BEEEF9F2F96C-06",
+      "text": "Set quantity: Decide how many you want to produce.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-9181BEEEF9F2F96C",
+      "publication_date": "2025-12-03T13:17:09Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-9181BEEEF9F2F96C-07",
+      "text": "Assign crew: The more crew you assign, the faster crafting completes.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-9181BEEEF9F2F96C",
+      "publication_date": "2025-12-03T13:17:09Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-9181BEEEF9F2F96C-08",
+      "text": "Start crafting: Approve the on-chain transaction to begin crafting.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-9181BEEEF9F2F96C",
+      "publication_date": "2025-12-03T13:17:09Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-9181BEEEF9F2F96C-09",
+      "text": "Track and Claim Crafted Items In Staff Effort, you can: View Crafting Projects: Monitor your current crafting jobs and claim finished items.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-9181BEEEF9F2F96C",
+      "publication_date": "2025-12-03T13:17:09Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-9181BEEEF9F2F96C-10",
+      "text": "Check Upgrade Projects: Track your participation in starbase upgrades to unlock advanced recipes and capabilities.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-9181BEEEF9F2F96C",
+      "publication_date": "2025-12-03T13:17:09Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Crew"
+  ],
+  "governance_items": [],
+  "lore_items": [
+    "Galia"
+  ],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47053488955667-Crafting-Items-in-Starbased-What-You-Need-to-Know",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.241836Z"
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-2F5BB71C2BA09657",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47053502923667-What-are-LP-Loyalty-Points",
+    "title": "What are LP? (Loyalty Points)",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-03T13:16:57Z",
+    "updated_at": "2025-12-08T18:23:55Z",
+    "original_date_text": "2025-12-03T13:16:57Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://based.staratlas.com/",
+        "anchor_text": "Starbased"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “What are LP? (Loyalty Points).” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Loyalty Points (LP) stand as a central pillar of the Starbased economy, meticulously designed to reward players for their dedication and contributions to their faction's overarching goals. This innovative reward system is key to fostering a dynamic and collaborative environment within the expansive universe of Star Atlas.\nEarning and Utilizing LP: Loyalty Points are earned through direct contributions to faction objectives, primarily focusing on upgrading starbases and ensuring their operational maintenance. Each contribution, from resource allocation to strategic planning, is recognized and rewarded with LP, affirming the value of every player's efforts.\nAcquisition of LP: Within each game epoch (24 hours), players accumulate LP by engaging in activities crucial for the advancement and sustenance of their faction's infrastructure, such as starbase upgrades and the provisioning of essential resources for maintenance.\nStrategic Deployment: Deploying LP is straightforward. Players simply visit any of their faction's starbases, access the marketplace tabs, and decide the amount of LP they wish to deploy. After the epoch concludes, players are credited with ATLAS in proportion to their deployed LP. This process not only facilitates the strategic use of LP but also underscores the significance of informed decision-making regarding when to deploy LP to maximize rewards.\nCalculating ATLAS Distribution: The distribution of ATLAS rewards is directly correlated to the percentage of LP contributed by a player towards the faction's total LP pool for the epoch. For example, if a faction accumulates 100 LP in an epoch, and a player contributes 4 LP, that player would receive 4% of the faction's ATLAS emissions for that epoch.\nLP's Impact on Faction Dynamics and Community: The LP system not only serves as a mechanism for rewarding players but also significantly influences the strategic landscape of Starbased. It encourages a sense of community and collaboration, as players work together towards common goals, enhancing their faction's strength and position within the galaxy. This collaborative effort is vital in the competitive environment of Starbased, where strategic planning and collective action are keys to supremacy.",
+  "content_hash": "2e71b0dfb8fb80afde5a7159738b69cf8b4f3a14d0845cd08cdd8d10b49d78f9",
+  "entities": [
+    "ATLAS"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-2F5BB71C2BA09657-01",
+      "text": "Loyalty Points (LP) stand as a central pillar of the Starbased economy, meticulously designed to reward players for their dedication and contributions to their faction's overarching goals.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-2F5BB71C2BA09657",
+      "publication_date": "2025-12-03T13:16:57Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-2F5BB71C2BA09657-02",
+      "text": "This innovative reward system is key to fostering a dynamic and collaborative environment within the expansive universe of Star Atlas.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-2F5BB71C2BA09657",
+      "publication_date": "2025-12-03T13:16:57Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-2F5BB71C2BA09657-03",
+      "text": "Earning and Utilizing LP: Loyalty Points are earned through direct contributions to faction objectives, primarily focusing on upgrading starbases and ensuring their operational maintenance.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-2F5BB71C2BA09657",
+      "publication_date": "2025-12-03T13:16:57Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-2F5BB71C2BA09657-04",
+      "text": "Each contribution, from resource allocation to strategic planning, is recognized and rewarded with LP, affirming the value of every player's efforts.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-2F5BB71C2BA09657",
+      "publication_date": "2025-12-03T13:16:57Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-2F5BB71C2BA09657-05",
+      "text": "Acquisition of LP: Within each game epoch (24 hours), players accumulate LP by engaging in activities crucial for the advancement and sustenance of their faction's infrastructure, such as starbase upgrades and the provisioning of essential resources for maintenance.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-2F5BB71C2BA09657",
+      "publication_date": "2025-12-03T13:16:57Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-2F5BB71C2BA09657-06",
+      "text": "Strategic Deployment: Deploying LP is straightforward.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-2F5BB71C2BA09657",
+      "publication_date": "2025-12-03T13:16:57Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-2F5BB71C2BA09657-07",
+      "text": "Players simply visit any of their faction's starbases, access the marketplace tabs, and decide the amount of LP they wish to deploy.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-2F5BB71C2BA09657",
+      "publication_date": "2025-12-03T13:16:57Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-2F5BB71C2BA09657-08",
+      "text": "After the epoch concludes, players are credited with ATLAS in proportion to their deployed LP.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-2F5BB71C2BA09657",
+      "publication_date": "2025-12-03T13:16:57Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-2F5BB71C2BA09657-09",
+      "text": "This process not only facilitates the strategic use of LP but also underscores the significance of informed decision-making regarding when to deploy LP to maximize rewards.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-2F5BB71C2BA09657",
+      "publication_date": "2025-12-03T13:16:57Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-2F5BB71C2BA09657-10",
+      "text": "Calculating ATLAS Distribution: The distribution of ATLAS rewards is directly correlated to the percentage of LP contributed by a player towards the faction's total LP pool for the epoch.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-2F5BB71C2BA09657",
+      "publication_date": "2025-12-03T13:16:57Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-2F5BB71C2BA09657-11",
+      "text": "For example, if a faction accumulates 100 LP in an epoch, and a player contributes 4 LP, that player would receive 4% of the faction's ATLAS emissions for that epoch.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-2F5BB71C2BA09657",
+      "publication_date": "2025-12-03T13:16:57Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-2F5BB71C2BA09657-12",
+      "text": "LP's Impact on Faction Dynamics and Community: The LP system not only serves as a mechanism for rewarding players but also significantly influences the strategic landscape of Starbased.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-2F5BB71C2BA09657",
+      "publication_date": "2025-12-03T13:16:57Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-2F5BB71C2BA09657-13",
+      "text": "It encourages a sense of community and collaboration, as players work together towards common goals, enhancing their faction's strength and position within the galaxy.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-2F5BB71C2BA09657",
+      "publication_date": "2025-12-03T13:16:57Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-2F5BB71C2BA09657-14",
+      "text": "This collaborative effort is vital in the competitive environment of Starbased, where strategic planning and collective action are keys to supremacy.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-2F5BB71C2BA09657",
+      "publication_date": "2025-12-03T13:16:57Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://based.staratlas.com/",
+      "anchor_text": "Starbased"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://based.staratlas.com/",
+      "anchor_text": "Starbased"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47053502923667-What-are-LP-Loyalty-Points",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.250324Z"
+  }
+}

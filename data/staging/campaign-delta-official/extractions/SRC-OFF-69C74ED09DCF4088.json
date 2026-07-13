@@ -1,0 +1,143 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-69C74ED09DCF4088",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47021259873299-How-are-DAO-locking-rewards-calculated",
+    "title": "How are DAO locking rewards calculated?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-02T15:04:05Z",
+    "updated_at": "2025-12-08T18:24:20Z",
+    "original_date_text": "2025-12-02T15:04:05Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “How are DAO locking rewards calculated?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "128,050,000 POLIS tokens have been set aside for rewards emissions which will follow a set curve beginning eight years after the DAO launch. 89.8% of this is reserved for POLIS staking. The emissions follow a standard distribution curve with a standard deviation of 5.\nEach time a user locks tokens or refreshes their lock (either by increasing the duration or amount), the on-chain snapshot program records the user's projected POLIS voting power balance for each period and records it in the user's escrow history account. Concurrently, the global balance of all POLIS is recalculated and updated in the snapshot program's locker history account. Therefore, the current and future POLIS share of every user in the locked voter program is known and updated in real-time.\nOnce a period expires, the associated user escrow and locker balances are frozen and used to determine the pro-rata percentage of each user for that period. This rate is multiplied with the rewards pool to determine the user's rewards for that period.",
+  "content_hash": "ae9dc12df4fe3cec3e0592dd9e4a1b95e1617bef4aad2c84a6d9e5b880fae537",
+  "entities": [
+    "POLIS"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-69C74ED09DCF4088-01",
+      "text": "128,050,000 POLIS tokens have been set aside for rewards emissions which will follow a set curve beginning eight years after the DAO launch.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-69C74ED09DCF4088",
+      "publication_date": "2025-12-02T15:04:05Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-69C74ED09DCF4088-02",
+      "text": "The emissions follow a standard distribution curve with a standard deviation of 5.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-69C74ED09DCF4088",
+      "publication_date": "2025-12-02T15:04:05Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-69C74ED09DCF4088-03",
+      "text": "Each time a user locks tokens or refreshes their lock (either by increasing the duration or amount), the on-chain snapshot program records the user's projected POLIS voting power balance for each period and records it in the user's escrow history account.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-69C74ED09DCF4088",
+      "publication_date": "2025-12-02T15:04:05Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-69C74ED09DCF4088-04",
+      "text": "Concurrently, the global balance of all POLIS is recalculated and updated in the snapshot program's locker history account.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-69C74ED09DCF4088",
+      "publication_date": "2025-12-02T15:04:05Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-69C74ED09DCF4088-05",
+      "text": "Therefore, the current and future POLIS share of every user in the locked voter program is known and updated in real-time.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-69C74ED09DCF4088",
+      "publication_date": "2025-12-02T15:04:05Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-69C74ED09DCF4088-06",
+      "text": "Once a period expires, the associated user escrow and locker balances are frozen and used to determine the pro-rata percentage of each user for that period.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-69C74ED09DCF4088",
+      "publication_date": "2025-12-02T15:04:05Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-69C74ED09DCF4088-07",
+      "text": "This rate is multiplied with the rewards pool to determine the user's rewards for that period.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-69C74ED09DCF4088",
+      "publication_date": "2025-12-02T15:04:05Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "POLIS"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47021259873299-How-are-DAO-locking-rewards-calculated",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.309079Z"
+  }
+}

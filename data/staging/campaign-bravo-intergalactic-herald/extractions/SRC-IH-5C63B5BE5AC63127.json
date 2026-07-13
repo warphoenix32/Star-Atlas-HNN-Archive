@@ -1,0 +1,316 @@
+{
+  "source": {
+    "source_id": "SRC-IH-5C63B5BE5AC63127",
+    "url_id": "URL-5C63B5BE5AC63127",
+    "url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-154/",
+    "inventory_url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-154",
+    "title": "Star Atlas Weekly News Recap #154",
+    "author": "Intergalactic Herald",
+    "publisher": "Intergalactic Herald",
+    "published_at": "2025-03-02T17:00:00",
+    "updated_at": "2025-02-28T20:50:41",
+    "retrieved_at": "2026-07-12T22:03:36.371600Z",
+    "document_type": "NEWSLETTER",
+    "source_role": "CURATED_SUMMARY",
+    "source_classification": "CURATED_SUMMARY",
+    "classification_rationale": "Weekly newsletter/recap aggregates developments and linked sources.",
+    "wordpress_type": "posts"
+  },
+  "summary": {
+    "neutral_abstract": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week. We are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us. We are launching a Star Atlas merch store. Please check it out at Intergalactic",
+    "historical_value": "Contemporary Intergalactic Herald publication preserved with role and attribution boundaries.",
+    "current_validity_warning": "Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources."
+  },
+  "article_text": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week.\nWe are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us.\nWe are launching a Star Atlas merch store. Please check it out at Intergalactic Gear.\nWe are creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic Coalition.\nIf you would like to support our efforts, donations can be sent to intergalacticherald.sol\nSTAR ATLAS #268 Golden Carnival Ends With A BANG! Your Weekly Update!\nMetaVerse Explorer posted a video of Star Atlas updates.\nBeyond the Horizon showing Star Atlas ships\nStar Atlas: Spawning All Large Class Ships in UE5! [4k]\nStar Atlas: Spawning All Capital Class Ships in UE5! [4k]\nStar Atlas: Spawning All Commander Class Ships in UE5! [4k]\nStar Atlas: Spawning All TITAN Class Ships in UE5! [4k]\nStar Atlas: Making Family Fleet Photo in UE5! [4k]\nWeekly Star Atlas Newsletter #168\nAephia published their weekly Star Atlas newsletter.\nPiloting a 5 Million Dollar Star Atlas Ship\nFalkor posted a video showing a Star Atlas titan ship.\nThe Atlas Brew #148 – Fleet Rentals Part 2\nStar Atlas TV posted a recording of the latest Atlas Brew.\nLatest podcast\nPodcast 176: Star Atlas Weekly Reviewby MattJuly 5, 2026In this episode, I recap the latest news of Star Atlas from the past week. Listen on Apple Podcasts Listen on Spotify I am looking for guests to be on the podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in… Read more: Podcast 176: Star Atlas Weekly Review",
+  "content_hash": "8a94ae24249a3a8b50b1f2376269fb445265ed87cf1b42e9c2eaaddb96fbd4e4",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [],
+  "external_sources": [
+    {
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=17WXFG_GEXA",
+      "anchor_text": "Star Atlas updates"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=2TYAkObjdxE",
+      "anchor_text": "Star Atlas: Spawning All Large Class Ships in UE5! [4k]"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=duaQ8GnqzfI",
+      "anchor_text": "Star Atlas: Spawning All Capital Class Ships in UE5! [4k]"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=vtZV7kC_eBA",
+      "anchor_text": "Star Atlas: Spawning All Commander Class Ships in UE5! [4k]"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=5jLn0m0mpvs",
+      "anchor_text": "Star Atlas: Spawning All TITAN Class Ships in UE5! [4k]"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Mm_l5dR88Wc",
+      "anchor_text": "Star Atlas: Making Family Fleet Photo in UE5! [4k]"
+    },
+    {
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-168/",
+      "anchor_text": "weekly Star Atlas newsletter"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=3Ywp9-HrC2E",
+      "anchor_text": "Star Atlas titan ship"
+    },
+    {
+      "url": "https://www.youtube.com/live/1BAj8LoXghk",
+      "anchor_text": "Atlas Brew"
+    }
+  ],
+  "primary_source_relationships": [
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=17WXFG_GEXA",
+      "anchor_text": "Star Atlas updates"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=2TYAkObjdxE",
+      "anchor_text": "Star Atlas: Spawning All Large Class Ships in UE5! [4k]"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=duaQ8GnqzfI",
+      "anchor_text": "Star Atlas: Spawning All Capital Class Ships in UE5! [4k]"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=vtZV7kC_eBA",
+      "anchor_text": "Star Atlas: Spawning All Commander Class Ships in UE5! [4k]"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=5jLn0m0mpvs",
+      "anchor_text": "Star Atlas: Spawning All TITAN Class Ships in UE5! [4k]"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=Mm_l5dR88Wc",
+      "anchor_text": "Star Atlas: Making Family Fleet Photo in UE5! [4k]"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-168/",
+      "anchor_text": "weekly Star Atlas newsletter"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=3Ywp9-HrC2E",
+      "anchor_text": "Star Atlas titan ship"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/live/1BAj8LoXghk",
+      "anchor_text": "Atlas Brew"
+    }
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Verify which outbound links are primary sources and preserve creator attribution during promotion."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-154&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 6911,
+    "elapsed_ms": 1882,
+    "attempts": [
+      {
+        "endpoint": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-154&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "http_status": 200,
+        "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-154&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "content_type": "application/json; charset=UTF-8",
+        "response_size": 6911,
+        "elapsed_ms": 1882
+      }
+    ]
+  },
+  "source_lineage": {
+    "publication": "Intergalactic Herald",
+    "publication_role": "CURATED_SUMMARY",
+    "relationship": "CURATED_SUMMARY_OF",
+    "primary_sources": [
+      {
+        "publication": "Star Atlas updates",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=17WXFG_GEXA",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas updates"
+      },
+      {
+        "publication": "Star Atlas: Spawning All Large Class Ships in UE5! [4k]",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=2TYAkObjdxE",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas: Spawning All Large Class Ships in UE5! [4k]"
+      },
+      {
+        "publication": "Star Atlas: Spawning All Capital Class Ships in UE5! [4k]",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=duaQ8GnqzfI",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas: Spawning All Capital Class Ships in UE5! [4k]"
+      },
+      {
+        "publication": "Star Atlas: Spawning All Commander Class Ships in UE5! [4k]",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=vtZV7kC_eBA",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas: Spawning All Commander Class Ships in UE5! [4k]"
+      },
+      {
+        "publication": "Star Atlas: Spawning All TITAN Class Ships in UE5! [4k]",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=5jLn0m0mpvs",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas: Spawning All TITAN Class Ships in UE5! [4k]"
+      },
+      {
+        "publication": "Star Atlas: Making Family Fleet Photo in UE5! [4k]",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=Mm_l5dR88Wc",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas: Making Family Fleet Photo in UE5! [4k]"
+      },
+      {
+        "publication": "weekly Star Atlas newsletter",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-168/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article with anchor text: weekly Star Atlas newsletter"
+      },
+      {
+        "publication": "Star Atlas titan ship",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=3Ywp9-HrC2E",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas titan ship"
+      },
+      {
+        "publication": "Atlas Brew",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/live/1BAj8LoXghk",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: Atlas Brew"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "publication": "Intergalactic Gear",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticgear.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Intergalactic Coalition",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticcoalition.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      }
+    ],
+    "original_creators": [
+      "Aephia",
+      "Star Atlas"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Star Atlas updates",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=17WXFG_GEXA"
+      },
+      {
+        "from": "Star Atlas: Spawning All Large Class Ships in UE5! [4k]",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=2TYAkObjdxE"
+      },
+      {
+        "from": "Star Atlas: Spawning All Capital Class Ships in UE5! [4k]",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=duaQ8GnqzfI"
+      },
+      {
+        "from": "Star Atlas: Spawning All Commander Class Ships in UE5! [4k]",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=vtZV7kC_eBA"
+      },
+      {
+        "from": "Star Atlas: Spawning All TITAN Class Ships in UE5! [4k]",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=5jLn0m0mpvs"
+      },
+      {
+        "from": "Star Atlas: Making Family Fleet Photo in UE5! [4k]",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=Mm_l5dR88Wc"
+      },
+      {
+        "from": "weekly Star Atlas newsletter",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-168/"
+      },
+      {
+        "from": "Star Atlas titan ship",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=3Ywp9-HrC2E"
+      },
+      {
+        "from": "Atlas Brew",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/live/1BAj8LoXghk"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  }
+}

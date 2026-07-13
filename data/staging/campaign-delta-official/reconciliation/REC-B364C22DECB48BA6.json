@@ -1,0 +1,14 @@
+{
+  "topic": "2022, claims, polis, record, remain, score, scream, showroom",
+  "official_source_ids": [
+    "SRC-OFF-4A9FCC4E28487231"
+  ],
+  "community_source_ids": [
+    "SRC-HNN-5A433D5B64D7648F"
+  ],
+  "relationship": "COMMUNITY_ADDS_CONTEXT",
+  "finding": "Automated topic overlap on: 2022, claims, polis, record, remain, score, scream, showroom, the, this, time. Official authority is limited to the official wording; community context remains separately attributed.",
+  "confidence": "LOW",
+  "promotion_candidate": false,
+  "manual_review_required": true
+}

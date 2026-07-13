@@ -1,0 +1,135 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-8A2B2381981966AB",
+    "url_id": "URL-8A2B2381981966AB",
+    "url": "https://medium.com/the-hologram/best-ships-for-star-atlas-golden-era-sage-99c49aaa7276",
+    "title": "Best Ships for Star Atlas Golden Era (SAGE)",
+    "author": "Krigs",
+    "publisher": "The Hologram",
+    "publication_identity": "The Hologram (Medium publication)",
+    "published_at": "2022-11-16T19:34:50Z",
+    "updated_at": "2022-11-16T19:34:50Z",
+    "retrieved_at": "2026-07-13T00:08:42.624326Z",
+    "document_type": "REFERENCE",
+    "source_role": "REFERENCE",
+    "publication_role": "REFERENCE",
+    "classification_rationale": "Publication is structured as a guide or reference."
+  },
+  "source_lineage": {
+    "publication": "The Hologram (Medium publication)",
+    "publication_role": "REFERENCE",
+    "relationship": "REFERENCES",
+    "primary_sources": [],
+    "original_creators": [
+      "Krigs"
+    ],
+    "attribution_chain": [],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "This reference published by The Hologram on 2022-11-16 documents “Best Ships for Star Atlas Golden Era (SAGE).” Its surviving text addresses economy, game development, community, lore. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "Member-only story\nBest Ships for Star Atlas Golden Era (SAGE)\nKrigs4 min read·Nov 16, 2022\n--\n3\nListen\nShare\nAs Star Atlas prepares to release their new mini-game module SAGE, many players wondered, “What is the best Star Atlas ship to buy”? This question is the focus of much debate and there are many factors to consider.\nStar Atlas ships cover a wide range of sizes and classes. From XX-Small to Commander and Titan sized ships, Star Atlas has a stunning array of ships to chose from. Ships also cover a plethora of functions, including fighters, bombers, transport, and bounty hunting just to name a few.\nCurrent Star Atlas Best Ships\nUntil now, there has been two schools of thought on which Star Atlas ships to purchase:\nBuy the ships that fit your play style or budget\nBuy any ships that return the most APY from the Faction Fleet mini-game.\nThe first option is pretty straight forward. Buy what you like and buy what you can afford. The second option requires a little more analysis, but essentially comes down to buying the best valued ship at the time and enlisting it into Faction Fleet to maximize your return yield. However, it’s well known that eventually Faction Fleet will be phased out, thus Option 2 will no longer be a viable model, leaving many to wonder “What’s next”?\nSAGE Basics\nLets cover some basics about SAGE:\nSAGE will be a real time strategy like game\nPlayers will compete for territorial control against other…",
+  "content_hash": "70beb46d6bc111632737265ebc557b1366147f3fff4887fd135be43996b40f2e",
+  "major_topics": [
+    "economy",
+    "game development",
+    "community",
+    "lore"
+  ],
+  "entities": [
+    "ATLAS",
+    "Krigs",
+    "SAGE",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-8A2B2381981966AB-01",
+      "text": "However, it’s well known that eventually Faction Fleet will be phased out, thus Option 2 will no longer be a viable model, leaving many to wonder “What’s next”?",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-8A2B2381981966AB",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-8A2B2381981966AB-02",
+      "text": "SAGE Basics Lets cover some basics about SAGE: SAGE will be a real time strategy like game Players will compete for territorial control against other…",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-8A2B2381981966AB",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "SAGE",
+    "Star Atlas",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [
+    "Krigs"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://medium.com/@krigsfoniks?source=post_page---byline--99c49aaa7276---------------------------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fthe-hologram%2F99c49aaa7276&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fbest-ships-for-star-atlas-golden-era-sage-99c49aaa7276&user=Krigs&userId=41e0c5b141f1&source=---header_actions--99c49aaa7276---------------------clap_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Frepost%2Fp%2F99c49aaa7276&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fbest-ships-for-star-atlas-golden-era-sage-99c49aaa7276&user=Krigs&userId=41e0c5b141f1&source=---header_actions--99c49aaa7276---------------------repost_header------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F99c49aaa7276&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fbest-ships-for-star-atlas-golden-era-sage-99c49aaa7276&source=---header_actions--99c49aaa7276---------------------bookmark_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2Fplans%3Fdimension%3Dpost_audio_button%26postId%3D99c49aaa7276&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fbest-ships-for-star-atlas-golden-era-sage-99c49aaa7276&source=---header_actions--99c49aaa7276---------------------post_audio_button------------------",
+      "anchor_text": "Listen"
+    },
+    {
+      "url": "https://medium.com/u/5ed69ff9cfb0?source=post_page---user_mention--99c49aaa7276---------------------------------------",
+      "anchor_text": "Star Atlas"
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "author_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "No explicit primary source was identifiable from preserved outbound links.",
+      "Extraction completeness or publication dating requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://medium.com/the-hologram/best-ships-for-star-atlas-golden-era-sage-99c49aaa7276",
+    "final_url": "https://medium.com/the-hologram/best-ships-for-star-atlas-golden-era-sage-99c49aaa7276",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 107574,
+    "elapsed_ms": 811,
+    "retrieval_mode": "LIVE",
+    "archive_capture": null
+  }
+}
