@@ -65,8 +65,22 @@ The first public-source sweep established the following working files:
 
 - [Knowledge architecture](docs/KNOWLEDGE-ARCHITECTURE.md)
 - [Operating doctrine](docs/OPERATING-DOCTRINE.md)
+- [Repository Schema v2.1](docs/REPOSITORY-SCHEMA-v2.1.md)
+- [Schema v2.1 migration notes](docs/SCHEMA-v2.1-MIGRATION.md)
+- [Schema v2.1 compatibility report](docs/SCHEMA-v2.1-COMPATIBILITY.md)
+- [Example v2.1 ingestion package](examples/ingestion-package-v2.1.json)
 - [Knowledge entry template](templates/knowledge-entry-template.md)
 - [Source record template](templates/source-record-template.md)
+
+## Schema compatibility
+
+Repository Schema v2.1 is additive. Existing Wave 1 v2.0 artifacts remain valid and are not destructively rewritten. New ingestions should use the raw transcript → normalized transcript → extraction package model and include provenance wherever available.
+
+Run compatibility tests with:
+
+```bash
+python -m unittest tests/test_schema_compatibility.py
+```
 
 ## Repository status
 
