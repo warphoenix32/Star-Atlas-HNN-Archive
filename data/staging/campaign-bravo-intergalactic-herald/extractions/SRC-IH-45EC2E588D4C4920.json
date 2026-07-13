@@ -1,0 +1,318 @@
+{
+  "source": {
+    "source_id": "SRC-IH-45EC2E588D4C4920",
+    "url_id": "URL-45EC2E588D4C4920",
+    "url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-175/",
+    "inventory_url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-175",
+    "title": "Star Atlas Weekly Newsletter #175",
+    "author": "Intergalactic Herald",
+    "publisher": "Intergalactic Herald",
+    "published_at": "2025-07-27T17:00:00",
+    "updated_at": "2025-08-03T14:20:19",
+    "retrieved_at": "2026-07-12T22:02:52.765164Z",
+    "document_type": "NEWSLETTER",
+    "source_role": "CURATED_SUMMARY",
+    "source_classification": "CURATED_SUMMARY",
+    "classification_rationale": "Weekly newsletter/recap aggregates developments and linked sources.",
+    "wordpress_type": "posts"
+  },
+  "summary": {
+    "neutral_abstract": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week. I am looking for guests to be on the podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact me. I am launching a Star Atlas merch store. Please check it out at Intergalactic",
+    "historical_value": "Contemporary Intergalactic Herald publication preserved with role and attribution boundaries.",
+    "current_validity_warning": "Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources."
+  },
+  "article_text": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week.\nAlso, check out my podcast and AI summary recaps.\nStar Atlas: HOLOSIM S1 STORYLINE PLAYTHROUGH [Part 1]\nBeyond the Horizon posted a video of a Holosim storyline playthrough.\nWeekly Star Atlas Newsletter #189\nAephia published their weekly Star Atlas newsletter.\nSLY Assistant Tutorials: Standalone & Dashboards\nAephia published an article about SLY Assistant tutorials.\nSAGE C4: Understanding Regions\nAephia published an article about understanding regions in SAGE C4.\nAtlas Brew 168 – Star Atlas Marketing Deep Dive\nStar Atlas TV posted a video recording of the latest Atlas Brew.\nHolosim Guide\nAephia published an article of a Holosim guide.\nStar Atlas: HOLOSIM S1 STORYLINE PLAYTHROUGH [Part 2]\nBeyond the Horizon posted the next video in his Holosim storyline playthrough.\nStar Atlas Monthly Builder Hour – July 2025 Edition\nStar Atlas TV posted a video recording on the latest Builder Hour.\nStar Atlas: Aephia’s Cataclysm Game!\nBeyond the Horizon posted a video showing Aephia’s Cataclysm game.\nI am looking for guests to be on the podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact me.\nI am launching a Star Atlas merch store. Please check it out at Intergalactic Gear.\nI am also creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic Coalition.\nIf you would like to support my efforts, donations can be sent to intergalacticherald.sol\nLatest podcast\nPodcast 176: Star Atlas Weekly Reviewby MattJuly 5, 2026In this episode, I recap the latest news of Star Atlas from the past week. Listen on Apple Podcasts Listen on Spotify I am looking for guests to be on the podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in… Read more: Podcast 176: Star Atlas Weekly Review\nLatest recap\nStar Atlas Event Recap 91: Atlas Brew #211by MattJuly 2, 2026In this episode, hear an AI summary of the latest Star Atlas community event. Full video recordings can be found on the YouTube channel of Star Atlas TV at https://www.youtube.com/@staratlastv. Listen on Apple Podcasts Listen on Spotify Star Atlas Event Summary Hi, this isn’t Matt with the Intergalactic Herald. I… Read more: Star Atlas Event Recap 91: Atlas Brew #211",
+  "content_hash": "2cda5ee9b44331e365ddd842d93b3727648c14a851c3dd4f377e1e7c97defc26",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [
+    "2025"
+  ],
+  "external_sources": [
+    {
+      "url": "https://www.youtube.com/watch?v=_fqGZS0INx0",
+      "anchor_text": "Holosim storyline playthrough"
+    },
+    {
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-189/",
+      "anchor_text": "weekly Star Atlas newsletter"
+    },
+    {
+      "url": "https://aephia.com/star-atlas/sly-assistant-tutorials-standalone-dashboards/",
+      "anchor_text": "SLY Assistant tutorials"
+    },
+    {
+      "url": "https://aephia.com/star-atlas/sage-c4-understanding-regions/",
+      "anchor_text": "understanding regions in SAGE C4"
+    },
+    {
+      "url": "https://www.youtube.com/live/uCYMVaz52A8",
+      "anchor_text": "Atlas Brew"
+    },
+    {
+      "url": "https://aephia.com/star-atlas/holosim-guide/",
+      "anchor_text": "Holosim guide"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=J3094wzPBFA",
+      "anchor_text": "Holosim storyline playthrough"
+    },
+    {
+      "url": "https://www.youtube.com/live/x4UviTgGKWw",
+      "anchor_text": "Builder Hour"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=40x_qCYdl90",
+      "anchor_text": "Aephia’s Cataclysm game"
+    },
+    {
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    }
+  ],
+  "primary_source_relationships": [
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=_fqGZS0INx0",
+      "anchor_text": "Holosim storyline playthrough"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-189/",
+      "anchor_text": "weekly Star Atlas newsletter"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/sly-assistant-tutorials-standalone-dashboards/",
+      "anchor_text": "SLY Assistant tutorials"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/sage-c4-understanding-regions/",
+      "anchor_text": "understanding regions in SAGE C4"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/live/uCYMVaz52A8",
+      "anchor_text": "Atlas Brew"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/holosim-guide/",
+      "anchor_text": "Holosim guide"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=J3094wzPBFA",
+      "anchor_text": "Holosim storyline playthrough"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/live/x4UviTgGKWw",
+      "anchor_text": "Builder Hour"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=40x_qCYdl90",
+      "anchor_text": "Aephia’s Cataclysm game"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    }
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Verify which outbound links are primary sources and preserve creator attribution during promotion."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-newsletter-175&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 10382,
+    "elapsed_ms": 1899,
+    "attempts": [
+      {
+        "endpoint": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-newsletter-175&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "http_status": 200,
+        "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-newsletter-175&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "content_type": "application/json; charset=UTF-8",
+        "response_size": 10382,
+        "elapsed_ms": 1899
+      }
+    ]
+  },
+  "source_lineage": {
+    "publication": "Intergalactic Herald",
+    "publication_role": "CURATED_SUMMARY",
+    "relationship": "CURATED_SUMMARY_OF",
+    "primary_sources": [
+      {
+        "publication": "Holosim storyline playthrough",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=_fqGZS0INx0",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Holosim storyline playthrough"
+      },
+      {
+        "publication": "weekly Star Atlas newsletter",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-189/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article with anchor text: weekly Star Atlas newsletter"
+      },
+      {
+        "publication": "SLY Assistant tutorials",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/sly-assistant-tutorials-standalone-dashboards/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article with anchor text: SLY Assistant tutorials"
+      },
+      {
+        "publication": "understanding regions in SAGE C4",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/sage-c4-understanding-regions/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article with anchor text: understanding regions in SAGE C4"
+      },
+      {
+        "publication": "Atlas Brew",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/live/uCYMVaz52A8",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: Atlas Brew"
+      },
+      {
+        "publication": "Holosim guide",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/holosim-guide/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article with anchor text: Holosim guide"
+      },
+      {
+        "publication": "Holosim storyline playthrough",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=J3094wzPBFA",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Holosim storyline playthrough"
+      },
+      {
+        "publication": "Builder Hour",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/live/x4UviTgGKWw",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Builder Hour"
+      },
+      {
+        "publication": "Aephia’s Cataclysm game",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=40x_qCYdl90",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article with anchor text: Aephia’s Cataclysm game"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "publication": "Intergalactic Gear",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticgear.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Intergalactic Coalition",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticcoalition.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      }
+    ],
+    "original_creators": [
+      "Aephia",
+      "Star Atlas"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Holosim storyline playthrough",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=_fqGZS0INx0"
+      },
+      {
+        "from": "weekly Star Atlas newsletter",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-189/"
+      },
+      {
+        "from": "SLY Assistant tutorials",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/sly-assistant-tutorials-standalone-dashboards/"
+      },
+      {
+        "from": "understanding regions in SAGE C4",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/sage-c4-understanding-regions/"
+      },
+      {
+        "from": "Atlas Brew",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/live/uCYMVaz52A8"
+      },
+      {
+        "from": "Holosim guide",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/holosim-guide/"
+      },
+      {
+        "from": "Holosim storyline playthrough",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=J3094wzPBFA"
+      },
+      {
+        "from": "Builder Hour",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/live/x4UviTgGKWw"
+      },
+      {
+        "from": "Aephia’s Cataclysm game",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=40x_qCYdl90"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  }
+}

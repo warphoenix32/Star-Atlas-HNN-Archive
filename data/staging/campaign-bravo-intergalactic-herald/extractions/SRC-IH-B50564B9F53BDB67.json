@@ -1,0 +1,239 @@
+{
+  "source": {
+    "source_id": "SRC-IH-B50564B9F53BDB67",
+    "url_id": "URL-B50564B9F53BDB67",
+    "url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-54/",
+    "inventory_url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-54",
+    "title": "Star Atlas Weekly News Recap #54",
+    "author": "Intergalactic Herald",
+    "publisher": "Intergalactic Herald",
+    "published_at": "2023-04-02T17:00:41",
+    "updated_at": "2023-04-01T18:08:37",
+    "retrieved_at": "2026-07-12T22:07:15.044991Z",
+    "document_type": "NEWSLETTER",
+    "source_role": "CURATED_SUMMARY",
+    "source_classification": "CURATED_SUMMARY",
+    "classification_rationale": "Weekly newsletter/recap aggregates developments and linked sources.",
+    "wordpress_type": "posts"
+  },
+  "summary": {
+    "neutral_abstract": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week. The Hologram published an article about a community member selling Star Atlas 3D printed",
+    "historical_value": "Contemporary Intergalactic Herald publication preserved with role and attribution boundaries.",
+    "current_validity_warning": "Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources."
+  },
+  "article_text": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week.\nSTAR ATLAS #168 New Friday Pictures & Videos\nMetaVerse Explorer posted a video of Star Atlas Foundation Room new images.\nStar Atlas Sage Gameplay Reveal and Surprise Rewards ft. The Vanguard Squadron\nThe Hologram News Network interviews members of the Vanguard Squadron.\nMetaverse Nomads #87\nMetaverse Nomads posted a video of their weekly Star Atlas live stream.\nWEEKLY STAR ATLAS NEWSLETTER #72\nAephia published their weekly Star Atlas newsletter.\nSTAR ATLAS #169 Rank Your Star Atlas Ships!\nMetaVerse Explorer posted a video ranking some Star Atlas ships.\nStar Atlas Community Member Launches 3D Printed Ships For Sale\nThe Hologram published an article about a community member selling Star Atlas 3D printed ships.\nAtlas Brew Society — The IRL Meetings of the Star Atlas Community\nThe Hologram published an article about a Star Atlas community meeting.",
+  "content_hash": "479791362d3b88ebb196d4d29df1f0a8e86738f0c0828931d93408e5b325cda7",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [],
+  "external_sources": [
+    {
+      "url": "https://www.youtube.com/watch?v=MKLHS-IdyQo",
+      "anchor_text": "Star Atlas Foundation Room new images"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=GjanriKT3r8",
+      "anchor_text": "Vanguard Squadron"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ElOe9vSTic8",
+      "anchor_text": "weekly Star Atlas live stream"
+    },
+    {
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-72/",
+      "anchor_text": "weekly Star Atlas newsletter"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=SGu-bcZHi4Q",
+      "anchor_text": "ranking some Star Atlas ships"
+    },
+    {
+      "url": "https://medium.com/the-hologram/star-atlas-community-member-launches-3d-printed-ships-for-sale-495399bfef22",
+      "anchor_text": "Star Atlas 3D printed ships."
+    },
+    {
+      "url": "https://medium.com/the-hologram/atlas-brew-society-the-irl-meetings-of-the-star-atlas-community-85534fef7500",
+      "anchor_text": "Star Atlas community meeting"
+    }
+  ],
+  "primary_source_relationships": [
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=MKLHS-IdyQo",
+      "anchor_text": "Star Atlas Foundation Room new images"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=GjanriKT3r8",
+      "anchor_text": "Vanguard Squadron"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=ElOe9vSTic8",
+      "anchor_text": "weekly Star Atlas live stream"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-72/",
+      "anchor_text": "weekly Star Atlas newsletter"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=SGu-bcZHi4Q",
+      "anchor_text": "ranking some Star Atlas ships"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://medium.com/the-hologram/star-atlas-community-member-launches-3d-printed-ships-for-sale-495399bfef22",
+      "anchor_text": "Star Atlas 3D printed ships."
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://medium.com/the-hologram/atlas-brew-society-the-irl-meetings-of-the-star-atlas-community-85534fef7500",
+      "anchor_text": "Star Atlas community meeting"
+    }
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Verify which outbound links are primary sources and preserve creator attribution during promotion.",
+      "Short extraction requires completeness review."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-54&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 3845,
+    "elapsed_ms": 2734,
+    "attempts": [
+      {
+        "endpoint": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-54&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "http_status": 200,
+        "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-54&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "content_type": "application/json; charset=UTF-8",
+        "response_size": 3845,
+        "elapsed_ms": 2734
+      }
+    ]
+  },
+  "source_lineage": {
+    "publication": "Intergalactic Herald",
+    "publication_role": "CURATED_SUMMARY",
+    "relationship": "CURATED_SUMMARY_OF",
+    "primary_sources": [
+      {
+        "publication": "Star Atlas Foundation Room new images",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=MKLHS-IdyQo",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas Foundation Room new images"
+      },
+      {
+        "publication": "Vanguard Squadron",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=GjanriKT3r8",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Vanguard Squadron"
+      },
+      {
+        "publication": "weekly Star Atlas live stream",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=ElOe9vSTic8",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: weekly Star Atlas live stream"
+      },
+      {
+        "publication": "weekly Star Atlas newsletter",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-72/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article with anchor text: weekly Star Atlas newsletter"
+      },
+      {
+        "publication": "ranking some Star Atlas ships",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=SGu-bcZHi4Q",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: ranking some Star Atlas ships"
+      },
+      {
+        "publication": "Star Atlas 3D printed ships.",
+        "author": "UNKNOWN",
+        "url": "https://medium.com/the-hologram/star-atlas-community-member-launches-3d-printed-ships-for-sale-495399bfef22",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas 3D printed ships."
+      },
+      {
+        "publication": "Star Atlas community meeting",
+        "author": "UNKNOWN",
+        "url": "https://medium.com/the-hologram/atlas-brew-society-the-irl-meetings-of-the-star-atlas-community-85534fef7500",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas community meeting"
+      }
+    ],
+    "secondary_sources": [],
+    "original_creators": [
+      "Aephia"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Star Atlas Foundation Room new images",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=MKLHS-IdyQo"
+      },
+      {
+        "from": "Vanguard Squadron",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=GjanriKT3r8"
+      },
+      {
+        "from": "weekly Star Atlas live stream",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=ElOe9vSTic8"
+      },
+      {
+        "from": "weekly Star Atlas newsletter",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-72/"
+      },
+      {
+        "from": "ranking some Star Atlas ships",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=SGu-bcZHi4Q"
+      },
+      {
+        "from": "Star Atlas 3D printed ships.",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://medium.com/the-hologram/star-atlas-community-member-launches-3d-printed-ships-for-sale-495399bfef22"
+      },
+      {
+        "from": "Star Atlas community meeting",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://medium.com/the-hologram/atlas-brew-society-the-irl-meetings-of-the-star-atlas-community-85534fef7500"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  }
+}

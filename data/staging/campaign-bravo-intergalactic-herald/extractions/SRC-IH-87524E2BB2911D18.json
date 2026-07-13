@@ -1,0 +1,296 @@
+{
+  "source": {
+    "source_id": "SRC-IH-87524E2BB2911D18",
+    "url_id": "URL-87524E2BB2911D18",
+    "url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-88/",
+    "inventory_url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-88",
+    "title": "Star Atlas Weekly News Recap #88",
+    "author": "Intergalactic Herald",
+    "publisher": "Intergalactic Herald",
+    "published_at": "2023-11-26T17:00:00",
+    "updated_at": "2023-11-25T18:37:54",
+    "retrieved_at": "2026-07-12T22:05:34.173566Z",
+    "document_type": "NEWSLETTER",
+    "source_role": "CURATED_SUMMARY",
+    "source_classification": "CURATED_SUMMARY",
+    "classification_rationale": "Weekly newsletter/recap aggregates developments and linked sources.",
+    "wordpress_type": "posts"
+  },
+  "summary": {
+    "neutral_abstract": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week. We are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us. We are launching a Star Atlas merch store. Please check it out at Intergalactic",
+    "historical_value": "Contemporary Intergalactic Herald publication preserved with role and attribution boundaries.",
+    "current_validity_warning": "Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources."
+  },
+  "article_text": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week.\nWe are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us.\nWe are launching a Star Atlas merch store. Please check it out at Intergalactic Gear.\nWe are creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic Coalition.\nIf you would like to support our efforts, donations can be sent to intergalacticherald.sol\nMetaverse Nomads #121 Star Atlas and Illuvium Drama\nMetaverse Nomads posted a video of their weekly Star Atlas livestream.\nThe Reality of Web3 Gaming | Star Atlas CEO Michael Wagner\nThe Defiant posted a video of an interview with Star Atlas CEO Michael Wagner.\nWEEKLY STAR ATLAS NEWSLETTER #106\nAephia published their weekly Star Atlas newsletter.\nSTAR ATLAS #210 FREE MONEY FOR SHIPS, Pyth Airdrop & Star Atlas Update\nMetaVerse Explorer posted a video of Star Atlas new updates.\nA Reflection on the 100th Anniversary of The Signature of The Treaty of Peace\nStar Atlas published an article with some lore about Star Atlas.\nNavigating Star Atlas – Limitless Possibilities of Character Customization\nStar Atlas posted a video interview about character customization.\nThe Atlas Brew #89 Polis\nStar Atlas TV posted a video replay of the latest Atlas Brew.\nStar Atlas Recap 11-22-2023\nBeyond the Horizon posted a video recapping the latest Star Atlas news.",
+  "content_hash": "a5f5f7f313c081678f6b0f7337a44589315b9089298aa4a8bf97cb817dfb411c",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [
+    "2023"
+  ],
+  "external_sources": [
+    {
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ytwQTpT3jvk",
+      "anchor_text": "weekly Star Atlas livestream"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=HePyVq0FDSw",
+      "anchor_text": "Star Atlas CEO Michael Wagner"
+    },
+    {
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-106/",
+      "anchor_text": "weekly Star Atlas newsletter"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Hxpfj9hpmiQ",
+      "anchor_text": "Star Atlas new updates"
+    },
+    {
+      "url": "https://medium.com/star-atlas/a-reflection-on-the-100th-anniversary-of-the-signature-of-the-treaty-of-peace-d237dd6af592",
+      "anchor_text": "some lore about Star Atlas"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=88IEZVf7WOE",
+      "anchor_text": "character customization"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=n-fdV268O9g",
+      "anchor_text": "latest Atlas Brew"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=sfyN6P2qQTs",
+      "anchor_text": "latest Star Atlas news"
+    }
+  ],
+  "primary_source_relationships": [
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=ytwQTpT3jvk",
+      "anchor_text": "weekly Star Atlas livestream"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=HePyVq0FDSw",
+      "anchor_text": "Star Atlas CEO Michael Wagner"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-106/",
+      "anchor_text": "weekly Star Atlas newsletter"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=Hxpfj9hpmiQ",
+      "anchor_text": "Star Atlas new updates"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://medium.com/star-atlas/a-reflection-on-the-100th-anniversary-of-the-signature-of-the-treaty-of-peace-d237dd6af592",
+      "anchor_text": "some lore about Star Atlas"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=88IEZVf7WOE",
+      "anchor_text": "character customization"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=n-fdV268O9g",
+      "anchor_text": "latest Atlas Brew"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=sfyN6P2qQTs",
+      "anchor_text": "latest Star Atlas news"
+    }
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Verify which outbound links are primary sources and preserve creator attribution during promotion."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-88&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 5128,
+    "elapsed_ms": 1719,
+    "attempts": [
+      {
+        "endpoint": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-88&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "http_status": 200,
+        "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-88&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "content_type": "application/json; charset=UTF-8",
+        "response_size": 5128,
+        "elapsed_ms": 1719
+      }
+    ]
+  },
+  "source_lineage": {
+    "publication": "Intergalactic Herald",
+    "publication_role": "CURATED_SUMMARY",
+    "relationship": "CURATED_SUMMARY_OF",
+    "primary_sources": [
+      {
+        "publication": "weekly Star Atlas livestream",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=ytwQTpT3jvk",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: weekly Star Atlas livestream"
+      },
+      {
+        "publication": "Star Atlas CEO Michael Wagner",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=HePyVq0FDSw",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas CEO Michael Wagner"
+      },
+      {
+        "publication": "weekly Star Atlas newsletter",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-106/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article with anchor text: weekly Star Atlas newsletter"
+      },
+      {
+        "publication": "Star Atlas new updates",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=Hxpfj9hpmiQ",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas new updates"
+      },
+      {
+        "publication": "some lore about Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://medium.com/star-atlas/a-reflection-on-the-100th-anniversary-of-the-signature-of-the-treaty-of-peace-d237dd6af592",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: some lore about Star Atlas"
+      },
+      {
+        "publication": "character customization",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=88IEZVf7WOE",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: character customization"
+      },
+      {
+        "publication": "latest Atlas Brew",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=n-fdV268O9g",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest Atlas Brew"
+      },
+      {
+        "publication": "latest Star Atlas news",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=sfyN6P2qQTs",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest Star Atlas news"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "publication": "Intergalactic Gear",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticgear.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Intergalactic Coalition",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticcoalition.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      }
+    ],
+    "original_creators": [
+      "Aephia",
+      "Star Atlas"
+    ],
+    "attribution_chain": [
+      {
+        "from": "weekly Star Atlas livestream",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=ytwQTpT3jvk"
+      },
+      {
+        "from": "Star Atlas CEO Michael Wagner",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=HePyVq0FDSw"
+      },
+      {
+        "from": "weekly Star Atlas newsletter",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-106/"
+      },
+      {
+        "from": "Star Atlas new updates",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=Hxpfj9hpmiQ"
+      },
+      {
+        "from": "some lore about Star Atlas",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://medium.com/star-atlas/a-reflection-on-the-100th-anniversary-of-the-signature-of-the-treaty-of-peace-d237dd6af592"
+      },
+      {
+        "from": "character customization",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=88IEZVf7WOE"
+      },
+      {
+        "from": "latest Atlas Brew",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=n-fdV268O9g"
+      },
+      {
+        "from": "latest Star Atlas news",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=sfyN6P2qQTs"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  }
+}

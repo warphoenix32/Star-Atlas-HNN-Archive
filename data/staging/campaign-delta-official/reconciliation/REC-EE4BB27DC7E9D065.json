@@ -1,0 +1,14 @@
+{
+  "topic": "atmta, claims, lore, record, remain, the, this, time",
+  "official_source_ids": [
+    "SRC-OFF-A021979A621E6BE1"
+  ],
+  "community_source_ids": [
+    "SRC-HNN-3DB27D092B4B5D3F"
+  ],
+  "relationship": "COMMUNITY_ADDS_CONTEXT",
+  "finding": "Automated topic overlap on: atmta, claims, lore, record, remain, the, this, time. Official authority is limited to the official wording; community context remains separately attributed.",
+  "confidence": "LOW",
+  "promotion_candidate": false,
+  "manual_review_required": true
+}

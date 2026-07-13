@@ -1,0 +1,177 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-05CC4589C03B3475",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47210112349075-How-do-I-connect-my-existing-wallet-to-the-UE5-Game",
+    "title": "How do I connect my existing wallet to the UE5 Game?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-08T20:25:31Z",
+    "updated_at": "2025-12-08T21:22:05Z",
+    "original_date_text": "2025-12-08T20:25:31Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “How do I connect my existing wallet to the UE5 Game?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "DISCLAIMER: You should never import a hardware wallet seed phrase into a software wallet.If you have a hardware wallet, create a new one in Star Atlas UE5 Game and send your ships there.You can find more details on how to create a new wallet in this article.\nNever provide your seed phrase or private key to anyone. The Star Atlas team will never under any circumstances ask for your seed phrase or private key.\nThere are two ways you can import your existing wallet into the Showroom: using your seed phrase or using your private key.\nALWAYS make sure that you’re doing this in the safest way possible (avoid doing this in public places, and make sure that if you use copy/paste you clear your clipboard as soon as you’re done).\nOnce you reach the Showroom landing page, do the following:\nClick on Import Wallet\nSelect if you want to import using your mnemonic phrase (seed/recovery) or your private key\nEnter your 12 or 24 words if you chose a mnemonic phrase or paste your private key if you chose the latter option\nName your wallet and protect it with a password. This password is local only and helps you protect your wallet on your machine. If you lose your password, you will have to reimport your wallet.\nImportant safety step – How to lock your current wallet\nStep 1: Select the WalletStep 2: Click Lock Current Wallet",
+  "content_hash": "2d0162bf2ab03842e3465d26dbfc4e48416df4c2a67da2aa87e534621af04f73",
+  "entities": [
+    "ATLAS",
+    "Showroom"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-05CC4589C03B3475-01",
+      "text": "DISCLAIMER: You should never import a hardware wallet seed phrase into a software wallet.If you have a hardware wallet, create a new one in Star Atlas UE5 Game and send your ships there.You can find more details on how to create a new wallet in this article.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-05CC4589C03B3475",
+      "publication_date": "2025-12-08T20:25:31Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-05CC4589C03B3475-02",
+      "text": "Never provide your seed phrase or private key to anyone.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-05CC4589C03B3475",
+      "publication_date": "2025-12-08T20:25:31Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-05CC4589C03B3475-03",
+      "text": "The Star Atlas team will never under any circumstances ask for your seed phrase or private key.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-05CC4589C03B3475",
+      "publication_date": "2025-12-08T20:25:31Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-05CC4589C03B3475-04",
+      "text": "There are two ways you can import your existing wallet into the Showroom: using your seed phrase or using your private key.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-05CC4589C03B3475",
+      "publication_date": "2025-12-08T20:25:31Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-05CC4589C03B3475-05",
+      "text": "ALWAYS make sure that you’re doing this in the safest way possible (avoid doing this in public places, and make sure that if you use copy/paste you clear your clipboard as soon as you’re done).",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-05CC4589C03B3475",
+      "publication_date": "2025-12-08T20:25:31Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-05CC4589C03B3475-06",
+      "text": "Once you reach the Showroom landing page, do the following: Click on Import Wallet Select if you want to import using your mnemonic phrase (seed/recovery) or your private key Enter your 12 or 24 words if you chose a mnemonic phrase or paste your private key if you chose the latter option Name your wallet and protect it with a password.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-05CC4589C03B3475",
+      "publication_date": "2025-12-08T20:25:31Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-05CC4589C03B3475-07",
+      "text": "This password is local only and helps you protect your wallet on your machine.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-05CC4589C03B3475",
+      "publication_date": "2025-12-08T20:25:31Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-05CC4589C03B3475-08",
+      "text": "If you lose your password, you will have to reimport your wallet.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-05CC4589C03B3475",
+      "publication_date": "2025-12-08T20:25:31Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-05CC4589C03B3475-09",
+      "text": "Important safety step – How to lock your current wallet Step 1: Select the WalletStep 2: Click Lock Current Wallet",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-05CC4589C03B3475",
+      "publication_date": "2025-12-08T20:25:31Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Showroom",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47210126616979",
+      "anchor_text": "article."
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47210126616979",
+      "anchor_text": "article."
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47210112349075-How-do-I-connect-my-existing-wallet-to-the-UE5-Game",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.127404Z"
+  }
+}

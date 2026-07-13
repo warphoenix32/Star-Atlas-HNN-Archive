@@ -1,0 +1,171 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-F610F4B7A8F38C2D",
+    "url_id": "URL-F610F4B7A8F38C2D",
+    "url": "https://thehologram.io/wagner-warwick",
+    "title": "Michael Wagner addresses upcoming debate with Illuvium's Kieran Warwick",
+    "author": "FowlAC",
+    "publisher": "Hologram News Network (HNN)",
+    "publication_identity": "Archived HNN website (thehologram.io)",
+    "published_at": "2022-07-23T19:19:08+00:00",
+    "updated_at": "2022-07-24T00:57:44+00:00",
+    "retrieved_at": "2026-07-13T00:10:37.511288Z",
+    "document_type": "ORIGINAL_INTERVIEW",
+    "source_role": "ORIGINAL_INTERVIEW",
+    "publication_role": "ORIGINAL_INTERVIEW",
+    "classification_rationale": "Publication explicitly presents an interview or Q&A."
+  },
+  "source_lineage": {
+    "publication": "Archived HNN website (thehologram.io)",
+    "publication_role": "ORIGINAL_INTERVIEW",
+    "relationship": "INTERVIEWS",
+    "primary_sources": [
+      {
+        "publication": "here",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=TDz6BGyk7iY",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [
+      "FowlAC"
+    ],
+    "attribution_chain": [
+      {
+        "from": "here",
+        "to": "Archived HNN website (thehologram.io)",
+        "relationship": "INTERVIEWS",
+        "url": "https://www.youtube.com/watch?v=TDz6BGyk7iY"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "This original interview published by Hologram News Network (HNN) on 2022-07-23 documents “Michael Wagner addresses upcoming debate with Illuvium's Kieran Warwick.” Its surviving text addresses economy, community. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "Michael Wagner addresses upcoming debate with Illuvium’s Kieran Warwick\nPosted by FowlAC | Jul 23, 2022 | Featured\nIn a recent interview with Aephia, Michael Wagner presented his thoughts on the upcoming debate with Kieran Warwick, co-founder of Illuvium. What follows are his comments. You can listen to the entire Aephia interview here. Wagner’s comments on Illuvium start at ~47 minutes into the interview.\nNote: Wagner’s comments have been slightly edited for clarity and length.\nFirst and foremost I do largely agree with you that I don’t think this is a very productive use of time. It’s certainly not where I want to be spending my energy. We want to be focused on building the things that our community and people around the world will want to see.\nIt’s not the first time he has made comments and largely I have ignored his comments as being ignorant to what it is that’s actually going on behind the scenes. I know exactly what we are doing because I have 100 percent confidence in what we’re building and the way that we are building it, so I can kind of simply leave it there.\nI’m going to hop on and take this as an opportunity to present, to your point, to a larger audience what it is that we are doing at Star Atlas and just how strong we are as a team, as a company, and outline exactly all of the things we have accomplished.\nMy approach is not to be non confrontational; it’s to be direct, to be honest, to be transparent. I‘m going to relay the facts. I don’t want to make this a pissing contest, to use maybe a crass term. That’s not my interest. To be perfectly honest with you though, I think his approach does strike me as being quite unprofessional. I think he comes across as quite egotistical. We’ll see. I have been on a panel with him before. We were quite cordial then and not once, just for what it’s worth, not once, CEO to CEO, has he ever reached out to me and asked any questions. He’s kind of blanketly criticized us behind the scenes. You know, hiding behind the screen without ever trying to reach out and chat with me. If he had any legitimate concerns about what it is that we are doing and the impact on the Web3 community he would have reached out to me and didn’t, so I get the sense that this is largely attention seeking. I get the sense that he is a little bit insecure about what he’s building relative to what Star Atlas is building. It’s fine. We will have this conversation together and I’m more than happy to do that.\n– Michael Wagner, CEO, ATMTA Inc.\nThe debate between Wagner and Warwick is set to take place on Wed, July 27th. The debate will be hosted by Cagy, a prominent social media influencer in the NFT and Web 3.0 world.\nABOUT THE HOLOGRAM\nThe Hologram is an independent news organization dedicated to covering the latest Star Atlas content from all sides. The Hologram was founded on the principle of uniting creators from across their diverse fields and showcasing their talent. The Hologram also recognizes the importance of our reader’s time and will always strive to give you what you need, when you need it.\nThe Hologram is not endorsed or paid by the Star Atlas team. Any information published by The Hologram or its writers should be considered as informational in nature and does not constitute any financial advice.\nShare:",
+  "content_hash": "426f5a05318cce623f7ca5a99dbd413b920edfd974740626d83f437b2af2d7fa",
+  "major_topics": [
+    "economy",
+    "community"
+  ],
+  "entities": [
+    "ATLAS",
+    "Michael Wagner",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-F610F4B7A8F38C2D-01",
+      "text": "We want to be focused on building the things that our community and people around the world will want to see.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-F610F4B7A8F38C2D",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-F610F4B7A8F38C2D-02",
+      "text": "We will have this conversation together and I’m more than happy to do that.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-F610F4B7A8F38C2D",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-F610F4B7A8F38C2D-03",
+      "text": "The debate will be hosted by Cagy, a prominent social media influencer in the NFT and Web 3.0 world.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-F610F4B7A8F38C2D",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-F610F4B7A8F38C2D-04",
+      "text": "The Hologram also recognizes the importance of our reader’s time and will always strive to give you what you need, when you need it.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-F610F4B7A8F38C2D",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Star Atlas",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [
+    "Michael Wagner"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://thehologram.io/author/fowlac/",
+      "anchor_text": "FowlAC"
+    },
+    {
+      "url": "https://thehologram.io/category/featured/",
+      "anchor_text": "Featured"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=TDz6BGyk7iY",
+      "anchor_text": "here"
+    },
+    {
+      "url": "https://thehologram.io/about-us/",
+      "anchor_text": "The Hologram"
+    },
+    {
+      "url": "http://www.facebook.com/sharer.php?u=https://thehologram.io/wagner-warwick/&t=Michael%20Wagner%20addresses%20upcoming%20debate%20with%20Illuvium%E2%80%99s%20Kieran%20Warwick",
+      "anchor_text": ""
+    },
+    {
+      "url": "http://twitter.com/intent/tweet?text=Michael%20Wagner%20addresses%20upcoming%20debate%20with%20Illuvium%E2%80%99s%20Kieran%20Warwick%20https://thehologram.io/wagner-warwick/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://plus.google.com/share?url=https://thehologram.io/wagner-warwick/&t=Michael%20Wagner%20addresses%20upcoming%20debate%20with%20Illuvium%E2%80%99s%20Kieran%20Warwick",
+      "anchor_text": ""
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "https://web.archive.org/web/20220724010155id_/https://thehologram.io/wagner-warwick/",
+    "final_url": "https://web.archive.org/web/20220724010155id_/https://thehologram.io/wagner-warwick/",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "response_size": 163753,
+    "elapsed_ms": 1532,
+    "retrieval_mode": "INTERNET_ARCHIVE",
+    "archive_capture": {
+      "timestamp": "20220724010155",
+      "original": "https://thehologram.io/wagner-warwick/",
+      "digest": "LRKSSKWHYU3EOQ2FQQTZPYUNY7JPZM4G"
+    }
+  }
+}

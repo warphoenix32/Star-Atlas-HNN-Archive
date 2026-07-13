@@ -1,0 +1,154 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-ECA45CEC453E8364",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47061466931219-What-s-the-Star-Atlas-Roadmap",
+    "title": "What’s the Star Atlas Roadmap?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-03T17:01:41Z",
+    "updated_at": "2025-12-08T18:23:35Z",
+    "original_date_text": "2025-12-03T17:01:41Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://portal.productboard.com/staratlas/1-star-atlas-roadmap/",
+        "anchor_text": "Star Atlas Roadmap"
+      },
+      {
+        "url": "https://portal.productboard.com/staratlas/1-star-atlas-roadmap/c/9--pvp-and-pve-modes?utm_source=chatgpt.com",
+        "anchor_text": "Productboard"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “What’s the Star Atlas Roadmap?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Accessing the Roadmap\nTo stay informed about the latest developments, visit the official Star Atlas Roadmap: Star Atlas Roadmap\nThis portal provides detailed insights into current and upcoming features, categorized into phases such as Preseason, Season 0, and beyond. Each phase includes specific initiatives, from gameplay mechanics to infrastructure enhancements.\nKey Highlights\nPreseason: Focuses on foundational elements, including the introduction of the UE5 Showroom and initial gameplay loops.\nSeason 0: Expands on gameplay features, introducing new missions, assets, and economic systems.\nSeason 1 and Beyond: Plans for advanced features like PvP and PvE modes, enhanced DAO functionalities, and the introduction of new careers and professions. Productboard\nEach roadmap item includes status indicators, detailed descriptions, and projected timelines, offering transparency into the development process.",
+  "content_hash": "dda7c52a60da0953163330a6d363202c5e03303e764e09ebf092300dd326d995",
+  "entities": [
+    "ATLAS",
+    "Showroom"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-ECA45CEC453E8364-01",
+      "text": "Accessing the Roadmap To stay informed about the latest developments, visit the official Star Atlas Roadmap: Star Atlas Roadmap This portal provides detailed insights into current and upcoming features, categorized into phases such as Preseason, Season 0, and beyond.",
+      "claim_type": "ROADMAP_PLAN",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-ECA45CEC453E8364",
+      "publication_date": "2025-12-03T17:01:41Z",
+      "confidence": "MEDIUM",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-ECA45CEC453E8364-02",
+      "text": "Each phase includes specific initiatives, from gameplay mechanics to infrastructure enhancements.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-ECA45CEC453E8364",
+      "publication_date": "2025-12-03T17:01:41Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-ECA45CEC453E8364-03",
+      "text": "Key Highlights Preseason: Focuses on foundational elements, including the introduction of the UE5 Showroom and initial gameplay loops.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-ECA45CEC453E8364",
+      "publication_date": "2025-12-03T17:01:41Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-ECA45CEC453E8364-04",
+      "text": "Season 0: Expands on gameplay features, introducing new missions, assets, and economic systems.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-ECA45CEC453E8364",
+      "publication_date": "2025-12-03T17:01:41Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-ECA45CEC453E8364-05",
+      "text": "Season 1 and Beyond: Plans for advanced features like PvP and PvE modes, enhanced DAO functionalities, and the introduction of new careers and professions.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-ECA45CEC453E8364",
+      "publication_date": "2025-12-03T17:01:41Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-ECA45CEC453E8364-06",
+      "text": "Productboard Each roadmap item includes status indicators, detailed descriptions, and projected timelines, offering transparency into the development process.",
+      "claim_type": "ROADMAP_PLAN",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-ECA45CEC453E8364",
+      "publication_date": "2025-12-03T17:01:41Z",
+      "confidence": "MEDIUM",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Showroom",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://portal.productboard.com/staratlas/1-star-atlas-roadmap/",
+      "anchor_text": "Star Atlas Roadmap"
+    },
+    {
+      "url": "https://portal.productboard.com/staratlas/1-star-atlas-roadmap/c/9--pvp-and-pve-modes?utm_source=chatgpt.com",
+      "anchor_text": "Productboard"
+    }
+  ],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47061466931219-What-s-the-Star-Atlas-Roadmap",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.201630Z"
+  }
+}

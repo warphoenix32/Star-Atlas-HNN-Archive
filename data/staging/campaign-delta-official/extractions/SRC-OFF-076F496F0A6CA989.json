@@ -1,0 +1,71 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-076F496F0A6CA989",
+    "url": "https://github.com/staratlasmeta/factory#readme",
+    "title": "factory README",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "staratlasmeta GitHub organization",
+    "published_at": "2021-05-27T08:02:09Z",
+    "updated_at": "2025-02-11T22:10:14Z",
+    "original_date_text": "2021-05-27T08:02:09Z",
+    "document_type": "TECHNICAL_DOCUMENTATION",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "staratlasmeta GitHub organization",
+    "publication_role": "TECHNICAL_DOCUMENTATION",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "staratlasmeta GitHub organization"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official technical documentation titled “factory README.” This record preserves what staratlasmeta GitHub organization publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "<div align=\"center\">  \n  <h1>Factory</h1>\n</div>\n\nStar Atlas Factory for constructing Transactions targeting Solana on-chain programs\n\n## Setup\n\n```\nnvm use\n\nnpm i\n```\n\n## Packages\n\n\n| Package              | Description                                  | Version                                                                                                                    | Docs                                                                                                          |\n|:---------------------|:---------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------|\n| `@staratlas/factory` | TypeScript interface for Star Atlas programs | [![npm](https://img.shields.io/npm/v/@staratlas/factory.svg?color=blue)](https://www.npmjs.com/package/@staratlas/factory) | [![Docs](https://img.shields.io/badge/docs-typedoc-blue)](https://staratlasmeta.github.io/factory/index.html) |\n",
+  "content_hash": "6ee82109ba689dbde4e8e40ffcca95daf7e9977d9571a4f8ec8908664128df40",
+  "entities": [
+    "ATLAS",
+    "Solana"
+  ],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [
+    "Solana"
+  ],
+  "guilds": [],
+  "external_sources": [],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "https://api.github.com/repos/staratlasmeta/factory/readme",
+    "final_url": "https://api.github.com/repos/staratlasmeta/factory/readme",
+    "http_status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "response_size": 2334,
+    "retrieved_at": "2026-07-13T01:05:06.927043Z",
+    "elapsed_ms": 455
+  }
+}

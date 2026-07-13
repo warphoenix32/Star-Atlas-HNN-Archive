@@ -1,0 +1,186 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-04DD15F547F461E7",
+    "url_id": "URL-04DD15F547F461E7",
+    "url": "https://thehologram.io/order-of-the-red-hand",
+    "title": "The Order of the Red Hand: Interview with Co-Founder Thor » The Hologram",
+    "author": "Hardass",
+    "publisher": "Hologram News Network (HNN)",
+    "publication_identity": "Archived HNN website (thehologram.io)",
+    "published_at": "2022-08-22T01:26:53+00:00",
+    "updated_at": "2022-08-22T10:59:37+00:00",
+    "retrieved_at": "2026-07-13T00:12:48.952685Z",
+    "document_type": "ORIGINAL_INTERVIEW",
+    "source_role": "ORIGINAL_INTERVIEW",
+    "publication_role": "ORIGINAL_INTERVIEW",
+    "classification_rationale": "Publication explicitly presents an interview or Q&A."
+  },
+  "source_lineage": {
+    "publication": "Archived HNN website (thehologram.io)",
+    "publication_role": "ORIGINAL_INTERVIEW",
+    "relationship": "INTERVIEWS",
+    "primary_sources": [
+      {
+        "publication": "Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://staratlas.com/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [
+      "Hardass"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Star Atlas",
+        "to": "Archived HNN website (thehologram.io)",
+        "relationship": "INTERVIEWS",
+        "url": "https://staratlas.com/"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "This original interview published by Hologram News Network (HNN) on 2022-08-22 documents “The Order of the Red Hand: Interview with Co-Founder Thor » The Hologram.” Its surviving text addresses economy, guilds and DACs, community, lore. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "The Order of the Red Hand: Interview with Co-Founder Thor\nPosted by Hardass | Aug 22, 2022 | Guilds\nThe idea behind The Order of the Red Hand was born when Thor was looking at the first galactic asset offering catalogue:\n“We looked at all the ships and the repair and refuel ship – the R8 – really called out to me!”\nThor elaborated: “I thought if you have an entire metaverse of spaceships fighting and destroying each other, and you only have 1 group of ships going back and rescuing and repairing and refueling.”\nThor also stated that he saw a void that he could help fill in the Star Atlas Metaverse.He added: “So someone has to go fill that void, to do a great service to the community. Yes, it will be profitable, but it will take a unique kind of person”\nTo make sure I kept the conversation on point, I had to ask a quick question:\n“Why you? Why will you carry this banner?”\nWithout hesitation,Thor said, “This is not just me; this is about the people that I have with me. We started this with my friends that are firefighters, one that is an EMT, people from the rescue service industry and also a lot of people that just enjoy doing that type of service, helping others!”\nThor and the other co-founders have real life experience in public safety, so it was interesting to find out where other members of the Red Hand were from. Star Atlas is an amazing community building platform, and I expected a mostly US based team, but he told me:\n“We are from the US, but some of the most active members are from Australia and the UK.”\nSome of their short-term goals:\nThe are an Ustur guild, starting out from Ustur space with diplomatic ties to all Ustur guilds thorugh contracts.\nI asked about the contracts, Thor said:\n“Setting up contracts with organizations to define the services. The prices we can negotiate as soon as we see the game, but I have been working with contracts for safety services in real life, so I will take my experience and use it for Star Atlas.”\nAbout The Hologram\nThe Hologram is Star Atlas’ first and only independent news network. Our vision is to become the most trusted source of information about Star Atlas and a voice for the whole community. Readers can expect a high standard from our reporting and staff. Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.\nThe Hologram is not endorsed or paid by the Star Atlas team. Any information published by The Hologram nor its writers should be considered as informational in nature and does not constitute any financial advice.\nShare:",
+  "content_hash": "ca3b5f698b283ad659682467db85c5832315951163d0552cc9c14353fdbbf286",
+  "major_topics": [
+    "economy",
+    "guilds and DACs",
+    "community",
+    "lore"
+  ],
+  "entities": [
+    "ATLAS",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-04DD15F547F461E7-01",
+      "text": "Yes, it will be profitable, but it will take a unique kind of person” To make sure I kept the conversation on point, I had to ask a quick question: “Why you?",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-04DD15F547F461E7",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-04DD15F547F461E7-02",
+      "text": "Why will you carry this banner?” Without hesitation,Thor said, “This is not just me; this is about the people that I have with me.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-04DD15F547F461E7",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-04DD15F547F461E7-03",
+      "text": "I asked about the contracts, Thor said: “Setting up contracts with organizations to define the services.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-04DD15F547F461E7",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-04DD15F547F461E7-04",
+      "text": "The prices we can negotiate as soon as we see the game, but I have been working with contracts for safety services in real life, so I will take my experience and use it for Star Atlas.” About The Hologram The Hologram is Star Atlas’ first and only independent news network.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-04DD15F547F461E7",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-04DD15F547F461E7-05",
+      "text": "Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-04DD15F547F461E7",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Star Atlas",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [
+    "Ustur"
+  ],
+  "actors": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://thehologram.io/author/hardass/",
+      "anchor_text": "Hardass"
+    },
+    {
+      "url": "https://thehologram.io/category/community/guilds/",
+      "anchor_text": "Guilds"
+    },
+    {
+      "url": "https://twitter.com/OCGThor",
+      "anchor_text": "Thor"
+    },
+    {
+      "url": "https://thehologram.io/",
+      "anchor_text": "The Hologram"
+    },
+    {
+      "url": "https://staratlas.com/",
+      "anchor_text": "Star Atlas"
+    },
+    {
+      "url": "http://www.facebook.com/sharer.php?u=https://thehologram.io/order-of-the-red-hand/&t=The%20Order%20of%20the%20Red%20Hand%3A%20Interview%20with%20Co-Founder%20Thor",
+      "anchor_text": ""
+    },
+    {
+      "url": "http://twitter.com/intent/tweet?text=The%20Order%20of%20the%20Red%20Hand%3A%20Interview%20with%20Co-Founder%20Thor%20https://thehologram.io/order-of-the-red-hand/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://plus.google.com/share?url=https://thehologram.io/order-of-the-red-hand/&t=The%20Order%20of%20the%20Red%20Hand%3A%20Interview%20with%20Co-Founder%20Thor",
+      "anchor_text": ""
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "https://web.archive.org/web/20220822105939id_/https://thehologram.io/order-of-the-red-hand/",
+    "final_url": "https://web.archive.org/web/20220822105939id_/https://thehologram.io/order-of-the-red-hand/",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "response_size": 170056,
+    "elapsed_ms": 711,
+    "retrieval_mode": "INTERNET_ARCHIVE",
+    "archive_capture": {
+      "timestamp": "20220822105939",
+      "original": "https://thehologram.io/order-of-the-red-hand/",
+      "digest": "CIZG6LPSV7UEPK74BGYJVPFITUXOSBWC"
+    }
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "source": {
+    "source_id": "SRC-IH-D0F914CBADC9BF8C",
+    "url_id": "URL-D0F914CBADC9BF8C",
+    "url": "https://intergalacticherald.com/star-atlas-recap/event-recap-24-star-atlas-summer-town-hall-part-1/",
+    "inventory_url": "https://intergalacticherald.com/star-atlas-recap/event-recap-24-star-atlas-summer-town-hall-part-1",
+    "title": "Event Recap 24: Star Atlas Summer Town Hall-Part 1",
+    "author": "Intergalactic Herald",
+    "publisher": "Intergalactic Herald",
+    "published_at": "2025-07-30T21:00:00",
+    "updated_at": "2025-08-01T21:58:26",
+    "retrieved_at": "2026-07-12T22:08:12.500841Z",
+    "document_type": "EVENT_RECAP",
+    "source_role": "CURATED_SUMMARY",
+    "source_classification": "CURATED_SUMMARY",
+    "classification_rationale": "Event recap summarizes an externally originated event, broadcast, or discussion.",
+    "wordpress_type": "posts"
+  },
+  "summary": {
+    "neutral_abstract": "In this episode, hear an AI summary of the latest Star Atlas community event. Full video recordings can be found on the YouTube channel of Star Atlas TV at https://www.youtube.com/@staratlastv. I am launching a Star Atlas merch store. Please check it out at Intergalactic Gear. I am also creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic",
+    "historical_value": "Contemporary Intergalactic Herald publication preserved with role and attribution boundaries.",
+    "current_validity_warning": "Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources."
+  },
+  "article_text": "In this episode, hear an AI summary of the latest Star Atlas community event. Full video recordings can be found on the YouTube channel of Star Atlas TV at https://www.youtube.com/@staratlastv.\nAlso, check out my newsletter and podcast.\nListen on Apple Podcasts\nListen on Spotify\nI am launching a Star Atlas merch store. Please check it out at Intergalactic Gear.\nI am also creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic Coalition.\nIf you would like to support my efforts, donations can be sent to intergalacticherald.sol\nPodcast Transcript\nThe Star Atlas Summer Town Hall — Part 1 discussed a massive update to the Star Atlas game on the Epic Game Store, described as the biggest update the company has ever done for its shooter gameplay. This town hall is part of a larger Star Atlas Summer campaign, which is noted as the biggest marketing activation since 2022, focusing on economic and financial incentives, along with progression mechanisms across all products.\nA key highlight of the new update is a new player progression system featuring preseason character group ranks, allowing players to level up their characters and unlock additional weapon loadout slots. Players can Prestige once they reach level 20 with a character group, resetting to level one but retaining all unlocked items, with specific rewards tied to prestiging across multiple character groups, including crew packs of increasing rarity up to a Diamond pack for those who prestige 10 times across 12 different character groups. To gain XP and progress, players must log in with a wallet (which can be empty) and participate in matchmaking sessions. The game now features matchmaking for both Arena and Racing modes, a significant addition.\nThe update also brings several gameplay and visual enhancements. The Piso’s Arena has received a “fresh coat of paint” with significant polish, detailed environments, clear team color indications, and a new confetti system. A new loadout system allows players to customize their weapon and utility selections, with weapons taking up varying numbers of slots in a weapon wheel, and introduces a new omni ammo pickup system to support custom loadouts. Spectator mode has been integrated, along with an 8-second respawn time in Arena matches. Weapon visuals have been improved, notably the Gatling gun and sniper rifle, with updated shaders, materials, and rotational barrels. Quality-of-life improvements include enhanced locomotion with bunny hopping and improved sliding, and a fix for weapons blocking aim when close to walls. Additionally, Easy Anti-Cheat has been integrated, and joystick and gamepad support have been improved.\nA brand new racing track called Xenonade, inspired by the Sagmian House Xenonade, replaces track B, offering looping races for up to six players even without owning a vehicle. For the Galia game mode, new gameplay loops have been added, including a mission system with four types of missions: delivery (cargo freighting), data transport (sensitive data), requisition (sourcing commodities), and bounties (hunting criminals). Players can also encounter random encounters in space, functioning as mini-missions.\nThe town hall also highlighted ongoing Community Week events, including a rock paper scissors game using community tickets, a community week raffle, a “Team versus Community” event, the Joanie Awards celebrating community contributors, and a Community Week Carnival where tickets can be redeemed for Star Atlas assets up to $15,000. The season for Hollow Sim, a free-to-play version of Sage Labs, is closing, but the client will remain online for playtesting, with cosmetic rewards being distributed to playtesters. A new cinematic trailer was premiered, notably featuring the voice acting of Bridget, the wife of one of the speakers, Chip, as Joanie.\nLooking ahead, the Star Atlas team will be transitioning much of its development focus towards full fleet command integration with C4 parity on Unreal Engine, while continuing to support and maintain existing shooter, racing, and Galia modes with bug fixes. The team expressed immense pride and excitement for the update, acknowledging the hard work and dedication of the entire team.",
+  "content_hash": "fb96bacc0f11e5f9815b2c482e9b5c47a144d752299efb0f174548d6623801a2",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [
+    "2022"
+  ],
+  "external_sources": [
+    {
+      "url": "https://www.youtube.com/@staratlastv",
+      "anchor_text": "https://www.youtube.com/@staratlastv"
+    },
+    {
+      "url": "https://podcasts.apple.com/us/podcast/star-atlas-week-in-review-podcast/id1678661043",
+      "anchor_text": "Listen on Apple Podcasts"
+    },
+    {
+      "url": "https://open.spotify.com/show/0aHDjCqFpy8Lzrkilv8n16",
+      "anchor_text": "Listen on Spotify"
+    },
+    {
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    }
+  ],
+  "primary_source_relationships": [
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/@staratlastv",
+      "anchor_text": "https://www.youtube.com/@staratlastv"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://podcasts.apple.com/us/podcast/star-atlas-week-in-review-podcast/id1678661043",
+      "anchor_text": "Listen on Apple Podcasts"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://open.spotify.com/show/0aHDjCqFpy8Lzrkilv8n16",
+      "anchor_text": "Listen on Spotify"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    }
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Verify which outbound links are primary sources and preserve creator attribution during promotion.",
+      "Source lineage: attribution requires manual confirmation."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=event-recap-24-star-atlas-summer-town-hall-part-1&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 8938,
+    "elapsed_ms": 1814,
+    "attempts": [
+      {
+        "endpoint": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=event-recap-24-star-atlas-summer-town-hall-part-1&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "http_status": 200,
+        "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=event-recap-24-star-atlas-summer-town-hall-part-1&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "content_type": "application/json; charset=UTF-8",
+        "response_size": 8938,
+        "elapsed_ms": 1814
+      }
+    ]
+  },
+  "source_lineage": {
+    "publication": "Intergalactic Herald",
+    "publication_role": "CURATED_SUMMARY",
+    "relationship": "CURATED_SUMMARY_OF",
+    "primary_sources": [
+      {
+        "publication": "Official Star Atlas Town Hall",
+        "author": "UNKNOWN",
+        "url": "UNKNOWN",
+        "organization": "Star Atlas",
+        "evidence": "Explicitly named in publication title"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "publication": "@Staratlastv",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/@staratlastv",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Listen on Apple Podcasts",
+        "author": "UNKNOWN",
+        "url": "https://podcasts.apple.com/us/podcast/star-atlas-week-in-review-podcast/id1678661043",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Listen on Spotify",
+        "author": "UNKNOWN",
+        "url": "https://open.spotify.com/show/0aHDjCqFpy8Lzrkilv8n16",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Intergalactic Gear",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticgear.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Intergalactic Coalition",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticcoalition.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Official Star Atlas Town Hall",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "UNKNOWN"
+      }
+    ],
+    "lineage_confidence": "MEDIUM"
+  }
+}

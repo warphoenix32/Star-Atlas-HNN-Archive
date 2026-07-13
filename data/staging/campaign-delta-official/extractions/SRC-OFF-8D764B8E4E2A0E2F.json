@@ -1,0 +1,132 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-8D764B8E4E2A0E2F",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47057412966035-What-is-the-reward-for-enlisting-a-Ship-in-Faction-Fleet",
+    "title": "What is the reward for enlisting a Ship in Faction Fleet?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-03T15:14:35Z",
+    "updated_at": "2025-12-08T18:23:47Z",
+    "original_date_text": "2025-12-03T15:14:35Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://based.staratlas.com/",
+        "anchor_text": "SAGE"
+      },
+      {
+        "url": "https://play.staratlas.com/rentals/",
+        "anchor_text": "Fleet Rental platform"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “What is the reward for enlisting a Ship in Faction Fleet?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Faction Fleet was the first on-chain gameplay system in Star Atlas, launched in 2021. By enlisting your ships and keeping them resupplied with R4 (Fuel, Food, Ammo, Toolkits), you earn passive ATLAS rewards over time\nLooking for Higher Passive Income?\nToday, the most rewarding passive income method for your ships is Fleet Rental\nCreate a fleet in SAGE\nList it on the Fleet Rental platform via play.staratlas.com\nOther players pay ATLAS to use your ships\nYou earn rewards while keeping ownership",
+  "content_hash": "9c26ccd3066e5adc58f73d656f5d974cfda951b0c7f372e9b4e6c9cbc7921676",
+  "entities": [
+    "ATLAS",
+    "Faction Fleet",
+    "SAGE"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-8D764B8E4E2A0E2F-01",
+      "text": "Faction Fleet was the first on-chain gameplay system in Star Atlas, launched in 2021.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-8D764B8E4E2A0E2F",
+      "publication_date": "2025-12-03T15:14:35Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-8D764B8E4E2A0E2F-02",
+      "text": "By enlisting your ships and keeping them resupplied with R4 (Fuel, Food, Ammo, Toolkits), you earn passive ATLAS rewards over time Looking for Higher Passive Income?",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-8D764B8E4E2A0E2F",
+      "publication_date": "2025-12-03T15:14:35Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-8D764B8E4E2A0E2F-03",
+      "text": "Today, the most rewarding passive income method for your ships is Fleet Rental Create a fleet in SAGE List it on the Fleet Rental platform via play.staratlas.com Other players pay ATLAS to use your ships You earn rewards while keeping ownership",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-8D764B8E4E2A0E2F",
+      "publication_date": "2025-12-03T15:14:35Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "SAGE",
+    "Faction Fleet",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://based.staratlas.com/",
+      "anchor_text": "SAGE"
+    },
+    {
+      "url": "https://play.staratlas.com/rentals/",
+      "anchor_text": "Fleet Rental platform"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://based.staratlas.com/",
+      "anchor_text": "SAGE"
+    },
+    {
+      "url": "https://play.staratlas.com/rentals/",
+      "anchor_text": "Fleet Rental platform"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47057412966035-What-is-the-reward-for-enlisting-a-Ship-in-Faction-Fleet",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.233343Z"
+  }
+}

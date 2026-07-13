@@ -1,0 +1,237 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-A5D64DE1191E1208",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47021326216851-How-does-the-ATLAS-locker-work",
+    "title": "How does the ATLAS locker work?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-02T15:04:06Z",
+    "updated_at": "2025-12-08T18:24:19Z",
+    "original_date_text": "2025-12-02T15:04:06Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://govern.staratlas.com/lockers",
+        "anchor_text": "govern.staratlas.com/lockers"
+      },
+      {
+        "url": "https://gist.github.com/dahifi/20797afed6de5167446edf54dd33407b",
+        "anchor_text": "The full rewards schedule can be found here"
+      },
+      {
+        "url": "https://play.staratlas.com/market/",
+        "anchor_text": "marketplace"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “How does the ATLAS locker work?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "The ATLAS Locker allows you to lock ATLAS tokens to:\nEarn daily POLIS rewards\nReduce your Marketplace seller fees\nWhen you request a withdrawal, a 21-day cooldown period starts, during this time, rewards and discounts are paused. After the cooldown ends, you can reclaim your ATLAS.\nStart here: govern.staratlas.com/lockers\nHow It Works – Step by Step\nStep 1: Lock ATLAS\nChoose the amount of ATLAS you want to lock.\nLocking more ATLAS unlocks bigger Marketplace fee discounts.\nYou’ll start earning daily POLIS rewards automatically.\nStep 2: Earn Daily POLIS Rewards\nPOLIS is distributed daily to lockers based on how much ATLAS you have locked relative to others.\nEmissions follow a declining curve over 8 years.\nEmission Curve Summary:\nStart (2022): 4,320 POLIS/day\nEnd (2030): 2,620 POLIS/day\nThe full rewards schedule can be found here\nStep 3: Get Marketplace Fee Discounts\nYour Locker Tier determines your seller fee discount on the marketplace and in Sage Local Marketplace:\nTier\nLocked ATLAS\nFee Reduction\nFinal Fee\nDAO Share\n0\n0%\n6.00%\n2.00%\n1\n10,000\n10%\n5.40%\n1.80%\n2\n70,000\n15%\n5.10%\n1.70%\n3\n560,000\n25%\n4.50%\n1.50%\n4\n5,600,000\n45%\n3.30%\n1.10%\n5\n72,800,000\n85%\n0.90%\n0.30%\nHow Your POLIS Rewards Are Calculated\nFormula:\n(Your Locked ATLAS / Total Locked ATLAS) × Daily POLIS Emission\nExample:\nIf 4,000 POLIS are emitted today\nAnd you have 1,000 ATLAS locked out of 1,000,000 total:→ You earn\n(1,000 / 1,000,000) × 4,000 = 4 POLIS\nKey Locker Terms & Metrics\nCirculating Supply: Publicly available ATLAS (excludes vesting & emissions reserves).\nTotal Supply: Total amount of ATLAS in existence.\nTotal Locked: Total ATLAS locked by all users.\nNext Daily Reward Drop: The total POLIS reward pool for the next emission cycle.\nAverage Marketplace Fee Reduction:The average fee discount across all lockers—this gives insight into how much sellers are typically saving through ATLAS locking.\nHow Withdrawal Works\nAction\nWhat It Does\nInitiate Withdraw\nStarts 21-day cooldown ⛔ Rewards & discounts are paused\nHalt Withdraw\nCancels cooldown ✅ Resumes rewards & discounts\nReclaim Tokens\nAfter 21 days, unlock and withdraw your ATLAS",
+  "content_hash": "0d21a1f7a9b9b4f68f6baad6e58584f9abf98d3cd9bcc65956c3a733c75fb0d1",
+  "entities": [
+    "ATLAS",
+    "POLIS",
+    "SAGE"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-A5D64DE1191E1208-01",
+      "text": "The ATLAS Locker allows you to lock ATLAS tokens to: Earn daily POLIS rewards Reduce your Marketplace seller fees When you request a withdrawal, a 21-day cooldown period starts, during this time, rewards and discounts are paused.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-A5D64DE1191E1208",
+      "publication_date": "2025-12-02T15:04:06Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-A5D64DE1191E1208-02",
+      "text": "After the cooldown ends, you can reclaim your ATLAS.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-A5D64DE1191E1208",
+      "publication_date": "2025-12-02T15:04:06Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-A5D64DE1191E1208-03",
+      "text": "Start here: govern.staratlas.com/lockers How It Works – Step by Step Step 1: Lock ATLAS Choose the amount of ATLAS you want to lock.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-A5D64DE1191E1208",
+      "publication_date": "2025-12-02T15:04:06Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-A5D64DE1191E1208-04",
+      "text": "Locking more ATLAS unlocks bigger Marketplace fee discounts.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-A5D64DE1191E1208",
+      "publication_date": "2025-12-02T15:04:06Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-A5D64DE1191E1208-05",
+      "text": "You’ll start earning daily POLIS rewards automatically.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-A5D64DE1191E1208",
+      "publication_date": "2025-12-02T15:04:06Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-A5D64DE1191E1208-06",
+      "text": "Step 2: Earn Daily POLIS Rewards POLIS is distributed daily to lockers based on how much ATLAS you have locked relative to others.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-A5D64DE1191E1208",
+      "publication_date": "2025-12-02T15:04:06Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-A5D64DE1191E1208-07",
+      "text": "Emissions follow a declining curve over 8 years.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-A5D64DE1191E1208",
+      "publication_date": "2025-12-02T15:04:06Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-A5D64DE1191E1208-08",
+      "text": "Total Supply: Total amount of ATLAS in existence.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-A5D64DE1191E1208",
+      "publication_date": "2025-12-02T15:04:06Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-A5D64DE1191E1208-09",
+      "text": "Total Locked: Total ATLAS locked by all users.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-A5D64DE1191E1208",
+      "publication_date": "2025-12-02T15:04:06Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-A5D64DE1191E1208-10",
+      "text": "Next Daily Reward Drop: The total POLIS reward pool for the next emission cycle.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-A5D64DE1191E1208",
+      "publication_date": "2025-12-02T15:04:06Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-A5D64DE1191E1208-11",
+      "text": "Average Marketplace Fee Reduction:The average fee discount across all lockers—this gives insight into how much sellers are typically saving through ATLAS locking.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-A5D64DE1191E1208",
+      "publication_date": "2025-12-02T15:04:06Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-A5D64DE1191E1208-12",
+      "text": "How Withdrawal Works Action What It Does Initiate Withdraw Starts 21-day cooldown ⛔ Rewards & discounts are paused Halt Withdraw Cancels cooldown ✅ Resumes rewards & discounts Reclaim Tokens After 21 days, unlock and withdraw your ATLAS",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-A5D64DE1191E1208",
+      "publication_date": "2025-12-02T15:04:06Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "SAGE",
+    "POLIS",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://govern.staratlas.com/lockers",
+      "anchor_text": "govern.staratlas.com/lockers"
+    },
+    {
+      "url": "https://gist.github.com/dahifi/20797afed6de5167446edf54dd33407b",
+      "anchor_text": "The full rewards schedule can be found here"
+    },
+    {
+      "url": "https://play.staratlas.com/market/",
+      "anchor_text": "marketplace"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://govern.staratlas.com/lockers",
+      "anchor_text": "govern.staratlas.com/lockers"
+    },
+    {
+      "url": "https://play.staratlas.com/market/",
+      "anchor_text": "marketplace"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47021326216851-How-does-the-ATLAS-locker-work",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.306362Z"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "topic": "claims, escape, record, remain, sage, solana, technology, the",
+  "official_source_ids": [
+    "SRC-OFF-C189056066EBFEA7"
+  ],
+  "community_source_ids": [
+    "SRC-HNN-0A769F0CE0CFADD8"
+  ],
+  "relationship": "OFFICIAL_CONFIRMS_COMMUNITY_REPORT",
+  "finding": "Automated topic overlap on: claims, escape, record, remain, sage, solana, technology, the, this, time, velocity. Official authority is limited to the official wording; community context remains separately attributed.",
+  "confidence": "LOW",
+  "promotion_candidate": false,
+  "manual_review_required": true
+}

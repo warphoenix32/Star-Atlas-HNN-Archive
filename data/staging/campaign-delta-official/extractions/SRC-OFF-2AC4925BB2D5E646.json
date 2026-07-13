@@ -1,0 +1,84 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-2AC4925BB2D5E646",
+    "url": "https://github.com/staratlasmeta/sage-labs-changelog.github.io#readme",
+    "title": "sage-labs-changelog.github.io README",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "staratlasmeta GitHub organization",
+    "published_at": "2024-04-10T08:33:02Z",
+    "updated_at": "2025-04-29T08:18:32Z",
+    "original_date_text": "2024-04-10T08:33:02Z",
+    "document_type": "TECHNICAL_DOCUMENTATION",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "staratlasmeta GitHub organization",
+    "publication_role": "TECHNICAL_DOCUMENTATION",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "staratlasmeta GitHub organization"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official technical documentation titled “sage-labs-changelog.github.io README.” This record preserves what staratlasmeta GitHub organization publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "# SAGE Labs Changelog\n\nChangelog for the SAGE Labs product\n\nhttps://staratlasmeta.github.io/sage-labs-changelog.github.io/\n",
+  "content_hash": "33f22bd258ff0f3fc330da03bcb72f28610547502041391c79023602e2985958",
+  "entities": [
+    "SAGE",
+    "SAGE Labs"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-2AC4925BB2D5E646-01",
+      "text": "# SAGE Labs Changelog  Changelog for the SAGE Labs product  https://staratlasmeta.github.io/sage-labs-changelog.github.io/",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-2AC4925BB2D5E646",
+      "publication_date": "2024-04-10T08:33:02Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "SAGE Labs",
+    "SAGE"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://api.github.com/repos/staratlasmeta/sage-labs-changelog.github.io/readme",
+    "final_url": "https://api.github.com/repos/staratlasmeta/sage-labs-changelog.github.io/readme",
+    "http_status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "response_size": 1112,
+    "retrieved_at": "2026-07-13T01:06:41.401986Z",
+    "elapsed_ms": 406
+  }
+}

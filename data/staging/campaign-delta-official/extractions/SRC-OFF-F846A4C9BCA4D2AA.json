@@ -1,0 +1,199 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-F846A4C9BCA4D2AA",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47053488533907-How-to-Create-a-Character-in-Sage",
+    "title": "How to Create a Character in Sage?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-03T13:17:03Z",
+    "updated_at": "2025-12-08T18:24:39Z",
+    "original_date_text": "2025-12-03T13:17:03Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://based.staratlas.com/",
+        "anchor_text": "Starbased"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “How to Create a Character in Sage?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Creating a character in Starbased is your first step into the expansive universe of Star Atlas. This process integrates directly with blockchain technology, ensuring that your character is uniquely yours in this web-browser strategy game. Here's how to start your adventure:\nConnect Your Wallet to Starbased: Access Starbasedand click on the wallet icon located at the top right of the screen to connect your wallet. This connection is crucial for all your in-game transactions and progress.\nCharacter Creation: Once your wallet is connected, select the option to create a new character. A prompt will appear, guiding you to choose a faction and a name for your character. Each faction in Star Atlas has its unique culture, strengths, and background. For a deeper understanding of each faction, consider reading the detailed guide here.\nFinalize Your Character: After selecting your faction and deciding on a name, click on \"Create character.\" You will then see a wallet prompt asking for your approval to complete the character creation transaction. Approve this transaction to finalize the creation of your character.",
+  "content_hash": "56ff650484e15821b8a95ae4aeab36b0b2f5912946d001b4d5f5253f1bdfa0de",
+  "entities": [
+    "ATLAS"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-F846A4C9BCA4D2AA-01",
+      "text": "Creating a character in Starbased is your first step into the expansive universe of Star Atlas.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F846A4C9BCA4D2AA",
+      "publication_date": "2025-12-03T13:17:03Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F846A4C9BCA4D2AA-02",
+      "text": "This process integrates directly with blockchain technology, ensuring that your character is uniquely yours in this web-browser strategy game.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F846A4C9BCA4D2AA",
+      "publication_date": "2025-12-03T13:17:03Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F846A4C9BCA4D2AA-03",
+      "text": "Here's how to start your adventure: Connect Your Wallet to Starbased: Access Starbasedand click on the wallet icon located at the top right of the screen to connect your wallet.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F846A4C9BCA4D2AA",
+      "publication_date": "2025-12-03T13:17:03Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F846A4C9BCA4D2AA-04",
+      "text": "This connection is crucial for all your in-game transactions and progress.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F846A4C9BCA4D2AA",
+      "publication_date": "2025-12-03T13:17:03Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F846A4C9BCA4D2AA-05",
+      "text": "Character Creation: Once your wallet is connected, select the option to create a new character.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F846A4C9BCA4D2AA",
+      "publication_date": "2025-12-03T13:17:03Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F846A4C9BCA4D2AA-06",
+      "text": "A prompt will appear, guiding you to choose a faction and a name for your character.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F846A4C9BCA4D2AA",
+      "publication_date": "2025-12-03T13:17:03Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F846A4C9BCA4D2AA-07",
+      "text": "Each faction in Star Atlas has its unique culture, strengths, and background.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F846A4C9BCA4D2AA",
+      "publication_date": "2025-12-03T13:17:03Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F846A4C9BCA4D2AA-08",
+      "text": "For a deeper understanding of each faction, consider reading the detailed guide here.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F846A4C9BCA4D2AA",
+      "publication_date": "2025-12-03T13:17:03Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F846A4C9BCA4D2AA-09",
+      "text": "Finalize Your Character: After selecting your faction and deciding on a name, click on \"Create character.\" You will then see a wallet prompt asking for your approval to complete the character creation transaction.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F846A4C9BCA4D2AA",
+      "publication_date": "2025-12-03T13:17:03Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F846A4C9BCA4D2AA-10",
+      "text": "Approve this transaction to finalize the creation of your character.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F846A4C9BCA4D2AA",
+      "publication_date": "2025-12-03T13:17:03Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://based.staratlas.com/",
+      "anchor_text": "Starbased"
+    },
+    {
+      "url": "https://support.staratlas.com/how-to-join-a-faction",
+      "anchor_text": "here"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://based.staratlas.com/",
+      "anchor_text": "Starbased"
+    },
+    {
+      "url": "https://support.staratlas.com/how-to-join-a-faction",
+      "anchor_text": "here"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47053488533907-How-to-Create-a-Character-in-Sage",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.374704Z"
+  }
+}

@@ -1,0 +1,655 @@
+{
+  "campaign": "Campaign Alpha — Aephia written corpus",
+  "completed_at": "2026-07-12T21:41:06.055512Z",
+  "urls_processed": 64,
+  "successes": 64,
+  "failures": 0,
+  "extraction_confidence": {
+    "HIGH": 63,
+    "MEDIUM": 1
+  },
+  "manual_review_count": 64,
+  "results": [
+    {
+      "url_id": "URL-0182787CF88DD0DA",
+      "url": "https://aephia.com/star-atlas/sly-assistant-tutorials-standalone-dashboards",
+      "status": "SUCCESS",
+      "source_id": "SRC-AEPHIA-0182787CF88DD0DA",
+      "confidence": "HIGH",
+      "manual_review": [
+        "Article was modified after publication; review temporal claims against later evidence."
+      ]
+    },
+    {
+      "url_id": "URL-0E6B828A341EFBCC",
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-237",
+      "status": "SUCCESS",
+      "source_id": "SRC-AEPHIA-0E6B828A341EFBCC",
+      "confidence": "HIGH",
+      "manual_review": [
+        "Article was modified after publication; review temporal claims against later evidence."
+      ]
+    },
+    {
+      "url_id": "URL-1285F1BCA85AB55F",
+      "url": "https://aephia.com/star-atlas/town-hall-report-august-27th-2025",
+      "status": "SUCCESS",
+      "source_id": "SRC-AEPHIA-1285F1BCA85AB55F",
+      "confidence": "HIGH",
+      "manual_review": [
+        "Article was modified after publication; review temporal claims against later evidence."
+      ]
+    },
+    {
+      "url_id": "URL-1376DD203D80515B",
+      "url": "https://aephia.com/star-atlas/town-hall-report-august-13th-2025",
+      "status": "SUCCESS",
+      "source_id": "SRC-AEPHIA-1376DD203D80515B",
+      "confidence": "HIGH",
+      "manual_review": [
+        "Article was modified after publication; review temporal claims against later evidence."
+      ]
+    },
+    {
+      "url_id": "URL-153009CF223029CA",
+      "url": "https://aephia.com/star-atlas/star-atlas-to-launch-sci-fi-adventure-podcast",
+      "status": "SUCCESS",
+      "source_id": "SRC-AEPHIA-153009CF223029CA",
+      "confidence": "HIGH",
+      "manual_review": [
+        "Article was modified after publication; review temporal claims against later evidence."
+      ]
+    },
+    {
+      "url_id": "URL-163F89C33E6E22D8",
+      "url": "https://aephia.com/star-atlas/star-atlas-the-road-ahead",
+      "status": "SUCCESS",
+      "source_id": "SRC-AEPHIA-163F89C33E6E22D8",
+      "confidence": "HIGH",
+      "manual_review": [
+        "Article was modified after publication; review temporal claims against later evidence."
+      ]
+    },
+    {
+      "url_id": "URL-19357309E964FAF8",
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-125",
+      "status": "SUCCESS",
+      "source_id": "SRC-AEPHIA-19357309E964FAF8",
+      "confidence": "HIGH",
+      "manual_review": [
+        "Article was modified after publication; review temporal claims against later evidence."
+      ]
+    },
+    {
+      "url_id": "URL-1B8D9ADE85DDA4A7",
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-135",
+      "status": "SUCCESS",
+      "source_id": "SRC-AEPHIA-1B8D9ADE85DDA4A7",
+      "confidence": "HIGH",
+      "manual_review": [
+        "Article was modified after publication; review temporal claims against later evidence."
+      ]
+    },
+    {
+      "url_id": "URL-1E28DBA8CF83CAD6",
+      "url": "https://aephia.com/star-atlas/aephia-industries-dark-core-roasters-enjoy-a-cup-of-aephian-pulse-drive",
+      "status": "SUCCESS",
+      "source_id": "SRC-AEPHIA-1E28DBA8CF83CAD6",
+      "confidence": "HIGH",
+      "manual_review": [
+        "Article was modified after publication; review temporal claims against later evidence."
+      ]
+    },
+    {
+      "url_id": "URL-1E8C7CB37BB16846",
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-215",
+      "status": "SUCCESS",
+      "source_id": "SRC-AEPHIA-1E8C7CB37BB16846",
+      "confidence": "HIGH",
+      "manual_review": [
+        "Article was modified after publication; review temporal claims against later evidence."
+      ]
+    },
+    {
+      "url_id": "URL-21D7FE432327A762",
+      "url": "https://aephia.com/star-atlas/star-atlas-score-guide-tier-0",
+      "status": "SUCCESS",
+      "source_id": "SRC-AEPHIA-21D7FE432327A762",
+      "confidence": "HIGH",
+      "manual_review": [
+        "Article was modified after publication; review temporal claims against later evidence."
+      ]
+    },
+    {
+      "url_id": "URL-25114B0F3A003B59",
+      "url": "https://aephia.com/star-atlas/looking-for-a-star-atlas-branded-pc",
+      "status": "SUCCESS",
+      "source_id": "SRC-AEPHIA-25114B0F3A003B59",
+      "confidence": "HIGH",
+      "manual_review": [
+        "Article was modified after publication; review temporal claims against later evidence."
+      ]
+    },
+    {
+      "url_id": "URL-26C039C7C9F3F4D3",
+      "url": "https://aephia.com/star-atlas/starbased-the-missing-manual-part-2",
+      "status": "SUCCESS",
+      "source_id": "SRC-AEPHIA-26C039C7C9F3F4D3",
+      "confidence": "HIGH",
+      "manual_review": [
+        "Article was modified after publication; review temporal claims against later evidence."
+      ]
+    },
+    {
+      "url_id": "URL-28C2189BA89947A5",
+      "url": "https://aephia.com/star-atlas/scream-everything-we-know-so-far",
+      "status": "SUCCESS",
+      "source_id": "SRC-AEPHIA-28C2189BA89947A5",
+      "confidence": "HIGH",
+      "manual_review": [
+        "Article was modified after publication; review temporal claims against later evidence."
+      ]
+    },
+    {
+      "url_id": "URL-29A1AF8C2ABBD4D0",
+      "url": "https://aephia.com/star-atlas/sage-escape-velocity-everything-we-know",
+      "status": "SUCCESS",
+      "source_id": "SRC-AEPHIA-29A1AF8C2ABBD4D0",
+      "confidence": "HIGH",
+      "manual_review": [
+        "Article was modified after publication; review temporal claims against later evidence."
+      ]
+    },
+    {
+      "url_id": "URL-2DCBA456ECF46687",
+      "url": "https://aephia.com/star-atlas/sage-labs-a-guide",
+      "status": "SUCCESS",
+      "source_id": "SRC-AEPHIA-2DCBA456ECF46687",
+      "confidence": "HIGH",
+      "manual_review": [
+        "Article was modified after publication; review temporal claims against later evidence."
+      ]
+    },
+    {
+      "url_id": "URL-301BD9698D7A4B00",
+      "url": "https://aephia.com/star-atlas/a-merry-christmas-star-atlas-writing-competition",
+      "status": "SUCCESS",
+      "source_id": "SRC-AEPHIA-301BD9698D7A4B00",
+      "confidence": "HIGH",
+      "manual_review": [
+        "Article was modified after publication; review temporal claims against later evidence."
+      ]
+    },
+    {
+      "url_id": "URL-315C24467B8185FA",
+      "url": "https://aephia.com/star-atlas/starpath-v2-everything-you-need-to-know",
+      "status": "SUCCESS",
+      "source_id": "SRC-AEPHIA-315C24467B8185FA",
+      "confidence": "HIGH",
+      "manual_review": [
+        "Article was modified after publication; review temporal claims against later evidence."
+      ]
+    },
+    {
+      "url_id": "URL-36B709EAEBEC133A",
+      "url": "https://aephia.com/star-atlas/guilds-in-star-atlas",
+      "status": "SUCCESS",
+      "source_id": "SRC-AEPHIA-36B709EAEBEC133A",
+      "confidence": "HIGH",
+      "manual_review": [
+        "Article was modified after publication; review temporal claims against later evidence."
+      ]
+    },
+    {
+      "url_id": "URL-37F7C131CFDF7327",
+      "url": "https://aephia.com/star-atlas/the-new-galactic-marketplace-is-live",
+      "status": "SUCCESS",
+      "source_id": "SRC-AEPHIA-37F7C131CFDF7327",
+      "confidence": "HIGH",
+      "manual_review": [
+        "Article was modified after publication; review temporal claims against later evidence."
+      ]
+    },
+    {
+      "url_id": "URL-3D3AC774A6A30EE3",
+      "url": "https://aephia.com/star-atlas/town-hall-report-february-27-2024",
+      "status": "SUCCESS",
+      "source_id": "SRC-AEPHIA-3D3AC774A6A30EE3",
+      "confidence": "HIGH",
+      "manual_review": [
+        "Article was modified after publication; review temporal claims against later evidence."
+      ]
+    },
+    {
+      "url_id": "URL-3D6BA2ECA269970E",
+      "url": "https://aephia.com/star-atlas/a-new-economic-paradigm",
+      "status": "SUCCESS",
+      "source_id": "SRC-AEPHIA-3D6BA2ECA269970E",
+      "confidence": "HIGH",
+      "manual_review": [
+        "Article was modified after publication; review temporal claims against later evidence."
+      ]
+    },
+    {
+      "url_id": "URL-40AB147755CEC24C",
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-160",
+      "status": "SUCCESS",
+      "source_id": "SRC-AEPHIA-40AB147755CEC24C",
+      "confidence": "HIGH",
+      "manual_review": [
+        "Article was modified after publication; review temporal claims against later evidence."
+      ]
+    },
+    {
+      "url_id": "URL-472542398C7633EF",
+      "url": "https://aephia.com/star-atlas/aephia-turns-one",
+      "status": "SUCCESS",
+      "source_id": "SRC-AEPHIA-472542398C7633EF",
+      "confidence": "HIGH",
+      "manual_review": [
+        "Article was modified after publication; review temporal claims against later evidence."
+      ]
+    },
+    {
+      "url_id": "URL-4DC76B91824F6FBE",
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-200",
+      "status": "SUCCESS",
+      "source_id": "SRC-AEPHIA-4DC76B91824F6FBE",
+      "confidence": "HIGH",
+      "manual_review": [
+        "Article was modified after publication; review temporal claims against later evidence."
+      ]
+    },
+    {
+      "url_id": "URL-4E975765B27B7037",
+      "url": "https://aephia.com/star-atlas/town-hall-report-december-18-2024",
+      "status": "SUCCESS",
+      "source_id": "SRC-AEPHIA-4E975765B27B7037",
+      "confidence": "HIGH",
+      "manual_review": [
+        "Article was modified after publication; review temporal claims against later evidence."
+      ]
+    },
+    {
+      "url_id": "URL-4F2E5E545A009A1A",
+      "url": "https://aephia.com/star-atlas/starbased-the-missing-manual-part-0",
+      "status": "SUCCESS",
+      "source_id": "SRC-AEPHIA-4F2E5E545A009A1A",
+      "confidence": "HIGH",
+      "manual_review": [
+        "Article was modified after publication; review temporal claims against later evidence."
+      ]
+    },
+    {
+      "url_id": "URL-59BCA3268E270948",
+      "url": "https://aephia.com/star-atlas/aephia-turns-three",
+      "status": "SUCCESS",
+      "source_id": "SRC-AEPHIA-59BCA3268E270948",
+      "confidence": "HIGH",
+      "manual_review": [
+        "Article was modified after publication; review temporal claims against later evidence."
+      ]
+    },
+    {
+      "url_id": "URL-5B4B789478303F4D",
+      "url": "https://aephia.com/star-atlas/town-hall-report-july-3-2024",
+      "status": "SUCCESS",
+      "source_id": "SRC-AEPHIA-5B4B789478303F4D",
+      "confidence": "HIGH",
+      "manual_review": [
+        "Article was modified after publication; review temporal claims against later evidence."
+      ]
+    },
+    {
+      "url_id": "URL-5C2FE785F79E8486",
+      "url": "https://aephia.com/star-atlas/ai-powered-npc-goes-missing-on-star-atlas-testnet-halting-mainnet-migration-plans",
+      "status": "SUCCESS",
+      "source_id": "SRC-AEPHIA-5C2FE785F79E8486",
+      "confidence": "HIGH",
+      "manual_review": [
+        "Article was modified after publication; review temporal claims against later evidence."
+      ]
+    },
+    {
+      "url_id": "URL-5D8E76D27A4B2F31",
+      "url": "https://aephia.com/star-atlas/crew-the-complete-guide",
+      "status": "SUCCESS",
+      "source_id": "SRC-AEPHIA-5D8E76D27A4B2F31",
+      "confidence": "HIGH",
+      "manual_review": [
+        "Article was modified after publication; review temporal claims against later evidence."
+      ]
+    },
+    {
+      "url_id": "URL-5E02C2A5C01B8E9B",
+      "url": "https://aephia.com/star-atlas/never-alone-stronger-together",
+      "status": "SUCCESS",
+      "source_id": "SRC-AEPHIA-5E02C2A5C01B8E9B",
+      "confidence": "HIGH",
+      "manual_review": [
+        "Article was modified after publication; review temporal claims against later evidence."
+      ]
+    },
+    {
+      "url_id": "URL-6243F420B4DB4B3B",
+      "url": "https://aephia.com/multi-faction-fears-addressed",
+      "status": "SUCCESS",
+      "source_id": "SRC-AEPHIA-6243F420B4DB4B3B",
+      "confidence": "HIGH",
+      "manual_review": [
+        "Article was modified after publication; review temporal claims against later evidence."
+      ]
+    },
+    {
+      "url_id": "URL-6F9E9DF170471192",
+      "url": "https://aephia.com/star-atlas/town-hall-report-july-30th-2025",
+      "status": "SUCCESS",
+      "source_id": "SRC-AEPHIA-6F9E9DF170471192",
+      "confidence": "HIGH",
+      "manual_review": [
+        "Article was modified after publication; review temporal claims against later evidence."
+      ]
+    },
+    {
+      "url_id": "URL-7901EECC244F24BA",
+      "url": "https://aephia.com/star-atlas/introducing-atlasbase-your-new-star-atlas-companion",
+      "status": "SUCCESS",
+      "source_id": "SRC-AEPHIA-7901EECC244F24BA",
+      "confidence": "HIGH",
+      "manual_review": [
+        "Article was modified after publication; review temporal claims against later evidence."
+      ]
+    },
+    {
+      "url_id": "URL-7C3B1DCFC1E6EB81",
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-161",
+      "status": "SUCCESS",
+      "source_id": "SRC-AEPHIA-7C3B1DCFC1E6EB81",
+      "confidence": "HIGH",
+      "manual_review": [
+        "Article was modified after publication; review temporal claims against later evidence."
+      ]
+    },
+    {
+      "url_id": "URL-7D4D347AFA23986A",
+      "url": "https://aephia.com/star-atlas/sage-infrastructure-contracts",
+      "status": "SUCCESS",
+      "source_id": "SRC-AEPHIA-7D4D347AFA23986A",
+      "confidence": "HIGH",
+      "manual_review": [
+        "Article was modified after publication; review temporal claims against later evidence."
+      ]
+    },
+    {
+      "url_id": "URL-7F056F1D6F601178",
+      "url": "https://aephia.com/star-atlas/town-hall-report-december-17th-2025",
+      "status": "SUCCESS",
+      "source_id": "SRC-AEPHIA-7F056F1D6F601178",
+      "confidence": "HIGH",
+      "manual_review": [
+        "Article was modified after publication; review temporal claims against later evidence."
+      ]
+    },
+    {
+      "url_id": "URL-7F86B3D4F7F0674A",
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-152",
+      "status": "SUCCESS",
+      "source_id": "SRC-AEPHIA-7F86B3D4F7F0674A",
+      "confidence": "HIGH",
+      "manual_review": [
+        "Article was modified after publication; review temporal claims against later evidence."
+      ]
+    },
+    {
+      "url_id": "URL-819AA42574D05702",
+      "url": "https://aephia.com/star-atlas/twelve-stories-of-peace-in-the-galia-expanse",
+      "status": "SUCCESS",
+      "source_id": "SRC-AEPHIA-819AA42574D05702",
+      "confidence": "HIGH",
+      "manual_review": [
+        "Article was modified after publication; review temporal claims against later evidence."
+      ]
+    },
+    {
+      "url_id": "URL-8FED5DD2B7B17801",
+      "url": "https://aephia.com/star-atlas/announcing-our-campaign-stronger-together",
+      "status": "SUCCESS",
+      "source_id": "SRC-AEPHIA-8FED5DD2B7B17801",
+      "confidence": "HIGH",
+      "manual_review": [
+        "Article was modified after publication; review temporal claims against later evidence."
+      ]
+    },
+    {
+      "url_id": "URL-9280ABA6A076E109",
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-212",
+      "status": "SUCCESS",
+      "source_id": "SRC-AEPHIA-9280ABA6A076E109",
+      "confidence": "HIGH",
+      "manual_review": [
+        "Article was modified after publication; review temporal claims against later evidence."
+      ]
+    },
+    {
+      "url_id": "URL-9625CEC37184A8ED",
+      "url": "https://aephia.com/star-atlas/polis-staking-is-here",
+      "status": "SUCCESS",
+      "source_id": "SRC-AEPHIA-9625CEC37184A8ED",
+      "confidence": "HIGH",
+      "manual_review": [
+        "Article was modified after publication; review temporal claims against later evidence."
+      ]
+    },
+    {
+      "url_id": "URL-96934D33FE073806",
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-229",
+      "status": "SUCCESS",
+      "source_id": "SRC-AEPHIA-96934D33FE073806",
+      "confidence": "HIGH",
+      "manual_review": [
+        "Article was modified after publication; review temporal claims against later evidence."
+      ]
+    },
+    {
+      "url_id": "URL-9C9111E9C5A0D4E5",
+      "url": "https://aephia.com/star-atlas/sage-local-markets",
+      "status": "SUCCESS",
+      "source_id": "SRC-AEPHIA-9C9111E9C5A0D4E5",
+      "confidence": "HIGH",
+      "manual_review": [
+        "Article was modified after publication; review temporal claims against later evidence."
+      ]
+    },
+    {
+      "url_id": "URL-A24F426C397362EE",
+      "url": "https://aephia.com/star-atlas/star-atlas-launches-referral-program",
+      "status": "SUCCESS",
+      "source_id": "SRC-AEPHIA-A24F426C397362EE",
+      "confidence": "HIGH",
+      "manual_review": [
+        "Article was modified after publication; review temporal claims against later evidence."
+      ]
+    },
+    {
+      "url_id": "URL-A26222BF7C6B58DA",
+      "url": "https://aephia.com/star-atlas/holosim-guide",
+      "status": "SUCCESS",
+      "source_id": "SRC-AEPHIA-A26222BF7C6B58DA",
+      "confidence": "HIGH",
+      "manual_review": [
+        "Article was modified after publication; review temporal claims against later evidence."
+      ]
+    },
+    {
+      "url_id": "URL-A9A7DC7C1D1E800F",
+      "url": "https://aephia.com/star-atlas/aephia-turns-four",
+      "status": "SUCCESS",
+      "source_id": "SRC-AEPHIA-A9A7DC7C1D1E800F",
+      "confidence": "HIGH",
+      "manual_review": [
+        "Article was modified after publication; review temporal claims against later evidence."
+      ]
+    },
+    {
+      "url_id": "URL-AC707FB06D23E452",
+      "url": "https://aephia.com/star-atlas/introducing-astralpass",
+      "status": "SUCCESS",
+      "source_id": "SRC-AEPHIA-AC707FB06D23E452",
+      "confidence": "HIGH",
+      "manual_review": [
+        "Article was modified after publication; review temporal claims against later evidence."
+      ]
+    },
+    {
+      "url_id": "URL-AFD2E656D0ACCDC2",
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-154",
+      "status": "SUCCESS",
+      "source_id": "SRC-AEPHIA-AFD2E656D0ACCDC2",
+      "confidence": "HIGH",
+      "manual_review": [
+        "Article was modified after publication; review temporal claims against later evidence."
+      ]
+    },
+    {
+      "url_id": "URL-B1EA878B04AC7051",
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-214",
+      "status": "SUCCESS",
+      "source_id": "SRC-AEPHIA-B1EA878B04AC7051",
+      "confidence": "HIGH",
+      "manual_review": [
+        "Article was modified after publication; review temporal claims against later evidence."
+      ]
+    },
+    {
+      "url_id": "URL-BD6619ECEB5226A2",
+      "url": "https://aephia.com/star-atlas/z-ink-everything-you-should-know",
+      "status": "SUCCESS",
+      "source_id": "SRC-AEPHIA-BD6619ECEB5226A2",
+      "confidence": "HIGH",
+      "manual_review": [
+        "Article was modified after publication; review temporal claims against later evidence."
+      ]
+    },
+    {
+      "url_id": "URL-BF39BD68F68A5FB2",
+      "url": "https://aephia.com/star-atlas/starbased-the-missing-manual",
+      "status": "SUCCESS",
+      "source_id": "SRC-AEPHIA-BF39BD68F68A5FB2",
+      "confidence": "HIGH",
+      "manual_review": [
+        "Article was modified after publication; review temporal claims against later evidence."
+      ]
+    },
+    {
+      "url_id": "URL-C9AE050CD9C1886D",
+      "url": "https://aephia.com/star-atlas/star-atlas-2024-in-review",
+      "status": "SUCCESS",
+      "source_id": "SRC-AEPHIA-C9AE050CD9C1886D",
+      "confidence": "HIGH",
+      "manual_review": [
+        "Article was modified after publication; review temporal claims against later evidence."
+      ]
+    },
+    {
+      "url_id": "URL-D4DB7DADD2DD42EE",
+      "url": "https://aephia.com/star-atlas/426love",
+      "status": "SUCCESS",
+      "source_id": "SRC-AEPHIA-D4DB7DADD2DD42EE",
+      "confidence": "HIGH",
+      "manual_review": [
+        "Article was modified after publication; review temporal claims against later evidence."
+      ]
+    },
+    {
+      "url_id": "URL-D545849AC2023AEA",
+      "url": "https://aephia.com/star-atlas/star-atlas-aephia-looking-ahead-to-2026",
+      "status": "SUCCESS",
+      "source_id": "SRC-AEPHIA-D545849AC2023AEA",
+      "confidence": "HIGH",
+      "manual_review": [
+        "Article was modified after publication; review temporal claims against later evidence."
+      ]
+    },
+    {
+      "url_id": "URL-DC4D72F8C3AD0404",
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-211",
+      "status": "SUCCESS",
+      "source_id": "SRC-AEPHIA-DC4D72F8C3AD0404",
+      "confidence": "HIGH",
+      "manual_review": [
+        "Article was modified after publication; review temporal claims against later evidence."
+      ]
+    },
+    {
+      "url_id": "URL-E86AC143F77777F0",
+      "url": "https://aephia.com/star-atlas/factions-how-to-choose",
+      "status": "SUCCESS",
+      "source_id": "SRC-AEPHIA-E86AC143F77777F0",
+      "confidence": "HIGH",
+      "manual_review": [
+        "Article was modified after publication; review temporal claims against later evidence."
+      ]
+    },
+    {
+      "url_id": "URL-EA6FB7128A891183",
+      "url": "https://aephia.com/star-atlas-ship-firepower",
+      "status": "SUCCESS",
+      "source_id": "SRC-AEPHIA-EA6FB7128A891183",
+      "confidence": "HIGH",
+      "manual_review": [
+        "Article was modified after publication; review temporal claims against later evidence."
+      ]
+    },
+    {
+      "url_id": "URL-EE24DA7F173A4110",
+      "url": "https://aephia.com/star-atlas/help-how-to-get-toolkits",
+      "status": "SUCCESS",
+      "source_id": "SRC-AEPHIA-EE24DA7F173A4110",
+      "confidence": "HIGH",
+      "manual_review": [
+        "Article was modified after publication; review temporal claims against later evidence."
+      ]
+    },
+    {
+      "url_id": "URL-F749E3A20669A520",
+      "url": "https://aephia.com/star-atlas/leaked-footage-of-the-fimbul-airbike",
+      "status": "SUCCESS",
+      "source_id": "SRC-AEPHIA-F749E3A20669A520",
+      "confidence": "MEDIUM",
+      "manual_review": [
+        "Short or weakly dated extraction requires completeness review.",
+        "Article was modified after publication; review temporal claims against later evidence."
+      ]
+    },
+    {
+      "url_id": "URL-F862B4F16C6589D0",
+      "url": "https://aephia.com/star-atlas/aephia-x-galia-merchants-official-shirts-now-live",
+      "status": "SUCCESS",
+      "source_id": "SRC-AEPHIA-F862B4F16C6589D0",
+      "confidence": "HIGH",
+      "manual_review": [
+        "Article was modified after publication; review temporal claims against later evidence."
+      ]
+    },
+    {
+      "url_id": "URL-F99489EFB21C0054",
+      "url": "https://aephia.com/star-atlas/town-hall-report-june-4-2025",
+      "status": "SUCCESS",
+      "source_id": "SRC-AEPHIA-F99489EFB21C0054",
+      "confidence": "HIGH",
+      "manual_review": [
+        "Article was modified after publication; review temporal claims against later evidence."
+      ]
+    },
+    {
+      "url_id": "URL-FE309044975AE57C",
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-195",
+      "status": "SUCCESS",
+      "source_id": "SRC-AEPHIA-FE309044975AE57C",
+      "confidence": "HIGH",
+      "manual_review": [
+        "Article was modified after publication; review temporal claims against later evidence."
+      ]
+    }
+  ]
+}

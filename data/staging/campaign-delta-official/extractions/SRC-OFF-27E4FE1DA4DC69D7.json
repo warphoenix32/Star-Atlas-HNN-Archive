@@ -1,0 +1,172 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-27E4FE1DA4DC69D7",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47061486331795-How-do-I-claim-rewards",
+    "title": "How do I claim rewards?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-03T17:02:07Z",
+    "updated_at": "2025-12-08T18:23:14Z",
+    "original_date_text": "2025-12-03T17:02:07Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://play.staratlas.com",
+        "anchor_text": "play.staratlas.com"
+      },
+      {
+        "url": "https://play.staratlas.com/claims/",
+        "anchor_text": "Faction Claims"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “How do I claim rewards?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "If you’ve enlisted your Claim Stakes in Faction Claims, you can periodically claim your earned R4 resources (Fuel, Food, Ammunition, and Toolkits) directly on the platform.\n💡 Make sure you have a small amount of SOL in your wallet to cover transaction fees before claiming.\nGo to play.staratlas.com and connect your wallet.\nClick on the “Faction Claims” tab in the navigation menu.\nIn the “Faction Claims” section, find your enlisted Claim Stakes.\nClick “Claim All” under each resource type to collect available rewards.\nApprove the transaction in your wallet.\nOnce the transaction is confirmed, the rewards will be sent directly to your wallet.",
+  "content_hash": "48f1e296983ac848e38a4f9ca243415139175c1a6ee68de6dd16e6421ea253aa",
+  "entities": [
+    "Claim Stakes"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-27E4FE1DA4DC69D7-01",
+      "text": "If you’ve enlisted your Claim Stakes in Faction Claims, you can periodically claim your earned R4 resources (Fuel, Food, Ammunition, and Toolkits) directly on the platform.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-27E4FE1DA4DC69D7",
+      "publication_date": "2025-12-03T17:02:07Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-27E4FE1DA4DC69D7-02",
+      "text": "💡 Make sure you have a small amount of SOL in your wallet to cover transaction fees before claiming.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-27E4FE1DA4DC69D7",
+      "publication_date": "2025-12-03T17:02:07Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-27E4FE1DA4DC69D7-03",
+      "text": "Go to play.staratlas.com and connect your wallet.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-27E4FE1DA4DC69D7",
+      "publication_date": "2025-12-03T17:02:07Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-27E4FE1DA4DC69D7-04",
+      "text": "Click on the “Faction Claims” tab in the navigation menu.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-27E4FE1DA4DC69D7",
+      "publication_date": "2025-12-03T17:02:07Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-27E4FE1DA4DC69D7-05",
+      "text": "In the “Faction Claims” section, find your enlisted Claim Stakes.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-27E4FE1DA4DC69D7",
+      "publication_date": "2025-12-03T17:02:07Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-27E4FE1DA4DC69D7-06",
+      "text": "Click “Claim All” under each resource type to collect available rewards.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-27E4FE1DA4DC69D7",
+      "publication_date": "2025-12-03T17:02:07Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-27E4FE1DA4DC69D7-07",
+      "text": "Once the transaction is confirmed, the rewards will be sent directly to your wallet.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-27E4FE1DA4DC69D7",
+      "publication_date": "2025-12-03T17:02:07Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Claim Stakes"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://play.staratlas.com",
+      "anchor_text": "play.staratlas.com"
+    },
+    {
+      "url": "https://play.staratlas.com/claims/",
+      "anchor_text": "Faction Claims"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://play.staratlas.com",
+      "anchor_text": "play.staratlas.com"
+    },
+    {
+      "url": "https://play.staratlas.com/claims/",
+      "anchor_text": "Faction Claims"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47061486331795-How-do-I-claim-rewards",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.151293Z"
+  }
+}

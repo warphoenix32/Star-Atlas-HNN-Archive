@@ -1,0 +1,190 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-5DE1FDD0B561C11E",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47210139556115-How-do-I-import-my-UE5-wallet-into-Backpack",
+    "title": "How do I import my UE5 wallet into Backpack?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-08T20:25:35Z",
+    "updated_at": "2025-12-08T21:22:04Z",
+    "original_date_text": "2025-12-08T20:25:35Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://backpack.app/download",
+        "anchor_text": "Download Backpack Wallet"
+      },
+      {
+        "url": "https://phantom.com/",
+        "anchor_text": ""
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “How do I import my UE5 wallet into Backpack?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "⚠️ Security Reminder: Never share your seed/recovery phrase or private key with anyone. The Star Atlas team will never ask for it under any circumstance.\nIf you created a wallet inside the Showroom and want to use it in Backpack (or any other Solana wallet), you can do so by importing your 24-word recovery phrase. This guide uses Backpack Wallet as the example.\nStep-by-Step Guide\n1. Download Backpack Wallet\nBackpack is available as a browser extension for Chrome, Brave, Firefox, and Edge.Download Backpack Wallet\n2. Open Backpack and Choose Import\nLaunch the Backpack extension.\nClick “I already have a wallet.”\nSelect the Solana Chain\nSelect \"Recovery Phrase\"\n3. Enter Your Recovery Phrase\nEnter the 24-word phrase that was provided to you when you created your UE5 Star Altas wallet.\nAfter entering your phrase, Backpack will search for any associated accounts\nClick \"Continue\" and create a password",
+  "content_hash": "76218861c2f1b06d4074dffa9f0768debf662cc65eb37c731b7054406f5c45c0",
+  "entities": [
+    "ATLAS",
+    "Showroom",
+    "Solana"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-5DE1FDD0B561C11E-01",
+      "text": "⚠️ Security Reminder: Never share your seed/recovery phrase or private key with anyone.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-5DE1FDD0B561C11E",
+      "publication_date": "2025-12-08T20:25:35Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-5DE1FDD0B561C11E-02",
+      "text": "The Star Atlas team will never ask for it under any circumstance.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-5DE1FDD0B561C11E",
+      "publication_date": "2025-12-08T20:25:35Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-5DE1FDD0B561C11E-03",
+      "text": "If you created a wallet inside the Showroom and want to use it in Backpack (or any other Solana wallet), you can do so by importing your 24-word recovery phrase.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-5DE1FDD0B561C11E",
+      "publication_date": "2025-12-08T20:25:35Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-5DE1FDD0B561C11E-04",
+      "text": "This guide uses Backpack Wallet as the example.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-5DE1FDD0B561C11E",
+      "publication_date": "2025-12-08T20:25:35Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-5DE1FDD0B561C11E-05",
+      "text": "Download Backpack Wallet Backpack is available as a browser extension for Chrome, Brave, Firefox, and Edge.Download Backpack Wallet 2.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-5DE1FDD0B561C11E",
+      "publication_date": "2025-12-08T20:25:35Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-5DE1FDD0B561C11E-06",
+      "text": "Open Backpack and Choose Import Launch the Backpack extension.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-5DE1FDD0B561C11E",
+      "publication_date": "2025-12-08T20:25:35Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-5DE1FDD0B561C11E-07",
+      "text": "Click “I already have a wallet.” Select the Solana Chain Select \"Recovery Phrase\" 3.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-5DE1FDD0B561C11E",
+      "publication_date": "2025-12-08T20:25:35Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-5DE1FDD0B561C11E-08",
+      "text": "Enter Your Recovery Phrase Enter the 24-word phrase that was provided to you when you created your UE5 Star Altas wallet.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-5DE1FDD0B561C11E",
+      "publication_date": "2025-12-08T20:25:35Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-5DE1FDD0B561C11E-09",
+      "text": "After entering your phrase, Backpack will search for any associated accounts Click \"Continue\" and create a password",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-5DE1FDD0B561C11E",
+      "publication_date": "2025-12-08T20:25:35Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Showroom",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [
+    "Solana"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://backpack.app/download",
+      "anchor_text": "Download Backpack Wallet"
+    },
+    {
+      "url": "https://phantom.com/",
+      "anchor_text": ""
+    }
+  ],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47210139556115-How-do-I-import-my-UE5-wallet-into-Backpack",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.123562Z"
+  }
+}

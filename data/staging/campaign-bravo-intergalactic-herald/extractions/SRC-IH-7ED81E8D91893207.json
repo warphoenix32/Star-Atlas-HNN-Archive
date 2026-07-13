@@ -1,0 +1,180 @@
+{
+  "source": {
+    "source_id": "SRC-IH-7ED81E8D91893207",
+    "url_id": "URL-7ED81E8D91893207",
+    "url": "https://intergalacticherald.com/star-atlas-recap/recap-23-star-atlas-monthly-builder-hour-july-2025-edition/",
+    "inventory_url": "https://intergalacticherald.com/star-atlas-recap/recap-23-star-atlas-monthly-builder-hour-july-2025-edition",
+    "title": "Recap 23: Star Atlas Monthly Builder Hour – July 2025 Edition",
+    "author": "Intergalactic Herald",
+    "publisher": "Intergalactic Herald",
+    "published_at": "2025-07-24T21:00:00",
+    "updated_at": "2025-07-25T19:55:09",
+    "retrieved_at": "2026-07-12T22:05:24.590852Z",
+    "document_type": "EVENT_RECAP",
+    "source_role": "CURATED_SUMMARY",
+    "source_classification": "CURATED_SUMMARY",
+    "classification_rationale": "Event recap summarizes an externally originated event, broadcast, or discussion.",
+    "wordpress_type": "posts"
+  },
+  "summary": {
+    "neutral_abstract": "In this episode, hear an AI summary of the latest Star Atlas community event. Full video recordings can be found on the YouTube channel of Star Atlas TV at https://www.youtube.com/@staratlastv. I am launching a Star Atlas merch store. Please check it out at Intergalactic Gear. I am also creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic",
+    "historical_value": "Contemporary Intergalactic Herald publication preserved with role and attribution boundaries.",
+    "current_validity_warning": "Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources."
+  },
+  "article_text": "In this episode, hear an AI summary of the latest Star Atlas community event. Full video recordings can be found on the YouTube channel of Star Atlas TV at https://www.youtube.com/@staratlastv.\nAlso, check out my newsletter and podcast.\nListen on Apple Podcasts\nListen on Spotify\nI am launching a Star Atlas merch store. Please check it out at Intergalactic Gear.\nI am also creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic Coalition.\nIf you would like to support my efforts, donations can be sent to intergalacticherald.sol\nPodcast Transcript\nThe “Star Atlas Monthly Builder Hour” video transcript outlines various updates and initiatives within the Star Atlas ecosystem, serving as a dedicated forum for individuals and teams actively developing within the platform to synchronize efforts, pose questions, and request necessary support from the core team.\nA significant development highlighted is a $500 USDC bounty posted by Brian, seeking a script or program capable of directly sending crew members from Tensor to Sage. This initiative aims to alleviate the cumbersome process of transferring large quantities of crew, which currently requires an “insane amount of clicks” when using a Ledger, making it particularly useful for “big players” or “whales” in Sage and offering potential for future monetization for the developer. While an existing script helps transfer from one profile to another or from their UI to Sage, the specific need is for transfers originating from Tensor.\nAnother key update involves the opening of a Discord API, which allows developers to pull Discord messages from team members. This API has already been leveraged by community members like funracker and intergalactic hair to build tools such as a team tracker on atlaspace.io, enabling users to filter messages by specific channels or team members. Additionally, a meetup tracker for Star Atlas that provides location pins and event details has been developed using this API, showcasing its utility for community engagement.\nLooking ahead, the upcoming Community Week will offer “commercial blocks” for community members to showcase their projects. Builders are highly encouraged to submit short videos, up to two minutes in length, to gain significant exposure within the Star Atlas community and attract new members, especially as the event is expected to generate high engagement due to the collection of “golden tickets”. This initiative aligns with the broader marketing strategy to highlight Star Atlas as a vibrant ecosystem with active builders, rather than just a game, a perception that often surprises external audiences. Dom, who recently transitioned from the community team to marketing manager, will be aligning with these marketing efforts to showcase community contributions.\nFurthermore, Lordo shared progress on a community-run API service, dubbed a “Rogue data hub,” through a Proposal Improvement Proposal (PIP). This service aims to provide developers with easier access to on-chain Star Atlas data without needing to decode every program or transaction. The proposal is currently seeking budget and additional funding from the DAO to establish the base structure and provide bounties, initially ranging from $100 to $200, for indexing 20 different programs, with potential monthly bonuses for ongoing maintenance. While the system currently uses regular RPC calls, a future transition to gRPC for higher performance is envisioned once revenue streams are established. This effort also aligns with the infra team’s initiative to make data more broadly available via Galaxy, especially as third-party data dashboards like Flipside are shutting down, which would significantly reduce RPC usage and speed up data retrieval for developers.\nRegarding game updates, a “huge update” to the build documentation is expected after C4 (the next major release) due to anticipated program changes. However, the Public Test Realm (PTR) for C4 is expected to feature a data and program structure similar, if not identical, to the live version, providing developers with ample time to adapt their tools and programs. The discussion also touched upon the possibility of new APIs for UE5 game data, such as match wins, though this depends on the U5 team’s prioritization after their next update and potential integration with Epic online services.\nIn other community news, a Galia Merchants t-shirt contest is being leveraged to drive traffic during Community Week by extending the submission deadline and offering community carnival tickets as prizes. The team is also actively exploring a referral program, a highly requested feature, by engaging with various partners. Several “dope” commercial videos have already been submitted for Community Week, including those from Polaris and Atom, which are described as having “retro vibes” and being “super hypy”. The host concluded by committing to follow up on several action items, including confirming community tickets for Galia Merchants, checking with the infra team about data availability via Galaxy, and exploring the open-sourcing of an internal tool used for filtering Star Atlas program interactions. The final Joanie voting form for COPA finalists is also expected to be released soon.",
+  "content_hash": "59f521dc77bc131faa90c2d203cb76b80f2b2dd48068b7a52b0ee69a623271dc",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [],
+  "external_sources": [
+    {
+      "url": "https://www.youtube.com/@staratlastv",
+      "anchor_text": "https://www.youtube.com/@staratlastv"
+    },
+    {
+      "url": "https://podcasts.apple.com/us/podcast/star-atlas-week-in-review-podcast/id1678661043",
+      "anchor_text": "Listen on Apple Podcasts"
+    },
+    {
+      "url": "https://open.spotify.com/show/0aHDjCqFpy8Lzrkilv8n16",
+      "anchor_text": "Listen on Spotify"
+    },
+    {
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    }
+  ],
+  "primary_source_relationships": [
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/@staratlastv",
+      "anchor_text": "https://www.youtube.com/@staratlastv"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://podcasts.apple.com/us/podcast/star-atlas-week-in-review-podcast/id1678661043",
+      "anchor_text": "Listen on Apple Podcasts"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://open.spotify.com/show/0aHDjCqFpy8Lzrkilv8n16",
+      "anchor_text": "Listen on Spotify"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    }
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Verify which outbound links are primary sources and preserve creator attribution during promotion.",
+      "Source lineage: attribution requires manual confirmation."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=recap-23-star-atlas-monthly-builder-hour-july-2025-edition&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 9856,
+    "elapsed_ms": 4507,
+    "attempts": [
+      {
+        "endpoint": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=recap-23-star-atlas-monthly-builder-hour-july-2025-edition&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "http_status": 200,
+        "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=recap-23-star-atlas-monthly-builder-hour-july-2025-edition&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "content_type": "application/json; charset=UTF-8",
+        "response_size": 9856,
+        "elapsed_ms": 4507
+      }
+    ]
+  },
+  "source_lineage": {
+    "publication": "Intergalactic Herald",
+    "publication_role": "CURATED_SUMMARY",
+    "relationship": "CURATED_SUMMARY_OF",
+    "primary_sources": [
+      {
+        "publication": "Star Atlas Monthly Builder Hour",
+        "author": "UNKNOWN",
+        "url": "UNKNOWN",
+        "organization": "Star Atlas",
+        "evidence": "Explicitly named in publication title"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "publication": "@Staratlastv",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/@staratlastv",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Listen on Apple Podcasts",
+        "author": "UNKNOWN",
+        "url": "https://podcasts.apple.com/us/podcast/star-atlas-week-in-review-podcast/id1678661043",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Listen on Spotify",
+        "author": "UNKNOWN",
+        "url": "https://open.spotify.com/show/0aHDjCqFpy8Lzrkilv8n16",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Intergalactic Gear",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticgear.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Intergalactic Coalition",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticcoalition.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Star Atlas Monthly Builder Hour",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "UNKNOWN"
+      }
+    ],
+    "lineage_confidence": "MEDIUM"
+  }
+}

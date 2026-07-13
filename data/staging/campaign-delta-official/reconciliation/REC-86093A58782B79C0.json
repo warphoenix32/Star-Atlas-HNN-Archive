@@ -1,0 +1,14 @@
+{
+  "topic": "and, claims, fees, marketplace, polis, record, remain, the",
+  "official_source_ids": [
+    "SRC-OFF-B38AFD8A2122994F"
+  ],
+  "community_source_ids": [
+    "SRC-HNN-78C569032095B831"
+  ],
+  "relationship": "OFFICIAL_SUPERSEDES_OLDER_GUIDE",
+  "finding": "Automated topic overlap on: and, claims, fees, marketplace, polis, record, remain, the, this, time. Official authority is limited to the official wording; community context remains separately attributed.",
+  "confidence": "MEDIUM",
+  "promotion_candidate": false,
+  "manual_review_required": true
+}

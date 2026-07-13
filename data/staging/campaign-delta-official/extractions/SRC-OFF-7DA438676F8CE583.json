@@ -1,0 +1,169 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-7DA438676F8CE583",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47021308545171-Why-do-I-need-SOL-to-lock-tokens",
+    "title": "Why do I need SOL to lock tokens?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-02T15:04:03Z",
+    "updated_at": "2025-12-08T18:24:21Z",
+    "original_date_text": "2025-12-02T15:04:03Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://docs.solanalabs.com/implemented-proposals/ed_overview/ed_storage_rent_economics",
+        "anchor_text": "Storage Rent Economics (Solana Documentation)"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “Why do I need SOL to lock tokens?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "To perform any transaction on the Solana blockchain including locking ATLAS or POLIS, you’ll need a small amount of SOL to cover network fees and data storage.\nSolana uses a fee-based model where:\nTransaction Fees: Paid in SOL to compensate validators for processing transactions. These are extremely low (typically less than $0.01).\nAccount Storage: When you create a new account (such as for a locker or rewards program), it must be funded with enough SOL to make it rent-exempt preventing it from being deleted due to inactivity.\nHow Much SOL Do I Need?\nThe exact amount depends on how long you lock your tokens and which program you’re using.\nHere are some examples:\nAction\nEstimated SOL Cost\nLocking POLIS for 5 years\n~0.133 SOL (for 8 × 256-day \"eras\")\nAdding 1 more era to a POLIS lock\n~0.015 SOL\nCompounding POLIS rewards\nOnly the basic transaction fee (no extra rent)\n🔔 Note: The POLIS voting snapshot system stores your lock data permanently, so rent for those accounts is not refunded, unlike with some other programs.\n📌 TL;DR\nAlways keep a small SOL balance in your wallet when using locking systems or claiming rewards in the Star Atlas ecosystem, especially for longer-term locks like POLIS Voting Power (PVP).\nStorage Rent Economics (Solana Documentation)",
+  "content_hash": "d239452e3609dad91ca9924e06c15ae6c340a97397ba7b81b8f2505cd901bf7f",
+  "entities": [
+    "ATLAS",
+    "POLIS",
+    "Solana"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-7DA438676F8CE583-01",
+      "text": "To perform any transaction on the Solana blockchain including locking ATLAS or POLIS, you’ll need a small amount of SOL to cover network fees and data storage.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-7DA438676F8CE583",
+      "publication_date": "2025-12-02T15:04:03Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-7DA438676F8CE583-02",
+      "text": "Solana uses a fee-based model where: Transaction Fees: Paid in SOL to compensate validators for processing transactions.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-7DA438676F8CE583",
+      "publication_date": "2025-12-02T15:04:03Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-7DA438676F8CE583-03",
+      "text": "These are extremely low (typically less than $0.01).",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-7DA438676F8CE583",
+      "publication_date": "2025-12-02T15:04:03Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-7DA438676F8CE583-04",
+      "text": "Account Storage: When you create a new account (such as for a locker or rewards program), it must be funded with enough SOL to make it rent-exempt preventing it from being deleted due to inactivity.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-7DA438676F8CE583",
+      "publication_date": "2025-12-02T15:04:03Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-7DA438676F8CE583-05",
+      "text": "The exact amount depends on how long you lock your tokens and which program you’re using.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-7DA438676F8CE583",
+      "publication_date": "2025-12-02T15:04:03Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-7DA438676F8CE583-06",
+      "text": "Here are some examples: Action Estimated SOL Cost Locking POLIS for 5 years ~0.133 SOL (for 8 × 256-day \"eras\") Adding 1 more era to a POLIS lock ~0.015 SOL Compounding POLIS rewards Only the basic transaction fee (no extra rent) 🔔 Note: The POLIS voting snapshot system stores your lock data permanently, so rent for those accounts is not refunded, unlike with some other programs.",
+      "claim_type": "ESTIMATED_DATE",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-7DA438676F8CE583",
+      "publication_date": "2025-12-02T15:04:03Z",
+      "confidence": "MEDIUM",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-7DA438676F8CE583-07",
+      "text": "📌 TL;DR Always keep a small SOL balance in your wallet when using locking systems or claiming rewards in the Star Atlas ecosystem, especially for longer-term locks like POLIS Voting Power (PVP).",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-7DA438676F8CE583",
+      "publication_date": "2025-12-02T15:04:03Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-7DA438676F8CE583-08",
+      "text": "Storage Rent Economics (Solana Documentation)",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-7DA438676F8CE583",
+      "publication_date": "2025-12-02T15:04:03Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "POLIS",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [
+    "Solana"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://docs.solanalabs.com/implemented-proposals/ed_overview/ed_storage_rent_economics",
+      "anchor_text": "Storage Rent Economics (Solana Documentation)"
+    }
+  ],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47021308545171-Why-do-I-need-SOL-to-lock-tokens",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.310855Z"
+  }
+}

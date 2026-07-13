@@ -1,0 +1,274 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-C6773EB8AD8C3A16",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47053533098387-How-to-start-playing-SAGE",
+    "title": "How to start playing SAGE?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-03T13:17:01Z",
+    "updated_at": "2025-12-08T18:24:27Z",
+    "original_date_text": "2025-12-03T13:17:01Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://phantom.com/",
+        "anchor_text": "Phantom"
+      },
+      {
+        "url": "https://www.solflare.com/",
+        "anchor_text": "Solflare"
+      },
+      {
+        "url": "https://play.staratlas.com",
+        "anchor_text": "play.staratlas.com"
+      },
+      {
+        "url": "https://jup.ag",
+        "anchor_text": "Jupiter"
+      },
+      {
+        "url": "https://play.staratlas.com/market",
+        "anchor_text": "Star Atlas Marketplace"
+      },
+      {
+        "url": "https://based.staratlas.com/",
+        "anchor_text": "based.staratlas.com"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “How to start playing SAGE?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Get ready to explore, mine, and craft your way through the Star Atlas universe all on-chain.\nSAGE Labs is a browser-based strategy game powered by the Solana blockchain. To get started, here’s everything you need to do:\n1. Create and Fund a Solana Wallet\nYou’ll need a wallet that supports Solana, like Phantom or Solflare.\nFund it with some SOL to pay for transaction fees\n2. Get Some ATLAS\nATLAS is the in-game currency used to buy ships, crew, and resources. You can:\nBuy ATLAS with your credit card using Topper on play.staratlas.com\nOr swap SOL or USDC for ATLAS on a DEX like Jupiter\n3. Buy a Ship, Crew & Resources\nTo start playing, you’ll need:\nA ship\nAt least one Crew Member\nSome R4 resources (Fuel, Food, Ammo, Toolkits)\nYou can buy everything from the Star Atlas Marketplace\n4. Go to SAGE Labs Starbased\nHead over to based.staratlas.com\n5. Connect Your Wallet & Enable ATLAS Fee Payer\nOnce inside Starbased:\nClick Connect Wallet and approve the connection\nEnable the ATLAS Fee Payer (this lets the system cover transaction fees in ATLAS instead of SOL)\n6. Create Your Character\nBegin the character creation process by clicking \"Start Creating a Character\".\nChoose your faction (ONI, Ustur, or MUD) and assign a unique name to your character.",
+  "content_hash": "5724cfaf072f701c30736cf71832691b922e80158006f8ac750545d6bc1814bc",
+  "entities": [
+    "ATLAS",
+    "Crew",
+    "SAGE",
+    "SAGE Labs",
+    "Solana"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-C6773EB8AD8C3A16-01",
+      "text": "Get ready to explore, mine, and craft your way through the Star Atlas universe all on-chain.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-C6773EB8AD8C3A16",
+      "publication_date": "2025-12-03T13:17:01Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-C6773EB8AD8C3A16-02",
+      "text": "SAGE Labs is a browser-based strategy game powered by the Solana blockchain.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-C6773EB8AD8C3A16",
+      "publication_date": "2025-12-03T13:17:01Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-C6773EB8AD8C3A16-03",
+      "text": "To get started, here’s everything you need to do: 1.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-C6773EB8AD8C3A16",
+      "publication_date": "2025-12-03T13:17:01Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-C6773EB8AD8C3A16-04",
+      "text": "Create and Fund a Solana Wallet You’ll need a wallet that supports Solana, like Phantom or Solflare.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-C6773EB8AD8C3A16",
+      "publication_date": "2025-12-03T13:17:01Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-C6773EB8AD8C3A16-05",
+      "text": "Fund it with some SOL to pay for transaction fees 2.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-C6773EB8AD8C3A16",
+      "publication_date": "2025-12-03T13:17:01Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-C6773EB8AD8C3A16-06",
+      "text": "Get Some ATLAS ATLAS is the in-game currency used to buy ships, crew, and resources.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-C6773EB8AD8C3A16",
+      "publication_date": "2025-12-03T13:17:01Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-C6773EB8AD8C3A16-07",
+      "text": "You can: Buy ATLAS with your credit card using Topper on play.staratlas.com Or swap SOL or USDC for ATLAS on a DEX like Jupiter 3.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-C6773EB8AD8C3A16",
+      "publication_date": "2025-12-03T13:17:01Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-C6773EB8AD8C3A16-08",
+      "text": "Buy a Ship, Crew & Resources To start playing, you’ll need: A ship At least one Crew Member Some R4 resources (Fuel, Food, Ammo, Toolkits) You can buy everything from the Star Atlas Marketplace 4.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-C6773EB8AD8C3A16",
+      "publication_date": "2025-12-03T13:17:01Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-C6773EB8AD8C3A16-09",
+      "text": "Go to SAGE Labs Starbased Head over to based.staratlas.com 5.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-C6773EB8AD8C3A16",
+      "publication_date": "2025-12-03T13:17:01Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-C6773EB8AD8C3A16-10",
+      "text": "Connect Your Wallet & Enable ATLAS Fee Payer Once inside Starbased: Click Connect Wallet and approve the connection Enable the ATLAS Fee Payer (this lets the system cover transaction fees in ATLAS instead of SOL) 6.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-C6773EB8AD8C3A16",
+      "publication_date": "2025-12-03T13:17:01Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-C6773EB8AD8C3A16-11",
+      "text": "Create Your Character Begin the character creation process by clicking \"Start Creating a Character\".",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-C6773EB8AD8C3A16",
+      "publication_date": "2025-12-03T13:17:01Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-C6773EB8AD8C3A16-12",
+      "text": "Choose your faction (ONI, Ustur, or MUD) and assign a unique name to your character.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-C6773EB8AD8C3A16",
+      "publication_date": "2025-12-03T13:17:01Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "SAGE Labs",
+    "SAGE",
+    "ATLAS",
+    "Crew"
+  ],
+  "governance_items": [],
+  "lore_items": [
+    "MUD",
+    "ONI",
+    "Ustur"
+  ],
+  "actors": [],
+  "organizations": [
+    "Solana"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://phantom.com/",
+      "anchor_text": "Phantom"
+    },
+    {
+      "url": "https://www.solflare.com/",
+      "anchor_text": "Solflare"
+    },
+    {
+      "url": "https://play.staratlas.com",
+      "anchor_text": "play.staratlas.com"
+    },
+    {
+      "url": "https://jup.ag",
+      "anchor_text": "Jupiter"
+    },
+    {
+      "url": "https://play.staratlas.com/market",
+      "anchor_text": "Star Atlas Marketplace"
+    },
+    {
+      "url": "https://based.staratlas.com/",
+      "anchor_text": "based.staratlas.com"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://play.staratlas.com",
+      "anchor_text": "play.staratlas.com"
+    },
+    {
+      "url": "https://play.staratlas.com/market",
+      "anchor_text": "Star Atlas Marketplace"
+    },
+    {
+      "url": "https://based.staratlas.com/",
+      "anchor_text": "based.staratlas.com"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47053533098387-How-to-start-playing-SAGE",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.339539Z"
+  }
+}

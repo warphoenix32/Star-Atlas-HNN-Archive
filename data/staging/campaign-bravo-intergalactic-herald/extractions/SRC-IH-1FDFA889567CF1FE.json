@@ -1,0 +1,206 @@
+{
+  "source": {
+    "source_id": "SRC-IH-1FDFA889567CF1FE",
+    "url_id": "URL-1FDFA889567CF1FE",
+    "url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-169/",
+    "inventory_url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-169",
+    "title": "Star Atlas Weekly Newsletter #169",
+    "author": "Intergalactic Herald",
+    "publisher": "Intergalactic Herald",
+    "published_at": "2025-06-15T17:00:00",
+    "updated_at": "2025-08-03T18:36:58",
+    "retrieved_at": "2026-07-12T22:01:15.039027Z",
+    "document_type": "NEWSLETTER",
+    "source_role": "CURATED_SUMMARY",
+    "source_classification": "CURATED_SUMMARY",
+    "classification_rationale": "Weekly newsletter/recap aggregates developments and linked sources.",
+    "wordpress_type": "posts"
+  },
+  "summary": {
+    "neutral_abstract": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week. I am looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us. I am launching a Star Atlas merch store. Please check it out at Intergalactic",
+    "historical_value": "Contemporary Intergalactic Herald publication preserved with role and attribution boundaries.",
+    "current_validity_warning": "Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources."
+  },
+  "article_text": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week.\nAlso, check out my podcast and AI summary recaps.\nWeekly Star Atlas Newsletter #183\nAephia published their latest Star Atlas newsletter.\nStar Atlas: Zero-2-Hero w/ Fleet Rentals (PART 6)\nBeyond the Horizon posted an update to his Zero-2-Hero video series.\nAtlas Brew #162 – Deep Dive into C4: The Next Evolution of Star Atlas\nStar Atlas TV posted a video recording of the latest Atlas Brew.\nStar Atlas Holosim Tutorial Walkthrough (Part 1)\nBeyond the Horizon posted the first part of a Holosim walkthrough.\nI am looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us.\nI am launching a Star Atlas merch store. Please check it out at Intergalactic Gear.\nI am creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic Coalition.\nIf you would like to support our efforts, donations can be sent to intergalacticherald.sol\nLatest podcast\nPodcast 176: Star Atlas Weekly Reviewby MattJuly 5, 2026In this episode, I recap the latest news of Star Atlas from the past week. Listen on Apple Podcasts Listen on Spotify I am looking for guests to be on the podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in… Read more: Podcast 176: Star Atlas Weekly Review\nLatest recap\nStar Atlas Event Recap 91: Atlas Brew #211by MattJuly 2, 2026In this episode, hear an AI summary of the latest Star Atlas community event. Full video recordings can be found on the YouTube channel of Star Atlas TV at https://www.youtube.com/@staratlastv. Listen on Apple Podcasts Listen on Spotify Star Atlas Event Summary Hi, this isn’t Matt with the Intergalactic Herald. I… Read more: Star Atlas Event Recap 91: Atlas Brew #211",
+  "content_hash": "9b42177de346550e2ac5643a7112b6a40fa5fadad64adf6e67c13f7455b8a692",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [],
+  "external_sources": [
+    {
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-183/",
+      "anchor_text": "Star Atlas newsletter"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=X5tUnyOOEjU",
+      "anchor_text": "Zero-2-Hero video series"
+    },
+    {
+      "url": "https://www.youtube.com/live/sAQU-fq7NQg?si=_a5qpwP3wWEIUfo1",
+      "anchor_text": "Atlas Brew"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ZF4B4-C9_10",
+      "anchor_text": "Holosim walkthrough"
+    },
+    {
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    }
+  ],
+  "primary_source_relationships": [
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-183/",
+      "anchor_text": "Star Atlas newsletter"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=X5tUnyOOEjU",
+      "anchor_text": "Zero-2-Hero video series"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/live/sAQU-fq7NQg?si=_a5qpwP3wWEIUfo1",
+      "anchor_text": "Atlas Brew"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=ZF4B4-C9_10",
+      "anchor_text": "Holosim walkthrough"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    }
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Verify which outbound links are primary sources and preserve creator attribution during promotion."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-newsletter-169&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 8458,
+    "elapsed_ms": 2122,
+    "attempts": [
+      {
+        "endpoint": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-newsletter-169&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "http_status": 200,
+        "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-newsletter-169&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "content_type": "application/json; charset=UTF-8",
+        "response_size": 8458,
+        "elapsed_ms": 2122
+      }
+    ]
+  },
+  "source_lineage": {
+    "publication": "Intergalactic Herald",
+    "publication_role": "CURATED_SUMMARY",
+    "relationship": "CURATED_SUMMARY_OF",
+    "primary_sources": [
+      {
+        "publication": "Star Atlas newsletter",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-183/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas newsletter"
+      },
+      {
+        "publication": "Zero-2-Hero video series",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=X5tUnyOOEjU",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Zero-2-Hero video series"
+      },
+      {
+        "publication": "Atlas Brew",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/live/sAQU-fq7NQg?si=_a5qpwP3wWEIUfo1",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: Atlas Brew"
+      },
+      {
+        "publication": "Holosim walkthrough",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=ZF4B4-C9_10",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Holosim walkthrough"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "publication": "Intergalactic Gear",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticgear.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Intergalactic Coalition",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticcoalition.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      }
+    ],
+    "original_creators": [
+      "Aephia",
+      "Star Atlas"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Star Atlas newsletter",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-183/"
+      },
+      {
+        "from": "Zero-2-Hero video series",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=X5tUnyOOEjU"
+      },
+      {
+        "from": "Atlas Brew",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/live/sAQU-fq7NQg?si=_a5qpwP3wWEIUfo1"
+      },
+      {
+        "from": "Holosim walkthrough",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=ZF4B4-C9_10"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  }
+}

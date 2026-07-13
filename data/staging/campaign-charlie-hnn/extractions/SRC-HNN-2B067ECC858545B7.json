@@ -1,0 +1,197 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-2B067ECC858545B7",
+    "url_id": "URL-2B067ECC858545B7",
+    "url": "https://medium.com/the-hologram/krigs-steps-down-as-chief-editor-hnn-future-uncertain-6e1bc2c50612",
+    "title": "Krigs Steps Down As Chief Editor, HNN Future Uncertain",
+    "author": "Krigs",
+    "publisher": "The Hologram",
+    "publication_identity": "The Hologram (Medium publication)",
+    "published_at": "2023-08-18T01:56:14Z",
+    "updated_at": "2023-08-18T01:56:14Z",
+    "retrieved_at": "2026-07-13T00:06:50.666303Z",
+    "document_type": "REFERENCE",
+    "source_role": "REFERENCE",
+    "publication_role": "REFERENCE",
+    "classification_rationale": "Publication is structured as a guide or reference."
+  },
+  "source_lineage": {
+    "publication": "The Hologram (Medium publication)",
+    "publication_role": "REFERENCE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "publication": "Podcast",
+        "author": "UNKNOWN",
+        "url": "https://open.spotify.com/show/2mxndrDW6yPfpS350ijzjt?si=ec7c717f998240d6",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "YouTube",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/channel/UCDa-YxgNG6A9xpH1qyP0OaQ",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [
+      "Krigs"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Podcast",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REFERENCES",
+        "url": "https://open.spotify.com/show/2mxndrDW6yPfpS350ijzjt?si=ec7c717f998240d6"
+      },
+      {
+        "from": "YouTube",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REFERENCES",
+        "url": "https://www.youtube.com/channel/UCDa-YxgNG6A9xpH1qyP0OaQ"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "This reference published by The Hologram on 2023-08-18 documents “Krigs Steps Down As Chief Editor, HNN Future Uncertain.” Its surviving text addresses economy, guilds and DACs, game development, community, lore. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "Krigs Steps Down As Chief Editor, HNN Future Uncertain\nKrigs2 min read·Aug 18, 2023\n--\n2\nListen\nShare\nPress enter or click to view image in full size\nDear Star Atlas Community,\nIt is with great remorse that I must write to inform you that I am stepping down as the Chief Editor and Operator of The Hologram News Network. When I started the network almost two years ago, I sought to create an independent and professional news source free from guild influence — a place that the community could always turn to.\nHowever, as the newly appointed guild leader of Deep Profits, I believe that I can no longer best represent the integrity and value of the network while in my new position. Furthermore, as my time over the next several months becomes severely limited, my inability to recruit additional content creators into network operations meant that HNN was running on borrowed time.\nUntil another Chief Editor and Operator can be identified, as such, HNN will no longer provide the latest news on Star Atlas. Services going forward will be limited to:\nTwitter Account will remain active. However, HNN will focus on amplifying the content of other creators in the space.\nMedium Publication will remain open. As always, any member of the community is welcome to submit articles to HNN for publication.\nYouTube channel will remain online, however, content will be less frequent.\nOn moderate occasion, written articles focused solely on political commentary or significant events that require detailed explanation.\nOn rare occasion, videos focused solely on new player education or short tutorials\nIn many ways, HNN activity over the last two years has had a tremendous impact on the community and the creators behind it. However, recognizing my own inability to sustain the organization with content over the next year — the absence of the network would have been felt eventually.\nShould there be any stouthearted individuals with the desire to keep the vision and tempo of HNN alive, please don’t hesitate to reach out. Until such a time arises, I must regretfully alter the course of the network.\nI’m happy to discuss more in depth details with anyone that so desires.\nLastly, I’d like to thank the Star Atlas community for their unwavering support. Rest assured, this is merely but a brief stop in our journey to the stars. Stay Strong and Stay Battle Tested.\nAbout the Author\nKrigs is a pioneer in the world of Star Atlas, having founded The Hologram News Network — an independent meta-news organization that keeps players up to date on all developments regarding Star Atlas. An ardent supporter of emerging technologies, Krigs has been covering this game for over a year and believes passionately in their power to revolutionize our collective gaming experience.\nFollow on Social Media:\nPodcast | YouTube | Twitter | Instagram | Web",
+  "content_hash": "db46ee609b851baf44f01144560f12cee64a33232ee56002d66471f7f0ff91ea",
+  "major_topics": [
+    "economy",
+    "guilds and DACs",
+    "game development",
+    "community",
+    "lore"
+  ],
+  "entities": [
+    "ATLAS",
+    "Krigs",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-2B067ECC858545B7-01",
+      "text": "Until another Chief Editor and Operator can be identified, as such, HNN will no longer provide the latest news on Star Atlas.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-2B067ECC858545B7",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-2B067ECC858545B7-02",
+      "text": "Services going forward will be limited to: Twitter Account will remain active.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-2B067ECC858545B7",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-2B067ECC858545B7-03",
+      "text": "However, HNN will focus on amplifying the content of other creators in the space.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-2B067ECC858545B7",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-2B067ECC858545B7-04",
+      "text": "YouTube channel will remain online, however, content will be less frequent.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-2B067ECC858545B7",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Star Atlas",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [
+    "ONI"
+  ],
+  "actors": [
+    "Krigs"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://medium.com/@krigsfoniks?source=post_page---byline--6e1bc2c50612---------------------------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fthe-hologram%2F6e1bc2c50612&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fkrigs-steps-down-as-chief-editor-hnn-future-uncertain-6e1bc2c50612&user=Krigs&userId=41e0c5b141f1&source=---header_actions--6e1bc2c50612---------------------clap_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Frepost%2Fp%2F6e1bc2c50612&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fkrigs-steps-down-as-chief-editor-hnn-future-uncertain-6e1bc2c50612&user=Krigs&userId=41e0c5b141f1&source=---header_actions--6e1bc2c50612---------------------repost_header------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F6e1bc2c50612&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fkrigs-steps-down-as-chief-editor-hnn-future-uncertain-6e1bc2c50612&source=---header_actions--6e1bc2c50612---------------------bookmark_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2Fplans%3Fdimension%3Dpost_audio_button%26postId%3D6e1bc2c50612&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fkrigs-steps-down-as-chief-editor-hnn-future-uncertain-6e1bc2c50612&source=---header_actions--6e1bc2c50612---------------------post_audio_button------------------",
+      "anchor_text": "Listen"
+    },
+    {
+      "url": "https://medium.com/u/41e0c5b141f1",
+      "anchor_text": "Krigs"
+    },
+    {
+      "url": "https://open.spotify.com/show/2mxndrDW6yPfpS350ijzjt?si=ec7c717f998240d6",
+      "anchor_text": "Podcast"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCDa-YxgNG6A9xpH1qyP0OaQ",
+      "anchor_text": "YouTube"
+    },
+    {
+      "url": "https://twitter.com/home",
+      "anchor_text": "Twitter"
+    },
+    {
+      "url": "https://thehologram.io/",
+      "anchor_text": "Web"
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "https://medium.com/the-hologram/krigs-steps-down-as-chief-editor-hnn-future-uncertain-6e1bc2c50612",
+    "final_url": "https://medium.com/the-hologram/krigs-steps-down-as-chief-editor-hnn-future-uncertain-6e1bc2c50612",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 117798,
+    "elapsed_ms": 1315,
+    "retrieval_mode": "LIVE",
+    "archive_capture": null
+  }
+}

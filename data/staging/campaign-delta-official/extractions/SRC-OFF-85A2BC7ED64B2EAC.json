@@ -1,0 +1,302 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-85A2BC7ED64B2EAC",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47021328296723-What-s-the-Legislative-Process-for-the-Star-Atlas-DAO",
+    "title": "What's the Legislative Process for the Star Atlas DAO",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-02T15:04:09Z",
+    "updated_at": "2025-12-03T14:45:41Z",
+    "original_date_text": "2025-12-02T15:04:09Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://discord.gg/staratlas",
+        "anchor_text": "Star Atlas Discord"
+      },
+      {
+        "url": "https://docs.google.com/forms/d/18UX7c_c_FT7-VQZ_A2hw2Hv7kDN5_pbBwNNfRn73wo4",
+        "anchor_text": "form"
+      },
+      {
+        "url": "https://govern.staratlas.com/",
+        "anchor_text": "govern.staratlas.com."
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “What's the Legislative Process for the Star Atlas DAO.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Idea Submission: A DAO member submits an idea for a PIP (Proposal Improvement Proposal) to #pip-ideas in the Star Atlas Discord and discusses it.\nCommunity Feedback: The PIP idea gets feedback and support from the community.\nForm Submission: A DAO member fills out the form linked from the governance channels on Discord.\nDraft Posting: The PIP goes up on the #pip-drafts channel.\nCouncil Assignment: A bot assigns the draft to a Star Atlas Council Member.\nCouncil Review: The PIP is discussed and approved/rejected by the Council.\nFoundation Submission: An approved draft is sent to the Star Atlas Foundation.\nFoundation Review: The Star Atlas Foundation approves or rejects the PIP.\nVoting: If approved by the Star Atlas Foundation, the PIP goes up for voting on govern.staratlas.com.\nPublic Debate: The PIP is posted in #pip-discussion to allow for public debate while voting is open.\nDAO Vote: The PIP is either approved or rejected by the Star Atlas DAO members.\nImplementation: If approved, the PIP is sent back to the Star Atlas Foundation for implementation.",
+  "content_hash": "a11fcf280f01c234e11f41dd346bac4b340d4f856fc66e90579e4224a14f6a1e",
+  "entities": [
+    "ATLAS",
+    "Star Atlas DAO",
+    "Star Atlas Foundation"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-85A2BC7ED64B2EAC-01",
+      "text": "Idea Submission: A DAO member submits an idea for a PIP (Proposal Improvement Proposal) to #pip-ideas in the Star Atlas Discord and discusses it.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-85A2BC7ED64B2EAC",
+      "publication_date": "2025-12-02T15:04:09Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-85A2BC7ED64B2EAC-02",
+      "text": "Community Feedback: The PIP idea gets feedback and support from the community.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-85A2BC7ED64B2EAC",
+      "publication_date": "2025-12-02T15:04:09Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-85A2BC7ED64B2EAC-03",
+      "text": "Form Submission: A DAO member fills out the form linked from the governance channels on Discord.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-85A2BC7ED64B2EAC",
+      "publication_date": "2025-12-02T15:04:09Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-85A2BC7ED64B2EAC-04",
+      "text": "Draft Posting: The PIP goes up on the #pip-drafts channel.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-85A2BC7ED64B2EAC",
+      "publication_date": "2025-12-02T15:04:09Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-85A2BC7ED64B2EAC-05",
+      "text": "Council Assignment: A bot assigns the draft to a Star Atlas Council Member.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-85A2BC7ED64B2EAC",
+      "publication_date": "2025-12-02T15:04:09Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-85A2BC7ED64B2EAC-06",
+      "text": "Council Review: The PIP is discussed and approved/rejected by the Council.",
+      "claim_type": "GOVERNANCE_APPROVAL",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-85A2BC7ED64B2EAC",
+      "publication_date": "2025-12-02T15:04:09Z",
+      "confidence": "MEDIUM",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-85A2BC7ED64B2EAC-07",
+      "text": "Foundation Submission: An approved draft is sent to the Star Atlas Foundation.",
+      "claim_type": "GOVERNANCE_APPROVAL",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-85A2BC7ED64B2EAC",
+      "publication_date": "2025-12-02T15:04:09Z",
+      "confidence": "MEDIUM",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-85A2BC7ED64B2EAC-08",
+      "text": "Foundation Review: The Star Atlas Foundation approves or rejects the PIP.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-85A2BC7ED64B2EAC",
+      "publication_date": "2025-12-02T15:04:09Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-85A2BC7ED64B2EAC-09",
+      "text": "Voting: If approved by the Star Atlas Foundation, the PIP goes up for voting on govern.staratlas.com.",
+      "claim_type": "GOVERNANCE_APPROVAL",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-85A2BC7ED64B2EAC",
+      "publication_date": "2025-12-02T15:04:09Z",
+      "confidence": "MEDIUM",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-85A2BC7ED64B2EAC-10",
+      "text": "Public Debate: The PIP is posted in #pip-discussion to allow for public debate while voting is open.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-85A2BC7ED64B2EAC",
+      "publication_date": "2025-12-02T15:04:09Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-85A2BC7ED64B2EAC-11",
+      "text": "DAO Vote: The PIP is either approved or rejected by the Star Atlas DAO members.",
+      "claim_type": "GOVERNANCE_APPROVAL",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-85A2BC7ED64B2EAC",
+      "publication_date": "2025-12-02T15:04:09Z",
+      "confidence": "MEDIUM",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-85A2BC7ED64B2EAC-12",
+      "text": "Implementation: If approved, the PIP is sent back to the Star Atlas Foundation for implementation.",
+      "claim_type": "GOVERNANCE_APPROVAL",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-85A2BC7ED64B2EAC",
+      "publication_date": "2025-12-02T15:04:09Z",
+      "confidence": "MEDIUM",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "ATLAS"
+  ],
+  "governance_items": [
+    {
+      "claim_id": "CLM-85A2BC7ED64B2EAC-06",
+      "text": "Council Review: The PIP is discussed and approved/rejected by the Council.",
+      "claim_type": "GOVERNANCE_APPROVAL",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-85A2BC7ED64B2EAC",
+      "publication_date": "2025-12-02T15:04:09Z",
+      "confidence": "MEDIUM",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-85A2BC7ED64B2EAC-07",
+      "text": "Foundation Submission: An approved draft is sent to the Star Atlas Foundation.",
+      "claim_type": "GOVERNANCE_APPROVAL",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-85A2BC7ED64B2EAC",
+      "publication_date": "2025-12-02T15:04:09Z",
+      "confidence": "MEDIUM",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-85A2BC7ED64B2EAC-09",
+      "text": "Voting: If approved by the Star Atlas Foundation, the PIP goes up for voting on govern.staratlas.com.",
+      "claim_type": "GOVERNANCE_APPROVAL",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-85A2BC7ED64B2EAC",
+      "publication_date": "2025-12-02T15:04:09Z",
+      "confidence": "MEDIUM",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-85A2BC7ED64B2EAC-11",
+      "text": "DAO Vote: The PIP is either approved or rejected by the Star Atlas DAO members.",
+      "claim_type": "GOVERNANCE_APPROVAL",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-85A2BC7ED64B2EAC",
+      "publication_date": "2025-12-02T15:04:09Z",
+      "confidence": "MEDIUM",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-85A2BC7ED64B2EAC-12",
+      "text": "Implementation: If approved, the PIP is sent back to the Star Atlas Foundation for implementation.",
+      "claim_type": "GOVERNANCE_APPROVAL",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-85A2BC7ED64B2EAC",
+      "publication_date": "2025-12-02T15:04:09Z",
+      "confidence": "MEDIUM",
+      "requires_follow_up": true
+    }
+  ],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [
+    "Star Atlas DAO",
+    "Star Atlas Foundation"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://discord.com/channels/789226204980707409/1257697155867480134",
+      "anchor_text": "#pip-ideas"
+    },
+    {
+      "url": "https://discord.gg/staratlas",
+      "anchor_text": "Star Atlas Discord"
+    },
+    {
+      "url": "https://docs.google.com/forms/d/18UX7c_c_FT7-VQZ_A2hw2Hv7kDN5_pbBwNNfRn73wo4",
+      "anchor_text": "form"
+    },
+    {
+      "url": "https://discord.com/channels/789226204980707409/1257697059142631544",
+      "anchor_text": "#pip-drafts"
+    },
+    {
+      "url": "https://govern.staratlas.com/",
+      "anchor_text": "govern.staratlas.com."
+    },
+    {
+      "url": "https://discord.com/channels/789226204980707409/1257696880595308656",
+      "anchor_text": "#pip-discussion"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://govern.staratlas.com/",
+      "anchor_text": "govern.staratlas.com."
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47021328296723-What-s-the-Legislative-Process-for-the-Star-Atlas-DAO",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.411147Z"
+  }
+}

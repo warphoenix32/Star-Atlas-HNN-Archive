@@ -1,0 +1,178 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-34D7C5B461DD88BE",
+    "url": "https://staratlas.com/game/sage-labs/",
+    "title": "SAGE Labs | Star Atlas",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas / ATMTA",
+    "published_at": null,
+    "updated_at": null,
+    "original_date_text": null,
+    "document_type": "REFERENCE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas / ATMTA",
+    "publication_role": "REFERENCE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://play.staratlas.com",
+        "anchor_text": "Play Now"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official reference titled “SAGE Labs | Star Atlas.” This record preserves what Star Atlas / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "SAGE Labs | Star Atlas\n0001.\nSAGE Labs\nSAGE Labs is where real economic gameplay happens. Fully on-chain, every action carries weight. Mine resources, craft gear, trade on open markets. Your decisions have lasting consequences in a persistent, player-driven economy.\nYour browser does not support the video tag.\nThe Golden Era\nSAGE represents the current era of Star Atlas, a time of expansion, opportunity, and economic growth. As players establish starbases, extract resources, and build the infrastructure of galactic civilization, they're writing the history that will define the future of Galia.\n24/7\nEconomy\nReal\nEarnings\nWeb\nBased\n100%\nOn-Chain\nResource Mining\nExtract valuable resources from asteroids and planets. Your mining operations fuel the crafting economy and generate income.\nMultiple resource types\nVaried mining locations\nFleet-based extraction\nAutomated operations\nCrafting System\nTransform raw materials into valuable items, components, and equipment. Supply the marketplace and build your manufacturing empire.\nComprehensive crafting\nRecipe discovery\nComponent manufacturing\nMarket integration\nSDU Scanning\nScan for Survey Data Units, valuable data packages that provide resources and information. SDU hunting is a unique gameplay loop.\nExploration gameplay\nRandom discoveries\nValuable rewards\nRisk vs reward\nStarbased Integration\nSAGE Labs connects to the broader Starbased system. Your economic activities contribute to your faction's starbase network.\nStarbase construction\nCollaborative building\nFaction progression\nLoyalty rewards\nStarting in SAGE Labs\nConnect your Solana wallet with Star Atlas assets\nAssign your ships to fleet operations\nBegin mining operations at resource-rich locations\nProcess resources and craft valuable items\nSell on the Galactic Marketplace for ATLAS tokens\nBuild Your Economy\nThe Star Atlas economy runs on player activity. Every resource mined, item crafted, and trade executed shapes the galaxy. Start building in SAGE Labs.\nPlay Now\nExplore More Features\nGalia ExpanseGame ModesYour Fleet, Your WayLife in GaliaFleet CommandHolosim",
+  "content_hash": "b87ba4b62790d1b568537597330db37e5d03eb92acfd6adedc1f638f8af1abae",
+  "entities": [
+    "ATLAS",
+    "Galactic Marketplace",
+    "SAGE",
+    "SAGE Labs",
+    "Solana"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-34D7C5B461DD88BE-01",
+      "text": "As players establish starbases, extract resources, and build the infrastructure of galactic civilization, they're writing the history that will define the future of Galia.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-34D7C5B461DD88BE",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-34D7C5B461DD88BE-02",
+      "text": "24/7 Economy Real Earnings Web Based 100% On-Chain Resource Mining Extract valuable resources from asteroids and planets.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-34D7C5B461DD88BE",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-34D7C5B461DD88BE-03",
+      "text": "Every resource mined, item crafted, and trade executed shapes the galaxy.",
+      "claim_type": "EXECUTION_CONFIRMED",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-34D7C5B461DD88BE",
+      "publication_date": null,
+      "confidence": "MEDIUM",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "SAGE Labs",
+    "SAGE",
+    "Galactic Marketplace",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [
+    "Galia"
+  ],
+  "actors": [],
+  "organizations": [
+    "Solana"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://play.staratlas.com",
+      "anchor_text": "Play Now"
+    },
+    {
+      "url": "https://staratlas.com/game/galia/",
+      "anchor_text": "Galia Expanse"
+    },
+    {
+      "url": "https://staratlas.com/game/game-modes/",
+      "anchor_text": "Game Modes"
+    },
+    {
+      "url": "https://staratlas.com/game/your-fleet-your-way/",
+      "anchor_text": "Your Fleet, Your Way"
+    },
+    {
+      "url": "https://staratlas.com/game/life-in-galia/",
+      "anchor_text": "Life in Galia"
+    },
+    {
+      "url": "https://staratlas.com/game/fleet-command/",
+      "anchor_text": "Fleet Command"
+    },
+    {
+      "url": "https://staratlas.com/game/holosim/",
+      "anchor_text": "Holosim"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://play.staratlas.com",
+      "anchor_text": "Play Now"
+    },
+    {
+      "url": "https://staratlas.com/game/galia/",
+      "anchor_text": "Galia Expanse"
+    },
+    {
+      "url": "https://staratlas.com/game/game-modes/",
+      "anchor_text": "Game Modes"
+    },
+    {
+      "url": "https://staratlas.com/game/your-fleet-your-way/",
+      "anchor_text": "Your Fleet, Your Way"
+    },
+    {
+      "url": "https://staratlas.com/game/life-in-galia/",
+      "anchor_text": "Life in Galia"
+    },
+    {
+      "url": "https://staratlas.com/game/fleet-command/",
+      "anchor_text": "Fleet Command"
+    },
+    {
+      "url": "https://staratlas.com/game/holosim/",
+      "anchor_text": "Holosim"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "LOW",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://staratlas.com/game/sage-labs/",
+    "final_url": "https://staratlas.com/game/sage-labs/",
+    "http_status": 200,
+    "content_type": "text/html",
+    "response_size": 9548,
+    "retrieved_at": "2026-07-13T01:05:04.083103Z",
+    "elapsed_ms": 220
+  }
+}

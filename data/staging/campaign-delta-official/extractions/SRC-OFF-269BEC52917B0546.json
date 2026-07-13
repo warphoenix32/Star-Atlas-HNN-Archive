@@ -1,0 +1,799 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-269BEC52917B0546",
+    "url": "https://experience.staratlas.com/newsroom/star-atlas-news/firmam3ntal-star-makers-inaugural-collection-by-star-atlas-and-the-fabricant",
+    "title": "FIRMAM3NTAL: STAR✶MAKERS — Inaugural Collection by Star Atlas and The Fabricant Levels Up World’s Digital Fashion | Star Atlas",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Newsroom / ATMTA",
+    "published_at": "2021-09-16",
+    "updated_at": null,
+    "original_date_text": "Sep 16, 2021",
+    "document_type": "OFFICIAL_ANNOUNCEMENT",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Newsroom / ATMTA",
+    "publication_role": "ECONOMIC_REPORT",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://play.staratlas.com",
+        "anchor_text": "Play Now"
+      },
+      {
+        "url": "https://coinmarketcap.com/currencies/star-atlas/",
+        "anchor_text": "CMC"
+      },
+      {
+        "url": "https://www.coingecko.com/en/coins/star-atlas",
+        "anchor_text": "CoinGecko"
+      },
+      {
+        "url": "https://coinmarketcap.com/currencies/star-atlas-polis/",
+        "anchor_text": "CMC"
+      },
+      {
+        "url": "https://www.coingecko.com/en/coins/star-atlas-dao",
+        "anchor_text": "CoinGecko"
+      },
+      {
+        "url": "https://discord.gg/staratlas",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://t.me/staratlasgame",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://www.reddit.com/r/StarAtlas/",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://www.facebook.com/StarAtlasMMO",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://www.instagram.com/staratlasgame/",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://www.youtube.com/channel/UCt-y8Npwje5KDG5MSZ0a9Jw",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://www.twitch.tv/staratlasgame",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://www.thefabricant.com/",
+        "anchor_text": "The Fabricant"
+      },
+      {
+        "url": "https://play.staratlas.com/market",
+        "anchor_text": "Galactic Marketplace"
+      },
+      {
+        "url": "https://www.unrealengine.com/en-US/unreal-engine-5",
+        "anchor_text": "Unreal Engine 5"
+      },
+      {
+        "url": "https://solana.com/",
+        "anchor_text": "Solana"
+      },
+      {
+        "url": "https://play.staratlas.com/market/6GgPHefcbFu78kE9GZg3z1A9eHAaXeCPMqdjhRscFDSL",
+        "anchor_text": "PRIMORDIAL GLO Bomber Jacket"
+      },
+      {
+        "url": "https://play.staratlas.com/market/3AuyQppPMFToedMm8Xf1x79CfDUzpzLDorHHQmf11Rzy",
+        "anchor_text": "COSMIC ORIGIN 92 eL.eM.eN.tAL Jersey"
+      },
+      {
+        "url": "https://play.staratlas.com/market/ChJKLWcHQb4VXFmA9Q9gjLvRapkboUvWCfCfqmLsnhSw",
+        "anchor_text": "NXT leVel DS Bodysuit Glow-up"
+      },
+      {
+        "url": "https://play.staratlas.com/market/Fjcdi6CJJqvy2aSknEodKheB1dYVD9rdtZMJNjFo8Fck",
+        "anchor_text": "PhotoniX Provenance Primal Origin Neckwear"
+      },
+      {
+        "url": "http://staratlas.com/",
+        "anchor_text": "Star Atlas"
+      },
+      {
+        "url": "https://play.staratlas.com/market/Htg1p5W2yY91nM7hHk7GKTb1rAP2uZgGBxYfCWQJPfpvv",
+        "anchor_text": "See it on Galactic Marketplace"
+      },
+      {
+        "url": "https://www.animocabrands.com/",
+        "anchor_text": "Animoca Brands"
+      },
+      {
+        "url": "https://play.staratlas.com/market/Htg1p5W2yY91nM7hHk7GKTb1rAP2uZgGBxYfCWQJPfpv",
+        "anchor_text": "See it on Galactic Marketplace"
+      },
+      {
+        "url": "https://www.cryptokickers.com/",
+        "anchor_text": "CryptoKickers.com"
+      },
+      {
+        "url": "https://play.staratlas.com/market/BayVbJdbJawJHvjBdTmHaX8P5EDnmLHVUAN5ZcDzZoJL",
+        "anchor_text": "See it on Galactic Marketplace"
+      },
+      {
+        "url": "https://play.staratlas.com/market/AP2u8YPZtwanBUnP2SJ7mqXGwqZPQx4yLWdex7CtYToW",
+        "anchor_text": "See it on Galactic Marketplace"
+      },
+      {
+        "url": "http://ftx.com/",
+        "anchor_text": "FTX.com"
+      },
+      {
+        "url": "https://play.staratlas.com/market/8vA9cAVBrt29WaCZY3jQ99cHMF9JqnX7F8dqC25CWr5n",
+        "anchor_text": "See it on Galactic Marketplace"
+      },
+      {
+        "url": "https://phantom.app/",
+        "anchor_text": "Phantom"
+      },
+      {
+        "url": "https://play.staratlas.com/market/D6jGFKePetKogT778PDtAqsEf75rvqH2nk5MpR3JsCNn",
+        "anchor_text": "See it on Galactic Marketplace"
+      },
+      {
+        "url": "https://projectserum.com/",
+        "anchor_text": "Project Serum"
+      },
+      {
+        "url": "https://play.staratlas.com/market/5XoGYWfC8ULXkU51ozSzfS1rX24fq2MtzhJh3RuyZzNL",
+        "anchor_text": "See it on Galactic Marketplace"
+      },
+      {
+        "url": "https://play.staratlas.com/market/uWsNjBpSUYzF5pG2UvwTrMFwGnRecH7zBa9cuBMyfkX",
+        "anchor_text": "See it on Galactic Marketplace"
+      },
+      {
+        "url": "http://step.finance/",
+        "anchor_text": "Step.finance"
+      },
+      {
+        "url": "https://play.staratlas.com/market/BK5oTjFnW64Wk2fJdFbQ8e2dmB2rMUBFmAozp8FdhMwp",
+        "anchor_text": "See it on Galactic Marketplace"
+      },
+      {
+        "url": "https://raydium.io/",
+        "anchor_text": "Raydium"
+      },
+      {
+        "url": "https://play.staratlas.com/market/59M3seisE9pmfw2H2iiNyMNtHc2fP2PBdh659sG8Yctw",
+        "anchor_text": "See it on Galactic Marketplace"
+      },
+      {
+        "url": "https://c212.net/c/link/?t=0&l=en&o=3518016-1&h=2748636143&u=https%3A%2F%2Fc212.net%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D3397231-1%26h%3D2982849003%26u%3Dhttp%253A%252F%252Fsolana.com%252F%26a%3DSolana&a=Solana",
+        "anchor_text": "Solana"
+      },
+      {
+        "url": "https://c212.net/c/link/?t=0&l=en&o=3518016-1&h=1530369193&u=https%3A%2F%2Fc212.net%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D3397231-1%26h%3D3652583731%26u%3Dhttps%253A%252F%252Fstaratlas.com%252F%26a%3DStarAtlas.com&a=StarAtlas.com",
+        "anchor_text": "StarAtlas.com"
+      },
+      {
+        "url": "https://c212.net/c/link/?t=0&l=en&o=3518016-1&h=3921988929&u=https%3A%2F%2Fc212.net%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D3397231-1%26h%3D445912205%26u%3Dhttp%253A%252F%252Fplay.staratlas.com%252F%26a%3DPlay.StarAtlas.com&a=Play.StarAtlas.com",
+        "anchor_text": "Play.StarAtlas.com"
+      },
+      {
+        "url": "https://www.reddit.com/r/StarAtlas",
+        "anchor_text": "Reddit"
+      },
+      {
+        "url": "https://www.linkedin.com/company/star-atlas",
+        "anchor_text": "Linkedin"
+      },
+      {
+        "url": "https://medium.com/star-atlas",
+        "anchor_text": "Medium"
+      },
+      {
+        "url": "https://www.tiktok.com/@staratlasmetaverse",
+        "anchor_text": "Tik Tok"
+      },
+      {
+        "url": "http://www.thefabricant.com/",
+        "anchor_text": "The Fabricant"
+      },
+      {
+        "url": "https://discord.gg/Fyz54PwQ",
+        "anchor_text": "Discord"
+      },
+      {
+        "url": "https://www.instagram.com/the_fab_ric_ant/",
+        "anchor_text": "Instagram"
+      },
+      {
+        "url": "https://www.facebook.com/thefabricantdesign/",
+        "anchor_text": "Facebook"
+      },
+      {
+        "url": "https://www.linkedin.com/company/the-fabricant/",
+        "anchor_text": "LinkedIn"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Newsroom / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official economic report titled “FIRMAM3NTAL: STAR✶MAKERS — Inaugural Collection by Star Atlas and The Fabricant Levels Up World’s Digital Fashion | Star Atlas.” This record preserves what Star Atlas Newsroom / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "FIRMAM3NTAL: STAR✶MAKERS — Inaugural Collection by Star Atlas and The Fabricant Levels Up World’s Digital Fashion | Star Atlas\nPlay Now\nEconomic Reports\nWhite Paper • PDF\nRead Our Official White Paper!\nEconomics Paper • PDF\nLearn the tokenomics of ATLAS and POLIS in the galactic economy.\nGovernance Documentation\nLearn how Star Atlas is governed and built by its community.\nATLAS\n(\nCMC\nCoinGecko\n)\nPOLIS\n(\nCMC\nCoinGecko\n)\nTerms of Service\nPrivacy Policy\nPromotional Terms\nPlay Now\nBack\nSep 16, 2021\nTag: Latest News\nFIRMAM3NTAL: STAR✶MAKERS — Inaugural Collection by Star Atlas and The Fabricant Levels Up World’s Digital Fashion\nNext-gen on-chain merch designed by The Fabricant features exclusive Star Atlas digital couture with legendary and epic metaverse attributes, the first-ever in-game NFT collection of its kind.\nBack to top\nFIRMAM3NTAL: STAR✶MAKERS /// Digital Fashion Collection /// Star Atlas x The Fabricant\nThe FIRMAM3NTAL: STAR✶MAKERS collection consists of five limited-edition and open-edition item categories. Each one is authenticated by Star Atlas and available through the Galactic Marketplace until the supply runs out or until the sale window closes. The sale begins on September 16, 2021 at 6 pm Pacific Time and ends on September 26, 2021 at 5:00 PM PDT.\nBy acquiring digital fashion items, the purchasers mint the NFTs to own them and are subsequently able to trade them in a decentralized marketplace.\nFIRMAM3NTAL: STAR✶MAKERS collection is made using the highest quality digital garment manufacturing processes and embodies the Star Atlas vision to take all early enthusiasts worldwide and explorers by heart on the inaugural journey of inner expansion. It marks the collective genesis moment of the metaverse that connects all participants and partners into a single yet individuized whole.\nWith real-time graphic quality of Unreal Engine 5 and the near-instantaneous speed of the Solana blockchain at near-zero settlement costs, this lavish and unique first-of-a-kind collection is the mark that will highly distinguish the very first metaverse inhabitants.\nThe collection puts four high-tech items on offer: the legendary PRIMORDIAL GLO Bomber Jacket (from Galactic Love Outfitters), and the epic COSMIC ORIGIN 92 eL.eM.eN.tAL Jersey and NXT leVel DS Bodysuit Glow-up (New Exoplanetary Textiles Co.), as well as the PhotoniX Provenance Primal Origin Neckwear.\nAdditionally, the fifth category of wearables consists of the TTT 300K — Tribal Transcendence Tags that can be attached to the straps of the garments and thus further individuize them, enabling wearers to fly the colors of key Star Atlas ecosystem partners.\n“The Fabricant is the world leader in digital fashion. The products and opportunities coming out of our relationship enable truly free expression as well as creating value for the worldwide lifestyle community. This cooperation is expanding the absolute limits of what is possible in the metaverse and beyond, and enhancing the immersive experience for all Star Atlas fans. We’re honored to be working with the design team on revolutionizing the relationship between digital and physical, creating a fully functional metaverse-centric transformational experience that is out of this world. The Fabricant is not just a partner of Star Atlas; they are our companions on a journey of inward expansion of the human species, traveling on the frontier of manifesting our collective reality,” said Star Atlas co-founder & CRO, Pablo Quiroga.\nIn partnership with Star Atlas, The Fabricant seized the opportunity to use technology to make the industry more sustainable while expanding its creative options in unlimited new ways.\nOne of The Fabricant’s key tenets is to vastly reduce fashion’s impact on the planet’s resources and the natural world through digital garments, making it sustainable by its very nature.\nAs a creative frontier and an emerging industry, the digital fashion environment opens up new avenues for all stakeholders in the ecosystem.\n“The Fabricant’s mission has always been about exploring ways to express ourselves in non-physical worlds, building new economies and transforming industries. It aligns perfectly with everything that Star Atlas is building as a metaverse gaming experience, where its creating an extraordinary universe for its citizens and redefining possibilities in the digital space. The Fabricant is committed to populating the Star Atlas ecosystem with inspiring garments so its citizens can curate their unique identities as they roam its worlds and participate in experiences. The collaboration is one to watch and an exciting step in the metaverse that will transform perceptions of what is possible for fashion in the gaming environment. Expect collections for its various factions of pilots, miners, or simply fans who want to have an individual look. Star Atlas citizens can independently organize their own digital fashion shows and runway events to create the fashion environment on their own terms. Both parties are committed to building an open, democratic and collaborative metaverse: Star Atlas is building a whole new world, and The Fabricant will be the first to populate that world with high-quality digital fashion. Make sure you keep watching, or even better, taking part. The most exciting stuff happens when we co-create,” said Kerry Murphy, Founder of The Fabricant.\nFIRMAM3NTAL: STAR✶MAKERS COLLECTION\nPRIMORDIAL GLO Bomber Jacket (Galactic Love Outfitters) /// In-metaverse NFT Wearable /// The Fabricant\n1. PRIMORDIAL GLO\nItem: Bomber Jacket (Galactic Love Outfitters) /// Rarity: Legendary /// Limited quantity: 8,888 mints /// Price: 420 USDC\nAttributes: Increases crew loyalty, social cohesion, and also increases your overall good fortune in the metaverse. — Straps included. Tags not included.\nSee it on Galactic Marketplace.\nCOSMIC ORIGIN 92 eL.eM.eN.tAL Jersey [CO92E] /// In-metaverse NFT Wearable /// Star Atlas x The Fabricant\n2. COSMIC ORIGIN 92\nItem: eL.eM.eN.tAL Jersey (CO92E) /// Rarity: Epic /// Limited quantity: 11,1111 mints /// Price: 196 USDC\nAttributes: Slightly increases crew loyalty and social cohesion. — Straps included. Tags not included.\nSee it on Galactic Marketplace.\nPhotoniX Provenance Item: Primal Origin Neckwear /// In-metaverse NFT Wearable /// Feat. The Fabricant\n3. PhotoniX Provenance\nItem: Primal Origin Neckwear /// Rarity: Epic /// Limited quantity: 11,1111 mints /// Price: 140.7 USDC\nAttributes: Slightly Increases Crew Loyalty.\nSee it on Galactic Marketplace.\nNXT le]V[el DS Bodysuit Glow-up (New Exoplanetary Textiles Co.) /// In-metaverse NFT Wearable /// The Fabricant\n4. NXT leVel DS Bodysuit\nItem: Glow-up (New Exoplanetary Textiles Co.) — Sleeveless /// Rarity: Epic /// Limited quantity: 11,1111 mints /// Price: 274.89 USDC\nAttributes: Slightly Increases Crew Loyalty. — Straps included. Tags not included.\nSee it on Galactic Marketplace.\nTTT 300K ATLAS — Tribal Transcendence Tag /// In-metaverse NFT Wearable /// Star Atlas x The Fabricant\n5. TTT 300K — Tribal Transcendence Tags\nRarity: Rare /// Quantity: Open edition /// Price: 6.73 USDC\nAttributes: Vibrating at the speed of light, each of these tags slightly Increases Crew Loyalty\nTTT 300K — Tribal Transcendence Tags\nTTT 300K COLLECTION:\nTTT 300K ATLAS — Star Atlas — See it on Galactic Marketplace.\nTTT 300K Animoca —Animoca Brands — See it on Galactic Marketplace.\nTTT 300K CryptoKickers —CryptoKickers.com — See it on Galactic Marketplace.\nTTT 300K THE FABRICANT — The Fabricant — See it on Galactic Marketplace.\nTTT 300K FTX — FTX.com — See it on Galactic Marketplace.\nTTT 300K Phantom — Phantom Wallet — See it on Galactic Marketplace.\nTTT 300K SERUM — Project Serum DEX — See it on Galactic Marketplace.\nTTT 300K SOLANA — Solana Blockchain — See it on Galactic Marketplace.\nTTT 300K STEP.finance — Step.finance — See it on Galactic Marketplace.\nTTT 300K Raydium — Raydium DEX — See it on Galactic Marketplace.\nStay tuned for even more spectacular metaverse NFT drops, which are going to be made available through the Galactic Asset Offering in the future.\nABOUT STAR ATLAS\nStar Atlas is a next-gen gaming Metaverse emerging from the confluence of state of the art blockchain, real-time graphics, multiplayer video game, and decentralized financial technologies.\nReal-time graphics technology using Unreal Engine 5’s Nanite allows for cinematic quality video game visuals. Blockchain technology using the Solana protocol establishes a largely serverless and secured gameplay experience. Non-fungible tokens obtained and traded within Star Atlas create an economy that replicates the tangibility of real world assets and ownership. To learn more, visit StarAtlas.com, join a faction at Play.StarAtlas.com and send your spaceships on a deep space mission by enrolling them into a Faction Fleet.\nJOIN OUR COMMUNITY\nTwitter | Discord | Telegram | Youtube | Instagram | Reddit | Facebook | Linkedin | Medium | Tik Tok | Twitch\nABOUT THE FABRICANT\nThe Fabricant is the digital fashion house leading the fashion industry towards a future of digital-only clothing. It creates its own digital couture collections and also collaborates with physical fashion brands to bring them into the 3D digital fashion space. To date it has worked with Under Armour, Off-White, Vogue Singapore, Puma, Napapijri, Peak Performance and Adidas, amongst others, to demonstrate the vast creative possibilities within the digital fashion environment.\nTwitter | Discord | Instagram | Facebook | LinkedIn\nPrev\nExclusive FTX and Raydium Spaceship Skin NFTs Drop to Commemorate Record-Shattering Token Listing\nNext\nHigh-Octane October: Star Atlas Set to Release Player Factions, New Trailer and Ships\n*In the most intense feature release week yet, the doors to the blockchain gaming metaverse will begin opening with a new faction selection release.*\nTrailer\nWe use cookies to enhance your experience and analyze our site usage.\nPlease see our Privacy Policy\nfor more information.\nAccept Cookies",
+  "content_hash": "1544b256b8737cca5247d6824ca4405b184319e425585f055ef9fe00450bd745",
+  "entities": [
+    "ATLAS",
+    "Animoca Brands",
+    "Crew",
+    "Faction Fleet",
+    "Galactic Marketplace",
+    "POLIS",
+    "Pablo Quiroga",
+    "Serum",
+    "Solana"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-269BEC52917B0546-01",
+      "text": "FIRMAM3NTAL: STAR✶MAKERS — Inaugural Collection by Star Atlas and The Fabricant Levels Up World’s Digital Fashion | Star Atlas Play Now Economic Reports White Paper • PDF Read Our Official White Paper!",
+      "claim_type": "EVENT_OCCURRED",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-269BEC52917B0546",
+      "publication_date": "2021-09-16",
+      "confidence": "MEDIUM",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-269BEC52917B0546-02",
+      "text": "Each one is authenticated by Star Atlas and available through the Galactic Marketplace until the supply runs out or until the sale window closes.",
+      "claim_type": "EVENT_OCCURRED",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-269BEC52917B0546",
+      "publication_date": "2021-09-16",
+      "confidence": "MEDIUM",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-269BEC52917B0546-03",
+      "text": "It marks the collective genesis moment of the metaverse that connects all participants and partners into a single yet individuized whole.",
+      "claim_type": "EVENT_OCCURRED",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-269BEC52917B0546",
+      "publication_date": "2021-09-16",
+      "confidence": "MEDIUM",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-269BEC52917B0546-04",
+      "text": "With real-time graphic quality of Unreal Engine 5 and the near-instantaneous speed of the Solana blockchain at near-zero settlement costs, this lavish and unique first-of-a-kind collection is the mark that will highly distinguish the very first metaverse inhabitants.",
+      "claim_type": "ANNOUNCEMENT",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-269BEC52917B0546",
+      "publication_date": "2021-09-16",
+      "confidence": "HIGH",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-269BEC52917B0546-05",
+      "text": "Additionally, the fifth category of wearables consists of the TTT 300K — Tribal Transcendence Tags that can be attached to the straps of the garments and thus further individuize them, enabling wearers to fly the colors of key Star Atlas ecosystem partners.",
+      "claim_type": "EVENT_OCCURRED",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-269BEC52917B0546",
+      "publication_date": "2021-09-16",
+      "confidence": "MEDIUM",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-269BEC52917B0546-06",
+      "text": "The Fabricant is not just a partner of Star Atlas; they are our companions on a journey of inward expansion of the human species, traveling on the frontier of manifesting our collective reality,” said Star Atlas co-founder & CRO, Pablo Quiroga.",
+      "claim_type": "EVENT_OCCURRED",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-269BEC52917B0546",
+      "publication_date": "2021-09-16",
+      "confidence": "MEDIUM",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-269BEC52917B0546-07",
+      "text": "In partnership with Star Atlas, The Fabricant seized the opportunity to use technology to make the industry more sustainable while expanding its creative options in unlimited new ways.",
+      "claim_type": "EVENT_OCCURRED",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-269BEC52917B0546",
+      "publication_date": "2021-09-16",
+      "confidence": "MEDIUM",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-269BEC52917B0546-08",
+      "text": "One of The Fabricant’s key tenets is to vastly reduce fashion’s impact on the planet’s resources and the natural world through digital garments, making it sustainable by its very nature.",
+      "claim_type": "EVENT_OCCURRED",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-269BEC52917B0546",
+      "publication_date": "2021-09-16",
+      "confidence": "MEDIUM",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-269BEC52917B0546-09",
+      "text": "The collaboration is one to watch and an exciting step in the metaverse that will transform perceptions of what is possible for fashion in the gaming environment.",
+      "claim_type": "ANNOUNCEMENT",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-269BEC52917B0546",
+      "publication_date": "2021-09-16",
+      "confidence": "HIGH",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-269BEC52917B0546-10",
+      "text": "Expect collections for its various factions of pilots, miners, or simply fans who want to have an individual look.",
+      "claim_type": "EVENT_OCCURRED",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-269BEC52917B0546",
+      "publication_date": "2021-09-16",
+      "confidence": "MEDIUM",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-269BEC52917B0546-11",
+      "text": "Both parties are committed to building an open, democratic and collaborative metaverse: Star Atlas is building a whole new world, and The Fabricant will be the first to populate that world with high-quality digital fashion.",
+      "claim_type": "ANNOUNCEMENT",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-269BEC52917B0546",
+      "publication_date": "2021-09-16",
+      "confidence": "HIGH",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-269BEC52917B0546-12",
+      "text": "Stay tuned for even more spectacular metaverse NFT drops, which are going to be made available through the Galactic Asset Offering in the future.",
+      "claim_type": "EVENT_OCCURRED",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-269BEC52917B0546",
+      "publication_date": "2021-09-16",
+      "confidence": "MEDIUM",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-269BEC52917B0546-13",
+      "text": "Twitter | Discord | Instagram | Facebook | LinkedIn Prev Exclusive FTX and Raydium Spaceship Skin NFTs Drop to Commemorate Record-Shattering Token Listing Next High-Octane October: Star Atlas Set to Release Player Factions, New Trailer and Ships *In the most intense feature release week yet, the doors to the blockchain gaming metaverse will begin opening with a new faction selection release.* Trailer We use cookies to enhance your experience and analyze our site usage.",
+      "claim_type": "ANNOUNCEMENT",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-269BEC52917B0546",
+      "publication_date": "2021-09-16",
+      "confidence": "HIGH",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Faction Fleet",
+    "Galactic Marketplace",
+    "POLIS",
+    "ATLAS",
+    "Crew"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [
+    "Pablo Quiroga"
+  ],
+  "organizations": [
+    "Solana",
+    "Animoca Brands",
+    "Serum"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://experience.staratlas.com/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://play.staratlas.com",
+      "anchor_text": "Play Now"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/economic-reports/",
+      "anchor_text": "Economic Reports"
+    },
+    {
+      "url": "https://experience.staratlas.com/assets/pdfs/white-paper.pdf",
+      "anchor_text": "White Paper • PDF Read Our Official White Paper!"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/governance-documentation",
+      "anchor_text": "Governance Documentation Learn how Star Atlas is governed and built by its community."
+    },
+    {
+      "url": "https://coinmarketcap.com/currencies/star-atlas/",
+      "anchor_text": "CMC"
+    },
+    {
+      "url": "https://www.coingecko.com/en/coins/star-atlas",
+      "anchor_text": "CoinGecko"
+    },
+    {
+      "url": "https://coinmarketcap.com/currencies/star-atlas-polis/",
+      "anchor_text": "CMC"
+    },
+    {
+      "url": "https://www.coingecko.com/en/coins/star-atlas-dao",
+      "anchor_text": "CoinGecko"
+    },
+    {
+      "url": "https://twitter.com/staratlas",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://discord.gg/staratlas",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://t.me/staratlasgame",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/StarAtlas/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://www.facebook.com/StarAtlasMMO",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://www.instagram.com/staratlasgame/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCt-y8Npwje5KDG5MSZ0a9Jw",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://www.twitch.tv/staratlasgame",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://experience.staratlas.com/terms-of-service",
+      "anchor_text": "Terms of Service"
+    },
+    {
+      "url": "https://experience.staratlas.com/privacy-policy",
+      "anchor_text": "Privacy Policy"
+    },
+    {
+      "url": "https://experience.staratlas.com/promotional-terms-and-conditions",
+      "anchor_text": "Promotional Terms"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/news",
+      "anchor_text": "Back"
+    },
+    {
+      "url": "https://www.thefabricant.com/",
+      "anchor_text": "The Fabricant"
+    },
+    {
+      "url": "https://play.staratlas.com/market",
+      "anchor_text": "Galactic Marketplace"
+    },
+    {
+      "url": "https://www.unrealengine.com/en-US/unreal-engine-5",
+      "anchor_text": "Unreal Engine 5"
+    },
+    {
+      "url": "https://solana.com/",
+      "anchor_text": "Solana"
+    },
+    {
+      "url": "https://play.staratlas.com/market/6GgPHefcbFu78kE9GZg3z1A9eHAaXeCPMqdjhRscFDSL",
+      "anchor_text": "PRIMORDIAL GLO Bomber Jacket"
+    },
+    {
+      "url": "https://play.staratlas.com/market/3AuyQppPMFToedMm8Xf1x79CfDUzpzLDorHHQmf11Rzy",
+      "anchor_text": "COSMIC ORIGIN 92 eL.eM.eN.tAL Jersey"
+    },
+    {
+      "url": "https://play.staratlas.com/market/ChJKLWcHQb4VXFmA9Q9gjLvRapkboUvWCfCfqmLsnhSw",
+      "anchor_text": "NXT leVel DS Bodysuit Glow-up"
+    },
+    {
+      "url": "https://play.staratlas.com/market/Fjcdi6CJJqvy2aSknEodKheB1dYVD9rdtZMJNjFo8Fck",
+      "anchor_text": "PhotoniX Provenance Primal Origin Neckwear"
+    },
+    {
+      "url": "http://staratlas.com/",
+      "anchor_text": "Star Atlas"
+    },
+    {
+      "url": "https://play.staratlas.com/market/Htg1p5W2yY91nM7hHk7GKTb1rAP2uZgGBxYfCWQJPfpvv",
+      "anchor_text": "See it on Galactic Marketplace"
+    },
+    {
+      "url": "https://www.animocabrands.com/",
+      "anchor_text": "Animoca Brands"
+    },
+    {
+      "url": "https://play.staratlas.com/market/Htg1p5W2yY91nM7hHk7GKTb1rAP2uZgGBxYfCWQJPfpv",
+      "anchor_text": "See it on Galactic Marketplace"
+    },
+    {
+      "url": "https://www.cryptokickers.com/",
+      "anchor_text": "CryptoKickers.com"
+    },
+    {
+      "url": "https://play.staratlas.com/market/BayVbJdbJawJHvjBdTmHaX8P5EDnmLHVUAN5ZcDzZoJL",
+      "anchor_text": "See it on Galactic Marketplace"
+    },
+    {
+      "url": "https://play.staratlas.com/market/AP2u8YPZtwanBUnP2SJ7mqXGwqZPQx4yLWdex7CtYToW",
+      "anchor_text": "See it on Galactic Marketplace"
+    },
+    {
+      "url": "http://ftx.com/",
+      "anchor_text": "FTX.com"
+    },
+    {
+      "url": "https://play.staratlas.com/market/8vA9cAVBrt29WaCZY3jQ99cHMF9JqnX7F8dqC25CWr5n",
+      "anchor_text": "See it on Galactic Marketplace"
+    },
+    {
+      "url": "https://phantom.app/",
+      "anchor_text": "Phantom"
+    },
+    {
+      "url": "https://play.staratlas.com/market/D6jGFKePetKogT778PDtAqsEf75rvqH2nk5MpR3JsCNn",
+      "anchor_text": "See it on Galactic Marketplace"
+    },
+    {
+      "url": "https://projectserum.com/",
+      "anchor_text": "Project Serum"
+    },
+    {
+      "url": "https://play.staratlas.com/market/5XoGYWfC8ULXkU51ozSzfS1rX24fq2MtzhJh3RuyZzNL",
+      "anchor_text": "See it on Galactic Marketplace"
+    },
+    {
+      "url": "https://play.staratlas.com/market/uWsNjBpSUYzF5pG2UvwTrMFwGnRecH7zBa9cuBMyfkX",
+      "anchor_text": "See it on Galactic Marketplace"
+    },
+    {
+      "url": "http://step.finance/",
+      "anchor_text": "Step.finance"
+    },
+    {
+      "url": "https://play.staratlas.com/market/BK5oTjFnW64Wk2fJdFbQ8e2dmB2rMUBFmAozp8FdhMwp",
+      "anchor_text": "See it on Galactic Marketplace"
+    },
+    {
+      "url": "https://raydium.io/",
+      "anchor_text": "Raydium"
+    },
+    {
+      "url": "https://play.staratlas.com/market/59M3seisE9pmfw2H2iiNyMNtHc2fP2PBdh659sG8Yctw",
+      "anchor_text": "See it on Galactic Marketplace"
+    },
+    {
+      "url": "https://c212.net/c/link/?t=0&l=en&o=3518016-1&h=2748636143&u=https%3A%2F%2Fc212.net%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D3397231-1%26h%3D2982849003%26u%3Dhttp%253A%252F%252Fsolana.com%252F%26a%3DSolana&a=Solana",
+      "anchor_text": "Solana"
+    },
+    {
+      "url": "https://c212.net/c/link/?t=0&l=en&o=3518016-1&h=1530369193&u=https%3A%2F%2Fc212.net%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D3397231-1%26h%3D3652583731%26u%3Dhttps%253A%252F%252Fstaratlas.com%252F%26a%3DStarAtlas.com&a=StarAtlas.com",
+      "anchor_text": "StarAtlas.com"
+    },
+    {
+      "url": "https://c212.net/c/link/?t=0&l=en&o=3518016-1&h=3921988929&u=https%3A%2F%2Fc212.net%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D3397231-1%26h%3D445912205%26u%3Dhttp%253A%252F%252Fplay.staratlas.com%252F%26a%3DPlay.StarAtlas.com&a=Play.StarAtlas.com",
+      "anchor_text": "Play.StarAtlas.com"
+    },
+    {
+      "url": "https://www.reddit.com/r/StarAtlas",
+      "anchor_text": "Reddit"
+    },
+    {
+      "url": "https://www.linkedin.com/company/star-atlas",
+      "anchor_text": "Linkedin"
+    },
+    {
+      "url": "https://medium.com/star-atlas",
+      "anchor_text": "Medium"
+    },
+    {
+      "url": "https://www.tiktok.com/@staratlasmetaverse",
+      "anchor_text": "Tik Tok"
+    },
+    {
+      "url": "http://www.thefabricant.com/",
+      "anchor_text": "The Fabricant"
+    },
+    {
+      "url": "http://twitter.com/the_fab_ric_ant",
+      "anchor_text": "Twitter"
+    },
+    {
+      "url": "https://discord.gg/Fyz54PwQ",
+      "anchor_text": "Discord"
+    },
+    {
+      "url": "https://www.instagram.com/the_fab_ric_ant/",
+      "anchor_text": "Instagram"
+    },
+    {
+      "url": "https://www.facebook.com/thefabricantdesign/",
+      "anchor_text": "Facebook"
+    },
+    {
+      "url": "https://www.linkedin.com/company/the-fabricant/",
+      "anchor_text": "LinkedIn"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/star-atlas-news/exclusive-ftx-and-raydium-spaceship-skin-nfts-drop-to-commemorate-record",
+      "anchor_text": "Prev Exclusive FTX and Raydium Spaceship Skin NFTs Drop to Commemorate Record-Shattering Token Listing"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/star-atlas-news/high-octane-october-star-atlas-set-to-release-player-factions-new-trailer",
+      "anchor_text": "Next High-Octane October: Star Atlas Set to Release Player Factions, New Trailer and Ships *In the most intense feature release week yet, the doors to the blockchain gaming metaverse will begin opening with a new faction selection release.*"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/star-atlas-news/firmam3ntal-star-makers-inaugural-collection-by-star-atlas-and-the-fabricant",
+      "anchor_text": "Trailer"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://experience.staratlas.com/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://play.staratlas.com",
+      "anchor_text": "Play Now"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/economic-reports/",
+      "anchor_text": "Economic Reports"
+    },
+    {
+      "url": "https://experience.staratlas.com/assets/pdfs/white-paper.pdf",
+      "anchor_text": "White Paper • PDF Read Our Official White Paper!"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/governance-documentation",
+      "anchor_text": "Governance Documentation Learn how Star Atlas is governed and built by its community."
+    },
+    {
+      "url": "https://experience.staratlas.com/terms-of-service",
+      "anchor_text": "Terms of Service"
+    },
+    {
+      "url": "https://experience.staratlas.com/privacy-policy",
+      "anchor_text": "Privacy Policy"
+    },
+    {
+      "url": "https://experience.staratlas.com/promotional-terms-and-conditions",
+      "anchor_text": "Promotional Terms"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/news",
+      "anchor_text": "Back"
+    },
+    {
+      "url": "https://play.staratlas.com/market",
+      "anchor_text": "Galactic Marketplace"
+    },
+    {
+      "url": "https://play.staratlas.com/market/6GgPHefcbFu78kE9GZg3z1A9eHAaXeCPMqdjhRscFDSL",
+      "anchor_text": "PRIMORDIAL GLO Bomber Jacket"
+    },
+    {
+      "url": "https://play.staratlas.com/market/3AuyQppPMFToedMm8Xf1x79CfDUzpzLDorHHQmf11Rzy",
+      "anchor_text": "COSMIC ORIGIN 92 eL.eM.eN.tAL Jersey"
+    },
+    {
+      "url": "https://play.staratlas.com/market/ChJKLWcHQb4VXFmA9Q9gjLvRapkboUvWCfCfqmLsnhSw",
+      "anchor_text": "NXT leVel DS Bodysuit Glow-up"
+    },
+    {
+      "url": "https://play.staratlas.com/market/Fjcdi6CJJqvy2aSknEodKheB1dYVD9rdtZMJNjFo8Fck",
+      "anchor_text": "PhotoniX Provenance Primal Origin Neckwear"
+    },
+    {
+      "url": "http://staratlas.com/",
+      "anchor_text": "Star Atlas"
+    },
+    {
+      "url": "https://play.staratlas.com/market/Htg1p5W2yY91nM7hHk7GKTb1rAP2uZgGBxYfCWQJPfpvv",
+      "anchor_text": "See it on Galactic Marketplace"
+    },
+    {
+      "url": "https://play.staratlas.com/market/Htg1p5W2yY91nM7hHk7GKTb1rAP2uZgGBxYfCWQJPfpv",
+      "anchor_text": "See it on Galactic Marketplace"
+    },
+    {
+      "url": "https://play.staratlas.com/market/BayVbJdbJawJHvjBdTmHaX8P5EDnmLHVUAN5ZcDzZoJL",
+      "anchor_text": "See it on Galactic Marketplace"
+    },
+    {
+      "url": "https://play.staratlas.com/market/AP2u8YPZtwanBUnP2SJ7mqXGwqZPQx4yLWdex7CtYToW",
+      "anchor_text": "See it on Galactic Marketplace"
+    },
+    {
+      "url": "https://play.staratlas.com/market/8vA9cAVBrt29WaCZY3jQ99cHMF9JqnX7F8dqC25CWr5n",
+      "anchor_text": "See it on Galactic Marketplace"
+    },
+    {
+      "url": "https://play.staratlas.com/market/D6jGFKePetKogT778PDtAqsEf75rvqH2nk5MpR3JsCNn",
+      "anchor_text": "See it on Galactic Marketplace"
+    },
+    {
+      "url": "https://play.staratlas.com/market/5XoGYWfC8ULXkU51ozSzfS1rX24fq2MtzhJh3RuyZzNL",
+      "anchor_text": "See it on Galactic Marketplace"
+    },
+    {
+      "url": "https://play.staratlas.com/market/uWsNjBpSUYzF5pG2UvwTrMFwGnRecH7zBa9cuBMyfkX",
+      "anchor_text": "See it on Galactic Marketplace"
+    },
+    {
+      "url": "https://play.staratlas.com/market/BK5oTjFnW64Wk2fJdFbQ8e2dmB2rMUBFmAozp8FdhMwp",
+      "anchor_text": "See it on Galactic Marketplace"
+    },
+    {
+      "url": "https://play.staratlas.com/market/59M3seisE9pmfw2H2iiNyMNtHc2fP2PBdh659sG8Yctw",
+      "anchor_text": "See it on Galactic Marketplace"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/star-atlas-news/exclusive-ftx-and-raydium-spaceship-skin-nfts-drop-to-commemorate-record",
+      "anchor_text": "Prev Exclusive FTX and Raydium Spaceship Skin NFTs Drop to Commemorate Record-Shattering Token Listing"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/star-atlas-news/high-octane-october-star-atlas-set-to-release-player-factions-new-trailer",
+      "anchor_text": "Next High-Octane October: Star Atlas Set to Release Player Factions, New Trailer and Ships *In the most intense feature release week yet, the doors to the blockchain gaming metaverse will begin opening with a new faction selection release.*"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/star-atlas-news/firmam3ntal-star-makers-inaugural-collection-by-star-atlas-and-the-fabricant",
+      "anchor_text": "Trailer"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://experience.staratlas.com/newsroom/star-atlas-news/firmam3ntal-star-makers-inaugural-collection-by-star-atlas-and-the-fabricant",
+    "final_url": "https://experience.staratlas.com/newsroom/star-atlas-news/firmam3ntal-star-makers-inaugural-collection-by-star-atlas-and-the-fabricant",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "response_size": 85561,
+    "retrieved_at": "2026-07-13T01:04:42.448038Z",
+    "elapsed_ms": 263
+  }
+}

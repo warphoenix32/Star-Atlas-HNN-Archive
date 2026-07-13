@@ -1,0 +1,384 @@
+{
+  "source": {
+    "source_id": "SRC-IH-67CC9C09B4DE5F7E",
+    "url_id": "URL-67CC9C09B4DE5F7E",
+    "url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-132/",
+    "inventory_url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-132",
+    "title": "Star Atlas Weekly News Recap #132",
+    "author": "Intergalactic Herald",
+    "publisher": "Intergalactic Herald",
+    "published_at": "2024-09-29T17:00:00",
+    "updated_at": "2024-09-27T21:50:42",
+    "retrieved_at": "2026-07-12T22:04:10.962270Z",
+    "document_type": "NEWSLETTER",
+    "source_role": "CURATED_SUMMARY",
+    "source_classification": "CURATED_SUMMARY",
+    "classification_rationale": "Weekly newsletter/recap aggregates developments and linked sources.",
+    "wordpress_type": "posts"
+  },
+  "summary": {
+    "neutral_abstract": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week. We are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us. We are launching a Star Atlas merch store. Please check it out at Intergalactic",
+    "historical_value": "Contemporary Intergalactic Herald publication preserved with role and attribution boundaries.",
+    "current_validity_warning": "Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources."
+  },
+  "article_text": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week.\nWe are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us.\nWe are launching a Star Atlas merch store. Please check it out at Intergalactic Gear.\nWe are creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic Coalition.\nIf you would like to support our efforts, donations can be sent to intergalacticherald.sol\nImpact Summit 2024 – Star Atlas\nStar Atlas posted a video of their Impact Summit.\nStar Atlas Impact summit 2024\nStar Atlas TV posted a video of a livestream from the Star Atlas Impact Summit.\nStar Atlas Keynote Impact Summit\nBeyond the Horizon posted an excerpt of the keynote session from the Impact Summit.\nStar Atlas: 12 Minutes Early Campaign-Style Footage\nBeyond the Horizon posted an except of a campaign gameplay from the Impact Summit.\nSTAR ATLAS #253 CONFERENCE HIGHLIGHTS! What The Hell Happened!?\nMeteVerse Explorer posted a video of highlights from the Impact Summit.\nMetaverse Nomads #165 Star Atlas Breakpoint Recap\nMetaverse Nomads posted their weekly Star Atlas livestream.\nWeekly Star Atlas Newsletter #148\nAephia published their weekly Star Atlas newsletter.\nStar Atlas: Keynote Speech Review\nOCG Thor posted a video of his review of the Star Atlas Impact Summit keynote.\nThe Atlas Brew 129\nStar Atlas TV posted the latest Atlas Brew.\nStar Atlas Brew #129: Live from Singapore – TLDR\nBeth posted a video recapping the latest Atlas Brew.\nStar Atlas Impact Summit Final Overview\nBeyond the Horizon posted an overview of the Star Atlas Impact Summit.\nStar Atlas Ships – Introducing the Pearce F4\nStar Atlas posted a video showing the Pearce F4 ship.",
+  "content_hash": "0a7cb78b60cd4de40aecad78ea9c49bd5c91eeb06971788c4da826f94c8938c4",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [
+    "2024"
+  ],
+  "external_sources": [
+    {
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "url": "https://www.youtube.com/live/1c_SOsBj3Lc",
+      "anchor_text": "Impact Summit"
+    },
+    {
+      "url": "https://www.youtube.com/live/9nmWfPSaLqM",
+      "anchor_text": "Star Atlas Impact Summit"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=rDsGM_6kjwQ",
+      "anchor_text": "keynote session"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Vl7h7u0Z2ZA",
+      "anchor_text": "campaign gameplay"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=BIN6Xp2BHRI",
+      "anchor_text": "highlights from the Impact Summit"
+    },
+    {
+      "url": "https://www.youtube.com/live/_vMfj-t49qo",
+      "anchor_text": "weekly Star Atlas livestream"
+    },
+    {
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-148/",
+      "anchor_text": "weekly Star Atlas newsletter"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=KHFDgezYP50",
+      "anchor_text": "Star Atlas Impact Summit keynote"
+    },
+    {
+      "url": "https://www.youtube.com/live/humdzWupSHc",
+      "anchor_text": "Atlas Brew"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=wPi5VZu6fuc",
+      "anchor_text": "recapping the latest Atlas Brew"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=0y5yyX_Nw-Q",
+      "anchor_text": "overview of the Star Atlas Impact Summit"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=AhBwLZCp0z8",
+      "anchor_text": "Pearce F4 ship"
+    }
+  ],
+  "primary_source_relationships": [
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/live/1c_SOsBj3Lc",
+      "anchor_text": "Impact Summit"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/live/9nmWfPSaLqM",
+      "anchor_text": "Star Atlas Impact Summit"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=rDsGM_6kjwQ",
+      "anchor_text": "keynote session"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=Vl7h7u0Z2ZA",
+      "anchor_text": "campaign gameplay"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=BIN6Xp2BHRI",
+      "anchor_text": "highlights from the Impact Summit"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/live/_vMfj-t49qo",
+      "anchor_text": "weekly Star Atlas livestream"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-148/",
+      "anchor_text": "weekly Star Atlas newsletter"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=KHFDgezYP50",
+      "anchor_text": "Star Atlas Impact Summit keynote"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/live/humdzWupSHc",
+      "anchor_text": "Atlas Brew"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=wPi5VZu6fuc",
+      "anchor_text": "recapping the latest Atlas Brew"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=0y5yyX_Nw-Q",
+      "anchor_text": "overview of the Star Atlas Impact Summit"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=AhBwLZCp0z8",
+      "anchor_text": "Pearce F4 ship"
+    }
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Verify which outbound links are primary sources and preserve creator attribution during promotion."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-132&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 6466,
+    "elapsed_ms": 2368,
+    "attempts": [
+      {
+        "endpoint": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-132&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "http_status": 200,
+        "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-132&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "content_type": "application/json; charset=UTF-8",
+        "response_size": 6466,
+        "elapsed_ms": 2368
+      }
+    ]
+  },
+  "source_lineage": {
+    "publication": "Intergalactic Herald",
+    "publication_role": "CURATED_SUMMARY",
+    "relationship": "CURATED_SUMMARY_OF",
+    "primary_sources": [
+      {
+        "publication": "Impact Summit",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/live/1c_SOsBj3Lc",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Impact Summit"
+      },
+      {
+        "publication": "Star Atlas Impact Summit",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/live/9nmWfPSaLqM",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas Impact Summit"
+      },
+      {
+        "publication": "keynote session",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=rDsGM_6kjwQ",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: keynote session"
+      },
+      {
+        "publication": "campaign gameplay",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=Vl7h7u0Z2ZA",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: campaign gameplay"
+      },
+      {
+        "publication": "highlights from the Impact Summit",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=BIN6Xp2BHRI",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: highlights from the Impact Summit"
+      },
+      {
+        "publication": "weekly Star Atlas livestream",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/live/_vMfj-t49qo",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: weekly Star Atlas livestream"
+      },
+      {
+        "publication": "weekly Star Atlas newsletter",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-148/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article with anchor text: weekly Star Atlas newsletter"
+      },
+      {
+        "publication": "Star Atlas Impact Summit keynote",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=KHFDgezYP50",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas Impact Summit keynote"
+      },
+      {
+        "publication": "Atlas Brew",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/live/humdzWupSHc",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: Atlas Brew"
+      },
+      {
+        "publication": "recapping the latest Atlas Brew",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=wPi5VZu6fuc",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: recapping the latest Atlas Brew"
+      },
+      {
+        "publication": "overview of the Star Atlas Impact Summit",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=0y5yyX_Nw-Q",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: overview of the Star Atlas Impact Summit"
+      },
+      {
+        "publication": "Pearce F4 ship",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=AhBwLZCp0z8",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Pearce F4 ship"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "publication": "Intergalactic Gear",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticgear.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Intergalactic Coalition",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticcoalition.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      }
+    ],
+    "original_creators": [
+      "Aephia",
+      "Star Atlas"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Impact Summit",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/live/1c_SOsBj3Lc"
+      },
+      {
+        "from": "Star Atlas Impact Summit",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/live/9nmWfPSaLqM"
+      },
+      {
+        "from": "keynote session",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=rDsGM_6kjwQ"
+      },
+      {
+        "from": "campaign gameplay",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=Vl7h7u0Z2ZA"
+      },
+      {
+        "from": "highlights from the Impact Summit",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=BIN6Xp2BHRI"
+      },
+      {
+        "from": "weekly Star Atlas livestream",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/live/_vMfj-t49qo"
+      },
+      {
+        "from": "weekly Star Atlas newsletter",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-148/"
+      },
+      {
+        "from": "Star Atlas Impact Summit keynote",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=KHFDgezYP50"
+      },
+      {
+        "from": "Atlas Brew",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/live/humdzWupSHc"
+      },
+      {
+        "from": "recapping the latest Atlas Brew",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=wPi5VZu6fuc"
+      },
+      {
+        "from": "overview of the Star Atlas Impact Summit",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=0y5yyX_Nw-Q"
+      },
+      {
+        "from": "Pearce F4 ship",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=AhBwLZCp0z8"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  }
+}

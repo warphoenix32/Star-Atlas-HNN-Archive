@@ -1,0 +1,272 @@
+{
+  "source": {
+    "source_id": "SRC-IH-C7C9FE7619E9B199",
+    "url_id": "URL-C7C9FE7619E9B199",
+    "url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-137/",
+    "inventory_url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-137",
+    "title": "Star Atlas Weekly News Recap #137",
+    "author": "Intergalactic Herald",
+    "publisher": "Intergalactic Herald",
+    "published_at": "2024-11-03T17:00:00",
+    "updated_at": "2024-11-03T17:12:17",
+    "retrieved_at": "2026-07-12T22:07:50.306330Z",
+    "document_type": "NEWSLETTER",
+    "source_role": "CURATED_SUMMARY",
+    "source_classification": "CURATED_SUMMARY",
+    "classification_rationale": "Weekly newsletter/recap aggregates developments and linked sources.",
+    "wordpress_type": "posts"
+  },
+  "summary": {
+    "neutral_abstract": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week. We are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us. We are launching a Star Atlas merch store. Please check it out at Intergalactic",
+    "historical_value": "Contemporary Intergalactic Herald publication preserved with role and attribution boundaries.",
+    "current_validity_warning": "Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources."
+  },
+  "article_text": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week.\nWe are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us.\nWe are launching a Star Atlas merch store. Please check it out at Intergalactic Gear.\nWe are creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic Coalition.\nIf you would like to support our efforts, donations can be sent to intergalacticherald.sol\nSTAR ATLAS #256 Crazy New Insights From ‘NEW PLAYER PROFILE’\nMetaVerse Explorer posted a video of updates about Star Atlas.\nStar Atlas: Starbased Mobile\nBeyond the Horizon posted a video of playing Star Atlas SAGE on a smartphone.\nMetaverse Nomads #170 Star Atlas\nMetaverse Nomads posted their weekly Star Atlas livestream.\nFrom $0 to $250 Million: The Star Atlas Journey | Interview with CEO Michael Wagner\nStar Atlas CEO Michael Wagner was interviewed by PlayToEarn.\nWeekly Star Atlas Newsletter #153\nAephia published their weekly Star Atlas newsletter.\nThe Atlas Brew 134 Surge\nStar Atlas TV posted a video recording of the latest Atlas Brew.\nStar Atlas Starts the Golden Carnival on Solana: Win Your Share of the $4 Million Lootfest!\nStar Atlas published an article about the Golden Carnival event.",
+  "content_hash": "f1b95e0e0555eb035c825e93c9d3ed028204653fb55b235425428e7d2b89234c",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [],
+  "external_sources": [
+    {
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=pocTjrectWo",
+      "anchor_text": "updates about Star Atlas"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Nf999PdElWQ",
+      "anchor_text": "playing Star Atlas SAGE on a smartphone"
+    },
+    {
+      "url": "https://www.youtube.com/live/iNKw_KFPz4M",
+      "anchor_text": "weekly Star Atlas livestream"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=YQweu2Jt5Sc",
+      "anchor_text": "interviewed"
+    },
+    {
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-153/",
+      "anchor_text": "weekly Star Atlas newsletter"
+    },
+    {
+      "url": "https://www.youtube.com/live/2UqNQtufGGU",
+      "anchor_text": "Atlas Brew"
+    },
+    {
+      "url": "https://medium.com/star-atlas/star-atlas-starts-the-golden-carnival-on-solana-win-your-share-of-the-4-million-lootfest-8c30f07dfb71",
+      "anchor_text": "Golden Carnival event"
+    }
+  ],
+  "primary_source_relationships": [
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=pocTjrectWo",
+      "anchor_text": "updates about Star Atlas"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=Nf999PdElWQ",
+      "anchor_text": "playing Star Atlas SAGE on a smartphone"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/live/iNKw_KFPz4M",
+      "anchor_text": "weekly Star Atlas livestream"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=YQweu2Jt5Sc",
+      "anchor_text": "interviewed"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-153/",
+      "anchor_text": "weekly Star Atlas newsletter"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/live/2UqNQtufGGU",
+      "anchor_text": "Atlas Brew"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://medium.com/star-atlas/star-atlas-starts-the-golden-carnival-on-solana-win-your-share-of-the-4-million-lootfest-8c30f07dfb71",
+      "anchor_text": "Golden Carnival event"
+    }
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Verify which outbound links are primary sources and preserve creator attribution during promotion."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-137&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 4716,
+    "elapsed_ms": 1457,
+    "attempts": [
+      {
+        "endpoint": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-137&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "http_status": 200,
+        "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-137&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "content_type": "application/json; charset=UTF-8",
+        "response_size": 4716,
+        "elapsed_ms": 1457
+      }
+    ]
+  },
+  "source_lineage": {
+    "publication": "Intergalactic Herald",
+    "publication_role": "CURATED_SUMMARY",
+    "relationship": "CURATED_SUMMARY_OF",
+    "primary_sources": [
+      {
+        "publication": "updates about Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=pocTjrectWo",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: updates about Star Atlas"
+      },
+      {
+        "publication": "playing Star Atlas SAGE on a smartphone",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=Nf999PdElWQ",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: playing Star Atlas SAGE on a smartphone"
+      },
+      {
+        "publication": "weekly Star Atlas livestream",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/live/iNKw_KFPz4M",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: weekly Star Atlas livestream"
+      },
+      {
+        "publication": "interviewed",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=YQweu2Jt5Sc",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: interviewed"
+      },
+      {
+        "publication": "weekly Star Atlas newsletter",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-153/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article with anchor text: weekly Star Atlas newsletter"
+      },
+      {
+        "publication": "Atlas Brew",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/live/2UqNQtufGGU",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: Atlas Brew"
+      },
+      {
+        "publication": "Golden Carnival event",
+        "author": "UNKNOWN",
+        "url": "https://medium.com/star-atlas/star-atlas-starts-the-golden-carnival-on-solana-win-your-share-of-the-4-million-lootfest-8c30f07dfb71",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Golden Carnival event"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "publication": "Intergalactic Gear",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticgear.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Intergalactic Coalition",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticcoalition.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      }
+    ],
+    "original_creators": [
+      "Aephia",
+      "Star Atlas"
+    ],
+    "attribution_chain": [
+      {
+        "from": "updates about Star Atlas",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=pocTjrectWo"
+      },
+      {
+        "from": "playing Star Atlas SAGE on a smartphone",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=Nf999PdElWQ"
+      },
+      {
+        "from": "weekly Star Atlas livestream",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/live/iNKw_KFPz4M"
+      },
+      {
+        "from": "interviewed",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=YQweu2Jt5Sc"
+      },
+      {
+        "from": "weekly Star Atlas newsletter",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-153/"
+      },
+      {
+        "from": "Atlas Brew",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/live/2UqNQtufGGU"
+      },
+      {
+        "from": "Golden Carnival event",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://medium.com/star-atlas/star-atlas-starts-the-golden-carnival-on-solana-win-your-share-of-the-4-million-lootfest-8c30f07dfb71"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  }
+}

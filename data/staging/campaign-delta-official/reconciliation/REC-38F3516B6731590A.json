@@ -1,0 +1,14 @@
+{
+  "topic": "claims, galactic, marketplace, record, remain, the, this, time",
+  "official_source_ids": [
+    "SRC-OFF-6A56B5D30E7EBCA4"
+  ],
+  "community_source_ids": [
+    "SRC-HNN-89159474874DDC57"
+  ],
+  "relationship": "OFFICIAL_SUPERSEDES_OLDER_GUIDE",
+  "finding": "Automated topic overlap on: claims, galactic, marketplace, record, remain, the, this, time. Official authority is limited to the official wording; community context remains separately attributed.",
+  "confidence": "LOW",
+  "promotion_candidate": false,
+  "manual_review_required": true
+}

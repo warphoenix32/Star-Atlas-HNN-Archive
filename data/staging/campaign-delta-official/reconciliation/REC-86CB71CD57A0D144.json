@@ -1,0 +1,14 @@
+{
+  "topic": "claims, labs, record, reference, remain, sage, the, this",
+  "official_source_ids": [
+    "SRC-OFF-34D7C5B461DD88BE"
+  ],
+  "community_source_ids": [
+    "SRC-HNN-748787CA4D26D5A5"
+  ],
+  "relationship": "OFFICIAL_CONFIRMS_COMMUNITY_REPORT",
+  "finding": "Automated topic overlap on: claims, labs, record, reference, remain, sage, the, this, time. Official authority is limited to the official wording; community context remains separately attributed.",
+  "confidence": "MEDIUM",
+  "promotion_candidate": false,
+  "manual_review_required": true
+}

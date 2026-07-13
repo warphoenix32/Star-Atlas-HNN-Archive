@@ -1,0 +1,272 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-861849764B5554D1",
+    "url_id": "URL-861849764B5554D1",
+    "url": "https://medium.com/the-hologram/final-2022-star-atlas-town-hall-recap-151a10261def",
+    "title": "Final 2022 Star Atlas Town Hall Recap",
+    "author": "Krigs",
+    "publisher": "The Hologram",
+    "publication_identity": "The Hologram (Medium publication)",
+    "published_at": "2022-12-16T18:51:19Z",
+    "updated_at": "2022-12-16T18:51:19Z",
+    "retrieved_at": "2026-07-13T00:08:37.746896Z",
+    "document_type": "EVENT_COVERAGE",
+    "source_role": "EVENT_COVERAGE",
+    "publication_role": "EVENT_COVERAGE",
+    "classification_rationale": "Publication documents or recaps a named event."
+  },
+  "source_lineage": {
+    "publication": "The Hologram (Medium publication)",
+    "publication_role": "EVENT_COVERAGE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [
+      {
+        "publication": "Faction Aligned Companies",
+        "author": "UNKNOWN",
+        "url": "https://staratlas.notion.site/Faction-Aligned-Companies-Public-003dffe8c5c64fe88cce59793dd6ceb5",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "The SAGE Game Manual",
+        "author": "UNKNOWN",
+        "url": "https://staratlas.com/newsroom/game-manuals/sage-game-manual-part-2-game-structure",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://staratlas.com/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [
+      "Krigs"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Faction Aligned Companies",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://staratlas.notion.site/Faction-Aligned-Companies-Public-003dffe8c5c64fe88cce59793dd6ceb5"
+      },
+      {
+        "from": "The SAGE Game Manual",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://staratlas.com/newsroom/game-manuals/sage-game-manual-part-2-game-structure"
+      },
+      {
+        "from": "Star Atlas",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://staratlas.com/"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "This event coverage published by The Hologram on 2022-12-16 documents “Final 2022 Star Atlas Town Hall Recap.” Its surviving text addresses governance, economy, guilds and DACs, game development, community, lore, technology. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "Star AtlasGaming\nFinal 2022 Star Atlas Town Hall Recap\nKrigs3 min read·Dec 16, 2022\n--\nListen\nShare\nFriday Dec 16 — The final Star Atlas town hall for 2022 opened with a keynote from Star Atlas’ Michael Wagner and Santi.\nPress enter or click to view image in full size\nBefore getting into a recap of the year’s events Santi announced an end of the year surprise for SCORE participants. These rewards were given as recognition to SCORE stakers and are not tied to separate and still possible SCORE Badge rewards.\nSkin Airdrops for SCORE participants\nToday marked the one year anniversary for SCORE.\nPlayers participating in SCORE will receive Pearce X4 skins based on the number of days they have staked in SCORE.\nPress enter or click to view image in full size7 Days enlisted: Sun tiger Pearce X4 SkinPress enter or click to view image in full size150 Days enlisted: RedX - IV Pearce X4 SkinPress enter or click to view image in full size300 Days enlisted: Blue Tigu Pearce X4 Skin\n2022 Star Atlas Recap\nMichael then segued into a recap of the events over 2022\nJanuary: The release of Faction Aligned Companies\nFebruary: Phase 2 of the Galactic Asset Offering\nMarch: Staratlas.com winning website of the year and the beginning of weekly (now tri-weekly) roadmap scans\nApril: Collaboration with The Sandbox voxel editing contest with $50K in prizes\nMay: Solana Miami and Hacker House\nJune: First Council of Peace Event and release of first State of the Economy report from Star Atlas\nJuly: The first 426 Live event launching the Star Atlas DAO , POLIS Locker, Star Path referral system, Galactic Marketplace. Michael also hinted at big changes coming to the Star Path referral system\nSeptember: Second 426Live event launching the Star Atlas showroom , SCREAM Hanger Viewer, and ATLAS Locker.\nNovember: In describing the events of November, Michael Wagner stated that it was a bittersweet moment representing both the high and low points of the year. Breakpoint was a highly successful event in Lisbon, Portugal, but was overshadowed by the events of the collapse of FTX.\nDecember: The second phase of SAGE Start Sequence continues on December 20th with the launch of CSS Land Claims and Mining Stakes.\nThe Star Atlas team will begin their holiday break on Dec 21 and return on Jan 3rd.\nOther Significant Updates\nMining Claim Stakes will be integrated into SCORE and emit a level of R4 leading up to the launch of SAGE DevNet in February\nDAC integrations tools will begin rolling out in Q1 of 2023 to support guild integrations\nSAGE Game Manual Release\nThe long awaited SAGE game manual was released today — The SAGE Game Manual\nAgain, DevNet launch will be targeted for April.\nShowroom R2 Release\nShowroom R2 will be released on the Epic Game Store around 2PM EST on Fri, Dec 16th\nSome features in this release:\nCharacter selections and skin selections\nDogfighting arena with future support for multiplayer\nAn upcoming Showroom R2.1 release will bring:\nUnreal 5.1 integration\nKrigs is the founder of The Hologram News Network, an independent blockchain gaming meta-news organization devoted to the coverage of the Star Atlas game. Krigs has covered Star Atlas for the past year and enjoys writing about the potential that blockchain technology has to revolutionize the gaming industry.\nFollow on Social Media:\nTwitter | Instagram | Web\nAbout The Hologram\nThe Hologram is Star Atlas’ first and only independent news network. Our vision is to become the most trusted source of information about Star Atlas and a voice for the whole community. Readers can expect a high standard from our reporting and staff. Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.\nThe Hologram is not endorsed or paid by the Star Atlas team. Any information published by The Hologram nor its writers should be considered as informational in nature and does not constitute any financial advice.",
+  "content_hash": "c386f07460aad19cb7293a62f3f9ef76560db6ab0b97053d22205d518ed684a9",
+  "major_topics": [
+    "governance",
+    "economy",
+    "guilds and DACs",
+    "game development",
+    "community",
+    "lore",
+    "technology"
+  ],
+  "entities": [
+    "ATLAS",
+    "Krigs",
+    "Michael Wagner",
+    "POLIS",
+    "SAGE",
+    "SCORE",
+    "SCREAM",
+    "Santi",
+    "Showroom",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-861849764B5554D1-01",
+      "text": "Press enter or click to view image in full size Before getting into a recap of the year’s events Santi announced an end of the year surprise for SCORE participants.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-861849764B5554D1",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-861849764B5554D1-02",
+      "text": "Players participating in SCORE will receive Pearce X4 skins based on the number of days they have staked in SCORE.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-861849764B5554D1",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-861849764B5554D1-03",
+      "text": "The Star Atlas team will begin their holiday break on Dec 21 and return on Jan 3rd.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-861849764B5554D1",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-861849764B5554D1-04",
+      "text": "Other Significant Updates Mining Claim Stakes will be integrated into SCORE and emit a level of R4 leading up to the launch of SAGE DevNet in February DAC integrations tools will begin rolling out in Q1 of 2023 to support guild integrations SAGE Game Manual Release The long awaited SAGE game manual was released today — The SAGE Game Manual Again, DevNet launch will be targeted for April.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-861849764B5554D1",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-861849764B5554D1-05",
+      "text": "Showroom R2 Release Showroom R2 will be released on the Epic Game Store around 2PM EST on Fri, Dec 16th Some features in this release: Character selections and skin selections Dogfighting arena with future support for multiplayer An upcoming Showroom R2.1 release will bring: Unreal 5.1 integration Krigs is the founder of The Hologram News Network, an independent blockchain gaming meta-news organization devoted to the coverage of the Star Atlas game.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-861849764B5554D1",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-861849764B5554D1-06",
+      "text": "Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-861849764B5554D1",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "SAGE",
+    "SCORE",
+    "Star Atlas",
+    "Showroom",
+    "POLIS",
+    "ATLAS",
+    "SCREAM"
+  ],
+  "governance_items": [
+    "Star Atlas governance / DAO"
+  ],
+  "lore_items": [
+    "ONI"
+  ],
+  "actors": [
+    "Michael Wagner",
+    "Krigs",
+    "Santi"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://medium.com/@krigsfoniks?source=post_page---byline--151a10261def---------------------------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fthe-hologram%2F151a10261def&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Ffinal-2022-star-atlas-town-hall-recap-151a10261def&user=Krigs&userId=41e0c5b141f1&source=---header_actions--151a10261def---------------------clap_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Frepost%2Fp%2F151a10261def&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Ffinal-2022-star-atlas-town-hall-recap-151a10261def&user=Krigs&userId=41e0c5b141f1&source=---header_actions--151a10261def---------------------repost_header------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F151a10261def&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Ffinal-2022-star-atlas-town-hall-recap-151a10261def&source=---header_actions--151a10261def---------------------bookmark_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2Fplans%3Fdimension%3Dpost_audio_button%26postId%3D151a10261def&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Ffinal-2022-star-atlas-town-hall-recap-151a10261def&source=---header_actions--151a10261def---------------------post_audio_button------------------",
+      "anchor_text": "Listen"
+    },
+    {
+      "url": "https://medium.com/u/5ed69ff9cfb0?source=post_page---user_mention--151a10261def---------------------------------------",
+      "anchor_text": "Star Atlas"
+    },
+    {
+      "url": "https://staratlas.notion.site/Faction-Aligned-Companies-Public-003dffe8c5c64fe88cce59793dd6ceb5",
+      "anchor_text": "Faction Aligned Companies"
+    },
+    {
+      "url": "https://medium.com/u/22d1079b43b4?source=post_page---user_mention--151a10261def---------------------------------------",
+      "anchor_text": "The Sandbox"
+    },
+    {
+      "url": "https://medium.com/the-hologram/copa-2022-recap-coexist-takes-home-grand-prize-3974d8007483",
+      "anchor_text": "Council of Peace Event"
+    },
+    {
+      "url": "https://medium.com/blockchain-biz/star-atlas-heavily-affected-by-ftx-catastrophe-ceo-remains-committed-180cf3c2f5a9",
+      "anchor_text": "collapse of FTX"
+    },
+    {
+      "url": "https://medium.com/blockchain-biz/star-atlas-land-sale-begins-dec-20th-c2a37c7fe443",
+      "anchor_text": "CSS Land Claims"
+    },
+    {
+      "url": "https://staratlas.com/newsroom/game-manuals/sage-game-manual-part-2-game-structure",
+      "anchor_text": "The SAGE Game Manual"
+    },
+    {
+      "url": "https://twitter.com/home",
+      "anchor_text": "Twitter"
+    },
+    {
+      "url": "https://thehologram.io/",
+      "anchor_text": "Web"
+    },
+    {
+      "url": "https://medium.com/the-hologram",
+      "anchor_text": "The Hologram"
+    },
+    {
+      "url": "https://staratlas.com/",
+      "anchor_text": "Star Atlas"
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "https://medium.com/the-hologram/final-2022-star-atlas-town-hall-recap-151a10261def",
+    "final_url": "https://medium.com/the-hologram/final-2022-star-atlas-town-hall-recap-151a10261def",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 147662,
+    "elapsed_ms": 754,
+    "retrieval_mode": "LIVE",
+    "archive_capture": null
+  }
+}

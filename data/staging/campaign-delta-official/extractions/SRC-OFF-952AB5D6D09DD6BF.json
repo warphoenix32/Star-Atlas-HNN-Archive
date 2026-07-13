@@ -1,0 +1,245 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-952AB5D6D09DD6BF",
+    "url": "https://support.staratlas.com/hc/en-us/articles/52272891667987-How-to-Mine-Resources-in-C4-PTR",
+    "title": "How to Mine Resources in C4 PTR",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2026-06-03T13:23:31Z",
+    "updated_at": "2026-06-04T13:12:47Z",
+    "original_date_text": "2026-06-03T13:23:31Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “How to Mine Resources in C4 PTR.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Mining allows your fleet to gather resources from planets and asteroids across the Galia Expanse.\nThis guide explains how to prepare a mining fleet, find mineable resources, move to the correct location, start mining, and stop mining when your fleet needs to return to base.\nNote: C4 PTR is still in development. Mining behavior, requirements, resources, and interface details may change over time.\nBefore you start\nBefore mining, you need to create a fleet.\nIf you have not created a fleet yet, check the How to Create and Use a Fleet in C4 PTR guide first.\nYour mining fleet should be prepared with the right ships, fuel, food, and enough available cargo space to collect resources.\nStep 1: Review your ship stats in the Config Bay\nBefore forming a mining fleet, you can review your ships from the Config Bay inside the Hangar.\nThe Config Bay shows ship stats and can help you choose the best ships for the role you want your fleet to perform.\nFor mining, pay attention to mining-related stats and cargo capacity.\nYou can also review the stats of the fleet while creating or updating it.\nWhen you are in the fleet staging / manifest screen, click Show Stats to view detailed fleet stats before forming or updating the fleet.\nStep 2: Prepare fuel, food, and cargo space\nTo mine, your fleet needs the right supplies.\nYour mining fleet should have:\nFuel Pod Fuel for movement\nFood for the crew\nAmmo Pod Ammunition for mining with most ships\nEnough available cargo space to collect mined resources\nNote: Armstrong miners do not require ammo for mining.\nBe careful when loading food or other cargo into the fleet. Food is stored in cargo, so if you fill your entire cargo hold with food, your fleet will not have space left to collect mined resources.\nTry to find the right balance between enough supplies for the operation and enough empty cargo space for mining.\nAlso make sure you are using the correct resource type:\nFuel - Fuel Pod is used for fleet movement.\nFuel - Cargo Hold is stored as cargo and is not used the same way for flight.\nAmmunition - Ammo Pod is used for mining with most ships.\nAmmunition - Cargo Hold is stored as cargo and is not used the same way for mining.\nStep 3: Form and undock your fleet\nOnce you know which ships and supplies you want to use:\nForm your fleet from the Hangar.\nAdd the ships you want to use.\nAdd the fuel and food needed for the operation.\nMake sure you still have empty cargo space.\nClick Form Fleet.\nFrom the Hangar view, select the fleet.\nClick Undock.\nYour fleet must be undocked before it can move or mine.\nStep 4: Find a resource to mine\nDifferent planets and asteroids can have different resources available.\nTo check what resources are available:\nClick the planet or asteroid you want to inspect.\nReview the list of available resources on that celestial body.\nDecide which resource you want to mine.\nStep 5: Move your fleet to the mining location\nOnce you have chosen where you want to mine, move your fleet to that location.\nYou can move your fleet using available movement options such as:\nWarp\nSubwarp\nSelect the movement option that fits your situation and move the fleet to the planet or asteroid where the resource is available.\nStep 6: Select your fleet\nWhen your fleet arrives at the mining location, keep it undocked and select it.\nYou can quickly find your fleet using the My Fleets menu at the top of the screen.\nTo select your fleet:\nOpen My Fleets.\nClick the fleet you want to use.\nThe fleet menu will open on the left side of the screen.\nStep 7: Start mining\nWith your fleet selected:\nClick Mine from the fleet action menu.\nSelect the available celestial body you want to mine.\nSelect the resource you want to mine.\nClick Start Mining at the bottom of the menu.\nYou can select up to 8 resources for the fleet to mine at the same time, as long as those resources are available at the selected location.\nStep 8: Monitor your fleet\nWhile mining, monitor your fleet’s cargo and supplies.\nYou may need to stop mining when:\nYour fleet cargo is full\nYour fleet is running low on food\nYou want to move to another location\nYou want to return resources to a Starbase\nIf your cargo is full, your fleet will not be able to collect more resources.\nStep 9: Stop mining and return to base\nWhen your fleet is full or you want to end the mining operation:\nStop mining.\nMove your fleet back to a Starbase.\nDock the fleet.\nEmpty the fleet cargo.\nOnce the cargo is emptied and your fleet has the supplies it needs, you can undock again and start another mining run.\nSummary\nTo mine resources in C4 PTR:\nReview ship stats in the Config Bay.\nCreate a fleet with mining-capable ships.\nAdd fuel and food.\nKeep enough empty cargo space for mined resources.\nUndock your fleet.\nFind a planet or asteroid with the resource you want.\nMove your fleet there using Warp or Subwarp.\nSelect your fleet from My Fleets.\nClick Mine.\nSelect the resource you want to mine.\nClick Start Mining.\nStop mining and return to base when your cargo is full or supplies run low.",
+  "content_hash": "80278f6d8e79838b07ef3a94721ad1457be6613134dbe505464ed733d396802b",
+  "entities": [
+    "C4",
+    "Crew"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-952AB5D6D09DD6BF-01",
+      "text": "Mining allows your fleet to gather resources from planets and asteroids across the Galia Expanse.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-952AB5D6D09DD6BF",
+      "publication_date": "2026-06-03T13:23:31Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-952AB5D6D09DD6BF-02",
+      "text": "This guide explains how to prepare a mining fleet, find mineable resources, move to the correct location, start mining, and stop mining when your fleet needs to return to base.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-952AB5D6D09DD6BF",
+      "publication_date": "2026-06-03T13:23:31Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-952AB5D6D09DD6BF-03",
+      "text": "Mining behavior, requirements, resources, and interface details may change over time.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-952AB5D6D09DD6BF",
+      "publication_date": "2026-06-03T13:23:31Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-952AB5D6D09DD6BF-04",
+      "text": "Before you start Before mining, you need to create a fleet.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-952AB5D6D09DD6BF",
+      "publication_date": "2026-06-03T13:23:31Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-952AB5D6D09DD6BF-05",
+      "text": "If you have not created a fleet yet, check the How to Create and Use a Fleet in C4 PTR guide first.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-952AB5D6D09DD6BF",
+      "publication_date": "2026-06-03T13:23:31Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-952AB5D6D09DD6BF-06",
+      "text": "Your mining fleet should be prepared with the right ships, fuel, food, and enough available cargo space to collect resources.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-952AB5D6D09DD6BF",
+      "publication_date": "2026-06-03T13:23:31Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-952AB5D6D09DD6BF-07",
+      "text": "Step 1: Review your ship stats in the Config Bay Before forming a mining fleet, you can review your ships from the Config Bay inside the Hangar.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-952AB5D6D09DD6BF",
+      "publication_date": "2026-06-03T13:23:31Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-952AB5D6D09DD6BF-08",
+      "text": "The Config Bay shows ship stats and can help you choose the best ships for the role you want your fleet to perform.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-952AB5D6D09DD6BF",
+      "publication_date": "2026-06-03T13:23:31Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-952AB5D6D09DD6BF-09",
+      "text": "For mining, pay attention to mining-related stats and cargo capacity.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-952AB5D6D09DD6BF",
+      "publication_date": "2026-06-03T13:23:31Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-952AB5D6D09DD6BF-10",
+      "text": "You can also review the stats of the fleet while creating or updating it.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-952AB5D6D09DD6BF",
+      "publication_date": "2026-06-03T13:23:31Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-952AB5D6D09DD6BF-11",
+      "text": "When you are in the fleet staging / manifest screen, click Show Stats to view detailed fleet stats before forming or updating the fleet.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-952AB5D6D09DD6BF",
+      "publication_date": "2026-06-03T13:23:31Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-952AB5D6D09DD6BF-12",
+      "text": "Step 2: Prepare fuel, food, and cargo space To mine, your fleet needs the right supplies.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-952AB5D6D09DD6BF",
+      "publication_date": "2026-06-03T13:23:31Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-952AB5D6D09DD6BF-13",
+      "text": "Your mining fleet should have: Fuel Pod Fuel for movement Food for the crew Ammo Pod Ammunition for mining with most ships Enough available cargo space to collect mined resources Note: Armstrong miners do not require ammo for mining.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-952AB5D6D09DD6BF",
+      "publication_date": "2026-06-03T13:23:31Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-952AB5D6D09DD6BF-14",
+      "text": "Be careful when loading food or other cargo into the fleet.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-952AB5D6D09DD6BF",
+      "publication_date": "2026-06-03T13:23:31Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-952AB5D6D09DD6BF-15",
+      "text": "Food is stored in cargo, so if you fill your entire cargo hold with food, your fleet will not have space left to collect mined resources.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-952AB5D6D09DD6BF",
+      "publication_date": "2026-06-03T13:23:31Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "C4",
+    "Crew"
+  ],
+  "governance_items": [],
+  "lore_items": [
+    "Galia"
+  ],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/52251721868563",
+      "anchor_text": "How to Create and Use a Fleet in C4 PTR"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/52251721868563",
+      "anchor_text": "How to Create and Use a Fleet in C4 PTR"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/52272891667987-How-to-Mine-Resources-in-C4-PTR",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.440291Z"
+  }
+}

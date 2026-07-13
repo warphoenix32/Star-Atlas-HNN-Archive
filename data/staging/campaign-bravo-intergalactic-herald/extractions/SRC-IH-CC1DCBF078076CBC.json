@@ -1,0 +1,180 @@
+{
+  "source": {
+    "source_id": "SRC-IH-CC1DCBF078076CBC",
+    "url_id": "URL-CC1DCBF078076CBC",
+    "url": "https://intergalacticherald.com/star-atlas-recap/recap-9-atlas-brew-161-level-design-deep-dive/",
+    "inventory_url": "https://intergalacticherald.com/star-atlas-recap/recap-9-atlas-brew-161-level-design-deep-dive",
+    "title": "Recap 9: Atlas Brew #161 – Level Design Deep Dive",
+    "author": "Intergalactic Herald",
+    "publisher": "Intergalactic Herald",
+    "published_at": "2025-05-28T21:00:00",
+    "updated_at": "2025-05-30T20:51:30",
+    "retrieved_at": "2026-07-12T22:07:59.829427Z",
+    "document_type": "EVENT_RECAP",
+    "source_role": "CURATED_SUMMARY",
+    "source_classification": "CURATED_SUMMARY",
+    "classification_rationale": "Event recap summarizes an externally originated event, broadcast, or discussion.",
+    "wordpress_type": "posts"
+  },
+  "summary": {
+    "neutral_abstract": "In this episode, hear an AI summary of the latest Star Atlas community event. Full video recordings can be found on the YouTube channel of Star Atlas TV at https://www.youtube.com/@staratlastv. We are launching a Star Atlas merch store. Please check it out at Intergalactic Gear. We are creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic",
+    "historical_value": "Contemporary Intergalactic Herald publication preserved with role and attribution boundaries.",
+    "current_validity_warning": "Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources."
+  },
+  "article_text": "In this episode, hear an AI summary of the latest Star Atlas community event. Full video recordings can be found on the YouTube channel of Star Atlas TV at https://www.youtube.com/@staratlastv.\nWe are launching a Star Atlas merch store. Please check it out at Intergalactic Gear.\nWe are creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic Coalition.\nIf you would like to support our efforts, donations can be sent to intergalacticherald.sol\nListen on Apple Podcasts\nListen on Spotify\nPodcast Transcript\nThis video transcript features a discussion about various topics within the Star Atlas community and development, with a primary focus on level design. The session begins with casual greetings and mentions of what the participants are drinking, noting coffee and water. A recent week-long break from energy drinks was mentioned.\nThe conversation quickly moves to noteworthy news and events. Iris Quest is highlighted as a significant recent tournament where 10 teams and over 50 players competed, with congratulations extended to Coexist for their win and the community, particularly Kimera, for organizing the “unforgettable moment”. The performance of the Automata team, the Dyson Sphere, was also noted, having almost won and wanting a rematch. Neo was specifically praised for his hosting and introductions during the tournament. Looking ahead, a community-run poker night hosted by Nash is being organized, with a form available for those interested in participating. Nash, described as a real-life friend and poker dealer, is trusted to run the event. A new weekly event, the monthly builder hour, is being introduced to the main server, moving from the committee kitchen server. This event is for anyone using the Star Atlas build program, trying to start a business, or developing something using the programs, offering direct communication with Automata engineers for technical help and also involving the Galia Business Association and community attention. The Galia Games Night continues to happen on Fridays, involving playing together on servers in the UE5 game, potentially including gun games and search modes. Additionally, a community-led Solana grants writing team is forming with the goal of expanding Star Atlas businesses into the Solana community, led by Bohemian and Lancer. An important upcoming event is the announcement of a Town Hall date, described as an “announcement of an announcement” and anticipated to be “action-packed” and long, requiring attendees to have pen and paper ready for detailed information sharing. Lastly, it was noted that Atom is working on scanning functionalities for their automation tool for Sage, based on information seen on X.\nThe main segment features Blake, an expert on level design, discussing the process and iterations of existing and upcoming maps. They begin by looking at the history of Pisoul Arena, which started as a simple coliseum with blocky stands just to establish scale. Early ideas included integrating a section of a city or a terrarium inside the coliseum. Different versions explored more natural elements, like a dome vaguely similar to the current Oni CSS dome, and a sci-fi, blocky interior that was later moved away from. A rundown battle arena concept introduced more natural elements like a cave behind a waterfall and secret passageways within the coliseum walls, described as a “sewer area” leading to a jail cell. However, these hidden zones presented problems like players getting lost and the surface area becoming too large, moving away from the desired arcade/frag shooter feel that emphasizes fast navigation, jetpacks, and sliding mechanics. This design approach also became too complex and asset-heavy, leading to scope creep. The decision to move away from these ideas was driven by a combination of complexity and gameplay feel, specifically not wanting players to get stuck or lost, and focusing on an arena built for quick fighting, aligning with the Gateway map’s arcade style with ramps. The design shifted towards a sci-fi futuristic battle death arena where the goal is to get in and fight quickly. Later iterations became more blocky and edgy, gradually incorporating more art and high fidelity assets like waterfalls, force fields, moss, and wear and tear. Pisoul Arena is considered an “instant classic” map by some, giving vibes similar to maps like Rust or Nuketown. The map is currently undergoing a further art pass by artists and tech art, adding more detail and focusing on performance.\nNext, they discussed Gateway, described as the “OG map” and the first map. Its theme is a manufacturing spot or security checkpoint above a planet, part of the Visos belt defense system in the lore. Early designs included a complex, interactive cargo crane system and a large platform in the middle, which was also deemed overdesigned and having too many nooks where players could get lost, particularly frustrating for punabs. Gateway was notably the first map to receive a live update based on community feedback. Credible feedback, such as difficulty finding people in the previous iteration and the center area feeling too secluded, led to changes like opening up the center, adding a new cargo lift (which replaced a generator concept), removing the basement area that wasn’t often used, and opening up secluded rooms. These changes aimed to reduce the travel surface area and prevent players from getting lost, focusing on a base floor layout. The process involves Blake making initial layout adjustments based on feedback, discussing with the team, and then artists implementing the art. The use of geometry for ramps and cover rather than excessive props is a preferred style. Early spawn area concepts included a detailed locker room with bunk beds and a “chill area” for players before a match, but this idea was removed to make gameplay more immediate. Feedback regarding spawn trapping in the current Gateway map was also mentioned.\nBriefly, the upcoming map Uru was mentioned as being very early in development. The conversation then shifted to showing early concepts for an upcoming racetrack. This started with basic landscape splines to explore banking, track width, and different routes, including alternate paths, filling in imagined details like city blocks, cliffs, and swamp areas. A slightly more developed alpha version was shown, featuring city blocks and a large open swamp area. Concept art for the racetrack was also shared. It was revealed that Blake has a background as a semi-pro NASCAR racer, providing relevant experience for designing racing maps. The goal is to have this racetrack playable for the next patch, initially in an early phase before a full art pass.\nFinally, the discussion touched upon the social experience and land gameplay expected in Star Atlas, particularly within the CSS environment. The idea of being able to walk through the town, go into the coliseum grandstands to watch a match, and the general social aspect of having places like inns, shops, and bars within the game world was expressed as something highly anticipated. The excitement for when season zero arrives and players can choose land plots, build structures like apartments, and have their own place in a AAA quality environment was emphasized, noting that while land gameplay exists in some web3 games, Star Atlas aims for a higher quality experience. Players were encouraged to explore the current early state of CSS to get a feel for it and start thinking about where they might want to live, highlighting the variety of houses and places to live. The hosts thanked Blake for sharing the details and images, expressing appreciation for the openness of the development process. The session concluded with reminders about the upcoming Builder Hour and Galia Games Night, and the announcement tomorrow about the Town Hall date.",
+  "content_hash": "aea0fddb8d2ea226c05b7b6b207facfd044ffba0e14da7d4d23e6d779359125f",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [],
+  "external_sources": [
+    {
+      "url": "https://www.youtube.com/@staratlastv",
+      "anchor_text": "https://www.youtube.com/@staratlastv"
+    },
+    {
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "url": "https://podcasts.apple.com/us/podcast/star-atlas-week-in-review-podcast/id1678661043",
+      "anchor_text": "Listen on Apple Podcasts"
+    },
+    {
+      "url": "https://open.spotify.com/show/0aHDjCqFpy8Lzrkilv8n16",
+      "anchor_text": "Listen on Spotify"
+    }
+  ],
+  "primary_source_relationships": [
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/@staratlastv",
+      "anchor_text": "https://www.youtube.com/@staratlastv"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://podcasts.apple.com/us/podcast/star-atlas-week-in-review-podcast/id1678661043",
+      "anchor_text": "Listen on Apple Podcasts"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://open.spotify.com/show/0aHDjCqFpy8Lzrkilv8n16",
+      "anchor_text": "Listen on Spotify"
+    }
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Verify which outbound links are primary sources and preserve creator attribution during promotion.",
+      "Source lineage: attribution requires manual confirmation."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=recap-9-atlas-brew-161-level-design-deep-dive&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 11451,
+    "elapsed_ms": 1806,
+    "attempts": [
+      {
+        "endpoint": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=recap-9-atlas-brew-161-level-design-deep-dive&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "http_status": 200,
+        "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=recap-9-atlas-brew-161-level-design-deep-dive&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "content_type": "application/json; charset=UTF-8",
+        "response_size": 11451,
+        "elapsed_ms": 1806
+      }
+    ]
+  },
+  "source_lineage": {
+    "publication": "Intergalactic Herald",
+    "publication_role": "CURATED_SUMMARY",
+    "relationship": "CURATED_SUMMARY_OF",
+    "primary_sources": [
+      {
+        "publication": "Atlas Brew #161",
+        "author": "UNKNOWN",
+        "url": "UNKNOWN",
+        "organization": "Star Atlas",
+        "evidence": "Explicitly named in publication title"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "publication": "@Staratlastv",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/@staratlastv",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Intergalactic Gear",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticgear.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Intergalactic Coalition",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticcoalition.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Listen on Apple Podcasts",
+        "author": "UNKNOWN",
+        "url": "https://podcasts.apple.com/us/podcast/star-atlas-week-in-review-podcast/id1678661043",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Listen on Spotify",
+        "author": "UNKNOWN",
+        "url": "https://open.spotify.com/show/0aHDjCqFpy8Lzrkilv8n16",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Atlas Brew #161",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "UNKNOWN"
+      }
+    ],
+    "lineage_confidence": "MEDIUM"
+  }
+}

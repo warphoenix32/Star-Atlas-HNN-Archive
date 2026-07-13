@@ -1,0 +1,395 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-5EFB0950239A07BB",
+    "url_id": "URL-5EFB0950239A07BB",
+    "url": "https://medium.com/the-hologram/eve-online-enters-web3-9a7913c194d3",
+    "title": "EVE Online Enters Web3",
+    "author": "Oni Merchant",
+    "publisher": "The Hologram",
+    "publication_identity": "The Hologram (Medium publication)",
+    "published_at": "2023-04-06T16:29:37Z",
+    "updated_at": "2023-04-06T16:29:37Z",
+    "retrieved_at": "2026-07-13T00:08:01.036198Z",
+    "document_type": "ORIGINAL_REPORTING",
+    "source_role": "ORIGINAL_REPORTING",
+    "publication_role": "ORIGINAL_REPORTING",
+    "classification_rationale": "Publication reports a development without explicit interview, editorial, investigative, event, or reference framing."
+  },
+  "source_lineage": {
+    "publication": "The Hologram (Medium publication)",
+    "publication_role": "ORIGINAL_REPORTING",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [
+      {
+        "publication": "CCP Games",
+        "author": "UNKNOWN",
+        "url": "https://www.ccpgames.com/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "EVE Online",
+        "author": "UNKNOWN",
+        "url": "https://www.eveonline.com/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://play.staratlas.com/?oid=3&affid=253",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Project Awakening",
+        "author": "UNKNOWN",
+        "url": "https://www.projectawakening.io/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "a16z",
+        "author": "UNKNOWN",
+        "url": "https://a16z.com/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "a16z.com",
+        "author": "UNKNOWN",
+        "url": "https://a16z.com/2023/03/21/investing-in-ccp-games/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Eve Online Quantum Cores",
+        "author": "UNKNOWN",
+        "url": "https://mmos.com/wp-content/uploads/2020/09/eve-online-quantum-cores-update-banner.jpg",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Podcast",
+        "author": "UNKNOWN",
+        "url": "https://open.spotify.com/show/2mxndrDW6yPfpS350ijzjt?si=ec7c717f998240d6",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "YouTube",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/channel/UCDa-YxgNG6A9xpH1qyP0OaQ",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://staratlas.com/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [
+      "Oni Merchant"
+    ],
+    "attribution_chain": [
+      {
+        "from": "CCP Games",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://www.ccpgames.com/"
+      },
+      {
+        "from": "EVE Online",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://www.eveonline.com/"
+      },
+      {
+        "from": "Star Atlas",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://play.staratlas.com/?oid=3&affid=253"
+      },
+      {
+        "from": "Project Awakening",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://www.projectawakening.io/"
+      },
+      {
+        "from": "a16z",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://a16z.com/"
+      },
+      {
+        "from": "a16z.com",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://a16z.com/2023/03/21/investing-in-ccp-games/"
+      },
+      {
+        "from": "Eve Online Quantum Cores",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://mmos.com/wp-content/uploads/2020/09/eve-online-quantum-cores-update-banner.jpg"
+      },
+      {
+        "from": "Podcast",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://open.spotify.com/show/2mxndrDW6yPfpS350ijzjt?si=ec7c717f998240d6"
+      },
+      {
+        "from": "YouTube",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://www.youtube.com/channel/UCDa-YxgNG6A9xpH1qyP0OaQ"
+      },
+      {
+        "from": "Star Atlas",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://staratlas.com/"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "This original reporting published by The Hologram on 2023-04-06 documents “EVE Online Enters Web3.” Its surviving text addresses governance, economy, game development, community, lore, technology. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "Eve OnlineStar AtlasWeb3Nft\nEVE Online Enters Web3\nOni Merchant6 min read·Apr 6, 2023\n--\nListen\nShare\nCCP Games new venture & what that means for Star Atlas\nCCP Games, creator of the famous massive multiplayer EVE Online, recently announced that it’s secured $40 million in financing from external partners to build a new AAA title utilizing blockchain technology, set within the EVE Universe. This news immediately sent ripples through the blockchain community, especially Star Atlas (currently being built on Solana), as it represents a significant competitor in the development of space-based web3 games.\nCCP Games is currently at the forefront of developing a fun-to-play space-themed game, prioritizing player-driven social systems, in-game economies, and self-organizing corporations. As such, the announcement of its own AAA title has significant implications. One question many have asked is how this announcement might effect web3 startups such as Star Atlas, which are being built from the ground up. How might Star Atlas look to compete against CCP Games’ $40 million traditional financing?\nPress enter or click to view image in full sizeEve Online\nEVE Online and Web3 Gaming Principles\nBacking up, EVE Online is a sci-fi MMO which has been in development since 2003. It’s set in a vast, open universe that allows players to create their own stories and shape their own path through trading, mining, fighting, and exploration. The game’s economy is entirely player-driven, and players can form their own corporations to compete with others for resources and territory.\nThese principles align closely with the principles of web3 gaming, which aim to create a fun and open gaming experience that prioritizes player agency and “implied ownership”. In some ways, you might say that traditional gaming companies could have an advantage here. They’ve already given out what players want most: The experience. Enabling true player ownership of in-game assets and the creation of decentralized economies has been something they’ve been unable or unwilling to do until now. One great challenge Web3 has going forward is to create a protective barrier between real economy and pay-to-win. After all, pay-to-win is why traditional gamers look at Web3 in such poor taste.\nPress enter or click to view image in full size\nBut Web3 startup companies like Star Atlas aim to change all of that. They’ve built their core economic principles from the ground up, without the preconceived, centralized mentality that CCP Games will be coming from. It’s still hard to know for sure, but the likelihood of Star Atlas being much more decentralized and equipped to take on Web3’s new frontier seems incredibly promising. Money doesn’t often change a company’s values and principles overnight.\nCollaboration Between Big Players\nSomething that also needs to be said in 2023 is that for those projects that do find success in the Web3 space, there’s much more room for collaboration than there had been previously. Instead of two companies feeling the need to compete exclusively against one another, collaborations are much more likely to explode as developers find common grounds in smart contract ecosystems built from code. Therefore, the release of “Project Awakening” (which is what CCP Games is currently calling the project) should be exciting news to Web3 as well as the Star Atlas community. Open source blockchain tools being developed by “Project Awakening” may have massive benefits for Star Atlas and vice versa.\nCCP Games’ DAOs could likely become unmatched in Web3 space-faring games. Experience with EVE Online gives it a unique perspective in the development of an immersive game. The company has spent years developing player-driven social systems, open economies, and self-organizing corporations, very similar to what DAOs strive to become. As such, it’s well-positioned to build a project that embodies these principles.\nPress enter or click to view image in full size\nCCP Games Leadership and Finances\nCCP Games CEO Hilmar Pétursson has been a vocal proponent of blockchain technology since around 2017. He’s spent these last several years advocating for blockchain’s potential to enable “true player ownership” and “open and secure economies.” Pétursson’s experience with web3 gaming and blockchain technology makes him an ideal partner for a16z, the leading venture capital firm that’s invested heavily into “Project Awakening”.\nThe collaboration between CCP Games and a16z will also help to accelerate the development of the infant web3 community. It has the potential to establish new standards for the development of web3 gaming principles and open economies.\n“Together, we share the belief that player ownership and governance within an open platform can be a key source of fun that serves to amplify great gameplay and captivating game design.” (a16z.com)\nPress enter or click to view image in full sizeEve Online Quantum Cores\nThe Impact on Star Atlas\nWhile CCP Games’ $40 million is undoubtedly a significant investment in this project, it could also have unintended consequences for ground-up web3 ventures like Star Atlas. It could be a benefit by creating a more supportive ecosystem for its own development, but it could also draw players away. Will Project Awakening players start from scratch or will its userbase be able to transfer their current EVE Online accounts to the new title? That would be quite the onboarding achievement as they’re currently sitting at 9.6 million existing accounts as well as approximately 170,000 active players.\nPress enter or click to view image in full size\nWe want to see Star Atlas succeed and believe that competition is healthy for the growth of any sprouting industry. As CCP develops this new AAA title, we will of course be comparing it closely to the current Web3 giant Star Atlas. While the partnership with a16z gives explosive potential to CCP Games’ efforts to create a groundbreaking title, we hope to see them embrace the freeing principles that Star Atlas currently embraces, rather than grasping onto the constraining technologies and greedy mentalities of the past.\nIt will be fascinating to see how this project evolves. As space-exploration lovers ourselves, we at Hologram News Network promise to keep you updated with the most significant Star Atlas News available and will also keep you posted as this new project unfolds. Make sure to follow us on social media for more.\nAbout the Author\nOni Merchant is a writer on The Hologram News Network, an independent blockchain gaming meta-news organization devoted to the coverage of Star Atlas. Follow him on Twitter @OniMerchant.\nFollow The Hologram on Social Media:\nPodcast | YouTube | Twitter | Instagram | Web\nAbout The Hologram\nThe Hologram is Star Atlas’ first and only independent news network. Our vision is to become the most trusted source of information about Star Atlas and a voice for the whole community. Readers can expect a high standard from our reporting and staff. Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.\nThe Hologram is not endorsed or paid by the Star Atlas team. Any information published by The Hologram nor its writers should be considered as informational in nature and does not constitute any financial advice.",
+  "content_hash": "533a1a6af3a2c66bb2eee39d7e91800d7a8c679d76d9b9ff77c56e0e2d6b8616",
+  "major_topics": [
+    "governance",
+    "economy",
+    "game development",
+    "community",
+    "lore",
+    "technology"
+  ],
+  "entities": [
+    "ATLAS",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-5EFB0950239A07BB-01",
+      "text": "Eve OnlineStar AtlasWeb3Nft EVE Online Enters Web3 Oni Merchant6 min read·Apr 6, 2023 -- Listen Share CCP Games new venture & what that means for Star Atlas CCP Games, creator of the famous massive multiplayer EVE Online, recently announced that it’s secured $40 million in financing from external partners to build a new AAA title utilizing blockchain technology, set within the EVE Universe.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-5EFB0950239A07BB",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-5EFB0950239A07BB-02",
+      "text": "They’ve built their core economic principles from the ground up, without the preconceived, centralized mentality that CCP Games will be coming from.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-5EFB0950239A07BB",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-5EFB0950239A07BB-03",
+      "text": "Collaboration Between Big Players Something that also needs to be said in 2023 is that for those projects that do find success in the Web3 space, there’s much more room for collaboration than there had been previously.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-5EFB0950239A07BB",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-5EFB0950239A07BB-04",
+      "text": "The collaboration between CCP Games and a16z will also help to accelerate the development of the infant web3 community.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-5EFB0950239A07BB",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-5EFB0950239A07BB-05",
+      "text": "Will Project Awakening players start from scratch or will its userbase be able to transfer their current EVE Online accounts to the new title?",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-5EFB0950239A07BB",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-5EFB0950239A07BB-06",
+      "text": "As CCP develops this new AAA title, we will of course be comparing it closely to the current Web3 giant Star Atlas.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-5EFB0950239A07BB",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-5EFB0950239A07BB-07",
+      "text": "It will be fascinating to see how this project evolves.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-5EFB0950239A07BB",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-5EFB0950239A07BB-08",
+      "text": "As space-exploration lovers ourselves, we at Hologram News Network promise to keep you updated with the most significant Star Atlas News available and will also keep you posted as this new project unfolds.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-5EFB0950239A07BB",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-5EFB0950239A07BB-09",
+      "text": "Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-5EFB0950239A07BB",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Star Atlas",
+    "ATLAS"
+  ],
+  "governance_items": [
+    "Star Atlas governance / DAO"
+  ],
+  "lore_items": [
+    "ONI"
+  ],
+  "actors": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://medium.com/@punaab?source=post_page---byline--9a7913c194d3---------------------------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fthe-hologram%2F9a7913c194d3&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Feve-online-enters-web3-9a7913c194d3&user=Oni+Merchant&userId=ad2a3faef607&source=---header_actions--9a7913c194d3---------------------clap_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Frepost%2Fp%2F9a7913c194d3&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Feve-online-enters-web3-9a7913c194d3&user=Oni+Merchant&userId=ad2a3faef607&source=---header_actions--9a7913c194d3---------------------repost_header------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F9a7913c194d3&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Feve-online-enters-web3-9a7913c194d3&source=---header_actions--9a7913c194d3---------------------bookmark_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2Fplans%3Fdimension%3Dpost_audio_button%26postId%3D9a7913c194d3&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Feve-online-enters-web3-9a7913c194d3&source=---header_actions--9a7913c194d3---------------------post_audio_button------------------",
+      "anchor_text": "Listen"
+    },
+    {
+      "url": "https://www.ccpgames.com/",
+      "anchor_text": "CCP Games"
+    },
+    {
+      "url": "https://www.eveonline.com/",
+      "anchor_text": "EVE Online"
+    },
+    {
+      "url": "https://play.staratlas.com/?oid=3&affid=253",
+      "anchor_text": "Star Atlas"
+    },
+    {
+      "url": "https://www.projectawakening.io/",
+      "anchor_text": "Project Awakening"
+    },
+    {
+      "url": "https://a16z.com/",
+      "anchor_text": "a16z"
+    },
+    {
+      "url": "https://a16z.com/2023/03/21/investing-in-ccp-games/",
+      "anchor_text": "a16z.com"
+    },
+    {
+      "url": "https://mmos.com/wp-content/uploads/2020/09/eve-online-quantum-cores-update-banner.jpg",
+      "anchor_text": "Eve Online Quantum Cores"
+    },
+    {
+      "url": "https://medium.com/u/ed24b40c4906?source=post_page---user_mention--9a7913c194d3---------------------------------------",
+      "anchor_text": "Hologram News Network"
+    },
+    {
+      "url": "https://medium.com/@punaab",
+      "anchor_text": "Oni Merchant"
+    },
+    {
+      "url": "https://medium.com/the-hologram",
+      "anchor_text": "The Hologram News Network"
+    },
+    {
+      "url": "https://twitter.com/OniMerchant",
+      "anchor_text": "OniMerchant"
+    },
+    {
+      "url": "https://open.spotify.com/show/2mxndrDW6yPfpS350ijzjt?si=ec7c717f998240d6",
+      "anchor_text": "Podcast"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCDa-YxgNG6A9xpH1qyP0OaQ",
+      "anchor_text": "YouTube"
+    },
+    {
+      "url": "https://twitter.com/home",
+      "anchor_text": "Twitter"
+    },
+    {
+      "url": "https://thehologram.io/",
+      "anchor_text": "Web"
+    },
+    {
+      "url": "https://staratlas.com/",
+      "anchor_text": "Star Atlas"
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "https://medium.com/the-hologram/eve-online-enters-web3-9a7913c194d3",
+    "final_url": "https://medium.com/the-hologram/eve-online-enters-web3-9a7913c194d3",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 159388,
+    "elapsed_ms": 835,
+    "retrieval_mode": "LIVE",
+    "archive_capture": null
+  }
+}

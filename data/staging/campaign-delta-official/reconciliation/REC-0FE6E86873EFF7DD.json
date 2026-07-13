@@ -1,0 +1,14 @@
+{
+  "topic": "claims, polis, record, remain, sage, score, the, this",
+  "official_source_ids": [
+    "SRC-OFF-7102D44F3A9B9DB6"
+  ],
+  "community_source_ids": [
+    "SRC-HNN-501F276BD93A900A"
+  ],
+  "relationship": "COMMUNITY_ADDS_CONTEXT",
+  "finding": "Automated topic overlap on: claims, polis, record, remain, sage, score, the, this, time. Official authority is limited to the official wording; community context remains separately attributed.",
+  "confidence": "LOW",
+  "promotion_candidate": false,
+  "manual_review_required": true
+}

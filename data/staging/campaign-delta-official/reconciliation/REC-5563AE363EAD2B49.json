@@ -1,0 +1,14 @@
+{
+  "topic": "faction, fleet, for, game, score, the, this, time",
+  "official_source_ids": [
+    "SRC-OFF-CFB3A87BF1E48DDE"
+  ],
+  "community_source_ids": [
+    "SRC-AEPHIA-21D7FE432327A762"
+  ],
+  "relationship": "COMMUNITY_ADDS_CONTEXT",
+  "finding": "Automated topic overlap on: faction, fleet, for, game, score, the, this, time, titled, your. Official authority is limited to the official wording; community context remains separately attributed.",
+  "confidence": "LOW",
+  "promotion_candidate": false,
+  "manual_review_required": true
+}

@@ -1,0 +1,417 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-C2DCD5850DF1B031",
+    "url_id": "URL-C2DCD5850DF1B031",
+    "url": "https://thehologram.io/star-atlas-mass-adoption",
+    "title": "How Star Atlas is Addressing Barriers to Mainstream Adoption",
+    "author": "Langwenya",
+    "publisher": "Hologram News Network (HNN)",
+    "publication_identity": "Archived HNN website (thehologram.io)",
+    "published_at": "2022-09-01T19:12:47+00:00",
+    "updated_at": "2022-09-01T19:29:22+00:00",
+    "retrieved_at": "2026-07-13T00:15:30.877978Z",
+    "document_type": "ORIGINAL_REPORTING",
+    "source_role": "ORIGINAL_REPORTING",
+    "publication_role": "ORIGINAL_REPORTING",
+    "classification_rationale": "Publication reports a development without explicit interview, editorial, investigative, event, or reference framing."
+  },
+  "source_lineage": {
+    "publication": "Archived HNN website (thehologram.io)",
+    "publication_role": "ORIGINAL_REPORTING",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [
+      {
+        "publication": "ATMTA",
+        "author": "UNKNOWN",
+        "url": "https://www.linkedin.com/company/atmta-inc/about/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "3D browser Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://staratlas.notion.site/72cb710bbd894cd8819bde948e42ac31?v=313101ae608947c9856abad44577194b&p=fc64c87e922a4303a1e6e54a7d0d3fdc&pm=s",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://staratlas.com/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [
+      "Langwenya"
+    ],
+    "attribution_chain": [
+      {
+        "from": "ATMTA",
+        "to": "Archived HNN website (thehologram.io)",
+        "relationship": "REPORTS_ON",
+        "url": "https://www.linkedin.com/company/atmta-inc/about/"
+      },
+      {
+        "from": "3D browser Star Atlas",
+        "to": "Archived HNN website (thehologram.io)",
+        "relationship": "REPORTS_ON",
+        "url": "https://staratlas.notion.site/72cb710bbd894cd8819bde948e42ac31?v=313101ae608947c9856abad44577194b&p=fc64c87e922a4303a1e6e54a7d0d3fdc&pm=s"
+      },
+      {
+        "from": "Star Atlas",
+        "to": "Archived HNN website (thehologram.io)",
+        "relationship": "REPORTS_ON",
+        "url": "https://staratlas.com/"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "This original reporting published by Hologram News Network (HNN) on 2022-09-01 documents “How Star Atlas is Addressing Barriers to Mainstream Adoption.” Its surviving text addresses economy, guilds and DACs, game development, community, lore, technology. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "How Star Atlas is Addressing Barriers to Mainstream Adoption\nPosted by Langwenya | Sep 1, 2022 | Crypto, Gameplay, SCREAM\nNo matter what business you’re in; getting customers or users is always one of the main requirements to success. For a game like Star Atlas, things get a little more tougher in getting users or players than with a traditional game.\nWhat I mean by this is that: as a game based on a new unfamiliar technology (blockchain) Star Atlas is already challenged with unique barriers that make it a bit more difficult to onboard mainstream players.\nBlockchain’s many barriers to mass adoption\nThose who are familiar with blockchain will already know about the challenges of onboarding new users. Some of these challenges include:\nHow and where to buy your first cryptocurrency.\nCreating a cryptocurrency wallet.\nUnderstanding how a wallet works; seed phrases, private & public keys, etc.\nHaving enough funds to cover your transaction fees on the blockchain\nAnd much more\nNow the Star Atlas team (ATMTA) understands how these barriers affect player acquisition and is working to remove them. For instance, the recent launch of the Galactic Marketplace has eliminated the need for players to have to manually claim their purchases. It has also provided gamers with an interface they are familiar with; making the entire marketplace experience more user-friendly.\nStar Atlas’ barriers to player adoption\nIn addition to sharing the same challenges as the blockchain, Star Atlas’ vision for creating a AAA (Triple-A) next-gen gaming experience will definitely introduce new challenges to user acquisition. In order to be able to play such a high quality game, players will need to have dedicated gaming setups. These are simply quite expensive for the average gamer and many people won’t be able to meet this high a standard based on what they can afford.\nTaking a look at Star Atlas’ upcoming Showroom module for instance – a recent Twitter poll by The Hologram shows that a quarter of current Star Atlas players don’t meet the minimum computer specs requirements to play the module. Based on the 100 polled users.\nConsidering that these are people already familiar with the blockchain and likely have an above average gaming experience, these numbers are not encouraging for mainstream adoption. Either high-performance computers will need to become more affordable for the average consumer or, Star Atlas will need to build a more performance efficient product. In other words, build a quality game that’s less performance intensive for the average player’s computer setup.\nLuckily, the Star Atlas team is well aware of the importance of building a product that is accessible to the majority of people. In fact, this has been their mission from the get-go, which is why every product feature launch is a step toward creating a full 3D browser Star Atlas game.\nSteps taken to overcome these barriers\nIn a recent interview with Pyth, Star Atlas CEO, Michael Wagner, has stated that their team is…\n“building a fully 3D enabled web client. This is essentially a separate gaming experience, although fully integrated through our on-chain logic and mechanics, and also fully integrated through the economy of the games.”\nHe added.\n“The benefit there is that we are able to extend our reach. More people are going to be able to access Star Atlas through the web client. Than, you know, those that will be capable of owning a high-end gaming PC that would likely be required to engage in the fully immersive gameplay and Unreal Engine.”\nIn addition to building an inclusive 3D browser-based Star Atlas game, the team, through its mobile division, is also in the early stages of developing a mobile companion app. All these developments will be vital to ensuring that Star Atlas continues to onboard new users, while building out its AAA next-gen game that merges the digital world with the real world.\nOvercoming these barriers quickly and efficiently, will lead to the mainstream adoption of Star Atlas. And ultimately, it would have laid the infrastructures for other gaming projects to adopt blockchain technologies en masse.\nAbout The Hologram\nThe Hologram is Star Atlas’ first and only independent news network. Our vision is to become the most trusted source of information about Star Atlas and a voice for the whole community. Readers can expect a high standard from our reporting and staff. Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.\nThe Hologram is not endorsed or paid by the Star Atlas team. Any information published by The Hologram nor its writers should be considered as informational in nature and does not constitute any financial advice.\nShare:\nAbout The Author\nLangwenya\nRelated Posts\nAnonymous Source Leaks Showroom Release Plans\nJune 5, 2022\nCOPA Update – June 3 Q&A with Star Atlas\nJune 4, 2022\nStar Atlas Unveils New Galactic Marketplace\nJuly 22, 2022\nSCREAM Fleet Limits Confirmed\nMay 11, 2022\nLeave a reply Cancel reply\nUpcoming Events\nThere are no upcoming events.\nRecent Posts\nHow Star Atlas is Addressing Barriers to Mainstream Adoption\nSep 1, 2022 | Crypto, Gameplay, SCREAM\nEntrevista con el co-fundador de The Order of the Red Hand\nAug 28, 2022 | Clan/DAC, Comunidad, Español, traduccion\nEl Arte en Star Atlas (Parte 2)\nAug 27, 2022 | Contenido Original, Español, Naves\nThe Emergence of Star Atlas and the Metaverse\nAug 27, 2022 | Community, Opinion\nStar Atlas Town Hall 33 Part I – Alpha and Next 426 Live Confirmed\nAug 27, 2022 | Roadmap Updates\nResumen del Town Hall – 26/08/22\nAug 26, 2022 | Español, Town Hall\nEl Arte en Star Atlas (Parte 1)\nAug 26, 2022 | Contenido Original, Español, Naves\nEl Consejo de Seguridad Ustur y la política de facciones en SCREAM\nAug 25, 2022 | Clan/DAC, Comunidad, Español, SCREAM\nFuente anónima: Este viernes en el Town Hall se anunciará el próximo 426Live\nAug 24, 2022 | Español, Leaks, Modo de juego\nEl Consejo de Seguridad Ustur se reúne para proteger los intereses de la facción\nAug 24, 2022 | Clan/DAC, Comunidad, Español, Modo de juego, Políticas, SCORE, SCREAM\nFollow the Holo\nTwitter",
+  "content_hash": "d78ffe1f3fca8f50703b097b7db374c5bcec24181701e290b36025dabe00ca46",
+  "major_topics": [
+    "economy",
+    "guilds and DACs",
+    "game development",
+    "community",
+    "lore",
+    "technology"
+  ],
+  "entities": [
+    "ATLAS",
+    "Michael Wagner",
+    "SCORE",
+    "SCREAM",
+    "Showroom",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-C2DCD5850DF1B031-01",
+      "text": "Blockchain’s many barriers to mass adoption Those who are familiar with blockchain will already know about the challenges of onboarding new users.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-C2DCD5850DF1B031",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-C2DCD5850DF1B031-02",
+      "text": "Star Atlas’ barriers to player adoption In addition to sharing the same challenges as the blockchain, Star Atlas’ vision for creating a AAA (Triple-A) next-gen gaming experience will definitely introduce new challenges to user acquisition.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-C2DCD5850DF1B031",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-C2DCD5850DF1B031-03",
+      "text": "In order to be able to play such a high quality game, players will need to have dedicated gaming setups.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-C2DCD5850DF1B031",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-C2DCD5850DF1B031-04",
+      "text": "These are simply quite expensive for the average gamer and many people won’t be able to meet this high a standard based on what they can afford.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-C2DCD5850DF1B031",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-C2DCD5850DF1B031-05",
+      "text": "Either high-performance computers will need to become more affordable for the average consumer or, Star Atlas will need to build a more performance efficient product.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-C2DCD5850DF1B031",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-C2DCD5850DF1B031-06",
+      "text": "Than, you know, those that will be capable of owning a high-end gaming PC that would likely be required to engage in the fully immersive gameplay and Unreal Engine.” In addition to building an inclusive 3D browser-based Star Atlas game, the team, through its mobile division, is also in the early stages of developing a mobile companion app.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-C2DCD5850DF1B031",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-C2DCD5850DF1B031-07",
+      "text": "All these developments will be vital to ensuring that Star Atlas continues to onboard new users, while building out its AAA next-gen game that merges the digital world with the real world.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-C2DCD5850DF1B031",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-C2DCD5850DF1B031-08",
+      "text": "Overcoming these barriers quickly and efficiently, will lead to the mainstream adoption of Star Atlas.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-C2DCD5850DF1B031",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-C2DCD5850DF1B031-09",
+      "text": "Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-C2DCD5850DF1B031",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-C2DCD5850DF1B031-10",
+      "text": "Share: About The Author Langwenya Related Posts Anonymous Source Leaks Showroom Release Plans June 5, 2022 COPA Update – June 3 Q&A with Star Atlas June 4, 2022 Star Atlas Unveils New Galactic Marketplace July 22, 2022 SCREAM Fleet Limits Confirmed May 11, 2022 Leave a reply Cancel reply Upcoming Events There are no upcoming events.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-C2DCD5850DF1B031",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "SCORE",
+    "Star Atlas",
+    "Showroom",
+    "ATLAS",
+    "SCREAM"
+  ],
+  "governance_items": [],
+  "lore_items": [
+    "Ustur"
+  ],
+  "actors": [
+    "Michael Wagner"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://thehologram.io/author/langwenya/",
+      "anchor_text": "Langwenya"
+    },
+    {
+      "url": "https://thehologram.io/category/crypto/",
+      "anchor_text": "Crypto"
+    },
+    {
+      "url": "https://thehologram.io/category/gameplay/",
+      "anchor_text": "Gameplay"
+    },
+    {
+      "url": "https://thehologram.io/category/espanol/scream-espanol/",
+      "anchor_text": "SCREAM"
+    },
+    {
+      "url": "https://www.linkedin.com/company/atmta-inc/about/",
+      "anchor_text": "ATMTA"
+    },
+    {
+      "url": "https://twitter.com/Hologram_News/status/1563340072845713409",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://staratlas.notion.site/72cb710bbd894cd8819bde948e42ac31?v=313101ae608947c9856abad44577194b&p=fc64c87e922a4303a1e6e54a7d0d3fdc&pm=s",
+      "anchor_text": "3D browser Star Atlas"
+    },
+    {
+      "url": "https://twitter.com/PythNetwork/status/1562077196885319682",
+      "anchor_text": "interview with Pyth"
+    },
+    {
+      "url": "https://thehologram.io/the-emergence-of-star-atlas-and-the-metaverse/",
+      "anchor_text": "merges the digital world with the real world"
+    },
+    {
+      "url": "https://thehologram.io/",
+      "anchor_text": "The Hologram"
+    },
+    {
+      "url": "https://staratlas.com/",
+      "anchor_text": "Star Atlas"
+    },
+    {
+      "url": "http://www.facebook.com/sharer.php?u=https://thehologram.io/star-atlas-mass-adoption/&t=How%20Star%20Atlas%20is%20Addressing%20Barriers%20to%20Mainstream%20Adoption",
+      "anchor_text": ""
+    },
+    {
+      "url": "http://twitter.com/intent/tweet?text=How%20Star%20Atlas%20is%20Addressing%20Barriers%20to%20Mainstream%20Adoption%20https://thehologram.io/star-atlas-mass-adoption/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://plus.google.com/share?url=https://thehologram.io/star-atlas-mass-adoption/&t=How%20Star%20Atlas%20is%20Addressing%20Barriers%20to%20Mainstream%20Adoption",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://twitter.com/cryptomandate",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/anonymous-source-leaks-showroom-release-plans/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/copa-update-june-3-qa-with-star-atlas/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/star-atlas-unveils-new-galactic-marketplace/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/scream-fleet-limits-confirmed/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/star-atlas-mass-adoption/",
+      "anchor_text": "Cancel reply"
+    },
+    {
+      "url": "https://thehologram.io/order-of-the-red-hand-es/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/category/comunidad/clan-dac/",
+      "anchor_text": "Clan/DAC"
+    },
+    {
+      "url": "https://thehologram.io/category/comunidad/",
+      "anchor_text": "Comunidad"
+    },
+    {
+      "url": "https://thehologram.io/category/espanol/",
+      "anchor_text": "Español"
+    },
+    {
+      "url": "https://thehologram.io/category/espanol/traduccion/",
+      "anchor_text": "traduccion"
+    },
+    {
+      "url": "https://thehologram.io/el-arte-en-star-atlas-parte-2/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/category/espanol/contenido-original/",
+      "anchor_text": "Contenido Original"
+    },
+    {
+      "url": "https://thehologram.io/category/espanol/naves/",
+      "anchor_text": "Naves"
+    },
+    {
+      "url": "https://thehologram.io/category/community/",
+      "anchor_text": "Community"
+    },
+    {
+      "url": "https://thehologram.io/category/opinion/",
+      "anchor_text": "Opinion"
+    },
+    {
+      "url": "https://thehologram.io/star-atlas-town-hall-33/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/category/gameplay/roadmap-updates/",
+      "anchor_text": "Roadmap Updates"
+    },
+    {
+      "url": "https://thehologram.io/resumen-th-260822/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/category/espanol/town-hall/",
+      "anchor_text": "Town Hall"
+    },
+    {
+      "url": "https://thehologram.io/arte-conceptual-p1/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/consejo-de-seguridad-ustur-y-las-politicas/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/fuente-anonima-426live/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/category/leaks/",
+      "anchor_text": "Leaks"
+    },
+    {
+      "url": "https://thehologram.io/category/espanol/modo-de-juego/",
+      "anchor_text": "Modo de juego"
+    },
+    {
+      "url": "https://thehologram.io/consejo-de-seguridad-ustur/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/category/espanol/politicas/",
+      "anchor_text": "Políticas"
+    },
+    {
+      "url": "https://thehologram.io/category/espanol/score-espanol/",
+      "anchor_text": "SCORE"
+    },
+    {
+      "url": "https://thehologram.io/category/scream-2/",
+      "anchor_text": "SCREAM"
+    },
+    {
+      "url": "https://twitter.com/Hologram_News",
+      "anchor_text": ""
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "https://web.archive.org/web/20220901192922id_/https://thehologram.io/star-atlas-mass-adoption/",
+    "final_url": "https://web.archive.org/web/20220901192922id_/https://thehologram.io/star-atlas-mass-adoption/",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "response_size": 184301,
+    "elapsed_ms": 4838,
+    "retrieval_mode": "INTERNET_ARCHIVE",
+    "archive_capture": {
+      "timestamp": "20220901192922",
+      "original": "https://thehologram.io/star-atlas-mass-adoption/",
+      "digest": "BXP5VW6UGSEBBE2F236KJPTMWH63VEPL"
+    }
+  }
+}

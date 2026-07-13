@@ -1,0 +1,80 @@
+{
+  "source": {
+    "source_id": "SRC-AEPHIA-AC707FB06D23E452",
+    "url_id": "URL-AC707FB06D23E452",
+    "url": "https://aephia.com/star-atlas/introducing-astralpass/",
+    "inventory_url": "https://aephia.com/star-atlas/introducing-astralpass",
+    "title": "Introducing AstralPass: Seamless Verification and Onboarding for Star Atlas DACs",
+    "author": "Aephia",
+    "publisher": "Aephia",
+    "published_at": "2025-07-27T10:35:18",
+    "updated_at": "2025-07-27T12:18:57",
+    "retrieved_at": "2026-07-12T21:40:51.383138Z",
+    "document_type": "REFERENCE",
+    "source_role": "COMMUNITY_INSTITUTION"
+  },
+  "summary": {
+    "neutral_abstract": "Since the inception of Star Atlas, its community has found a firm foothold on Discord. Though often seen as an outlier in the realm of crypto projects (which tend to favor Telegram in general), Discord is especially popular among gamers and, and just as importantly, game studios. As such, it was only natural for the Star Atlas founders to claim their Discord stake. So when guilds (aka DACs) began forming, it made perfect sense to use Discord. It’s where the players were. And for a long time, all was well and good in the world. But only because there was no game yet to play. And because there was no gameplay, the team didn’t prioritize building on-chain DAC infrastructure. At least, not…",
+    "historical_value": "Contemporary Aephia coverage preserved as a community-institution source.",
+    "current_validity_warning": "Operational, economic, governance, and roadmap statements may be historical and require reconciliation with later primary sources."
+  },
+  "article_text": "Link your wallet. Verify your role. Unlock the galaxy.\nSince the inception of Star Atlas, its community has found a firm foothold on Discord. Though often seen as an outlier in the realm of crypto projects (which tend to favor Telegram in general), Discord is especially popular among gamers and, and just as importantly, game studios. As such, it was only natural for the Star Atlas founders to claim their Discord stake.\nSo when guilds (aka DACs) began forming, it made perfect sense to use Discord. It’s where the players were. And for a long time, all was well and good in the world.\nBut only because there was no game yet to play. And because there was no gameplay, the team didn’t prioritize building on-chain DAC infrastructure. At least, not right away.\nFast forward to today: The DAC registration has been live for well over a year by now. And the day when we want to play together in earnest is approaching rapidly!\nBut to do that, we would need a tool to bridge the gap between in-game accounts and Discord accounts.\nSo that’s exactly what we’ve been building!\nIntroducing AstralPassA Discord verification + Star Atlas onboarding + Game insights platform; Explicitly built for DACs.\nRealistically, we’ve been planning this since late 2022. We even gave a first presentation at QuimeraCon in Spain that November. Early proof-of-concepts followed, but proper development began around the time of the 2024 COPA event.\nToday, we’re thrilled to launch the beta version of AstralPass, currently available to Aephia members, with more DACs to follow soon!\nWhy not just use Matrica?\nGood question.\nThere have been wallet verification tools for years. In 2021, Aephia used Grape, and today we still use Matrica for our ALF collection. The Star Atlas team uses it too, assigning roles based on POLIS Voting Power (PVP).\nBut AstralPass goes way beyond that.It’s custom-built for Star Atlas from the ground up.\nBy creating a service specifically for Star Atlas, we were able to go well beyond an account verification tool!\nRather than just verifying ownership of a wallet, AstralPass serves three functions:\nA Wallet <-> Discord verification tool — Add/remove Discord roles based on rules defined by your DAC’s leadership\nA Discord onboarding assistant — Let our bot guide your members through the steps to get fully set up!\nA Star Atlas Dashboard — While we have your wallets, let’s dive deep into Star Atlas and show you all the details no one else is showing you 💪 Yes, even for solo players!\nLet’s take a closer look.\nAstralPass – Landing Page\nOnboarding\nJoining a DAC requires more than just clicking a button. When using a tool such as AstralPass, there are at least three actions a user has to take to onboard successfully:\nObtain the right Discord role — Perhaps your DAC requires them to fill out a form, do an interview, or simply need to react to a message. Either way, they need to be Discord-approved.\nApply to (and be approved by) the DAC on-chain\nLink their wallet to their Discord account\nThat’s a lot of steps and plenty of room for confusion.AstralPass solves this by bundling it all into a single flow, triggered by our Discord bot using /join (or its alias: /verify).\nBy running the join command, the user triggers the rules, and the bot responds with text, lists, and links (buttons) for the user to follow.This means you can guide them and show them the way. Zero friction!\nLike the rules meant to manage a user’s roles, all of these feedback items are easily configurable through our Admin Dashboard.\nInstead of setting up a new rules-based configuration for the Discord bot only, you can simply extend the existing rules for your server with additional output to ensure both the bot and the automated processes that keep your members’ roles up to date are using the exact same logic.\nAstralPass – Discord Onboarding\nExample: Aephia\nFor Aephia, we’ve long used a Discord bot that serves a questionnaire to new applicants, submitted directly for review.\nNow, with AstralPass:\nIf a user hasn’t filled it out → They get a button linking to the instructions\nIf it’s submitted → They’re told to sit tight while it’s reviewed\nIf approved → Step ✅⠀Steps 2 (wallet linking) and 3 (on-chain DAC application) follow the same structure.It all works seamlessly and dynamically, based on each member’s progress.\nAstralPass – Dashboard\nA Star Atlas Dashboard\nStar Atlas Player Profiles are first-class citizens in AstralPass. That means they’re built directly into the system, not treated as just another data field.\nThis allows us to show key information tied to your gameplay, including:\nA list of all your profiles alongside the DACs you associated yourself with.\nA full overview of all PIPs and your votes (per wallet). Think vote.jup.ag\nSoon: Your open Local and Galactic marketplace orders.\nSoon: Your Polis and Atlas locker positions\nLater: Your SAGE (and, we hope) Holosim progression (license XP and level)\nThis part of AstralPass is still expanding, but the foundation is already there.\nA Flexible Verification Tool\nAt its core, AstralPass verifies that you own both your Discord account and your Solana wallet.\nIt does this the standard way:\nLog in with Discord\nSign an off-chain message\nThat’s it\nYou can link multiple wallets, and we’ll apply your DAC’s rules against all of them.\nAstralPass – Admin Dashboard\nUnlike Matrica and others that focus on token holdings, we started with Star Atlas-specific logic only, such as:\nStar Atlas-based rules:\nIs in DAC (optionally: exclusively)\nIs not in DAC\nHas Role in DAC\nLacks role in DAC\nIs part of MUD/ONI/Ustur (choose one)\nIs not part of MUD/ONI/Ustur\nDiscord-based rules:\nHas any of these roles:\nHas all of these roles:\nLacks any of these roles:\nLacks all of these roles:\nAstralPass-specific rules:\nHas linked a wallet\nHas not linked a wallet — If the user has never used AstralPass, this will also yield true\n(Yes, we even let you target users who haven’t done something yet—perfect for onboarding!)\nRules run several times per day, but users can also manually trigger them using /join or /verify, or by adding or removing a wallet.\nAPI Access (Coming Soon)\nDAC leaders will be able to securely access lightweight member data through our upcoming API. This is ideal for building custom tools or syncing AstralPass with your own dashboards.\nSolo Players Welcome\nNot part of a DAC? No problem.\nAstralPass works just as well for solo players. Simply:\nLog in with Discord\nConnect one or more wallets\nBoom: your dashboard is ready\nNext time, logging in with Discord (or a connected wallet) gets you right back in.\nCosts\nUnlike Matrica, which charges $500/year for basic role verification, AstralPass is free for all Star Atlas DACs.\nDuring this beta, we’re testing exclusively within Aephia, but we’re eager to expand.If you’re a DAC lead and want in, get in touch. We’d love to collaborate.\nAstralPass is here.Built for Star Atlas. Powered by Aephia.And this is just the beginning.",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [
+    "2021",
+    "2022",
+    "2024"
+  ],
+  "external_sources": [
+    "https://aephia.com/wp-content/uploads/2025/07/AstralPass-Flyer-medium-1024x574.jpeg",
+    "https://aephia.com/wp-content/uploads/2025/07/AstralPass-Flyer-medium-1024x574.jpeg\"",
+    "https://aephia.com/wp-content/uploads/2025/07/AstralPass-Flyer-medium-1320x740.jpeg",
+    "https://aephia.com/wp-content/uploads/2025/07/AstralPass-Flyer-medium-1536x861.jpeg",
+    "https://aephia.com/wp-content/uploads/2025/07/AstralPass-Flyer-medium-300x168.jpeg",
+    "https://aephia.com/wp-content/uploads/2025/07/AstralPass-Flyer-medium-768x430.jpeg",
+    "https://aephia.com/wp-content/uploads/2025/07/AstralPass-Flyer-medium.jpeg",
+    "https://aephia.com/wp-content/uploads/2025/07/Screenshot-2025-07-17-at-11.55.38-300x159.png",
+    "https://aephia.com/wp-content/uploads/2025/07/Screenshot-2025-07-17-at-11.55.38.png",
+    "https://aephia.com/wp-content/uploads/2025/07/Screenshot-2025-07-17-at-11.55.38.png\"",
+    "https://aephia.com/wp-content/uploads/2025/07/Screenshot-2025-07-17-at-12.23.02-300x225.png",
+    "https://aephia.com/wp-content/uploads/2025/07/Screenshot-2025-07-17-at-12.23.02-768x576.png",
+    "https://aephia.com/wp-content/uploads/2025/07/Screenshot-2025-07-17-at-12.23.02.png",
+    "https://aephia.com/wp-content/uploads/2025/07/Screenshot-2025-07-17-at-12.23.02.png\"",
+    "https://aephia.com/wp-content/uploads/2025/07/Screenshot-2025-07-17-at-12.31.13-300x241.png",
+    "https://aephia.com/wp-content/uploads/2025/07/Screenshot-2025-07-17-at-12.31.13.png",
+    "https://aephia.com/wp-content/uploads/2025/07/Screenshot-2025-07-17-at-12.31.13.png\"",
+    "https://aephia.com/wp-content/uploads/2025/07/Screenshot-2025-07-27-at-12.29.54-1024x857.png",
+    "https://aephia.com/wp-content/uploads/2025/07/Screenshot-2025-07-27-at-12.29.54-1024x857.png\"",
+    "https://aephia.com/wp-content/uploads/2025/07/Screenshot-2025-07-27-at-12.29.54-300x251.png",
+    "https://aephia.com/wp-content/uploads/2025/07/Screenshot-2025-07-27-at-12.29.54-768x642.png",
+    "https://aephia.com/wp-content/uploads/2025/07/Screenshot-2025-07-27-at-12.29.54.png"
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Article was modified after publication; review temporal claims against later evidence."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://aephia.com/wp-json/wp/v2/posts?slug=introducing-astralpass&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 16743,
+    "elapsed_ms": 600
+  }
+}

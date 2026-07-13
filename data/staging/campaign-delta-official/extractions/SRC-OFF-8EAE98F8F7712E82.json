@@ -1,0 +1,255 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-8EAE98F8F7712E82",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47061466446099-How-do-I-buy-an-item",
+    "title": "How do I buy an item?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-03T17:02:15Z",
+    "updated_at": "2025-12-08T18:23:07Z",
+    "original_date_text": "2025-12-03T17:02:15Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://play.staratlas.com",
+        "anchor_text": "play.staratlas.com"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “How do I buy an item?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "The Star Atlas Galactic Marketplace is a player-driven platform where you can buy ships, crew, collectibles, and other assets, either from other players or directly from ATMTA, Inc. It uses an order-book system, similar to traditional MMOs.\nHere’s how to purchase an item step by step:\nStep-by-Step: Buying an Item\n1. Browse the Marketplace\nGo to play.staratlas.com and open the Marketplace tab\nUse the Search bar to find a specific item\nOr browse categories using the drop-down menus\n2. Select the Item\nClick on the item you want to buy to view available listings.Some assets can be purchased using either ATLAS or USDC, while others may be available in ATLAS only. Make sure to select your preferred currency if multiple options are offered.\n3. Choose a Seller\nYou’ll see a list of sellers offering that item. Choose the listing with the best price or terms.\n4. Review Terms & Policies\nCheck the boxes to agree to the Terms of Service and Privacy Policy.\n5. Connect Your Wallet\nIf you haven’t already, click Connect Wallet and approve the connection using your Solana wallet (e.g., Phantom, Backpack, etc.).\n6. Set the Quantity\nAdjust the Quantity to Buy based on how many units you want to purchase.\n7. Confirm Price & Currency\nDouble-check the total cost and make sure you're paying in the correct token (ATLAS or USDC).\n8. Click “Buy Item”\nOnce everything looks good, hit the Buy Item button\n9. Approve the Transaction\nYour wallet will prompt you to approve the transaction. Confirm to proceed.\n10. Order Complete\nOnce processed, you'll see a confirmation notification.You can track the item under “My Orders” in the Marketplace menu.",
+  "content_hash": "6b6a97e7c7ab1d043ead84f6f3f9cd731c910a3d43538cb01b989f7786560a57",
+  "entities": [
+    "ATLAS",
+    "ATMTA",
+    "Crew",
+    "Galactic Marketplace",
+    "Solana"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-8EAE98F8F7712E82-01",
+      "text": "The Star Atlas Galactic Marketplace is a player-driven platform where you can buy ships, crew, collectibles, and other assets, either from other players or directly from ATMTA, Inc.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-8EAE98F8F7712E82",
+      "publication_date": "2025-12-03T17:02:15Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-8EAE98F8F7712E82-02",
+      "text": "It uses an order-book system, similar to traditional MMOs.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-8EAE98F8F7712E82",
+      "publication_date": "2025-12-03T17:02:15Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-8EAE98F8F7712E82-03",
+      "text": "Here’s how to purchase an item step by step: Step-by-Step: Buying an Item 1.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-8EAE98F8F7712E82",
+      "publication_date": "2025-12-03T17:02:15Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-8EAE98F8F7712E82-04",
+      "text": "Browse the Marketplace Go to play.staratlas.com and open the Marketplace tab Use the Search bar to find a specific item Or browse categories using the drop-down menus 2.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-8EAE98F8F7712E82",
+      "publication_date": "2025-12-03T17:02:15Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-8EAE98F8F7712E82-05",
+      "text": "Select the Item Click on the item you want to buy to view available listings.Some assets can be purchased using either ATLAS or USDC, while others may be available in ATLAS only.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-8EAE98F8F7712E82",
+      "publication_date": "2025-12-03T17:02:15Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-8EAE98F8F7712E82-06",
+      "text": "Make sure to select your preferred currency if multiple options are offered.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-8EAE98F8F7712E82",
+      "publication_date": "2025-12-03T17:02:15Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-8EAE98F8F7712E82-07",
+      "text": "Choose a Seller You’ll see a list of sellers offering that item.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-8EAE98F8F7712E82",
+      "publication_date": "2025-12-03T17:02:15Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-8EAE98F8F7712E82-08",
+      "text": "Choose the listing with the best price or terms.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-8EAE98F8F7712E82",
+      "publication_date": "2025-12-03T17:02:15Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-8EAE98F8F7712E82-09",
+      "text": "Review Terms & Policies Check the boxes to agree to the Terms of Service and Privacy Policy.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-8EAE98F8F7712E82",
+      "publication_date": "2025-12-03T17:02:15Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-8EAE98F8F7712E82-10",
+      "text": "Connect Your Wallet If you haven’t already, click Connect Wallet and approve the connection using your Solana wallet (e.g., Phantom, Backpack, etc.).",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-8EAE98F8F7712E82",
+      "publication_date": "2025-12-03T17:02:15Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-8EAE98F8F7712E82-11",
+      "text": "Set the Quantity Adjust the Quantity to Buy based on how many units you want to purchase.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-8EAE98F8F7712E82",
+      "publication_date": "2025-12-03T17:02:15Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-8EAE98F8F7712E82-12",
+      "text": "Confirm Price & Currency Double-check the total cost and make sure you're paying in the correct token (ATLAS or USDC).",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-8EAE98F8F7712E82",
+      "publication_date": "2025-12-03T17:02:15Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-8EAE98F8F7712E82-13",
+      "text": "Click “Buy Item” Once everything looks good, hit the Buy Item button 9.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-8EAE98F8F7712E82",
+      "publication_date": "2025-12-03T17:02:15Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-8EAE98F8F7712E82-14",
+      "text": "Approve the Transaction Your wallet will prompt you to approve the transaction.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-8EAE98F8F7712E82",
+      "publication_date": "2025-12-03T17:02:15Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-8EAE98F8F7712E82-15",
+      "text": "Order Complete Once processed, you'll see a confirmation notification.You can track the item under “My Orders” in the Marketplace menu.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-8EAE98F8F7712E82",
+      "publication_date": "2025-12-03T17:02:15Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Galactic Marketplace",
+    "ATLAS",
+    "Crew"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [
+    "ATMTA",
+    "Solana"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://play.staratlas.com",
+      "anchor_text": "play.staratlas.com"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://play.staratlas.com",
+      "anchor_text": "play.staratlas.com"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47061466446099-How-do-I-buy-an-item",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.138979Z"
+  }
+}

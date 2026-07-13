@@ -1,0 +1,180 @@
+{
+  "source": {
+    "source_id": "SRC-IH-D85C0779B3AB535F",
+    "url_id": "URL-D85C0779B3AB535F",
+    "url": "https://intergalacticherald.com/star-atlas-recap/event-recap-26-star-atlas-economic-forum-august-2025/",
+    "inventory_url": "https://intergalacticherald.com/star-atlas-recap/event-recap-26-star-atlas-economic-forum-august-2025",
+    "title": "Event Recap 26: Star Atlas Economic Forum – August 2025",
+    "author": "Intergalactic Herald",
+    "publisher": "Intergalactic Herald",
+    "published_at": "2025-08-07T21:00:00",
+    "updated_at": "2025-08-10T14:32:02",
+    "retrieved_at": "2026-07-12T22:08:27.421927Z",
+    "document_type": "EVENT_RECAP",
+    "source_role": "CURATED_SUMMARY",
+    "source_classification": "CURATED_SUMMARY",
+    "classification_rationale": "Event recap summarizes an externally originated event, broadcast, or discussion.",
+    "wordpress_type": "posts"
+  },
+  "summary": {
+    "neutral_abstract": "In this episode, hear an AI summary of the latest Star Atlas community event. Full video recordings can be found on the YouTube channel of Star Atlas TV at https://www.youtube.com/@staratlastv. I am launching a Star Atlas merch store. Please check it out at Intergalactic Gear. I am also creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic",
+    "historical_value": "Contemporary Intergalactic Herald publication preserved with role and attribution boundaries.",
+    "current_validity_warning": "Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources."
+  },
+  "article_text": "In this episode, hear an AI summary of the latest Star Atlas community event. Full video recordings can be found on the YouTube channel of Star Atlas TV at https://www.youtube.com/@staratlastv.\nListen on Apple Podcasts\nListen on Spotify\nI am launching a Star Atlas merch store. Please check it out at Intergalactic Gear.\nI am also creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic Coalition.\nStar Atlas Weekly Recap Newsletter – Catch up on all the important videos and articles from the Star Atlas community in a weekly recap email newsletter. https://intergalacticherald.com/star-atlas-weekly-recap-newsletter/\nStar Atlas Week in Review Podcast – Audio podcast where I break down everything that happened in Star Atlas the past week plus my analysis on what it all means. https://intergalacticherald.com/podcast/\nStar Atlas Discord News Feed Newsletter – Star Atlas Discord announcements send directly to your email so you never miss out on updates from the Star Atlas team. https://intergalacticherald.com/star-atlas-discord-news-feed/\nIf you would like to support my efforts, donations can be sent to intergalacticherald.sol\nPodcast Transcript\nThe 15th monthly Star Atlas Economic Forum featured Chris Adam Smith, the head of the economics department, and Gareth Raph, discussing various updates and economic insights. The forum’s main purpose is to regularly disseminate information about the Star Atlas economy to the entire community, addressing challenges like differing schedules and time zones.\nA significant focus was placed on new data, starting with the first UE5 economy data dump. This report covered experience points (XP) earned for crew packs, noting that while data is limited due to fewer players historically, the 516 active users in the latest update is impressive, especially compared to the web-based Hollow Sim which is free-to-play. Earning prestige for characters in UE5 is proving to be very difficult, with only a few total prestige points earned for popular character types like the human male. The popularity of character classes is also tracked by XP collected, showing Maurice male, human male, and rooster body one as the most popular. It was noted that players generally need to own a character NFT to use it in the game.\nFollowing this, the forum delved into the Hollow Sim end-of-season data for its first beta season. A total of 6,000 users completed a quest, considered true human players, with 55,349 quests completed overall. The game averaged 518 daily active users. These numbers were highlighted as particularly impressive given that Hollow Sim currently lacks economic incentives and has not been advertised, especially when compared to Starbase, which has significant Atlas emissions but only about double the daily active users. Larenor won the leaderboard competition with 225 million XP, while Uster won the faction competition.\nA key update on data engineering was also shared, highlighting a significant shift in how data is collected. Previously, reliance was heavy on blockchain data, which can be confusing and incomplete. Now, thanks to the engineering team, Star Atlas is collecting in-game data directly to a backend server, providing much cleaner and more reliable datasets for analysis. This is particularly evident with Hollow Sim’s quest data, which is primarily Web2 data confirmed by on-chain activity but not stored on-chain. Most excitingly, a new ingestion pipeline for Atlaset data has begun, allowing full internal control over data ingestion, parsing transactions more cleanly, and saving both money and time. This pipeline promises much more accurate on-chain analytics for Hollow Sim season 0 very soon, and there’s hope for seamless data transfer to the community, possibly via a public endpoint.\nThe forum also provided details on the Black Goo economy, a planned update for C4. Black Goo will be an in-game reward within UE5 for various activities like completing quests, mining, and flying. It’s envisioned as a sub-currency exclusive to UE5, which will serve as a principal input for specific ship configuration recipes in C4 (Starbase). This makes Black Goo a very attractive input for special ship parts, and because it can only be earned in UE5, it establishes an exclusive resource and is expected to be tradable, fostering a labor market within UE5. This initiative aligns with the long-term plan for a one-to-one mapping between Sage and UE5 activities, creating economic incentives that cater to different player types by having exclusive assets in each environment. The price of Black Goo will likely influence UE5 daily active users, creating a new “career” or market within the game. It’s intended to be skill-based, similar to how XP and crew function. A strong preference was expressed for requiring players to use owned assets (NFT crew or ships) to earn Black Goo, as opposed to free-to-play options, to ensure the sustainability of the economy. Different types of Black Goo might be introduced, tied to specific gameplay loops like mining or combat, to incentivize diverse activities.",
+  "content_hash": "2d7b658fcad25a08ba1778ac6170b1785c10541b0a8f7b00eeb1b179baff7310",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [],
+  "external_sources": [
+    {
+      "url": "https://www.youtube.com/@staratlastv",
+      "anchor_text": "https://www.youtube.com/@staratlastv"
+    },
+    {
+      "url": "https://podcasts.apple.com/us/podcast/star-atlas-week-in-review-podcast/id1678661043",
+      "anchor_text": "Listen on Apple Podcasts"
+    },
+    {
+      "url": "https://open.spotify.com/show/0aHDjCqFpy8Lzrkilv8n16",
+      "anchor_text": "Listen on Spotify"
+    },
+    {
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    }
+  ],
+  "primary_source_relationships": [
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/@staratlastv",
+      "anchor_text": "https://www.youtube.com/@staratlastv"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://podcasts.apple.com/us/podcast/star-atlas-week-in-review-podcast/id1678661043",
+      "anchor_text": "Listen on Apple Podcasts"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://open.spotify.com/show/0aHDjCqFpy8Lzrkilv8n16",
+      "anchor_text": "Listen on Spotify"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    }
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Verify which outbound links are primary sources and preserve creator attribution during promotion.",
+      "Source lineage: attribution requires manual confirmation."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=event-recap-26-star-atlas-economic-forum-august-2025&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 9839,
+    "elapsed_ms": 1621,
+    "attempts": [
+      {
+        "endpoint": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=event-recap-26-star-atlas-economic-forum-august-2025&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "http_status": 200,
+        "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=event-recap-26-star-atlas-economic-forum-august-2025&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "content_type": "application/json; charset=UTF-8",
+        "response_size": 9839,
+        "elapsed_ms": 1621
+      }
+    ]
+  },
+  "source_lineage": {
+    "publication": "Intergalactic Herald",
+    "publication_role": "CURATED_SUMMARY",
+    "relationship": "CURATED_SUMMARY_OF",
+    "primary_sources": [
+      {
+        "publication": "Star Atlas Economic Forum",
+        "author": "UNKNOWN",
+        "url": "UNKNOWN",
+        "organization": "Star Atlas",
+        "evidence": "Explicitly named in publication title"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "publication": "@Staratlastv",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/@staratlastv",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Listen on Apple Podcasts",
+        "author": "UNKNOWN",
+        "url": "https://podcasts.apple.com/us/podcast/star-atlas-week-in-review-podcast/id1678661043",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Listen on Spotify",
+        "author": "UNKNOWN",
+        "url": "https://open.spotify.com/show/0aHDjCqFpy8Lzrkilv8n16",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Intergalactic Gear",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticgear.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Intergalactic Coalition",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticcoalition.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Star Atlas Economic Forum",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "UNKNOWN"
+      }
+    ],
+    "lineage_confidence": "MEDIUM"
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-E7CDEF83AC178E42",
+    "url_id": "URL-E7CDEF83AC178E42",
+    "url": "https://thehologram.io/holopinion",
+    "title": "HolOpinion - The voice of the community | The Hologram",
+    "author": "UNKNOWN",
+    "publisher": "Hologram News Network (HNN)",
+    "publication_identity": "Archived HNN website (thehologram.io)",
+    "published_at": "2022-05-25T03:21:28+00:00",
+    "updated_at": "2022-05-25T03:47:18+00:00",
+    "retrieved_at": "2026-07-13T00:10:20.196143Z",
+    "document_type": "EDITORIAL",
+    "source_role": "EDITORIAL",
+    "publication_role": "EDITORIAL",
+    "classification_rationale": "Publication uses explicit commentary, prediction, or editorial framing."
+  },
+  "source_lineage": {
+    "publication": "Archived HNN website (thehologram.io)",
+    "publication_role": "EDITORIAL",
+    "relationship": "ANNOTATES",
+    "primary_sources": [],
+    "original_creators": [],
+    "attribution_chain": [],
+    "lineage_confidence": "UNKNOWN"
+  },
+  "summary": {
+    "archival_abstract": "This editorial published by Hologram News Network (HNN) on 2022-05-25 documents “HolOpinion - The voice of the community | The Hologram.” Its surviving text addresses economy, community, lore. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "HolOpinion – The voice of the community\nPosted by FowlAC | May 25, 2022 | Community\nToday we are excited to launch our commentary section – HolOpinion. The Star Atlas community is rich with amazing people and ideas but also strong opinions. HolOpinion is here to give those voices a forum for discussion.\nGuidelines:\nHolOpinion is open to all members of the Star Atlas community.\nCommentary can be written in any language although we prefer English. In addition to the non-English version we may ask for an English translation\nTopics are open although it needs to be relevant to the Star Atlas community.\nHolOpinion is not a forum for disputes between individuals or groups. We will not tolerate personal attacks or hate speech of any kind.\nSubmissions should be between 400-1200 words.\nSend submissions to: opinion@thehologram.io\nThe Hologram reserves the right to edit your submissions for clarity and length.\nSubmissions accepted for publication may include additional terms.\nBuilding a metaverse is no easy task and the journey to a fully functional AAA game will be long and require many hard conversations. Our hope is that through HolOpinion, the Star Atlas community can provide productive feedback to the developers along the way. Only together can we build the metaverse that we all want.\nShare:\n8:00 pm - 9:00 pm UTC+0\nFirst Live Blo Dyoni Holder’s Raffle\nFeatured\nAll day\nThe Mob Machina NFT Launch\nFeatured\n11:00 pm UTC+0\nStar Atlas Town Hall\nFeatured\nAll day\nCouncil of Peace Assembly (COPA)",
+  "content_hash": "1bbb426b0be1a517cdbdc74287d3f1fb63965deb4de9ebb918e263910760fcca",
+  "major_topics": [
+    "economy",
+    "community",
+    "lore"
+  ],
+  "entities": [
+    "ATLAS",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-E7CDEF83AC178E42-01",
+      "text": "We will not tolerate personal attacks or hate speech of any kind.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-E7CDEF83AC178E42",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-E7CDEF83AC178E42-02",
+      "text": "Building a metaverse is no easy task and the journey to a fully functional AAA game will be long and require many hard conversations.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-E7CDEF83AC178E42",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Star Atlas",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [
+    "ONI"
+  ],
+  "actors": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://thehologram.io/author/fowlac/",
+      "anchor_text": "FowlAC"
+    },
+    {
+      "url": "https://thehologram.io/category/community/",
+      "anchor_text": "Community"
+    },
+    {
+      "url": "http://www.facebook.com/sharer.php?u=https://thehologram.io/holopinion/&t=HolOpinion%20%E2%80%93%20The%20voice%20of%20the%20community",
+      "anchor_text": ""
+    },
+    {
+      "url": "http://twitter.com/intent/tweet?text=HolOpinion%20%E2%80%93%20The%20voice%20of%20the%20community%20https://thehologram.io/holopinion/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://plus.google.com/share?url=https://thehologram.io/holopinion/&t=HolOpinion%20%E2%80%93%20The%20voice%20of%20the%20community",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/event/first-live-blo-dyoni-holders-raffle/",
+      "anchor_text": "First Live Blo Dyoni Holder’s Raffle"
+    },
+    {
+      "url": "https://thehologram.io/event/the-mob-mechina-nft-launch/",
+      "anchor_text": "The Mob Machina NFT Launch"
+    },
+    {
+      "url": "https://thehologram.io/event/star-atlas-town-hall-3/",
+      "anchor_text": "Star Atlas Town Hall"
+    },
+    {
+      "url": "https://thehologram.io/event/council-of-peace-assembly-copa/",
+      "anchor_text": "Council of Peace Assembly (COPA)"
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "UNKNOWN",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Author is not explicit in the surviving publication metadata.",
+      "No explicit primary source was identifiable from preserved outbound links."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://web.archive.org/web/20220525145841id_/https://thehologram.io/holopinion/",
+    "final_url": "https://web.archive.org/web/20220525145841id_/https://thehologram.io/holopinion/",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "response_size": 136097,
+    "elapsed_ms": 2332,
+    "retrieval_mode": "INTERNET_ARCHIVE",
+    "archive_capture": {
+      "timestamp": "20220525145841",
+      "original": "https://thehologram.io/holopinion/",
+      "digest": "TVSLJXUBO4G4AAFAIPJEJ6TJ2EUP7JZP"
+    }
+  }
+}

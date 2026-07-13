@@ -1,0 +1,143 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-5C04CF2AA3580D72",
+    "url": "https://build.staratlas.com/creative-assets/star-atlas-assets",
+    "title": "Star Atlas Build",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Build / ATMTA",
+    "published_at": null,
+    "updated_at": "2026-04-16T16:32:35.000Z",
+    "original_date_text": "2026-04-16T16:32:35.000Z",
+    "document_type": "TECHNICAL_DOCUMENTATION",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Build / ATMTA",
+    "publication_role": "TECHNICAL_DOCUMENTATION",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://drive.google.com/drive/folders/1QDkyrcd1LiDzEAK_9bIUg6V1VM9-U8Sl",
+        "anchor_text": "Star Atlas Canon Asset Repository"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Build / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official technical documentation titled “Star Atlas Build.” This record preserves what Star Atlas Build / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Star Atlas Assets | Star Atlas Build\nSkip to contentStar Atlas BuildSearchK\nAppearance\nMenuReturn to top\nStar Atlas Assets ​\nLooking for visuals, logos, or in-game artwork to power your Star Atlas creation? You’ll find everything we’ve made available for public use in the Star Atlas Canon Asset Repository\nEverything in that folder is approved for use under the Terms of Service If it’s not in the folder, it’s not approved for use (yet)\nWhat’s Inside the Asset Library ​\nArtwork ​\nCharacters\nFactions (including character leaders)\nLand and Claim Stakes\nPosters and Collectibles\nResources\nShips\nGame Art ​\nWebGL assets from SAGE\nShips sorted by brand: Armstrong, Busan, Calico, Fimbul, Ogrika and more\nLogos ​\nFaction Logos\nManufacturer Logos\nNever Alone campaign assets (legacy)\n“Star Atlas: Powered by the People” logo\nWhat’s Not Included ​\nTo keep things clean and legally safe, we don’t include:\nUnreleased or in-progress content\nInternal design docs or drafts\nThe official “Star Atlas” logo or stylized wordmark (these are restricted trademarks)\nTrade secrets or proprietary elements\nWant Something Added? ​\nMissing a specific ship or icon for your project? We’re open to requests. Ping us in 💻┃community-developers on Discord with your request, we’ll consider it case by case and may update the repo",
+  "content_hash": "850d934601019445e8a39db0741118b75a97702d2a3bc85689cb3d3686902930",
+  "entities": [
+    "ATLAS",
+    "Claim Stakes",
+    "SAGE"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-5C04CF2AA3580D72-01",
+      "text": "Star Atlas Assets | Star Atlas Build Skip to contentStar Atlas BuildSearchK Appearance MenuReturn to top Star Atlas Assets ​ Looking for visuals, logos, or in-game artwork to power your Star Atlas creation?",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-5C04CF2AA3580D72",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-5C04CF2AA3580D72-02",
+      "text": "​ Missing a specific ship or icon for your project?",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-5C04CF2AA3580D72",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-5C04CF2AA3580D72-03",
+      "text": "Ping us in 💻┃community-developers on Discord with your request, we’ll consider it case by case and may update the repo",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-5C04CF2AA3580D72",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "SAGE",
+    "ATLAS",
+    "Claim Stakes"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://build.staratlas.com/creative-assets/star-atlas-assets",
+      "anchor_text": "Skip to content"
+    },
+    {
+      "url": "https://build.staratlas.com/",
+      "anchor_text": "Star Atlas Build"
+    },
+    {
+      "url": "https://discord.com/invite/staratlas",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://drive.google.com/drive/folders/1QDkyrcd1LiDzEAK_9bIUg6V1VM9-U8Sl",
+      "anchor_text": "Star Atlas Canon Asset Repository"
+    },
+    {
+      "url": "https://discord.com/channels/789226204980707409/1004095538544787547",
+      "anchor_text": "💻┃community-developers"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://build.staratlas.com/creative-assets/star-atlas-assets",
+      "anchor_text": "Skip to content"
+    },
+    {
+      "url": "https://build.staratlas.com/",
+      "anchor_text": "Star Atlas Build"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://build.staratlas.com/creative-assets/star-atlas-assets",
+    "final_url": "https://build.staratlas.com/creative-assets/star-atlas-assets",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 24548,
+    "retrieved_at": "2026-07-13T01:04:24.226471Z",
+    "elapsed_ms": 98
+  }
+}

@@ -1,0 +1,502 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-9BD239AAD26418BF",
+    "url_id": "URL-9BD239AAD26418BF",
+    "url": "https://thehologram.io/the-star-atlas-community-shout-out-issue-2",
+    "title": "The Star Atlas Community Shout-Out: Issue 2 » The Hologram",
+    "author": "FowlAC",
+    "publisher": "Hologram News Network (HNN)",
+    "publication_identity": "Archived HNN website (thehologram.io)",
+    "published_at": "2022-10-30T21:52:41+00:00",
+    "updated_at": "2022-10-30T21:52:45+00:00",
+    "retrieved_at": "2026-07-13T00:09:09.270101Z",
+    "document_type": "ORIGINAL_INTERVIEW",
+    "source_role": "ORIGINAL_INTERVIEW",
+    "publication_role": "ORIGINAL_INTERVIEW",
+    "classification_rationale": "Publication explicitly presents an interview or Q&A."
+  },
+  "source_lineage": {
+    "publication": "Archived HNN website (thehologram.io)",
+    "publication_role": "ORIGINAL_INTERVIEW",
+    "relationship": "INTERVIEWS",
+    "primary_sources": [
+      {
+        "publication": "here",
+        "author": "UNKNOWN",
+        "url": "https://finalfrontiersa.com/front-magazine.html",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Season Zero",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=4GTqY1oeVeY",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "here",
+        "author": "UNKNOWN",
+        "url": "https://visit.virtualartgallery.com/fa8b526e-20ad-4aa8-97dd-d748a4cac4fe/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Discord",
+        "author": "UNKNOWN",
+        "url": "http://www.discord.gg/8f5ZpF24ds",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://staratlas.com/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [
+      "FowlAC"
+    ],
+    "attribution_chain": [
+      {
+        "from": "here",
+        "to": "Archived HNN website (thehologram.io)",
+        "relationship": "INTERVIEWS",
+        "url": "https://finalfrontiersa.com/front-magazine.html"
+      },
+      {
+        "from": "Season Zero",
+        "to": "Archived HNN website (thehologram.io)",
+        "relationship": "INTERVIEWS",
+        "url": "https://www.youtube.com/watch?v=4GTqY1oeVeY"
+      },
+      {
+        "from": "here",
+        "to": "Archived HNN website (thehologram.io)",
+        "relationship": "INTERVIEWS",
+        "url": "https://visit.virtualartgallery.com/fa8b526e-20ad-4aa8-97dd-d748a4cac4fe/"
+      },
+      {
+        "from": "Discord",
+        "to": "Archived HNN website (thehologram.io)",
+        "relationship": "INTERVIEWS",
+        "url": "http://www.discord.gg/8f5ZpF24ds"
+      },
+      {
+        "from": "Star Atlas",
+        "to": "Archived HNN website (thehologram.io)",
+        "relationship": "INTERVIEWS",
+        "url": "https://staratlas.com/"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "This original interview published by Hologram News Network (HNN) on 2022-10-30 documents “The Star Atlas Community Shout-Out: Issue 2 » The Hologram.” Its surviving text addresses governance, economy, guilds and DACs, game development, community, lore, technology. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "The Star Atlas Community Shout-Out: Issue 2\nPosted by FowlAC | Oct 30, 2022 | Community\nWelcome to the second issue of the Star Atlas Community Shout-Out – a spotlight on the news and events happening within the Star Atlas community.\nThe Club became more “clubby” this week. The guild announced the creation of multifaction clubs, a new strategy to help them get organized for SCREAM. For more details you can check out our latest article here.\nQuimeracon, a live in-person event organized by Quimera, takes place on Nov. 5 in Madrid. This is the first IRL meeting of members of the Star Atlas community. They have over 150 people attending and the venue looks amazing!\nA new book called Ready Player Earn will be coming out soon. According to author Dr. Mark Bowles, a Star Atlas community member, the book will cover his last 18 months navigating the blockchain gaming space. The Hologram was pleased to get an early copy. Look for our book review soonish!\nThe Supernova Racing League just completed another successful tournament. Congrats to Gargantua Industries for the top spot. Special recognition should also go to Star Atlas Italia for gobbling up the 2nd, 3rd, 4th and 5th spots!\nFinal Frontier guild leader Ardo had a great interview with Michael Wagner in the latest issue of Front magazine. Some really interesting information about both Ardo and Michael. You can read/listen to the entire interview here. Btw, for those who didn’t know, Arktype did the cover design!\nThis week, Atlas Theory announced a new show called Season Zero. This 6-week pilot will focus primarily on educating the uninitiated about the metaverse. According to AT, “Season Zero is an experiment of web3 content creation. It is also a test on the best way to deliver that content. It begins with Atlas Theory in the real-world, but who knows where it will end?” Spooky!\nDavid Muller aka SpriteVonPixel launched his virtual gallery of Solana NFTs and they are spectacular. You can hop into the virtual exhibition here and see the whole collection. If you click on any of the images it will take you to Solsea where they are available for purchase. Oh yeah, Shaddix1 provides the music. What’s not to like?\nPolaris Fuel and the Kosmos Hotel announced a new partnership this week. According to Polaris Fuel founder, Birr4s, the two businesses will work together to raise their visibility within the community by holding events and/or contests together. The long term vision: during your stay at the Kosmos, Polaris Fuel will resource and repair your ship and even clean it. Sign us up!\nThis week three new candidates put their hats in the ring for the Star Atlas Council. The Hologram created a dynamic page where you can learn all about each candidate and why they are running.\nHave an upcoming event or some news to share? Reach out to us on Twitter or our Discord.\nAbout The Hologram\nThe Hologram is Star Atlas’ first and only independent news network. Our vision is to become the most trusted source of information about Star Atlas and a voice for the whole community. Readers can expect a high standard from our reporting and staff. Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.\nThe Hologram is not endorsed or paid by the Star Atlas team. Any information published by The Hologram nor its writers should be considered as informational in nature and does not constitute any financial advice.\nShare:\nRelated Posts\nStar Atlas Guild Gaming Nights Kickoff — COD Warzone\nApril 24, 2022\nMaiden Voyage: The Hologram Hires First Opal BitBoat Crew Members\nAugust 1, 2022\nShadow’s Legacy, a mysterious research group emerges in Star Atlas\nApril 21, 2022\nThe Emergence of Star Atlas and the Metaverse\nAugust 27, 2022\nLeave a reply Cancel reply\nSubscribe\nThe Week in Star Atlas\nSubscribe to get our weekly update on all things Star Atlas!\nYou have Successfully Subscribed!\nRecent Posts\nThe Star Atlas Community Shout-Out: Issue 2\nOct 30, 2022 | Community\nStar Atlas Townhall recap\nOct 29, 2022 | Roadmap Updates, Special Feature, Town Hall\nNew Partnership between Polaris Fuel and The Kósmos Hotel\nOct 28, 2022 | Business, Community, Community Lore\nNueva Alianza entre Polaris Fuel y The Kósmos Hotel\nOct 28, 2022 | Comunidad, Contenido Original, Español, Lore, Negocios, Uncategorized\nThe Club guild ramps up for SCREAM\nOct 27, 2022 | Community, Guilds, SCREAM\nStar Atlas Council Candidates\nOct 26, 2022 | Politics\nThe Star Atlas Community Shout-Out: Issue #1\nOct 22, 2022 | Community\nWho is behind the mysterious Star Atlas crafting video?\nOct 21, 2022 | Gameplay, Leaks\nStar Atlas will wait before marketing to traditional gamers\nOct 19, 2022 | Gameplay\nWhat are the players with the most POLIS doing?\nOct 19, 2022 | Economics, Politics\nFollow the Holo\nTwitter\nSubscribe",
+  "content_hash": "f4b601bf1a9d9673d91c3bc06c543860305c30982e9040492869bff675fff5d5",
+  "major_topics": [
+    "governance",
+    "economy",
+    "guilds and DACs",
+    "game development",
+    "community",
+    "lore",
+    "technology"
+  ],
+  "entities": [
+    "ATLAS",
+    "Michael Wagner",
+    "POLIS",
+    "SCREAM",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-9BD239AAD26418BF-01",
+      "text": "The guild announced the creation of multifaction clubs, a new strategy to help them get organized for SCREAM.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-9BD239AAD26418BF",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-9BD239AAD26418BF-02",
+      "text": "A new book called Ready Player Earn will be coming out soon.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-9BD239AAD26418BF",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-9BD239AAD26418BF-03",
+      "text": "Mark Bowles, a Star Atlas community member, the book will cover his last 18 months navigating the blockchain gaming space.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-9BD239AAD26418BF",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-9BD239AAD26418BF-04",
+      "text": "This week, Atlas Theory announced a new show called Season Zero.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-9BD239AAD26418BF",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-9BD239AAD26418BF-05",
+      "text": "This 6-week pilot will focus primarily on educating the uninitiated about the metaverse.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-9BD239AAD26418BF",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-9BD239AAD26418BF-06",
+      "text": "It begins with Atlas Theory in the real-world, but who knows where it will end?” Spooky!",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-9BD239AAD26418BF",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-9BD239AAD26418BF-07",
+      "text": "David Muller aka SpriteVonPixel launched his virtual gallery of Solana NFTs and they are spectacular.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-9BD239AAD26418BF",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-9BD239AAD26418BF-08",
+      "text": "If you click on any of the images it will take you to Solsea where they are available for purchase.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-9BD239AAD26418BF",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-9BD239AAD26418BF-09",
+      "text": "Polaris Fuel and the Kosmos Hotel announced a new partnership this week.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-9BD239AAD26418BF",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-9BD239AAD26418BF-10",
+      "text": "According to Polaris Fuel founder, Birr4s, the two businesses will work together to raise their visibility within the community by holding events and/or contests together.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-9BD239AAD26418BF",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-9BD239AAD26418BF-11",
+      "text": "The long term vision: during your stay at the Kosmos, Polaris Fuel will resource and repair your ship and even clean it.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-9BD239AAD26418BF",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-9BD239AAD26418BF-12",
+      "text": "Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-9BD239AAD26418BF",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Star Atlas",
+    "POLIS",
+    "ATLAS",
+    "SCREAM"
+  ],
+  "governance_items": [],
+  "lore_items": [
+    "ONI"
+  ],
+  "actors": [
+    "Michael Wagner"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://thehologram.io/author/fowlac/",
+      "anchor_text": "FowlAC"
+    },
+    {
+      "url": "https://thehologram.io/category/community/",
+      "anchor_text": "Community"
+    },
+    {
+      "url": "https://twitter.com/TheClubGuild",
+      "anchor_text": "The Club"
+    },
+    {
+      "url": "https://thehologram.io/the-club-guild-ramps-up-for-scream/",
+      "anchor_text": "here"
+    },
+    {
+      "url": "https://twitter.com/QuimeraSA_/status/1584619369216167937",
+      "anchor_text": "Quimeracon"
+    },
+    {
+      "url": "https://twitter.com/dr2084",
+      "anchor_text": "Dr. Mark Bowles"
+    },
+    {
+      "url": "https://twitter.com/Gargantua_Inds",
+      "anchor_text": "Gargantua Industries"
+    },
+    {
+      "url": "https://twitter.com/staratlasitalia",
+      "anchor_text": "Star Atlas Italia"
+    },
+    {
+      "url": "https://twitter.com/FinalFrontierSA",
+      "anchor_text": "Final Frontier"
+    },
+    {
+      "url": "https://twitter.com/at_mwagner",
+      "anchor_text": "Michael Wagner"
+    },
+    {
+      "url": "https://finalfrontiersa.com/front-magazine.html",
+      "anchor_text": "here"
+    },
+    {
+      "url": "https://twitter.com/Arktype_",
+      "anchor_text": "Arktype"
+    },
+    {
+      "url": "https://twitter.com/staratlastheory",
+      "anchor_text": "Atlas Theory"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=4GTqY1oeVeY",
+      "anchor_text": "Season Zero"
+    },
+    {
+      "url": "https://twitter.com/mobirite/status/1585229150037544960",
+      "anchor_text": "virtual gallery"
+    },
+    {
+      "url": "https://visit.virtualartgallery.com/fa8b526e-20ad-4aa8-97dd-d748a4cac4fe/",
+      "anchor_text": "here"
+    },
+    {
+      "url": "https://twitter.com/ShaddixOne",
+      "anchor_text": "Shaddix1"
+    },
+    {
+      "url": "https://thehologram.io/polaris-fuel-and-kosmos-hotel/",
+      "anchor_text": "new partnership"
+    },
+    {
+      "url": "https://thehologram.io/star-atlas-council-candidates/",
+      "anchor_text": "dynamic page"
+    },
+    {
+      "url": "https://twitter.com/Hologram_News",
+      "anchor_text": "Twitter"
+    },
+    {
+      "url": "http://www.discord.gg/8f5ZpF24ds",
+      "anchor_text": "Discord"
+    },
+    {
+      "url": "https://thehologram.io/",
+      "anchor_text": "The Hologram"
+    },
+    {
+      "url": "https://staratlas.com/",
+      "anchor_text": "Star Atlas"
+    },
+    {
+      "url": "http://www.facebook.com/sharer.php?u=https://thehologram.io/the-star-atlas-community-shout-out-issue-2/&t=The%20Star%20Atlas%20Community%20Shout-Out%3A%20Issue%202",
+      "anchor_text": ""
+    },
+    {
+      "url": "http://twitter.com/intent/tweet?text=The%20Star%20Atlas%20Community%20Shout-Out%3A%20Issue%202%20https://thehologram.io/the-star-atlas-community-shout-out-issue-2/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/star-atlas-guild-gaming-nights-kickoff-cod-warzone/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/the-hologram-hires-first-opal-bitboat-crew-members/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/shadows-legacy-a-mysterious-research-group-emerges-in-star-atlas/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/the-emergence-of-star-atlas-and-the-metaverse/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/the-star-atlas-community-shout-out-issue-2/",
+      "anchor_text": "Cancel reply"
+    },
+    {
+      "url": "https://thehologram.io/star-atlas-townhall-recap/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/category/gameplay/roadmap-updates/",
+      "anchor_text": "Roadmap Updates"
+    },
+    {
+      "url": "https://thehologram.io/category/special-feature/",
+      "anchor_text": "Special Feature"
+    },
+    {
+      "url": "https://thehologram.io/category/espanol/town-hall/",
+      "anchor_text": "Town Hall"
+    },
+    {
+      "url": "https://thehologram.io/category/business/",
+      "anchor_text": "Business"
+    },
+    {
+      "url": "https://thehologram.io/category/community/lore/",
+      "anchor_text": "Community Lore"
+    },
+    {
+      "url": "https://thehologram.io/polaris-fuel-y-the-kosmos-hotel/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/category/espanol/comunidad/",
+      "anchor_text": "Comunidad"
+    },
+    {
+      "url": "https://thehologram.io/category/espanol/contenido-original/",
+      "anchor_text": "Contenido Original"
+    },
+    {
+      "url": "https://thehologram.io/category/espanol/",
+      "anchor_text": "Español"
+    },
+    {
+      "url": "https://thehologram.io/category/espanol/comunidad/lore-de-la-comunidad/",
+      "anchor_text": "Lore"
+    },
+    {
+      "url": "https://thehologram.io/category/espanol/negocios/",
+      "anchor_text": "Negocios"
+    },
+    {
+      "url": "https://thehologram.io/category/uncategorized/",
+      "anchor_text": "Uncategorized"
+    },
+    {
+      "url": "https://thehologram.io/category/community/guilds/",
+      "anchor_text": "Guilds"
+    },
+    {
+      "url": "https://thehologram.io/category/espanol/scream-espanol/",
+      "anchor_text": "SCREAM"
+    },
+    {
+      "url": "https://thehologram.io/category/politics/",
+      "anchor_text": "Politics"
+    },
+    {
+      "url": "https://thehologram.io/star-atlas-community-shout-out-issue-1/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/who-is-behind-the-mysterious-star-atlas-crafting-video/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/category/gameplay/",
+      "anchor_text": "Gameplay"
+    },
+    {
+      "url": "https://thehologram.io/category/gameplay/leaks/",
+      "anchor_text": "Leaks"
+    },
+    {
+      "url": "https://thehologram.io/star-atlas-will-wait-before-marketing-to-traditional-gamers/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/polis-holders-strategies/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/category/politics/economics/",
+      "anchor_text": "Economics"
+    },
+    {
+      "url": "http://coinledger.io?fpr=opqer",
+      "anchor_text": ""
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "https://web.archive.org/web/20221031011708id_/https://thehologram.io/the-star-atlas-community-shout-out-issue-2/",
+    "final_url": "https://web.archive.org/web/20221031011708id_/https://thehologram.io/the-star-atlas-community-shout-out-issue-2/",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "response_size": 169410,
+    "elapsed_ms": 2988,
+    "retrieval_mode": "INTERNET_ARCHIVE",
+    "archive_capture": {
+      "timestamp": "20221031011708",
+      "original": "https://thehologram.io/the-star-atlas-community-shout-out-issue-2/",
+      "digest": "6UTIYRJAYEX6SLSPQO5JF4UOJA4W3UWT"
+    }
+  }
+}

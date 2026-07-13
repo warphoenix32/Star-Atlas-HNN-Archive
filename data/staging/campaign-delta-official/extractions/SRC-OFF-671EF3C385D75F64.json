@@ -1,0 +1,292 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-671EF3C385D75F64",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47028985877907-How-Do-I-Rent-Out-My-Ships-in-Star-Atlas",
+    "title": "How Do I Rent Out My Ships in Star Atlas?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-02T18:09:23Z",
+    "updated_at": "2025-12-08T18:24:08Z",
+    "original_date_text": "2025-12-02T18:09:23Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://play.staratlas.com/inventory/",
+        "anchor_text": "Star Atlas Inventory"
+      },
+      {
+        "url": "https://play.staratlas.com/crew/",
+        "anchor_text": "Crew Inventory"
+      },
+      {
+        "url": "https://based.staratlas.com",
+        "anchor_text": "based.staratlas.com"
+      },
+      {
+        "url": "https://play.staratlas.com",
+        "anchor_text": "play.staratlas.com"
+      },
+      {
+        "url": "http://play.staratlas.com/rentals",
+        "anchor_text": "Fleet Rentals"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “How Do I Rent Out My Ships in Star Atlas?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "To rent out your fleet in Star Atlas and start earning Atlas tokens, follow these steps:\nPrepare Your Assets:\nShips: Ensure you have the ships needed to form a fleet: Star Atlas Inventory\nCrew: Gather enough crew to man your ships. A fleet cannot be formed without Crew, Crew Inventory\nFees: Have Atlas or Solana available to cover transaction fees.\nOptional: Fill your fleet with fuel and ammunition to make it more attractive to renters, Star Atlas Inventory\nSet Up Your Sage Profile:\nVisit based.staratlas.com to create your profile by choosing a name and selecting your faction\nBy default, Atlas Prime is enabled (using Atlas for transaction fees). To switch to Solana fees, click the settings cog, go to \"Manage Section Settings,\" and disable Atlas Prime.\nImport Your Assets:\nAccess your faction’s Central Space Station (CSS).\nNavigate to the Port of Entry tab and import your ships, crew, and resources\nForm Your Fleet:\nGo to the Hangar tab and click Form New Fleet.\nSelect the ships you want to include. Note that there is a maximum fleet capacity (up to 45 ships), which fills faster with larger ships.\nEnsure you have enough crew available at your CSS or Starbase; otherwise, you will see an error.\n(Optional) To enhance your fleet’s appeal, click Full Refuel to fill the fuel tank and Full Rearm to stock the ammo bank.\nList Your Fleet for Rent:\nVisit play.staratlas.com and click on the Fleet Rentals icon in the side navigation bar.\nConnect your wallet. Your newly formed fleet should appear under the My Fleet Inventory tab.\nChoose the fleet you wish to rent out, set your daily rental rate in Atlas, and click List for Rent.\nYour fleet will remain listed continuously until you cancel the listing. If canceled, you’ll regain control of your fleet once the current rental period ends or if the renter cancels early.",
+  "content_hash": "ff2794367da1ddd2e95d5f4ae3552917fb47b2b81f5325cec1a2473e4188bac6",
+  "entities": [
+    "ATLAS",
+    "Atlas Prime",
+    "Crew",
+    "SAGE",
+    "Solana"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-671EF3C385D75F64-01",
+      "text": "To rent out your fleet in Star Atlas and start earning Atlas tokens, follow these steps: Prepare Your Assets: Ships: Ensure you have the ships needed to form a fleet: Star Atlas Inventory Crew: Gather enough crew to man your ships.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-671EF3C385D75F64",
+      "publication_date": "2025-12-02T18:09:23Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-671EF3C385D75F64-02",
+      "text": "A fleet cannot be formed without Crew, Crew Inventory Fees: Have Atlas or Solana available to cover transaction fees.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-671EF3C385D75F64",
+      "publication_date": "2025-12-02T18:09:23Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-671EF3C385D75F64-03",
+      "text": "Optional: Fill your fleet with fuel and ammunition to make it more attractive to renters, Star Atlas Inventory Set Up Your Sage Profile: Visit based.staratlas.com to create your profile by choosing a name and selecting your faction By default, Atlas Prime is enabled (using Atlas for transaction fees).",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-671EF3C385D75F64",
+      "publication_date": "2025-12-02T18:09:23Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-671EF3C385D75F64-04",
+      "text": "To switch to Solana fees, click the settings cog, go to \"Manage Section Settings,\" and disable Atlas Prime.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-671EF3C385D75F64",
+      "publication_date": "2025-12-02T18:09:23Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-671EF3C385D75F64-05",
+      "text": "Import Your Assets: Access your faction’s Central Space Station (CSS).",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-671EF3C385D75F64",
+      "publication_date": "2025-12-02T18:09:23Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-671EF3C385D75F64-06",
+      "text": "Navigate to the Port of Entry tab and import your ships, crew, and resources Form Your Fleet: Go to the Hangar tab and click Form New Fleet.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-671EF3C385D75F64",
+      "publication_date": "2025-12-02T18:09:23Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-671EF3C385D75F64-07",
+      "text": "Note that there is a maximum fleet capacity (up to 45 ships), which fills faster with larger ships.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-671EF3C385D75F64",
+      "publication_date": "2025-12-02T18:09:23Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-671EF3C385D75F64-08",
+      "text": "Ensure you have enough crew available at your CSS or Starbase; otherwise, you will see an error.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-671EF3C385D75F64",
+      "publication_date": "2025-12-02T18:09:23Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-671EF3C385D75F64-09",
+      "text": "(Optional) To enhance your fleet’s appeal, click Full Refuel to fill the fuel tank and Full Rearm to stock the ammo bank.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-671EF3C385D75F64",
+      "publication_date": "2025-12-02T18:09:23Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-671EF3C385D75F64-10",
+      "text": "List Your Fleet for Rent: Visit play.staratlas.com and click on the Fleet Rentals icon in the side navigation bar.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-671EF3C385D75F64",
+      "publication_date": "2025-12-02T18:09:23Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-671EF3C385D75F64-11",
+      "text": "Your newly formed fleet should appear under the My Fleet Inventory tab.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-671EF3C385D75F64",
+      "publication_date": "2025-12-02T18:09:23Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-671EF3C385D75F64-12",
+      "text": "Choose the fleet you wish to rent out, set your daily rental rate in Atlas, and click List for Rent.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-671EF3C385D75F64",
+      "publication_date": "2025-12-02T18:09:23Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-671EF3C385D75F64-13",
+      "text": "Your fleet will remain listed continuously until you cancel the listing.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-671EF3C385D75F64",
+      "publication_date": "2025-12-02T18:09:23Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-671EF3C385D75F64-14",
+      "text": "If canceled, you’ll regain control of your fleet once the current rental period ends or if the renter cancels early.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-671EF3C385D75F64",
+      "publication_date": "2025-12-02T18:09:23Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "SAGE",
+    "ATLAS",
+    "Atlas Prime",
+    "Crew"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [
+    "Solana"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://play.staratlas.com/inventory/",
+      "anchor_text": "Star Atlas Inventory"
+    },
+    {
+      "url": "https://play.staratlas.com/crew/",
+      "anchor_text": "Crew Inventory"
+    },
+    {
+      "url": "https://based.staratlas.com",
+      "anchor_text": "based.staratlas.com"
+    },
+    {
+      "url": "https://play.staratlas.com",
+      "anchor_text": "play.staratlas.com"
+    },
+    {
+      "url": "http://play.staratlas.com/rentals",
+      "anchor_text": "Fleet Rentals"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://play.staratlas.com/inventory/",
+      "anchor_text": "Star Atlas Inventory"
+    },
+    {
+      "url": "https://play.staratlas.com/crew/",
+      "anchor_text": "Crew Inventory"
+    },
+    {
+      "url": "https://based.staratlas.com",
+      "anchor_text": "based.staratlas.com"
+    },
+    {
+      "url": "https://play.staratlas.com",
+      "anchor_text": "play.staratlas.com"
+    },
+    {
+      "url": "http://play.staratlas.com/rentals",
+      "anchor_text": "Fleet Rentals"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47028985877907-How-Do-I-Rent-Out-My-Ships-in-Star-Atlas",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.279162Z"
+  }
+}

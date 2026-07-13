@@ -1,0 +1,220 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-B263E0E5565CB9ED",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47031334087059-How-do-I-mine-and-transport-resources-in-Holosim",
+    "title": "How do I mine and transport resources in Holosim?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-02T19:07:14Z",
+    "updated_at": "2025-12-08T18:24:58Z",
+    "original_date_text": "2025-12-02T19:07:14Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “How do I mine and transport resources in Holosim?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Mining and transport are two of the most important activities in Holosim. They allow you to gather raw resources and move them between bases to keep your fleets and crafting running.\nMining resources\nGo to a starbase controlled by your faction: every starbase has its own available raw materials.\nCheck resources: click on the starbase and open the Details tab to see what can be mined there.\nUndock your fleet: fleets must be undocked to start mining.\nStart mining: select your fleet, click Start Mining, then confirm with Initiate Mining.\nMonitor your cargo: resources are stored in your fleet’s cargo hold.\nStop mining when full: click your fleet, select Stop Mining, then dock at a base to unload your cargo.\nAny ship can mine, but mining ships are more efficient and consume fewer supplies.\nTransporting resources\nDock your fleet at a starbase with resources: load items from the base inventory into your fleet’s cargo.\nUndock and set your destination: send your fleet to another faction-controlled starbase.\nDock at the destination: once arrived, dock your fleet.\nUnload cargo: move the resources into the base inventory.\nAny ship can transport cargo, though transport ships are designed for efficiency and larger loads.",
+  "content_hash": "d4438a71e121a9022ff8e3803d76805792b36cd2368f04b083e82cea3b81a8e8",
+  "entities": [
+    "Holosim"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-B263E0E5565CB9ED-01",
+      "text": "Mining and transport are two of the most important activities in Holosim.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B263E0E5565CB9ED",
+      "publication_date": "2025-12-02T19:07:14Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-B263E0E5565CB9ED-02",
+      "text": "They allow you to gather raw resources and move them between bases to keep your fleets and crafting running.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B263E0E5565CB9ED",
+      "publication_date": "2025-12-02T19:07:14Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-B263E0E5565CB9ED-03",
+      "text": "Mining resources Go to a starbase controlled by your faction: every starbase has its own available raw materials.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B263E0E5565CB9ED",
+      "publication_date": "2025-12-02T19:07:14Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-B263E0E5565CB9ED-04",
+      "text": "Check resources: click on the starbase and open the Details tab to see what can be mined there.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B263E0E5565CB9ED",
+      "publication_date": "2025-12-02T19:07:14Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-B263E0E5565CB9ED-05",
+      "text": "Undock your fleet: fleets must be undocked to start mining.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B263E0E5565CB9ED",
+      "publication_date": "2025-12-02T19:07:14Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-B263E0E5565CB9ED-06",
+      "text": "Start mining: select your fleet, click Start Mining, then confirm with Initiate Mining.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B263E0E5565CB9ED",
+      "publication_date": "2025-12-02T19:07:14Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-B263E0E5565CB9ED-07",
+      "text": "Monitor your cargo: resources are stored in your fleet’s cargo hold.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B263E0E5565CB9ED",
+      "publication_date": "2025-12-02T19:07:14Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-B263E0E5565CB9ED-08",
+      "text": "Stop mining when full: click your fleet, select Stop Mining, then dock at a base to unload your cargo.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B263E0E5565CB9ED",
+      "publication_date": "2025-12-02T19:07:14Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-B263E0E5565CB9ED-09",
+      "text": "Any ship can mine, but mining ships are more efficient and consume fewer supplies.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B263E0E5565CB9ED",
+      "publication_date": "2025-12-02T19:07:14Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-B263E0E5565CB9ED-10",
+      "text": "Transporting resources Dock your fleet at a starbase with resources: load items from the base inventory into your fleet’s cargo.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B263E0E5565CB9ED",
+      "publication_date": "2025-12-02T19:07:14Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-B263E0E5565CB9ED-11",
+      "text": "Undock and set your destination: send your fleet to another faction-controlled starbase.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B263E0E5565CB9ED",
+      "publication_date": "2025-12-02T19:07:14Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-B263E0E5565CB9ED-12",
+      "text": "Dock at the destination: once arrived, dock your fleet.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B263E0E5565CB9ED",
+      "publication_date": "2025-12-02T19:07:14Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-B263E0E5565CB9ED-13",
+      "text": "Unload cargo: move the resources into the base inventory.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B263E0E5565CB9ED",
+      "publication_date": "2025-12-02T19:07:14Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-B263E0E5565CB9ED-14",
+      "text": "Any ship can transport cargo, though transport ships are designed for efficiency and larger loads.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B263E0E5565CB9ED",
+      "publication_date": "2025-12-02T19:07:14Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Holosim"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47031334087059-How-do-I-mine-and-transport-resources-in-Holosim",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.429071Z"
+  }
+}

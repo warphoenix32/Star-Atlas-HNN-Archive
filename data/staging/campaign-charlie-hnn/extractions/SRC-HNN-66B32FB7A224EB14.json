@@ -1,0 +1,141 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-66B32FB7A224EB14",
+    "url_id": "URL-66B32FB7A224EB14",
+    "url": "https://medium.com/p/a634ce395671",
+    "title": "Star Atlas: CORE Book One Recap *Spoilers*",
+    "author": "Krigs",
+    "publisher": "Medium",
+    "publication_identity": "Kr1gs Medium publication",
+    "published_at": "2022-11-09T02:10:13Z",
+    "updated_at": "2022-11-09T02:10:13Z",
+    "retrieved_at": "2026-07-13T00:08:06.972838Z",
+    "document_type": "EVENT_COVERAGE",
+    "source_role": "EVENT_COVERAGE",
+    "publication_role": "EVENT_COVERAGE",
+    "classification_rationale": "Publication documents or recaps a named event."
+  },
+  "source_lineage": {
+    "publication": "Kr1gs Medium publication",
+    "publication_role": "EVENT_COVERAGE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [
+      {
+        "publication": "Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://staratlas.com/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [
+      "Krigs"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Star Atlas",
+        "to": "Kr1gs Medium publication",
+        "relationship": "REPORTS_ON",
+        "url": "https://staratlas.com/"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "This event coverage published by Medium on 2022-11-09 documents “Star Atlas: CORE Book One Recap *Spoilers*.” Its surviving text addresses economy, game development, community, lore. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "Star Atlas: CORE Book One Recap *Spoilers*\nKrigs4 min read·Nov 9, 2022\n--\nListen\nShare\nAt the beginning of Star Atlas: CORE Book One, we’re introduced to our trio of explorers who have arrived on an unknown planet designated NC7-S03–425 in the New Centauri System. We assume that they’re in the High Risk Zone of Star Atlas based on the fact that this is supposedly an unexplored planet that they’ve landed on.\nWe meet our main character Gyun who is accompanied by the Ustur, Osia, and the Mierese Moda.\nIn the next panel we quickly learn that Gyun and Osia have a romantic relationship.\nThe pair talk about settling down and having offspring…which leads us to wonder, “How does a human and a Ustur reproduce?”\nIn the background we see a wide open rocky terrain, dotted with what appear to be red mineral deposits, something the trio is looking for.\nThe group quickly reaches their destination, the highest concentration of resources that they are looking for. The group quickly moves to secure their claim with the help of a staking drone, when something unexpected happens.\nIt becomes immediately clear that the groups attempt to stake their claim has disturbed something deep within the resource deposit.\nA massive swirling mass or red rock erupts and begins attacking our explorers.\nSPOILERS AHEAD! If you haven’t read Book One yet, we highly recommend you do!\nPress enter or click to view image in full size\nAs our explorers rush back to their ship, they are violently assaulted by the unknown creature. As a result, Osia is severely injured and ends up dying on the floor of their ship as Gyun watches on. What began as an optimistic story of freedom, exploration, love ends in tragedy.\nAs Osia passes away, we get a glimpse of Ustur culture, when she passes her data cube to Gyun to take to “The Summit of the Elders”. We’re not sure what a data cube is, but perhaps its like a consciousness or soul. The Summit of the Elders could possibly be a gateway or data mainframe representing the passage to the afterlife. If you’ve watched the HBO Series Westworld through Season 4, you know what we’re talking about.\nPress enter or click to view image in full size\nIn the last panel, Moda hastily pilots the heavily damaged ship away from the planet. In search of a port for repairs, the only one available is Mondra 7. Moda does not seem thrilled about that prospect. Deep within unclaimed territory, Mondra 7 is likely either a pirate outpost or heavily fortified Council of Peace base. Either way, the situation does not bode well for our explorers.\nWhat are your thoughts on some of the mysteries in the first book of Star Atlas: CORE? Leave us a comment below on what you think is in store for our explorers.\nStar Atlas Core Book One Production Team\nStar Atlas: CORE was produced by the people above. The Hologram does not own the rights to any of the images you see in this article.\nAbout The Hologram\nThe Hologram is Star Atlas’ first and only independent news network. Our vision is to become the most trusted source of information about Star Atlas and a voice for the whole community. Readers can expect a high standard from our reporting and staff. Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.\nThe Hologram is not endorsed or paid by the Star Atlas team. Any information published by The Hologram nor its writers should be considered as informational in nature and does not constitute any financial advice.",
+  "content_hash": "d87c6044e9a63bf4794972e010bdf25f0b18d5850f3cb5edc6ce4171c6fca3e3",
+  "major_topics": [
+    "economy",
+    "game development",
+    "community",
+    "lore"
+  ],
+  "entities": [
+    "ATLAS",
+    "Krigs",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-66B32FB7A224EB14-01",
+      "text": "Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-66B32FB7A224EB14",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Star Atlas",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [
+    "Ustur"
+  ],
+  "actors": [
+    "Krigs"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://medium.com/@krigsfoniks?source=post_page---byline--a634ce395671---------------------------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fthe-hologram%2Fa634ce395671&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fstar-atlas-core-book-one-recap-spoilers-a634ce395671&user=Krigs&userId=41e0c5b141f1&source=---header_actions--a634ce395671---------------------clap_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Frepost%2Fp%2Fa634ce395671&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fstar-atlas-core-book-one-recap-spoilers-a634ce395671&user=Krigs&userId=41e0c5b141f1&source=---header_actions--a634ce395671---------------------repost_header------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fa634ce395671&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fstar-atlas-core-book-one-recap-spoilers-a634ce395671&source=---header_actions--a634ce395671---------------------bookmark_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2Fplans%3Fdimension%3Dpost_audio_button%26postId%3Da634ce395671&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fstar-atlas-core-book-one-recap-spoilers-a634ce395671&source=---header_actions--a634ce395671---------------------post_audio_button------------------",
+      "anchor_text": "Listen"
+    },
+    {
+      "url": "https://medium.com/the-hologram",
+      "anchor_text": "The Hologram"
+    },
+    {
+      "url": "https://staratlas.com/",
+      "anchor_text": "Star Atlas"
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "https://medium.com/p/a634ce395671",
+    "final_url": "https://medium.com/the-hologram/star-atlas-core-book-one-recap-spoilers-a634ce395671",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 139782,
+    "elapsed_ms": 1149,
+    "retrieval_mode": "LIVE",
+    "archive_capture": null
+  }
+}

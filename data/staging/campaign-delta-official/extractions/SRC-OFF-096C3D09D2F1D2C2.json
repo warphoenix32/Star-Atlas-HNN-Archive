@@ -1,0 +1,191 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-096C3D09D2F1D2C2",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47061462742163-What-is-SOL",
+    "title": "What is SOL?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-03T17:01:56Z",
+    "updated_at": "2025-12-08T18:23:24Z",
+    "original_date_text": "2025-12-03T17:01:56Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://www.coinbase.com/fr",
+        "anchor_text": "Coinbase"
+      },
+      {
+        "url": "https://www.binance.com/fr",
+        "anchor_text": "Binance"
+      },
+      {
+        "url": "https://backpack.exchange/",
+        "anchor_text": "Backpack Exchange"
+      },
+      {
+        "url": "https://play.staratlas.com",
+        "anchor_text": "play.staratlas.com"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “What is SOL?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "SOL is the native currency of the Solana blockchain, one of the fastest and most cost-efficient blockchains in the world. It's used to pay for transactions, secure the network, and interact with decentralized apps (dApps) and NFTs including everything in Star Atlas.\nHow SOL Works\nBlockchain: Solana is a public, open-source blockchain that supports smart contracts and NFTs.\nSpeed: Solana can handle tens of thousands of transactions per second (TPS), making it extremely fast even under load.\nFees: Solana’s fees are extremely low usually 0.000005 sol per transaction.\nSOL in Star Atlas\nTo play Star Atlas on the blockchain side (SAGE, Marketplace, DAO), you’ll need a small amount of SOL in your wallet. This pays for actions like:\nImporting ships or crew\nCrafting or mining\nBuying resources\nSigning DAO votes\nHow to Get SOL\nYou can:\nBuy SOL from a crypto exchange like Coinbase, Binance, or Backpack Exchange\nUse Topper on play.staratlas.com to buy SOL with a credit card",
+  "content_hash": "25e335d3ce602e2edfc3e20e3b3407433bdea9dc31cc4bf2f23764074699afcd",
+  "entities": [
+    "ATLAS",
+    "Crew",
+    "SAGE",
+    "Solana"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-096C3D09D2F1D2C2-01",
+      "text": "SOL is the native currency of the Solana blockchain, one of the fastest and most cost-efficient blockchains in the world.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-096C3D09D2F1D2C2",
+      "publication_date": "2025-12-03T17:01:56Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-096C3D09D2F1D2C2-02",
+      "text": "It's used to pay for transactions, secure the network, and interact with decentralized apps (dApps) and NFTs including everything in Star Atlas.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-096C3D09D2F1D2C2",
+      "publication_date": "2025-12-03T17:01:56Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-096C3D09D2F1D2C2-03",
+      "text": "How SOL Works Blockchain: Solana is a public, open-source blockchain that supports smart contracts and NFTs.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-096C3D09D2F1D2C2",
+      "publication_date": "2025-12-03T17:01:56Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-096C3D09D2F1D2C2-04",
+      "text": "Speed: Solana can handle tens of thousands of transactions per second (TPS), making it extremely fast even under load.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-096C3D09D2F1D2C2",
+      "publication_date": "2025-12-03T17:01:56Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-096C3D09D2F1D2C2-05",
+      "text": "Fees: Solana’s fees are extremely low usually 0.000005 sol per transaction.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-096C3D09D2F1D2C2",
+      "publication_date": "2025-12-03T17:01:56Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-096C3D09D2F1D2C2-06",
+      "text": "SOL in Star Atlas To play Star Atlas on the blockchain side (SAGE, Marketplace, DAO), you’ll need a small amount of SOL in your wallet.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-096C3D09D2F1D2C2",
+      "publication_date": "2025-12-03T17:01:56Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-096C3D09D2F1D2C2-07",
+      "text": "This pays for actions like: Importing ships or crew Crafting or mining Buying resources Signing DAO votes How to Get SOL You can: Buy SOL from a crypto exchange like Coinbase, Binance, or Backpack Exchange Use Topper on play.staratlas.com to buy SOL with a credit card",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-096C3D09D2F1D2C2",
+      "publication_date": "2025-12-03T17:01:56Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "SAGE",
+    "ATLAS",
+    "Crew"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [
+    "Solana"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://www.coinbase.com/fr",
+      "anchor_text": "Coinbase"
+    },
+    {
+      "url": "https://www.binance.com/fr",
+      "anchor_text": "Binance"
+    },
+    {
+      "url": "https://backpack.exchange/",
+      "anchor_text": "Backpack Exchange"
+    },
+    {
+      "url": "https://play.staratlas.com",
+      "anchor_text": "play.staratlas.com"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://play.staratlas.com",
+      "anchor_text": "play.staratlas.com"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47061462742163-What-is-SOL",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.174012Z"
+  }
+}

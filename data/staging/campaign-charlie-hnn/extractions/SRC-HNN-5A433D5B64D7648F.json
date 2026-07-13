@@ -1,0 +1,414 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-5A433D5B64D7648F",
+    "url_id": "URL-5A433D5B64D7648F",
+    "url": "https://thehologram.io/star-atlas-town-hall-33",
+    "title": "Star Atlas Town Hall 33 Part I - Alpha and Next 426 Live Confirmed",
+    "author": "Krigs",
+    "publisher": "Hologram News Network (HNN)",
+    "publication_identity": "Archived HNN website (thehologram.io)",
+    "published_at": "2022-08-27T05:16:14+00:00",
+    "updated_at": "2022-08-27T13:04:52+00:00",
+    "retrieved_at": "2026-07-13T00:14:06.759833Z",
+    "document_type": "EVENT_COVERAGE",
+    "source_role": "EVENT_COVERAGE",
+    "publication_role": "EVENT_COVERAGE",
+    "classification_rationale": "Publication documents or recaps a named event."
+  },
+  "source_lineage": {
+    "publication": "Archived HNN website (thehologram.io)",
+    "publication_role": "EVENT_COVERAGE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [
+      {
+        "publication": "Spearsoft",
+        "author": "UNKNOWN",
+        "url": "https://sperasoft.com/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://staratlas.com/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [
+      "Krigs"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Spearsoft",
+        "to": "Archived HNN website (thehologram.io)",
+        "relationship": "REPORTS_ON",
+        "url": "https://sperasoft.com/"
+      },
+      {
+        "from": "Star Atlas",
+        "to": "Archived HNN website (thehologram.io)",
+        "relationship": "REPORTS_ON",
+        "url": "https://staratlas.com/"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "This event coverage published by Hologram News Network (HNN) on 2022-08-27 documents “Star Atlas Town Hall 33 Part I - Alpha and Next 426 Live Confirmed.” Its surviving text addresses governance, economy, guilds and DACs, game development, community, lore, technology. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "Star Atlas Town Hall 33 Part I – Alpha and Next 426 Live Confirmed\nPosted by Krigs | Aug 27, 2022 | Roadmap Updates\nFriday, August 26th – Today’s rendition of the Star Atlas Town Hall was packed with host of work in progress images and videos of ongoing projects to include SCREAM.\nBeginning on a positive note, Star Atlas Content Strategist DaveyB announced the winner of the ongoing Creative Community Cinema Contest, or Star Atlas 4C. Taking home three Fimbul Lowbies was French Star Atlas Community Member Morpheus for their work.\nCEO Michael Wagner Addresses Community Feedback\nTransitioning to some official, CEO Michael Wagner acknowledged that it was a bit of a “spicy” week in terms of community feedback. Community comments in the Foundation Room Chat over the past week was critical over the proposed structure of Star Atlas marketplace fees. Taking the critiques in stride, Wagner noted “Nothing motivates us more than delivering great product and obviously we want to keep the community happy.”\nNext 426 Live Event Confirmed – Showroom R1 Launch\nTurning towards future releases, Wagner stated that they had wanted to announce the date of the next 426 Live event, but had a last minute complication that emerged today. No timeline was shared behind the next 426 Live event but the agenda is locked in for the next 426 Live. One of the events highlighted during the next 426 Live event will be the Showroom R1 (Version 1) release. Wagner further alluded to a new partnership on the horizon and that “getting that right is important to us.” Wagner reassured the Town Hall audience, “We will absolutely share that date once we have 100% confirmation with our partners on the ability to rollout with the intended method on distribution.”\nDetails remain slightly unclear but it appears that Star Atlas’ Showroom distribution partners encountered an unexpected hurdle today which delayed the announcement date of the next 426 Live. Star Atlas has been working with game development company Spearsoft on building the Star Atlas Showroom. However, based on Wagner’s comments, it would appear that a different company is handling the distribution of the Star Atlas Showroom Launcher. Star Atlas has openly referred to Spearsoft in the past and the absence of any mention of Spearsoft could indicate that a different distributer is indeed involved. Community members have speculated that this could be a to-be disclosed partnership with Epic Games, makers of popular Battle Royale game Fortnite.\nAccording to Wagner, the R1 version of showroom is already complete and the development team is working on future iterations of Showroom.\nAdditional 426 Live#2 Content\nConcluding his segment, Wagner also revealed the remaining agenda planned for the second 426 Live event.\nAutomata’s Dan Park will conduct a full presentation of sustainable governance within Star Atlas including participation in the POLIS DAO. This will likely include additional information about the Star Atlas Foundation, Star Atlas Council, and POLIS Improvement Proposals.\nAutomata will also roll out the ATLAS Locker, the staking component cousin to the POLIS Locker and a key feature of the Star Atlas Galactic Marketplace.\nThe team will also formally present the Foundation Kit, a Software Development Kit by Automata. The SDK will enable future open development that will fully integrate into Unreal Engine 5 and the Star Atlas ecosystem. The SDK was developed out of necessity to integrate Solana into Unreal Engine. As with many of the blockchain projects Automata is working on in Unreal Engine 5, the integration technology does not exist. Automata is constantly building the integration tools required for development while simultaneously building the Star Atlas game itself.\nSCREAM Web GL Work In Progress Alpha Images\nThe Star Atlas team also shared some work in progress images of the upcoming SCREAM module. For additional images released from today’s Star Atlas Town Hall, check out the Star Atlas Discord.\nSCREAM UI Mockup\nSCREAM Hangar Module\nFull Recap\nA full recap of the recent events, including a chronological record of Star Atlas lore, can be found here.\nAbout The Hologram\nThe Hologram is Star Atlas’ first and only independent news network. Our vision is to become the most trusted source of information about Star Atlas and a voice for the whole community. Readers can expect a high standard from our reporting and staff. Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.\nThe Hologram is not endorsed or paid by the Star Atlas team. Any information published by The Hologram nor its writers should be considered as informational in nature and does not constitute any financial advice.\nShare:\nAbout The Author\nKrigs\nRelated Posts\nLimited Edition: April 15 Executive Roadmap Update\nApril 16, 2022\nCOPA Update – June 3 Q&A with Star Atlas\nJune 4, 2022\nAnonymous Source Leaks Showroom Release Plans\nJune 5, 2022\nLimited Edition: April 1 Executive Roadmap Update\nApril 13, 2022\nLeave a reply Cancel reply\nUpcoming Events\nThere are no upcoming events.\nRecent Posts\nThe Emergence of Star Atlas and the Metaverse\nAug 27, 2022 | Community, Opinion\nStar Atlas Town Hall 33 Part I – Alpha and Next 426 Live Confirmed\nAug 27, 2022 | Roadmap Updates\nEl Arte en Star Atlas (Parte 1)\nAug 26, 2022 | Contenido Original, Español, Naves\nEl Consejo de Seguridad Ustur y la política de facciones en SCREAM\nAug 25, 2022 | Clan/DAC, Comunidad, Español, SCREAM\nFuente anónima: Este viernes en el Town Hall se anunciará el próximo 426Live\nAug 24, 2022 | Español, Leaks, Modo de juego\nEl Consejo de Seguridad Ustur se reúne para proteger los intereses de la facción\nAug 24, 2022 | Clan/DAC, Comunidad, Español, Modo de juego, Políticas, SCORE, SCREAM\nAnonymous Source: 426Live Announcement at this Friday’s Town Hall\nAug 24, 2022 | Community, Gameplay, Leaks\n¿Ayudaran las nuevas tarifas a darle “Poder a la Gente”?\nAug 23, 2022 | Español\n¿Qué facción de Star Atlas tiene la ventaja? (Parte II)\nAug 23, 2022 | Español, Políticas\nCómo encontrar el NFT de tu nave en Star Atlas?\nAug 22, 2022 | Económicas\nFollow the Holo\nTwitter",
+  "content_hash": "01ce05230e65a2e7859729967ff42e47fed2f6767ed1221b0f9f07637b099bbc",
+  "major_topics": [
+    "governance",
+    "economy",
+    "guilds and DACs",
+    "game development",
+    "community",
+    "lore",
+    "technology"
+  ],
+  "entities": [
+    "ATLAS",
+    "Krigs",
+    "Michael Wagner",
+    "POLIS",
+    "SCORE",
+    "SCREAM",
+    "Showroom",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-5A433D5B64D7648F-01",
+      "text": "Beginning on a positive note, Star Atlas Content Strategist DaveyB announced the winner of the ongoing Creative Community Cinema Contest, or Star Atlas 4C.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-5A433D5B64D7648F",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-5A433D5B64D7648F-02",
+      "text": "One of the events highlighted during the next 426 Live event will be the Showroom R1 (Version 1) release.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-5A433D5B64D7648F",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-5A433D5B64D7648F-03",
+      "text": "Wagner further alluded to a new partnership on the horizon and that “getting that right is important to us.” Wagner reassured the Town Hall audience, “We will absolutely share that date once we have 100% confirmation with our partners on the ability to rollout with the intended method on distribution.” Details remain slightly unclear but it appears that Star Atlas’ Showroom distribution partners encountered an unexpected hurdle today which delayed the announcement date of the next 426 Live.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-5A433D5B64D7648F",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-5A433D5B64D7648F-04",
+      "text": "Automata’s Dan Park will conduct a full presentation of sustainable governance within Star Atlas including participation in the POLIS DAO.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-5A433D5B64D7648F",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-5A433D5B64D7648F-05",
+      "text": "This will likely include additional information about the Star Atlas Foundation, Star Atlas Council, and POLIS Improvement Proposals.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-5A433D5B64D7648F",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-5A433D5B64D7648F-06",
+      "text": "Automata will also roll out the ATLAS Locker, the staking component cousin to the POLIS Locker and a key feature of the Star Atlas Galactic Marketplace.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-5A433D5B64D7648F",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-5A433D5B64D7648F-07",
+      "text": "The team will also formally present the Foundation Kit, a Software Development Kit by Automata.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-5A433D5B64D7648F",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-5A433D5B64D7648F-08",
+      "text": "The SDK will enable future open development that will fully integrate into Unreal Engine 5 and the Star Atlas ecosystem.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-5A433D5B64D7648F",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-5A433D5B64D7648F-09",
+      "text": "For additional images released from today’s Star Atlas Town Hall, check out the Star Atlas Discord.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-5A433D5B64D7648F",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-5A433D5B64D7648F-10",
+      "text": "Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-5A433D5B64D7648F",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-5A433D5B64D7648F-11",
+      "text": "Share: About The Author Krigs Related Posts Limited Edition: April 15 Executive Roadmap Update April 16, 2022 COPA Update – June 3 Q&A with Star Atlas June 4, 2022 Anonymous Source Leaks Showroom Release Plans June 5, 2022 Limited Edition: April 1 Executive Roadmap Update April 13, 2022 Leave a reply Cancel reply Upcoming Events There are no upcoming events.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-5A433D5B64D7648F",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "SCORE",
+    "Star Atlas",
+    "Showroom",
+    "POLIS",
+    "ATLAS",
+    "SCREAM"
+  ],
+  "governance_items": [
+    "Star Atlas governance / DAO"
+  ],
+  "lore_items": [
+    "ONI",
+    "Ustur"
+  ],
+  "actors": [
+    "Michael Wagner",
+    "Krigs"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://thehologram.io/author/krigs/",
+      "anchor_text": "Krigs"
+    },
+    {
+      "url": "https://thehologram.io/category/gameplay/roadmap-updates/",
+      "anchor_text": "Roadmap Updates"
+    },
+    {
+      "url": "https://thehologram.io/star-atlas-unveils-new-galactic-marketplace/",
+      "anchor_text": "marketplace fees"
+    },
+    {
+      "url": "https://thehologram.io/next-426-live-in-426-weeks-anonymous-source-confirms/",
+      "anchor_text": "announce"
+    },
+    {
+      "url": "https://sperasoft.com/",
+      "anchor_text": "Spearsoft"
+    },
+    {
+      "url": "https://thehologram.io/star-atlas-dao/",
+      "anchor_text": "POLIS DAO"
+    },
+    {
+      "url": "https://medium.com/star-atlas/the-atlas-star-issue-10-59630af15c91",
+      "anchor_text": "here"
+    },
+    {
+      "url": "https://thehologram.io/",
+      "anchor_text": "The Hologram"
+    },
+    {
+      "url": "https://staratlas.com/",
+      "anchor_text": "Star Atlas"
+    },
+    {
+      "url": "http://www.facebook.com/sharer.php?u=https://thehologram.io/star-atlas-town-hall-33/&t=Star%20Atlas%20Town%20Hall%2033%20Part%20I%20%E2%80%93%20Alpha%20and%20Next%20426%20Live%20Confirmed",
+      "anchor_text": ""
+    },
+    {
+      "url": "http://twitter.com/intent/tweet?text=Star%20Atlas%20Town%20Hall%2033%20Part%20I%20%E2%80%93%20Alpha%20and%20Next%20426%20Live%20Confirmed%20https://thehologram.io/star-atlas-town-hall-33/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://plus.google.com/share?url=https://thehologram.io/star-atlas-town-hall-33/&t=Star%20Atlas%20Town%20Hall%2033%20Part%20I%20%E2%80%93%20Alpha%20and%20Next%20426%20Live%20Confirmed",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://twitter.com/Krigsfoniks",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/limited-edition-april-15-executive-roadmap-update/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/copa-update-june-3-qa-with-star-atlas/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/anonymous-source-leaks-showroom-release-plans/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/limited-edition-april-1-executive-roadmap-update/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/star-atlas-town-hall-33/",
+      "anchor_text": "Cancel reply"
+    },
+    {
+      "url": "https://thehologram.io/the-emergence-of-star-atlas-and-the-metaverse/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/category/community/",
+      "anchor_text": "Community"
+    },
+    {
+      "url": "https://thehologram.io/category/opinion/",
+      "anchor_text": "Opinion"
+    },
+    {
+      "url": "https://thehologram.io/arte-conceptual-p1/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/category/espanol/contenido-original/",
+      "anchor_text": "Contenido Original"
+    },
+    {
+      "url": "https://thehologram.io/category/espanol/",
+      "anchor_text": "Español"
+    },
+    {
+      "url": "https://thehologram.io/category/espanol/naves/",
+      "anchor_text": "Naves"
+    },
+    {
+      "url": "https://thehologram.io/consejo-de-seguridad-ustur-y-las-politicas/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/category/comunidad/clan-dac/",
+      "anchor_text": "Clan/DAC"
+    },
+    {
+      "url": "https://thehologram.io/category/comunidad/",
+      "anchor_text": "Comunidad"
+    },
+    {
+      "url": "https://thehologram.io/category/espanol/scream-espanol/",
+      "anchor_text": "SCREAM"
+    },
+    {
+      "url": "https://thehologram.io/fuente-anonima-426live/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/category/leaks/",
+      "anchor_text": "Leaks"
+    },
+    {
+      "url": "https://thehologram.io/category/espanol/modo-de-juego/",
+      "anchor_text": "Modo de juego"
+    },
+    {
+      "url": "https://thehologram.io/consejo-de-seguridad-ustur/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/category/espanol/politicas/",
+      "anchor_text": "Políticas"
+    },
+    {
+      "url": "https://thehologram.io/category/espanol/score-espanol/",
+      "anchor_text": "SCORE"
+    },
+    {
+      "url": "https://thehologram.io/category/scream-2/",
+      "anchor_text": "SCREAM"
+    },
+    {
+      "url": "https://thehologram.io/category/gameplay/",
+      "anchor_text": "Gameplay"
+    },
+    {
+      "url": "https://thehologram.io/tarifas-de-mercado/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/que-faccion-tiene-la-ventaja-pii/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/como-encontrar-el-nft-de-tu-nave-en-star-atlas/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/category/espanol/economicas/",
+      "anchor_text": "Económicas"
+    },
+    {
+      "url": "https://twitter.com/Hologram_News",
+      "anchor_text": ""
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "https://web.archive.org/web/20220827130454id_/https://thehologram.io/star-atlas-town-hall-33/",
+    "final_url": "https://web.archive.org/web/20220827130454id_/https://thehologram.io/star-atlas-town-hall-33/",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "response_size": 179688,
+    "elapsed_ms": 854,
+    "retrieval_mode": "INTERNET_ARCHIVE",
+    "archive_capture": {
+      "timestamp": "20220827130454",
+      "original": "https://thehologram.io/star-atlas-town-hall-33/",
+      "digest": "XXGIN5U3GPLJO4HLXUROGTV5S4QTIQVL"
+    }
+  }
+}

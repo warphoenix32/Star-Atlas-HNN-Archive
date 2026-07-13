@@ -1,0 +1,136 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-28FD08D8C041C9DA",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47061468634771-What-are-rarity-traits",
+    "title": "What are rarity traits?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-03T17:01:51Z",
+    "updated_at": "2026-06-14T08:44:19Z",
+    "original_date_text": "2025-12-03T17:01:51Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “What are rarity traits?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Rarity defines the uniqueness and exclusivity of NFTs in Star Atlas but it's not always just about how many exist\nEach Star Atlas NFT whether it's a ship, crew member, collectible, or structure, is assigned a rarity tier that represents its perceived value, exclusivity and in many cases, its future utility in the game. While some rarities correlate with lower supply, rarity doesn’t always mean fewer editions, especially for items like ships where gameplay role and capabilities may also define rarity.\nUnderstanding Rarity Tiers\nRarity in Star Atlas is categorized as follows, from most common to most rare:\nCommon\nUncommon\nRare\nEpic\nLegendary\nAnomaly\nThese designations help players understand where an item sits in terms of exclusivity and potential in-game value. For example:\nA Common ship might be widely available and fulfill general gameplay roles\nAn Anomaly crew patch or badge might be ultra-limited and offer exclusive event access or long-term perks\nRarity ≠ Supply (Always)\nWhile many collectibles and gear follow a straightforward \"rarer = fewer minted\" model, other categories—especially ships may vary. Some rare ships may have higher supply due to demand or gameplay balance needs, while some uncommon items may be scarce due to limited early release\nWhy Rarity Matters\nFuture Utility – Rare items may unlock specialized features in upcoming game modes (e.g., in UE5 or SAGE).\nPrestige & Flexibility – Rarer NFTs often come with enhanced stats, traits, or compatibility across gameplay loops\nCollectibility – For traders and collectors, rarity affects value and market demand",
+  "content_hash": "705167afa4a516ad6abd181598ff8927eb77ec262ac59379c1d2a9f99fe12576",
+  "entities": [
+    "ATLAS",
+    "Crew",
+    "SAGE"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-28FD08D8C041C9DA-01",
+      "text": "Rarity defines the uniqueness and exclusivity of NFTs in Star Atlas but it's not always just about how many exist Each Star Atlas NFT whether it's a ship, crew member, collectible, or structure, is assigned a rarity tier that represents its perceived value, exclusivity and in many cases, its future utility in the game.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-28FD08D8C041C9DA",
+      "publication_date": "2025-12-03T17:01:51Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-28FD08D8C041C9DA-02",
+      "text": "While some rarities correlate with lower supply, rarity doesn’t always mean fewer editions, especially for items like ships where gameplay role and capabilities may also define rarity.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-28FD08D8C041C9DA",
+      "publication_date": "2025-12-03T17:01:51Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-28FD08D8C041C9DA-03",
+      "text": "Understanding Rarity Tiers Rarity in Star Atlas is categorized as follows, from most common to most rare: Common Uncommon Rare Epic Legendary Anomaly These designations help players understand where an item sits in terms of exclusivity and potential in-game value.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-28FD08D8C041C9DA",
+      "publication_date": "2025-12-03T17:01:51Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-28FD08D8C041C9DA-04",
+      "text": "For example: A Common ship might be widely available and fulfill general gameplay roles An Anomaly crew patch or badge might be ultra-limited and offer exclusive event access or long-term perks Rarity ≠ Supply (Always) While many collectibles and gear follow a straightforward \"rarer = fewer minted\" model, other categories—especially ships may vary.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-28FD08D8C041C9DA",
+      "publication_date": "2025-12-03T17:01:51Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-28FD08D8C041C9DA-05",
+      "text": "Some rare ships may have higher supply due to demand or gameplay balance needs, while some uncommon items may be scarce due to limited early release Why Rarity Matters Future Utility – Rare items may unlock specialized features in upcoming game modes (e.g., in UE5 or SAGE).",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-28FD08D8C041C9DA",
+      "publication_date": "2025-12-03T17:01:51Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-28FD08D8C041C9DA-06",
+      "text": "Prestige & Flexibility – Rarer NFTs often come with enhanced stats, traits, or compatibility across gameplay loops Collectibility – For traders and collectors, rarity affects value and market demand",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-28FD08D8C041C9DA",
+      "publication_date": "2025-12-03T17:01:51Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "SAGE",
+    "ATLAS",
+    "Crew"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47061468634771-What-are-rarity-traits",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.183282Z"
+  }
+}

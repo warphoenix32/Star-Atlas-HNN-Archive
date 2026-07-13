@@ -1,0 +1,245 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-7DC0467BB55B4F19",
+    "url_id": "URL-7DC0467BB55B4F19",
+    "url": "https://medium.com/the-hologram/star-atlas-nabs-two-scammers-assets-frozen-4922901fb224",
+    "title": "Star Atlas Nabs Two Scammers; Assets Frozen",
+    "author": "Krigs",
+    "publisher": "The Hologram",
+    "publication_identity": "The Hologram (Medium publication)",
+    "published_at": "2023-02-25T18:07:55Z",
+    "updated_at": "2023-02-25T18:07:55Z",
+    "retrieved_at": "2026-07-13T00:08:24.681174Z",
+    "document_type": "INVESTIGATIVE_REPORT",
+    "source_role": "INVESTIGATIVE_REPORT",
+    "publication_role": "INVESTIGATIVE_REPORT",
+    "classification_rationale": "Publication uses investigative framing or documents an inquiry."
+  },
+  "source_lineage": {
+    "publication": "The Hologram (Medium publication)",
+    "publication_role": "INVESTIGATIVE_REPORT",
+    "relationship": "INVESTIGATES",
+    "primary_sources": [
+      {
+        "publication": "Terms of Service",
+        "author": "UNKNOWN",
+        "url": "https://staratlas.com/terms-of-service",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Podcast",
+        "author": "UNKNOWN",
+        "url": "https://open.spotify.com/show/2mxndrDW6yPfpS350ijzjt?si=ec7c717f998240d6",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "YouTube",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/channel/UCDa-YxgNG6A9xpH1qyP0OaQ",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://staratlas.com/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [
+      "Krigs"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Terms of Service",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "INVESTIGATES",
+        "url": "https://staratlas.com/terms-of-service"
+      },
+      {
+        "from": "Podcast",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "INVESTIGATES",
+        "url": "https://open.spotify.com/show/2mxndrDW6yPfpS350ijzjt?si=ec7c717f998240d6"
+      },
+      {
+        "from": "YouTube",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "INVESTIGATES",
+        "url": "https://www.youtube.com/channel/UCDa-YxgNG6A9xpH1qyP0OaQ"
+      },
+      {
+        "from": "Star Atlas",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "INVESTIGATES",
+        "url": "https://staratlas.com/"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "This investigative report published by The Hologram on 2023-02-25 documents “Star Atlas Nabs Two Scammers; Assets Frozen.” Its surviving text addresses economy, game development, community, lore, technology. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "Star AtlasPolitics\nStar Atlas Nabs Two Scammers; Assets Frozen\nKrigs4 min read·Feb 25, 2023\n--\n2\nListen\nShare\nStar Atlas game developer Automata has taken action against two wallets accused of distributing stolen assets.\nPress enter or click to view image in full size\nFeb 24th, 2023 — The Hologram News Network has learned that Star Atlas developer Automata has taken unilateral action in freezing Star Atlas assets held by two separate wallet accounts. These actions were taken on February 3rd against two wallets involved in what was likely determined to be the scamming of Star Atlas assets.\nStar Atlas NFT Freeze Authority\nPress enter or click to view image in full sizeStar Atlas Asset Freeze Command\nIndependent blockchain analysts provided HNN with the details of Star Atlas freeze actions late on February 24th. A little known fact about Solana NFTs is that the ability to freeze a token is retained by the mint account, thus granting Automata the ability to freeze game assets.\nThe two accused wallets involved in the freeze are:\n3mC4yT7kPBqJ9LSxDi2LXYG3HxYFY9uDhgAknXdM4sor\nBVJESvrDeXZcSX5UVdK2Tt57Lur9gyakgCfdX45pVQ1V\nThese wallets were likely to be found in violation of Section 3.4 of Star Atlas Terms of Service.\nThe 3mC4 wallet was also identified to be involved in a number of other scams including one affecting GARI Panda NFT holders .\nThe freeze function must be enabled prior to a token’s mint, however if enabled, it allows a number of freeze and block commands to be sent to a particular NFT no matter the current owner at the time.\nStar Atlas Freeze Command Wallet\nPress enter or click to view image in full sizeStar Atlas Freeze Command WalletPress enter or click to view image in full sizeStar Atlas Freeze Command Details\nHigher Stakes in Web3\nWhile the freezing of accounts or assets is not unique to Web3 gaming, the stakes for doing so are certainly higher. In traditional gaming, if a player violates a company’s Terms of Service, the resulting action is usually a temporary or permanent ban of the player’s account. When this occurs, the violating players loses nothing but the time the put into the game and may suffer a bit of wounded pride.\nHowever, in Web3 gaming, should a player’s account or assets become frozen, the implication is that real monetary value is now the subject of legal action. The freezing of assets could cost an individual hundreds or even thousands of dollars.\nWhile Automata has shown neither cause nor intent to carry a heavy handed application of this power, this does beg several legal questions —\nWho determines by what judicial standard if an account should or should not be frozen?\nBy what judicial process does said authority reach a conclusion or determination of guilt?\nIs said verdict appealable or are decisions permanent?\nStar Atlas is purported to be a future open digital democracy in the metaverse. While most democracy’s judicial proceedings have variations in their execution, an underlying tenet common across democracies is due process.\nIt is, without a doubt, that violators of the common Star Atlas good should be punished accordingly. However, in the interest of Star Atlas citizen’s rights, the burden of proof should be placed upon the accuser. Furthermore, like in a democracy, a fair and public judicial proceeding should be had prior to any determination of guilt.\nThink for a moment, should a player become falsely accused of impropriety. That player may find themselves the subject of legal action which may result in the loss of a significant value in assets AND potential revenue. What protection or recourse of action does this player have? Without any internal safeguards in place, the player must then resort to civil legal action which invites a host of legal bog unto Automata.\nRather than depend on an inadequate legal system outside of Star Atlas, the citizenry should call for an established legal system and legal rights enshrined within the upcoming Star Atlas constitution. Only then can Star Atlas citizens be readily assured of protection against the unilateral authority of Automata. If Automata cannot acquiesce to these conditions, then is the Star Atlas metaverse they are building truly a place of freedom?\nAutomata did not return a request for comment at time of article publishing.\nAbout the Author\nKrigs is a pioneer in the world of Star Atlas, having founded The Hologram News Network — an independent meta-news organization that keeps players up to date on all developments regarding Star Atlas. An ardent supporter of emerging technologies, Krigs has been covering this game for over a year and believes passionately in their power to revolutionize our collective gaming experience.\nFollow on Social Media:\nPodcast | YouTube | Twitter | Instagram | Web\nAbout The Hologram\nThe Hologram is Star Atlas’ first and only independent news network. Our vision is to become the most trusted source of information about Star Atlas and a voice for the whole community. Readers can expect a high standard from our reporting and staff. Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.\nThe Hologram is not endorsed or paid by the Star Atlas team. Any information published by The Hologram nor its writers should be considered as informational in nature and does not constitute any financial advice.",
+  "content_hash": "7b89c73751451b6bf12f72ae597a2b5a75b03799c2d7339349e4542621b1119b",
+  "major_topics": [
+    "economy",
+    "game development",
+    "community",
+    "lore",
+    "technology"
+  ],
+  "entities": [
+    "ATLAS",
+    "Krigs",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-7DC0467BB55B4F19-01",
+      "text": "By what judicial process does said authority reach a conclusion or determination of guilt?",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-7DC0467BB55B4F19",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-7DC0467BB55B4F19-02",
+      "text": "Is said verdict appealable or are decisions permanent?",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-7DC0467BB55B4F19",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-7DC0467BB55B4F19-03",
+      "text": "Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-7DC0467BB55B4F19",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Star Atlas",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [
+    "ONI"
+  ],
+  "actors": [
+    "Krigs"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://medium.com/@krigsfoniks?source=---byline--4922901fb224---------------------------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fthe-hologram%2F4922901fb224&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fstar-atlas-nabs-two-scammers-assets-frozen-4922901fb224&user=Krigs&userId=41e0c5b141f1&source=---header_actions--4922901fb224---------------------clap_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Frepost%2Fp%2F4922901fb224&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fstar-atlas-nabs-two-scammers-assets-frozen-4922901fb224&user=Krigs&userId=41e0c5b141f1&source=---header_actions--4922901fb224---------------------repost_header------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F4922901fb224&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fstar-atlas-nabs-two-scammers-assets-frozen-4922901fb224&source=---header_actions--4922901fb224---------------------bookmark_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2Fplans%3Fdimension%3Dpost_audio_button%26postId%3D4922901fb224&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fstar-atlas-nabs-two-scammers-assets-frozen-4922901fb224&source=---header_actions--4922901fb224---------------------post_audio_button------------------",
+      "anchor_text": "Listen"
+    },
+    {
+      "url": "http://thehologram.io",
+      "anchor_text": "Hologram News Network"
+    },
+    {
+      "url": "https://medium.com/u/5ed69ff9cfb0?source=---user_mention--4922901fb224---------------------------------------",
+      "anchor_text": "Star Atlas"
+    },
+    {
+      "url": "https://medium.com/u/af6a22150fa9?source=---user_mention--4922901fb224---------------------------------------",
+      "anchor_text": "Solana"
+    },
+    {
+      "url": "https://staratlas.com/terms-of-service",
+      "anchor_text": "Terms of Service"
+    },
+    {
+      "url": "https://medium.com/@gari.network/a-gari-panda-holders-wallet-got-compromised-93387773d9f8",
+      "anchor_text": "scams"
+    },
+    {
+      "url": "https://medium.com/u/ffd23e2343cf?source=---user_mention--4922901fb224---------------------------------------",
+      "anchor_text": "GARI"
+    },
+    {
+      "url": "https://medium.com/u/41e0c5b141f1?source=---user_mention--4922901fb224---------------------------------------",
+      "anchor_text": "Krigs"
+    },
+    {
+      "url": "https://open.spotify.com/show/2mxndrDW6yPfpS350ijzjt?si=ec7c717f998240d6",
+      "anchor_text": "Podcast"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCDa-YxgNG6A9xpH1qyP0OaQ",
+      "anchor_text": "YouTube"
+    },
+    {
+      "url": "https://twitter.com/home",
+      "anchor_text": "Twitter"
+    },
+    {
+      "url": "https://thehologram.io/",
+      "anchor_text": "Web"
+    },
+    {
+      "url": "https://medium.com/the-hologram",
+      "anchor_text": "The Hologram"
+    },
+    {
+      "url": "https://staratlas.com/",
+      "anchor_text": "Star Atlas"
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "https://medium.com/the-hologram/star-atlas-nabs-two-scammers-assets-frozen-4922901fb224",
+    "final_url": "https://medium.com/the-hologram/star-atlas-nabs-two-scammers-assets-frozen-4922901fb224",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 281637,
+    "elapsed_ms": 696,
+    "retrieval_mode": "LIVE",
+    "archive_capture": null
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-D4EF1A241BAD9BBE",
+    "url": "https://github.com/staratlasmeta/configs#readme",
+    "title": "configs README",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "staratlasmeta GitHub organization",
+    "published_at": "2024-10-28T20:25:28Z",
+    "updated_at": "2026-02-27T01:20:09Z",
+    "original_date_text": "2024-10-28T20:25:28Z",
+    "document_type": "TECHNICAL_DOCUMENTATION",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "staratlasmeta GitHub organization",
+    "publication_role": "TECHNICAL_DOCUMENTATION",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "staratlasmeta GitHub organization"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official technical documentation titled “configs README.” This record preserves what staratlasmeta GitHub organization publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "# @staratlas/configs\n\nShared configuration package for Star Atlas projects.\n\nThis package supports multiple toolchains (`oxc`, `vite`, `typescript`, plus legacy `eslint`/`prettier` exports), but you do not need to use all of it.\n\n## Get Exactly What You Need (Important)\n\n### What is actually minimal?\n\nThere are two different kinds of “size”:\n\n1. `Usage size` (what your project actually imports/extends)\n2. `Install size` (what the package manager downloads)\n\nThis package is a single npm package, so install-time contents are **not tree-shaken**.\n\nWhat you can minimize very effectively is the **usage surface** by using subpath exports.\n\n### Fast Matrix: Install Only What You Need\n\n| You need | Install | Use |\n| --- | --- | --- |\n| OXC lint + format only | `@staratlas/configs` `oxlint` `oxfmt` `typescript` | `@staratlas/configs/oxc/oxlint-master.json` + `@staratlas/configs/oxc/oxfmt-master.json` |\n| OXC lint (React) | `@staratlas/configs` `oxlint` `typescript` | `@staratlas/configs/oxc/oxlint-react.json` |\n| OXC lint (Next) | `@staratlas/configs` `oxlint` `typescript` | `@staratlas/configs/oxc/oxlint-next.json` |\n| TypeScript base only | `@staratlas/configs` `typescript` | `@staratlas/configs/base.json` |\n| TypeScript + Solid JSX | `@staratlas/configs` `typescript` | `@staratlas/configs/base.json` + `@staratlas/configs/solid.json` |\n| Vite helpers (library/site config helpers) | `@staratlas/configs` `vite` `typescript` | `@staratlas/configs/vite` |\n| Vite + Solid (OXC plugin) | `@staratlas/configs` `vite` `typescript` `solid-js` `vite-plugin-solid-oxc` `solid-jsx-oxc` `vite-plugin-solid-svg` | `@staratlas/configs/vite` + `solidConfig()` |\n\nNotes:\n\n- This matrix minimizes **what your project uses**, not what npm/pnpm downloads.\n- `@staratlas/configs` is one package, so install-time contents are shared.\n- Peer deps are marked optional, so you can skip unrelated tools.\n\n## Use Subpath Exports (Recommended)\n\nUse only the subpaths you need instead of importing broad modules.\n\n### OXC only (smallest usage surface)\n\nUse these files directly:\n\n- `@staratlas/configs/oxc/oxlint-master.json`\n- `@staratlas/configs/oxc/oxlint-react.json`\n- `@staratlas/configs/oxc/oxlint-next.json`\n- `@staratlas/configs/oxc/oxfmt-master.json`\n\nExample `package.json` scripts:\n\n```json\n{\n  \"scripts\": {\n    \"lint\": \"oxlint -c ./node_modules/@staratlas/configs/oxc/oxlint-master.json .\",\n    \"format\": \"oxfmt --check -c ./node_modules/@staratlas/configs/oxc/oxfmt-master.json .\",\n    \"format:fix\": \"oxfmt -c ./node_modules/@staratlas/configs/oxc/oxfmt-master.json .\"\n  }\n}\n```\n\nIf you are using React or Next, swap the lint config:\n\n- React: `oxlint-react.json`\n- Next: `oxlint-next.json`\n\n### TypeScript only\n\nUse TS config subpaths only:\n\n- `@staratlas/configs/base.json`\n- `@staratlas/configs/solid.json` (only if using Solid)\n\nExample `tsconfig.json` (library/app):\n\n```json\n{\n  \"extends\": [\"@staratlas/configs/base.json\"],\n  \"include\": [\"src\"]\n}\n```\n\nExample Solid project:\n\n```json\n{\n  \"extends\": [\"@staratlas/configs/base.json\", \"@staratlas/configs/solid.json\"],\n  \"include\": [\"src\"]\n}\n```\n\n### Vite helpers only\n\nImport only `@staratlas/configs/vite`:\n\n```ts\nimport { combineConfigs, libConfig, cleanupConfig } from '@staratlas/configs/vite';\nimport type { UserConfig } from 'vite';\n\nexport default combineConfigs(\n  libConfig('src/index.ts'),\n  cleanupConfig(),\n) satisfies UserConfig;\n```\n\nSolid (OXC plugin) example:\n\n```ts\nimport { combineConfigs, libConfig, cleanupConfig, solidConfig } from '@staratlas/configs/vite';\nimport type { UserConfig } from 'vite';\n\nexport default combineConfigs(\n  libConfig('src/index.tsx'),\n  cleanupConfig(),\n  solidConfig({\n    solidPlugin: {\n      hydratable: true\n    }\n  }),\n) satisfies UserConfig;\n```\n\n## Install Only the Tooling You Use\n\n`@staratlas/configs` exposes multiple surfaces, but its peers are marked optional so you can install only the tools you actually run.\n\n### OXC-only project (recommended default)\n\n```bash\npnpm add -D @staratlas/configs oxlint oxfmt typescript\n```\n\n### Vite library project (non-Solid)\n\n```bash\npnpm add -D @staratlas/configs vite typescript\n```\n\nAdd Vite plugin peers only if you use helpers that need them.\n\n### Solid + Vite project\n\n```bash\npnpm add -D @staratlas/configs vite typescript solid-js vite-plugin-solid-oxc solid-jsx-oxc vite-plugin-solid-svg\n```\n\n## How to Reduce Size / Complexity Further\n\n### 1. Prefer subpaths over broad usage\n\nGood:\n\n- `@staratlas/configs/oxc/oxlint-master.json`\n- `@staratlas/configs/base.json`\n- `@staratlas/configs/vite`\n\nAvoid (when unnecessary):\n\n- importing/using multiple surfaces if you only need one\n- adding ESLint/Prettier dependencies if you are standardizing on OXC\n\n### 2. Keep tooling local to the project that needs it\n\nIn a monorepo, only install Vite/Solid deps in frontend packages (or root if shared by policy). Backend/CLI packages can use only TS + OXC.\n\n### 3. Copy configs locally if you need zero package coupling\n\nIf a project must minimize dependency coupling, copy the exported JSON config into that repo and pin your own tool versions. You lose centralized updates, but gain maximum independence.\n\n## Current Exports\n\n### OXC\n\n- `@staratlas/configs/oxc/oxlint-master.json` (framework-neutral strict anti-tech-debt baseline)\n- `@staratlas/configs/oxc/oxlint-react.json` (React + JSX a11y strict variant)\n- `@staratlas/configs/oxc/oxlint-next.json` (Next strict variant)\n- `@staratlas/configs/oxc/oxfmt-master.json`\n\n### TypeScript\n\n- `@staratlas/configs/base.json`\n- `@staratlas/configs/solid.json`\n\n### Vite\n\n- `@staratlas/configs/vite`\n\n### Legacy (still supported)\n\n- `@staratlas/configs/eslint`\n- `@staratlas/configs/prettier`\n\nThese remain for compatibility. OXC is the default lint/format path for this package.\n\n## Quick Start Recipes\n\n### Minimal OXC + TS project\n\n```bash\npnpm add -D @staratlas/configs oxlint oxfmt typescript\n```\n\n`package.json`\n\n```json\n{\n  \"scripts\": {\n    \"lint\": \"oxlint -c ./node_modules/@staratlas/configs/oxc/oxlint-master.json .\",\n    \"format\": \"oxfmt --check -c ./node_modules/@staratlas/configs/oxc/oxfmt-master.json .\",\n    \"format:fix\": \"oxfmt -c ./node_modules/@staratlas/configs/oxc/oxfmt-master.json .\"\n  }\n}\n```\n\n`tsconfig.json`\n\n```json\n{\n  \"extends\": [\"@staratlas/configs/base.json\"],\n  \"include\": [\"src\"]\n}\n```\n\n### Minimal Vite library\n\n```bash\npnpm add -D @staratlas/configs vite typescript\n```\n\n`vite.config.ts`\n\n```ts\nimport { cleanupConfig, combineConfigs, libConfig } from '@staratlas/configs/vite';\n\nexport default combineConfigs(libConfig('src/index.ts'), cleanupConfig());\n```\n\n## Maintainers (this package)\n\nThis package itself is OXC-first:\n\n- `pnpm lint` -> `oxlint`\n- `pnpm format` -> `oxfmt --check`\n\nLegacy build/export surfaces (`eslint`, `prettier`) are still published for downstream compatibility.\n",
+  "content_hash": "9c4bfea425bd292fbfd6cacc5ba7d8391e3854dc165a0796e4ebb5bed70764d3",
+  "entities": [
+    "ATLAS"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-D4EF1A241BAD9BBE-01",
+      "text": "# @staratlas/configs  Shared configuration package for Star Atlas projects.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-D4EF1A241BAD9BBE",
+      "publication_date": "2024-10-28T20:25:28Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-D4EF1A241BAD9BBE-02",
+      "text": "This package supports multiple toolchains (`oxc`, `vite`, `typescript`, plus legacy `eslint`/`prettier` exports), but you do not need to use all of it.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-D4EF1A241BAD9BBE",
+      "publication_date": "2024-10-28T20:25:28Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-D4EF1A241BAD9BBE-03",
+      "text": "## Get Exactly What You Need (Important)  ### What is actually minimal?",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-D4EF1A241BAD9BBE",
+      "publication_date": "2024-10-28T20:25:28Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-D4EF1A241BAD9BBE-04",
+      "text": "`Usage size` (what your project actually imports/extends) 2.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-D4EF1A241BAD9BBE",
+      "publication_date": "2024-10-28T20:25:28Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-D4EF1A241BAD9BBE-05",
+      "text": "`Install size` (what the package manager downloads)  This package is a single npm package, so install-time contents are **not tree-shaken**.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-D4EF1A241BAD9BBE",
+      "publication_date": "2024-10-28T20:25:28Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-D4EF1A241BAD9BBE-06",
+      "text": "What you can minimize very effectively is the **usage surface** by using subpath exports.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-D4EF1A241BAD9BBE",
+      "publication_date": "2024-10-28T20:25:28Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-D4EF1A241BAD9BBE-07",
+      "text": "- `@staratlas/configs` is one package, so install-time contents are shared.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-D4EF1A241BAD9BBE",
+      "publication_date": "2024-10-28T20:25:28Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-D4EF1A241BAD9BBE-08",
+      "text": "- Peer deps are marked optional, so you can skip unrelated tools.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-D4EF1A241BAD9BBE",
+      "publication_date": "2024-10-28T20:25:28Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-D4EF1A241BAD9BBE-09",
+      "text": "## Use Subpath Exports (Recommended)  Use only the subpaths you need instead of importing broad modules.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-D4EF1A241BAD9BBE",
+      "publication_date": "2024-10-28T20:25:28Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-D4EF1A241BAD9BBE-10",
+      "text": "### OXC-only project (recommended default)  ```bash pnpm add -D @staratlas/configs oxlint oxfmt typescript ```  ### Vite library project (non-Solid)  ```bash pnpm add -D @staratlas/configs vite typescript ```  Add Vite plugin peers only if you use helpers that need them.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-D4EF1A241BAD9BBE",
+      "publication_date": "2024-10-28T20:25:28Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-D4EF1A241BAD9BBE-11",
+      "text": "### Solid + Vite project  ```bash pnpm add -D @staratlas/configs vite typescript solid-js vite-plugin-solid-oxc solid-jsx-oxc vite-plugin-solid-svg ```  ## How to Reduce Size / Complexity Further  ### 1.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-D4EF1A241BAD9BBE",
+      "publication_date": "2024-10-28T20:25:28Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-D4EF1A241BAD9BBE-12",
+      "text": "Prefer subpaths over broad usage  Good:  - `@staratlas/configs/oxc/oxlint-master.json` - `@staratlas/configs/base.json` - `@staratlas/configs/vite`  Avoid (when unnecessary):  - importing/using multiple surfaces if you only need one - adding ESLint/Prettier dependencies if you are standardizing on OXC  ### 2.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-D4EF1A241BAD9BBE",
+      "publication_date": "2024-10-28T20:25:28Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-D4EF1A241BAD9BBE-13",
+      "text": "Keep tooling local to the project that needs it  In a monorepo, only install Vite/Solid deps in frontend packages (or root if shared by policy).",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-D4EF1A241BAD9BBE",
+      "publication_date": "2024-10-28T20:25:28Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-D4EF1A241BAD9BBE-14",
+      "text": "Copy configs locally if you need zero package coupling  If a project must minimize dependency coupling, copy the exported JSON config into that repo and pin your own tool versions.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-D4EF1A241BAD9BBE",
+      "publication_date": "2024-10-28T20:25:28Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-D4EF1A241BAD9BBE-15",
+      "text": "You lose centralized updates, but gain maximum independence.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-D4EF1A241BAD9BBE",
+      "publication_date": "2024-10-28T20:25:28Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "https://api.github.com/repos/staratlasmeta/configs/readme",
+    "final_url": "https://api.github.com/repos/staratlasmeta/configs/readme",
+    "http_status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "response_size": 10203,
+    "retrieved_at": "2026-07-13T01:05:08.690703Z",
+    "elapsed_ms": 306
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "source": {
+    "source_id": "SRC-IH-4586B3E36E0C08B6",
+    "url_id": "URL-4586B3E36E0C08B6",
+    "url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-152/",
+    "inventory_url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-152",
+    "title": "Star Atlas Weekly News Recap #152",
+    "author": "Intergalactic Herald",
+    "publisher": "Intergalactic Herald",
+    "published_at": "2025-02-16T17:00:00",
+    "updated_at": "2025-02-14T20:53:31",
+    "retrieved_at": "2026-07-12T22:02:48.567377Z",
+    "document_type": "NEWSLETTER",
+    "source_role": "CURATED_SUMMARY",
+    "source_classification": "CURATED_SUMMARY",
+    "classification_rationale": "Weekly newsletter/recap aggregates developments and linked sources.",
+    "wordpress_type": "posts"
+  },
+  "summary": {
+    "neutral_abstract": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week. We are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us. We are launching a Star Atlas merch store. Please check it out at Intergalactic",
+    "historical_value": "Contemporary Intergalactic Herald publication preserved with role and attribution boundaries.",
+    "current_validity_warning": "Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources."
+  },
+  "article_text": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week.\nWe are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us.\nWe are launching a Star Atlas merch store. Please check it out at Intergalactic Gear.\nWe are creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic Coalition.\nIf you would like to support our efforts, donations can be sent to intergalacticherald.sol\nStar Atlas: A Game, A Nation, or a Metaverse? CEO Michael Wagner Explains | FazRadio LIVE!\nFazRadio posted a video interview with Star Atlas CEO Michael Wagner.\nWeekly Star Atlas Newsletter #166\nAephia published their weekly Star Atlas newsletter.\nAtlas Brew #146 – Atlas Locker Addendum | Live with Michael Wagner\nStar Atlas TV posted a recording of the latest Atlas Brew.\nIntroducing Fleet Rentals in Star Atlas: Play and Earn Your Way\nStar Atlas published an article about Star Atlas Fleet Rentals.\nStar Atlas: Fleet Rentals Are Landing!!!\nBeyond the Horizon posted a video about Fleet Rentals.\nLatest podcast\nPodcast 176: Star Atlas Weekly Reviewby MattJuly 5, 2026In this episode, I recap the latest news of Star Atlas from the past week. Listen on Apple Podcasts Listen on Spotify I am looking for guests to be on the podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in… Read more: Podcast 176: Star Atlas Weekly Review",
+  "content_hash": "f4bb40c0f15bd863cbd91febd9b6a8d5a5936ce00c3e7fbddcc2a1119d833a0a",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [],
+  "external_sources": [
+    {
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Q2fj4y1XnIw&list=PL1HJ76n9f_aCXsGOfyS9xfVt7blb-Kbf-",
+      "anchor_text": "interview with Star Atlas CEO Michael Wagner"
+    },
+    {
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-166/",
+      "anchor_text": "weekly Star Atlas newsletter"
+    },
+    {
+      "url": "https://www.youtube.com/live/Jk-3hzbMWf0",
+      "anchor_text": "Atlas Brew"
+    },
+    {
+      "url": "https://medium.com/star-atlas/introducing-fleet-rentals-in-star-atlas-play-and-earn-your-way-179852b3c99a",
+      "anchor_text": "Star Atlas Fleet Rentals"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=eDg7PlLAgoc",
+      "anchor_text": "Fleet Rentals"
+    }
+  ],
+  "primary_source_relationships": [
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=Q2fj4y1XnIw&list=PL1HJ76n9f_aCXsGOfyS9xfVt7blb-Kbf-",
+      "anchor_text": "interview with Star Atlas CEO Michael Wagner"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-166/",
+      "anchor_text": "weekly Star Atlas newsletter"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/live/Jk-3hzbMWf0",
+      "anchor_text": "Atlas Brew"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://medium.com/star-atlas/introducing-fleet-rentals-in-star-atlas-play-and-earn-your-way-179852b3c99a",
+      "anchor_text": "Star Atlas Fleet Rentals"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=eDg7PlLAgoc",
+      "anchor_text": "Fleet Rentals"
+    }
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Verify which outbound links are primary sources and preserve creator attribution during promotion."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-152&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 6356,
+    "elapsed_ms": 1546,
+    "attempts": [
+      {
+        "endpoint": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-152&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "http_status": 200,
+        "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-152&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "content_type": "application/json; charset=UTF-8",
+        "response_size": 6356,
+        "elapsed_ms": 1546
+      }
+    ]
+  },
+  "source_lineage": {
+    "publication": "Intergalactic Herald",
+    "publication_role": "CURATED_SUMMARY",
+    "relationship": "CURATED_SUMMARY_OF",
+    "primary_sources": [
+      {
+        "publication": "interview with Star Atlas CEO Michael Wagner",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=Q2fj4y1XnIw&list=PL1HJ76n9f_aCXsGOfyS9xfVt7blb-Kbf-",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: interview with Star Atlas CEO Michael Wagner"
+      },
+      {
+        "publication": "weekly Star Atlas newsletter",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-166/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article with anchor text: weekly Star Atlas newsletter"
+      },
+      {
+        "publication": "Atlas Brew",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/live/Jk-3hzbMWf0",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: Atlas Brew"
+      },
+      {
+        "publication": "Star Atlas Fleet Rentals",
+        "author": "UNKNOWN",
+        "url": "https://medium.com/star-atlas/introducing-fleet-rentals-in-star-atlas-play-and-earn-your-way-179852b3c99a",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas Fleet Rentals"
+      },
+      {
+        "publication": "Fleet Rentals",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=eDg7PlLAgoc",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Fleet Rentals"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "publication": "Intergalactic Gear",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticgear.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Intergalactic Coalition",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticcoalition.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      }
+    ],
+    "original_creators": [
+      "Aephia",
+      "Star Atlas"
+    ],
+    "attribution_chain": [
+      {
+        "from": "interview with Star Atlas CEO Michael Wagner",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=Q2fj4y1XnIw&list=PL1HJ76n9f_aCXsGOfyS9xfVt7blb-Kbf-"
+      },
+      {
+        "from": "weekly Star Atlas newsletter",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-166/"
+      },
+      {
+        "from": "Atlas Brew",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/live/Jk-3hzbMWf0"
+      },
+      {
+        "from": "Star Atlas Fleet Rentals",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://medium.com/star-atlas/introducing-fleet-rentals-in-star-atlas-play-and-earn-your-way-179852b3c99a"
+      },
+      {
+        "from": "Fleet Rentals",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=eDg7PlLAgoc"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  }
+}

@@ -1,0 +1,307 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-623E80701742558B",
+    "url_id": "URL-623E80701742558B",
+    "url": "https://medium.com/the-hologram/atmta-sells-1-6-million-usd-worth-of-atlas-and-polis-over-last-3-months-30666e2359ba",
+    "title": "ATMTA Sells $1.6 Million USD Worth of ATLAS and POLIS Over Last 3 Months",
+    "author": "Krigs",
+    "publisher": "The Hologram",
+    "publication_identity": "The Hologram (Medium publication)",
+    "published_at": "2023-04-10T03:23:28Z",
+    "updated_at": "2023-04-10T16:56:57Z",
+    "retrieved_at": "2026-07-13T00:14:08.036996Z",
+    "document_type": "INVESTIGATIVE_REPORT",
+    "source_role": "INVESTIGATIVE_REPORT",
+    "publication_role": "INVESTIGATIVE_REPORT",
+    "classification_rationale": "Publication uses investigative framing or documents an inquiry."
+  },
+  "source_lineage": {
+    "publication": "The Hologram (Medium publication)",
+    "publication_role": "INVESTIGATIVE_REPORT",
+    "relationship": "INVESTIGATES",
+    "primary_sources": [
+      {
+        "publication": "question",
+        "author": "UNKNOWN",
+        "url": "https://discord.com/channels/789226204980707409/874400139534536745/1094028169759166626",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Account GgYtnDJMHQG4gpVzy2KHukSvHfFJcs1jLXASsBCQE83PThe user-friendly and real-time update Scanning Tool for the Solana Ecosystem. Track your $SOL and Solana-related…solscan.io",
+        "author": "UNKNOWN",
+        "url": "https://solscan.io/account/GgYtnDJMHQG4gpVzy2KHukSvHfFJcs1jLXASsBCQE83P?source=-----30666e2359ba---------------------------------------",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "4ER73ekiyyZQU5mL4Wz347tfeqCcfDrENDR42v4AArjovodP6x9hEtZmyW4oetevy7z9Rt3s8J2NB6KRyXhNeExg",
+        "author": "UNKNOWN",
+        "url": "https://solscan.io/tx/4ER73ekiyyZQU5mL4Wz347tfeqCcfDrENDR42v4AArjovodP6x9hEtZmyW4oetevy7z9Rt3s8J2NB6KRyXhNeExg",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "3csfPNdSMveceUvsoQr2Mivv41or4AVusWiRgMcYQ9cL9MhwmjBigC2GWRNuLkUztJz8qkkdrn6XNi2kGtCxUSfb",
+        "author": "UNKNOWN",
+        "url": "https://solscan.io/tx/3csfPNdSMveceUvsoQr2Mivv41or4AVusWiRgMcYQ9cL9MhwmjBigC2GWRNuLkUztJz8qkkdrn6XNi2kGtCxUSfb",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "62sgVW4kjshu7vHq5LnFUozn4KUne7GXw5mE8UsNXqXmfRNbHCpNUpCkhGowfxBTA6o2zWMUHXM8KasKcw6ybmSy",
+        "author": "UNKNOWN",
+        "url": "https://solscan.io/tx/62sgVW4kjshu7vHq5LnFUozn4KUne7GXw5mE8UsNXqXmfRNbHCpNUpCkhGowfxBTA6o2zWMUHXM8KasKcw6ybmSy",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Podcast",
+        "author": "UNKNOWN",
+        "url": "https://open.spotify.com/show/2mxndrDW6yPfpS350ijzjt?si=ec7c717f998240d6",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "YouTube",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/channel/UCDa-YxgNG6A9xpH1qyP0OaQ",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://staratlas.com/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [
+      "Krigs"
+    ],
+    "attribution_chain": [
+      {
+        "from": "question",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "INVESTIGATES",
+        "url": "https://discord.com/channels/789226204980707409/874400139534536745/1094028169759166626"
+      },
+      {
+        "from": "Account GgYtnDJMHQG4gpVzy2KHukSvHfFJcs1jLXASsBCQE83PThe user-friendly and real-time update Scanning Tool for the Solana Ecosystem. Track your $SOL and Solana-related…solscan.io",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "INVESTIGATES",
+        "url": "https://solscan.io/account/GgYtnDJMHQG4gpVzy2KHukSvHfFJcs1jLXASsBCQE83P?source=-----30666e2359ba---------------------------------------"
+      },
+      {
+        "from": "4ER73ekiyyZQU5mL4Wz347tfeqCcfDrENDR42v4AArjovodP6x9hEtZmyW4oetevy7z9Rt3s8J2NB6KRyXhNeExg",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "INVESTIGATES",
+        "url": "https://solscan.io/tx/4ER73ekiyyZQU5mL4Wz347tfeqCcfDrENDR42v4AArjovodP6x9hEtZmyW4oetevy7z9Rt3s8J2NB6KRyXhNeExg"
+      },
+      {
+        "from": "3csfPNdSMveceUvsoQr2Mivv41or4AVusWiRgMcYQ9cL9MhwmjBigC2GWRNuLkUztJz8qkkdrn6XNi2kGtCxUSfb",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "INVESTIGATES",
+        "url": "https://solscan.io/tx/3csfPNdSMveceUvsoQr2Mivv41or4AVusWiRgMcYQ9cL9MhwmjBigC2GWRNuLkUztJz8qkkdrn6XNi2kGtCxUSfb"
+      },
+      {
+        "from": "62sgVW4kjshu7vHq5LnFUozn4KUne7GXw5mE8UsNXqXmfRNbHCpNUpCkhGowfxBTA6o2zWMUHXM8KasKcw6ybmSy",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "INVESTIGATES",
+        "url": "https://solscan.io/tx/62sgVW4kjshu7vHq5LnFUozn4KUne7GXw5mE8UsNXqXmfRNbHCpNUpCkhGowfxBTA6o2zWMUHXM8KasKcw6ybmSy"
+      },
+      {
+        "from": "Podcast",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "INVESTIGATES",
+        "url": "https://open.spotify.com/show/2mxndrDW6yPfpS350ijzjt?si=ec7c717f998240d6"
+      },
+      {
+        "from": "YouTube",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "INVESTIGATES",
+        "url": "https://www.youtube.com/channel/UCDa-YxgNG6A9xpH1qyP0OaQ"
+      },
+      {
+        "from": "Star Atlas",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "INVESTIGATES",
+        "url": "https://staratlas.com/"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "This investigative report published by The Hologram on 2023-04-10 documents “ATMTA Sells $1.6 Million USD Worth of ATLAS and POLIS Over Last 3 Months.” Its surviving text addresses governance, economy, guilds and DACs, game development, community, lore, technology. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "ATMTA Sells $1.6 Million USD Worth of ATLAS and POLIS Over Last 3 Months\nKrigs4 min read·Apr 10, 2023\n--\nListen\nShare\nWhat began as an investigation into a potential exploit by Star Atlas community members led to the public discovery that ATMTA, Inc. sold over $1.6 million dollars worth of ATLAS and POLIS over the last three months. No official reason has been given for these sales.\nThis article has been updated to reflect that jup.ag was the primary exchange for USDC transfers, not MEXC. The article was update to reflect links to Solscan highlighting the transaction details.\nPress enter or click to view image in full size\nReading the Blockchain\nStar Atlas community blockchain analysts discovered on Friday that ATMTA, Inc has been selling company owned POLIS and ATLAS tokens since mid-January.\nBlockchain analysis was conducted by Andre from The Club Guild with additional verification from yaawn of Bulk.\nThe detective work began when community member Andre posed a question to the Economics channel in the Star Atlas Discord late Friday evening.\n“Anyone know who B5hX2Aj8FYmdYjXQFVF1jpz7BkrdpLXgSPs92G6DFGjA is? He’s been selling 1.6 million USD worth of $atlas and $polis last 3 months” — Andre\nBirdeye.so overview of B5hX2Aj8FYmdYjXQFVF1jpz7BkrdpLXgSPs92G6DFGjA wallet activity over the past 90 days\nAndre also noted that these token swaps were being conducted primarily on the jup.ag decentralized exchange, where tokens were ultimately swapped for USDC and transferred to Coinbase.\nYou can view a summary of the community’s analyst work at the end of the article.\nPress enter or click to view image in full size$POLIS holdings of MEXC Global\nATMTA Sells Tokens, Official Reason Unknown\nATMTA has yet to release an official statement regarding the sale of privately held ATLAS and POLIS tokens. During the last Star Atlas town hall that occurred on February, 3rd, CEO Michael Wagner indicated that the team would likely begin selling tokens “in the near future”.\nWe weren’t in a position to sell any of our tokens last year, I took a strong position against that. So, at some point in the future though, it should be expected and realistic that we are going to be selling some of our tokens on a regular basis into the market as well. Our objective there is to be market neutral, we don’t want to have any impact on the market rate either up or down…there is a huge opportunity for us to capitalize on the ecosystem tokens that we hold on our balance sheet. — CEO Michael Wagner on token sales\nStar Atlas Feb 3 Town Hall; comments begin at the 1:26:04 mark\nCommunity Sentiment on Token Sales\nIn many projects, the sale of project tokens by developers can be an ominous portent. However, some in the Star Atlas community were unfazed by this revelation and viewed it in a positive light.\nWhile no official reasoning has been given by ATMTA, positive-leaning community members speculate that the token sales are a method by which ATMTA is increasing its development runway through the year. ATMTA was impacted by the FTX collapse last year, shortening its development runway by approximately half. ATMTA eventually recovered a portion of its lost funds.\nOther community members were not as reassured and viewed the selling activity in a more dismal light. Without an official statement from ATMTA, these individuals were concerned that something more nefarious was occurring.\nDespite the sales, several individuals in the community pointed out that ATMTA would need to significantly elevate it selling rate to even come close to liquidating its entire token reserves. Others were also quick to point out that ATMTA was sacrificing its position in the Star Atlas DAO to secure revenue, a forward leaning projection for some.\nWhatever the reason, the sale of Star Atlas tokens by ATMTA will likely continue.\nSummary of Blockchain Analysis\nAndre’s source analysis of ATMTA’s account:\nAccount GgYtnDJMHQG4gpVzy2KHukSvHfFJcs1jLXASsBCQE83P\nThe user-friendly and real-time update Scanning Tool for the Solana Ecosystem. Track your $SOL and Solana-related…\nsolscan.io\nYaawn’s explanation of ATMTA’s Transactions\nThat 4zLYwzBiEK6 wallet is the team [ATMTA] and GgY is team [ATMTA] wallet as well. Yes it’s 100% team swapping POLIS and ATLAS for USDC to send to HYNeQp {ATMTA wallet].\nThe 4zLYwz is their [ATMTA] deposit address for MEXC\nTransfers to Coinbase: 3ehmDUijQ4cxk8ZhqChBCs9Cyo5zHAnkwR3eUEaoVguwhDnRbr8iH8omAU3N4nbMwUfZE9ZWGNCo7UAAbNPXK54P\n4ER73ekiyyZQU5mL4Wz347tfeqCcfDrENDR42v4AArjovodP6x9hEtZmyW4oetevy7z9Rt3s8J2NB6KRyXhNeExg\nTransfers to HYNeQp from GgYtnD 3csfPNdSMveceUvsoQr2Mivv41or4AVusWiRgMcYQ9cL9MhwmjBigC2GWRNuLkUztJz8qkkdrn6XNi2kGtCxUSfb\nTransfer to HYNeQp from B5hX2A 62sgVW4kjshu7vHq5LnFUozn4KUne7GXw5mE8UsNXqXmfRNbHCpNUpCkhGowfxBTA6o2zWMUHXM8KasKcw6ybmSy [links all the wallets there]\nGgY is their [ATMTA’s] “active” address basically that’s where marketplace fees etc go\nAbout the Author\nKrigs\nis a pioneer in the world of Star Atlas, having founded The Hologram News Network — an independent meta-news organization that keeps players up to date on all developments regarding Star Atlas. An ardent supporter of emerging technologies, Krigs has been covering this game for over a year and believes passionately in their power to revolutionize our collective gaming experience.\nFollow on Social Media:\nPodcast | YouTube | Twitter | Instagram | Web\nAbout The Hologram\nThe Hologram is Star Atlas’ first and only independent news network. Our vision is to become the most trusted source of information about Star Atlas and a voice for the whole community. Readers can expect a high standard from our reporting and staff. Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.\nThe Hologram is not endorsed or paid by the Star Atlas team. Any information published by The Hologram nor its writers should be considered as informational in nature and does not constitute any financial advice.",
+  "content_hash": "a39b932bfaca087cdd45f8ac31616ff7cc784e3ab3b399043f3b0c973718d194",
+  "major_topics": [
+    "governance",
+    "economy",
+    "guilds and DACs",
+    "game development",
+    "community",
+    "lore",
+    "technology"
+  ],
+  "entities": [
+    "ATLAS",
+    "Krigs",
+    "Michael Wagner",
+    "POLIS",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-623E80701742558B-01",
+      "text": "Whatever the reason, the sale of Star Atlas tokens by ATMTA will likely continue.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-623E80701742558B",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-623E80701742558B-02",
+      "text": "Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-623E80701742558B",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Star Atlas",
+    "POLIS",
+    "ATLAS"
+  ],
+  "governance_items": [
+    "Star Atlas governance / DAO"
+  ],
+  "lore_items": [
+    "ONI"
+  ],
+  "actors": [
+    "Michael Wagner",
+    "Krigs"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://medium.com/@krigsfoniks?source=---byline--30666e2359ba---------------------------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fthe-hologram%2F30666e2359ba&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fatmta-sells-1-6-million-usd-worth-of-atlas-and-polis-over-last-3-months-30666e2359ba&user=Krigs&userId=41e0c5b141f1&source=---header_actions--30666e2359ba---------------------clap_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Frepost%2Fp%2F30666e2359ba&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fatmta-sells-1-6-million-usd-worth-of-atlas-and-polis-over-last-3-months-30666e2359ba&user=Krigs&userId=41e0c5b141f1&source=---header_actions--30666e2359ba---------------------repost_header------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F30666e2359ba&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fatmta-sells-1-6-million-usd-worth-of-atlas-and-polis-over-last-3-months-30666e2359ba&source=---header_actions--30666e2359ba---------------------bookmark_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2Fplans%3Fdimension%3Dpost_audio_button%26postId%3D30666e2359ba&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fatmta-sells-1-6-million-usd-worth-of-atlas-and-polis-over-last-3-months-30666e2359ba&source=---header_actions--30666e2359ba---------------------post_audio_button------------------",
+      "anchor_text": "Listen"
+    },
+    {
+      "url": "https://medium.com/u/5ed69ff9cfb0?source=---user_mention--30666e2359ba---------------------------------------",
+      "anchor_text": "Star Atlas"
+    },
+    {
+      "url": "https://medium.com/u/1e2c913fa2a0?source=---user_mention--30666e2359ba---------------------------------------",
+      "anchor_text": "The Club Guild"
+    },
+    {
+      "url": "https://discord.com/channels/789226204980707409/874400139534536745/1094028169759166626",
+      "anchor_text": "question"
+    },
+    {
+      "url": "https://medium.com/blockchain-biz/star-atlas-heavily-affected-by-ftx-catastrophe-ceo-remains-committed-180cf3c2f5a9",
+      "anchor_text": "FTX collapse"
+    },
+    {
+      "url": "https://medium.com/blockchain-biz/space-game-star-atlas-recovers-lost-funds-from-ftx-3d0c13f6ed83",
+      "anchor_text": "lost funds."
+    },
+    {
+      "url": "https://solscan.io/account/GgYtnDJMHQG4gpVzy2KHukSvHfFJcs1jLXASsBCQE83P?source=-----30666e2359ba---------------------------------------",
+      "anchor_text": "Account GgYtnDJMHQG4gpVzy2KHukSvHfFJcs1jLXASsBCQE83PThe user-friendly and real-time update Scanning Tool for the Solana Ecosystem. Track your $SOL and Solana-related…solscan.io"
+    },
+    {
+      "url": "https://solscan.io/tx/4ER73ekiyyZQU5mL4Wz347tfeqCcfDrENDR42v4AArjovodP6x9hEtZmyW4oetevy7z9Rt3s8J2NB6KRyXhNeExg",
+      "anchor_text": "4ER73ekiyyZQU5mL4Wz347tfeqCcfDrENDR42v4AArjovodP6x9hEtZmyW4oetevy7z9Rt3s8J2NB6KRyXhNeExg"
+    },
+    {
+      "url": "https://solscan.io/tx/3csfPNdSMveceUvsoQr2Mivv41or4AVusWiRgMcYQ9cL9MhwmjBigC2GWRNuLkUztJz8qkkdrn6XNi2kGtCxUSfb",
+      "anchor_text": "3csfPNdSMveceUvsoQr2Mivv41or4AVusWiRgMcYQ9cL9MhwmjBigC2GWRNuLkUztJz8qkkdrn6XNi2kGtCxUSfb"
+    },
+    {
+      "url": "https://solscan.io/tx/62sgVW4kjshu7vHq5LnFUozn4KUne7GXw5mE8UsNXqXmfRNbHCpNUpCkhGowfxBTA6o2zWMUHXM8KasKcw6ybmSy",
+      "anchor_text": "62sgVW4kjshu7vHq5LnFUozn4KUne7GXw5mE8UsNXqXmfRNbHCpNUpCkhGowfxBTA6o2zWMUHXM8KasKcw6ybmSy"
+    },
+    {
+      "url": "https://medium.com/u/41e0c5b141f1",
+      "anchor_text": "Krigs"
+    },
+    {
+      "url": "https://open.spotify.com/show/2mxndrDW6yPfpS350ijzjt?si=ec7c717f998240d6",
+      "anchor_text": "Podcast"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCDa-YxgNG6A9xpH1qyP0OaQ",
+      "anchor_text": "YouTube"
+    },
+    {
+      "url": "https://twitter.com/home",
+      "anchor_text": "Twitter"
+    },
+    {
+      "url": "https://thehologram.io/",
+      "anchor_text": "Web"
+    },
+    {
+      "url": "https://medium.com/the-hologram",
+      "anchor_text": "The Hologram"
+    },
+    {
+      "url": "https://staratlas.com/",
+      "anchor_text": "Star Atlas"
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "https://medium.com/the-hologram/atmta-sells-1-6-million-usd-worth-of-atlas-and-polis-over-last-3-months-30666e2359ba",
+    "final_url": "https://medium.com/the-hologram/atmta-sells-1-6-million-usd-worth-of-atlas-and-polis-over-last-3-months-30666e2359ba",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 290232,
+    "elapsed_ms": 1270,
+    "retrieval_mode": "LIVE",
+    "archive_capture": null
+  }
+}

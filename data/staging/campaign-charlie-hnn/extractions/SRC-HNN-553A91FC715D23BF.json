@@ -1,0 +1,214 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-553A91FC715D23BF",
+    "url_id": "URL-553A91FC715D23BF",
+    "url": "https://hologramnews.com/uper-phoenix-dao-announces-mid-june-core-data-cube-nft-mint",
+    "title": "Super Phoenix DAO Announces Mid-June CORE Data Cube NFT Mint",
+    "author": "UNKNOWN",
+    "publisher": "Hologram News Network (HNN)",
+    "publication_identity": "HNN website (hologramnews.com)",
+    "published_at": "2024-06-03T08:51:00+00:00",
+    "updated_at": "2024-06-03T08:57:42+00:00",
+    "retrieved_at": "2026-07-13T00:07:57.070452Z",
+    "document_type": "ORIGINAL_REPORTING",
+    "source_role": "ORIGINAL_REPORTING",
+    "publication_role": "ORIGINAL_REPORTING",
+    "classification_rationale": "Publication reports a development without explicit interview, editorial, investigative, event, or reference framing."
+  },
+  "source_lineage": {
+    "publication": "HNN website (hologramnews.com)",
+    "publication_role": "ORIGINAL_REPORTING",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [
+      {
+        "publication": "The Super Phoenix DAO",
+        "author": "UNKNOWN",
+        "url": "https://superphoenixdao.com/landing",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [],
+    "attribution_chain": [
+      {
+        "from": "The Super Phoenix DAO",
+        "to": "HNN website (hologramnews.com)",
+        "relationship": "REPORTS_ON",
+        "url": "https://superphoenixdao.com/landing"
+      }
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "This original reporting published by Hologram News Network (HNN) on 2024-06-03 documents “Super Phoenix DAO Announces Mid-June CORE Data Cube NFT Mint.” Its surviving text addresses governance, economy, community, lore, technology. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "Super Phoenix DAO Announces Mid-June CORE Data Cube NFT Mint\nBy KrigsPublished On: 3 June 2024Tags: superphoenix\nECOS SP Limited – The Super Phoenix DAO is gaining momentum as it heads towards its first public mint of the CORE Data Cube NFT. Owning a CORE Data Cube NFT will provide holders with a path to shared ownership of the largest ship in Galia, the Superphoenix Titan ship. Additionally, holders will receive a host of other airdrops, rewards, benefits, and exclusive access to the Superphoenix Titan ship itself. The CORE data Cube NFTs allow holders to participate in the creation of a powerful community within the Star Atlas ecosystem centered around the largest NFT asset sold in Web3.\nThere are six levels of Core Data Cubes, with the level of the NFT correlating to the rewards and airdrops that the holder will receive. These rewards can include Star Atlas ships, posters, and DAO tokens. The color of the NFT indicates the level of data Cube energy it contains. White and green colored NFTs are lower levels, while blue and red colored NFTs are higher levels. The highest level of Data Cube energy is contained within NFTs that are gold and and anomaly level. These CORE\nCore Data Cube NFT\nIf you mint a core data Cube NFT and are later included in a snapshot, you will be whitelisted to the interior land habitation sale within the Superphoenix Titan ship. Additionally, you will have the opportunity to merge your data Cube NFTs to upgrade them to the next rarity tier. Merging NFTs will burn the original NFTs and mint new ones at the next tier.\nThe CORE data Cube NFTs allow holders to participate in the creation of a powerful community within the Star Atlas ecosystem. You can join the Super Phoenix DAO Discord server to learn more about the NFTs and to participate in a raffle for whitelist spots. A whitelist spot will allow you to mint your NFTs during a pre-mint window at a discounted price. The CORE data Cube NFTs allow holders to participate in the creation of a powerful community within the Star Atlas ecosystem.\nAbout the Author: Krigs\nAn ardent supporter of emerging technologies, Krigs has been covering blockchain games for over two years and believes passionately in their power to revolutionize our collective gaming experience.\nlatest video\neditor's pick\nDiscover Star Atlas Alpha Content Pipelines at Solana Breakpoint 2022\nUnlocking Star Atlas Secrets: CEO Michael Wagner’s CoinDesk.TV Exclusive\nnews via inbox\nGet news from the Hologram first\nVisit Star Seekers",
+  "content_hash": "23671d047c0410007e1e6e9aa5883d1b0ee92bbdfd06d42b17e35a9b1d1e3fed",
+  "major_topics": [
+    "governance",
+    "economy",
+    "community",
+    "lore",
+    "technology"
+  ],
+  "entities": [
+    "ATLAS",
+    "Krigs",
+    "Michael Wagner",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-553A91FC715D23BF-01",
+      "text": "Owning a CORE Data Cube NFT will provide holders with a path to shared ownership of the largest ship in Galia, the Superphoenix Titan ship.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-553A91FC715D23BF",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-553A91FC715D23BF-02",
+      "text": "Additionally, holders will receive a host of other airdrops, rewards, benefits, and exclusive access to the Superphoenix Titan ship itself.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-553A91FC715D23BF",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-553A91FC715D23BF-03",
+      "text": "There are six levels of Core Data Cubes, with the level of the NFT correlating to the rewards and airdrops that the holder will receive.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-553A91FC715D23BF",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-553A91FC715D23BF-04",
+      "text": "These CORE Core Data Cube NFT If you mint a core data Cube NFT and are later included in a snapshot, you will be whitelisted to the interior land habitation sale within the Superphoenix Titan ship.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-553A91FC715D23BF",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-553A91FC715D23BF-05",
+      "text": "Additionally, you will have the opportunity to merge your data Cube NFTs to upgrade them to the next rarity tier.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-553A91FC715D23BF",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-553A91FC715D23BF-06",
+      "text": "Merging NFTs will burn the original NFTs and mint new ones at the next tier.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-553A91FC715D23BF",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-553A91FC715D23BF-07",
+      "text": "A whitelist spot will allow you to mint your NFTs during a pre-mint window at a discounted price.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-553A91FC715D23BF",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Star Atlas",
+    "ATLAS"
+  ],
+  "governance_items": [
+    "Star Atlas governance / DAO"
+  ],
+  "lore_items": [
+    "ONI"
+  ],
+  "actors": [
+    "Michael Wagner",
+    "Krigs"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://hologramnews.com/uper-phoenix-dao-announces-mid-june-core-data-cube-nft-mint/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://hologramnews.com/author/krigs/",
+      "anchor_text": "Krigs"
+    },
+    {
+      "url": "https://hologramnews.com/tag/superphoenix/",
+      "anchor_text": "superphoenix"
+    },
+    {
+      "url": "https://superphoenixdao.com/landing",
+      "anchor_text": "The Super Phoenix DAO"
+    },
+    {
+      "url": "https://hologramnews.com/ecos-holdings-acquires-superhpoenix-titan/",
+      "anchor_text": "shared ownership of the largest ship in Galia, the Superphoenix Titan ship."
+    },
+    {
+      "url": "https://hologramnews.com/discover-star-atlas-alpha-content-pipelines-at-solana-breakpoint-2022/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://hologramnews.com/unlocking-star-atlas-secrets-ceo-michael-wagners-coindesk-tv-exclusive/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://hologramnews.com/star-seekers/",
+      "anchor_text": "Visit Star Seekers"
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "UNKNOWN",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Author is not explicit in the surviving publication metadata."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://web.archive.org/web/20240613231110id_/https://hologramnews.com/uper-phoenix-dao-announces-mid-june-core-data-cube-nft-mint/",
+    "final_url": "https://web.archive.org/web/20240613231110id_/https://hologramnews.com/uper-phoenix-dao-announces-mid-june-core-data-cube-nft-mint/",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "response_size": 207557,
+    "elapsed_ms": 17854,
+    "retrieval_mode": "INTERNET_ARCHIVE",
+    "archive_capture": {
+      "timestamp": "20240613231110",
+      "original": "https://hologramnews.com/uper-phoenix-dao-announces-mid-june-core-data-cube-nft-mint/",
+      "digest": "4TT2E7WAYCNJAZZRZYO5IGCMK35RAZA4"
+    }
+  }
+}

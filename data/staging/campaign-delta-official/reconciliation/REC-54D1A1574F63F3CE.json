@@ -1,0 +1,14 @@
+{
+  "topic": "claims, fleet, polis, record, remain, the, this, time",
+  "official_source_ids": [
+    "SRC-OFF-BE3F6F5D62BE9688"
+  ],
+  "community_source_ids": [
+    "SRC-HNN-288D5BD2126253C0"
+  ],
+  "relationship": "COMMUNITY_ADDS_CONTEXT",
+  "finding": "Automated topic overlap on: claims, fleet, polis, record, remain, the, this, time. Official authority is limited to the official wording; community context remains separately attributed.",
+  "confidence": "LOW",
+  "promotion_candidate": false,
+  "manual_review_required": true
+}

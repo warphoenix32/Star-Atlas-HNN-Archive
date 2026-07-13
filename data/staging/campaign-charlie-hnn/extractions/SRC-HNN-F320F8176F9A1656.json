@@ -1,0 +1,334 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-F320F8176F9A1656",
+    "url_id": "URL-F320F8176F9A1656",
+    "url": "https://thehologram.io/usc-faction-politics",
+    "title": "The Ustur Security Council and Faction Politics in SCREAM » The Hologram",
+    "author": "Cpt. August",
+    "publisher": "Hologram News Network (HNN)",
+    "publication_identity": "Archived HNN website (thehologram.io)",
+    "published_at": "2022-08-18T14:02:20+00:00",
+    "updated_at": "2022-08-18T14:02:23+00:00",
+    "retrieved_at": "2026-07-13T00:17:21.526410Z",
+    "document_type": "FEATURE",
+    "source_role": "FEATURE",
+    "publication_role": "FEATURE",
+    "classification_rationale": "Publication provides feature-style background or profile coverage."
+  },
+  "source_lineage": {
+    "publication": "Archived HNN website (thehologram.io)",
+    "publication_role": "FEATURE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [
+      {
+        "publication": "balance",
+        "author": "UNKNOWN",
+        "url": "https://en.wikipedia.org/wiki/Balancing_(international_relations)",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "comparative advantage",
+        "author": "UNKNOWN",
+        "url": "https://en.wikipedia.org/wiki/Comparative_advantage",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "bandwagoning:",
+        "author": "UNKNOWN",
+        "url": "https://en.wikipedia.org/wiki/Bandwagoning",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://staratlas.com/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [
+      "Cpt. August"
+    ],
+    "attribution_chain": [
+      {
+        "from": "balance",
+        "to": "Archived HNN website (thehologram.io)",
+        "relationship": "REPORTS_ON",
+        "url": "https://en.wikipedia.org/wiki/Balancing_(international_relations)"
+      },
+      {
+        "from": "comparative advantage",
+        "to": "Archived HNN website (thehologram.io)",
+        "relationship": "REPORTS_ON",
+        "url": "https://en.wikipedia.org/wiki/Comparative_advantage"
+      },
+      {
+        "from": "bandwagoning:",
+        "to": "Archived HNN website (thehologram.io)",
+        "relationship": "REPORTS_ON",
+        "url": "https://en.wikipedia.org/wiki/Bandwagoning"
+      },
+      {
+        "from": "Star Atlas",
+        "to": "Archived HNN website (thehologram.io)",
+        "relationship": "REPORTS_ON",
+        "url": "https://staratlas.com/"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "This feature published by Hologram News Network (HNN) on 2022-08-18 documents “The Ustur Security Council and Faction Politics in SCREAM » The Hologram.” Its surviving text addresses economy, guilds and DACs, game development, community, lore. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "The Ustur Security Council and Faction Politics in SCREAM\nPosted by Cpt. August | Aug 18, 2022 | Community, Conflict, Guilds, Politics, SCREAM\nOfficially announced to the metaverse on August 17, 2022, the Ustur Security Council (USC) is a new alliance that brings together seven of the leading Ustur-only guilds. The founding members vary in size, gameplay focus, and primary language, including the shipbuilders of Heimdall, the explorers and privateers of Dark Matter, and Francophone industrial guild Vnonymous Star. This diverse group of players shares one thing in common, a desire to further the interests of the Ustur faction, via cooperation and shared security in SCREAM (which will feature inter-faction PVP as a core mechanic).\nThe USC is the first alliance of its kind in Star Atlas, focused explicitly on defending the rights and interests of Ustur players. Why did the Ustur take this step before the other factions? As Hologram writer Langwenya noted in a recent article comparing the relative strengths of all three factions, the Ustur faction is at the bottom of the leaderboard in terms of both player counts and total asset value. According to realist theories of international relations, weaker sovereign entities tend to balance against strong rivals by forming alliances. Because Ustur is the weakest faction on paper, Ustur guilds have a strong incentive to band together to face MUD and Oni guilds with more assets and players at their disposal.\nIn addition to security benefits, this single-faction alliance could provide a major economic boost to its members. By bringing together industrial guilds with those focused on PVP and exploration, the USC will enable its members to specialize more deeply while providing goods and services to one another. Assuming each guild becomes more efficient and specialized as a result of this cooperation, Ricardo’s theory of comparative advantage predicts that overall economic surplus for the Ustur sector will increase.\nGiven the military and economic benefits of a single-faction alliance for SCREAM and beyond, Star Atlas analysts are wondering: will the other factions will follow suit? What will happen to multi-faction guilds and treaties like the United Metaverse Accords? Will it be more difficult for multi-faction groups to trade, communicate, and cooperate across faction lines?\nThe Shifting Balance of Power\nBased on faction trash-talk on Discord and Twitter, and unconfirmed rumors circulating on private channels, the Oni and MUD factions may be in the early stages of an alliance against the Ustur. If this is true, the Oni groups involved could be described as bandwagoning: aligning with the wealthier MUD faction to pursue the benefits of galactic hegemony. A two-front war in SCREAM, supported by a MUD/Oni truce, would be devastating for the Ustur sector. Whether this threat is real or not, Ustur guild leaders certainly feel the need to solidify their faction as a political and military unit, pursuing Ustur-only cooperation to mitigate their weaker position on the leaderboards.\nMeanwhile, leaders of large multi-faction guilds clearly do not feel the same urgency to unite along factional lines. Relative strength and security may incline them to pursue further cooperation through the UMA and other channels, so long as the status quo serves their interests. If there’s a paradigm shift towards factional warfare in SCREAM, multi-faction guilds will be less able to serve their members in all three sectors equally. This could lead to the dissolution of some multi-faction groups, and the rise of more single-faction guilds and alliances. On the other hand, if peace prevails, single-faction groups might expand cooperation with the local branches of multi-faction guilds. Even now, USC leaders are discussing membership potential for the Ustur segments of mixed guilds. Much depends on the economics and game mechanics of SCREAM, and the decisions of individual players and guild leaders.\nWhatever happens in SCREAM, I predict that the USC will not be the last faction-based alliance of guilds and DACs. When faction PVP and starbase building/destruction become major pillars of gameplay, the need for mutual security along factional lines will become very strong for guilds engaged in that playstyle. We here at the Hologram are following guild and faction politics closely as SCREAM approaches, providing you with the latest intelligence and analysis for your important strategic choices. Make sure to follow our Twitter and turn on notifications for up-to-the-minute alpha from around the Star Atlas metaverse.\nAbout The Hologram\nThe Hologram is Star Atlas’ first and only independent news network. Our vision is to become the most trusted source of information about Star Atlas and a voice for the whole community. Readers can expect a high standard from our reporting and staff. Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.\nThe Hologram is not endorsed or paid by the Star Atlas team. Any information published by The Hologram nor its writers should be considered as informational in nature and does not constitute any financial advice.\nShare:",
+  "content_hash": "f631987da6b9ba34623472a4c0e77ad77e3448778823a2d877d5a39cfe4f809f",
+  "major_topics": [
+    "economy",
+    "guilds and DACs",
+    "game development",
+    "community",
+    "lore"
+  ],
+  "entities": [
+    "ATLAS",
+    "SCREAM",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-F320F8176F9A1656-01",
+      "text": "August | Aug 18, 2022 | Community, Conflict, Guilds, Politics, SCREAM Officially announced to the metaverse on August 17, 2022, the Ustur Security Council (USC) is a new alliance that brings together seven of the leading Ustur-only guilds.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-F320F8176F9A1656",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-F320F8176F9A1656-02",
+      "text": "This diverse group of players shares one thing in common, a desire to further the interests of the Ustur faction, via cooperation and shared security in SCREAM (which will feature inter-faction PVP as a core mechanic).",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-F320F8176F9A1656",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-F320F8176F9A1656-03",
+      "text": "By bringing together industrial guilds with those focused on PVP and exploration, the USC will enable its members to specialize more deeply while providing goods and services to one another.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-F320F8176F9A1656",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-F320F8176F9A1656-04",
+      "text": "Assuming each guild becomes more efficient and specialized as a result of this cooperation, Ricardo’s theory of comparative advantage predicts that overall economic surplus for the Ustur sector will increase.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-F320F8176F9A1656",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-F320F8176F9A1656-05",
+      "text": "Given the military and economic benefits of a single-faction alliance for SCREAM and beyond, Star Atlas analysts are wondering: will the other factions will follow suit?",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-F320F8176F9A1656",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-F320F8176F9A1656-06",
+      "text": "What will happen to multi-faction guilds and treaties like the United Metaverse Accords?",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-F320F8176F9A1656",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-F320F8176F9A1656-07",
+      "text": "Will it be more difficult for multi-faction groups to trade, communicate, and cooperate across faction lines?",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-F320F8176F9A1656",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-F320F8176F9A1656-08",
+      "text": "If there’s a paradigm shift towards factional warfare in SCREAM, multi-faction guilds will be less able to serve their members in all three sectors equally.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-F320F8176F9A1656",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-F320F8176F9A1656-09",
+      "text": "Whatever happens in SCREAM, I predict that the USC will not be the last faction-based alliance of guilds and DACs.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-F320F8176F9A1656",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-F320F8176F9A1656-10",
+      "text": "When faction PVP and starbase building/destruction become major pillars of gameplay, the need for mutual security along factional lines will become very strong for guilds engaged in that playstyle.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-F320F8176F9A1656",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-F320F8176F9A1656-11",
+      "text": "Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-F320F8176F9A1656",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Star Atlas",
+    "ATLAS",
+    "SCREAM"
+  ],
+  "governance_items": [],
+  "lore_items": [
+    "MUD",
+    "ONI",
+    "Ustur"
+  ],
+  "actors": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://thehologram.io/author/wulff/",
+      "anchor_text": "Cpt. August"
+    },
+    {
+      "url": "https://thehologram.io/category/community/",
+      "anchor_text": "Community"
+    },
+    {
+      "url": "https://thehologram.io/category/politics/conflict/",
+      "anchor_text": "Conflict"
+    },
+    {
+      "url": "https://thehologram.io/category/community/guilds/",
+      "anchor_text": "Guilds"
+    },
+    {
+      "url": "https://thehologram.io/category/politics/",
+      "anchor_text": "Politics"
+    },
+    {
+      "url": "https://thehologram.io/category/gameplay/scream/",
+      "anchor_text": "SCREAM"
+    },
+    {
+      "url": "https://thehologram.io/ustur-security-council/",
+      "anchor_text": "Ustur Security Council"
+    },
+    {
+      "url": "https://thehologram.io/tension-rise-as-factions-and-guilds-prepare-for-scream/",
+      "anchor_text": "inter-faction PVP"
+    },
+    {
+      "url": "https://thehologram.io/which-star-atlas-faction-has-the-upper-hand-part-ii/",
+      "anchor_text": "article"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Balancing_(international_relations)",
+      "anchor_text": "balance"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Comparative_advantage",
+      "anchor_text": "comparative advantage"
+    },
+    {
+      "url": "https://thehologram.io/the-united-metaverse-accords/",
+      "anchor_text": "United Metaverse Accords"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bandwagoning",
+      "anchor_text": "bandwagoning:"
+    },
+    {
+      "url": "https://twitter.com/Hologram_News",
+      "anchor_text": "Twitter"
+    },
+    {
+      "url": "https://thehologram.io/",
+      "anchor_text": "The Hologram"
+    },
+    {
+      "url": "https://staratlas.com/",
+      "anchor_text": "Star Atlas"
+    },
+    {
+      "url": "http://www.facebook.com/sharer.php?u=https://thehologram.io/usc-faction-politics/&t=The%20Ustur%20Security%20Council%20and%20Faction%20Politics%20in%20SCREAM",
+      "anchor_text": ""
+    },
+    {
+      "url": "http://twitter.com/intent/tweet?text=The%20Ustur%20Security%20Council%20and%20Faction%20Politics%20in%20SCREAM%20https://thehologram.io/usc-faction-politics/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://plus.google.com/share?url=https://thehologram.io/usc-faction-politics/&t=The%20Ustur%20Security%20Council%20and%20Faction%20Politics%20in%20SCREAM",
+      "anchor_text": ""
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "https://web.archive.org/web/20220818140224id_/https://thehologram.io/usc-faction-politics/",
+    "final_url": "https://web.archive.org/web/20220818140224id_/https://thehologram.io/usc-faction-politics/",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "response_size": 175128,
+    "elapsed_ms": 704,
+    "retrieval_mode": "INTERNET_ARCHIVE",
+    "archive_capture": {
+      "timestamp": "20220818140224",
+      "original": "https://thehologram.io/usc-faction-politics/",
+      "digest": "NTQ2K62RSHGIULCLPBX6ZV5IZAS25SDZ"
+    }
+  }
+}

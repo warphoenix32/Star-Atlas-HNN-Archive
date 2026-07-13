@@ -1,0 +1,14 @@
+{
+  "topic": "atmta, for, galactic, marketplace, new, the, this, time",
+  "official_source_ids": [
+    "SRC-OFF-0C5AA46E01E189EC"
+  ],
+  "community_source_ids": [
+    "SRC-AEPHIA-37F7C131CFDF7327"
+  ],
+  "relationship": "COMMUNITY_PRECEDES_OFFICIAL_ANNOUNCEMENT",
+  "finding": "Automated topic overlap on: atmta, for, galactic, marketplace, new, the, this, time, trading. Official authority is limited to the official wording; community context remains separately attributed.",
+  "confidence": "LOW",
+  "promotion_candidate": false,
+  "manual_review_required": true
+}

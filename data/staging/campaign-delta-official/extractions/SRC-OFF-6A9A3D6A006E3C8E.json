@@ -1,0 +1,211 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-6A9A3D6A006E3C8E",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47031349283475-How-does-crafting-work-in-Holosim",
+    "title": "How does crafting work in Holosim?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-02T19:07:15Z",
+    "updated_at": "2025-12-08T18:24:51Z",
+    "original_date_text": "2025-12-02T19:07:15Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “How does crafting work in Holosim?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Crafting in Holosim lets you turn raw materials into useful items such as resources, contracts, and ships. It’s one of the main ways to progress and support your faction.\nWhat you can craft\nResources: refine raw materials into usable items.\nContracts: items you can sell back to your faction NPC for zATLAS rewards\nShips: new ships for your fleets, sometimes requiring permits.\nSome recipes are locked at the start. As your character levels up, you’ll unlock more advanced recipes.\nHow to craft items\nGo to a faction-controlled starbase: click the base on the map.\nOpen the Crafting tab: select Crafting from the Starbase menu.\nChoose a recipe: pick what you want to build (resource, contract, or ship).\nSelect the quantity you want to craft: choose how many units of the recipe you want to produce before starting the job.\nAssign crew: assigning more crew speeds up the crafting job.\nStart crafting: confirm to begin production.\nCollecting results\nOnce a crafting or upgrade job is complete, go to the Current Jobs tab to collect your finished items or rewards.\nBase upgrading\nThe Base Management section inside the Crafting menu lets you contribute to base upgrades:\nDeliver ressources to push progress.\nEarn Loyalty Points (LP) for contributing.\nAt the end of the cycle (24h), LP can be claimed for zATLAS rewards.",
+  "content_hash": "3d8a513220729e5ed01fef5d980a9b46d4fee39ec3ac7bda21a2b5dd68e05afd",
+  "entities": [
+    "Crew",
+    "Holosim"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-6A9A3D6A006E3C8E-01",
+      "text": "Crafting in Holosim lets you turn raw materials into useful items such as resources, contracts, and ships.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-6A9A3D6A006E3C8E",
+      "publication_date": "2025-12-02T19:07:15Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-6A9A3D6A006E3C8E-02",
+      "text": "It’s one of the main ways to progress and support your faction.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-6A9A3D6A006E3C8E",
+      "publication_date": "2025-12-02T19:07:15Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-6A9A3D6A006E3C8E-03",
+      "text": "What you can craft Resources: refine raw materials into usable items.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-6A9A3D6A006E3C8E",
+      "publication_date": "2025-12-02T19:07:15Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-6A9A3D6A006E3C8E-04",
+      "text": "Contracts: items you can sell back to your faction NPC for zATLAS rewards Ships: new ships for your fleets, sometimes requiring permits.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-6A9A3D6A006E3C8E",
+      "publication_date": "2025-12-02T19:07:15Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-6A9A3D6A006E3C8E-05",
+      "text": "As your character levels up, you’ll unlock more advanced recipes.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-6A9A3D6A006E3C8E",
+      "publication_date": "2025-12-02T19:07:15Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-6A9A3D6A006E3C8E-06",
+      "text": "How to craft items Go to a faction-controlled starbase: click the base on the map.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-6A9A3D6A006E3C8E",
+      "publication_date": "2025-12-02T19:07:15Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-6A9A3D6A006E3C8E-07",
+      "text": "Open the Crafting tab: select Crafting from the Starbase menu.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-6A9A3D6A006E3C8E",
+      "publication_date": "2025-12-02T19:07:15Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-6A9A3D6A006E3C8E-08",
+      "text": "Choose a recipe: pick what you want to build (resource, contract, or ship).",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-6A9A3D6A006E3C8E",
+      "publication_date": "2025-12-02T19:07:15Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-6A9A3D6A006E3C8E-09",
+      "text": "Select the quantity you want to craft: choose how many units of the recipe you want to produce before starting the job.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-6A9A3D6A006E3C8E",
+      "publication_date": "2025-12-02T19:07:15Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-6A9A3D6A006E3C8E-10",
+      "text": "Assign crew: assigning more crew speeds up the crafting job.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-6A9A3D6A006E3C8E",
+      "publication_date": "2025-12-02T19:07:15Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-6A9A3D6A006E3C8E-11",
+      "text": "Collecting results Once a crafting or upgrade job is complete, go to the Current Jobs tab to collect your finished items or rewards.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-6A9A3D6A006E3C8E",
+      "publication_date": "2025-12-02T19:07:15Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-6A9A3D6A006E3C8E-12",
+      "text": "Base upgrading The Base Management section inside the Crafting menu lets you contribute to base upgrades: Deliver ressources to push progress.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-6A9A3D6A006E3C8E",
+      "publication_date": "2025-12-02T19:07:15Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-6A9A3D6A006E3C8E-13",
+      "text": "At the end of the cycle (24h), LP can be claimed for zATLAS rewards.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-6A9A3D6A006E3C8E",
+      "publication_date": "2025-12-02T19:07:15Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Holosim",
+    "Crew"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47031349283475-How-does-crafting-work-in-Holosim",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.407213Z"
+  }
+}

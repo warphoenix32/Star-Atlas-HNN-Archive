@@ -1,0 +1,157 @@
+{
+  "source": {
+    "source_id": "SRC-IH-00683F22FF5CB062",
+    "url_id": "URL-00683F22FF5CB062",
+    "url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-202/",
+    "inventory_url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-202",
+    "title": "Star Atlas Weekly Newsletter #202",
+    "author": "Intergalactic Herald",
+    "publisher": "Intergalactic Herald",
+    "published_at": "2026-01-30T23:00:00",
+    "updated_at": "2026-01-30T19:30:58",
+    "retrieved_at": "2026-07-12T22:00:20.230757Z",
+    "document_type": "NEWSLETTER",
+    "source_role": "CURATED_SUMMARY",
+    "source_classification": "CURATED_SUMMARY",
+    "classification_rationale": "Weekly newsletter/recap aggregates developments and linked sources.",
+    "wordpress_type": "posts"
+  },
+  "summary": {
+    "neutral_abstract": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week. The video and article summaries below are AI generated so they may not be 100% accurate. Weekly Star Atlas Newsletter #214 from Aephia – https://aephia.com/star-atlas/weekly-star-atlas-newsletter-214/ The past week delivered important context on both development speed and upcoming content, headlined by candid remarks from CEO Michael regarding the company’s financial runway. Michael confirmed that due to challenging market conditions and the complexities inherent in their plan to transfer IP to the DAO, securing necessary $20–$30 million capital raises remains…",
+    "historical_value": "Contemporary Intergalactic Herald publication preserved with role and attribution boundaries.",
+    "current_validity_warning": "Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources."
+  },
+  "article_text": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week. The video and article summaries below are AI generated so they may not be 100% accurate.\nWeekly Star Atlas Newsletter #214 from Aephia – https://aephia.com/star-atlas/weekly-star-atlas-newsletter-214/\nThe past week delivered important context on both development speed and upcoming content, headlined by candid remarks from CEO Michael regarding the company’s financial runway. Michael confirmed that due to challenging market conditions and the complexities inherent in their plan to transfer IP to the DAO, securing necessary $20–$30 million capital raises remains difficult, constraining team size and development pace. Despite this, game development is proceeding, with Holosim Chapter 2 anticipated within the next two weeks. This update introduces a smaller combat UI panel, significantly slower combat mechanics (extending engagements up to 10 minutes), and immersive quest monologues, samples of which have been released. Economically, the initial Open Marketplace Operations (OMO) saw team revenue increase from $130 to $8,267, demonstrating strong relative growth, leading to new listings of ships and claim stakes. Attention is also drawn to the DAO, where voting on PIP-26, a 13.1 million ATLAS proposal to fund the next season of the Star Atlas Crew Adventure Series, closes on February 5th. Furthermore, recent UE5 patches delivered bug fixes, refined gunplay and boosting mechanics, and permanently reduced ship prices in Galia by half.\nAtlas Brew #189 from Star Atlas TV – https://www.youtube.com/watch?v=IVcPbKXnUr8\nThe latest Star Atlas Brew session offered deep insight into the distinct roles and future convergence of HoloSim and C4 development. HoloSim Chapter 2 is confirmed to be “super close” to launch, continuing its role as a flexible, rapid-prototyping environment for core mechanics. Developers revealed a critical alpha detail regarding NPC dynamics: NPC hostility scales dynamically based on faction mining activity in the sector, encouraging players to balance resource extraction or risk punitive Eco retaliation. Moving forward, a Faction Reputation system is planned for future game modes, potentially allowing alignment with rogue factions based on in-game actions. While C4 remains focused on complex economic simulation, territorial governance, and deep strategy, the team is exploring adding features like political gameplay loops, where DAOs and NPC factions issue quests to players to expand influence. Finally, the developers addressed performance concerns following the transition from the highly resource-intensive StarComm V2, confirming that ongoing bug fixes for the direct RPC connection architecture are a top priority to ensure stability.\nI am looking for guests to be on the podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact me.\nI am launching a Star Atlas merch store. Please check it out at Intergalactic Gear.\nI am also creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic Coalition.\nStar Atlas Week in Review Podcast – Audio podcast where I break down everything that happened in Star Atlas the past week plus my analysis on what it all means. https://intergalacticherald.com/podcast/\nStar Atlas Event Recap – AI audio summary covering all the key moments from Star Atlas community events. https://intergalacticherald.com/podcast/star-atlas-event-recaps/\nStar Atlas Discord News Feed Newsletter – Star Atlas Discord announcements send directly to your email so you never miss out on updates from the Star Atlas team. https://intergalacticherald.com/star-atlas-discord-news-feed/\nIf you would like to support my efforts, donations can be sent to intergalacticherald.sol\nLatest podcast\nPodcast 176: Star Atlas Weekly Reviewby MattJuly 5, 2026In this episode, I recap the latest news of Star Atlas from the past week. Listen on Apple Podcasts Listen on Spotify I am looking for guests to be on the podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in… Read more: Podcast 176: Star Atlas Weekly Review\nLatest recap\nStar Atlas Event Recap 91: Atlas Brew #211by MattJuly 2, 2026In this episode, hear an AI summary of the latest Star Atlas community event. Full video recordings can be found on the YouTube channel of Star Atlas TV at https://www.youtube.com/@staratlastv. Listen on Apple Podcasts Listen on Spotify Star Atlas Event Summary Hi, this isn’t Matt with the Intergalactic Herald. I… Read more: Star Atlas Event Recap 91: Atlas Brew #211",
+  "content_hash": "8f7eebe8eaee7b432a3401c3326c4473da62cd2200f5fc96e209c5f7d5c8a8c7",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [],
+  "external_sources": [
+    {
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-214/",
+      "anchor_text": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-214/"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=IVcPbKXnUr8",
+      "anchor_text": "https://www.youtube.com/watch?v=IVcPbKXnUr8"
+    },
+    {
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    }
+  ],
+  "primary_source_relationships": [
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-214/",
+      "anchor_text": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-214/"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=IVcPbKXnUr8",
+      "anchor_text": "https://www.youtube.com/watch?v=IVcPbKXnUr8"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    }
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Verify which outbound links are primary sources and preserve creator attribution during promotion.",
+      "Source lineage: attribution requires manual confirmation."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-newsletter-202&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 11086,
+    "elapsed_ms": 4655,
+    "attempts": [
+      {
+        "endpoint": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-newsletter-202&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "http_status": 200,
+        "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-newsletter-202&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "content_type": "application/json; charset=UTF-8",
+        "response_size": 11086,
+        "elapsed_ms": 4655
+      }
+    ]
+  },
+  "source_lineage": {
+    "publication": "Intergalactic Herald",
+    "publication_role": "CURATED_SUMMARY",
+    "relationship": "CURATED_SUMMARY_OF",
+    "primary_sources": [
+      {
+        "publication": "Weekly Star Atlas Newsletter 214",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-214/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "publication": "Watch",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=IVcPbKXnUr8",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Intergalactic Gear",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticgear.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Intergalactic Coalition",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticcoalition.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      }
+    ],
+    "original_creators": [
+      "Aephia"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Weekly Star Atlas Newsletter 214",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-214/"
+      }
+    ],
+    "lineage_confidence": "MEDIUM"
+  }
+}

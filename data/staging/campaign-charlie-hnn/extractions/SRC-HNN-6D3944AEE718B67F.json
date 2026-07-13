@@ -1,0 +1,342 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-6D3944AEE718B67F",
+    "url_id": "URL-6D3944AEE718B67F",
+    "url": "https://thehologram.io/star-atlas-scream-gameplay-initial-reveal",
+    "title": "Star Atlas SCREAM Gameplay Initial Reveal | The Hologram",
+    "author": "UNKNOWN",
+    "publisher": "Hologram News Network (HNN)",
+    "publication_identity": "Archived HNN website (thehologram.io)",
+    "published_at": "2022-05-14T02:44:32+00:00",
+    "updated_at": null,
+    "retrieved_at": "2026-07-13T00:14:09.893673Z",
+    "document_type": "REFERENCE",
+    "source_role": "REFERENCE",
+    "publication_role": "REFERENCE",
+    "classification_rationale": "Publication is structured as a guide or reference."
+  },
+  "source_lineage": {
+    "publication": "Archived HNN website (thehologram.io)",
+    "publication_role": "REFERENCE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "publication": "Solana",
+        "author": "UNKNOWN",
+        "url": "http://solana.com/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "StarAtlas.com",
+        "author": "UNKNOWN",
+        "url": "https://staratlas.com/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Play.StarAtlas.com",
+        "author": "UNKNOWN",
+        "url": "http://play.staratlas.com/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Faction Fleet",
+        "author": "UNKNOWN",
+        "url": "https://play.staratlas.com/fleet",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [],
+    "attribution_chain": [
+      {
+        "from": "Solana",
+        "to": "Archived HNN website (thehologram.io)",
+        "relationship": "REFERENCES",
+        "url": "http://solana.com/"
+      },
+      {
+        "from": "StarAtlas.com",
+        "to": "Archived HNN website (thehologram.io)",
+        "relationship": "REFERENCES",
+        "url": "https://staratlas.com/"
+      },
+      {
+        "from": "Play.StarAtlas.com",
+        "to": "Archived HNN website (thehologram.io)",
+        "relationship": "REFERENCES",
+        "url": "http://play.staratlas.com/"
+      },
+      {
+        "from": "Faction Fleet",
+        "to": "Archived HNN website (thehologram.io)",
+        "relationship": "REFERENCES",
+        "url": "https://play.staratlas.com/fleet"
+      }
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "This reference published by Hologram News Network (HNN) on 2022-05-14 documents “Star Atlas SCREAM Gameplay Initial Reveal | The Hologram.” Its surviving text addresses economy, guilds and DACs, game development, community, lore, technology. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "Star Atlas SCREAM Gameplay Initial Reveal\nPosted by Krigs | May 14, 2022 | Business, SCREAM\nStar Atlas’ SCREAM is the next step in metaverse blockchain gaming. This in-browser game brings the metaverse of Star Atlas one step closer to coming alive. SCREAM is the successor to the popular Star Atlas SCORE module. In SCREAM players and decentralized autonomous corporations will fight for control over stat systems in the Star Atlas galaxy. Here you will find the latest on Star Atlas SCREAM gameplay.\nEditors Note: Information in this article is derived from the official Star Atlas blog. Per the Star Atlas team, information regarding gameplay is subject to change. SCREAM is set to release sometime in the Fall of 2022.\nWhat is SCREAM?\nSCREAM is a in-browser mini-game that is set to be released by Star Atlas. SCREAM stands for Ship Combat Resource Extraction Mining. From its name components, SCREAM will focus on the gameplay loops of Ship Combat, Resource Extraction, and Mining. Players and DACs will engage in these activities to ultimately build star bases across multiple star systems and expand their influence.\n“SCREAM will be a blockchain-native multiplayer game complete with economic, political, and strategic elements. This will be the first time that players can use their ships to fight for the future of their faction with fun, active, repeatable, on-chain gameplay with earning potential.”– Star Atlas SCREAM description\nI thought Star Atlas was supposed to be a Unreal Engine 5 game?\nThe release of SCREAM is intended to bring about relevant and engaging Star Atlas gameplay ahead of the full Unreal Engine 5 game. Building a AAA title game on brand new technology undoubtably will take several years to complete. However, the developers of Star Atlas recognize the importance of delivering community activity along the way. SCREAM will be the first time citizens of Star Atlas will be able to engage with one another in a multiplayer gaming space.\nSCREAM will utilize existing Star Atlas ships and resources thus continuing and expanding the Star Atlas metaverse. SCREAM will begin the transition of the Star Atlas economy into a dynamic, player influences ecosystem ahead of the UE5 game.\nWhat are the gameplay objectives of SCREAM?\nPlayers of the grand space strategy game Stellaris will be very familiar with the Star Atlas SCREAM gameplay mechanics. We’ve previously covered how Stellaris is a major influence on the current design of SCREAM. Like Stellaris, players and DACs in SCREAM will cooperate and compete to build star bases across the Star Atlas Galaxy. Building a star base asserts control over that star system. By controlling star systems, players will expand the area of influence that their faction, and DAC, controls.\nVisualization of Star Atlas Risk Zones\nIn SCORE, which was SCREAM’s prequal, players enlisted ships into the service of one of the three major factions. SCREAM will focus on the establishment of control of star systems in the Faction Security and Medium Risk zones.\n“During the time period of SCORE, ship enlistment to a faction helped establish the main security zones around the Cataclysm. SCREAM will see players, DACs, and factions begin to push into the Medium risk zone. As throughout history, expanding civilizations inevitably lead to conflict.”– Star Atlas Lore\nHow to control a system – build a space station\nTo control a star system, DACs (read guilds), will need to coordinate their members to gather enough resources to build a space station hub. DACs will also need to coordinate with other DACs within the same faction to provide and receive services that they themselves cannot. These services will clear revolve around Ship Combat, Resource Extraction, and Mining.\nThe exact details of building a space station is not exactly clear. However, it will involve the harvesting and mining of resources from nearby planets in-system. There are seven planet types, each with a different set of resources needed for space station construction. To collect all of the resources needed, again, DACs will need to ensure their mining and resource operations are coordinated.\nThe efficient transportation of resources will become important as the factions race to establish control over the galaxy. Transports and haulers will need to be in sync with mining operators to ensure that each cargo ship movement is purposeful.\nLastly, transport ships are prime candidates for enemy factions and pirates. These ships, laden with resources, will be an instant target for any hostile threat. Transportation operations through hostile space will require an armed escort to thwart any potential raiders, thus linking ship combat into the gameplay. With large amounts of resources invested into these space stations, DACs will be vigilant in defending their property. Dislodging a DAC from a system will require a coordinated attack fleet. In response, DACs will need to make sure they are prepared to coordinate a timely response.\nSpace Station Overview\nSpace Stations will be the central hubs for Star Atlas SCREAM gameplay. There are currently 6 tiers of space stations known, 5 of which are buildable by players. Each successive tier of space station will likely require an increased amount of resources per level. The highest tier of space station is reserved for each faction’s central hub. These faction hubs will serve as the main starting point for players in SCREAM. Faction hubs will also be the first place players will store their ships in hangars. Hubs will also serve as a jumping point to transfer ship assets between SCREAM and a digital wallet.\nHangars\nAt the start, players will be limited on the number of ships that they can bring into SCREAM. Through gameplay, players will be able to expand both the size and capacity of their hangars, eventually enabling the storing of Capital sized ships and above. These in-game hangar upgrades will costs one time fees of either the ATLAS token or Faction Loyalty Points. Faction LP is a game mechanic familiar to EVE online players and will likely be earned through various activities in service to a faction. Faction Loyalty points is a new mechanic in Star Atlas to be released with SCREAM.\nPvP and PvE\nThis will be the first time Star Atlas players can engage in ship combat. Both PvP and PvE has been confirmed. For PvE, players will face off against the Jorvik and Ecos factions that inhabit the Medium Risk Zones. In PvP, players will engage on another for control of Medium Risk Zone systems. In the Medium Risk Zone, ships cannot be permanently destroyed. Upon being disabled, players ships are returned to their hangar hub and will require a certain amount of repair via toolkits. However, if disabled in the Medium Risk Zone, ships will drop all resources and cargo they are carrying.\nCrafting\nSCREAM will also allow players to begin their crafting careers for the first time. In SCORE, there were only four known crafted resources; food, fuel, toolkits, and ammo. In SCREAM, that number will increase to 20. This may or may not include modules and components for ships. Notably, ATMTA industries, the Star Atlas corporation, will no longer provide the supply of the original four crafted resources. Players will be required to source these resources from the player economy, beginning the cycle of player driven economies.\nThis concludes our current coverage of the initial Star Atlas SCREAM gameplay reveal. Our next coverage will breakdown some of the intricacies of SCREAM fleet mechanics and strategies.\nABOUT STAR ATLAS\nStar Atlas is a next-gen gaming metaverse emerging from the confluence of state-of-the-art blockchain, real-time graphics, multiplayer video games, and decentralized financial technologies.Using Unreal Engine 5’s Nanite, real-time graphics technology allows for cinematic quality video game visuals. In addition, blockchain technology using the Solana protocol establishes a largely serverless and secured gameplay experience. Non-fungible tokens obtained and traded within Star Atlas create an economy that replicates tangible world assets and ownership. To learn more, visit StarAtlas.com, join a faction at Play.StarAtlas.com and send your spaceships on a deep space mission by enrolling them in a Faction Fleet.\nShare:\nFeatured\nMay 2 - May 15\nThe Star Atlas Vox Edit Contest Entry Window\nAll day\nTufa Attack Tournament: Finals\nFeatured\n9:00 pm - 10:00 pm UTC+0\nStar Atlas Town Hall\n11:00 pm - 11:30 pm UTC+0\nGuild Gaming Network – COD: Warzone\nFeatured\nAll day\nThe Mob Machina NFT Launch",
+  "content_hash": "a79c1796adea04959c18fbef8bbfc26aa8a01bae088e7e11cd1bff06d19ef698",
+  "major_topics": [
+    "economy",
+    "guilds and DACs",
+    "game development",
+    "community",
+    "lore",
+    "technology"
+  ],
+  "entities": [
+    "ATLAS",
+    "Krigs",
+    "SCORE",
+    "SCREAM",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-6D3944AEE718B67F-01",
+      "text": "In SCREAM players and decentralized autonomous corporations will fight for control over stat systems in the Star Atlas galaxy.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-6D3944AEE718B67F",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-6D3944AEE718B67F-02",
+      "text": "Here you will find the latest on Star Atlas SCREAM gameplay.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-6D3944AEE718B67F",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-6D3944AEE718B67F-03",
+      "text": "SCREAM is a in-browser mini-game that is set to be released by Star Atlas.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-6D3944AEE718B67F",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-6D3944AEE718B67F-04",
+      "text": "From its name components, SCREAM will focus on the gameplay loops of Ship Combat, Resource Extraction, and Mining.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-6D3944AEE718B67F",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-6D3944AEE718B67F-05",
+      "text": "Players and DACs will engage in these activities to ultimately build star bases across multiple star systems and expand their influence.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-6D3944AEE718B67F",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-6D3944AEE718B67F-06",
+      "text": "“SCREAM will be a blockchain-native multiplayer game complete with economic, political, and strategic elements.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-6D3944AEE718B67F",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-6D3944AEE718B67F-07",
+      "text": "This will be the first time that players can use their ships to fight for the future of their faction with fun, active, repeatable, on-chain gameplay with earning potential.”– Star Atlas SCREAM description I thought Star Atlas was supposed to be a Unreal Engine 5 game?",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-6D3944AEE718B67F",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-6D3944AEE718B67F-08",
+      "text": "Building a AAA title game on brand new technology undoubtably will take several years to complete.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-6D3944AEE718B67F",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-6D3944AEE718B67F-09",
+      "text": "SCREAM will be the first time citizens of Star Atlas will be able to engage with one another in a multiplayer gaming space.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-6D3944AEE718B67F",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-6D3944AEE718B67F-10",
+      "text": "SCREAM will utilize existing Star Atlas ships and resources thus continuing and expanding the Star Atlas metaverse.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-6D3944AEE718B67F",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-6D3944AEE718B67F-11",
+      "text": "SCREAM will begin the transition of the Star Atlas economy into a dynamic, player influences ecosystem ahead of the UE5 game.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-6D3944AEE718B67F",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-6D3944AEE718B67F-12",
+      "text": "Players of the grand space strategy game Stellaris will be very familiar with the Star Atlas SCREAM gameplay mechanics.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-6D3944AEE718B67F",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "SCORE",
+    "Star Atlas",
+    "ATLAS",
+    "SCREAM"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [
+    "Krigs"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://thehologram.io/author/krigs/",
+      "anchor_text": "Krigs"
+    },
+    {
+      "url": "https://thehologram.io/category/business/",
+      "anchor_text": "Business"
+    },
+    {
+      "url": "https://thehologram.io/category/business/scream/",
+      "anchor_text": "SCREAM"
+    },
+    {
+      "url": "https://medium.com/star-atlas/the-atlas-star-issue-7-6850bfab5a60",
+      "anchor_text": "blog."
+    },
+    {
+      "url": "https://thehologram.io/star-atlas-roadmap-update-april-29/",
+      "anchor_text": "covered"
+    },
+    {
+      "url": "https://thehologram.io/scream-fleet-limits-confirmed/",
+      "anchor_text": "limited"
+    },
+    {
+      "url": "http://solana.com/",
+      "anchor_text": "Solana"
+    },
+    {
+      "url": "https://staratlas.com/",
+      "anchor_text": "StarAtlas.com"
+    },
+    {
+      "url": "http://play.staratlas.com/",
+      "anchor_text": "Play.StarAtlas.com"
+    },
+    {
+      "url": "https://play.staratlas.com/fleet",
+      "anchor_text": "Faction Fleet"
+    },
+    {
+      "url": "http://www.facebook.com/sharer.php?u=https://thehologram.io/star-atlas-scream-gameplay-initial-reveal/&t=Star%20Atlas%20SCREAM%20Gameplay%20Initial%20Reveal",
+      "anchor_text": ""
+    },
+    {
+      "url": "http://twitter.com/intent/tweet?text=Star%20Atlas%20SCREAM%20Gameplay%20Initial%20Reveal%20https://thehologram.io/star-atlas-scream-gameplay-initial-reveal/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://plus.google.com/share?url=https://thehologram.io/star-atlas-scream-gameplay-initial-reveal/&t=Star%20Atlas%20SCREAM%20Gameplay%20Initial%20Reveal",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/event/the-star-atlas-vox-edit-contest-entry-window/",
+      "anchor_text": "The Star Atlas Vox Edit Contest Entry Window"
+    },
+    {
+      "url": "https://thehologram.io/event/tufa-attack-tournament-finals/",
+      "anchor_text": "Tufa Attack Tournament: Finals"
+    },
+    {
+      "url": "https://thehologram.io/event/star-atlas-town-hall-2/",
+      "anchor_text": "Star Atlas Town Hall"
+    },
+    {
+      "url": "https://thehologram.io/event/guild-gaming-network-cod-warzone/",
+      "anchor_text": "Guild Gaming Network – COD: Warzone"
+    },
+    {
+      "url": "https://thehologram.io/event/the-mob-mechina-nft-launch/",
+      "anchor_text": "The Mob Machina NFT Launch"
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "UNKNOWN",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Author is not explicit in the surviving publication metadata."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://web.archive.org/web/20220514024433id_/https://thehologram.io/star-atlas-scream-gameplay-initial-reveal/",
+    "final_url": "https://web.archive.org/web/20220514024433id_/https://thehologram.io/star-atlas-scream-gameplay-initial-reveal/",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "response_size": 146727,
+    "elapsed_ms": 1850,
+    "retrieval_mode": "INTERNET_ARCHIVE",
+    "archive_capture": {
+      "timestamp": "20220514024433",
+      "original": "https://thehologram.io/star-atlas-scream-gameplay-initial-reveal/",
+      "digest": "FW3WQBQD7S7KRABU7HEHY6FMCGW2PEWP"
+    }
+  }
+}

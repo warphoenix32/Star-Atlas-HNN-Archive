@@ -1,0 +1,355 @@
+{
+  "source": {
+    "source_id": "SRC-IH-4CC193E41138B963",
+    "url_id": "URL-4CC193E41138B963",
+    "url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-108/",
+    "inventory_url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-108",
+    "title": "Star Atlas Weekly News Recap #108",
+    "author": "Intergalactic Herald",
+    "publisher": "Intergalactic Herald",
+    "published_at": "2024-04-14T17:00:00",
+    "updated_at": "2024-04-13T17:40:29",
+    "retrieved_at": "2026-07-12T22:03:05.505702Z",
+    "document_type": "NEWSLETTER",
+    "source_role": "CURATED_SUMMARY",
+    "source_classification": "CURATED_SUMMARY",
+    "classification_rationale": "Weekly newsletter/recap aggregates developments and linked sources.",
+    "wordpress_type": "posts"
+  },
+  "summary": {
+    "neutral_abstract": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week. We are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us. We are launching a Star Atlas merch store. Please check it out at Intergalactic",
+    "historical_value": "Contemporary Intergalactic Herald publication preserved with role and attribution boundaries.",
+    "current_validity_warning": "Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources."
+  },
+  "article_text": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week.\nWe are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us.\nWe are launching a Star Atlas merch store. Please check it out at Intergalactic Gear.\nWe are creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic Coalition.\nIf you would like to support our efforts, donations can be sent to intergalacticherald.sol\nSolana’s Latency and Congestion Issues\nBeyond the Horizon posted a video talking about Solana’s congestion issues.\nSTAR ATLAS #228 Starbased – A SLOW Start!\nMetaVerse Explorer posted a video about Star Atlas updates.\nMetaverse Nomads #141 Star Atlas w/ BeyondTheHorizon\nMetaverse Nomads posted a video replay of their Star Atlas livestream.\nWEEKLY STAR ATLAS NEWSLETTER #124\nAephia published their weekly Star Atlas newsletter.\nStar Atlas Community – Learn Why Your Star Atlas Transactions Keep Failing\nSiggy tweeted a thread about Solana transactions failing.\nThe Atlas Brew #106\nStar Atlas TV posted a video of the latest Atlas Brew.\nPress Release: ECOS Holdings Acquires Superphoenix Titan\nHologram News Network published a press release about the acquisition of the Superphoenix Titan.\nStar Atlas Recap 4-10-24\nBeyond the Horizon posted a video of Star Atlas updates.\nStar Atlas Gameplay Walkthrough with CEO Michael Wagner\nDominicVain posted a video walkthrough of Star Atlas by CEO Michael Wagner.\nStar Atlas 101 — Starbased Day 1… A Preview of Crowded and Popular Game Loops\nGalia Crafters published an article about game loops in SAGE Starbased.\nStar Atlas SURGE EVENT Practice Tips\nBeyond the Horizon posted a video about tips for playing Star Atlas SURGE.",
+  "content_hash": "e6c966fc2ba230eda0d128b63f2961059dc0a0670e63cfd409578f4f2da2ef02",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [],
+  "external_sources": [
+    {
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=U82JXBOXBR4",
+      "anchor_text": "Solana’s congestion issues"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=doEFyKhLbaM",
+      "anchor_text": "Star Atlas updates"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=p5Mobcq0kso",
+      "anchor_text": "Star Atlas livestream"
+    },
+    {
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-124/",
+      "anchor_text": "weekly Star Atlas newsletter"
+    },
+    {
+      "url": "https://twitter.com/Siggy_SA/status/1777341679952875631",
+      "anchor_text": "Solana transactions failing"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=33tGUwWAlr0",
+      "anchor_text": "latest Atlas Brew"
+    },
+    {
+      "url": "https://hologramnews.com/ecos-holdings-acquires-superhpoenix-titan/",
+      "anchor_text": "acquisition of the Superphoenix Titan"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=_Xgwj0-vhBQ",
+      "anchor_text": "Star Atlas updates"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=j55vrZNwqEQ",
+      "anchor_text": "video walkthrough of Star Atlas by CEO Michael Wagner"
+    },
+    {
+      "url": "https://galiacrafters.medium.com/star-atlas-101-starbased-day-1-a-preview-of-crowded-and-popular-game-loops-211f7e135976",
+      "anchor_text": "game loops in SAGE Starbased"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=3XH-EmRah30",
+      "anchor_text": "playing Star Atlas SURGE"
+    }
+  ],
+  "primary_source_relationships": [
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=U82JXBOXBR4",
+      "anchor_text": "Solana’s congestion issues"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=doEFyKhLbaM",
+      "anchor_text": "Star Atlas updates"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=p5Mobcq0kso",
+      "anchor_text": "Star Atlas livestream"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-124/",
+      "anchor_text": "weekly Star Atlas newsletter"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://twitter.com/Siggy_SA/status/1777341679952875631",
+      "anchor_text": "Solana transactions failing"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=33tGUwWAlr0",
+      "anchor_text": "latest Atlas Brew"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://hologramnews.com/ecos-holdings-acquires-superhpoenix-titan/",
+      "anchor_text": "acquisition of the Superphoenix Titan"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=_Xgwj0-vhBQ",
+      "anchor_text": "Star Atlas updates"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=j55vrZNwqEQ",
+      "anchor_text": "video walkthrough of Star Atlas by CEO Michael Wagner"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://galiacrafters.medium.com/star-atlas-101-starbased-day-1-a-preview-of-crowded-and-popular-game-loops-211f7e135976",
+      "anchor_text": "game loops in SAGE Starbased"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=3XH-EmRah30",
+      "anchor_text": "playing Star Atlas SURGE"
+    }
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Verify which outbound links are primary sources and preserve creator attribution during promotion."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-108&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 6333,
+    "elapsed_ms": 2019,
+    "attempts": [
+      {
+        "endpoint": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-108&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "http_status": 200,
+        "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-108&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "content_type": "application/json; charset=UTF-8",
+        "response_size": 6333,
+        "elapsed_ms": 2019
+      }
+    ]
+  },
+  "source_lineage": {
+    "publication": "Intergalactic Herald",
+    "publication_role": "CURATED_SUMMARY",
+    "relationship": "CURATED_SUMMARY_OF",
+    "primary_sources": [
+      {
+        "publication": "Solana’s congestion issues",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=U82JXBOXBR4",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Solana’s congestion issues"
+      },
+      {
+        "publication": "Star Atlas updates",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=doEFyKhLbaM",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas updates"
+      },
+      {
+        "publication": "Star Atlas livestream",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=p5Mobcq0kso",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas livestream"
+      },
+      {
+        "publication": "weekly Star Atlas newsletter",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-124/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article with anchor text: weekly Star Atlas newsletter"
+      },
+      {
+        "publication": "latest Atlas Brew",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=33tGUwWAlr0",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest Atlas Brew"
+      },
+      {
+        "publication": "acquisition of the Superphoenix Titan",
+        "author": "UNKNOWN",
+        "url": "https://hologramnews.com/ecos-holdings-acquires-superhpoenix-titan/",
+        "organization": "Hologram News Network (HNN)",
+        "evidence": "Direct outbound link preserved in article with anchor text: acquisition of the Superphoenix Titan"
+      },
+      {
+        "publication": "Star Atlas updates",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=_Xgwj0-vhBQ",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas updates"
+      },
+      {
+        "publication": "video walkthrough of Star Atlas by CEO Michael Wagner",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=j55vrZNwqEQ",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: video walkthrough of Star Atlas by CEO Michael Wagner"
+      },
+      {
+        "publication": "game loops in SAGE Starbased",
+        "author": "UNKNOWN",
+        "url": "https://galiacrafters.medium.com/star-atlas-101-starbased-day-1-a-preview-of-crowded-and-popular-game-loops-211f7e135976",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: game loops in SAGE Starbased"
+      },
+      {
+        "publication": "playing Star Atlas SURGE",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=3XH-EmRah30",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: playing Star Atlas SURGE"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "publication": "Intergalactic Gear",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticgear.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Intergalactic Coalition",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticcoalition.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Solana transactions failing",
+        "author": "UNKNOWN",
+        "url": "https://twitter.com/Siggy_SA/status/1777341679952875631",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      }
+    ],
+    "original_creators": [
+      "Aephia",
+      "Star Atlas",
+      "Hologram News Network (HNN)"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Solana’s congestion issues",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=U82JXBOXBR4"
+      },
+      {
+        "from": "Star Atlas updates",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=doEFyKhLbaM"
+      },
+      {
+        "from": "Star Atlas livestream",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=p5Mobcq0kso"
+      },
+      {
+        "from": "weekly Star Atlas newsletter",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-124/"
+      },
+      {
+        "from": "latest Atlas Brew",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=33tGUwWAlr0"
+      },
+      {
+        "from": "acquisition of the Superphoenix Titan",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://hologramnews.com/ecos-holdings-acquires-superhpoenix-titan/"
+      },
+      {
+        "from": "Star Atlas updates",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=_Xgwj0-vhBQ"
+      },
+      {
+        "from": "video walkthrough of Star Atlas by CEO Michael Wagner",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=j55vrZNwqEQ"
+      },
+      {
+        "from": "game loops in SAGE Starbased",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://galiacrafters.medium.com/star-atlas-101-starbased-day-1-a-preview-of-crowded-and-popular-game-loops-211f7e135976"
+      },
+      {
+        "from": "playing Star Atlas SURGE",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=3XH-EmRah30"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  }
+}

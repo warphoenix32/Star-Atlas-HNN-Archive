@@ -1,0 +1,81 @@
+{
+  "source": {
+    "source_id": "SRC-AEPHIA-F749E3A20669A520",
+    "url_id": "URL-F749E3A20669A520",
+    "url": "https://aephia.com/star-atlas/leaked-footage-of-the-fimbul-airbike/",
+    "inventory_url": "https://aephia.com/star-atlas/leaked-footage-of-the-fimbul-airbike",
+    "title": "Leaked footage of the Fimbul Airbike",
+    "author": "Aephia",
+    "publisher": "Aephia",
+    "published_at": "2022-02-01T12:34:51",
+    "updated_at": "2022-02-01T13:09:02",
+    "retrieved_at": "2026-07-12T21:41:02.232975Z",
+    "document_type": "REFERENCE",
+    "source_role": "COMMUNITY_INSTITUTION"
+  },
+  "summary": {
+    "neutral_abstract": "This Thursday will mark the official release of the Fimbul Airbike, the ship that will kick-off the ship-releases by the team for 2022.According to the announcement during the last Townhall, this will be a common, XXS, entry-level ship that will be sold for about $15 (In USDC & ATLAS). Curious what it will look like? Look no",
+    "historical_value": "Contemporary Aephia coverage preserved as a community-institution source.",
+    "current_validity_warning": "Operational, economic, governance, and roadmap statements may be historical and require reconciliation with later primary sources."
+  },
+  "article_text": "This Thursday will mark the official release of the Fimbul Airbike, the ship that will kick-off the ship-releases by the team for 2022.According to the announcement during the last Townhall, this will be a common, XXS, entry-level ship that will be sold for about $15 (In USDC & ATLAS). Curious what it will look like? Look no further!",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [
+    "2022"
+  ],
+  "external_sources": [
+    "https://aephia.com/wp-content/uploads/2022/02/Star-Atlas-Ship-Fimbul-Airbike_01-300x188.jpg\"",
+    "https://aephia.com/wp-content/uploads/2022/02/Star-Atlas-Ship-Fimbul-Airbike_01-scaled.jpg\"",
+    "https://aephia.com/wp-content/uploads/2022/02/Star-Atlas-Ship-Fimbul-Airbike_02-300x169.jpg\"",
+    "https://aephia.com/wp-content/uploads/2022/02/Star-Atlas-Ship-Fimbul-Airbike_02-scaled.jpg\"",
+    "https://aephia.com/wp-content/uploads/2022/02/Star-Atlas-Ship-Fimbul-Airbike_04-300x165.jpg\"",
+    "https://aephia.com/wp-content/uploads/2022/02/Star-Atlas-Ship-Fimbul-Airbike_04-scaled.jpg\"",
+    "https://aephia.com/wp-content/uploads/2022/02/Star-Atlas-Ship-Fimbul-Airbike_05-300x159.jpg\"",
+    "https://aephia.com/wp-content/uploads/2022/02/Star-Atlas-Ship-Fimbul-Airbike_05-scaled.jpg\"",
+    "https://aephia.com/wp-content/uploads/2022/02/Star-Atlas-Ship-Fimbul-Airbike_06-300x169.jpg\"",
+    "https://aephia.com/wp-content/uploads/2022/02/Star-Atlas-Ship-Fimbul-Airbike_06-scaled.jpg\"",
+    "https://aephia.com/wp-content/uploads/2022/02/Star-Atlas-Ship-Fimbul-Airbike_08-300x169.jpg\"",
+    "https://aephia.com/wp-content/uploads/2022/02/Star-Atlas-Ship-Fimbul-Airbike_08-scaled.jpg\"",
+    "https://aephia.com/wp-content/uploads/2022/02/Star-Atlas-Ship-Fimbul-Airbike_09-300x155.jpg\"",
+    "https://aephia.com/wp-content/uploads/2022/02/Star-Atlas-Ship-Fimbul-Airbike_09-scaled.jpg\"",
+    "https://aephia.com/wp-content/uploads/2022/02/Star-Atlas-Ship-Fimbul-Airbike_10-300x169.jpg\"",
+    "https://aephia.com/wp-content/uploads/2022/02/Star-Atlas-Ship-Fimbul-Airbike_10-scaled.jpg\"",
+    "https://aephia.com/wp-content/uploads/2022/02/Star-Atlas-Ship-Fimbul-Airbike_11-300x152.jpg\"",
+    "https://aephia.com/wp-content/uploads/2022/02/Star-Atlas-Ship-Fimbul-Airbike_11-scaled.jpg\"",
+    "https://aephia.com/wp-content/uploads/2022/02/Star-Atlas-Ship-Fimbul-Airbike_12-300x169.jpg\"",
+    "https://aephia.com/wp-content/uploads/2022/02/Star-Atlas-Ship-Fimbul-Airbike_12-scaled.jpg\"",
+    "https://aephia.com/wp-content/uploads/2022/02/Star-Atlas-Ship-Fimbul-Airbike_13-300x144.jpg\"",
+    "https://aephia.com/wp-content/uploads/2022/02/Star-Atlas-Ship-Fimbul-Airbike_13-scaled.jpg\"",
+    "https://aephia.com/wp-content/uploads/2022/02/Star-Atlas-Ship-Fimbul-Airbike_14-300x147.jpg\"",
+    "https://aephia.com/wp-content/uploads/2022/02/Star-Atlas-Ship-Fimbul-Airbike_14-scaled.jpg\""
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Short or weakly dated extraction requires completeness review.",
+      "Article was modified after publication; review temporal claims against later evidence."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://aephia.com/wp-json/wp/v2/posts?slug=leaked-footage-of-the-fimbul-airbike&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 16654,
+    "elapsed_ms": 585
+  }
+}

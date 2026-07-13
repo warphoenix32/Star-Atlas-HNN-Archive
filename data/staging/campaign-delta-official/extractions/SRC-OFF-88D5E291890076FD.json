@@ -1,0 +1,193 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-88D5E291890076FD",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47029007013651-What-Are-Fleet-Scores-in-Fleet-Rental",
+    "title": "What Are Fleet Scores in Fleet Rental?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-02T18:09:22Z",
+    "updated_at": "2025-12-08T18:24:31Z",
+    "original_date_text": "2025-12-02T18:09:22Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://play.staratlas.com/rentals/",
+        "anchor_text": "Fleet Rental platform"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “What Are Fleet Scores in Fleet Rental?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "When listing or browsing fleets on the Fleet Rental platform, you’ll see a set of Fleet Scores attached to each listing. These scores are designed to help lenders understand the strength of their fleet and borrowers quickly compare fleet capabilities before renting.\nWhat Do the Scores Mean?\nThere are four key scores that measure your fleet’s potential in different roles across SAGE gameplay:\nMining Score\nRepresents your fleet’s efficiency in extracting resources.\nCalculated using:\nMining rate\nCargo capacity\nAmmo capacity\nAmmo consumption rate\nFuel required to exit planet\nSubwarp fuel consumption rate\nScanning Score\nEstimates your fleet’s scanning and data-gathering ability.\nBased on:\nSubwarp speed\nSDUs per scan\nCargo capacity\nScan cooldown\nSubwarp fuel + warp fuel consumption\nScan cost\nCargo Score\nIndicates how well your fleet handles transportation and logistics.\nUses:\nSubwarp speed\nMax warp distance\nCargo capacity\nFuel consumption (subwarp and warp)\nFleet Size\nThis is a measure of your fleet’s scale and power, calculated as:\nSum of (Ship Count × Ship Class^5)\nShip Classes range from 1 (XX-Small) to 9 (Titan). Higher-class ships weigh more heavily in the score.\nWhy Do These Scores Matter?\nFor Lenders: Helps understand the strengths of your fleet at a glance.\nFor Borrowers: Enables quick comparison of fleet utility before renting.\nFor the Game: May influence performance or earnings in SAGE depending on gameplay mechanics.",
+  "content_hash": "d1f4c7ce7b5399f4826d9457967ec48dec9c228fd5a731b316cc84ef1ecee36c",
+  "entities": [
+    "SAGE",
+    "SCORE"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-88D5E291890076FD-01",
+      "text": "When listing or browsing fleets on the Fleet Rental platform, you’ll see a set of Fleet Scores attached to each listing.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-88D5E291890076FD",
+      "publication_date": "2025-12-02T18:09:22Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-88D5E291890076FD-02",
+      "text": "These scores are designed to help lenders understand the strength of their fleet and borrowers quickly compare fleet capabilities before renting.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-88D5E291890076FD",
+      "publication_date": "2025-12-02T18:09:22Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-88D5E291890076FD-03",
+      "text": "There are four key scores that measure your fleet’s potential in different roles across SAGE gameplay: Mining Score Represents your fleet’s efficiency in extracting resources.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-88D5E291890076FD",
+      "publication_date": "2025-12-02T18:09:22Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-88D5E291890076FD-04",
+      "text": "Calculated using: Mining rate Cargo capacity Ammo capacity Ammo consumption rate Fuel required to exit planet Subwarp fuel consumption rate Scanning Score Estimates your fleet’s scanning and data-gathering ability.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-88D5E291890076FD",
+      "publication_date": "2025-12-02T18:09:22Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-88D5E291890076FD-05",
+      "text": "Based on: Subwarp speed SDUs per scan Cargo capacity Scan cooldown Subwarp fuel + warp fuel consumption Scan cost Cargo Score Indicates how well your fleet handles transportation and logistics.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-88D5E291890076FD",
+      "publication_date": "2025-12-02T18:09:22Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-88D5E291890076FD-06",
+      "text": "Uses: Subwarp speed Max warp distance Cargo capacity Fuel consumption (subwarp and warp) Fleet Size This is a measure of your fleet’s scale and power, calculated as: Sum of (Ship Count × Ship Class^5) Ship Classes range from 1 (XX-Small) to 9 (Titan).",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-88D5E291890076FD",
+      "publication_date": "2025-12-02T18:09:22Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-88D5E291890076FD-07",
+      "text": "Higher-class ships weigh more heavily in the score.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-88D5E291890076FD",
+      "publication_date": "2025-12-02T18:09:22Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-88D5E291890076FD-08",
+      "text": "For Lenders: Helps understand the strengths of your fleet at a glance.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-88D5E291890076FD",
+      "publication_date": "2025-12-02T18:09:22Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-88D5E291890076FD-09",
+      "text": "For Borrowers: Enables quick comparison of fleet utility before renting.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-88D5E291890076FD",
+      "publication_date": "2025-12-02T18:09:22Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-88D5E291890076FD-10",
+      "text": "For the Game: May influence performance or earnings in SAGE depending on gameplay mechanics.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-88D5E291890076FD",
+      "publication_date": "2025-12-02T18:09:22Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "SAGE",
+    "SCORE"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://play.staratlas.com/rentals/",
+      "anchor_text": "Fleet Rental platform"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://play.staratlas.com/rentals/",
+      "anchor_text": "Fleet Rental platform"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47029007013651-What-Are-Fleet-Scores-in-Fleet-Rental",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.349191Z"
+  }
+}

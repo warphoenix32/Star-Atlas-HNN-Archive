@@ -1,0 +1,222 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-38830B60C9318D1B",
+    "url_id": "URL-38830B60C9318D1B",
+    "url": "https://hologramnews.com/star-atlas-in-talks-with-ludex",
+    "title": "Star Atlas In Talks With Ludex, Dawn of Empire For Unannounced Release - Hologram News Network 🦉",
+    "author": "UNKNOWN",
+    "publisher": "Hologram News Network (HNN)",
+    "publication_identity": "HNN website (hologramnews.com)",
+    "published_at": "2024-02-10T06:13:41+00:00",
+    "updated_at": "2024-02-10T06:13:41+00:00",
+    "retrieved_at": "2026-07-13T00:07:19.594407Z",
+    "document_type": "EVENT_COVERAGE",
+    "source_role": "EVENT_COVERAGE",
+    "publication_role": "EVENT_COVERAGE",
+    "classification_rationale": "Publication documents or recaps a named event."
+  },
+  "source_lineage": {
+    "publication": "HNN website (hologramnews.com)",
+    "publication_role": "EVENT_COVERAGE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [
+      {
+        "publication": "Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://staratlas.com/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Ludex",
+        "author": "UNKNOWN",
+        "url": "https://ludex.gg/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Honeyland",
+        "author": "UNKNOWN",
+        "url": "https://honey.land/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Genopets",
+        "author": "UNKNOWN",
+        "url": "https://www.genopets.me/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Laddercaster",
+        "author": "UNKNOWN",
+        "url": "https://www.laddercaster.com/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [],
+    "attribution_chain": [
+      {
+        "from": "Star Atlas",
+        "to": "HNN website (hologramnews.com)",
+        "relationship": "REPORTS_ON",
+        "url": "https://staratlas.com/"
+      },
+      {
+        "from": "Ludex",
+        "to": "HNN website (hologramnews.com)",
+        "relationship": "REPORTS_ON",
+        "url": "https://ludex.gg/"
+      },
+      {
+        "from": "Honeyland",
+        "to": "HNN website (hologramnews.com)",
+        "relationship": "REPORTS_ON",
+        "url": "https://honey.land/"
+      },
+      {
+        "from": "Genopets",
+        "to": "HNN website (hologramnews.com)",
+        "relationship": "REPORTS_ON",
+        "url": "https://www.genopets.me/"
+      },
+      {
+        "from": "Laddercaster",
+        "to": "HNN website (hologramnews.com)",
+        "relationship": "REPORTS_ON",
+        "url": "https://www.laddercaster.com/"
+      }
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "This event coverage published by Hologram News Network (HNN) on 2024-02-10 documents “Star Atlas In Talks With Ludex, Dawn of Empire For Unannounced Release - Hologram News Network 🦉.” Its surviving text addresses economy, game development, community, lore, technology. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "Star Atlas In Talks With Ludex, Dawn of Empire For Unannounced Release\nBy KrigsPublished On: 10 February 2024Tags: Wagner\nStar Atlas has confirmed that they are in discussions for a future partnership with Ludex, developer of Challenge, a trustless PVP competition protocol for gaming that supports the Avalanche and Solana blockchains. Details of the partnership emerged Friday evening when a discord message image surfaced from Diego Parra, founder of Ludex.\nCourtesy of ksnirvana\nShortly thereafter, Michael Wagner, CEO of ATMTA, confirmed the validity of Parra’s comments. Speaking to Wagner directly, Wagner stated that “he was not ready to reveal anything yet”. According to Parra’s message, a future feature is in the works, specifically through Dawn of Empire a space themed tower defense game.\nWhile Ludex specializes in on-chain PVP solutions, it’s unclear as to what exactly the tie in is with Star Atlas. Integration with Dawn of Empire could parallel that of the delayed Honeyland feature release, incorporating cross-ecosystem utility. Star Atlas combat and PVP are also future releases in the Star Atlas roadmap, however, the timing of the partnership and a possible combat release are not along the same timeline.\nLooking at Star Atlas nearest releases, the crew companion app and Star Atlas Starbased are the next two announced releases. As a wildcard, however, the Star Atlas team has also teased an unannounced release that player’s “aren’t ready for”.\nLudex On-Chain PVP Solutions\nAccording to Ludex’s website, “Ludex simplifies blockchain integration for game developers, allowing players to compete using on-chain assets via the Challenge protocol, all without needing blockchain expertise. Our SDKs empowers any game developer to seamlessly integrate trustless competitions into [their] games!”\nLudex is backed by notable names within the Solana ecosystem, namely Solana Labs, Solana Ventures, and Kano One. According to their website, Ludex has also partnered with notable blockchain games like Genopets and Laddercaster.\nThe development company is also behind Megaweapon, a frenzied multiplayer battle game on the Avalanche blockchain.\nAbout the Author: Krigs\nAn ardent supporter of emerging technologies, Krigs has been covering blockchain games for over two years and believes passionately in their power to revolutionize our collective gaming experience.\nlatest video\neditor's pick\nDiscover Star Atlas Alpha Content Pipelines at Solana Breakpoint 2022\nUnlocking Star Atlas Secrets: CEO Michael Wagner’s CoinDesk.TV Exclusive\nnews via inbox\nGet news from the Hologram first\nVisit Star Atlassian",
+  "content_hash": "e9f9e0473b3b99f23170994dc6d6e76031da7e8356c0ccb5c020d3ddfaf8caff",
+  "major_topics": [
+    "economy",
+    "game development",
+    "community",
+    "lore",
+    "technology"
+  ],
+  "entities": [
+    "ATLAS",
+    "Krigs",
+    "Michael Wagner",
+    "Star Atlas",
+    "Starbased"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-38830B60C9318D1B-01",
+      "text": "Looking at Star Atlas nearest releases, the crew companion app and Star Atlas Starbased are the next two announced releases.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-38830B60C9318D1B",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Star Atlas",
+    "Starbased",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [
+    "ONI"
+  ],
+  "actors": [
+    "Michael Wagner",
+    "Krigs"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://hologramnews.com/star-atlas-in-talks-with-ludex/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://hologramnews.com/author/krigs/",
+      "anchor_text": "Krigs"
+    },
+    {
+      "url": "https://hologramnews.com/tag/wagner/",
+      "anchor_text": "Wagner"
+    },
+    {
+      "url": "https://staratlas.com/",
+      "anchor_text": "Star Atlas"
+    },
+    {
+      "url": "https://ludex.gg/",
+      "anchor_text": "Ludex"
+    },
+    {
+      "url": "https://twitter.com/DiegoParraM1",
+      "anchor_text": "Diego Parra"
+    },
+    {
+      "url": "https://hologramnews.com/unlocking-star-atlas-secrets-ceo-michael-wagners-coindesk-tv-exclusive/",
+      "anchor_text": "Wagner"
+    },
+    {
+      "url": "https://honey.land/",
+      "anchor_text": "Honeyland"
+    },
+    {
+      "url": "https://www.genopets.me/",
+      "anchor_text": "Genopets"
+    },
+    {
+      "url": "https://www.laddercaster.com/",
+      "anchor_text": "Laddercaster"
+    },
+    {
+      "url": "https://hologramnews.com/discover-star-atlas-alpha-content-pipelines-at-solana-breakpoint-2022/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://hologramnews.com/star-atlassian/",
+      "anchor_text": "Visit Star Atlassian"
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "UNKNOWN",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Author is not explicit in the surviving publication metadata."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://web.archive.org/web/20240417032952id_/https://hologramnews.com/star-atlas-in-talks-with-ludex/",
+    "final_url": "https://web.archive.org/web/20240417032952id_/https://hologramnews.com/star-atlas-in-talks-with-ludex/",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "response_size": 208209,
+    "elapsed_ms": 1240,
+    "retrieval_mode": "INTERNET_ARCHIVE",
+    "archive_capture": {
+      "timestamp": "20240417032952",
+      "original": "https://hologramnews.com/star-atlas-in-talks-with-ludex/",
+      "digest": "JPWC7ZZTMZ6QZGVAUTSOCGUU4TJ3GAOG"
+    }
+  }
+}

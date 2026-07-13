@@ -1,0 +1,116 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-31C9A684FD37FA07",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47057412823571-Do-all-my-resources-need-to-be-above-0-to-receive-ATLAS-emissions",
+    "title": "Do all my resources need to be above 0 to receive ATLAS emissions?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-03T15:14:34Z",
+    "updated_at": "2025-12-08T18:24:37Z",
+    "original_date_text": "2025-12-03T15:14:34Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://play.staratlas.com/rentals/",
+        "anchor_text": "renting them out to other players on the marketplace."
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “Do all my resources need to be above 0 to receive ATLAS emissions?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "All of your resources need to be above 0 to receive rewards.\nLooking for a better way to earn with your fleet?\nFaction Fleet is a legacy feature and will eventually be phased out.If you're looking for a more sustainable way to earn passive income with your ships, consider renting them out to other players on the marketplace.",
+  "content_hash": "638176a9b34713e1bf23958659d34f119b7fd9cc1e5214a400bb13ac235c3581",
+  "entities": [
+    "Faction Fleet"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-31C9A684FD37FA07-01",
+      "text": "All of your resources need to be above 0 to receive rewards.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-31C9A684FD37FA07",
+      "publication_date": "2025-12-03T15:14:34Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-31C9A684FD37FA07-02",
+      "text": "Looking for a better way to earn with your fleet?",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-31C9A684FD37FA07",
+      "publication_date": "2025-12-03T15:14:34Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-31C9A684FD37FA07-03",
+      "text": "Faction Fleet is a legacy feature and will eventually be phased out.If you're looking for a more sustainable way to earn passive income with your ships, consider renting them out to other players on the marketplace.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-31C9A684FD37FA07",
+      "publication_date": "2025-12-03T15:14:34Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Faction Fleet"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://play.staratlas.com/rentals/",
+      "anchor_text": "renting them out to other players on the marketplace."
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://play.staratlas.com/rentals/",
+      "anchor_text": "renting them out to other players on the marketplace."
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47057412823571-Do-all-my-resources-need-to-be-above-0-to-receive-ATLAS-emissions",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.371574Z"
+  }
+}

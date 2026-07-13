@@ -1,0 +1,119 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-CB741B9A3E4E7104",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47029019604115-Can-I-Cancel-a-Rental-Once-It-s-Active",
+    "title": "Can I Cancel a Rental Once It's Active?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-02T18:09:17Z",
+    "updated_at": "2025-12-08T18:24:33Z",
+    "original_date_text": "2025-12-02T18:09:17Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “Can I Cancel a Rental Once It's Active?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Once a fleet is actively rented, you cannot cancel the rental immediately. The borrower has full control until the rental period ends.\nHowever, if you no longer want your fleet to be re-listed for future rentals, you can:\nClick “Cancel Future Listing” on the fleet management panel.\nThis means:\nThe fleet will not be listed again once the current rental ends.\nThe current renter can continue using it until the rental expires or they cancel it.",
+  "content_hash": "56a3dff5593c5a6d6097297f8ff41dbbfbb01ef4a7f0ea8c732ab5cb07f59152",
+  "entities": [],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-CB741B9A3E4E7104-01",
+      "text": "Once a fleet is actively rented, you cannot cancel the rental immediately.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-CB741B9A3E4E7104",
+      "publication_date": "2025-12-02T18:09:17Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-CB741B9A3E4E7104-02",
+      "text": "The borrower has full control until the rental period ends.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-CB741B9A3E4E7104",
+      "publication_date": "2025-12-02T18:09:17Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-CB741B9A3E4E7104-03",
+      "text": "However, if you no longer want your fleet to be re-listed for future rentals, you can: Click “Cancel Future Listing” on the fleet management panel.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-CB741B9A3E4E7104",
+      "publication_date": "2025-12-02T18:09:17Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-CB741B9A3E4E7104-04",
+      "text": "This means: The fleet will not be listed again once the current rental ends.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-CB741B9A3E4E7104",
+      "publication_date": "2025-12-02T18:09:17Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-CB741B9A3E4E7104-05",
+      "text": "The current renter can continue using it until the rental expires or they cancel it.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-CB741B9A3E4E7104",
+      "publication_date": "2025-12-02T18:09:17Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47029019604115-Can-I-Cancel-a-Rental-Once-It-s-Active",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.351517Z"
+  }
+}

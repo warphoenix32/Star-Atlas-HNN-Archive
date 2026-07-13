@@ -1,0 +1,436 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-5A3F7E05FA593B9F",
+    "url": "https://experience.staratlas.com/newsroom/star-atlas-news/the-f-kit-a-bridge-to-web3-for-game-developers",
+    "title": "The F-KIT: A Bridge to Web3 for Game Developers | Star Atlas",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Newsroom / ATMTA",
+    "published_at": "2022-09-29",
+    "updated_at": null,
+    "original_date_text": "Sep 29, 2022",
+    "document_type": "OFFICIAL_ANNOUNCEMENT",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Newsroom / ATMTA",
+    "publication_role": "ECONOMIC_REPORT",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://play.staratlas.com",
+        "anchor_text": "Play Now"
+      },
+      {
+        "url": "https://coinmarketcap.com/currencies/star-atlas/",
+        "anchor_text": "CMC"
+      },
+      {
+        "url": "https://www.coingecko.com/en/coins/star-atlas",
+        "anchor_text": "CoinGecko"
+      },
+      {
+        "url": "https://coinmarketcap.com/currencies/star-atlas-polis/",
+        "anchor_text": "CMC"
+      },
+      {
+        "url": "https://www.coingecko.com/en/coins/star-atlas-dao",
+        "anchor_text": "CoinGecko"
+      },
+      {
+        "url": "https://discord.gg/staratlas",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://t.me/staratlasgame",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://www.reddit.com/r/StarAtlas/",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://www.facebook.com/StarAtlasMMO",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://www.instagram.com/staratlasgame/",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://www.youtube.com/channel/UCt-y8Npwje5KDG5MSZ0a9Jw",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://www.twitch.tv/staratlasgame",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://github.com/staratlasmeta/FoundationKit",
+        "anchor_text": "F-KIT"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Newsroom / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official economic report titled “The F-KIT: A Bridge to Web3 for Game Developers | Star Atlas.” This record preserves what Star Atlas Newsroom / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "The F-KIT: A Bridge to Web3 for Game Developers | Star Atlas\nPlay Now\nEconomic Reports\nWhite Paper • PDF\nRead Our Official White Paper!\nEconomics Paper • PDF\nLearn the tokenomics of ATLAS and POLIS in the galactic economy.\nGovernance Documentation\nLearn how Star Atlas is governed and built by its community.\nATLAS\n(\nCMC\nCoinGecko\n)\nPOLIS\n(\nCMC\nCoinGecko\n)\nTerms of Service\nPrivacy Policy\nPromotional Terms\nPlay Now\nBack\nSep 29, 2022\nTag: Latest News\nThe F-KIT: A Bridge to Web3 for Game Developers\nStar Atlas announces an in-game wallet that connects the Solana blockchain to Unreal Engine 5, as well as F-KIT, a free version of the software for developers looking to build on Solana.\nBack to top\n“All you have to do is give them a vision and the tools. All the rest is secondary, for the bonfire inside a creator’s heart just needs a spark to set the universe ablaze.” - Unknown ONI author\n“Channeling the spirit of Web3, the Star Atlas F-KIT paves the way for mass adoption of decentralized gaming. It instantly renders the open metaverse accessible to hundreds of millions of new entrants and enables anyone to build immersive experiences themselves, creating more opportunities through digital ownership and by giving game studios and publishers the ability to integrate the Solana blockchain into high-quality projects built on the Unreal Engine.” - Yat Siu, Co-Founder and Executive Chairman of Animoca Brands\nIt’s time we open the blockchain gates to the world, explorers!\nATMTA, Inc. (“ATMTA” for short), developer of Star Atlas, has created a new in-game bridge with an embedded wallet that connects gameplay transactions in Unreal Engine 5 with the Solana network. This means that Star Atlas players in the midst of future battles won’t have to fiddle with opening windows from third party apps or wallets, which adds up to a better user experience, improved performance and more fun.\nAnd the good news doesn’t end there!\nATMTA is sharing this innovative work with Unreal Engine 5 and Solana developers across the galaxy via the open source Foundation Software Development Kit (“F-KIT”). The F-KIT provides developers with free, state-of-the-art technology that will make it easier and faster for them to bring their Unreal Engine 5 games, products, and tools to Solana - and, by extension, to the Star Atlas metaverse.\nBy releasing F-KIT open-source, ATMTA is demonstrating its commitment to advancing the web3 game developer community and building on the promise of an open and immersive metaverse.\nThe Barrier to developing Unreal Engine 5 games on Solana\nBlueprints for the Pearce D9 Capital Salvage vessel /// Metaverse in Light Speed Expansion /// Immersive Blockchain-Powered UE5 Experience\nGame development is a complex activity in any context. Even the simplest of games requires multiple production pipelines, and engine selection is one of the biggest decisions to be made as it impacts the game's most fundamental structures, like graphics, logic, and limits.\nUnreal Engine 5 was a natural choice for Star Atlas. It’s the world's most advanced real-time 3D creation tool for photorealistic visuals and immersive experiences. It provides the framework that upholds the threshold of gameplay that ATMTA wants to offer Star Atlas players.\nThe challenge is that Unreal Engine 5 is not natively compatible with structures necessary to enable game integration with NFTs and the blockchain. ATMTA engineers needed to build web3 and Solana-based integration tools from the ground up.\nBefore today, every game studio building on Unreal Engine 5 that wanted them integrated with the Solana blockchain had three costly options:\nHire or build a full-scale blockchain engineering team\nBring in third-party contractors or consultants\nSeek an outside development firm\nNot surprisingly, these are massive roadblocks that consume a development team’s valuable time and resources, especially because few developers will have this type of expertise.\nUnfortunately, it doesn't end there. Producers would also be faced with ongoing blockchain development costs, such as:\nThe need to continually invest in upgrading infrastructure\nDelays of weeks or months when trying to launch a game\nSolutions that aren’t scalable, impacting game experience and increasing the risk of security threats\nSolutions that aren’t flexible enough to adapt to future games\nBut now these expensive constraints have been overcome thanks to the blockchain team at ATMTA. F-KIT offers an exquisite solution that allows developer teams to focus their resources on their true mission: developing fantastic games as well as other products and services on Solana.\nLet’s see how this will impact gaming projects.\nHow the F-KIT helps developers and growth of the ecosystem\nPearce ship manufacturing facility /// Metaverse in Light Speed Expansion /// Immersive Blockchain-Powered UE5 Experience\n“Star Atlas is a pioneer that is bolstering the entire Solana ecosystem. With a major reduction in development time and cost compared to building the functionality from scratch, Star Atlas is supporting and expediting the development of high quality Solana games and lowering the barrier of entry for studios new to blockchain gaming and Solana.” - Johnny B. Lee, Head of Solana Gaming\nWe envision our F-KIT saving up to 80% of the development and time costs that a company would spend on creating the infrastructure for an Unreal Engine 5-Solana integration. The F-KIT offers the following:\nAllows the in-engine generation and import of Solana private keys and wallets.\nPermits Unreal Engine 5 to interact with on-chain data (reading on-chain data from the game and allowing the game interface to perform on-chain transactions: sNFTs, xNFTs, and tokens).\nCreates an Unreal Engine 5 wallet management feature that allows users to see and interact with all of their SPL tokens and NFTs.\nEmbeds development support, including visual coding blueprints for user interfaces and user experience.\nIntegrates with any Solana program.\nThese are just the initial steps of our journey into making blockchain technology accessible to all game designers and developers inside the Unreal Engine 5 and Solana ecosystems. As you can see in the roadmap below, we aim to reach many improvement milestones in the following years:\nWhere we’re headed is pretty exciting! /// Metaverse in Light Speed Expansion /// Immersive Blockchain-Powered UE5 Experience\nIn addition to the direct benefits listed above, the F-KIT should also provide secondary effects. By facilitating the entrance of experienced developers into our network, more exciting features will be introduced on-chain, such as new high-quality games and apps from emerging industry partners. All of these will bring new users to the Solana blockchain community.\nBut it’s not only Solana developers who benefit from this. We anticipate an expansive future for the Star Atlas universe, and this tool is the first evolutionary step to immersive environmental integrations into this limitless world. At the same time, Unreal Engine 5 developers will be exposed and integrated with blockchain, allowing them, if they so wish, to access things like:\nAny Solana web3 app\nNFT marketplaces\nDecentralized Finance Protocols (Defi)\nDecentralized Exchanges (DEXs)\nSwaps and aggregators\nOther Solana-based games\nCompanies and projects that have already committed to using F-KIT are Major League Hacking (as part of their hackathon series) and Elyz.io, as well as many others.\nKnowing all of this, we hope the invitation is clear: Join us in building on UE 5 within the Solana ecosystem. If you are prepared to make the leap toward web3 gaming, click on the link below and learn everything you need to know to get your hands on the F-KIT today!\nPrev\nStar Atlas DAO Releases ATLAS Locker\nNext\nThe Star Atlas DAO Releases its Sustainable Governance Framework\nPlayers are encouraged to read and discuss the document that serves as a blueprint for sustainable self-governance\nTrailer\nWe use cookies to enhance your experience and analyze our site usage.\nPlease see our Privacy Policy\nfor more information.\nAccept Cookies",
+  "content_hash": "8b5913814fe3c1bd84418266d3fb6c6b347a2e5ba23a6bb6b8d290b5f7d58a9f",
+  "entities": [
+    "ATLAS",
+    "ATMTA",
+    "Animoca Brands",
+    "F-KIT",
+    "POLIS",
+    "Solana",
+    "Star Atlas DAO"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-5A3F7E05FA593B9F-01",
+      "text": "The F-KIT: A Bridge to Web3 for Game Developers | Star Atlas Play Now Economic Reports White Paper • PDF Read Our Official White Paper!",
+      "claim_type": "EVENT_OCCURRED",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-5A3F7E05FA593B9F",
+      "publication_date": "2022-09-29",
+      "confidence": "MEDIUM",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-5A3F7E05FA593B9F-02",
+      "text": "ATLAS ( CMC CoinGecko ) POLIS ( CMC CoinGecko ) Terms of Service Privacy Policy Promotional Terms Play Now Back Sep 29, 2022 Tag: Latest News The F-KIT: A Bridge to Web3 for Game Developers Star Atlas announces an in-game wallet that connects the Solana blockchain to Unreal Engine 5, as well as F-KIT, a free version of the software for developers looking to build on Solana.",
+      "claim_type": "EVENT_OCCURRED",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-5A3F7E05FA593B9F",
+      "publication_date": "2022-09-29",
+      "confidence": "MEDIUM",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-5A3F7E05FA593B9F-03",
+      "text": "It instantly renders the open metaverse accessible to hundreds of millions of new entrants and enables anyone to build immersive experiences themselves, creating more opportunities through digital ownership and by giving game studios and publishers the ability to integrate the Solana blockchain into high-quality projects built on the Unreal Engine.” - Yat Siu, Co-Founder and Executive Chairman of Animoca Brands It’s time we open the blockchain gates to the world, explorers!",
+      "claim_type": "EVENT_OCCURRED",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-5A3F7E05FA593B9F",
+      "publication_date": "2022-09-29",
+      "confidence": "MEDIUM",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-5A3F7E05FA593B9F-04",
+      "text": "The F-KIT provides developers with free, state-of-the-art technology that will make it easier and faster for them to bring their Unreal Engine 5 games, products, and tools to Solana - and, by extension, to the Star Atlas metaverse.",
+      "claim_type": "ANNOUNCEMENT",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-5A3F7E05FA593B9F",
+      "publication_date": "2022-09-29",
+      "confidence": "HIGH",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-5A3F7E05FA593B9F-05",
+      "text": "By releasing F-KIT open-source, ATMTA is demonstrating its commitment to advancing the web3 game developer community and building on the promise of an open and immersive metaverse.",
+      "claim_type": "EVENT_OCCURRED",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-5A3F7E05FA593B9F",
+      "publication_date": "2022-09-29",
+      "confidence": "MEDIUM",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-5A3F7E05FA593B9F-06",
+      "text": "Before today, every game studio building on Unreal Engine 5 that wanted them integrated with the Solana blockchain had three costly options: Hire or build a full-scale blockchain engineering team Bring in third-party contractors or consultants Seek an outside development firm Not surprisingly, these are massive roadblocks that consume a development team’s valuable time and resources, especially because few developers will have this type of expertise.",
+      "claim_type": "ANNOUNCEMENT",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-5A3F7E05FA593B9F",
+      "publication_date": "2022-09-29",
+      "confidence": "HIGH",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-5A3F7E05FA593B9F-07",
+      "text": "Producers would also be faced with ongoing blockchain development costs, such as: The need to continually invest in upgrading infrastructure Delays of weeks or months when trying to launch a game Solutions that aren’t scalable, impacting game experience and increasing the risk of security threats Solutions that aren’t flexible enough to adapt to future games But now these expensive constraints have been overcome thanks to the blockchain team at ATMTA.",
+      "claim_type": "EVENT_OCCURRED",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-5A3F7E05FA593B9F",
+      "publication_date": "2022-09-29",
+      "confidence": "MEDIUM",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-5A3F7E05FA593B9F-08",
+      "text": "Let’s see how this will impact gaming projects.",
+      "claim_type": "ANNOUNCEMENT",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-5A3F7E05FA593B9F",
+      "publication_date": "2022-09-29",
+      "confidence": "HIGH",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-5A3F7E05FA593B9F-09",
+      "text": "As you can see in the roadmap below, we aim to reach many improvement milestones in the following years: Where we’re headed is pretty exciting!",
+      "claim_type": "ROADMAP_PLAN",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-5A3F7E05FA593B9F",
+      "publication_date": "2022-09-29",
+      "confidence": "MEDIUM",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-5A3F7E05FA593B9F-10",
+      "text": "By facilitating the entrance of experienced developers into our network, more exciting features will be introduced on-chain, such as new high-quality games and apps from emerging industry partners.",
+      "claim_type": "ANNOUNCEMENT",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-5A3F7E05FA593B9F",
+      "publication_date": "2022-09-29",
+      "confidence": "HIGH",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-5A3F7E05FA593B9F-11",
+      "text": "All of these will bring new users to the Solana blockchain community.",
+      "claim_type": "ANNOUNCEMENT",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-5A3F7E05FA593B9F",
+      "publication_date": "2022-09-29",
+      "confidence": "HIGH",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-5A3F7E05FA593B9F-12",
+      "text": "At the same time, Unreal Engine 5 developers will be exposed and integrated with blockchain, allowing them, if they so wish, to access things like: Any Solana web3 app NFT marketplaces Decentralized Finance Protocols (Defi) Decentralized Exchanges (DEXs) Swaps and aggregators Other Solana-based games Companies and projects that have already committed to using F-KIT are Major League Hacking (as part of their hackathon series) and Elyz.io, as well as many others.",
+      "claim_type": "ANNOUNCEMENT",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-5A3F7E05FA593B9F",
+      "publication_date": "2022-09-29",
+      "confidence": "HIGH",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-5A3F7E05FA593B9F-13",
+      "text": "Prev Star Atlas DAO Releases ATLAS Locker Next The Star Atlas DAO Releases its Sustainable Governance Framework Players are encouraged to read and discuss the document that serves as a blueprint for sustainable self-governance Trailer We use cookies to enhance your experience and analyze our site usage.",
+      "claim_type": "EVENT_OCCURRED",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-5A3F7E05FA593B9F",
+      "publication_date": "2022-09-29",
+      "confidence": "MEDIUM",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "POLIS",
+    "ATLAS",
+    "F-KIT"
+  ],
+  "governance_items": [],
+  "lore_items": [
+    "ONI"
+  ],
+  "actors": [],
+  "organizations": [
+    "ATMTA",
+    "Star Atlas DAO",
+    "Solana",
+    "Animoca Brands"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://experience.staratlas.com/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://play.staratlas.com",
+      "anchor_text": "Play Now"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/economic-reports/",
+      "anchor_text": "Economic Reports"
+    },
+    {
+      "url": "https://experience.staratlas.com/assets/pdfs/white-paper.pdf",
+      "anchor_text": "White Paper • PDF Read Our Official White Paper!"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/governance-documentation",
+      "anchor_text": "Governance Documentation Learn how Star Atlas is governed and built by its community."
+    },
+    {
+      "url": "https://coinmarketcap.com/currencies/star-atlas/",
+      "anchor_text": "CMC"
+    },
+    {
+      "url": "https://www.coingecko.com/en/coins/star-atlas",
+      "anchor_text": "CoinGecko"
+    },
+    {
+      "url": "https://coinmarketcap.com/currencies/star-atlas-polis/",
+      "anchor_text": "CMC"
+    },
+    {
+      "url": "https://www.coingecko.com/en/coins/star-atlas-dao",
+      "anchor_text": "CoinGecko"
+    },
+    {
+      "url": "https://twitter.com/staratlas",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://discord.gg/staratlas",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://t.me/staratlasgame",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/StarAtlas/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://www.facebook.com/StarAtlasMMO",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://www.instagram.com/staratlasgame/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCt-y8Npwje5KDG5MSZ0a9Jw",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://www.twitch.tv/staratlasgame",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://experience.staratlas.com/terms-of-service",
+      "anchor_text": "Terms of Service"
+    },
+    {
+      "url": "https://experience.staratlas.com/privacy-policy",
+      "anchor_text": "Privacy Policy"
+    },
+    {
+      "url": "https://experience.staratlas.com/promotional-terms-and-conditions",
+      "anchor_text": "Promotional Terms"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/news",
+      "anchor_text": "Back"
+    },
+    {
+      "url": "https://github.com/staratlasmeta/FoundationKit",
+      "anchor_text": "F-KIT"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/star-atlas-news/star-atlas-dao-releases-atlas-locker",
+      "anchor_text": "Prev Star Atlas DAO Releases ATLAS Locker"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/star-atlas-news/the-star-atlas-dao-releases-its-sustainable-governance-framework",
+      "anchor_text": "Next The Star Atlas DAO Releases its Sustainable Governance Framework Players are encouraged to read and discuss the document that serves as a blueprint for sustainable self-governance"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/star-atlas-news/the-f-kit-a-bridge-to-web3-for-game-developers",
+      "anchor_text": "Trailer"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://experience.staratlas.com/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://play.staratlas.com",
+      "anchor_text": "Play Now"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/economic-reports/",
+      "anchor_text": "Economic Reports"
+    },
+    {
+      "url": "https://experience.staratlas.com/assets/pdfs/white-paper.pdf",
+      "anchor_text": "White Paper • PDF Read Our Official White Paper!"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/governance-documentation",
+      "anchor_text": "Governance Documentation Learn how Star Atlas is governed and built by its community."
+    },
+    {
+      "url": "https://experience.staratlas.com/terms-of-service",
+      "anchor_text": "Terms of Service"
+    },
+    {
+      "url": "https://experience.staratlas.com/privacy-policy",
+      "anchor_text": "Privacy Policy"
+    },
+    {
+      "url": "https://experience.staratlas.com/promotional-terms-and-conditions",
+      "anchor_text": "Promotional Terms"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/news",
+      "anchor_text": "Back"
+    },
+    {
+      "url": "https://github.com/staratlasmeta/FoundationKit",
+      "anchor_text": "F-KIT"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/star-atlas-news/star-atlas-dao-releases-atlas-locker",
+      "anchor_text": "Prev Star Atlas DAO Releases ATLAS Locker"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/star-atlas-news/the-star-atlas-dao-releases-its-sustainable-governance-framework",
+      "anchor_text": "Next The Star Atlas DAO Releases its Sustainable Governance Framework Players are encouraged to read and discuss the document that serves as a blueprint for sustainable self-governance"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/star-atlas-news/the-f-kit-a-bridge-to-web3-for-game-developers",
+      "anchor_text": "Trailer"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://experience.staratlas.com/newsroom/star-atlas-news/the-f-kit-a-bridge-to-web3-for-game-developers",
+    "final_url": "https://experience.staratlas.com/newsroom/star-atlas-news/the-f-kit-a-bridge-to-web3-for-game-developers",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "response_size": 71536,
+    "retrieved_at": "2026-07-13T01:04:52.449123Z",
+    "elapsed_ms": 237
+  }
+}

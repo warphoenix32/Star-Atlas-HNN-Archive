@@ -1,0 +1,404 @@
+{
+  "source": {
+    "source_id": "SRC-IH-BC52D7FB5AF6A5D1",
+    "url_id": "URL-BC52D7FB5AF6A5D1",
+    "url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-78/",
+    "inventory_url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-78",
+    "title": "Star Atlas Weekly News Recap #78",
+    "author": "Intergalactic Herald",
+    "publisher": "Intergalactic Herald",
+    "published_at": "2023-09-17T17:00:00",
+    "updated_at": "2023-09-16T15:43:48",
+    "retrieved_at": "2026-07-12T22:07:26.996771Z",
+    "document_type": "NEWSLETTER",
+    "source_role": "CURATED_SUMMARY",
+    "source_classification": "CURATED_SUMMARY",
+    "classification_rationale": "Weekly newsletter/recap aggregates developments and linked sources.",
+    "wordpress_type": "posts"
+  },
+  "summary": {
+    "neutral_abstract": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week. We are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us. We are launching a Star Atlas merch store. Please check it out at Intergalactic",
+    "historical_value": "Contemporary Intergalactic Herald publication preserved with role and attribution boundaries.",
+    "current_validity_warning": "Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources."
+  },
+  "article_text": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week.\nWe are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us.\nWe are launching a Star Atlas merch store. Please check it out at Intergalactic Gear.\nWe are creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic Coalition.\nStar Atlas Chatter #13 – Xcode Adventures & RICHNESS!\nRahMega posted a video recapping the past week of Star Atlas updates.\nStar Atlas Sage Labs Marketplace Tactics!\nBeyond the Horizon posted a video talking about possible tactics in Star Atlas SAGE Labs.\nStar Atlas Mining and Crafting Guide\nDuyo posted a video guide for mining and crafting in Star Atlas.\nMetaverse Nomads #111 Star Atlas w/ Signal\nMetaverse Nomads posted a video replay of their Star Atlas livestream.\nWEEKLY STAR ATLAS NEWSLETTER #96\nAephia published their weekly Star Atlas newsletter.\nStar Atlas – Strategies and Important Factors based on the Atlas Brew\nNebular TV posted a video about strategies for the upcoming SAGE Labs.\nTHEY CHALLENGED ME TO SAGE LABS!! (Star Atlas)\nAtlas Theory posted a video about his Star Atlas challenge with Beyond the Horizon.\nThe Atlas Brew #79\nStar Atlas TV posted a video replay of the latest Atlas Brew.\nStar Atlas How To: Nancy – Online Database & Fleet Management Tool\nTLDR 3.0 posted a video about the Star Atlas tool Nancy.\nStar Atlas Brew #79: Sage Labs Lab – TLDR\nTLDR 3.0 posted a video recap of the latest Atlas Brew.\nSTAR ATLAS #198 PLAYING SAGE LABS (not ME)\nMetaVerse Explorer posted a video looking at SAGE Labs gameplay.\nStar Atlas – SAGE Labs Gameplay Walk-though!!\nAtlas Theory posted a video walkthrough of SAGE Labs gameplay.\n10 Best Star Atlas Resources\nDuyo posted a video of Star Atlas resources.",
+  "content_hash": "1e1084223e3c72cb40b6dfb828152c2b1f98524f266db8e7e84d11af6b1ff137",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [],
+  "external_sources": [
+    {
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=hAsUQd-iAWI",
+      "anchor_text": "past week of Star Atlas updates"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Dpn04MWGsME",
+      "anchor_text": "possible tactics"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=J23pF1NXJgc",
+      "anchor_text": "mining and crafting in Star Atlas"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=BkWglaQoJi4",
+      "anchor_text": "Star Atlas livestream"
+    },
+    {
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-96/",
+      "anchor_text": "weekly Star Atlas newsletter"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=YXAOoMFn19M",
+      "anchor_text": "strategies for the upcoming SAGE Labs"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=CLRvLqzoLEY",
+      "anchor_text": "Star Atlas challenge"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ftRnnJ2TwuA",
+      "anchor_text": "latest Atlas Brew"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=gp2Z6GhIZo0",
+      "anchor_text": "Star Atlas tool"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=TTIYE1jZ0TI",
+      "anchor_text": "latest Atlas Brew"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=qITMNHDdPcc",
+      "anchor_text": "SAGE Labs gameplay"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=bWBW8xH244M",
+      "anchor_text": "walkthrough of SAGE Labs gameplay"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=IO1Z5aDWAM8",
+      "anchor_text": "Star Atlas resources"
+    }
+  ],
+  "primary_source_relationships": [
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=hAsUQd-iAWI",
+      "anchor_text": "past week of Star Atlas updates"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=Dpn04MWGsME",
+      "anchor_text": "possible tactics"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=J23pF1NXJgc",
+      "anchor_text": "mining and crafting in Star Atlas"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=BkWglaQoJi4",
+      "anchor_text": "Star Atlas livestream"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-96/",
+      "anchor_text": "weekly Star Atlas newsletter"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=YXAOoMFn19M",
+      "anchor_text": "strategies for the upcoming SAGE Labs"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=CLRvLqzoLEY",
+      "anchor_text": "Star Atlas challenge"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=ftRnnJ2TwuA",
+      "anchor_text": "latest Atlas Brew"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=gp2Z6GhIZo0",
+      "anchor_text": "Star Atlas tool"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=TTIYE1jZ0TI",
+      "anchor_text": "latest Atlas Brew"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=qITMNHDdPcc",
+      "anchor_text": "SAGE Labs gameplay"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=bWBW8xH244M",
+      "anchor_text": "walkthrough of SAGE Labs gameplay"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=IO1Z5aDWAM8",
+      "anchor_text": "Star Atlas resources"
+    }
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Verify which outbound links are primary sources and preserve creator attribution during promotion."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-78&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 6790,
+    "elapsed_ms": 1457,
+    "attempts": [
+      {
+        "endpoint": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-78&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "http_status": 200,
+        "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-78&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "content_type": "application/json; charset=UTF-8",
+        "response_size": 6790,
+        "elapsed_ms": 1457
+      }
+    ]
+  },
+  "source_lineage": {
+    "publication": "Intergalactic Herald",
+    "publication_role": "CURATED_SUMMARY",
+    "relationship": "CURATED_SUMMARY_OF",
+    "primary_sources": [
+      {
+        "publication": "past week of Star Atlas updates",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=hAsUQd-iAWI",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: past week of Star Atlas updates"
+      },
+      {
+        "publication": "possible tactics",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=Dpn04MWGsME",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: possible tactics"
+      },
+      {
+        "publication": "mining and crafting in Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=J23pF1NXJgc",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: mining and crafting in Star Atlas"
+      },
+      {
+        "publication": "Star Atlas livestream",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=BkWglaQoJi4",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas livestream"
+      },
+      {
+        "publication": "weekly Star Atlas newsletter",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-96/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article with anchor text: weekly Star Atlas newsletter"
+      },
+      {
+        "publication": "strategies for the upcoming SAGE Labs",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=YXAOoMFn19M",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: strategies for the upcoming SAGE Labs"
+      },
+      {
+        "publication": "Star Atlas challenge",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=CLRvLqzoLEY",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas challenge"
+      },
+      {
+        "publication": "latest Atlas Brew",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=ftRnnJ2TwuA",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest Atlas Brew"
+      },
+      {
+        "publication": "Star Atlas tool",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=gp2Z6GhIZo0",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas tool"
+      },
+      {
+        "publication": "latest Atlas Brew",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=TTIYE1jZ0TI",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest Atlas Brew"
+      },
+      {
+        "publication": "SAGE Labs gameplay",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=qITMNHDdPcc",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: SAGE Labs gameplay"
+      },
+      {
+        "publication": "walkthrough of SAGE Labs gameplay",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=bWBW8xH244M",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: walkthrough of SAGE Labs gameplay"
+      },
+      {
+        "publication": "Star Atlas resources",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=IO1Z5aDWAM8",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas resources"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "publication": "Intergalactic Gear",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticgear.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Intergalactic Coalition",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticcoalition.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      }
+    ],
+    "original_creators": [
+      "Aephia",
+      "Star Atlas"
+    ],
+    "attribution_chain": [
+      {
+        "from": "past week of Star Atlas updates",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=hAsUQd-iAWI"
+      },
+      {
+        "from": "possible tactics",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=Dpn04MWGsME"
+      },
+      {
+        "from": "mining and crafting in Star Atlas",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=J23pF1NXJgc"
+      },
+      {
+        "from": "Star Atlas livestream",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=BkWglaQoJi4"
+      },
+      {
+        "from": "weekly Star Atlas newsletter",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-96/"
+      },
+      {
+        "from": "strategies for the upcoming SAGE Labs",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=YXAOoMFn19M"
+      },
+      {
+        "from": "Star Atlas challenge",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=CLRvLqzoLEY"
+      },
+      {
+        "from": "latest Atlas Brew",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=ftRnnJ2TwuA"
+      },
+      {
+        "from": "Star Atlas tool",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=gp2Z6GhIZo0"
+      },
+      {
+        "from": "latest Atlas Brew",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=TTIYE1jZ0TI"
+      },
+      {
+        "from": "SAGE Labs gameplay",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=qITMNHDdPcc"
+      },
+      {
+        "from": "walkthrough of SAGE Labs gameplay",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=bWBW8xH244M"
+      },
+      {
+        "from": "Star Atlas resources",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=IO1Z5aDWAM8"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  }
+}

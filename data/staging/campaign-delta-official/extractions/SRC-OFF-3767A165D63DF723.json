@@ -1,0 +1,77 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-3767A165D63DF723",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47210130041875-What-ships-can-I-fly-in-the-Star-Atlas-UE5-Game",
+    "title": "What ships can I fly in the Star Atlas UE5 Game?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-08T20:25:24Z",
+    "updated_at": "2025-12-09T16:46:23Z",
+    "original_date_text": "2025-12-08T20:25:24Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “What ships can I fly in the Star Atlas UE5 Game?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "In the current version of the Star Atlas UE5 game, all ships available in the Star Atlas ecosystem can be flown, and most are fully equipped for combat in various game modes\nWhile not all ships are optimized for racing, every flyable ship can be summoned, piloted, and put to the test across multiple gameplay experiences including multiplayer, mining, and dogfighting.\nShip System Updates\nEach ship now includes:\nFunctional HUDs with updated systems\nCombat-ready weaponry for PvP and PvE scenarios\nNew handling, flight tuning, and animations\nSummoning and docking support at terminals\nFeatured Flyable Ships\nHere are seven standout ships that have received full UE5 implementation:\nPearce X4 – A nimble, entry-level fighter built by Pearce Industries\nOpal Jet – A sleek, faction-favorite racing ship from Opal\nFimbul Lowbie – A medium-zone transport with distinctive flair\nFimbul Airbike – The most affordable racer in Star Atlas\nPearce X6 – The standard patrol ship of the Council of Peace\nFimbul ECOS Unibomba – A compact but deadly bomber for the ECOS\nFloyd Liner – A unique, non-purchasable showpiece available for all players",
+  "content_hash": "032a8c70f6ab1e13343e157c4c3dc26d1ae1d4d599ae01a0f15d2e92fa581d48",
+  "entities": [
+    "ATLAS"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-3767A165D63DF723-01",
+      "text": "In the current version of the Star Atlas UE5 game, all ships available in the Star Atlas ecosystem can be flown, and most are fully equipped for combat in various game modes While not all ships are optimized for racing, every flyable ship can be summoned, piloted, and put to the test across multiple gameplay experiences including multiplayer, mining, and dogfighting.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-3767A165D63DF723",
+      "publication_date": "2025-12-08T20:25:24Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47210130041875-What-ships-can-I-fly-in-the-Star-Atlas-UE5-Game",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.132845Z"
+  }
+}

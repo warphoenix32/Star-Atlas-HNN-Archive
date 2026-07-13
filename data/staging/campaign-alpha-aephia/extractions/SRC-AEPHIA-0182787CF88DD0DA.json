@@ -1,0 +1,57 @@
+{
+  "source": {
+    "source_id": "SRC-AEPHIA-0182787CF88DD0DA",
+    "url_id": "URL-0182787CF88DD0DA",
+    "url": "https://aephia.com/star-atlas/sly-assistant-tutorials-standalone-dashboards/",
+    "inventory_url": "https://aephia.com/star-atlas/sly-assistant-tutorials-standalone-dashboards",
+    "title": "SLY Assistant Tutorials: Standalone & Dashboards",
+    "author": "Aephia",
+    "publisher": "Aephia",
+    "published_at": "2025-07-20T13:15:51",
+    "updated_at": "2025-07-20T13:15:52",
+    "retrieved_at": "2026-07-12T21:40:00.892737Z",
+    "document_type": "GUIDE",
+    "source_role": "COMMUNITY_INSTITUTION"
+  },
+  "summary": {
+    "neutral_abstract": "For the third day of our 4th anniversary celebrations, and the second day of us giving back to the Star Atlas community, we have two new wonderful SLY Assistant tutorial videos for you! The automation game has become more interesting over the past year, with alternatives to the SLY Assistent, such as ATOM, becoming available. However, at this moment, the assistant is still the most used automation tool, and as such, we wanted to help introduce you to two of the latest innovations there: For those unaware, the SLY Assistant is essentially a script that one can insert into the TamperMonkey browser extension to automate many details of your SAGE Starbased gameplay. Over the years, it has…",
+    "historical_value": "Contemporary Aephia coverage preserved as a community-institution source.",
+    "current_validity_warning": "Operational, economic, governance, and roadmap statements may be historical and require reconciliation with later primary sources."
+  },
+  "article_text": "For the third day of our 4th anniversary celebrations, and the second day of us giving back to the Star Atlas community, we have two new wonderful SLY Assistant tutorial videos for you!\nThe automation game has become more interesting over the past year, with alternatives to the SLY Assistent, such as ATOM, becoming available. However, at this moment, the assistant is still the most used automation tool, and as such, we wanted to help introduce you to two of the latest innovations there:\nThe Standalone SLY Assistant\nThe SLY Assistant Dashboards\nSLY Assistant\nFor those unaware, the SLY Assistant is essentially a script that one can insert into the TamperMonkey browser extension to automate many details of your SAGE Starbased gameplay. Over the years, it has evolved, not only maintaining parity with new features released by the Star Atlas team but also improving on the automation features it offers.\nLast year, we shared the video below, which is 1 hour long, on how to automate your SAGE setup using the SLY Assistant. A few things have evolved meanwhile, but it still functions very well as an introduction to setting it up:\nOur SLY Assistant tutorial from last year\nStandalone\nThis year, we will delve slightly deeper into the technical aspects of installing the stand-alone version of the SLY assistant.\nIn this video, which runs slightly over 30 minutes, Viktor first explains the differences between the browser and the standalone version and then walks you through everything you need to do to install the newer version of the assistant. This version no longer runs in your browser but instead operates as a separate application on your computer.\nTutorial #1: Setting up the SLY Assistant standalone version\nDashboards\nAs you know, over at Aephia, we love our analytics. Viktor didn’t hesitate one moment when he learned about the new SLY Assistent Dashboards. It is the perfect way to get insights into your (automated) performance, allowing you to learn your weaknesses and optimize your production!\nHe recorded a 45-minute explainer about the different dashboards and how to use them. Then you can follow the setup process step by step, so you too can unlock these insights on your computer.\nTutorial #2: Setting up the SLY Assistant Dashboards",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [],
+  "external_sources": [
+    "https://www.youtube.com/embed/DdUlvQvwkns?feature=oembed\"",
+    "https://www.youtube.com/embed/QJjOuAPSw_Y?feature=oembed\"",
+    "https://www.youtube.com/embed/c8SiBoeVsko?feature=oembed\""
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Article was modified after publication; review temporal claims against later evidence."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://aephia.com/wp-json/wp/v2/posts?slug=sly-assistant-tutorials-standalone-dashboards&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 5686,
+    "elapsed_ms": 1479
+  }
+}

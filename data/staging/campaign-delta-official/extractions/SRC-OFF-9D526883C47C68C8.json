@@ -1,0 +1,107 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-9D526883C47C68C8",
+    "url": "https://build.staratlas.com/dev-resources/program-security",
+    "title": "Star Atlas Build",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Build / ATMTA",
+    "published_at": null,
+    "updated_at": "2026-04-16T16:32:35.000Z",
+    "original_date_text": "2026-04-16T16:32:35.000Z",
+    "document_type": "TECHNICAL_DOCUMENTATION",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Build / ATMTA",
+    "publication_role": "TECHNICAL_DOCUMENTATION",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Star Atlas Build / ATMTA"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official technical documentation titled “Star Atlas Build.” This record preserves what Star Atlas Build / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Program Security | Star Atlas Build\nSkip to contentStar Atlas BuildSearchK\nAppearance\nMenuReturn to top\nProgram Security ​\nPrior to release, all of Star Atlas' programs are internally reviewed by ATMTA and fully audited by third parties.",
+  "content_hash": "a19ee91871287e776057fb04416d9b2263138c5e7f67c4ca6bf15a58331b58dd",
+  "entities": [
+    "ATLAS",
+    "ATMTA"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-9D526883C47C68C8-01",
+      "text": "Program Security | Star Atlas Build Skip to contentStar Atlas BuildSearchK Appearance MenuReturn to top Program Security ​ Prior to release, all of Star Atlas' programs are internally reviewed by ATMTA and fully audited by third parties.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-9D526883C47C68C8",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [
+    "ATMTA"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://build.staratlas.com/dev-resources/program-security",
+      "anchor_text": "Skip to content"
+    },
+    {
+      "url": "https://build.staratlas.com/",
+      "anchor_text": "Star Atlas Build"
+    },
+    {
+      "url": "https://discord.com/invite/staratlas",
+      "anchor_text": ""
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://build.staratlas.com/dev-resources/program-security",
+      "anchor_text": "Skip to content"
+    },
+    {
+      "url": "https://build.staratlas.com/",
+      "anchor_text": "Star Atlas Build"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://build.staratlas.com/dev-resources/program-security",
+    "final_url": "https://build.staratlas.com/dev-resources/program-security",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 31739,
+    "retrieved_at": "2026-07-13T01:04:30.238740Z",
+    "elapsed_ms": 127
+  }
+}

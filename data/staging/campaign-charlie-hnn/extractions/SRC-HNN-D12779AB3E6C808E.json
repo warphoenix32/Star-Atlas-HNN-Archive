@@ -1,0 +1,257 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-D12779AB3E6C808E",
+    "url_id": "URL-D12779AB3E6C808E",
+    "url": "https://medium.com/@krigsfoniks/6-star-atlas-news-headlines-you-missed-this-week-711d57ca7ddf",
+    "title": "6 Star Atlas News Headlines You Missed This Week",
+    "author": "Krigs",
+    "publisher": "Medium",
+    "publication_identity": "Kr1gs Medium publication",
+    "published_at": "2023-04-18T04:59:23Z",
+    "updated_at": "2023-04-21T15:35:51Z",
+    "retrieved_at": "2026-07-13T00:09:58.527297Z",
+    "document_type": "ORIGINAL_REPORTING",
+    "source_role": "ORIGINAL_REPORTING",
+    "publication_role": "ORIGINAL_REPORTING",
+    "classification_rationale": "Publication reports a development without explicit interview, editorial, investigative, event, or reference framing."
+  },
+  "source_lineage": {
+    "publication": "Kr1gs Medium publication",
+    "publication_role": "ORIGINAL_REPORTING",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [
+      {
+        "publication": "Podcast",
+        "author": "UNKNOWN",
+        "url": "https://open.spotify.com/show/2mxndrDW6yPfpS350ijzjt?si=ec7c717f998240d6",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "YouTube",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/channel/UCDa-YxgNG6A9xpH1qyP0OaQ",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [
+      "Krigs"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Podcast",
+        "to": "Kr1gs Medium publication",
+        "relationship": "REPORTS_ON",
+        "url": "https://open.spotify.com/show/2mxndrDW6yPfpS350ijzjt?si=ec7c717f998240d6"
+      },
+      {
+        "from": "YouTube",
+        "to": "Kr1gs Medium publication",
+        "relationship": "REPORTS_ON",
+        "url": "https://www.youtube.com/channel/UCDa-YxgNG6A9xpH1qyP0OaQ"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "This original reporting published by Medium on 2023-04-18 documents “6 Star Atlas News Headlines You Missed This Week.” Its surviving text addresses governance, economy, guilds and DACs, game development, community, lore, technology. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "6 Star Atlas News Headlines You Missed This Week\nKrigs4 min read·Apr 18, 2023\n--\n1\nListen\nShare\nAfter several weeks of little to report, we finally have a plethora of new Star Atlas information to deliver. This week, we’ve got SAGE updates, Faction Claim staking analysis, and much more.\nStar Atlas Chief Revenue Officer Departs\nWe start this week’s top stories with official confirmation that Star Atlas Co-Founder Pablo Quiroga, is no longer the Chief Revenue Officer of Automata. Mr. Quiroga’s tenure as CRO ended March 31st.\nHere’s what CEO Michael Wagner had to say in his official announcement.\n“I can confirm he is no longer with the company, which was effective as of March 31. I would like to keep the reasons for his departure private and wish him all the best going forward. The transition after he left was straightforward and natural: I have been taking a more direct role in leading our revenue department, which includes marketing and growth strategies. There haven’t been any interruptions in our day-to-day operations, and I am focused on empowering a culture of excellence and creativity in the department and beyond. I maintain total confidence in the path ahead for Star Atlas, and I am genuinely excited to share what we’ve been working on with you all.”\nStar Atlas Launches Mining Claim Stakes\nOn Wednesday the second blockchain app for Star Atlas was officially launched. Faction Claims is the newest program in Star Atlas where players can take their Mining Claim Stakes and enlist them in the program. In return, players are rewarded with the resources needed to supply their ships in Faction Fleet. The addition of Faction Claims adds a minor economic loop within Star Atlas and gives utility to Claim Stake SFTs prior to their official incorporation into SAGE V1 down the road.\nLet’s take a quick look at what Claim Stakes in Faction Claims provides players today.\nPress enter or click to view image in full size\nAs you can see from this infographic, Claim Stakes emit a number of resources per day. Within the first 48 hours of launch, players generated over 2 million units of resources, according to data provided by Star Dust Economy. The launch of Faction Claims also saw the higher registrations of new player wallets when compared to the launches of the ATLAS and POLIS lockers.\nStar Atlas Puts Full Weight on DAC/DAO Management\nAccording to the Faction Claim product manager and Star Atlas developer Xcode, now that the product team has completed its work on Faction Claims, they can now focus on DAC tools and player profile development. This specific future product release from Star Atlas will allow guilds and player run organizations, for the first time ever, officially register members and manage organizational treasuries in game, furthering the robustness of the player ecosystem.\nSage Update\nAfter some alpha leaks during Friday’s Star Atlas Web 3 twitter space, it was hinted that the launch of the Star Atlas movement test is near. Developer Xcode stated that the internal scavenger hunt play-test was complete and that the public release of the module was days to weeks away. Furthermore, according to Star Atlas community managers, the SAGE movement test will be followed with a series of additional product releases. Community managers Santi and Dom are likely referring to the next SAGE update which includes mining and crafting.\nStar Atlas Dao\nOn Friday, Star Atlas released its seventeenth edition of the Atlas Star, a periodical that provides lore and gameplay updates to the community. It’s been some time since we’ve heard of updates to the Star Atlas DAO, however this edition of the Atlas Star revealed that the company has reached an authentication solution for the DAO proposal discussions titled Starboard. While details are scarce, it appears that participants in DAO proposals and discussions must verify their wallet address with the program. How player identity and polis voting power play a role in this process is yet to be determined.\nCORE\nThe 6th episode of Star Atlas’s graphic novel series CORE will release on April 19th, and will conclude the first arc of the 18-part series. CORE will go on hiatus until July, where it’s rumored that the seventh edition of CORE will be launched in conjunction with a surprise Star Atlas event. Hinted by Head of Star Matt Medney, CORE and Star Atlas may make a surprise appearance at this year’s San Diego Comic Con\nCORE is a 18-part NFT graphic novel stories that covers the events prior to Star Atlas. You can purchase the Star Atlas CORE NFT series to participate in a treasure hunt where the grand prize winner will win the opportunity to meet the author of CORE, Tim McBurnie.\nCollectors of the entire series can also trade an entire collection of all 18 NFTs for a hard cover copy of the graphic novel.\nPress enter or click to view image in full size\nAbout the Author\nKrigs\nis a pioneer in the world of Star Atlas, having founded The Hologram News Network — an independent meta-news organization that keeps players up to date on all developments regarding Star Atlas. An ardent supporter of emerging technologies, Krigs has been covering this game for over a year and believes passionately in their power to revolutionize our collective gaming experience.\nFollow on Social Media:\nPodcast | YouTube | Twitter | Instagram | Web",
+  "content_hash": "2682a7e12b40951e729db27827ce7b4b6730156cdc01af47efcefc8c00d8b031",
+  "major_topics": [
+    "governance",
+    "economy",
+    "guilds and DACs",
+    "game development",
+    "community",
+    "lore",
+    "technology"
+  ],
+  "entities": [
+    "ATLAS",
+    "Krigs",
+    "Michael Wagner",
+    "POLIS",
+    "Pablo Quiroga",
+    "SAGE",
+    "Santi",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-D12779AB3E6C808E-01",
+      "text": "I maintain total confidence in the path ahead for Star Atlas, and I am genuinely excited to share what we’ve been working on with you all.” Star Atlas Launches Mining Claim Stakes On Wednesday the second blockchain app for Star Atlas was officially launched.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-D12779AB3E6C808E",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-D12779AB3E6C808E-02",
+      "text": "This specific future product release from Star Atlas will allow guilds and player run organizations, for the first time ever, officially register members and manage organizational treasuries in game, furthering the robustness of the player ecosystem.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-D12779AB3E6C808E",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-D12779AB3E6C808E-03",
+      "text": "Furthermore, according to Star Atlas community managers, the SAGE movement test will be followed with a series of additional product releases.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-D12779AB3E6C808E",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-D12779AB3E6C808E-04",
+      "text": "Star Atlas Dao On Friday, Star Atlas released its seventeenth edition of the Atlas Star, a periodical that provides lore and gameplay updates to the community.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-D12779AB3E6C808E",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-D12779AB3E6C808E-05",
+      "text": "CORE The 6th episode of Star Atlas’s graphic novel series CORE will release on April 19th, and will conclude the first arc of the 18-part series.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-D12779AB3E6C808E",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-D12779AB3E6C808E-06",
+      "text": "CORE will go on hiatus until July, where it’s rumored that the seventh edition of CORE will be launched in conjunction with a surprise Star Atlas event.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-D12779AB3E6C808E",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-D12779AB3E6C808E-07",
+      "text": "You can purchase the Star Atlas CORE NFT series to participate in a treasure hunt where the grand prize winner will win the opportunity to meet the author of CORE, Tim McBurnie.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-D12779AB3E6C808E",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "SAGE",
+    "Star Atlas",
+    "POLIS",
+    "ATLAS"
+  ],
+  "governance_items": [
+    "Star Atlas governance / DAO"
+  ],
+  "lore_items": [
+    "ONI"
+  ],
+  "actors": [
+    "Michael Wagner",
+    "Krigs",
+    "Pablo Quiroga",
+    "Santi"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://medium.com/@krigsfoniks?source=---byline--711d57ca7ddf---------------------------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fblockchain-biz%2F711d57ca7ddf&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fblockchain-biz%2F6-star-atlas-news-headlines-you-missed-this-week-711d57ca7ddf&user=Krigs&userId=41e0c5b141f1&source=---header_actions--711d57ca7ddf---------------------clap_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Frepost%2Fp%2F711d57ca7ddf&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fblockchain-biz%2F6-star-atlas-news-headlines-you-missed-this-week-711d57ca7ddf&user=Krigs&userId=41e0c5b141f1&source=---header_actions--711d57ca7ddf---------------------repost_header------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F711d57ca7ddf&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fblockchain-biz%2F6-star-atlas-news-headlines-you-missed-this-week-711d57ca7ddf&source=---header_actions--711d57ca7ddf---------------------bookmark_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2Fplans%3Fdimension%3Dpost_audio_button%26postId%3D711d57ca7ddf&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fblockchain-biz%2F6-star-atlas-news-headlines-you-missed-this-week-711d57ca7ddf&source=---header_actions--711d57ca7ddf---------------------post_audio_button------------------",
+      "anchor_text": "Listen"
+    },
+    {
+      "url": "https://medium.com/u/5ed69ff9cfb0?source=---user_mention--711d57ca7ddf---------------------------------------",
+      "anchor_text": "Star Atlas"
+    },
+    {
+      "url": "https://medium.com/the-hologram/atmta-employees-speak-on-quiroga-departure-fd8197c23ca1",
+      "anchor_text": "ended March 31st"
+    },
+    {
+      "url": "https://medium.com/u/a8563bab7fea?source=---user_mention--711d57ca7ddf---------------------------------------",
+      "anchor_text": "Star Dust Economy"
+    },
+    {
+      "url": "https://medium.com/star-atlas/the-atlas-star-issue-17-4566033521a9",
+      "anchor_text": "Atlas Star"
+    },
+    {
+      "url": "https://medium.com/u/41e0c5b141f1",
+      "anchor_text": "Krigs"
+    },
+    {
+      "url": "https://open.spotify.com/show/2mxndrDW6yPfpS350ijzjt?si=ec7c717f998240d6",
+      "anchor_text": "Podcast"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCDa-YxgNG6A9xpH1qyP0OaQ",
+      "anchor_text": "YouTube"
+    },
+    {
+      "url": "https://twitter.com/home",
+      "anchor_text": "Twitter"
+    },
+    {
+      "url": "https://thehologram.io/",
+      "anchor_text": "Web"
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "https://medium.com/@krigsfoniks/6-star-atlas-news-headlines-you-missed-this-week-711d57ca7ddf",
+    "final_url": "https://medium.com/blockchain-biz/6-star-atlas-news-headlines-you-missed-this-week-711d57ca7ddf",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 274152,
+    "elapsed_ms": 959,
+    "retrieval_mode": "LIVE",
+    "archive_capture": null
+  }
+}

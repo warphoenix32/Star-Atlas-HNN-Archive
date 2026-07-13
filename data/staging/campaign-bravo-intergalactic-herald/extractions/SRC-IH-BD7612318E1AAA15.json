@@ -1,0 +1,318 @@
+{
+  "source": {
+    "source_id": "SRC-IH-BD7612318E1AAA15",
+    "url_id": "URL-BD7612318E1AAA15",
+    "url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-165/",
+    "inventory_url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-165",
+    "title": "Star Atlas Weekly Newsletter #165",
+    "author": "Intergalactic Herald",
+    "publisher": "Intergalactic Herald",
+    "published_at": "2025-05-18T17:00:00",
+    "updated_at": "2025-05-16T21:30:46",
+    "retrieved_at": "2026-07-12T22:07:28.692677Z",
+    "document_type": "NEWSLETTER",
+    "source_role": "CURATED_SUMMARY",
+    "source_classification": "CURATED_SUMMARY",
+    "classification_rationale": "Weekly newsletter/recap aggregates developments and linked sources.",
+    "wordpress_type": "posts"
+  },
+  "summary": {
+    "neutral_abstract": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week. We are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us. We are launching a Star Atlas merch store. Please check it out at Intergalactic",
+    "historical_value": "Contemporary Intergalactic Herald publication preserved with role and attribution boundaries.",
+    "current_validity_warning": "Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources."
+  },
+  "article_text": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week.\nWe are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us.\nWe are launching a Star Atlas merch store. Please check it out at Intergalactic Gear.\nWe are creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic Coalition.\nIf you would like to support our efforts, donations can be sent to intergalacticherald.sol\nMetaverse Nomads (Revival?)\nMetaverse Nomads posted a video of Star Atlas updates.\nStar Atlas: Recap 5-11-25\nBeyond the Horizon posted a video recapping updates in Star Atlas.\nSTAR ATLAS #272 New Patch Update- MASSIVE FOOD CHANGES!\nMetaVerse Explorer posted a video of Star Atlas updates.\nWeekly Star Atlas Newsletter #179\nAephia published their latest Star Atlas newsletter.\nStar Atlas May 2025 Patch — Dedicated Servers, Pearce X5, and Paizul’s Arena Gets a Level Up\nStar Atlas published an article about their May 2025 patch.\nThey Hunted Me in STAR ATLAS\nAtlas Theory posted a video of Star Atlas gameplay.\nAtlas Brew #159\nStar Atlas TV posted a video recording of the latest Atlas Brew.\nStar Atlas – May Patch Rundown\nStar Atlas posted a video of a rundown of their May patch.\nStar Atlas: UE5 New Shotgun Patch [4k]\nBeyond the Horizon posted a video of the shotgun in the UE5 Star Atlas game.\nLatest podcast\nPodcast 176: Star Atlas Weekly Reviewby MattJuly 5, 2026In this episode, I recap the latest news of Star Atlas from the past week. Listen on Apple Podcasts Listen on Spotify I am looking for guests to be on the podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in… Read more: Podcast 176: Star Atlas Weekly Review",
+  "content_hash": "6b2f01ae9aa3176128d2ff322f79addbe517627335aa6f16ff86b6b60315ebf1",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [
+    "2025"
+  ],
+  "external_sources": [
+    {
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "url": "https://www.youtube.com/live/c_A5U2I8yc0",
+      "anchor_text": "Star Atlas updates"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=7Wg7OakDTNM",
+      "anchor_text": "updates in Star Atlas"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=JHYA-gZl4PQ",
+      "anchor_text": "Star Atlas updates"
+    },
+    {
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-179/",
+      "anchor_text": "Star Atlas newsletter"
+    },
+    {
+      "url": "https://medium.com/star-atlas/star-atlas-may-2025-patch-dedicated-servers-pearce-x5-and-paizuls-arena-gets-a-level-up-394dd63a996d",
+      "anchor_text": "May 2025 patch"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=1jsEzfCvbLY",
+      "anchor_text": "Star Atlas gameplay"
+    },
+    {
+      "url": "https://www.youtube.com/live/xq-yHrG4Jd4",
+      "anchor_text": "Atlas Brew"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=rmihJPv_3ck",
+      "anchor_text": "rundown of their May patch"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ug0-cq7nlhc",
+      "anchor_text": "shotgun in the UE5 Star Atlas game"
+    }
+  ],
+  "primary_source_relationships": [
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/live/c_A5U2I8yc0",
+      "anchor_text": "Star Atlas updates"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=7Wg7OakDTNM",
+      "anchor_text": "updates in Star Atlas"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=JHYA-gZl4PQ",
+      "anchor_text": "Star Atlas updates"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-179/",
+      "anchor_text": "Star Atlas newsletter"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://medium.com/star-atlas/star-atlas-may-2025-patch-dedicated-servers-pearce-x5-and-paizuls-arena-gets-a-level-up-394dd63a996d",
+      "anchor_text": "May 2025 patch"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=1jsEzfCvbLY",
+      "anchor_text": "Star Atlas gameplay"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/live/xq-yHrG4Jd4",
+      "anchor_text": "Atlas Brew"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=rmihJPv_3ck",
+      "anchor_text": "rundown of their May patch"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=ug0-cq7nlhc",
+      "anchor_text": "shotgun in the UE5 Star Atlas game"
+    }
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Verify which outbound links are primary sources and preserve creator attribution during promotion."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-newsletter-165&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 7745,
+    "elapsed_ms": 1493,
+    "attempts": [
+      {
+        "endpoint": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-newsletter-165&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "http_status": 200,
+        "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-newsletter-165&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "content_type": "application/json; charset=UTF-8",
+        "response_size": 7745,
+        "elapsed_ms": 1493
+      }
+    ]
+  },
+  "source_lineage": {
+    "publication": "Intergalactic Herald",
+    "publication_role": "CURATED_SUMMARY",
+    "relationship": "CURATED_SUMMARY_OF",
+    "primary_sources": [
+      {
+        "publication": "Star Atlas updates",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/live/c_A5U2I8yc0",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas updates"
+      },
+      {
+        "publication": "updates in Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=7Wg7OakDTNM",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: updates in Star Atlas"
+      },
+      {
+        "publication": "Star Atlas updates",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=JHYA-gZl4PQ",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas updates"
+      },
+      {
+        "publication": "Star Atlas newsletter",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-179/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas newsletter"
+      },
+      {
+        "publication": "May 2025 patch",
+        "author": "UNKNOWN",
+        "url": "https://medium.com/star-atlas/star-atlas-may-2025-patch-dedicated-servers-pearce-x5-and-paizuls-arena-gets-a-level-up-394dd63a996d",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: May 2025 patch"
+      },
+      {
+        "publication": "Star Atlas gameplay",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=1jsEzfCvbLY",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas gameplay"
+      },
+      {
+        "publication": "Atlas Brew",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/live/xq-yHrG4Jd4",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: Atlas Brew"
+      },
+      {
+        "publication": "rundown of their May patch",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=rmihJPv_3ck",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: rundown of their May patch"
+      },
+      {
+        "publication": "shotgun in the UE5 Star Atlas game",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=ug0-cq7nlhc",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: shotgun in the UE5 Star Atlas game"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "publication": "Intergalactic Gear",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticgear.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Intergalactic Coalition",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticcoalition.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      }
+    ],
+    "original_creators": [
+      "Aephia",
+      "Star Atlas"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Star Atlas updates",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/live/c_A5U2I8yc0"
+      },
+      {
+        "from": "updates in Star Atlas",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=7Wg7OakDTNM"
+      },
+      {
+        "from": "Star Atlas updates",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=JHYA-gZl4PQ"
+      },
+      {
+        "from": "Star Atlas newsletter",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-179/"
+      },
+      {
+        "from": "May 2025 patch",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://medium.com/star-atlas/star-atlas-may-2025-patch-dedicated-servers-pearce-x5-and-paizuls-arena-gets-a-level-up-394dd63a996d"
+      },
+      {
+        "from": "Star Atlas gameplay",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=1jsEzfCvbLY"
+      },
+      {
+        "from": "Atlas Brew",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/live/xq-yHrG4Jd4"
+      },
+      {
+        "from": "rundown of their May patch",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=rmihJPv_3ck"
+      },
+      {
+        "from": "shotgun in the UE5 Star Atlas game",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=ug0-cq7nlhc"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  }
+}

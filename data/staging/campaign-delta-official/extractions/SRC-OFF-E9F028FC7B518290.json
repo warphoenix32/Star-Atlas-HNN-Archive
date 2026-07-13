@@ -1,0 +1,290 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-E9F028FC7B518290",
+    "url": "https://build.staratlas.com/dev-resources/apis-and-data/player-profile",
+    "title": "Star Atlas Build",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Build / ATMTA",
+    "published_at": null,
+    "updated_at": "2026-04-16T16:32:35.000Z",
+    "original_date_text": "2026-04-16T16:32:35.000Z",
+    "document_type": "TECHNICAL_DOCUMENTATION",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Build / ATMTA",
+    "publication_role": "TECHNICAL_DOCUMENTATION",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://www.npmjs.com/package/@staratlas/player-profile",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://staratlasmeta.github.io/player_profile/player-profile",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://file.notion.so/f/f/5e9f15d0-134d-44b3-a8c8-fc55b80d2e5b/870d7c9a-198d-4b7e-a26c-439ccf765462/player_profile.json?table=block&id=1cfc6190-86e9-80aa-acb4-c31b2b7a9ff5&spaceId=5e9f15d0-134d-44b3-a8c8-fc55b80d2e5b&expirationTimestamp=1750284000000&signature=Zxs6MyDWMI7yF05r1U7XPZG5vDI_v7QlDJqdwVJHop0&downloadName=player_profile.json",
+        "anchor_text": "player_profile.json"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Build / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official technical documentation titled “Star Atlas Build.” This record preserves what Star Atlas Build / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Player Profile | Star Atlas Build\nSkip to contentStar Atlas BuildSearchK\nAppearance\nMenuReturn to top\nPlayer Profile ​\nIntroduction ​\nWelcome to the Player Profile, brought to you by Star Atlas! This open protocol empowers developers to seamlessly create and manage decentralized profiles on the Solana blockchain. Dive into a world where game and application profiles are not bound by central control, ensuring greater trust, transparency, and user autonomy.\nThe Player Profile Program allows users to manage their identity and access keys. Users can create a list of public keys associated with their profile and set permissions for each key. Identity is no longer tied to a key and is instead tied to a profile, allowing for key rotation, complex ownership structures, and more. No CPI is required to check a key that signs on behalf of a profile.\nPackage\nDescription\nVersion\nDocs\n@staratlas/player-profile\nTypeScript bindings for the player-profile program\nInstallation ​\nReference: https://www.npmjs.com/package/@staratlas/player-profile\nbash\nnpm i @staratlas/player-profile\nExamples ​\nThis guide provides a detailed overview and step‑by‑step instructions on using the player_profile program. It covers program details, environment setup, sample scripts, instruction usage, account structures, error definitions, key constants, and PDA derivations.\n──────────────────────────────\n1. Program Details ​\nProgram Name:\nplayer_profile\nVersion:\n0.7.3\nProgram Address: • pprofELXjL5Kck7Jn5hCpwAL82DpTkSYBENzahVtbc9\nDescription:\nThe player_profile program manages a complex on‑chain identity system. It decouples identity from signing keys by using a profile that stores multiple keys with associated permissions. Typical use cases include key rotation, assigning different roles to players, and enforcing multi‑signature authority over profile changes. The program further supports role creation and membership management, making it ideal for decentralized applications (DApps) where flexible identity management is required.\nIDL Reference:\nFor a complete specification, please see the attached IDL file:\nplayer_profile.json\n──────────────────────────────\n2. Environment Setup & Loading the Program ​\nRequired Dependencies ​\nAnchor CLI: Version ≥ 0.24 (or as specified in your workspace)\nSolana CLI: Latest stable version recommended\nSample TypeScript Code for Setup ​\nBelow is a sample TypeScript snippet that imports the required dependencies, sets up the Anchor provider, and loads the program:\ntsx\nimport * as anchor from '@project-serum/anchor';\nimport { Program, Provider, web3 } from '@project-serum/anchor';\nimport { player_profile, IDL } from './player_profile'; // Adjust the path to your generated IDL\n// Set the provider. Ensure that your environment's Solana config is properly configured.\nconst provider = Provider.env();\nanchor.setProvider(provider);\n// Load the program from the workspace using the IDL and program address.\nconst programID = new web3.PublicKey(\"pprofELXjL5Kck7Jn5hCpwAL82DpTkSYBENzahVtbc9\");\nconst program = new Program<IDL>(IDL, programID, provider);\n// Now you can use `program` to call instructions and fetch on‑chain data.\n──────────────────────────────\n3. Sample Scripts/Quick Start ​\nBelow are examples showing how to fetch on‑chain data using TypeScript.\nFetch a Profile Account ​\ntsx\nasync function fetchProfile(profilePubkey: web3.PublicKey) {\n// Fetch the on‑chain account data for a profile\ntry {\nconst profileAccount = await program.account.profile.fetch(profilePubkey);\nconsole.log(\"Profile:\", profileAccount);\n} catch (e) {\nconsole.error(\"Error fetching profile account:\", e);\n}\nSet a Profile Name ​\ntsx\nasync function setProfileName(profilePubkey: web3.PublicKey, keyIndex: number, newName: string) {\n// Derive PlayerName PDA using the profile pubkey (see PDA section below)\nconst [playerNamePda, nameBump] = await web3.PublicKey.findProgramAddress(\n[Buffer.from(\"player_name\"), profilePubkey.toBuffer()],\nprogram.programId\n);\n// Call setName instruction with required accounts and parameter\nawait program.rpc.setName(new anchor.BN(keyIndex), Buffer.from(newName), {\naccounts: {\nkey: /* the signer authorized with CHANGE_NAME permission */,\nfunder: provider.wallet.publicKey,\nprofile: profilePubkey,\nname: playerNamePda,\nsystemProgram: web3.SystemProgram.programId,\n},\nsigners: [/* include additional signer(s) as required */],\n});\nconsole.log(`Set profile name to: ${newName}`);\n}\n──────────────────────────────\n4. Detailed Instruction Guide ​\nFor each instruction defined in the IDL, we briefly describe the purpose, key accounts, arguments, and provide a TypeScript invocation example.\n4.1 acceptRoleInvitation ​\nPurpose:\nEnables a new member to accept an invitation to join a role. The invitation status is switched from inactive to active.\nKey Accounts:\nnewMember (non‑mutable; not a signer unless it is a wallet)\nroleAccount (mutable; the role being joined)\nroleMembershipAccount (mutable; the membership record for the new member)\nArguments:\nkeyIndex (u16)\nkeyIndexInRoleAccount (u16)\nkeyIndexInMembershipAccount (u16)\nTypeScript Example:\ntsx\nawait program.rpc.acceptRoleInvitation(\nnew anchor.BN(keyIndex),\nnew anchor.BN(keyIndexInRoleAccount),\nnew anchor.BN(keyIndexInMembershipAccount),\n{\naccounts: {\nnewMember: newMemberPubkey,\nroleAccount: roleAccountPubkey,\nroleMembershipAccount: roleMembershipPubkey,\n},\n}\n);\n4.2 addExistingMemberToRole ​\nPurpose:\nAdds an existing member to a role via their membership account.\nKey Accounts:\nfunder (payer; mutable, signer)\nnewMember (the account of the member being added)\nprofile (the profile associated with the role)\nroleMembershipAccount (mutable membership account for the member)\nroleAccount (mutable; the role to add a member to)\nsystemProgram\nArguments:\nkeyIndex (u16)\nkeyIndexInMembershipAccount (u16)\nTypeScript Example:\ntsx\nawait program.rpc.addExistingMemberToRole(new anchor.BN(keyIndex), new anchor.BN(keyIndexInMembershipAccount), {\naccounts: {\nfunder: provider.wallet.publicKey,\nnewMember: newMemberPubkey,\nprofile: profilePubkey,\nroleMembershipAccount: roleMembershipPubkey,\nroleAccount: roleAccountPubkey,\nsystemProgram: web3.SystemProgram.programId,\n},\n});\n4.3 addKeys ​\nPurpose:\nAdds new keys (with non‑auth permissions) to a profile using a key with ADD_KEYS permission.\nKey Accounts:\nfunder (mutable; signer)\nkey (signer with ADD_KEYS permission)\nprofile (mutable; profile being updated)\nsystemProgram\n(Additional remaining accounts: new key accounts to be added)\nArguments:\nkeyAddIndex (u16)\nkeyPermissionsIndex (u16)\nkeysToAdd (Vec<AddKeyInput>)\nTypeScript Example:\ntsx\nawait program.rpc.addKeys(new anchor.BN(keyAddIndex), new anchor.BN(keyPermissionsIndex), keysToAddArray, {\naccounts: {\nfunder: provider.wallet.publicKey,\nkey: signerWithAddKeysPermission.publicKey,\nprofile: profilePubkey,\nsystemProgram: web3.SystemProgram.programId,\n},\nremainingAccounts: additionalKeyAccountMetas,\nsigners: [signerWithAddKeysPermission],\n});\nNote: The AddKeyInput structure must be constructed with fields “scope” (PublicKey), “expireTime” (i64) and “permissions” ([u8;8]).\n4.4 adjustAuth ​\nPurpose:\nAdjusts the list of authentication keys and threshold. It allows one to add new auth keys and remove existing ones while ensuring the threshold is met.\nKey Accounts:\nfunder (mutable; signer)\nprofile (mutable; profile to update)\nsystemProgram\n(Remaining accounts: auth key accounts and new auth keys)\nArguments:\nauthIndexes (Vec<u16>)\nnewKeyPermissions (Vec<AddKeyInput>)\nremoveRange ([u16; 2])\nnewKeyThreshold (u8)\nTypeScript Example:\ntsx\nawait program.rpc.adjustAuth(\nauthIndexesArray,\nnewKeyPermissionsArray,\nremoveRangeArray,\nnew anchor.BN(newKeyThreshold),\n{\naccounts: {\nfunder: provider.wallet.publicKey,\nprofile: profilePubkey,\nsystemProgram: web3.SystemProgram.programId,\n},\nremainingAccounts: authKeyAccounts, // provide remaining auth accounts\n}\n);\n4.5 createProfile ​\nPurpose:\nCreates a new player profile and initializes its key list based on the provided keys and threshold.\nKey Accounts:\nfunder (mutable; payer and signer)\nprofile (mutable; profile being created; must be a signer account)\nsystemProgram\n(Remaining accounts: key accounts used to initialize the profile)\nArguments:\nkeyPermissions (Vec<AddKeyInput>)\nkeyThreshold (u8)\nTypeScript Example:\ntsx\nawait program.rpc.createProfile(\nkeyPermissionsArray,\nnew anchor.BN(keyThreshold),\n{\naccounts: {\nfunder: provider.wallet.publicKey,\nprofile: profilePubkey, // new profile account pubkey\nsystemProgram: web3.SystemProgram.programId,\n},\nremainingAccounts: initialKeyMetas,\nsigners: [/* include profile keypair and any other required signers */],\n}\n);\n4.6 createRole ​\nPurpose:\nCreates a new role for the given profile. The role can later be used to manage group-based permissions.\nKey Accounts:\nfunder (mutable; signer)\nprofile (mutable; the account that owns the role)\nnewRoleAccount (mutable; role account to be created, derived via a PDA)\nsystemProgram\n(Remaining accounts: key with CREATE_ROLE permission)\nArguments:\nkeyIndex (u16)\nTypeScript Example:\ntsx\nawait program.rpc.createRole(new anchor.BN(keyIndex), {\naccounts: {\nfunder: provider.wallet.publicKey,\nprofile: profilePubkey,\nnewRoleAccount: rolePda, // derived PDA for the new role\nsystemProgram: web3.SystemProgram.programId,\n},\nremainingAccounts: [createRoleSignerMeta], // include any signing account if needed\nsigners: [createRoleSigner],\n});\n4.7 inviteMemberToRole ​\nPurpose:\nInvites a new member to a role by creating a new role membership record in an inactive state.\nKey Accounts:\nfunder (mutable; signer)\nnewMember (account of the user to be invited)\nprofile (non‑mutable; profile for the role)\nroleMembershipAccount (mutable; new membership record account)\nroleAccount (mutable; the role being joined)\nsystemProgram\nArguments:\nkeyIndex (u16)\nTypeScript Example:\ntsx\nawait program.rpc.inviteMemberToRole(new anchor.BN(keyIndex), {\naccounts: {\nfunder: provider.wallet.publicKey,\nnewMember: newMemberPubkey,\nprofile: profilePubkey,\nroleMembershipAccount: membershipPda, // derived PDA for role membership\nroleAccount: roleAccountPubkey,\nsystemProgram: web3.SystemProgram.programId,\n},\nsigners: [provider.wallet.payer],\n});\n4.8 joinRole ​\nPurpose:\nAllows a member to accept an invitation and join a role. This instruction creates a new role membership record and adds the member to the role.\nKey Accounts:\nfunder (mutable; signer)\nnewMember (account of the joining member)\nroleMembershipAccount (mutable; new membership record account)\nroleAccount (mutable; role account to be updated)\nsystemProgram\nArguments:\nkeyIndex (u16)\nTypeScript Example:\ntsx\nawait program.rpc.joinRole(new anchor.BN(keyIndex), {\naccounts: {\nfunder: provider.wallet.publicKey,\nnewMember: newMemberPubkey,\nroleMembershipAccount: membershipPda,\nroleAccount: roleAccountPubkey,\nsystemProgram: web3.SystemProgram.programId,\n},\nsigners: [provider.wallet.payer],\n});\n4.9 leaveRole ​\nPurpose:\nPermits a member to leave a role. The instruction removes the member from both the role account and the membership account, closing the latter if not needed.\nKey Accounts:\nfunder (mutable; receives rent benefits)\nmember (the leaving member’s account)\nroleMembershipAccount (mutable; membership record to update/close)\nroleAccount (mutable; role account from which the member is removed)\nsystemProgram\nArguments:\nkeyIndex (u16)\nkeyIndexInRoleAccount (u16)\nkeyIndexInMembershipAccount (u16)\nTypeScript Example:\ntsx\nawait program.rpc.leaveRole(\nnew anchor.BN(keyIndex),\nnew anchor.BN(keyIndexInRoleAccount),\nnew anchor.BN(keyIndexInMembershipAccount),\n{\naccounts: {\nfunder: provider.wallet.publicKey,\nmember: memberPubkey,\nroleMembershipAccount: membershipPda,\nroleAccount: roleAccountPubkey,\nsystemProgram: web3.SystemProgram.programId,\n},\nsigners: [/* member must sign if it’s a wallet */],\n}\n);\n4.10 removeKeys ​\nPurpose:\nRemoves non‑auth keys from a profile. It verifies that keys being removed are not the signer themselves and that auth keys cannot be removed using this instruction.\nKey Accounts:\nfunder (mutable; receiver of reclaimed rent)\nkey (signer with REMOVE_KEYS permission)\nprofile (mutable; profile to update)\nsystemProgram\n(No extra remaining accounts unless used for additional key checks)\nArguments:\nkeyIndex (u16)\nkeysToRemove (array [u16; 2]) – the start and end indexes of keys to be removed\nTypeScript Example:\ntsx\nawait program.rpc.removeKeys(\nnew anchor.BN(keyIndex),\n[new anchor.BN(startIndex), new anchor.BN(endIndex)],\n{\naccounts: {\nfunder: provider.wallet.publicKey,\nkey: signerWithRemoveKeys.publicKey,\nprofile: profilePubkey,\nsystemProgram: web3.SystemProgram.programId,\n},\nsigners: [signerWithRemoveKeys],\n}\n);\n4.11 removeMemberFromRole ​\nPurpose:\nRemoves a member from a role—this is initiated by an authorized key. Both the role’s membership list and the member’s role membership account are updated.\nKey Accounts:\nfunder (mutable; receives rent benefits)\nmember (the member being removed)\nprofile (non‑mutable; required for validation)\nroleMembershipAccount (mutable; membership record to update)\nroleAccount (mutable; role from which the member is removed)\nsystemProgram\nArguments:\nkeyIndex (u16)\nkeyIndexInRoleAccount (u16)\nkeyIndexInMembershipAccount (u16)\nTypeScript Example:\ntsx\nawait program.rpc.removeMemberFromRole(\nnew anchor.BN(keyIndex),\nnew anchor.BN(keyIndexInRoleAccount),\nnew anchor.BN(keyIndexInMembershipAccount),\n{\naccounts: {\nfunder: provider.wallet.publicKey,\nmember: memberPubkey,\nprofile: profilePubkey,\nroleMembershipAccount: membershipPda,\nroleAccount: roleAccountPubkey,\nsystemProgram: web3.SystemProgram.programId,\n},\n}\n);\n4.12 removeRole ​\nPurpose:\nRemoves a role from a profile. The instruction will close the role (and its name account if it exists) provided the role has no active members.\nKey Accounts:\nfunder (mutable; receives reclaimed rent)\nprofile (mutable; associated profile)\nroleAccount (mutable; role to be removed)\nroleNameAccount (mutable; optional account storing the role’s name; closed upon removal)\nArguments:\nroleNameBump (u8)\nkeyIndex (u16)\nTypeScript Example:\ntsx\nawait program.rpc.removeRole(new anchor.BN(roleNameBump), new anchor.BN(keyIndex), {\naccounts: {\nfunder: provider.wallet.publicKey,\nprofile: profilePubkey,\nroleAccount: roleAccountPubkey,\nroleNameAccount: roleNamePda, // derived using roleAccount key and bump\n},\n});\n4.13 setName ​\nPurpose:\nSets or updates the profile’s name using a designated name account. The instruction may initialize the account if needed.\nKey Accounts:\nkey (signer with CHANGE_NAME permission)\nfunder (mutable; pays for rent changes)\nprofile (non‑mutable; the profile)\nname (mutable; the name account which is either pre‑initialized or created on‑the‑fly)\nsystemProgram\nArguments:\nkeyIndex (u16)\nname (bytes – typically a UTF‑8 encoded string)\nTypeScript Example:\ntsx\nawait program.rpc.setName(new anchor.BN(keyIndex), Buffer.from(\"Hello!\"), {\naccounts: {\nkey: signerWithChangeName.publicKey,\nfunder: provider.wallet.publicKey,\nprofile: profilePubkey,\nname: playerNamePda, // derived as shown in the PDA section\nsystemProgram: web3.SystemProgram.programId,\n},\nsigners: [signerWithChangeName],\n});\n4.14 setRoleAcceptingMembers ​\nPurpose:\nFlags the role to accept new members.\nKey Accounts:\nprofile (non‑mutable)\nroleAccount (mutable; role to update)\nArguments:\nkeyIndex (u16)\nTypeScript Example:\ntsx\nawait program.rpc.setRoleAcceptingMembers(new anchor.BN(keyIndex), {\naccounts: {\nprofile: profilePubkey,\nroleAccount: roleAccountPubkey,\n},\n});\n4.15 setRoleAuthorizer ​\nPurpose:\nSets the authorizer field on a role if it has not already been set.\nKey Accounts:\nfunder (mutable; signer)\nprofile (non‑mutable)\nroleAccount (mutable; role to be updated)\nauthorizer (non‑mutable; account to be assigned as authorizer)\nArguments:\nkeyIndex (u16)\nTypeScript Example:\ntsx\nawait program.rpc.setRoleAuthorizer(new anchor.BN(keyIndex), {\naccounts: {\nfunder: provider.wallet.publicKey,\nprofile: profilePubkey,\nroleAccount: roleAccountPubkey,\nauthorizer: authorizerPubkey,\n},\nsigners: [provider.wallet.payer],\n});\n4.16 setRoleName ​\nPurpose:\nSets or updates the name of a role using a separate name account.\nKey Accounts:\nfunder (mutable; signer)\nprofile (non‑mutable; profile owning the role)\nrole (non‑mutable; the role to update name for)\nname (mutable; name account holding the role name)\nsystemProgram\nArguments:\nkeyIndex (u16)\nname (bytes – role name as UTF‑8 encoded string)\nTypeScript Example:\ntsx\nawait program.rpc.setRoleName(new anchor.BN(keyIndex), Buffer.from(\"Commander\"), {\naccounts: {\nfunder: provider.wallet.publicKey,\nprofile: profilePubkey,\nrole: roleAccountPubkey,\nname: roleNamePda, // derived PDA for role name account\nsystemProgram: web3.SystemProgram.programId,\n},\nsigners: [provider.wallet.payer],\n});\n4.17 setRoleNotAcceptingMembers ​\nPurpose:\nFlags a role so that it stops accepting new members.\nKey Accounts:\nprofile (non‑mutable)\nroleAccount (mutable; role to update)\nArguments:\nkeyIndex (u16)\nTypeScript Example:\ntsx\nawait program.rpc.setRoleNotAcceptingMembers(new anchor.BN(keyIndex), {\naccounts: {\nprofile: profilePubkey,\nroleAccount: roleAccountPubkey,\n},\n});\n──────────────────────────────\n5. Key Accounts & Structures ​\nBelow are the most important data structures along with definitions of their fields.\nProfile Account ​\nPurpose:\nStores the core profile information including version, key threshold, authentication key count, next role sequence ID, and creation timestamp.\nData Fields:\nversion: u8\n– Data version.\nauthKeyCount: u16\n– Number of authentication keys.\nkeyThreshold: u8\n– Minimum number of auth keys required for sensitive operations.\nnextSeqId: u64\n– Sequence counter for new roles.\ncreatedAt: i64\n– Unix timestamp of creation.\nPlayerName Account ​\nPurpose:\nHolds a human‑readable name for a profile or role.\nData Fields:\nversion: u8\n– Data version.\nprofile: PublicKey\n– The profile’s public key this name is associated with.\nbump: u8\n– PDA bump seed.\nPDA Derivation:\ntsx\nconst [playerNamePda, bump] = await web3.PublicKey.findProgramAddress(\n[Buffer.from(\"player_name\"), profilePubkey.toBuffer()],\nprogram.programId\n);\nProfileRoleMembership Account ​\nPurpose:\nManages a player’s membership to various roles.\nData Fields:\nversion: u8\n– Data version.\nprofile: PublicKey\n– Profile identifier.\nmember: PublicKey\n– Member’s profile public key.\nbump: u8\n– PDA bump seed.\nPDA Derivation:\nTypically derived from seeds such as\n[\"role-member\", profilePubkey, memberPubkey]\n.\nRole Account ​\nPurpose:\nRepresents a role that is associated with a profile. It maintains an unordered list of role membership entries in its remaining data.\nData Fields:\nversion: u8\n– Data version.\nprofile: PublicKey\n– The owning profile.\nauthorizer: PublicKey\n– (Optional) Authority for role modifications.\nroleSeqId: u64\n– Sequence identifier for the role.\nacceptingNewMembers: u8\n– Boolean indicator (1 = true, 0 = false).\nbump: u8\n– PDA bump seed.\nPDA Derivation Example:\ntsx\nconst [rolePda, roleBump] = await web3.PublicKey.findProgramAddress(\n[\nBuffer.from(\"profile-role\"),\nprofilePubkey.toBuffer(),\nnew anchor.BN(roleSeqId).toArrayLike(Buffer, \"le\", 8)\n],\nprogram.programId\n);\nProfileKey Structure ​\nPurpose:\nDefines an individual key entry along with its permissions, scope, and expiry information.\nData Fields:\nkey: PublicKey\n– The public key.\nscope: PublicKey\n– Defines the operational scope.\nexpireTime: i64\n– Expiration time (non‑expiring if negative).\npermissions: [u8;8]\n– Bitflag‐encoded permissions.\nRoleMembership Structure ​\nPurpose:\nStores a member’s status in a role.\nData Fields:\nkey: PublicKey\n– The key/identifier of the member.\nstatus: u8\n– Membership status (0 = Inactive, 1 = Active).\n──────────────────────────────\n6. Program Errors ​\nBelow is a complete table of error codes, names, and messages as defined in the program:\nError Code\nName\nMessage\n6000\nKeyIndexOutOfBounds\nKey index out of bounds\n6001\nProfileMismatch\nProfile did not match profile key\n6002\nKeyMismatch\nKey did not match profile key\n6003\nScopeMismatch\nScope did not match profile scope\n6004\nKeyExpired\nKey expired\n6005\nKeyMissingPermissions\nKey is missing permissions\n6006\nPermissionsMismatch\nPermissions don't match available\n6007\nAuthKeyCannotExpire\nAuth keys cannot expire\n6008\nAuthKeyMustSign\nNew auth keys must be signers\n6009\nDuplicateAuthKey\nDuplicate key when adjusting auth keys\n6010\nRoleAuthorityAlreadySet\nRole authority has already been set\n6011\nRoleNotAcceptingMembers\nRole is not accepting new members\n6012\nRoleMembershipMismatch\nRole membership is not as expected\n6013\nRoleLimitExceeded\nRole limit exceeded\n6014\nRoleHasMembers\nCannot remove role with members\n6015\nFeatureNotImplemented\nThis feature is not yet support\n──────────────────────────────\n7. Key Constants ​\nSome of the important constants include:\nMAX_MEMBERSHIPS: 256\nSignificance: Maximum members allowed per role.\nPermission Bitflags (ProfilePermissions):\nPermissions such as AUTH (1 << 0), ADD_KEYS (1 << 1), REMOVE_KEYS (1 << 2), CHANGE_NAME (1 << 3), etc.\nSignificance: These define what actions a key may perform relative to a profile or role.\n──────────────────────────────\n8. PDAs (Program Derived Addresses) ​\nMany accounts in the player_profile program are derived using PDAs. Below are sample derivations:\n8.1 Deriving PlayerName PDA ​\nSeed Values:\nLiteral: \"player_name\"\nProfile public key\nSample Code:\ntsx\nconst [playerNamePda, bump] = await web3.PublicKey.findProgramAddress(\n[Buffer.from(\"player_name\"), profilePubkey.toBuffer()],\nprogram.programId\n);\n8.2 Deriving Role PDA ​\nSeed Values:\nLiteral: \"profile-role\"\nProfile public key\nRole sequence ID (as little‑endian byte array)\nSample Code:\ntsx\nconst roleSeqId = 0; // or the current value from the profile account\nconst [rolePda, roleBump] = await web3.PublicKey.findProgramAddress(\n[\nBuffer.from(\"profile-role\"),\nprofilePubkey.toBuffer(),\nnew anchor.BN(roleSeqId).toArrayLike(Buffer, \"le\", 8)\n],\nprogram.programId\n);\n8.3 Deriving RoleMembership PDA ​\nOften derived with a combination of a discriminator (e.g., \"role-member\"), the profile key, and the member key. Refer to the program’s seed definitions for details.\n──────────────────────────────\n9. Final Remarks ​\nHelpful Hints:\n• Use the provided TypeScript snippets as a starting point for your integration.\n• Make use of the error table for debugging any on‑chain issues that arise during development.\nThis documentation should help you quickly integrate and interact with the player_profile program using its IDL and standard Anchor-based workflows. For any further clarifications, refer to the attached IDL (player_profile.json) or check additional inline comments in the program source.",
+  "content_hash": "c5e80930e6f111a4c10721dade56ed4ac982674d5f65fd8b6613d0f6b553d1f6",
+  "entities": [
+    "ATLAS",
+    "CORE",
+    "Serum",
+    "Solana"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-E9F028FC7B518290-01",
+      "text": "Player Profile | Star Atlas Build Skip to contentStar Atlas BuildSearchK Appearance MenuReturn to top Player Profile ​ Introduction ​ Welcome to the Player Profile, brought to you by Star Atlas!",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E9F028FC7B518290",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E9F028FC7B518290-02",
+      "text": "This open protocol empowers developers to seamlessly create and manage decentralized profiles on the Solana blockchain.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E9F028FC7B518290",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E9F028FC7B518290-03",
+      "text": "Dive into a world where game and application profiles are not bound by central control, ensuring greater trust, transparency, and user autonomy.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E9F028FC7B518290",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E9F028FC7B518290-04",
+      "text": "The Player Profile Program allows users to manage their identity and access keys.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E9F028FC7B518290",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E9F028FC7B518290-05",
+      "text": "Users can create a list of public keys associated with their profile and set permissions for each key.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E9F028FC7B518290",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E9F028FC7B518290-06",
+      "text": "Identity is no longer tied to a key and is instead tied to a profile, allowing for key rotation, complex ownership structures, and more.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E9F028FC7B518290",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E9F028FC7B518290-07",
+      "text": "No CPI is required to check a key that signs on behalf of a profile.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E9F028FC7B518290",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E9F028FC7B518290-08",
+      "text": "Package Description Version Docs @staratlas/player-profile TypeScript bindings for the player-profile program Installation ​ Reference: https://www.npmjs.com/package/@staratlas/player-profile bash npm i @staratlas/player-profile Examples ​ This guide provides a detailed overview and step‑by‑step instructions on using the player_profile program.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E9F028FC7B518290",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E9F028FC7B518290-09",
+      "text": "It covers program details, environment setup, sample scripts, instruction usage, account structures, error definitions, key constants, and PDA derivations.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E9F028FC7B518290",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E9F028FC7B518290-10",
+      "text": "Program Details ​ Program Name: player_profile Version: 0.7.3 Program Address: • pprofELXjL5Kck7Jn5hCpwAL82DpTkSYBENzahVtbc9 Description: The player_profile program manages a complex on‑chain identity system.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E9F028FC7B518290",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E9F028FC7B518290-11",
+      "text": "It decouples identity from signing keys by using a profile that stores multiple keys with associated permissions.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E9F028FC7B518290",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E9F028FC7B518290-12",
+      "text": "Typical use cases include key rotation, assigning different roles to players, and enforcing multi‑signature authority over profile changes.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E9F028FC7B518290",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E9F028FC7B518290-13",
+      "text": "The program further supports role creation and membership management, making it ideal for decentralized applications (DApps) where flexible identity management is required.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E9F028FC7B518290",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E9F028FC7B518290-14",
+      "text": "IDL Reference: For a complete specification, please see the attached IDL file: player_profile.json ────────────────────────────── 2.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E9F028FC7B518290",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E9F028FC7B518290-15",
+      "text": "Ensure that your environment's Solana config is properly configured.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E9F028FC7B518290",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "CORE",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [
+    "Solana",
+    "Serum"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/player-profile",
+      "anchor_text": "Skip to content"
+    },
+    {
+      "url": "https://build.staratlas.com/",
+      "anchor_text": "Star Atlas Build"
+    },
+    {
+      "url": "https://discord.com/invite/staratlas",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://www.npmjs.com/package/@staratlas/player-profile",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://staratlasmeta.github.io/player_profile/player-profile",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://file.notion.so/f/f/5e9f15d0-134d-44b3-a8c8-fc55b80d2e5b/870d7c9a-198d-4b7e-a26c-439ccf765462/player_profile.json?table=block&id=1cfc6190-86e9-80aa-acb4-c31b2b7a9ff5&spaceId=5e9f15d0-134d-44b3-a8c8-fc55b80d2e5b&expirationTimestamp=1750284000000&signature=Zxs6MyDWMI7yF05r1U7XPZG5vDI_v7QlDJqdwVJHop0&downloadName=player_profile.json",
+      "anchor_text": "player_profile.json"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/player-profile",
+      "anchor_text": "Skip to content"
+    },
+    {
+      "url": "https://build.staratlas.com/",
+      "anchor_text": "Star Atlas Build"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://build.staratlas.com/dev-resources/apis-and-data/player-profile",
+    "final_url": "https://build.staratlas.com/dev-resources/apis-and-data/player-profile",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 121487,
+    "retrieved_at": "2026-07-13T01:04:28.120600Z",
+    "elapsed_ms": 186
+  }
+}

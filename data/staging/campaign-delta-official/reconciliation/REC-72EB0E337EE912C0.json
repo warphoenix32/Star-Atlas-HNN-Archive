@@ -1,0 +1,14 @@
+{
+  "topic": "claims, dao, governance, polis, record, remain, showroom, the",
+  "official_source_ids": [
+    "SRC-OFF-50186C400EF7CC79"
+  ],
+  "community_source_ids": [
+    "SRC-HNN-71251A9C866F95E3"
+  ],
+  "relationship": "COMMUNITY_ADDS_CONTEXT",
+  "finding": "Automated topic overlap on: claims, dao, governance, polis, record, remain, showroom, the, this, time. Official authority is limited to the official wording; community context remains separately attributed.",
+  "confidence": "LOW",
+  "promotion_candidate": false,
+  "manual_review_required": true
+}

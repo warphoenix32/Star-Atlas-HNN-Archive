@@ -1,0 +1,80 @@
+# Star Atlas Build
+
+## Metadata
+
+- Source ID: `SRC-OFF-DDA966BE82FEDCA3`
+- URL: https://build.staratlas.com/dev-resources/apis-and-data/atlas-prime
+- Publication date: UNKNOWN
+- Updated date: 2026-04-16T16:32:35.000Z
+- Original date text: 2026-04-16T16:32:35.000Z
+- Author: ATMTA / Star Atlas official publisher
+- Publisher: Star Atlas Build / ATMTA
+- Document classification: `TECHNICAL_DOCUMENTATION`
+- Extraction confidence: `MEDIUM`
+
+## Official Authority Boundary
+
+This record establishes what the named official publisher publicly stated and when. It does not by itself prove execution, independent economic accuracy, historical completeness, or absence of contrary evidence.
+
+## Archival Abstract
+
+Official technical documentation titled “Star Atlas Build.” This record preserves what Star Atlas Build / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.
+
+## Products
+
+- ATLAS
+- Atlas Prime
+
+## Actors and Organizations
+
+- Solana
+
+## Governance
+
+- None identified.
+
+## Lore
+
+- None identified.
+
+## Classified Claims
+
+- Atlas Prime | Star Atlas Build Skip to contentStar Atlas BuildSearchK Appearance MenuReturn to top Atlas Prime ​ Introduction ​ Atlas Prime is a system for paying Solana network fees in ATLAS tokens instead of SOL.
+- Package Description Version Docs @staratlas/atlas-prime TypeScript bindings for the atlas-prime program Installation ​ Reference: https://www.npmjs.com/package/@staratlas/atlas-prime bash npm i @staratlas/atlas-prime Examples ​ Coming Soon...
+
+## Official Cross-References
+
+- https://build.staratlas.com/dev-resources/apis-and-data/atlas-prime
+- https://build.staratlas.com/
+
+## Temporal Validity
+
+- Status: `CURRENT_DOCUMENTATION`
+- Current validity: `CURRENT_PAGE_NOT_HISTORICAL_PROOF`
+- Warning: Official publication does not independently prove successful execution, completeness, or continued current validity.
+
+## Open Questions
+
+- Which claims are independently corroborated or later superseded?
+
+## Preserved Official Text
+
+Atlas Prime | Star Atlas Build
+Skip to contentStar Atlas BuildSearchK
+Appearance
+MenuReturn to top
+Atlas Prime ​
+Introduction ​
+Atlas Prime is a system for paying Solana network fees in ATLAS tokens instead of SOL.
+Package
+Description
+Version
+Docs
+@staratlas/atlas-prime
+TypeScript bindings for the atlas-prime program
+Installation ​
+Reference: https://www.npmjs.com/package/@staratlas/atlas-prime
+bash
+npm i @staratlas/atlas-prime
+Examples ​
+Coming Soon...

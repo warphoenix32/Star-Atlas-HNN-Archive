@@ -1,0 +1,346 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-462F0A8E4DE94462",
+    "url_id": "URL-462F0A8E4DE94462",
+    "url": "https://thehologram.io/star-atlas-townhall-32-recap-atlas-staking-and-scream-news",
+    "title": "Star Atlas Townhall 32 Recap - ATLAS Staking and SCREAM News",
+    "author": "Krigs",
+    "publisher": "Hologram News Network (HNN)",
+    "publication_identity": "Archived HNN website (thehologram.io)",
+    "published_at": "2022-08-07T01:32:26+00:00",
+    "updated_at": "2022-08-07T01:32:28+00:00",
+    "retrieved_at": "2026-07-13T00:14:03.956914Z",
+    "document_type": "INVESTIGATIVE_REPORT",
+    "source_role": "INVESTIGATIVE_REPORT",
+    "publication_role": "INVESTIGATIVE_REPORT",
+    "classification_rationale": "Publication uses investigative framing or documents an inquiry."
+  },
+  "source_lineage": {
+    "publication": "Archived HNN website (thehologram.io)",
+    "publication_role": "INVESTIGATIVE_REPORT",
+    "relationship": "INVESTIGATES",
+    "primary_sources": [
+      {
+        "publication": "Ledger",
+        "author": "UNKNOWN",
+        "url": "https://www.ledger.com/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [
+      "Krigs"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Ledger",
+        "to": "Archived HNN website (thehologram.io)",
+        "relationship": "INVESTIGATES",
+        "url": "https://www.ledger.com/"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "This investigative report published by Hologram News Network (HNN) on 2022-08-07 documents “Star Atlas Townhall 32 Recap - ATLAS Staking and SCREAM News.” Its surviving text addresses governance, economy, game development, community, lore, technology. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "Star Atlas Townhall 32 Recap – ATLAS Staking and SCREAM News\nPosted by Krigs | Aug 7, 2022 | Gameplay, Roadmap Updates\nThe thirty-second Star Atlas Town Hall was an action packed hour full of Star Atlas content updates. Friday’s Town Hall guests included CEO Michael Wagner himself, Danny Floyd, and Chip AKA Shipto. Over three-hundred Star Atlas community members were in attendance at the Star Atlas amphitheater. Friday’s announcements delivered key development updates to ATLAS staking, SCREAM, and the POLIS DAO.\nWagner addresses recent Solana exploit\nMichael Wagner opened Friday’s Star Atlas Town Hall by addressing the Solana exploit that occurred earlier in the week. Blockchain forensics point to a vulnerability in Solana wallet provider Slope’s security that potentially exposed thousands of personal seed phrases.\nWagner reassured the community by stating, “As a company it did not impact us. We do follow best practices with all of our internal security practices surrounding wallet management”.\nSome members of the Star Atlas community were affected. An total estimated $25,000 in Star Atlas assets is believed to have been stolen from numerous individuals.\nWagner concluded the segment by asking individuals to consider utilizing a cold storage wallet such as Ledger.\nWagner recaps 426 Live releases\nWagner continued the Star Atlas Town Hall with a brief summary of the recent 426Live event, including the status of the major releases from that day.\nStarPath\nThe StarPath referal program has already attracted a few hundred users to the Star Atlas ecosystem. Of the nearly 400 new referrers, roughly 37% and 39% belong to the Mud and Oni factions respectively.\nPOLIS DAO Metrics\nThe official POLIS DAO metrics shared by the Star Atlas teams confirms some of the assumptions of POLIS staking. 48% of DAO participants hold 5 year contracts. As pointed out by Metaverse Explorer, 39% hold contracts with the DAO for less than a year. Only 11% of participants hold either 2 or 3 years contracts. 4 year contracts are nearly negligible.\nThis table represents only community participation, Automata’s positions are excluded.\nMarketplace and Atlas Staking\nArguably the biggest reveal of the recent Star Atlas Town Hall was the sneak peak at the ATLAS locker. The ATLAS locker will be a staking system that rewards participants with reduced seller transaction fees in the Star Atlas marketplace. Transaction fees will be split-paid to Automata and the DAO. Transactions fees will be paid by the seller, buyers will not incur any fees.\nTransaction fees will also apply to the sales of resources by players in SCREAM.\nSCREAM Hangar and Crafting Updates\nTowards the end of the Star Atlas Town Hall, a new SCREAM work in progress trailer was revealed. This new footage showed a pre-alpha version of what the hangar interface could potentially look like in SCREAM. Interesting points on the menu were the inventory and crafting icons in the upper left corner of the screen. During the presentation, game desginer Chip revealed that crafting in SCREAM would be dependent on the number of crew members docked at the station where items are crafted. Presumably, the more number of crew members available, the easier crafting will be.\nAbout The Hologram\nThe Hologram is Star Atlas’ first and only independent news network. Our vision is to become the most trusted source of information about Star Atlas and a voice for the whole community. Readers can expect a high standard from our reporting and staff. Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.\nThe Hologram is not endorsed or paid by the Star Atlas team. Any information published by The Hologram nor its writers should be considered as informational in nature and does not constitute any financial advice.\nShare:\nAbout The Author\nKrigs\nRelated Posts\nA Bounty Beast: New Fimbul Mamba Redefines Hunter Role\nJune 16, 2022\nReviewing the New Ogrika Tursic: Underpowered Elegance\nJune 4, 2022\nAnonymous Source Leaks Showroom Release Plans\nJune 5, 2022\nThe Pearce R6’s Role In Fleets\nMay 6, 2022\nLeave a reply Cancel reply\nUpcoming Events\nThere are no upcoming events.\nRecent Posts\nStar Atlas Townhall 32 Recap – ATLAS Staking and SCREAM News\nAug 7, 2022 | Gameplay, Roadmap Updates\nAPY de POLIS stakeados, alto rendimiento que disminuye con el tiempo\nAug 5, 2022 | Económicas, Español, International\nPOLIS Staking APY, High Yield Diminishing Over Time\nAug 5, 2022 | Economics, Politics\n¿Qué facción de Star Atlas tiene la ventaja? (Parte I)\nAug 4, 2022 | Español, Políticas\nWhich Star Atlas Faction has the Upper Hand? (Part I)\nAug 4, 2022 | Politics\nUpdate – Solana Devs Narrow Down Source of $6M Exploit\nAug 4, 2022 | Crypto\nViaje inaugural: The Hologram contrata a los primero tripulantes del Opal BitBoat\nAug 1, 2022 | Community, Español\nMaiden Voyage: The Hologram Hires First Opal BitBoat Crew Members\nAug 1, 2022 | Community, Featured\nAnálisis: ¿Cuánto tiempo deberías stakear tus POLIS?\nJul 31, 2022 | Económicas, Español, Políticas\nAnalysis: How Long To Stake POLIS For?\nJul 30, 2022 | Economics, Politics\nFollow the Holo\nTwitter",
+  "content_hash": "5dbf57f4894ed98f79cf08f35552d7a92eaa1be3c8168e6e12474c23051a34d8",
+  "major_topics": [
+    "governance",
+    "economy",
+    "game development",
+    "community",
+    "lore",
+    "technology"
+  ],
+  "entities": [
+    "ATLAS",
+    "Danny Floyd",
+    "Krigs",
+    "Michael Wagner",
+    "POLIS",
+    "SCREAM",
+    "Showroom",
+    "Star Atlas",
+    "StarPath"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-462F0A8E4DE94462-01",
+      "text": "The ATLAS locker will be a staking system that rewards participants with reduced seller transaction fees in the Star Atlas marketplace.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-462F0A8E4DE94462",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-462F0A8E4DE94462-02",
+      "text": "Transaction fees will be split-paid to Automata and the DAO.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-462F0A8E4DE94462",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-462F0A8E4DE94462-03",
+      "text": "Transactions fees will be paid by the seller, buyers will not incur any fees.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-462F0A8E4DE94462",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-462F0A8E4DE94462-04",
+      "text": "Transaction fees will also apply to the sales of resources by players in SCREAM.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-462F0A8E4DE94462",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-462F0A8E4DE94462-05",
+      "text": "Presumably, the more number of crew members available, the easier crafting will be.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-462F0A8E4DE94462",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-462F0A8E4DE94462-06",
+      "text": "Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-462F0A8E4DE94462",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-462F0A8E4DE94462-07",
+      "text": "Share: About The Author Krigs Related Posts A Bounty Beast: New Fimbul Mamba Redefines Hunter Role June 16, 2022 Reviewing the New Ogrika Tursic: Underpowered Elegance June 4, 2022 Anonymous Source Leaks Showroom Release Plans June 5, 2022 The Pearce R6’s Role In Fleets May 6, 2022 Leave a reply Cancel reply Upcoming Events There are no upcoming events.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-462F0A8E4DE94462",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Star Atlas",
+    "Showroom",
+    "POLIS",
+    "ATLAS",
+    "StarPath",
+    "SCREAM"
+  ],
+  "governance_items": [
+    "Star Atlas governance / DAO"
+  ],
+  "lore_items": [
+    "MUD",
+    "ONI"
+  ],
+  "actors": [
+    "Michael Wagner",
+    "Krigs",
+    "Danny Floyd"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://thehologram.io/author/krigs/",
+      "anchor_text": "Krigs"
+    },
+    {
+      "url": "https://thehologram.io/category/gameplay/",
+      "anchor_text": "Gameplay"
+    },
+    {
+      "url": "https://thehologram.io/category/gameplay/roadmap-updates/",
+      "anchor_text": "Roadmap Updates"
+    },
+    {
+      "url": "https://thehologram.io/star-atlas-scream-gameplay-initial-reveal/",
+      "anchor_text": "SCREAM"
+    },
+    {
+      "url": "https://thehologram.io/star-atlas-dao/",
+      "anchor_text": "POLIS DAO"
+    },
+    {
+      "url": "https://www.ledger.com/",
+      "anchor_text": "Ledger"
+    },
+    {
+      "url": "https://thehologram.io/major-star-atlas-releases-planned-for-july-21st/",
+      "anchor_text": "426Live"
+    },
+    {
+      "url": "https://thehologram.io/star-path/",
+      "anchor_text": "StarPath"
+    },
+    {
+      "url": "https://thehologram.io/star-atlas-unveils-new-galactic-marketplace/",
+      "anchor_text": "Marketplace and Atlas Staking"
+    },
+    {
+      "url": "https://thehologram.io/",
+      "anchor_text": "The Hologram"
+    },
+    {
+      "url": "http://www.facebook.com/sharer.php?u=https://thehologram.io/star-atlas-townhall-32-recap-atlas-staking-and-scream-news/&t=Star%20Atlas%20Townhall%2032%20Recap%20%E2%80%93%20ATLAS%20Staking%20and%20SCREAM%20News",
+      "anchor_text": ""
+    },
+    {
+      "url": "http://twitter.com/intent/tweet?text=Star%20Atlas%20Townhall%2032%20Recap%20%E2%80%93%20ATLAS%20Staking%20and%20SCREAM%20News%20https://thehologram.io/star-atlas-townhall-32-recap-atlas-staking-and-scream-news/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://plus.google.com/share?url=https://thehologram.io/star-atlas-townhall-32-recap-atlas-staking-and-scream-news/&t=Star%20Atlas%20Townhall%2032%20Recap%20%E2%80%93%20ATLAS%20Staking%20and%20SCREAM%20News",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://twitter.com/Krigsfoniks",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/new-fimbul-mamba-review/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/ogrika-tursic-review/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/anonymous-source-leaks-showroom-release-plans/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/the-pearce-r6s-role-in-fleets/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/star-atlas-townhall-32-recap-atlas-staking-and-scream-news/",
+      "anchor_text": "Cancel reply"
+    },
+    {
+      "url": "https://thehologram.io/apy-de-polis-stakeados-alto-rendimiento-que-disminuye-con-el-tiempo/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/category/espanol/economicas/",
+      "anchor_text": "Económicas"
+    },
+    {
+      "url": "https://thehologram.io/category/espanol/",
+      "anchor_text": "Español"
+    },
+    {
+      "url": "https://thehologram.io/category/international/",
+      "anchor_text": "International"
+    },
+    {
+      "url": "https://thehologram.io/polis-staking-apy/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/category/economics/",
+      "anchor_text": "Economics"
+    },
+    {
+      "url": "https://thehologram.io/category/politics/",
+      "anchor_text": "Politics"
+    },
+    {
+      "url": "https://thehologram.io/que-faccion-de-star-atlas-tiene-la-ventaja-parte-i/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/category/espanol/politicas/",
+      "anchor_text": "Políticas"
+    },
+    {
+      "url": "https://thehologram.io/which-star-atlas-faction-has-the-upper-hand-part-i/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/2022-solana-exploit/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/category/crypto/",
+      "anchor_text": "Crypto"
+    },
+    {
+      "url": "https://thehologram.io/viaje-inaugural/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/category/community/",
+      "anchor_text": "Community"
+    },
+    {
+      "url": "https://thehologram.io/the-hologram-hires-first-opal-bitboat-crew-members/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/category/featured/",
+      "anchor_text": "Featured"
+    },
+    {
+      "url": "https://thehologram.io/analisis-staking-de-polis/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/stake-polis/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://twitter.com/Hologram_News",
+      "anchor_text": ""
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "https://web.archive.org/web/20220807013229id_/https://thehologram.io/star-atlas-townhall-32-recap-atlas-staking-and-scream-news/",
+    "final_url": "https://web.archive.org/web/20220807013229id_/https://thehologram.io/star-atlas-townhall-32-recap-atlas-staking-and-scream-news/",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "response_size": 180356,
+    "elapsed_ms": 638,
+    "retrieval_mode": "INTERNET_ARCHIVE",
+    "archive_capture": {
+      "timestamp": "20220807013229",
+      "original": "https://thehologram.io/star-atlas-townhall-32-recap-atlas-staking-and-scream-news/",
+      "digest": "UXQ66ERIUMNYVZCIBKSPGSTSYYPONHFV"
+    }
+  }
+}

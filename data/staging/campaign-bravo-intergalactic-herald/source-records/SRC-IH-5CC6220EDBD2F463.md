@@ -1,0 +1,334 @@
+# Star Atlas Event Recap 86: Atlas Brew #207 | Star Atlas News, SAGE Updates & Community Highlights
+
+## Source metadata
+
+- Source ID: `SRC-IH-5CC6220EDBD2F463`
+- URL: https://intergalacticherald.com/star-atlas-recap/star-atlas-event-recap-86-atlas-brew-207-star-atlas-news-sage-updates-community-highlights/
+- Publisher: Intergalactic Herald
+- Published: 2026-06-04T09:00:00
+- Updated: 2026-06-04T08:14:17
+- Classification: `CURATED_SUMMARY`
+- Classification rationale: Event recap summarizes an externally originated event, broadcast, or discussion.
+- Extraction confidence: `HIGH`
+
+## Source Lineage
+
+**Publication Role:** `CURATED_SUMMARY`
+
+**Relationship:** `CURATED_SUMMARY_OF`
+
+**Primary Sources:**
+
+- **Atlas Brew #207** — Author: UNKNOWN; Organization: Star Atlas; URL: UNKNOWN
+
+**Original Creators:**
+
+- Star Atlas
+
+**Lineage Confidence:** `MEDIUM`
+
+## Neutral synopsis
+
+In this episode, hear an AI summary of the latest Star Atlas community event. Full video recordings can be found on the YouTube channel of Star Atlas TV at https://www.youtube.com/@staratlastv. Hi, this isn’t Matt with the Intergalactic Herald. I am an AI. Welcome to a Star Atlas Recap of the latest Atlas Brew from the Star Atlas Community Team. The following summary of the Atlas Brew was AI generated so no guarantee it is 100% accurate because I am an AI after all. If you want to listen to the entire recording, please check out the YouTube channel of Star Atlas TV. Enjoy the summary. Welcome back, Star Atlas crew! Today, we’re diving into a recap of the latest Atlas Brew, and there is a…
+
+## Attribution and linked sources
+
+- [https://www.youtube.com/@staratlastv](https://www.youtube.com/@staratlastv)
+- [Listen on Apple Podcasts](https://podcasts.apple.com/us/podcast/star-atlas-week-in-review-podcast/id1678661043)
+- [Listen on Spotify](https://open.spotify.com/show/0aHDjCqFpy8Lzrkilv8n16)
+- [Intergalactic Gear](https://intergalacticgear.com/)
+- [Intergalactic Coalition](https://intergalacticcoalition.com/)
+
+## Temporal warning
+
+Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources.
+
+## Manual review
+
+- Verify which outbound links are primary sources and preserve creator attribution during promotion.
+
+## Extracted article text
+
+In this episode, hear an AI summary of the latest Star Atlas community event. Full video recordings can be found on the YouTube channel of Star Atlas TV at https://www.youtube.com/@staratlastv.
+Listen on Apple Podcasts
+Listen on Spotify
+Star Atlas Event Summary
+Hi, this isn’t Matt with the Intergalactic Herald. I am an AI. Welcome to a Star Atlas Recap of the latest Atlas Brew from the Star Atlas Community Team. The following summary of the Atlas Brew was AI generated so no guarantee it is 100% accurate because I am an AI after all. If you want to listen to the entire recording, please check out the YouTube channel of Star Atlas TV. Enjoy the summary. Welcome back, Star Atlas crew! Today, we’re diving into a recap of the latest Atlas Brew, and there is a massive wave of excitement in the air. The highly anticipated C4 Public Test Realm, or PTR, is finally live. This is a milestone that some community members jokingly admitted they never thought they’d see, but the vibe of the event was incredibly triumphant. The community has now officially stepped up as active beta testers, helping shape the massive, raw galaxy of the C4 release. The discussion kicked off with a deep dive into the relentless bug-fixing war room. Developer John, who joked about being chained to his desk with only water and pellets, shared some impressive stats from the first week of testing. The community has already filed 125 bug reports, translating to 53 unique issues. Thanks to a new, robust end-to-end testing system, the team has already achieved a 20% closure rate, pushing out an astonishing 40 build updates in just one week. Among the major fixes already deployed are resolutions for crafting hab operations, fleet transfers, claim stake recoveries, and character modifiers. They also did a massive performance optimization pass, meaning the game will no longer run your PC like a space heater. Looking ahead at the roadmap, the team is prioritizing combat V2, the cultivation claims loop, and bringing the PvE Nemesis engine to life. There was also a fascinating game design brainstorming session about local markets. Rather than having a magical, instant galactic market, the team wants to keep trade local to encourage players to actually transport rare resources across the galaxy. They even floated a cool idea where scanners could sell Scanning Data Unit maps to miners to help them locate rare resources like Germanium. Keep in mind, players should expect a server reset in about one to two weeks as the team prepares to test council ranks and roll out Council XP tracking. In other news from the event, the spotlight turned to the Star Atlas DAO. Emperor took the stage to rally the community around PIP 32, which is currently up for a vote. This proposal, titled “Igniting the Star Atlas Triad Tournament,” seeks ecosystem funding for Super Phoenix to produce and broadcast a massive multi-mode tournament in June 2026. While the proposal is already passing with an impressive 72% approval, they are still about 5 million PVP voting power short of their first participation milestone. Emperor urged everyone—whether voting yes, no, or abstaining—to exercise their voting power and make their voices heard. The event was also packed with wonderful community moments and shout-outs. A massive round of applause went out to Jindo, who has been dubbed an absolute legend for tirelessly writing gameplay tutorials and helping the developers verify bug fixes in real-time. Community member Arthur also jumped on stage to express his excitement for the upcoming Ember Coil and to praise the team’s rapid development pace. And, of course, the team dropped the highly anticipated claim code of the day: glory to the tester. To wrap things up, the team reiterated that Star Atlas wins through resilience, hard work, and its fantastic community. They made a promise that they will not leave the PTR phase until C4 is a polished, stellar experience, and they need your continued feedback to get there. If you want to join the frontier, head over to sage.staratlas.com to start testing, plant your claim stakes, and report any bugs you find. Be sure to tune into the next Atlas Brew, which will continue to focus heavily on PTR progress, brainstorming, and community feedback. See you in the deep space, pilots!
+I am launching a Star Atlas merch store. Please check it out at Intergalactic Gear.
+I am also creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic Coalition.
+Star Atlas Weekly Recap Newsletter – Catch up on all the important videos and articles from the Star Atlas community in a weekly recap email newsletter. https://intergalacticherald.com/star-atlas-weekly-recap-newsletter/
+Star Atlas Week in Review Podcast – Audio podcast where I break down everything that happened in Star Atlas the past week plus my analysis on what it all means. https://intergalacticherald.com/podcast/
+Star Atlas Discord News Feed Newsletter – Star Atlas Discord announcements send directly to your email so you never miss out on updates from the Star Atlas team. https://intergalacticherald.com/star-atlas-discord-news-feed/
+If you would like to support my efforts, donations can be sent to intergalacticherald.sol
+Star Atlas Event Transcript
+Today is great day because it’s going to be the first brew after the release of the legendary before PTR.
+Something that some members of this community genuinely genuinely never believed that they would see [laughter] [gasps] after so much time.
+But >> don’t know why they thought that to be honest. >> Yeah.
+Yeah.
+people. >> It’s always >> ah people are easy to lose confidence but >> we managed we managed we got there and now we have something to talk about. We actually have lot to talk about.
+Uh the C4 PTR is enormous.
+You know this better than most as you have been trying and reading all the reports, right? And they have been busy, right? >> They have been putting you to work over there.
+>> Yeah.
+Yes, they have. >> You and your army of agents, they have been working around the clock to fix everything. >> We just fix things all day long here.
+Yeah. [laughter] And today we are going to talk about this. >> do feel like the end is in sight though.
+>> We’re almost ready to start adding new stuff. >> You can see the light. >> Can see the light at the end of the tunnel for sure.
+>> That’s good.
+That’s good.
+So today we are going to talk about that.
+We are going to talk about the C4 PTR.
+We are going to talk about the feedback you guys have been providing, the tutorials that Jindo, the legend, has been pushing to help everyone understand what is going on. Jindo Jindo is more hopeless than you, John. See his comment in the chat.
+>> Mhm. >> Yeah. >> Yeah, >> see that.
+We we are we are everyone has been working hard and the good news is that the fixes they are coming. They are coming one after another. John Jindo is saying he you are ghosting him.
+John come on John or Jindo man. >> [sighs and gasps] 5% response rate. He’s [laughter] gone.
+>> I’m here. I’m here. I’m here.
+I’m actually reading um I’m >> He’s reading bugs to fix right now. >> I’m reading bug reports to fix right [laughter] now.
+Yeah, >> he’s reading me. Me, bro. John, don’t do that, bro.
+Stay with us because we need you. We need you. We need you to share your insights, to tell people how to best provide feedback.
+>> What asked for was like an overview of where things are at and some talking points. And what it gave me was, “You haven’t fixed this bug yet.
+This is critical issue. ” I’m like, “Oh, no.
+Okay, >> we’re good. ” >> That’s >> CL doesn’t treat you like that, right, John? When you ask something, he gives you what you ask, not more work.
+Come on Jindo. [laughter] But yeah guys uh honestly here we are internally we are super happy that we were finally able to release the C4 PTR to our wider community. Uh if you have been in the town hall where we announced that the PTR, you guys knows that the PTR main focus is to be collective exercise where everyone in the community, all the players, everyone, you are now officially members of the beta testers of the C4 PTR.
+And you guys you guys are you guys are working hard providing feedback helping us improve the project the product that we are releasing and this this will shine like there is no way uh there is no scenario where C4 won’t be success because you guys you guys are devoting lot of your time your patience your love to working on making it uh good enough and us from our side, we won’t stop working on this until you guys are satisfied.
+We are only leaving the PTR ground when we have an actual C4 game. And as always, Star Atlas wings through resilience, through hard work, through testing, and through its fantastic community.
+Okay, with this introduction, uh, want to get started on the brew.
+But before we do that, have something to share.
+We have some noteworthy news to share with you all. Uh, and the first one here is the Dow work. The DAO is Jesus [laughter] Christ.
+The DA has some announcements. Uh, Emperor, my friend, let me know if you want to come up stage or if you want me to talk about the pip or if we have someone from Super Fenix that wants to talk about uh their pip here, guess. I’ll be the one uh discussing the pip we have.
+Okay.
+So, see Bohemian call the pip authors to stage. always do.
+So, yes, let’s get started. The pip that’s under vote right now is PIP 32 igniting the Status Triad Tournament. super Phoenix sports live event and they have been here in our brew before so most of you already know about what this is about.
+This is pip seeking funding from our ecosystem fund uh for the production broadcast of the Star Atlas tribe tournament in June 2026. And this tournament is going to to pitch the different teams across all three UE5 game modes, racing, shooting, and siege mode. Uh the funding is to compensate the team working on this project and is not funding prize pool.
+It is very interesting pip.
+This is literally the reason why the ecosystem fund was developed developed so that we could have people participating and creating content for Star Atlas, creating cool stuff for our community to have the funds to do so. The PIP is already passing by large margin. They have 72% of yes votes but and we are also really close on getting uh the the bar for the expected amount of PVP participating on this pip.
+think Emperor told me that we only needed five million more PVP.
+So yes, we are really close. guess just I invited myself to the stage because have the power now.
+Sorry, was in the middle of setting window. [laughter] >> Let’s go, my friend. You have the floor now.
+Feel free to >> Yes, thank you. appreciate you taking that. Um yeah, we uh we have, like said, brew or two back.
+We have threshold for the the two week um we have two milestones of PVP participation and we’re about 5 million short of our first goal um of getting people to participate and so that’s why um asked Isa if we could come on and um just kind of stir up some some interest. We try to don’t have the numbers in front of me, but we try to get certain amount of PVP at certain thresholds and we would appreciate people um um taking up their voting power and at least participating whether it’s yes, no, or an abstain even.
+So, it we we greatly appreciate the participation. >> Thank you. >> And uh if >> Yeah.
+And if you guys have questions, there’s the the thread. I’ll after when get off of stage, I’ll uh I’ll put the link in the chat and if you have questions for the authors, um definitely feel free to ask them. That is all.
+don’t want to don’t want to take your brew.
+So, >> nah, no worries. You are always welcome here. As any other community member, you guys know that the brew is literally your place.
+So any of you who want to come up stage, share your thoughts, share your concerns, your feedback, even you, you can even come and say nice things about the team. We won’t hold this against you, you know. We’ll be happy [laughter] if you guys come here.
+So yeah, no, just kidding.
+But we really appreciate the community participating in the brew. Uh, really love the idea of us being open with each other, the team and the community.
+We are in this together to build the craziest and most exciting game in the history of gaming.
+So, we won’t be able to do this alone. We require you guys to participate as you guys are doing now with the C4 PTR. This this is tendency.
+You guys will only be more involved in our products, in our development.
+So, make your voice heard, participate in the DA, participate in the Bruise, be community member because we love you all and we want to hear from you. With that said, think John that we are ready to start talking about the C4 PTR >> and everything that you have been working through. I’ll just make very brief summary of how things are playing out.
+>> Mhm. >> Uh last week we released the C4 PTR to our wider community and you guys have been hard at work. If if you have any doubt about this, you can just go to the C4 PTR chat and you see that the guys are rolling pretty much 247.
+uh talking about bugs, talking about feedback, talking about uh everything they have been doing and it has been onslaught wave of feedback of cool things that you guys have been sharing with us and John and his army of agents have been fighting in the front lines trying to keep everything moving forward. On the other front, we have people like Jindo, we have people like Funker and the others and many others that have been helping support the the flow of things. They are answering questions.
+They are providing tutorials. They are giving players uh feedback and orientation on how to play C4 PTR. And it can be little bit overwhelming.
+Okay.
+Not not little bit. It can be very overwhelming because right now C4 PTR is like an entire galaxy of content open from the get-go. There is literally no gating, no guidance, nothing.
+You guys have access to all the raw systems and files that will compose the future of C4. And the reason why we released this to you guys is because we need to test first of all those building blocks. We need you guys to have access to all the mechanics, all the features, all the gameplay loops, everything we have built so far.
+So you guys can come and say Jose the Fleeting Bark button is broken.
+It’s not working. Jose uh the claim stake on system uh 54 is broken. We need you guys to be able to test everything, give us the feedback that we need and once all the tools are working, once everything is working, then we can get started on gating stuff and introducing features, introducing mechanics, introducing gameplay loops, introducing content that will make the C4 PTR more akin to the experience that you guys will have once C4 is ready.
+With that said, uh let’s talk about the C4 PTR uh overall structure, John. Uh and you can take it from here but just briefly John just give everyone the audience like an overview on how they can provide you with meaningful feedback where they can take look to see if the things that they found were already reported things like that and then we move on to your actual work on those on this last week of relentless bug fixing. >> Okay, sounds good.
+So, I’m going to actually ask Jindo for the public link to the bug report forum because the one have, think, is just an inbid link.
+So, and haven’t haven’t actually gone and seen the userfacing one yet.
+So, maybe he can throw that in there. Um, but for those see some people asking like, “Oh, I’ll be tester. How do do this?
+” Uh, you go to sage. staratlas. com.
+you start playing the C4 PTR and when you find an issue, you go to this uh bug tracker and input your issue and you put in your screenshots and um then each day myself and Joseph go in there and we download that report. Um and give that to Claude here. uh and we integrate it with endto-end testing system that we built for um all of the different user journeys in C4.
+So that’s currently that’s currently the the the coverage that I’m giving um the PTR is like full endtoend coverage on every user journey that’s in code. >> And I’d say we’re don’t know maybe 75% of the way through it. And have some stats here really quick.
+So if you do go to the bug report form, there’s something like, let me just see here, see how many bugs we have. 125 reports.
+Okay. Um, of those 125, there’s 53 unique issues.
+Some of them are duplicates in there, and some of them are things that the team has filed, but there’s 53 issues that we’re tracking. uh nine of them are fully resolved and two of them are partially resolved.
+So we have 20% closure rate right now. There are um 27 additional bugs that are marked as implemented.
+So those are the ones that you can see on the dashboard. Um and just in the last couple days, we’ve had nine uh nine PRs and three new branches in the deployed programs. Um, and so that gives you an idea of what we’ve been doing for the last week and the first few days of the PTR.
+Um, so the the system here, it’s not perfect yet either.
+Some of the bugs are are just that the system isn’t fully fleshed out yet, but the idea is we’ll have end toend test suite that runs every time new features are built in. And um so we have way to know whether something is broken or not before we uh before we push it out. And that was something that was lacking in Polim.
+Uh we didn’t have that kind of coverage. We just relied on people reporting bugs, us manually verifying them, fixing them, and sending them back. And so this is big improvement.
+Um yeah so that’s what I’ve been basically been chained to my desk for the last seven days. Uh, Michael Wagner makes sure that have water and pellets, fresh water and pellets to eat as many as want. And no, no, it’s been pretty good.
+will say though, like >> uh I’m I’m like dirty water.
+Yeah, I’m very much focused on this aspect right now. And so what’s really cool is they’ll go into the C4 channel and see the how how far people are getting with the PTR. Taking their claim stakes across the galaxy and planting them and actually like producing resources and stuff.
+And I’m little bit jealous because focusing completely on bug fixing means that can’t get in there and actually like play the game. And so I’m very much looking forward to having um this test suite fully running, fully comprehensive so that can actually get in and and start, you know, planting claim stakes and taking over territory with you guys and doing all that.
+So >> um so that’s kind of that’s what we’ve been up to.
+Yeah. >> Yeah. Um saw uh it was Suro commenting that should we already look on attacking or combat or we wait until the current things are solved?
+believe we are uh some of the features are not uh live maybe like combat etc. Uh what are you mostly focused on right now in terms of bug fixing is is claim stakes and fleet deployment.
+Yeah, that’s that’s good. I will let me bring it up and I’ll tell you exactly what I’m focused on. >> Um here, one sec.
+So, the the first half of that was is combat ready? don’t think it is. don’t think it’s ready for testing.
+We are like looking at combat as very like uh what what’s the right word? Combat is one of those like really high reward changes that we can make. Um, so know effort is going into redoing how combat works.
+So there’s that. >> Uh, the current combat system, it’s not even it’s not even on my test suite yet. Uh we tried to run few end to end tests, but getting um getting fleets spawned in using our admin tools is an important part of that so that I’m not like flying fleets from other ends of the galaxy into the middle of the the map to to try shooting each other one time.
+Like there’s lot of time wasted there.
+So to get to the combat testing, want to have the admin tools spawning in the ships and cleaning them up. that that that’ll be sort of an extension of the old Nemesis engine or the hollow nemesis engine. Um, so we’re not quite there yet.
+Um, hopefully next week. Hopefully sometime next week. >> Nice.
+>> And then let me keep keep talking for second. I’ll grab the I’ll grab the list of what we’re going on right now.
+Yeah. >> see want to address something that Lo is saying. Like for example, he says he’s disappointed with how the components recipes work.
+Like T1 is XYZ, A2 tier 2 XYZ plus something else and etc etc. It surely won’t be this way with the full game play loops. Uh this is something that will be coming out or being will be addressed in the uh in second stage of the C4 de C4 PTR development where we start coupling game design choices together with gameplay loops and the real economy of on how things are working out.
+Uh the recipes are simple now because we want to test the mechanics on each one of the layers of crafting to make sure everything is working in terms of combining different types of components with raw resources, different tiers of components, different families of components, but this will surely be given more love and there will be an actual uh design on that.
+Mhm. >> That is just one of the elements that requires this design. >> Yeah, 100 100%.
+Um that and that ties into so so yes, there’s going to be more work done on the recipes. You’re looking at the components and you’re looking at the processes, but don’t think that the actual recipes themselves have had whole lot of thought put into them yet.
+So, um, yes, that is definitely something on our radar. Um, so just to dovtail into the the fixes that we did this week, and you’ll you’ll see why we’re not there yet.
+So, uh, we’ve these are these are the the big things that we fixed in the last few days. the the crafting hab um crafting habs are having an issue with start crafting operation. Um and so there was both program change and front end change to fix that.
+Um fleet transfers and recovery um recovering claim stakes uh that was fixed. Um, there was number of issues with research nodes on the surface. Um, character modifier stats, um, loading the wrong trees, mockups that were failing, like falling back to failovers and stuff like that’s all been resolved.
+Um, we did new welcome screen refresh. Um, there was lot of like CPU overhead that was being used and GPU overhead. We were getting some reports that CPU and GPU were really high.
+So, we did performance pass.
+So, um no more space heaters in your room with you kind of thing. Um what else? We did fleet rendering pass with the the Pixie HUD.
+Um we confirmed that the we had memory leak in the DOM and that was fixed and confirmed. Uh and then we had big uh list of polish fixes in number of PRs.
+So that that was what was kind of dealt with this week. lot to do with crafting habs with uh claim stakes, moving moving those components around um research nodes and um yeah, let me look here. What is kind of on our radar that is not dealt with yet?
+Okay, just fire this up. Is that okay?
+That’s not actually working right now. Um, yeah. Anyway, maybe we can come back to that.
+Uh, let me just swing back over here to chat. see what’s been going on here. Uh >> besides combat, there is any gameplay loop that people should steer away from >> for now while we are still finishing.
+>> No, no, no, don’t think so. mean, you can even >> Yeah, you can even you can participate in combat.
+It’s just uh we haven’t gotten around to addressing the issues that were already known there.
+But yeah, you can you can try if you want. Um, >> John, another thing that saw earlier today was the preview, let’s say, of solo mode in the C4 PTR. >> Do you have any information about that?
+>> Uh, solo mode as in like PvE campaign type stuff.
+Now, let’s see if can find It’s probably someone else testing here.
+Solo training.
+Sorry, got it messed here. don’t think it Yeah, someone posted here in the chat. Jindo posted have leak.
+If you want to come up stage and leak stuff, Swagger, you are more than invited.
+Yeah, leaks are good. Oh, it’s an image. >> Just an image.
+Oh Jesus.
+So, yes, solo training.
+This is interesting. >> Cool. >> This horsemith.
+>> Very cool. I [clears throat] don’t have anything to add to the solo training. >> Yeah, was was was surprised as well.
+But yeah, more to come then we’ll learn later today, guess. >> Yeah.
+Yeah.
+No, so like um do know on the on the PVE front, we we definitely want to have um entities participating in the galaxy, moving resources around and providing targets for people. Um, we’ve been speaking little bit about um having say this like um I’m trying I’m trying to figure out what can say and what can’t say here. Um yes.
+So imagine you could run your own Nemesis engine yourself, right? Like what would you do with that? Like what if you could >> fire up uh yeah what if what if you could like um control an NPC?
+Let’s just say it like that. What if you could control an NPC? What would you have them do right on your behalf?
+Uh so we’re kind of experimenting with that little bit. Um and getting that tooling figured out. Um, we have uh project internally uh that we’re running and to some degree I’m running it with the end to end tests but but not fully um where we can we can use our agents to actually play the game and know Michael’s talked bit about this as well.
+Um, but that’s very promising and pretty cool um pretty cool addition to anybody’s toolkit would be this idea that you could um you could guide an agent on your behalf or an NPC on your behalf to do something for you, right?
+So, um yeah, definitely definitely playing off of what we were doing in Hollow Sim with the with the Nemesis engine, but actually giving it to the player to use as well.
+So >> that would be exciting. Being able to create NPCs for your own empire sounds promising. >> Future test for bounties.
+>> Lenor, who do you want to put bounty on? >> want know people want to put bounty on Lenor, actually. >> Yeah, was going to say it’s people want to put bounty on Laren.
+Guys, some something that wanted to to ask from the beginning of this brew is wanted to hear your opinions on the C4 PTR overall. For those of you who have played, how you guys are feeling about it in terms of mechanics, uh, in terms of the experience so far, in terms of features, uh, we really value your feedback and we really want to know your overall experience testing it. Even though it’s not the final version, we are excited to learn how you guys are feeling about it.
+see many people typing.
+That’s good.
+Okay.
+It’s fun.
+It’s great start. Just need some quality of life things. love the entire initiative.
+It’s good start. bit clunky with all navigating all the menus. Bugs are hurting.
+Just need better tutorial for the new users.
+That’s something important for sure. And what kind of quality of life improvements would be you guys looking forward for? Let’s say your pri your top your first priority in terms of features.
+We’ll talk about the reset learner in just second. Rest management. Uh, better way to navigate crafting something to save recipes.
+see John. see pattern here, John. >> People really want >> to see more organization, more >> the lack of info in the UI.
+see.
+Yeah, I’ve seen few people, especially with the really high-end claim stakes, you go, you start building really high-end buildings and because of where we’re at, you don’t have the infrastructure set up to maintain that building to fund it with Atlas to to put even put fuel in it and then they run out of fuel and you’re evicted in matter of minutes or whatever. Uh certainly that can be dealt with through proper progression. Um, but it does it does bring up really good point, which is that that has to be well thought out and you have to be able to you have to be able to sustain those larger operations, right?
+So, um, yeah, definitely lots of lots of game design stuff to to get through.
+Yeah, >> something that Gaz mentioned it here, uh, being able to search for resource and see where to go to find it, it would be nice. Like for example, if you search for Iron Wars, it would highlight in the map all the planets that have iron wars. >> Mhm.
+>> Maybe together with their richness and hardness. >> Yeah. And that like that’s certainly game design decision, but in that situation, would say yes, as long as you’ve discovered it yourself, right?
+would would want people to have to go to these places to discover what’s at them first and then they would have the ability to access them. Otherwise, if you just have access to all that information right off the get- go, then there is no exploration, right?
+So, >> what what what about we have SDU maps that would let you learn the location of those things and players could sell to each other. >> That’s good idea. >> It’s great idea.
+>> Cool, right? because >> that gives some utility to scanning while giving mining while giving perk to the miners that they can use. >> Yeah, for sure.
+>> Like you you consume the SDU and you now have location of Germanium for example. >> Yeah, in one sec. >> like it.
+You’re hired, Jose. >> Can participate in the game design team of C4? >> Yes.
+Yes, [laughter] you can. >> Nice.
+Cool.
+That’s good feedback. Uh guys, how about performance?
+This is something that saw many people were worried about.
+So far, how has the C4 treated your GPUs and everything?
+Okay. Um, interesting.
+So, people are saying that it’s all right or maybe close to what the Sage it’s manageable. Uh, people are talking about scanning. said his scanning wasn’t working properly.
+Uh do you have any insights on this John as are the scanning features working? >> Um hang on one sec. I’ll go look I’ll go look and see what the status of that is.
+Just give me minute. >> No worries. while you search that.
+I’ll keep looking here on the feedback. Arthur, welcome to the stage, my friend. >> Well, hey, thanks.
+just thought I’d add another voice into it and uh have just few comments and then question. Uh first, Jose, so excited about Ember Coil and what’s happening there. Just want to mention that.
+Um, >> John, you’re rock star. Um, really appreciate all the hard work you’ve been putting into this. Um, and also just wanted to do shout out to Jindo and the tutorials that he’s been working on.
+Um, those are super helpful for the whole community and know it’s been mentioned elsewhere, but just wanted to say it out loud. Um, super big shout out to Jindo. Um the question have is that Danny mentioned that this doesn’t have like first-time user experience yet um in lot of those quality of life uh issues that we were mentioning earlier.
+Uh have any idea when some of those will start to be introduced or you want to fix the bugs first? Like kind of looking for just general road map not with not with dates or you know timeline but kind of are there stages where you expect to introduce certain elements? Uh if you could talk little bit about that that’d be cool.
+Very cool, Arthur. >> Yeah. >> Yeah.
+Um, so can can speak little bit to that.
+So, currently the plan is to triage the bugs of what’s there and get most of that stable.
+So, the things that you see now working to big degree. Then it’s to add um refresh to combat.
+It’s to implement PVE system through either Nemesis engine or something like it. And um there’s also um like an onboarding and tutorial um phase. Those are kind of the three big things that are on my radar right now.
+and don’t have an order for them yet. Uh cuz we’re still kind of heavy in the development and and bug fixing phase. Um do think that once we’ve nailed those things down, we’ll start expanding on um the new um the new cultivation claims that were released as part of the PTR and those the functionality for that.
+And then think after that’s done, we’ll start to dig into things like the crafting recipe tuning. Um, and how does that play into progression and you know what what is my end goal as someone who’s new coming into this? Like trying to trying to get to the end of that process, maybe that’s um ship crafting or something.
+Um, and then working our way back so that there’s meaningful game loops that get you to that end and that people that want to be scanners can participate in that end goal.
+People that want to be miners or people that want to have their cultivation claims running can all participate in meaningful way towards those end goals. Um, but I’m not sure what those are yet and I’m not sure what the timeline is. Um, just know that we’re uh so far we’re happy with the way the PTR is going.
+Uh, I’m I’m very happy with how stable things are. know that there are lot of bugs, but the the new Starframe like like we are we are not seeing any of the Starcom issues that we had in the past so far.
+There’s none of that happening. Um, we’re not in this we’re not in situation where performance is so bad that that things aren’t aren’t working. Like we have good good baseline performance.
+Our infrastructure is working. the communication layers are working and they’re easy to debug. Um, so the the the landscape is ripe for new features as soon as we’re uh in stable situation here.
+So >> yeah, think it’s going >> Can also ask um are you just kind of pushing out updates uh randomly? Are you going to announce those like you did with Hollow Sim? Like, hey, I’m about to push out something this afternoon or is it going to make much of difference as far as gameplay?
+What what are your what’s your strategy there? >> am pushing things as soon as they’re ready all day, every day. Uh, so don’t know how many releases we’ve done in the last in the last week.
+Uh, could probably get an idea.
+It’s some it’s close to 20, think. And so there’s been like five or six really big ones and there’s been three big program changes.
+There’s another one going out right now while we’re talking. And when [clears throat] you’re when you’re going at that pace, there’s no point in posting. I’m doing this like every five seconds because it’s just changing so quickly.
+So, what I’ve done is at the beginning of each day as clean up from the previous day’s work and push its PRs out, post sort of summary in Discord. I’ve done that the last two days. I’ve been doing it internally for the team for the last week, but I’ve started to push those to Discord.
+Even though they they’re they’re very like low-level techy stuff.
+It’s like it’s something.
+It’s like, hey, these are the things we’re working on. The thing that I’m doing that’s more community facing is updating the known issues on that bug report page. I’m just going in there and marking them implemented when they’re done.
+And so if it’s on my radar and it’s finished and it’s part of some PR somewhere, I mark it as implemented. And so at least the people reporting the bugs can go and look at their own status and say, “Oh, that thing got implemented. ” And um there’s little bit of uh what’s it called?
+there’s little bit of information lost in that I’m not manually verifying every single bug. I’m relying heavily on my um my end to end test suite to tell me that it’s fixed and document it all and have like screenshots of it before and after and everything, but I’m not in there manually checking everything. Uh Jindo has been covering for me in huge way on that end uh twice now when we’ve had big releases.
+said, “Here’s what we changed. Could you double check this for me? ” And he’s been [clears throat] able to do that.
+So, um, yeah, it’s just it’s really really fast pace, so there’s not whole lot of, uh, whole lot of communication around it and that will slow down eventually.
+And then there’ll be more regular updates. We’ll have bug tracker in game where you can see these were pushed and this was what was changed. Uh, but right now it takes, you know, it would take half day to get that in there and to come up with system and it just could be better spent just actually fixing stuff right now.
+So, um, yeah, 411.
+So, so at the beginning of last week, we were on build 4,811 and we’re at build 4,851.
+So, we’ve had, you know, 40 40 updates since whatever it was last week, right? Uh, it’s just too many to try and like publish something every time something goes out.
+So, yep. >> That’s that’s awesome, John. see people trying to spread heresy in our Discord chat.
+>> Know that’s not going to happen. Um, all right. That that was insightful.
+Uh guys, in terms of we have addressed mostly crafting recipes, see this being huge pain point. don’t think we were able to test council ranks too much due to god mode so far.
+Not sure if anyone tried testing this, but how you guys are feeling about the claim stake mechanics, the cultivation uh claims, the crafty hab, sorry, and the claim stakes overall. What what is the feedback on this front? How you guys are feeling about them?
+Leno says he’s liking it. Arther is just excited to be doing something with them finally.
+It’s super exciting to be colonizing the world.
+Yeah. And think the claim stake mechanics will really shine once we close the gates of council rank and you guys start populating the sectors and the regions and you guys start realizing that uh there’s not enough space for everyone in the galaxy to be in the most prestigious zones of the factions.
+So think this gameplay loop will become much more exciting when this kind of mechanic starts triggering the next stages of the C4 PTR.
+Yeah, we really need claim stake sales Larinor for sure.
+Okay, I’ve got I’ve got update on scanning here if you guys want that. >> Oh, yes. >> Um, okay.
+So, scanning works end to end. Uh, there’s two UI issues. Um, the first is that your ship or your fleet will say that it’s ready to scan even if you don’t have toolkits or repair kits.
+Um, and so people can be out there clicking scan as if it’s supposed to work, but they don’t have toolkits. Uh, the second piece is that the cost to run the scan isn’t accurate. And so you may think you have enough toolkits to run something, but you’re being and you’re being told you have enough, but when you click it, you don’t actually.
+So So there’s situation where you could have toolkits and it’s just not enough to to to um execute the scan.
+But if you’re if you’ve got ton of toolkits and that’s enough to run scan, uh the scanning should be working. And yeah, so I’m tracking those two issues and uh they’ll get they’ll get addressed soon.
+But yeah, that’s that’s the that’s the situation with scanning right now. Interesting. any other ah John several people are running out of Atlas.
+This is an issue that members >> are having. >> This is good this is good problem. We want you guys running out of Atlas because that means that you’re going to go buy Atlas.
+So, this is good. [laughter] Um Yeah.
+Yeah.
+Yeah. I’m glad somebody got the joke. Um, no, but but this is for PTR.
+That’s not ideal. We want people to to have Alice. I don’t know how we’re supposed to give it to you, but >> maybe >> maybe we can turn that back on.
+>> We can add by orders. >> Oh, yeah. We could do that.
+We could do that. >> Yeah.
+Okay. I’ll see about adding some buy orders or something.
+Yeah. What you’re really telling me is we need an an active economy. We need the economy hooked up, which is fine.
+So So like here here’s the question. What do you guys think of the fact that there’s no galactic market, that everything’s local market right now? How is that sitting with everybody?
+Yeah, that’s good question. Only local markets. >> Yeah, I like it.
+It’s It’s lot cleaner for number of reasons, but I’m just really curious what people other people think.
+Yeah exactly.
+Not getting used much.
+Yeah, that’s fair.
+Yeah, when you it’s god mode and you’re dropped whole bunch of stuff there there isn’t much of reason for the market.
+So maybe maybe if we took step back and said um the one thing that the galactic market provides is trading between factions like do you see removing that being an issue or is everybody good with that? Need more players?
+Yeah, we do.
+Yeah, like it too.
+Cool.
+Yeah.
+No, I think because this is such big universe, think the idea that you need to go to place to buy and sell specific material uh is really important and it makes it it makes tra taking that resource from that rare resource from one place to another makes it even more rare at that other place. There isn’t this idea of just like beaming resources around multiffaction trade.
+So currently don’t know that you could do so multiffaction trade at local market is not even in the program. Like it’s not it’s not possible at this point. Um could I’m not sure how we would do that.
+know we had this idea of licenses that might enable that. Um, I’m just not sure that that’s in the local market program, but future feature.
+Yeah, as future feature for sure. >> Very cool. >> Yeah, I’m really looking for the democracy module and other modules overall for star bases.
+think they would bring lot of interesting stuff to the game.
+Guys, if you have questions about the C4 PTR overall and not necessarily only feedback, but things that you’d like to see implemented or other features that we could add to the game that you guys would like to see.
+Yeah, Michael nominated the upcoming features that we have on the horizon right now. Combat V2, cultivation claims loop, nemesis engine, and the PTR ZXP tracking. Those are what we are working on right now at this moment.
+Oh, server reset. Uh, that’s more of Michael and Denny question, guess. >> Yeah, don’t don’t have a time frame on server reset.
+Just expect that it will get reset at some point. Um, don’t get too attached to these things. Um, >> yeah, mean, we need to reset because we need to test the council ranks.
+We need to test many stuff that the current setting doesn’t allow us to test.
+So, it will come uh probably after Yeah, Michael is saying probably one or two more weeks before CXP starts.
+Yeah, for sure. John, what about ship customization? Uh, in terms of mechanics, is everything working out on that front?
+the ship configs and everything. >> Um, to be honest, don’t don’t have lot of oversight on that right now. Um, will look right now and get back to you and see where it’s at.
+Hang on.
+Yeah, don’t worry too much about the recipes because they are going to be all reworked. And oh, the code for today. have good code for today.
+Hang on, I’m dropping it. The code for today is glory to the tester.
+Yeah, it’s surely not easy to craft the components right now.
+Guys, do you have any of you have any last comments, questions, feedbacks, stuff to share, memes? I’m accepting less requests for this brew. Ah, no way.
+Michael, you get timeout. Jesus Christ. >> I’ve got I’ve got quick quick overview of customization for fleets.
+>> Oh, >> the fleet creation works fine. Customization, lots of bugs. Uh, crew side tab is missing.
+The form fleet inventory rail shows zero ships until you visit the config bay first. The hull row upgrade button opens the research nodes instead of the ship upgrade dialogue. Uh what is this?
+Hall size gating is not communicated. Uh no capacity readouts during staging. Manual fleet UI load stale fleets.
+So like so yeah no like customizing those fleets is not working very well but forming fleets in their bare form is fine. Um, so yeah, definitely on our radar. Fleet formation is not something that have been focusing on, which is why wasn’t really sure about it.
+But, um, there is quite bit of test coverage there. And there’s one, two, three, four, five opened issues. Um, three that were already resolved.
+Uh, missing fleet info cards, that’s been fixed. Claim stake central hub stats are now viewable. and cargo quantity input losses focus per keystroke that’s fixed as well.
+So, um, yeah.
+So, anyway, lot lots of stuff, uh, in fleet configuration that needs to get fixed. >> More work for you, John.
+Good luck. >> More work for me. >> Yeah.
+>> All right, everyone. With this cursed goat picture that you have in the chat, think it’s time for us to close the brew. Jesus Christ, this is hideous.
+Okay, thank you all for attending [laughter] another epic episode of the Atlas Brew. You guys can come to the next episode will be on more focused on the C4 PTR.
+Right now, this is the company main focus.
+So every brew basically will be about us discussing the PTR, improving features, gathering feedback, doing brainstorms and theory crafting with you guys.
+So come to the brew, be active because every single line of feedback is appreciated, will be taken into account.
+We will work hard to provide the best game possible for you guys. And we can only do that if we know what you guys need, what you guys like, what you guys dislike. And this is the place for all of you to provide this feedback.
+So, thank you all. Uh people want claim stake sale. think this is this is important.
+Yes. Uh next week we’ll probably start showcasing to you guys.
+So Jesus Christ, it’s getting worse to to share with you guys.
+Some game design ideas, some new features ideas. Jesus, no. I’ll close the right now.
+Thank you all. It was good event and we all bye-bye. See you guys.

@@ -1,0 +1,177 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-92912CC09853EF08",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47031364775827-How-do-I-create-my-character-in-Holosim",
+    "title": "How do I create my character in Holosim?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-02T19:07:21Z",
+    "updated_at": "2025-12-08T18:24:02Z",
+    "original_date_text": "2025-12-02T19:07:21Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://holosim.staratlas.com",
+        "anchor_text": "holosim.staratlas.com"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “How do I create my character in Holosim?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "When you first launch Holosim, you’ll be asked to set up your character. This step is quick but important, as it defines your name and faction in the game.\nSteps to create your character:\nLaunch Holosim: from holosim.staratlas.com.\nEnter your character name: choose carefully, because this cannot be changed later.\nPick your faction: MUD, ONI, or USTUR. Your faction decides your starting location and teammates, but all players have access to the same core gameplay.\nClick “Create Character”: your character is now ready.\nOptional: Battle Pass: after character creation, you can choose to purchase the Battle Pass or skip it and start playing for free.\nOnce your character is created, you can immediately begin quests and form fleets to explore the universe.",
+  "content_hash": "933457c5ce623ac16c1f4797fe40caafdffc5e5ce5b8e4984428ed5a2b79dd92",
+  "entities": [
+    "CORE",
+    "Holosim"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-92912CC09853EF08-01",
+      "text": "When you first launch Holosim, you’ll be asked to set up your character.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-92912CC09853EF08",
+      "publication_date": "2025-12-02T19:07:21Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-92912CC09853EF08-02",
+      "text": "This step is quick but important, as it defines your name and faction in the game.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-92912CC09853EF08",
+      "publication_date": "2025-12-02T19:07:21Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-92912CC09853EF08-03",
+      "text": "Steps to create your character: Launch Holosim: from holosim.staratlas.com.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-92912CC09853EF08",
+      "publication_date": "2025-12-02T19:07:21Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-92912CC09853EF08-04",
+      "text": "Enter your character name: choose carefully, because this cannot be changed later.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-92912CC09853EF08",
+      "publication_date": "2025-12-02T19:07:21Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-92912CC09853EF08-05",
+      "text": "Your faction decides your starting location and teammates, but all players have access to the same core gameplay.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-92912CC09853EF08",
+      "publication_date": "2025-12-02T19:07:21Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-92912CC09853EF08-06",
+      "text": "Click “Create Character”: your character is now ready.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-92912CC09853EF08",
+      "publication_date": "2025-12-02T19:07:21Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-92912CC09853EF08-07",
+      "text": "Optional: Battle Pass: after character creation, you can choose to purchase the Battle Pass or skip it and start playing for free.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-92912CC09853EF08",
+      "publication_date": "2025-12-02T19:07:21Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-92912CC09853EF08-08",
+      "text": "Once your character is created, you can immediately begin quests and form fleets to explore the universe.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-92912CC09853EF08",
+      "publication_date": "2025-12-02T19:07:21Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "CORE",
+    "Holosim"
+  ],
+  "governance_items": [],
+  "lore_items": [
+    "MUD",
+    "ONI",
+    "Ustur"
+  ],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://holosim.staratlas.com",
+      "anchor_text": "holosim.staratlas.com"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://holosim.staratlas.com",
+      "anchor_text": "holosim.staratlas.com"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47031364775827-How-do-I-create-my-character-in-Holosim",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.266188Z"
+  }
+}

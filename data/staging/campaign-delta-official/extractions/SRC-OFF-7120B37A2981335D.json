@@ -1,0 +1,219 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-7120B37A2981335D",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47061500226323-What-is-a-Solana-Wallet-and-how-do-I-get-one",
+    "title": "What is a Solana Wallet, and how do I get one?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-03T17:01:56Z",
+    "updated_at": "2025-12-08T18:23:23Z",
+    "original_date_text": "2025-12-03T17:01:56Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://backpack.app/",
+        "anchor_text": "browser extension"
+      },
+      {
+        "url": "https://backpack.app/download",
+        "anchor_text": "mobile app"
+      },
+      {
+        "url": "https://backpack.exchange/",
+        "anchor_text": "Centralized exchange"
+      },
+      {
+        "url": "https://support.backpack.exchange/wallet",
+        "anchor_text": "https://support.backpack.exchange/wallet"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “What is a Solana Wallet, and how do I get one?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "What’s a Solana Wallet?\nA Solana wallet is a secure app or browser extension that lets you manage your crypto tokens (like SOL, ATLAS, or POLIS) and NFTs on the Solana blockchain\nYou’ll need one to:\nLog in to blockchain games like SAGE\nBuy or sell items on the Star Atlas Marketplace\nStore and use Star Atlas NFTs (ships, crew, etc.)\nWhy Choose Backpack?\nBackpack is a free and user-friendly Solana wallet, perfect for new users. It works as:\nA browser extension (Chrome, Brave, Edge)\nA mobile app (iOS and Android)\nA Centralized exchange\nBackpack is trusted by the Star Atlas team and used across the Solana ecosystem.\nHow to Create a Backpack\n1. Go to backpack.app\nClick Download and choose your browser or mobile platform\n2. Install & Open\nAdd the extension (or install the app), then open Backpack.\n3. Create New Wallet\nClick Create New Wallet and follow the steps:\n4. Select the Chain\nChoose the blockchain you want to use.Since Star Atlas runs on Solana, select: Solana → Set Up Wallet\n5. Create a Password\nSet a password to protect access to your wallet\n6. Your Backpack Wallet Is Ready\nYou're now ready to use your Backpack wallet.\nFor more information, visit their official support center: https://support.backpack.exchange/wallet",
+  "content_hash": "ce57ffc7f464d910d56c686a9e225a7b663ba9b41db22bb9af671b3b65899b82",
+  "entities": [
+    "ATLAS",
+    "Crew",
+    "POLIS",
+    "SAGE",
+    "Solana"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-7120B37A2981335D-01",
+      "text": "A Solana wallet is a secure app or browser extension that lets you manage your crypto tokens (like SOL, ATLAS, or POLIS) and NFTs on the Solana blockchain You’ll need one to: Log in to blockchain games like SAGE Buy or sell items on the Star Atlas Marketplace Store and use Star Atlas NFTs (ships, crew, etc.) Why Choose Backpack?",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-7120B37A2981335D",
+      "publication_date": "2025-12-03T17:01:56Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-7120B37A2981335D-02",
+      "text": "Backpack is a free and user-friendly Solana wallet, perfect for new users.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-7120B37A2981335D",
+      "publication_date": "2025-12-03T17:01:56Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-7120B37A2981335D-03",
+      "text": "It works as: A browser extension (Chrome, Brave, Edge) A mobile app (iOS and Android) A Centralized exchange Backpack is trusted by the Star Atlas team and used across the Solana ecosystem.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-7120B37A2981335D",
+      "publication_date": "2025-12-03T17:01:56Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-7120B37A2981335D-04",
+      "text": "Go to backpack.app Click Download and choose your browser or mobile platform 2.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-7120B37A2981335D",
+      "publication_date": "2025-12-03T17:01:56Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-7120B37A2981335D-05",
+      "text": "Install & Open Add the extension (or install the app), then open Backpack.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-7120B37A2981335D",
+      "publication_date": "2025-12-03T17:01:56Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-7120B37A2981335D-06",
+      "text": "Create New Wallet Click Create New Wallet and follow the steps: 4.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-7120B37A2981335D",
+      "publication_date": "2025-12-03T17:01:56Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-7120B37A2981335D-07",
+      "text": "Select the Chain Choose the blockchain you want to use.Since Star Atlas runs on Solana, select: Solana → Set Up Wallet 5.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-7120B37A2981335D",
+      "publication_date": "2025-12-03T17:01:56Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-7120B37A2981335D-08",
+      "text": "Create a Password Set a password to protect access to your wallet 6.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-7120B37A2981335D",
+      "publication_date": "2025-12-03T17:01:56Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-7120B37A2981335D-09",
+      "text": "Your Backpack Wallet Is Ready You're now ready to use your Backpack wallet.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-7120B37A2981335D",
+      "publication_date": "2025-12-03T17:01:56Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-7120B37A2981335D-10",
+      "text": "For more information, visit their official support center: https://support.backpack.exchange/wallet",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-7120B37A2981335D",
+      "publication_date": "2025-12-03T17:01:56Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "SAGE",
+    "POLIS",
+    "ATLAS",
+    "Crew"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [
+    "Solana"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://backpack.app/",
+      "anchor_text": "browser extension"
+    },
+    {
+      "url": "https://backpack.app/download",
+      "anchor_text": "mobile app"
+    },
+    {
+      "url": "https://backpack.exchange/",
+      "anchor_text": "Centralized exchange"
+    },
+    {
+      "url": "https://support.backpack.exchange/wallet",
+      "anchor_text": "https://support.backpack.exchange/wallet"
+    }
+  ],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47061500226323-What-is-a-Solana-Wallet-and-how-do-I-get-one",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.171854Z"
+  }
+}

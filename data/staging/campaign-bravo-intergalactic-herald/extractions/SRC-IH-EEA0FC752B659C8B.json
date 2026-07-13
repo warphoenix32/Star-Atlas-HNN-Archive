@@ -1,0 +1,310 @@
+{
+  "source": {
+    "source_id": "SRC-IH-EEA0FC752B659C8B",
+    "url_id": "URL-EEA0FC752B659C8B",
+    "url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-143/",
+    "inventory_url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-143",
+    "title": "Star Atlas Weekly News Recap #143",
+    "author": "Intergalactic Herald",
+    "publisher": "Intergalactic Herald",
+    "published_at": "2024-12-15T17:00:00",
+    "updated_at": "2024-12-14T11:38:40",
+    "retrieved_at": "2026-07-12T22:09:21.470705Z",
+    "document_type": "NEWSLETTER",
+    "source_role": "CURATED_SUMMARY",
+    "source_classification": "CURATED_SUMMARY",
+    "classification_rationale": "Weekly newsletter/recap aggregates developments and linked sources.",
+    "wordpress_type": "posts"
+  },
+  "summary": {
+    "neutral_abstract": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week. We are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us. We are launching a Star Atlas merch store. Please check it out at Intergalactic",
+    "historical_value": "Contemporary Intergalactic Herald publication preserved with role and attribution boundaries.",
+    "current_validity_warning": "Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources."
+  },
+  "article_text": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week.\nWe are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us.\nWe are launching a Star Atlas merch store. Please check it out at Intergalactic Gear.\nWe are creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic Coalition.\nIf you would like to support our efforts, donations can be sent to intergalacticherald.sol\nStar Atlas: Recap 12-7-24\nBeyond the Horizon posted a video of Star Atlas updates.\nStar Atlas: AI and gaming\nOCG Thor posted a video of crypto and Star Atlas updates.\nSTAR ATLAS #260 Local Markets, SLY Update & RFR Coming Soon!\nMetaVerse Explorer posted a video of Star Atlas updates.\nWeekly Star Atlas Newsletter #159\nAephia published their weekly Star Atlas newsletter.\nYour Guide to Local Markets in SAGE\nAephia published a guide to SAGE local markets.\nStar Atlas: Local Markets and Infrastructure Contracts\nOCG Thor posted a video about Star Atlas local markets and infrastructure contracts.\nThe Atlas Brew 140 Local markets & RFR release\nStar Atlas TV posted a video of the latest Atlas Brew.\nDawn of the Freighter: Expanding the Boundaries of SAGE Labs Gameplay\nStar Atlas published an article about changes to SAGE Labs.\nComic #5 from Beyond the Horizon",
+  "content_hash": "5abfbcd42b88a23fa9c76761f516c1c32e79469797c8dff6f628eaa6c96f2dc5",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [],
+  "external_sources": [
+    {
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=UNIuDpJLEVE",
+      "anchor_text": "Star Atlas updates"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=4SlZF4c_WvM",
+      "anchor_text": "crypto and Star Atlas updates"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=aEaGt1FjGG8",
+      "anchor_text": "Star Atlas updates"
+    },
+    {
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-159/",
+      "anchor_text": "Star Atlas newsletter"
+    },
+    {
+      "url": "https://aephia.com/star-atlas/sage-local-markets/",
+      "anchor_text": "SAGE local markets"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=34HQ6K6f9WI",
+      "anchor_text": "local markets and infrastructure contracts"
+    },
+    {
+      "url": "https://www.youtube.com/live/xcLGYTysDwg",
+      "anchor_text": "Atlas Brew"
+    },
+    {
+      "url": "https://medium.com/star-atlas/dawn-of-the-freighter-expanding-the-boundaries-of-sage-labs-gameplay-7d4d5e7cb6a1",
+      "anchor_text": "changes to SAGE Labs"
+    },
+    {
+      "url": "https://x.com/BTH2620",
+      "anchor_text": "Beyond the Horizon"
+    }
+  ],
+  "primary_source_relationships": [
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=UNIuDpJLEVE",
+      "anchor_text": "Star Atlas updates"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=4SlZF4c_WvM",
+      "anchor_text": "crypto and Star Atlas updates"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=aEaGt1FjGG8",
+      "anchor_text": "Star Atlas updates"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-159/",
+      "anchor_text": "Star Atlas newsletter"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/sage-local-markets/",
+      "anchor_text": "SAGE local markets"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=34HQ6K6f9WI",
+      "anchor_text": "local markets and infrastructure contracts"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/live/xcLGYTysDwg",
+      "anchor_text": "Atlas Brew"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://medium.com/star-atlas/dawn-of-the-freighter-expanding-the-boundaries-of-sage-labs-gameplay-7d4d5e7cb6a1",
+      "anchor_text": "changes to SAGE Labs"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://x.com/BTH2620",
+      "anchor_text": "Beyond the Horizon"
+    }
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Verify which outbound links are primary sources and preserve creator attribution during promotion."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-143&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 6252,
+    "elapsed_ms": 1669,
+    "attempts": [
+      {
+        "endpoint": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-143&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "http_status": 200,
+        "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-143&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "content_type": "application/json; charset=UTF-8",
+        "response_size": 6252,
+        "elapsed_ms": 1669
+      }
+    ]
+  },
+  "source_lineage": {
+    "publication": "Intergalactic Herald",
+    "publication_role": "CURATED_SUMMARY",
+    "relationship": "CURATED_SUMMARY_OF",
+    "primary_sources": [
+      {
+        "publication": "Star Atlas updates",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=UNIuDpJLEVE",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas updates"
+      },
+      {
+        "publication": "crypto and Star Atlas updates",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=4SlZF4c_WvM",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: crypto and Star Atlas updates"
+      },
+      {
+        "publication": "Star Atlas updates",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=aEaGt1FjGG8",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas updates"
+      },
+      {
+        "publication": "Star Atlas newsletter",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-159/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas newsletter"
+      },
+      {
+        "publication": "SAGE local markets",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/sage-local-markets/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article with anchor text: SAGE local markets"
+      },
+      {
+        "publication": "local markets and infrastructure contracts",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=34HQ6K6f9WI",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: local markets and infrastructure contracts"
+      },
+      {
+        "publication": "Atlas Brew",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/live/xcLGYTysDwg",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: Atlas Brew"
+      },
+      {
+        "publication": "changes to SAGE Labs",
+        "author": "UNKNOWN",
+        "url": "https://medium.com/star-atlas/dawn-of-the-freighter-expanding-the-boundaries-of-sage-labs-gameplay-7d4d5e7cb6a1",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: changes to SAGE Labs"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "publication": "Intergalactic Gear",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticgear.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Intergalactic Coalition",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticcoalition.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Beyond the Horizon",
+        "author": "UNKNOWN",
+        "url": "https://x.com/BTH2620",
+        "organization": "Beyond the Horizon",
+        "relationship": "REFERENCES"
+      }
+    ],
+    "original_creators": [
+      "Aephia",
+      "Star Atlas"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Star Atlas updates",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=UNIuDpJLEVE"
+      },
+      {
+        "from": "crypto and Star Atlas updates",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=4SlZF4c_WvM"
+      },
+      {
+        "from": "Star Atlas updates",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=aEaGt1FjGG8"
+      },
+      {
+        "from": "Star Atlas newsletter",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-159/"
+      },
+      {
+        "from": "SAGE local markets",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/sage-local-markets/"
+      },
+      {
+        "from": "local markets and infrastructure contracts",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=34HQ6K6f9WI"
+      },
+      {
+        "from": "Atlas Brew",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/live/xcLGYTysDwg"
+      },
+      {
+        "from": "changes to SAGE Labs",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://medium.com/star-atlas/dawn-of-the-freighter-expanding-the-boundaries-of-sage-labs-gameplay-7d4d5e7cb6a1"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  }
+}

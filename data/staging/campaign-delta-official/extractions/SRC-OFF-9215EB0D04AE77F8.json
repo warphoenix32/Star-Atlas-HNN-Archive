@@ -1,0 +1,167 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-9215EB0D04AE77F8",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47057449326355-Why-can-t-I-enlist-my-ship",
+    "title": "Why can't I enlist my ship?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-03T15:14:40Z",
+    "updated_at": "2025-12-08T18:24:25Z",
+    "original_date_text": "2025-12-03T15:14:40Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://play.staratlas.com/fleet",
+        "anchor_text": "Faction Fleet"
+      },
+      {
+        "url": "http://discord.gg/staratlas",
+        "anchor_text": "Discord"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “Why can't I enlist my ship?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "If you're having trouble enlisting your ship in Star Atlas, there could be several reasons why. Here are the most common causes: Insufficient SOL in your wallet:\nYou need to have enough SOL in your wallet to pay transaction fees, it's recommended to have at least 0.03 SOL.\nUndecided faction: You must choose a faction before enlisting your ship in the Faction Fleet. What is a faction and how to join in this article?\nDuplicate ship type: If you've already enlisted a ship of the same type in the Faction Fleet, you need to go to \"MANAGE FLEET,\" then \"MANAGE SHIPS,\" and select the number of ships you want to enlist.\nIf these solutions don't resolve your issue, please contact one of our agents using the chatbot found at the bottom right of this page or join us on Discord and create a ticket. Our moderators will be happy to assist you.",
+  "content_hash": "0054a7f9871dc4578fa810c3564981adb7a04c6c358ccb2069db28caffe82e68",
+  "entities": [
+    "ATLAS",
+    "Faction Fleet"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-9215EB0D04AE77F8-01",
+      "text": "If you're having trouble enlisting your ship in Star Atlas, there could be several reasons why.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-9215EB0D04AE77F8",
+      "publication_date": "2025-12-03T15:14:40Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-9215EB0D04AE77F8-02",
+      "text": "Here are the most common causes: Insufficient SOL in your wallet: You need to have enough SOL in your wallet to pay transaction fees, it's recommended to have at least 0.03 SOL.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-9215EB0D04AE77F8",
+      "publication_date": "2025-12-03T15:14:40Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-9215EB0D04AE77F8-03",
+      "text": "Undecided faction: You must choose a faction before enlisting your ship in the Faction Fleet.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-9215EB0D04AE77F8",
+      "publication_date": "2025-12-03T15:14:40Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-9215EB0D04AE77F8-04",
+      "text": "What is a faction and how to join in this article?",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-9215EB0D04AE77F8",
+      "publication_date": "2025-12-03T15:14:40Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-9215EB0D04AE77F8-05",
+      "text": "Duplicate ship type: If you've already enlisted a ship of the same type in the Faction Fleet, you need to go to \"MANAGE FLEET,\" then \"MANAGE SHIPS,\" and select the number of ships you want to enlist.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-9215EB0D04AE77F8",
+      "publication_date": "2025-12-03T15:14:40Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-9215EB0D04AE77F8-06",
+      "text": "If these solutions don't resolve your issue, please contact one of our agents using the chatbot found at the bottom right of this page or join us on Discord and create a ticket.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-9215EB0D04AE77F8",
+      "publication_date": "2025-12-03T15:14:40Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Faction Fleet",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://support.staratlas.com/knowledge/how-to-join-a-faction",
+      "anchor_text": "article"
+    },
+    {
+      "url": "https://play.staratlas.com/fleet",
+      "anchor_text": "Faction Fleet"
+    },
+    {
+      "url": "http://discord.gg/staratlas",
+      "anchor_text": "Discord"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://support.staratlas.com/knowledge/how-to-join-a-faction",
+      "anchor_text": "article"
+    },
+    {
+      "url": "https://play.staratlas.com/fleet",
+      "anchor_text": "Faction Fleet"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47057449326355-Why-can-t-I-enlist-my-ship",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.334506Z"
+  }
+}

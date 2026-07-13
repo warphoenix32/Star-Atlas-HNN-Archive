@@ -1,0 +1,182 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-7E2651A64522DACE",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47031402157331-What-types-of-quests-exist-in-Holosim",
+    "title": "What types of quests exist in Holosim?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-02T19:07:23Z",
+    "updated_at": "2025-12-08T18:24:01Z",
+    "original_date_text": "2025-12-02T19:07:23Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “What types of quests exist in Holosim?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Quests are the core of progression in Holosim. They guide you through the game, unlock new features, and provide rewards like crew and zATLAS.\nThere are four main types of quests:\nTutorial Quests\nIntroduce the basic mechanics of Holosim, such as managing fleets, saving your game, and using the menus.\nStoryline Quests\nThe main campaign of Holosim. These quests take you across different aspects of the game, including mining, crafting, combat, and exploration. Completing them unlocks major rewards and marks your progress in each Chapter.\nExpertise Quests\nUnlocked after progressing through the Storyline. These quests allow you to specialize in a career path (mining, combat, scanning, or merchant) and earn special permits to craft advanced ships.\nDaily Quests\nRepeatable missions that refresh every day at 00:00 UTC. Daily quests provide steady rewards and permits, encouraging you to log in regularly.",
+  "content_hash": "6c7d81f88acf7173383393160b44add323f4edfe96521417b9c3b6ec96089721",
+  "entities": [
+    "CORE",
+    "Crew",
+    "Holosim"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-7E2651A64522DACE-01",
+      "text": "Quests are the core of progression in Holosim.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-7E2651A64522DACE",
+      "publication_date": "2025-12-02T19:07:23Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-7E2651A64522DACE-02",
+      "text": "They guide you through the game, unlock new features, and provide rewards like crew and zATLAS.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-7E2651A64522DACE",
+      "publication_date": "2025-12-02T19:07:23Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-7E2651A64522DACE-03",
+      "text": "There are four main types of quests: Tutorial Quests Introduce the basic mechanics of Holosim, such as managing fleets, saving your game, and using the menus.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-7E2651A64522DACE",
+      "publication_date": "2025-12-02T19:07:23Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-7E2651A64522DACE-04",
+      "text": "Storyline Quests The main campaign of Holosim.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-7E2651A64522DACE",
+      "publication_date": "2025-12-02T19:07:23Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-7E2651A64522DACE-05",
+      "text": "These quests take you across different aspects of the game, including mining, crafting, combat, and exploration.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-7E2651A64522DACE",
+      "publication_date": "2025-12-02T19:07:23Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-7E2651A64522DACE-06",
+      "text": "Completing them unlocks major rewards and marks your progress in each Chapter.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-7E2651A64522DACE",
+      "publication_date": "2025-12-02T19:07:23Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-7E2651A64522DACE-07",
+      "text": "Expertise Quests Unlocked after progressing through the Storyline.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-7E2651A64522DACE",
+      "publication_date": "2025-12-02T19:07:23Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-7E2651A64522DACE-08",
+      "text": "These quests allow you to specialize in a career path (mining, combat, scanning, or merchant) and earn special permits to craft advanced ships.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-7E2651A64522DACE",
+      "publication_date": "2025-12-02T19:07:23Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-7E2651A64522DACE-09",
+      "text": "Daily Quests Repeatable missions that refresh every day at 00:00 UTC.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-7E2651A64522DACE",
+      "publication_date": "2025-12-02T19:07:23Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-7E2651A64522DACE-10",
+      "text": "Daily quests provide steady rewards and permits, encouraging you to log in regularly.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-7E2651A64522DACE",
+      "publication_date": "2025-12-02T19:07:23Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "CORE",
+    "Holosim",
+    "Crew"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47031402157331-What-types-of-quests-exist-in-Holosim",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.263107Z"
+  }
+}

@@ -1,0 +1,297 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-4F4F51E8572B49C7",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47021308339987-How-do-DAO-proposals-PIP-work",
+    "title": "How do DAO proposals (PIP) work?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-02T15:04:02Z",
+    "updated_at": "2025-12-08T18:24:35Z",
+    "original_date_text": "2025-12-02T15:04:02Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://govern.staratlas.com/proposals",
+        "anchor_text": "Star Atlas Governance Portal"
+      },
+      {
+        "url": "https://govern.staratlas.com",
+        "anchor_text": "govern.staratlas.com"
+      },
+      {
+        "url": "https://star-atlas-dao.gitbook.io/knowledge-base",
+        "anchor_text": "Star Atlas DAO Gitbook"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “How do DAO proposals (PIP) work?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Star Atlas governance is powered by the community through DAO proposals. These proposals—known as PIPs (POLIS Improvement Proposals)—shape the direction of the ecosystem by allowing PVP (POLIS Voting Power) holders to suggest, debate, and vote on changes.\nWhether you want to shape economic policy, propose treasury spending, or suggest new community initiatives, this guide walks you through the proposal process step by step.\nWhat Are DAO Proposals?\nDAO proposals (PIPs) are formal suggestions made by community members to influence decisions about the future of Star Atlas. Each PIP follows a clear lifecycle—from idea to vote to execution.\nThere are two important things to know:\nYou need PVP (POLIS Voting Power) to submit or interact with proposals.\nAnyone can read and follow the process even without voting rights.\nDAO Proposal Lifecycle – Step by Step\nStep 1: Share Your Idea\nThe proposal process begins in the\n#pip-ideas\nforum on Discord.Only PVP holders can create or comment in this forum. This is the place to discuss early concepts and get feedback from the community.\nStep 2: Draft Your PIP\nOnce your idea is refined, submit a more formal draft in the\n#pip-drafts\nforum.PVP holders can collaborate here to shape the structure and reasoning behind their proposal.\nIf your proposal gains enough upvotes, it proceeds to the next phase.\nStep 3: Council Review & Live Discussion\nProposals with traction are reviewed and discussed by the Star Atlas Council during their weekly community calls.This review ensures alignment with the Star Atlas Constitution and helps finalize the proposal for an official vote.\nStep 4: Official On-Chain Vote\nOnce validated, the proposal is published on the Star Atlas Governance Portal for a formal vote.\nVoting lasts 14 days\nOnly PVP holders can vote\nA PIP passes if quorum and approval thresholds are met\nA summary is also posted in the\n#pip-voting\nforum for visibility\nStep 5: Execution (If Approved)\n48 hours after a successful vote, the Star Atlas Foundation will execute the PIP on-chain or legally, depending on its content. In rare cases, if a proposal is illegal or dangerous, the Foundation may appeal to the Council and community.\nSummary of Key Governance Phases\nPhase\nDescription\nIdeation\nDiscussed in\n#pip-ideas\non Discord\nDrafting\nCreated in\n#pip-drafts\n, refined by PVP holders\nCouncil Review\nReviewed during live DAO Council sessions\nOn-Chain Voting\nHosted on govern.staratlas.com\nExecution\nEnforced by the Foundation after successful votes\nLearn More\nThe first DAO Council built an independent knowledge base with detailed info on governance, POLIS locking, and treasury processes: Star Atlas DAO Gitbook",
+  "content_hash": "39b5bdc11f85dde1e238099bc429f5ce56f6bb298e5caaa235205e81e76abfb5",
+  "entities": [
+    "ATLAS",
+    "POLIS",
+    "Star Atlas DAO",
+    "Star Atlas Foundation"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-4F4F51E8572B49C7-01",
+      "text": "Star Atlas governance is powered by the community through DAO proposals.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-4F4F51E8572B49C7",
+      "publication_date": "2025-12-02T15:04:02Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-4F4F51E8572B49C7-02",
+      "text": "These proposals—known as PIPs (POLIS Improvement Proposals)—shape the direction of the ecosystem by allowing PVP (POLIS Voting Power) holders to suggest, debate, and vote on changes.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-4F4F51E8572B49C7",
+      "publication_date": "2025-12-02T15:04:02Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-4F4F51E8572B49C7-03",
+      "text": "Whether you want to shape economic policy, propose treasury spending, or suggest new community initiatives, this guide walks you through the proposal process step by step.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-4F4F51E8572B49C7",
+      "publication_date": "2025-12-02T15:04:02Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-4F4F51E8572B49C7-04",
+      "text": "DAO proposals (PIPs) are formal suggestions made by community members to influence decisions about the future of Star Atlas.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-4F4F51E8572B49C7",
+      "publication_date": "2025-12-02T15:04:02Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-4F4F51E8572B49C7-05",
+      "text": "Each PIP follows a clear lifecycle—from idea to vote to execution.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-4F4F51E8572B49C7",
+      "publication_date": "2025-12-02T15:04:02Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-4F4F51E8572B49C7-06",
+      "text": "There are two important things to know: You need PVP (POLIS Voting Power) to submit or interact with proposals.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-4F4F51E8572B49C7",
+      "publication_date": "2025-12-02T15:04:02Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-4F4F51E8572B49C7-07",
+      "text": "Anyone can read and follow the process even without voting rights.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-4F4F51E8572B49C7",
+      "publication_date": "2025-12-02T15:04:02Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-4F4F51E8572B49C7-08",
+      "text": "DAO Proposal Lifecycle – Step by Step Step 1: Share Your Idea The proposal process begins in the #pip-ideas forum on Discord.Only PVP holders can create or comment in this forum.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-4F4F51E8572B49C7",
+      "publication_date": "2025-12-02T15:04:02Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-4F4F51E8572B49C7-09",
+      "text": "This is the place to discuss early concepts and get feedback from the community.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-4F4F51E8572B49C7",
+      "publication_date": "2025-12-02T15:04:02Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-4F4F51E8572B49C7-10",
+      "text": "Step 2: Draft Your PIP Once your idea is refined, submit a more formal draft in the #pip-drafts forum.PVP holders can collaborate here to shape the structure and reasoning behind their proposal.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-4F4F51E8572B49C7",
+      "publication_date": "2025-12-02T15:04:02Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-4F4F51E8572B49C7-11",
+      "text": "If your proposal gains enough upvotes, it proceeds to the next phase.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-4F4F51E8572B49C7",
+      "publication_date": "2025-12-02T15:04:02Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-4F4F51E8572B49C7-12",
+      "text": "Step 3: Council Review & Live Discussion Proposals with traction are reviewed and discussed by the Star Atlas Council during their weekly community calls.This review ensures alignment with the Star Atlas Constitution and helps finalize the proposal for an official vote.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-4F4F51E8572B49C7",
+      "publication_date": "2025-12-02T15:04:02Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-4F4F51E8572B49C7-13",
+      "text": "Step 4: Official On-Chain Vote Once validated, the proposal is published on the Star Atlas Governance Portal for a formal vote.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-4F4F51E8572B49C7",
+      "publication_date": "2025-12-02T15:04:02Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-4F4F51E8572B49C7-14",
+      "text": "Voting lasts 14 days Only PVP holders can vote A PIP passes if quorum and approval thresholds are met A summary is also posted in the #pip-voting forum for visibility Step 5: Execution (If Approved) 48 hours after a successful vote, the Star Atlas Foundation will execute the PIP on-chain or legally, depending on its content.",
+      "claim_type": "GOVERNANCE_APPROVAL",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-4F4F51E8572B49C7",
+      "publication_date": "2025-12-02T15:04:02Z",
+      "confidence": "MEDIUM",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-4F4F51E8572B49C7-15",
+      "text": "In rare cases, if a proposal is illegal or dangerous, the Foundation may appeal to the Council and community.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-4F4F51E8572B49C7",
+      "publication_date": "2025-12-02T15:04:02Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "POLIS",
+    "ATLAS"
+  ],
+  "governance_items": [
+    {
+      "claim_id": "CLM-4F4F51E8572B49C7-14",
+      "text": "Voting lasts 14 days Only PVP holders can vote A PIP passes if quorum and approval thresholds are met A summary is also posted in the #pip-voting forum for visibility Step 5: Execution (If Approved) 48 hours after a successful vote, the Star Atlas Foundation will execute the PIP on-chain or legally, depending on its content.",
+      "claim_type": "GOVERNANCE_APPROVAL",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-4F4F51E8572B49C7",
+      "publication_date": "2025-12-02T15:04:02Z",
+      "confidence": "MEDIUM",
+      "requires_follow_up": true
+    }
+  ],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [
+    "Star Atlas DAO",
+    "Star Atlas Foundation"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://discord.com/channels/789226204980707409/1257697155867480134",
+      "anchor_text": "#pip-ideas"
+    },
+    {
+      "url": "https://discord.com/channels/789226204980707409/1257697059142631544",
+      "anchor_text": "#pip-drafts"
+    },
+    {
+      "url": "https://govern.staratlas.com/proposals",
+      "anchor_text": "Star Atlas Governance Portal"
+    },
+    {
+      "url": "https://discord.com/channels/789226204980707409/1257696880595308656",
+      "anchor_text": "#pip-voting"
+    },
+    {
+      "url": "https://govern.staratlas.com",
+      "anchor_text": "govern.staratlas.com"
+    },
+    {
+      "url": "https://star-atlas-dao.gitbook.io/knowledge-base",
+      "anchor_text": "Star Atlas DAO Gitbook"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://govern.staratlas.com/proposals",
+      "anchor_text": "Star Atlas Governance Portal"
+    },
+    {
+      "url": "https://govern.staratlas.com",
+      "anchor_text": "govern.staratlas.com"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47021308339987-How-do-DAO-proposals-PIP-work",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.358585Z"
+  }
+}

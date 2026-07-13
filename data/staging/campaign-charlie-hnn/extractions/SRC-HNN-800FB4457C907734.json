@@ -1,0 +1,170 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-800FB4457C907734",
+    "url_id": "URL-800FB4457C907734",
+    "url": "https://medium.com/the-hologram/the-economic-levers-of-star-atlas-c1ca3c1a5f43",
+    "title": "The Economic Levers of Star Atlas",
+    "author": "Krigs",
+    "publisher": "The Hologram",
+    "publication_identity": "The Hologram (Medium publication)",
+    "published_at": "2023-02-06T11:43:02Z",
+    "updated_at": "2023-02-06T17:51:30Z",
+    "retrieved_at": "2026-07-13T00:14:11.254177Z",
+    "document_type": "ORIGINAL_REPORTING",
+    "source_role": "ORIGINAL_REPORTING",
+    "publication_role": "ORIGINAL_REPORTING",
+    "classification_rationale": "Publication reports a development without explicit interview, editorial, investigative, event, or reference framing."
+  },
+  "source_lineage": {
+    "publication": "The Hologram (Medium publication)",
+    "publication_role": "ORIGINAL_REPORTING",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [
+      {
+        "publication": "YouTube",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/channel/UCDa-YxgNG6A9xpH1qyP0OaQ",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://staratlas.com/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [
+      "Krigs"
+    ],
+    "attribution_chain": [
+      {
+        "from": "YouTube",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://www.youtube.com/channel/UCDa-YxgNG6A9xpH1qyP0OaQ"
+      },
+      {
+        "from": "Star Atlas",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://staratlas.com/"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "This original reporting published by The Hologram on 2023-02-06 documents “The Economic Levers of Star Atlas.” Its surviving text addresses economy, game development, community, lore. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "The Economic Levers of Star Atlas\nKrigs4 min read·Feb 6, 2023\n--\nListen\nShare\nA list of the economic levers in Star Atlas that affect economic resource distribution.\nStar Atlas has touted that it has one of the most robust economic systems in any gaming MMO. Facilitating that dynamic economy are “30 levers” that Star Atlas economists have been quoted saying that they can use to maintain a relative equilibrium in the Star Atlas economy. Until now, what these levers were could be guessed at but were never truly known. That is, until Hologram networked data runners uncovered the mechanisms that these levers control.\nBelow is a list of the “30 economic levers” that can affect the economy of Star Atlas. Each lever name is in bold with a brief description underneath.\nList of Star Atlas Economic Levers\n1.) Resources Scalar Multiplication Description: Global lever that scales the quantity of resources\n2.) Emission Main BreakerGlobal lever which impacts the distribution of effective emissions\n3.) System Richness EmissionsGlobal lever which impacts the effect that system richness has on resource emissions\n4.) Ship Size WeightGlobal lever which impacts the effect that ship size has on resource emissions\n5.) Resource HardnessGlobal lever which impacts the effect that resource hardness has on resource emissions\n6.) Fuel Warp BreakerModule wide lever that directly impacts the nominal cost of warping\n7.) Fuel Planet BreakerModule wide lever that directly impacts the nominal cost of planet exit\n8.) Fuel Refinement EfficiencyModule wide lever that impacts refinement from R20 (hydrogen) to R4 (fuel)\n9.) Mining Food BreakerModule wide lever that directly impacts the nominal cost of mining\n10.) Combat Food BreakerModule wide lever that directly impacts the nominal cost of combat\n11.) Food Refinement EfficiencyModule wide lever that impacts refinement from R20 (organics) to R4 (food)\n12.) Organics Scalar Multiplication Module specific lever that scales the quantity of organics in the economy\n13.) Combat Toolkit BreakerModule wide lever that directly impacts the nominal cost of repairing during combat\n14.) Ammo Refinement EfficiencyModule wide lever that impacts refinement from R20 (copper) to R4 (ammo)\n15.) Toolkit Refinement EfficiencyModule wide lever that impacts refinement from R20 (iron) to R4 (toolkits)\n16.) Combat Ammo BreakerModule wide lever that directly impacts the nominal cost of firing a weapon\n17.) Fuel Combat BreakerModule wide lever that directly impacts the nominal cost of combat.\n18.) HP Scaling FactorModule wide lever that scales health bars\n19.) Crafting UGM MultiplierSB Upgrading Materials Crafting Main Breaker\n20.) SB Upgrading BreakerSB upgrade curve exponent\n21.) SB Upgrading MultiplierSB upgrade multiplier\n22.) Fuel Impulse BreakerModule wide lever that directly impacts the nominal cost of impulse movement\n23.) XP Emissions BaseNull\n24.) XP Emissions Main BreakerNull\n25.) XP Emissions Action MultiplierNull\n26.) XP Emissions Combat DiscounterNull\n27.) LP Emissions BaseUse this to scale the amount of time it takes to achieve a store tier\n28.) LP Emissions Main BreakerUse this to increase the difficulty to obtain the higher LP store tiers\n29.) LP Emissions Action MultiplierUse this to scale the amount of LP dropped from a particular LP action\nImpact to Star Atlas Economy\nFirst and foremost, the combination of lever actuations means that there is a near limitless number of economic combinations that could result of these levers. More importantly, the Star Atlas economic teams has in place a robust set of tools should they need to loosen or tighten economic loops.\nSecond, data runners have uncovered assigned numerical values to these levers. These numerical values provide insight into economic costs. For example, based on assigned values, Food is used twice as much for Combat than it is for Mining. However these numerical values are subject to change in the future as a direct result from public play testing.\nLastly, these tools how a comprehensive approach to managing the Star Atlas economy. Certain tools like the Resource Scalar provide sweeping global changes to the economy. Contrast that with more precise tools like resource refinement efficiency that only effect one particular mechanism. Combined, the entire lever set highlights how the Economics team can either rapidly or gradually make changes to the overall state of the Star Atlas Economy.\nAbout the Author\nKrigs is a pioneer in the world of Star Atlas, having founded The Hologram News Network — an independent meta-news organization that keeps players up to date on all developments regarding Star Atlas. An ardent supporter of emerging technologies, Krigs has been covering this game for over a year and believes passionately in their power to revolutionize our collective gaming experience.\nFollow on Social Media:\nYouTube | Twitter | Instagram | Web\nAbout The Hologram\nThe Hologram is Star Atlas’ first and only independent news network. Our vision is to become the most trusted source of information about Star Atlas and a voice for the whole community. Readers can expect a high standard from our reporting and staff. Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.\nThe Hologram is not endorsed or paid by the Star Atlas team. Any information published by The Hologram nor its writers should be considered as informational in nature and does not constitute any financial advice.",
+  "content_hash": "8d352b899acd118e8c7220bd49d07f2b766354acb68277b9d402c957a8d5e6c4",
+  "major_topics": [
+    "economy",
+    "game development",
+    "community",
+    "lore"
+  ],
+  "entities": [
+    "ATLAS",
+    "Krigs",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-800FB4457C907734-01",
+      "text": "Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-800FB4457C907734",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Star Atlas",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [
+    "ONI"
+  ],
+  "actors": [
+    "Krigs"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://medium.com/@krigsfoniks?source=post_page---byline--c1ca3c1a5f43---------------------------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fthe-hologram%2Fc1ca3c1a5f43&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fthe-economic-levers-of-star-atlas-c1ca3c1a5f43&user=Krigs&userId=41e0c5b141f1&source=---header_actions--c1ca3c1a5f43---------------------clap_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Frepost%2Fp%2Fc1ca3c1a5f43&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fthe-economic-levers-of-star-atlas-c1ca3c1a5f43&user=Krigs&userId=41e0c5b141f1&source=---header_actions--c1ca3c1a5f43---------------------repost_header------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fc1ca3c1a5f43&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fthe-economic-levers-of-star-atlas-c1ca3c1a5f43&source=---header_actions--c1ca3c1a5f43---------------------bookmark_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2Fplans%3Fdimension%3Dpost_audio_button%26postId%3Dc1ca3c1a5f43&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fthe-economic-levers-of-star-atlas-c1ca3c1a5f43&source=---header_actions--c1ca3c1a5f43---------------------post_audio_button------------------",
+      "anchor_text": "Listen"
+    },
+    {
+      "url": "https://medium.com/u/5ed69ff9cfb0?source=post_page---user_mention--c1ca3c1a5f43---------------------------------------",
+      "anchor_text": "Star Atlas"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCDa-YxgNG6A9xpH1qyP0OaQ",
+      "anchor_text": "YouTube"
+    },
+    {
+      "url": "https://twitter.com/home",
+      "anchor_text": "Twitter"
+    },
+    {
+      "url": "https://thehologram.io/",
+      "anchor_text": "Web"
+    },
+    {
+      "url": "https://medium.com/the-hologram",
+      "anchor_text": "The Hologram"
+    },
+    {
+      "url": "https://staratlas.com/",
+      "anchor_text": "Star Atlas"
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "https://medium.com/the-hologram/the-economic-levers-of-star-atlas-c1ca3c1a5f43",
+    "final_url": "https://medium.com/the-hologram/the-economic-levers-of-star-atlas-c1ca3c1a5f43",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 140331,
+    "elapsed_ms": 829,
+    "retrieval_mode": "LIVE",
+    "archive_capture": null
+  }
+}

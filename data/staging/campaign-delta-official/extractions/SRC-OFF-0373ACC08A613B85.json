@@ -1,0 +1,135 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-0373ACC08A613B85",
+    "url": "https://staratlas.com/game/game-modes/",
+    "title": "Game Modes | Star Atlas",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas / ATMTA",
+    "published_at": null,
+    "updated_at": null,
+    "original_date_text": null,
+    "document_type": "REFERENCE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas / ATMTA",
+    "publication_role": "LORE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://play.staratlas.com",
+        "anchor_text": "Play Now"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official lore titled “Game Modes | Star Atlas.” This record preserves what Star Atlas / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Game Modes | Star Atlas\n0001.\nGame Modes\nStar Atlas delivers diverse gameplay experiences designed for different playstyles. From intense PvP combat arenas to cooperative PvE missions, the game offers something for combat enthusiasts, strategists, and explorers alike.\nYour browser does not support the video tag.\n5+\nGame Modes\nPvP\n& PvE\nSolo\n& Co-op\nRanked\n& Casual\nArena Combat\nTest your piloting skills in dedicated combat arenas. The X5 Arena features dedicated servers for smooth, competitive ship-to-ship battles.\nDedicated server infrastructure\nRanked matchmaking\nMultiple arena layouts\nShip class balancing\nRacing Circuits\nPush your ships to their limits on high-speed racing tracks through asteroid fields and space stations.\nTime trials\nHead-to-head racing\nShip customization for speed\nLeaderboard competitions\nPvE Encounters\nFace AI-controlled enemies in dogfights and missions. Complete bounties, defend convoys, and take on escalating challenges.\nBounty hunting missions\nConvoy defense\nBoss encounters\nCooperative multiplayer\nOpen World\nRoam freely through the Galia Expanse. The open-world mode combines exploration, combat, mining, and trading.\nSeamless world\nDynamic events\nPlayer-driven encounters\nPersistent universe\nChoose Your Battle\nWhether you prefer structured arena combat or the freedom of open-world exploration, Star Atlas has a mode for you.\nPlay Now\nExplore More Features\nGalia ExpanseYour Fleet, Your WayLife in GaliaFleet CommandHolosimSAGE Labs",
+  "content_hash": "2ee00c58cbac80933d7ea39a97e3a85c2e8377d0262669bfbfbf099371d5f08d",
+  "entities": [
+    "ATLAS"
+  ],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [
+    "Galia"
+  ],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://play.staratlas.com",
+      "anchor_text": "Play Now"
+    },
+    {
+      "url": "https://staratlas.com/game/galia/",
+      "anchor_text": "Galia Expanse"
+    },
+    {
+      "url": "https://staratlas.com/game/your-fleet-your-way/",
+      "anchor_text": "Your Fleet, Your Way"
+    },
+    {
+      "url": "https://staratlas.com/game/life-in-galia/",
+      "anchor_text": "Life in Galia"
+    },
+    {
+      "url": "https://staratlas.com/game/fleet-command/",
+      "anchor_text": "Fleet Command"
+    },
+    {
+      "url": "https://staratlas.com/game/holosim/",
+      "anchor_text": "Holosim"
+    },
+    {
+      "url": "https://staratlas.com/game/sage-labs/",
+      "anchor_text": "SAGE Labs"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://play.staratlas.com",
+      "anchor_text": "Play Now"
+    },
+    {
+      "url": "https://staratlas.com/game/galia/",
+      "anchor_text": "Galia Expanse"
+    },
+    {
+      "url": "https://staratlas.com/game/your-fleet-your-way/",
+      "anchor_text": "Your Fleet, Your Way"
+    },
+    {
+      "url": "https://staratlas.com/game/life-in-galia/",
+      "anchor_text": "Life in Galia"
+    },
+    {
+      "url": "https://staratlas.com/game/fleet-command/",
+      "anchor_text": "Fleet Command"
+    },
+    {
+      "url": "https://staratlas.com/game/holosim/",
+      "anchor_text": "Holosim"
+    },
+    {
+      "url": "https://staratlas.com/game/sage-labs/",
+      "anchor_text": "SAGE Labs"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "LOW",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://staratlas.com/game/game-modes/",
+    "final_url": "https://staratlas.com/game/game-modes/",
+    "http_status": 200,
+    "content_type": "text/html",
+    "response_size": 8859,
+    "retrieved_at": "2026-07-13T01:05:03.438559Z",
+    "elapsed_ms": 213
+  }
+}

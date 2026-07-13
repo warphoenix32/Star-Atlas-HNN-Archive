@@ -1,0 +1,288 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-6A56B5D30E7EBCA4",
+    "url": "https://build.staratlas.com/dev-resources/on-chain-game-systems/galactic-marketplace",
+    "title": "Star Atlas Build",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Build / ATMTA",
+    "published_at": null,
+    "updated_at": "2026-04-16T16:32:35.000Z",
+    "original_date_text": "2026-04-16T16:32:35.000Z",
+    "document_type": "TECHNICAL_DOCUMENTATION",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Build / ATMTA",
+    "publication_role": "TECHNICAL_DOCUMENTATION",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://staratlasmeta.github.io/factory/classes/GmClientService.html",
+        "anchor_text": "TypeDocs"
+      },
+      {
+        "url": "https://staratlasmeta.github.io/factory/classes/GalacticMarketplaceService.html",
+        "anchor_text": "TypeDocs"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Build / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official technical documentation titled “Star Atlas Build.” This record preserves what Star Atlas Build / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Galactic Marketplace | Star Atlas Build\nSkip to contentStar Atlas BuildSearchK\nAppearance\nMenuReturn to top\nGalactic Marketplace ​\nIntroduction ​\nMainnet Key Label\nProgram Address\nProgram ID\ntraderDnaR5w6Tcoi3NFm53i48FTDNbGjBSZwWXDRrg\nThe Galactic Marketplace is a decentralized trading protocol on the Solana blockchain that provides an MMO Auction House experience as a public utility.\nAt a glance:\nFast and responsive data\nFully decentralized peer-to-peer trading through an MMO auction house-style experience\nEasy integration with decentralized applications and protocols\nAs a user, here are some of the things you're able to do with the Galactic Marketplace:\nCreate your own buy and sell orders for any Solana token\nQuery, view, and cancel your existing orders\nBuy from and sell into other people's orders\nTechnical Overview ​\nWARNING\nIf you're using\nGmClientService\nto fetch order data, you can expect\nprice\nfield of an\nOrder\nto be the price in base units. Use\nuiPrice\nto retrieve a decimal-adjusted value.\nimport { BN } from 'bn.js';\nclass Order {\nid: string;\norderMint: string;\ncurrencyMint: string;\ncurrencyDecimals: number;\norderOriginationQty: number;\norderQtyRemaining: number;\norderType: OrderSide;\nowner: string;\nownerAssetTokenAccount: string;\nownerCurrencyTokenAccount: string;\nprice: BN;\nuiPrice: number;\n};\ntypescript\nenum OrderSide {\nBuy = 'buy',\nSell = 'sell',\n}\nWhat items can be traded on the Galactic Marketplace? ​\nAny arbitrary\nitemMint\ncan be transacted permissionlessly. This can be any tokenized asset including SFTs and NFTs.\nWhat currency pairs are valid on the Galactic Marketplace? ​\nThere are a limited number of valid\ncurrencyMint\noptions:\nToken Symbol\nMainnet Address\nATLAS\nATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx\nUSDC\nEPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v\nServices and Examples ​\nGmClientService ​\nWhat is it? ​\nThe\nGmClientService\nis used to:\nConstruct Solana transactions to interact with the Galactic Marketplace\nCreating orders\nCanceling orders\nFilling orders\nFetch metadata about registered currencies\nFetch lists of open orders for combinations of:\nSpecific mints\nUser PublicKeys\nSpecific currencies\nINFO\nSee the TypeDocs for a full list of\nGmClientService\nmethods\nFetch a list of supported currencies ​\nBecause the currency information is unlikely to change often this result will be cached for the lifecycle of\nGmClientService\nto reduce the total number of RPC calls made. If you wish to forcefully refetch this information pass\ntrue\nas an optional argument into\ngetRegisteredCurrencies()\n.\ntypescript\nimport { Connection, PublicKey } from '@solana/web3.js';\nimport { GmClientService } from '@staratlas/factory';\nconst connection = new Connection();\nconst programId = new PublicKey();\nconst gmClientService = new GmClientService();\nconst currencyInfo = await gmClientService.getRegisteredCurrencies(\nconnection,\nprogramId,\nfalse, // or true to invalidate the cache\n);\nconsole.log(currencyInfo);\nFetch all open orders ​\nRetrieve a list of all open orders for all currencies and items in the Galactic Marketplace.\ntypescript\nimport { Connection, PublicKey } from '@solana/web3.js';\nimport { GmClientService } from '@staratlas/factory';\nconst connection = new Connection();\nconst programId = new PublicKey();\nconst gmClientService = new GmClientService();\nconst allOrders = await gmpClientService.getAllOpenOrders(connection, programId);\nconsole.log(allOrders);\nCreate an order ​\nCreate an order for\nitemMint\n- use\norderSide\nto specify the direction of the trade.\nWhen creating a\nSell\norder, the\norderCreator\nmust deposit their\nitemMint\ninto escrow and likewise when creating a\nBuy\norder they must deposit their\nquoteMint\ninto escrow.\ntypescript\nimport { Connection, PublicKey, Transaction } from '@solana/web3.js';\nimport { GmClientService, OrderSide } from '@staratlas/factory';\nimport MyWalletService from '../MyWalletService';\nconst connection = new Connection();\nconst orderCreator = MyWalletService.publicKey;\nconst itemMint = new PublicKey();\nconst quoteMint = new PublicKey();\nconst quantity = 12;\nconst uiPrice = 24.187;\nconst programId = new PublicKey();\nconst orderSide = OrderSide.Sell; // The user is selling their itemMint and asking for quoteMint\nconst gmClientService = new GmClientService();\n// Note that the price should be a BN which is decimal-adjusted base token units\nconst price = gmClientService.getBnPriceForCurrency(\nconnection,\nuiPrice,\nquoteMint,\nprogramId,\n);\nconst orderTx = await gmClientService.getInitializeOrderTransaction(\nconnection,\norderCreator\nitemMint,\nquoteMint,\nquantity,\nprice,\nprogramId,\norderSide,\n);\nconst transactionId = await connection.sendTransaction(\norderTx,\n[MyWalletService.wallet],\n);\nconsole.log(transactionId);\nFill an order ​\nNote that orders can be partially filled. For example, if a player has an order to buy 10 Pearce X4s a seller can fill 4 out of those 10 while leaving the order open for other users to interact with.\ngetCreateExchangeTransaction()\nwill work for both selling into a\nBuy\norder and buying from a\nSell\norder.\ntypescript\nimport { Connection, PublicKey, Transaction } from '@solana/web3.js';\nimport { GmClientService, Order } from '@staratlas/factory';\nimport MyWalletService from '../MyWalletService';\nconst connection = new Connection();\nconst orderTaker = MyWalletService.publicKey;\nconst purchaseQty = 4;\nconst programId = new PublicKey();\nconst gmClientService = new GmClientService();\nconst order = gmClientService.getOpenOrder('some_order_id');\nconst exchangeTx = await gmClientService.getCreateExchangeTransaction(\nconnection,\norder,\norderTaker,\npurchaseQty,\nprogramId,\n);\nconst transactionId = await connection.sendTransaction(\nexchangeTx,\n[MyWalletService.wallet],\n);\nconsole.log(transactionId);\nCancel an order ​\nOrders can be canceled as long as they are still open, whether they have been partially filled or not. If a partially filled order is canceled, the unfilled portion of the order is returned to the order creator.\ntypescript\nimport { Connection, PublicKey, Transaction } from '@solana/web3.js';\nimport { GmClientService, Order } from '@staratlas/factory';\nimport MyWalletService from '../MyWalletService';\nconst connection = new Connection();\nconst programId = new PublicKey();\nconst gmClientService = new GmClientService();\nconst order = gmpClientService.getOpenOrder('some_order_id');\nconst orderAccount = new PublicKey(order.id);\nconst orderInitializer = MyWalletService.publicKey;\nconst cancelTx = await gmpClientService.getCreateExchangeTransaction(\nconnection,\norderAccount,\norderInitializer,\nprogramId,\n);\nconst transactionId = await connection.sendTransaction(\ncancelTx,\n[MyWalletService.wallet],\n);\nconsole.log(transactionId);\nGmOrderbookService ​\nWARNING\nBecause the marketplace is fully decentralized, the methods on this service will return orders for all items being transacted on the Galactic Marketplace, even items which were not created by Star Atlas.\nIf you want to be sure an item was minted for Star Atlas use the Galaxy API to fetch this list.\nWhat is it? ​\nThe\nGmOrderbookService\nis a read-only data caching layer which maintains a real-time list of all of the open orders on the Galactic Marketplace.\nINFO\nSee the TypeDocs for a full list of methods\nStart the service ​\ntypescript\nimport { Connection, PublicKey } from '@solana/web3.js';\nimport { GmOrderbookService } from '@staratlas/factory';\nconst programId = new PublicKey();\nconst connection = new Connection();\nconst gmOrderbookService = new GmOrderbookService(\nconnection,\nprogramId,\n);\nawait gmOrderbookService.start();\nGet a list of all mints being transacted on the marketplace ​\ntypescript\nconst allMints: string[] = gmOrderbookService.getAllMints();\nconsole.log(allMints.length);\nGet orders for a user ​\ntypescript\nimport { MyWalletService } from '../MyWalletService';\nconst ordersForMyWallet = gmOrderbookService.getAllOrdersForUserAddress(MyWalletService.publicKey);\nconsole.log(ordersForMyWallet.length);\nGet orders for an item mint ​\ntypescript\nimport { PublicKey } from '@solana/web3.js';\nconst itemMint = 'DdpXnnYsyUQgJby8TDHbmPwkKyGF4U6bXwCXTQZsrfKP';\nconst ordersForItemMint = gmOrderbookService.getAllOrdersByItemMint(itemMint);\nconsole.log(ordersForItemMint.length);\nRegistering marketplace event callbacks ​\nClass instances which implement\nGmOrderbookService\ncan register event handlers when the marketplace state changes.\nINFO\nIf you just need raw event callbacks without maintaining a snapshot of the on-chain marketplace state consider implementing GmEventService instead\nExample ​\ntypescript\nimport {\nGmEventHandler,\nGmChangeEvent,\nGmEventType,\nGmOrderbookService,\n} from '@staratlas/factory';\nexport class MyService implements GmEventHandler {\nprivate gmOrderbookService: GmOrderbookService;\nconstructor(rpcUrl: string, programId: PublicKey) {\nthis.gmOrderbookService = new GmOrderbookService(rpcUrl, programId);\n// Register this class as an event handler\nthis.gmOrderbookService.addOnEventHandler(this);\n}\n// onEvent will be fired any time a change occurs in the marketplace state\nonEvent(event: GmChangeEvent): void {\nswitch(event.eventType) {\ncase GmEventType.orderAdded:\nthis.handleOrderAdded(event);\nbreak;\ncase GmEventType.orderModified:\nthis.handleOrderModified(event);\nbreak;\ncase GmEventType.orderRemoved:\nthis.handleOrderRemoved(event);\nbreak;\ndefault:\nbreak;\n}\nprivate handleOrderAdded(event: GmChangeEvent): void {\nconsole.log(event.order);\n}\nprivate handleOrderModified(event: GmChangeEvent): void {\nconsole.log(event.order);\n}\nprivate handleOrderRemoved(event: GmChangeEvent): void {\nconsole.log(event.order);\n}\nGmEventService ​\nWhat is it? ​\nThe\nGmEventService\ncan be used to trigger an\nonEvent\ncallback any time an order is created, modified, or canceled on the Galactic Marketplace.\nINFO\nThe\nGmEventService\nis implemented by the\nGmOrderbookService\nand is how its internal state of the marketplace orderbooks is kept up-to-date\nExample ​\ntypescript\nimport { Connection, PublicKey } from '@solana/web3.js';\nimport { GmEventService, GmEventType, Order} from '@staratlas/factory';\nconst connection = new Connection();\nconst programId = new PublicKey();\nconst eventHandler = (\neventType: GmEventType,\norder: Order,\nslotContext: number,\n) => {\nconsole.log(eventType, order, slotContext);\n}\nconst gmEventService = new GmEventService(\nconnection,\nprogramId,\n);\n// As events are emitted from the program eventHandler will be called\ngmEventService.setEventHandler(eventHandler);",
+  "content_hash": "09e5c20530baf71ac6c2ae92dc182af939f97a8c9c2b15d4f4edd12ad79fbc26",
+  "entities": [
+    "ATLAS",
+    "Galactic Marketplace",
+    "Solana"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-6A56B5D30E7EBCA4-01",
+      "text": "Galactic Marketplace | Star Atlas Build Skip to contentStar Atlas BuildSearchK Appearance MenuReturn to top Galactic Marketplace ​ Introduction ​ Mainnet Key Label Program Address Program ID traderDnaR5w6Tcoi3NFm53i48FTDNbGjBSZwWXDRrg The Galactic Marketplace is a decentralized trading protocol on the Solana blockchain that provides an MMO Auction House experience as a public utility.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-6A56B5D30E7EBCA4",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-6A56B5D30E7EBCA4-02",
+      "text": "Use uiPrice to retrieve a decimal-adjusted value.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-6A56B5D30E7EBCA4",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-6A56B5D30E7EBCA4-03",
+      "text": "import { BN } from 'bn.js'; class Order { id: string; orderMint: string; currencyMint: string; currencyDecimals: number; orderOriginationQty: number; orderQtyRemaining: number; orderType: OrderSide; owner: string; ownerAssetTokenAccount: string; ownerCurrencyTokenAccount: string; price: BN; uiPrice: number; }; typescript enum OrderSide { Buy = 'buy', Sell = 'sell', } What items can be traded on the Galactic Marketplace?",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-6A56B5D30E7EBCA4",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-6A56B5D30E7EBCA4-04",
+      "text": "​ Any arbitrary itemMint can be transacted permissionlessly.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-6A56B5D30E7EBCA4",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-6A56B5D30E7EBCA4-05",
+      "text": "This can be any tokenized asset including SFTs and NFTs.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-6A56B5D30E7EBCA4",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-6A56B5D30E7EBCA4-06",
+      "text": "What currency pairs are valid on the Galactic Marketplace?",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-6A56B5D30E7EBCA4",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-6A56B5D30E7EBCA4-07",
+      "text": "​ There are a limited number of valid currencyMint options: Token Symbol Mainnet Address ATLAS ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx USDC EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v Services and Examples ​ GmClientService ​ What is it?",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-6A56B5D30E7EBCA4",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-6A56B5D30E7EBCA4-08",
+      "text": "If you wish to forcefully refetch this information pass true as an optional argument into getRegisteredCurrencies() .",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-6A56B5D30E7EBCA4",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-6A56B5D30E7EBCA4-09",
+      "text": "typescript import { Connection, PublicKey } from '@solana/web3.js'; import { GmClientService } from '@staratlas/factory'; const connection = new Connection(); const programId = new PublicKey(); const gmClientService = new GmClientService(); const allOrders = await gmpClientService.getAllOpenOrders(connection, programId); console.log(allOrders); Create an order ​ Create an order for itemMint - use orderSide to specify the direction of the trade.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-6A56B5D30E7EBCA4",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-6A56B5D30E7EBCA4-10",
+      "text": "When creating a Sell order, the orderCreator must deposit their itemMint into escrow and likewise when creating a Buy order they must deposit their quoteMint into escrow.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-6A56B5D30E7EBCA4",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-6A56B5D30E7EBCA4-11",
+      "text": "For example, if a player has an order to buy 10 Pearce X4s a seller can fill 4 out of those 10 while leaving the order open for other users to interact with.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-6A56B5D30E7EBCA4",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-6A56B5D30E7EBCA4-12",
+      "text": "getCreateExchangeTransaction() will work for both selling into a Buy order and buying from a Sell order.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-6A56B5D30E7EBCA4",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-6A56B5D30E7EBCA4-13",
+      "text": "If a partially filled order is canceled, the unfilled portion of the order is returned to the order creator.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-6A56B5D30E7EBCA4",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-6A56B5D30E7EBCA4-14",
+      "text": "If you want to be sure an item was minted for Star Atlas use the Galaxy API to fetch this list.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-6A56B5D30E7EBCA4",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-6A56B5D30E7EBCA4-15",
+      "text": "​ The GmOrderbookService is a read-only data caching layer which maintains a real-time list of all of the open orders on the Galactic Marketplace.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-6A56B5D30E7EBCA4",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Galactic Marketplace",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [
+    "Solana"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://build.staratlas.com/dev-resources/on-chain-game-systems/galactic-marketplace",
+      "anchor_text": "Skip to content"
+    },
+    {
+      "url": "https://build.staratlas.com/",
+      "anchor_text": "Star Atlas Build"
+    },
+    {
+      "url": "https://discord.com/invite/staratlas",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://staratlasmeta.github.io/factory/classes/GmClientService.html",
+      "anchor_text": "TypeDocs"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/galaxy-api/items",
+      "anchor_text": "Galaxy API"
+    },
+    {
+      "url": "https://staratlasmeta.github.io/factory/classes/GalacticMarketplaceService.html",
+      "anchor_text": "TypeDocs"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://build.staratlas.com/dev-resources/on-chain-game-systems/galactic-marketplace",
+      "anchor_text": "Skip to content"
+    },
+    {
+      "url": "https://build.staratlas.com/",
+      "anchor_text": "Star Atlas Build"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/galaxy-api/items",
+      "anchor_text": "Galaxy API"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://build.staratlas.com/dev-resources/on-chain-game-systems/galactic-marketplace",
+    "final_url": "https://build.staratlas.com/dev-resources/on-chain-game-systems/galactic-marketplace",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 97882,
+    "retrieved_at": "2026-07-13T01:04:29.644340Z",
+    "elapsed_ms": 203
+  }
+}

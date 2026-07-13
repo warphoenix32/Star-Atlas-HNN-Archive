@@ -1,0 +1,118 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-F2263ECD65B0488A",
+    "url": "https://github.com/staratlasmeta/star-atlas-cookbook#readme",
+    "title": "star-atlas-cookbook README",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "staratlasmeta GitHub organization",
+    "published_at": "2024-04-11T14:55:54Z",
+    "updated_at": "2025-02-28T19:24:00Z",
+    "original_date_text": "2024-04-11T14:55:54Z",
+    "document_type": "TECHNICAL_DOCUMENTATION",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "staratlasmeta GitHub organization",
+    "publication_role": "TECHNICAL_DOCUMENTATION",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "staratlasmeta GitHub organization"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official technical documentation titled “star-atlas-cookbook README.” This record preserves what staratlasmeta GitHub organization publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "<a name=\"readme-top\"></a>\n\n<div align=\"center\">\n<h3 align=\"center\">Star Atlas Cookbook</h3>\n  <p align=\"left\">\n    A collection of code examples for demonstrating connectivity between Solana and Star Atlas with TypeScript. <br>\n    Each folder in this project is a stand alone recipe (app). <br>\n    Follow each readme file for setup and run instructions. <br> \n    Community contribution's are welcome. <br>\n  </p>\n</div>\n",
+  "content_hash": "18d27c3e453707d33558f7b07a9a82c5d7f6b31372722764b08802ac62cc4f56",
+  "entities": [
+    "ATLAS",
+    "Solana"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-F2263ECD65B0488A-01",
+      "text": "<a name=\"readme-top\"></a>  <div align=\"center\"> <h3 align=\"center\">Star Atlas Cookbook</h3>   <p align=\"left\">     A collection of code examples for demonstrating connectivity between Solana and Star Atlas with TypeScript.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F2263ECD65B0488A",
+      "publication_date": "2024-04-11T14:55:54Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F2263ECD65B0488A-02",
+      "text": "<br>     Each folder in this project is a stand alone recipe (app).",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F2263ECD65B0488A",
+      "publication_date": "2024-04-11T14:55:54Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F2263ECD65B0488A-03",
+      "text": "<br>     Follow each readme file for setup and run instructions.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F2263ECD65B0488A",
+      "publication_date": "2024-04-11T14:55:54Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F2263ECD65B0488A-04",
+      "text": "<br>      Community contribution's are welcome.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F2263ECD65B0488A",
+      "publication_date": "2024-04-11T14:55:54Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [
+    "Solana"
+  ],
+  "guilds": [],
+  "external_sources": [],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://api.github.com/repos/staratlasmeta/star-atlas-cookbook/readme",
+    "final_url": "https://api.github.com/repos/staratlasmeta/star-atlas-cookbook/readme",
+    "http_status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "response_size": 1466,
+    "retrieved_at": "2026-07-13T01:05:08.063218Z",
+    "elapsed_ms": 292
+  }
+}

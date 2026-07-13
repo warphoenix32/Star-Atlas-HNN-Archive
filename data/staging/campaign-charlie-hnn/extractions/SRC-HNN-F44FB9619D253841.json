@@ -1,0 +1,223 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-F44FB9619D253841",
+    "url_id": "URL-F44FB9619D253841",
+    "url": "https://thehologram.io/atlas-price-falls-to-historic-low",
+    "title": "ATLAS Price Falls to Historic Low | The Hologram",
+    "author": "UNKNOWN",
+    "publisher": "Hologram News Network (HNN)",
+    "publication_identity": "Archived HNN website (thehologram.io)",
+    "published_at": "2022-05-12T05:18:28+00:00",
+    "updated_at": "2022-05-12T05:24:43+00:00",
+    "retrieved_at": "2026-07-13T00:10:34.588900Z",
+    "document_type": "REFERENCE",
+    "source_role": "REFERENCE",
+    "publication_role": "REFERENCE",
+    "classification_rationale": "Publication is structured as a guide or reference."
+  },
+  "source_lineage": {
+    "publication": "Archived HNN website (thehologram.io)",
+    "publication_role": "REFERENCE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "publication": "Solana",
+        "author": "UNKNOWN",
+        "url": "http://solana.com/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "StarAtlas.com",
+        "author": "UNKNOWN",
+        "url": "https://staratlas.com/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Play.StarAtlas.com",
+        "author": "UNKNOWN",
+        "url": "http://play.staratlas.com/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Faction Fleet",
+        "author": "UNKNOWN",
+        "url": "https://play.staratlas.com/fleet",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [],
+    "attribution_chain": [
+      {
+        "from": "Solana",
+        "to": "Archived HNN website (thehologram.io)",
+        "relationship": "REFERENCES",
+        "url": "http://solana.com/"
+      },
+      {
+        "from": "StarAtlas.com",
+        "to": "Archived HNN website (thehologram.io)",
+        "relationship": "REFERENCES",
+        "url": "https://staratlas.com/"
+      },
+      {
+        "from": "Play.StarAtlas.com",
+        "to": "Archived HNN website (thehologram.io)",
+        "relationship": "REFERENCES",
+        "url": "http://play.staratlas.com/"
+      },
+      {
+        "from": "Faction Fleet",
+        "to": "Archived HNN website (thehologram.io)",
+        "relationship": "REFERENCES",
+        "url": "https://play.staratlas.com/fleet"
+      }
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "This reference published by Hologram News Network (HNN) on 2022-05-12 documents “ATLAS Price Falls to Historic Low | The Hologram.” Its surviving text addresses governance, economy, guilds and DACs, game development, community, lore, technology. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "ATLAS Price Falls to Historic Low\nPosted by Krigs | May 12, 2022 | Business\nToday, the price of the ATLAS token fell to news in what is sure to be a historic moment in the Star Atlas metaverse. Late Wednesday evening, the price of ATLAS fell to below .01 USD. The crash of ATLAS, and the related POLIS token, was driven by the broader sell-off of major layer one crypto currencies like Bitcoin and Ethereum. Compounding the issue was the unpegging of the UST stable coin from the US dollar. Associated token Luna lost nearly 90% in value shortly thereafter.\nThe price of Solana also suffered major setbacks as investors seek to reduce risk in their portfolios across the board. The overall downtrend in crypto markets comes as the United States Federal Reserve focuses on combating soaring inflation through the tightening of fiscal policy.\nShips selling on the Galactic Marketplace have also seen a significant decrease in value as increased sell pressure drives valuation lower. For the past 6 months, ships have dropped as low as 50% from their original value. However, Wednesday’s crypto sell off has driven ship prices to new historic lows. Common ships like the Fimbul Airbike are now valued at $3.08 or roughly 80% down from its volume weighted average price.\nWhile market sentiment remains grim for the short term, the historic low price of ATLAS represents a unique opportunity for long term investors that remain bullish on the Star Atlas project. Several rare and expensive ships are now significantly cheaper than before. These ships could potentially represent a huge upswing as crypto prices recover. Alternatively, players looking to acquire a larger ship for play purposes can now enter at a lower price point. Star Atlas intends to release its updated SCREAM module later this year which will bring a robust gameplay environment to the community.\nABOUT STAR ATLAS\nStar Atlas is a next-gen gaming metaverse emerging from the confluence of state-of-the-art blockchain, real-time graphics, multiplayer video games, and decentralized financial technologies.\nUsing Unreal Engine 5’s Nanite, real-time graphics technology allows for cinematic quality video game visuals. In addition, blockchain technology using the Solana protocol establishes a largely serverless and secured gameplay experience. Non-fungible tokens obtained and traded within Star Atlas create an economy that replicates tangible world assets and ownership. To learn more, visit StarAtlas.com, join a faction at Play.StarAtlas.com and send your spaceships on a deep space mission by enrolling them in a Faction Fleet.\nABOUT THE HOLOGRAM\nThe Hologram is an independent news organization dedicated to covering the latest Star Atlas content from all sides. The Hologram was founded on the principle of uniting creators from across their diverse fields and showcasing their talent. The Hologram also recognizes the importance of our reader’s time and will always strive to give you what you need, when you need it.\nThe Hologram is not endorsed or paid by the Star Atlas team. Any information published by The Hologram or its writers should be considered as informational in nature and does not constitute any financial advice.\nShare:\n11:00 pm - 11:30 pm UTC+0\nGuild Gaming Network – COD: Warzone\nFeatured\nAll day\nThe Mob Machina NFT Launch",
+  "content_hash": "a5ccf89aec8109c3e40cb38ac98c00c7fc0e019e1cacb32ae0ef94a1e492e9b4",
+  "major_topics": [
+    "governance",
+    "economy",
+    "guilds and DACs",
+    "game development",
+    "community",
+    "lore",
+    "technology"
+  ],
+  "entities": [
+    "ATLAS",
+    "Krigs",
+    "POLIS",
+    "SCREAM",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-F44FB9619D253841-01",
+      "text": "Star Atlas intends to release its updated SCREAM module later this year which will bring a robust gameplay environment to the community.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-F44FB9619D253841",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-F44FB9619D253841-02",
+      "text": "The Hologram also recognizes the importance of our reader’s time and will always strive to give you what you need, when you need it.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-F44FB9619D253841",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Star Atlas",
+    "POLIS",
+    "ATLAS",
+    "SCREAM"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [
+    "Krigs"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://thehologram.io/author/krigs/",
+      "anchor_text": "Krigs"
+    },
+    {
+      "url": "https://thehologram.io/category/business/",
+      "anchor_text": "Business"
+    },
+    {
+      "url": "https://thehologram.io/scream-fleet-limits-confirmed/",
+      "anchor_text": "SCREAM"
+    },
+    {
+      "url": "http://solana.com/",
+      "anchor_text": "Solana"
+    },
+    {
+      "url": "https://staratlas.com/",
+      "anchor_text": "StarAtlas.com"
+    },
+    {
+      "url": "http://play.staratlas.com/",
+      "anchor_text": "Play.StarAtlas.com"
+    },
+    {
+      "url": "https://play.staratlas.com/fleet",
+      "anchor_text": "Faction Fleet"
+    },
+    {
+      "url": "https://thehologram.io/about-us/",
+      "anchor_text": "Hologram"
+    },
+    {
+      "url": "http://www.facebook.com/sharer.php?u=https://thehologram.io/atlas-price-falls-to-historic-low/&t=ATLAS%20Price%20Falls%20to%20Historic%20Low",
+      "anchor_text": ""
+    },
+    {
+      "url": "http://twitter.com/intent/tweet?text=ATLAS%20Price%20Falls%20to%20Historic%20Low%20https://thehologram.io/atlas-price-falls-to-historic-low/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://plus.google.com/share?url=https://thehologram.io/atlas-price-falls-to-historic-low/&t=ATLAS%20Price%20Falls%20to%20Historic%20Low",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/event/guild-gaming-network-cod-warzone/",
+      "anchor_text": "Guild Gaming Network – COD: Warzone"
+    },
+    {
+      "url": "https://thehologram.io/event/the-mob-mechina-nft-launch/",
+      "anchor_text": "The Mob Machina NFT Launch"
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "UNKNOWN",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Author is not explicit in the surviving publication metadata."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://web.archive.org/web/20220516014619id_/https://thehologram.io/atlas-price-falls-to-historic-low/",
+    "final_url": "https://web.archive.org/web/20220516014619id_/https://thehologram.io/atlas-price-falls-to-historic-low/",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "response_size": 134172,
+    "elapsed_ms": 5622,
+    "retrieval_mode": "INTERNET_ARCHIVE",
+    "archive_capture": {
+      "timestamp": "20220516014619",
+      "original": "https://thehologram.io/atlas-price-falls-to-historic-low/",
+      "digest": "XMYSPSTQWACN7OBBATB3F3IKNUBBZCTM"
+    }
+  }
+}

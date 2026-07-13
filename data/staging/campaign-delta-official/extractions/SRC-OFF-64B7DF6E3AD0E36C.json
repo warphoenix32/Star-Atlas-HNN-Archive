@@ -1,0 +1,136 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-64B7DF6E3AD0E36C",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47061465761555-What-are-structures",
+    "title": "What are structures?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-03T17:02:12Z",
+    "updated_at": "2025-12-08T18:23:11Z",
+    "original_date_text": "2025-12-03T17:02:12Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “What are structures?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "In Star Atlas, structures are a class of NFT assets used to build, extract, produce, or manage operations across the metaverse.\nThey are the backbone of many gameplay systems—including planetary resource extraction, crafting, station management and infrastructure control\nTypes of Structures\nStructures include (but are not limited to):\nClaim Stakes – Used to claim land on planets and enable resource extraction.\nMining Drills – Harvest raw materials over time from planetary plots.\nPower Plants – Provide energy to support other structures.\nSpace Stations – Potential hubs for storage, crafting, repairs, or economic activity.\nEach structure type has specific utility depending on the gameplay loop it’s tied to such as Faction Claims or future economic operations",
+  "content_hash": "01ee22eb4da71452c3ba6003c1ea38ba7a8f18912c625ced00c391e8e7acacbf",
+  "entities": [
+    "ATLAS",
+    "Claim Stakes"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-64B7DF6E3AD0E36C-01",
+      "text": "In Star Atlas, structures are a class of NFT assets used to build, extract, produce, or manage operations across the metaverse.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-64B7DF6E3AD0E36C",
+      "publication_date": "2025-12-03T17:02:12Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-64B7DF6E3AD0E36C-02",
+      "text": "They are the backbone of many gameplay systems—including planetary resource extraction, crafting, station management and infrastructure control Types of Structures Structures include (but are not limited to): Claim Stakes – Used to claim land on planets and enable resource extraction.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-64B7DF6E3AD0E36C",
+      "publication_date": "2025-12-03T17:02:12Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-64B7DF6E3AD0E36C-03",
+      "text": "Mining Drills – Harvest raw materials over time from planetary plots.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-64B7DF6E3AD0E36C",
+      "publication_date": "2025-12-03T17:02:12Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-64B7DF6E3AD0E36C-04",
+      "text": "Power Plants – Provide energy to support other structures.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-64B7DF6E3AD0E36C",
+      "publication_date": "2025-12-03T17:02:12Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-64B7DF6E3AD0E36C-05",
+      "text": "Space Stations – Potential hubs for storage, crafting, repairs, or economic activity.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-64B7DF6E3AD0E36C",
+      "publication_date": "2025-12-03T17:02:12Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-64B7DF6E3AD0E36C-06",
+      "text": "Each structure type has specific utility depending on the gameplay loop it’s tied to such as Faction Claims or future economic operations",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-64B7DF6E3AD0E36C",
+      "publication_date": "2025-12-03T17:02:12Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "ATLAS",
+    "Claim Stakes"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47061465761555-What-are-structures",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.147613Z"
+  }
+}

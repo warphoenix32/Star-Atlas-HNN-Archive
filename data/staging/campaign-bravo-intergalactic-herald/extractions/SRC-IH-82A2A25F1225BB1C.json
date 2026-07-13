@@ -1,0 +1,539 @@
+{
+  "source": {
+    "source_id": "SRC-IH-82A2A25F1225BB1C",
+    "url_id": "URL-82A2A25F1225BB1C",
+    "url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-102/",
+    "inventory_url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-102",
+    "title": "Star Atlas Weekly News Recap #102",
+    "author": "Intergalactic Herald",
+    "publisher": "Intergalactic Herald",
+    "published_at": "2024-03-03T17:00:00",
+    "updated_at": "2024-03-02T17:51:53",
+    "retrieved_at": "2026-07-12T22:05:28.291650Z",
+    "document_type": "NEWSLETTER",
+    "source_role": "CURATED_SUMMARY",
+    "source_classification": "CURATED_SUMMARY",
+    "classification_rationale": "Weekly newsletter/recap aggregates developments and linked sources.",
+    "wordpress_type": "posts"
+  },
+  "summary": {
+    "neutral_abstract": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week. We are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us. We are launching a Star Atlas merch store. Please check it out at Intergalactic",
+    "historical_value": "Contemporary Intergalactic Herald publication preserved with role and attribution boundaries.",
+    "current_validity_warning": "Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources."
+  },
+  "article_text": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week.\nWe are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us.\nWe are launching a Star Atlas merch store. Please check it out at Intergalactic Gear.\nWe are creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic Coalition.\nIf you would like to support our efforts, donations can be sent to intergalacticherald.sol\nMetaverse Nomads #135 Star Atlas w/ @Crosschain_Sal\nMetaverse Nomads posted a video replay of their weekly Star Atlas livestream.\nWEEKLY STAR ATLAS NEWSLETTER #118\nAephia published their weekly Star Atlas newsletter.\nSTAR ATLAS #222 HUGE ANNOUNCEMENTS INCOMING!\nMetaVerse Explorer posted a video about upcoming Star Atlas announcements.\nStar Atlas TV posted replay videos of Star Atlas Community Week\ncommunity week part 1: The Kickoff\ncommunity week part 2: Townhall #42\ncommunity week part 3: The Atlas Brew #100\ncommunity week part 4: COPA\ncommunity week part 5: Joni Awards\nBeth posted recaps of Star Atlas Community Week\nStar Atlas Community Week: Kickoff Event – TLDR\nStar Atlas Community Week: Townhall #42 – TLDR\nStar Atlas Community Week: Atlas Brew #100 – TLDR\nStar Atlas Community Week: COPA – TLDR\nStar Atlas Community Week: Joni Awards – TLDR\nTOWN HALL REPORT – FEBRUARY 27, 2024\nAephia published an article about the latest Star Atlas Townhall.\nSTAR ATLAS TOWN HALL RECAP- HUGE UPDATES! Feb 2024\nMetaVerse Explorer posted a video recapping the Star Atlas Townhall.\nStar Atlas Townhall #42 (9 min RECAP), Feb 2024\nRahMega posted a video recapping the Star Atlas Townhall.\nKey Takeaways From The 42nd Star Atlas Community Townhall\nHologram News Network published an article about key takeaways from the Star Atlas Townhall.\nAephia Crowned As 2024 Star Atlas COPA Champions\nHologram News Network published an article about the winners from the Star Atlas COPA presentations.\nStar Atlas Community Week TRIBUTE!!\nBeyond the Horizon posted a video tribute to Star Atlas Community Week.",
+  "content_hash": "624ab40ec25fe12407fc5ddb46a574455619f191f8dd7259ed3eb5700a78325e",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [
+    "2024"
+  ],
+  "external_sources": [
+    {
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=vmPq_HKsNYM",
+      "anchor_text": "weekly Star Atlas livestream"
+    },
+    {
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-118/",
+      "anchor_text": "weekly Star Atlas newsletter"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=lHe4-nujTuo",
+      "anchor_text": "upcoming Star Atlas announcements"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ioZiZ2N2_Cw",
+      "anchor_text": "community week part 1: The Kickoff"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=zsXw-C_rW7g",
+      "anchor_text": "community week part 2: Townhall #42"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=hr1x882XP1M",
+      "anchor_text": "community week part 3: The Atlas Brew #100"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=3H9gZ9EorvQ",
+      "anchor_text": "community week part 4: COPA"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=M2jOsLG65ME",
+      "anchor_text": "community week part 5: Joni Awards"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=etM4Qt_tUAQ",
+      "anchor_text": "Star Atlas Community Week: Kickoff Event – TLDR"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=GRvatNIwt4o",
+      "anchor_text": "Star Atlas Community Week: Townhall #42 – TLDR"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=katOx-l88ic",
+      "anchor_text": "Star Atlas Community Week: Atlas Brew #100 – TLDR"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=z1KtDVEFuuQ",
+      "anchor_text": "Star Atlas Community Week: COPA – TLDR"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=MOsJelaNN7Q",
+      "anchor_text": "Star Atlas Community Week: Joni Awards – TLDR"
+    },
+    {
+      "url": "https://aephia.com/star-atlas/town-hall-report-february-27-2024/",
+      "anchor_text": "Star Atlas Townhall"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=iaS6CQAVR1s",
+      "anchor_text": "Star Atlas Townhall"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=C1BzbSjURGU",
+      "anchor_text": "Star Atlas Townhall"
+    },
+    {
+      "url": "https://hologramnews.com/key-insights-from-star-atlas-community-townhall-42/",
+      "anchor_text": "key takeaways from the Star Atlas Townhall"
+    },
+    {
+      "url": "https://hologramnews.com/aephia-crowned-as-2024-star-atlas-copa-champions/",
+      "anchor_text": "Star Atlas COPA"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=YNVaniLF83U",
+      "anchor_text": "Star Atlas Community Week"
+    }
+  ],
+  "primary_source_relationships": [
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=vmPq_HKsNYM",
+      "anchor_text": "weekly Star Atlas livestream"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-118/",
+      "anchor_text": "weekly Star Atlas newsletter"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=lHe4-nujTuo",
+      "anchor_text": "upcoming Star Atlas announcements"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=ioZiZ2N2_Cw",
+      "anchor_text": "community week part 1: The Kickoff"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=zsXw-C_rW7g",
+      "anchor_text": "community week part 2: Townhall #42"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=hr1x882XP1M",
+      "anchor_text": "community week part 3: The Atlas Brew #100"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=3H9gZ9EorvQ",
+      "anchor_text": "community week part 4: COPA"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=M2jOsLG65ME",
+      "anchor_text": "community week part 5: Joni Awards"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=etM4Qt_tUAQ",
+      "anchor_text": "Star Atlas Community Week: Kickoff Event – TLDR"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=GRvatNIwt4o",
+      "anchor_text": "Star Atlas Community Week: Townhall #42 – TLDR"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=katOx-l88ic",
+      "anchor_text": "Star Atlas Community Week: Atlas Brew #100 – TLDR"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=z1KtDVEFuuQ",
+      "anchor_text": "Star Atlas Community Week: COPA – TLDR"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=MOsJelaNN7Q",
+      "anchor_text": "Star Atlas Community Week: Joni Awards – TLDR"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/town-hall-report-february-27-2024/",
+      "anchor_text": "Star Atlas Townhall"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=iaS6CQAVR1s",
+      "anchor_text": "Star Atlas Townhall"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=C1BzbSjURGU",
+      "anchor_text": "Star Atlas Townhall"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://hologramnews.com/key-insights-from-star-atlas-community-townhall-42/",
+      "anchor_text": "key takeaways from the Star Atlas Townhall"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://hologramnews.com/aephia-crowned-as-2024-star-atlas-copa-champions/",
+      "anchor_text": "Star Atlas COPA"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=YNVaniLF83U",
+      "anchor_text": "Star Atlas Community Week"
+    }
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Verify which outbound links are primary sources and preserve creator attribution during promotion."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-102&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 7673,
+    "elapsed_ms": 1557,
+    "attempts": [
+      {
+        "endpoint": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-102&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "http_status": 200,
+        "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-102&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "content_type": "application/json; charset=UTF-8",
+        "response_size": 7673,
+        "elapsed_ms": 1557
+      }
+    ]
+  },
+  "source_lineage": {
+    "publication": "Intergalactic Herald",
+    "publication_role": "CURATED_SUMMARY",
+    "relationship": "CURATED_SUMMARY_OF",
+    "primary_sources": [
+      {
+        "publication": "weekly Star Atlas livestream",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=vmPq_HKsNYM",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: weekly Star Atlas livestream"
+      },
+      {
+        "publication": "weekly Star Atlas newsletter",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-118/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article with anchor text: weekly Star Atlas newsletter"
+      },
+      {
+        "publication": "upcoming Star Atlas announcements",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=lHe4-nujTuo",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: upcoming Star Atlas announcements"
+      },
+      {
+        "publication": "community week part 1: The Kickoff",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=ioZiZ2N2_Cw",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: community week part 1: The Kickoff"
+      },
+      {
+        "publication": "community week part 2: Townhall #42",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=zsXw-C_rW7g",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: community week part 2: Townhall #42"
+      },
+      {
+        "publication": "community week part 3: The Atlas Brew #100",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=hr1x882XP1M",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: community week part 3: The Atlas Brew #100"
+      },
+      {
+        "publication": "community week part 4: COPA",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=3H9gZ9EorvQ",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: community week part 4: COPA"
+      },
+      {
+        "publication": "community week part 5: Joni Awards",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=M2jOsLG65ME",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: community week part 5: Joni Awards"
+      },
+      {
+        "publication": "Star Atlas Community Week: Kickoff Event – TLDR",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=etM4Qt_tUAQ",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas Community Week: Kickoff Event – TLDR"
+      },
+      {
+        "publication": "Star Atlas Community Week: Townhall #42 – TLDR",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=GRvatNIwt4o",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas Community Week: Townhall #42 – TLDR"
+      },
+      {
+        "publication": "Star Atlas Community Week: Atlas Brew #100 – TLDR",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=katOx-l88ic",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas Community Week: Atlas Brew #100 – TLDR"
+      },
+      {
+        "publication": "Star Atlas Community Week: COPA – TLDR",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=z1KtDVEFuuQ",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas Community Week: COPA – TLDR"
+      },
+      {
+        "publication": "Star Atlas Community Week: Joni Awards – TLDR",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=MOsJelaNN7Q",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas Community Week: Joni Awards – TLDR"
+      },
+      {
+        "publication": "Star Atlas Townhall",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/town-hall-report-february-27-2024/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas Townhall"
+      },
+      {
+        "publication": "Star Atlas Townhall",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=iaS6CQAVR1s",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas Townhall"
+      },
+      {
+        "publication": "Star Atlas Townhall",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=C1BzbSjURGU",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas Townhall"
+      },
+      {
+        "publication": "key takeaways from the Star Atlas Townhall",
+        "author": "UNKNOWN",
+        "url": "https://hologramnews.com/key-insights-from-star-atlas-community-townhall-42/",
+        "organization": "Hologram News Network (HNN)",
+        "evidence": "Direct outbound link preserved in article with anchor text: key takeaways from the Star Atlas Townhall"
+      },
+      {
+        "publication": "Star Atlas COPA",
+        "author": "UNKNOWN",
+        "url": "https://hologramnews.com/aephia-crowned-as-2024-star-atlas-copa-champions/",
+        "organization": "Hologram News Network (HNN)",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas COPA"
+      },
+      {
+        "publication": "Star Atlas Community Week",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=YNVaniLF83U",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas Community Week"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "publication": "Intergalactic Gear",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticgear.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Intergalactic Coalition",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticcoalition.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      }
+    ],
+    "original_creators": [
+      "Aephia",
+      "Star Atlas",
+      "Hologram News Network (HNN)"
+    ],
+    "attribution_chain": [
+      {
+        "from": "weekly Star Atlas livestream",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=vmPq_HKsNYM"
+      },
+      {
+        "from": "weekly Star Atlas newsletter",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-118/"
+      },
+      {
+        "from": "upcoming Star Atlas announcements",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=lHe4-nujTuo"
+      },
+      {
+        "from": "community week part 1: The Kickoff",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=ioZiZ2N2_Cw"
+      },
+      {
+        "from": "community week part 2: Townhall #42",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=zsXw-C_rW7g"
+      },
+      {
+        "from": "community week part 3: The Atlas Brew #100",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=hr1x882XP1M"
+      },
+      {
+        "from": "community week part 4: COPA",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=3H9gZ9EorvQ"
+      },
+      {
+        "from": "community week part 5: Joni Awards",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=M2jOsLG65ME"
+      },
+      {
+        "from": "Star Atlas Community Week: Kickoff Event – TLDR",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=etM4Qt_tUAQ"
+      },
+      {
+        "from": "Star Atlas Community Week: Townhall #42 – TLDR",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=GRvatNIwt4o"
+      },
+      {
+        "from": "Star Atlas Community Week: Atlas Brew #100 – TLDR",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=katOx-l88ic"
+      },
+      {
+        "from": "Star Atlas Community Week: COPA – TLDR",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=z1KtDVEFuuQ"
+      },
+      {
+        "from": "Star Atlas Community Week: Joni Awards – TLDR",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=MOsJelaNN7Q"
+      },
+      {
+        "from": "Star Atlas Townhall",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/town-hall-report-february-27-2024/"
+      },
+      {
+        "from": "Star Atlas Townhall",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=iaS6CQAVR1s"
+      },
+      {
+        "from": "Star Atlas Townhall",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=C1BzbSjURGU"
+      },
+      {
+        "from": "key takeaways from the Star Atlas Townhall",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://hologramnews.com/key-insights-from-star-atlas-community-townhall-42/"
+      },
+      {
+        "from": "Star Atlas COPA",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://hologramnews.com/aephia-crowned-as-2024-star-atlas-copa-champions/"
+      },
+      {
+        "from": "Star Atlas Community Week",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=YNVaniLF83U"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  }
+}

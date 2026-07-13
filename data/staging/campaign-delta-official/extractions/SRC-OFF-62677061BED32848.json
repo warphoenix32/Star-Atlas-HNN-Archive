@@ -1,0 +1,137 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-62677061BED32848",
+    "url": "https://build.staratlas.com/dev-resources/apis-and-data/data-source",
+    "title": "Star Atlas Build",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Build / ATMTA",
+    "published_at": null,
+    "updated_at": "2026-04-16T16:32:35.000Z",
+    "original_date_text": "2026-04-16T16:32:35.000Z",
+    "document_type": "TECHNICAL_DOCUMENTATION",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Build / ATMTA",
+    "publication_role": "TECHNICAL_DOCUMENTATION",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://www.npmjs.com/package/@staratlas/data-source",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://staratlasmeta.github.io/data-source/",
+        "anchor_text": ""
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Build / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official technical documentation titled “Star Atlas Build.” This record preserves what Star Atlas Build / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Data Source | Star Atlas Build\nSkip to contentStar Atlas BuildSearchK\nAppearance\nMenuReturn to top\nData Source ​\nIntroduction ​\nAbstraction over getting account updates from Solana. Supports RPC out of the box but can support other protocols through custom implementations.\n@staratlas/data-source\nwill help you:\nBuild, Sign, and Send transactions\nRead accounts from RPC or other source\nParse data\nPackage\nDescription\nVersion\nDocs\n@staratlas/data-source\nTypeScript interface for Star Atlas programs\nInstallation ​\nReference: https://www.npmjs.com/package/@staratlas/data-source\nbash\nnpm i @staratlas/data-source\nExamples ​\nRead from RPC:\ntypescript\nimport { Connection } from '@solana/web3.js';\nimport { readAllFromRPC } from '@staratlas/data-source';\nimport { Fleet, SageIDLProgram } from '@staratlas/sage';\nexport async function readAllFleetsWarpStatus(\nconnection: Connection,\nsageProgram: SageIDLProgram\n): Promise<void> {\nconst fleets = (await readAllFromRPC(connection, sageProgram, Fleet)).map(\n(fleet) => fleet.type === 'ok' && fleet.data\n);\nconst currentUnixTimestamp = Date.now() / 1000 | 0;\nfor (const fleet of fleets) {\nconst secondsUntilWarpable = fleet.data.warpCooldownExpiresAt.toNumber() - currentUnixTimestamp;\nif (secondsUntilWarpable > 0)\nconsole.log(`Fleet ${fleet.key.toBase58()} can warp again in ${secondsUntilWarpable} seconds`);\nelse\nconsole.log(`Fleet ${fleet.key.toBase58()} warp engines are ready to use`);\n}\nBuild Dynamic Transaction:\ntypescript\nimport { Connection, Finality, TransactionSignature } from '@solana/web3.js';\nimport {\nAsyncSigner,\nbuildDynamicTransactions,\nInstructionReturn,\nsendTransaction,\n} from '@staratlas/data-source';\nexport async function sendDynamicTransaction(\ninstructions: InstructionReturn[],\nsigner: AsyncSigner,\nconnection: Connection,\ncommitment: Finality = 'confirmed'\n): Promise<TransactionSignature> {\nconst txs = await buildDynamicTransactions(instructions, signer, {\nconnection,\n});\nif (txs.isErr()) {\nthrow txs.error;\n}\nlet txSignature: TransactionSignature;\nfor (const tx of txs.value) {\nconst result = await sendTransaction(tx, connection, {\ncommitment,\nsendOptions: {\nskipPreflight: false,\n},\n});\nif (result.value.isErr()) {\nthrow result.value.error;\n}\ntxSignature = result.value.value;\n}\nreturn txSignature;\n}",
+  "content_hash": "aefcf60075676bf060a23d6f81cc72c37db23cb64d31c0f32c7e27b220fc698b",
+  "entities": [
+    "ATLAS",
+    "SAGE",
+    "Solana"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-62677061BED32848-01",
+      "text": "Data Source | Star Atlas Build Skip to contentStar Atlas BuildSearchK Appearance MenuReturn to top Data Source ​ Introduction ​ Abstraction over getting account updates from Solana.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-62677061BED32848",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-62677061BED32848-02",
+      "text": "Supports RPC out of the box but can support other protocols through custom implementations.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-62677061BED32848",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "SAGE",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [
+    "Solana"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/data-source",
+      "anchor_text": "Skip to content"
+    },
+    {
+      "url": "https://build.staratlas.com/",
+      "anchor_text": "Star Atlas Build"
+    },
+    {
+      "url": "https://discord.com/invite/staratlas",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://www.npmjs.com/package/@staratlas/data-source",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://staratlasmeta.github.io/data-source/",
+      "anchor_text": ""
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/data-source",
+      "anchor_text": "Skip to content"
+    },
+    {
+      "url": "https://build.staratlas.com/",
+      "anchor_text": "Star Atlas Build"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://build.staratlas.com/dev-resources/apis-and-data/data-source",
+    "final_url": "https://build.staratlas.com/dev-resources/apis-and-data/data-source",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 51144,
+    "retrieved_at": "2026-07-13T01:04:26.114860Z",
+    "elapsed_ms": 164
+  }
+}

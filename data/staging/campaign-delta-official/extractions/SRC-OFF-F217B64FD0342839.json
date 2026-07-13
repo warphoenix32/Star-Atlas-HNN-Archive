@@ -1,0 +1,108 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-F217B64FD0342839",
+    "url": "https://build.staratlas.com/dev-resources/mainnet-program-ids",
+    "title": "Star Atlas Build",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Build / ATMTA",
+    "published_at": null,
+    "updated_at": "2026-04-16T16:32:35.000Z",
+    "original_date_text": "2026-04-16T16:32:35.000Z",
+    "document_type": "TECHNICAL_DOCUMENTATION",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Build / ATMTA",
+    "publication_role": "TECHNICAL_DOCUMENTATION",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Star Atlas Build / ATMTA"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official technical documentation titled “Star Atlas Build.” This record preserves what Star Atlas Build / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Mainnet Program IDs | Star Atlas Build\nSkip to contentStar Atlas BuildSearchK\nAppearance\nMenuReturn to top\nMainnet Program IDs ​\nProgram\nAddress\nCrew\nCREWiq8qbxvo4SKkAFpVnc6t7CRQC4tAAscsNAENXgrJ\nGalactic Marketplace\ntraderDnaR5w6Tcoi3NFm53i48FTDNbGjBSZwWXDRrg\nSAGE\nSAGE2HAwep459SNq61LHvjxPk4pLPEJLoMETef7f7EE\nCrafting\nCRAFT2RPXPJWCEix4WpJST3E7NLf79GTqZUL75wngXo5\nCargo\nCargo2VNTPPTi9c1vq1Jw5d3BWUNr18MjRtSupAghKEk\nFleet Rentals\nSRSLY1fq9TJqCk1gNSE7VZL2bztvTn9wm4VR8u8jMKT\nPlayer Profile\npprofELXjL5Kck7Jn5hCpwAL82DpTkSYBENzahVtbc9\nProfile Vault\npv1ttom8tbyh83C1AVh6QH2naGRdVQUVt3HY1Yst5sv\nProfile Faction\npFACSRuobDmvfMKq1bAzwj27t6d2GJhSCHb1VcfnRmq\nPoints\nPoint2iBvz7j5TMVef8nEgpmz4pDr7tU7v3RjAfkQbM\nPoints Store\nPsToRxhEPScGt1Bxpm7zNDRzaMk31t8Aox7fyewoVse\nAtlas Prime\nAPR1MEny25pKupwn72oVqMH4qpDouArsX8zX4VwwfoXD\nClaim Stakes\nSTAKEr4Bh8sbBMoAVmTDBRqouPzgdocVrvtjmhJhd65\nSCORE\nFLEET1qqzpexyaDpqb2DGsSzE2sDCizewCg9WjrA6DBW\nSAGE: Escape Velocity\nTESTWCwvEv2idx6eZVQrFFdvEJqGHfVA1soApk2NFKQ\nDAO Proxy Rewarder\ngateVwTnKyFrE8nxUUgfzoZTPKgJQZUbLsEidpG4Dp2\nATLAS Locker\nATLocKpzDbTokxgvnLew3d7drZkEzLzDpzwgrgWKDbmc\nPOLIS Locker\nLock7kBijGCQLEFAmXcengzXKA88iDNQPriQ7TbgeyG\nPOLIS Locker Snapshots\nsnapNQkxsiqDWdbNfz8KVB7e3NPzLwtHHA6WV8kKgUc\nFaction Enlistment\nFACTNmq2FhA2QNTnGM2aWJH3i7zT3cND5CgvjYTjyVYe\nLegacy Program IDs ​\nProgram\nAddress\nLegacy SAGE\nSAGEqqFewepDHH6hMDcmWy7yjHPpyKLDnRXKb3Ki8e6\nLegacy Cargo\nCargo8a1e6NkGyrjy4BQEW4ASGKs9KSyDyUrXMfpJoiH\nLegacy Crafting\nCraftf1EGzEoPFJ1rpaTSQG1F6hhRRBAf4gRo9hdSZjR\nGame IDs ​\nCurrently Active & Official Game IDs for SAGE\nVersion\nID\nSAGE: Starbased\nGAMEzqJehF8yAnKiTARUuhZMvLvkZVAsCVri5vSfemLr\nLegacy SAGE\nGameYNgVLn9kd8BQcbHm8jNMqJHWhcZ1YTNy6Pn3FXo5",
+  "content_hash": "31e8d4780dddc3ac318539e0c9fda0ed126a55958b33f83ad5b242970938f991",
+  "entities": [
+    "ATLAS",
+    "Atlas Prime",
+    "Claim Stakes",
+    "Crew",
+    "Escape Velocity",
+    "Galactic Marketplace",
+    "POLIS",
+    "SAGE",
+    "SCORE"
+  ],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "SAGE",
+    "SCORE",
+    "Galactic Marketplace",
+    "POLIS",
+    "ATLAS",
+    "Escape Velocity",
+    "Atlas Prime",
+    "Claim Stakes",
+    "Crew"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://build.staratlas.com/dev-resources/mainnet-program-ids",
+      "anchor_text": "Skip to content"
+    },
+    {
+      "url": "https://build.staratlas.com/",
+      "anchor_text": "Star Atlas Build"
+    },
+    {
+      "url": "https://discord.com/invite/staratlas",
+      "anchor_text": ""
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://build.staratlas.com/dev-resources/mainnet-program-ids",
+      "anchor_text": "Skip to content"
+    },
+    {
+      "url": "https://build.staratlas.com/",
+      "anchor_text": "Star Atlas Build"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://build.staratlas.com/dev-resources/mainnet-program-ids",
+    "final_url": "https://build.staratlas.com/dev-resources/mainnet-program-ids",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 34386,
+    "retrieved_at": "2026-07-13T01:04:28.923103Z",
+    "elapsed_ms": 154
+  }
+}

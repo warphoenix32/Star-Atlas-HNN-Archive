@@ -1,0 +1,417 @@
+# Star Atlas Event Recap 67: The Atlas Brew 193
+
+## Source metadata
+
+- Source ID: `SRC-IH-D0160CCD45941DD9`
+- URL: https://intergalacticherald.com/star-atlas-recap/star-atlas-event-recap-67-the-atlas-brew-193/
+- Publisher: Intergalactic Herald
+- Published: 2026-02-26T09:00:00
+- Updated: 2026-02-26T08:09:59
+- Classification: `CURATED_SUMMARY`
+- Classification rationale: Event recap summarizes an externally originated event, broadcast, or discussion.
+- Extraction confidence: `HIGH`
+
+## Source Lineage
+
+**Publication Role:** `CURATED_SUMMARY`
+
+**Relationship:** `CURATED_SUMMARY_OF`
+
+**Primary Sources:**
+
+- **Atlas Brew 193** — Author: UNKNOWN; Organization: Star Atlas; URL: UNKNOWN
+
+**Original Creators:**
+
+- Star Atlas
+
+**Lineage Confidence:** `MEDIUM`
+
+## Neutral synopsis
+
+In this episode, hear an AI summary of the latest Star Atlas community event. Full video recordings can be found on the YouTube channel of Star Atlas TV at https://www.youtube.com/@staratlastv. Hi, this isn’t Matt with the Intergalactic Herald. I am an AI. Welcome to a Star Atlas Recap of the latest Atlas Brew from the Star Atlas Community Team. The following summary of the Atlas Brew was AI generated so no guarantee it is 100% accurate because I am an AI after all. If you want to listen to the entire recording, please check out the YouTube channel of Star Atlas TV. Enjoy the summary. Welcome back to another recap of the Atlas Brew! We just wrapped up episode 193, and if you weren’t there,…
+
+## Attribution and linked sources
+
+- [https://www.youtube.com/@staratlastv](https://www.youtube.com/@staratlastv)
+- [Listen on Apple Podcasts](https://podcasts.apple.com/us/podcast/star-atlas-week-in-review-podcast/id1678661043)
+- [Listen on Spotify](https://open.spotify.com/show/0aHDjCqFpy8Lzrkilv8n16)
+- [Intergalactic Gear](https://intergalacticgear.com/)
+- [Intergalactic Coalition](https://intergalacticcoalition.com/)
+
+## Temporal warning
+
+Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources.
+
+## Manual review
+
+- Verify which outbound links are primary sources and preserve creator attribution during promotion.
+
+## Extracted article text
+
+In this episode, hear an AI summary of the latest Star Atlas community event. Full video recordings can be found on the YouTube channel of Star Atlas TV at https://www.youtube.com/@staratlastv.
+Listen on Apple Podcasts
+Listen on Spotify
+Star Atlas Event Summary
+Hi, this isn’t Matt with the Intergalactic Herald. I am an AI. Welcome to a Star Atlas Recap of the latest Atlas Brew from the Star Atlas Community Team. The following summary of the Atlas Brew was AI generated so no guarantee it is 100% accurate because I am an AI after all. If you want to listen to the entire recording, please check out the YouTube channel of Star Atlas TV. Enjoy the summary. Welcome back to another recap of the Atlas Brew! We just wrapped up episode 193, and if you weren’t there, you missed a high-octane session crackling with technical breakthroughs and big community energy. The vibe was electric as the team balanced the gritty details of DAO governance with some of the most exciting gameplay reveals we’ve seen for Project Galia. We kicked things off with a heavy focus on the community’s voice, as Emperor from the Star Atlas Council stepped up to share what’s been cooking behind the scenes. The Council has been busy settling into their roles for SACK 3, making sure participants in the arena are paid and that the DAO’s operations are running smoothly. The big news for voters is that two major PIPs—the Dowcasters and the Penguin’s own proposal—are officially live for voting. Emperor also noted that the DAO now has its own GitHub repository, paving the way for the community to truly own the tools being built. While they are navigating the challenges of a volatile Atlas market, the message was clear: the DAO is stronger and more active than ever. But the momentum didn’t stop there. Yard from the Super Phoenix DAO joined the stage to announce the official launch of Super Phoenix Sports on March 1st. They’re kicking things off this Sunday with an open scrimmage for the shooter arena, featuring 4v4 team battles and a $250 prize pool. Beyond the esports hype, they dropped a massive tool for the developer community called “Atlas Pay.” This is an open-source, free-to-use payment gateway that allows creators to accept Atlas, Polus, or USDC directly on their websites, keeping the economy thriving within the ecosystem. The conversation then shifted to the technical “engine room” with Jim, who gave us the lowdown on Zinc and the highly anticipated C4. We learned that the team is deep into internal testing for C4, with most blockchain systems—including the destruction and respawning of starbases—already fully functional. On the Zinc front, the focus is all about HoloSymmetric Chapter 2. If you’re a Zinc subscriber, your HoloSim Battle Pass will be included on day one, and the new achievement-based ZXP system is designed to reward actual gameplay over farming. Jim even confirmed that they’ve successfully tested a full end-to-end bridge from Solana to the Zinc blockchain internally, which is a massive milestone for the network. If you were looking for the real fireworks, though, Brad—the legend himself—stole the show with a live look at Project Galia. He debuted a brand-new mining hotspot near Morvia, where AI-controlled Yorvvic pirates now use complex “behavior trees” to scan miners and decide whether to attack. It’s no longer just a static world; it’s a dangerous one. But the real “mic drop” moment was the reveal of planetary navigation for AI. Historically, Unreal Engine treats “up” as a single direction, making AI on a curved planet nearly impossible. Brad showed us that the team has cracked the code, demonstrating bots and even melee creatures—actual monsters—chasing players across the surface of a planet. This opens the door for big-game hunting, loot drops, and a whole new world of ground-based exploration. We wrapped up the event with a massive shout-out to the 3D artists in the community, many of whom volunteered on the spot to help design the creatures that will eventually inhabit these worlds. It was a perfect ending to a session that felt like a glimpse into the future of the Galia Expanse. For those of you looking to get involved, don’t forget to jump into the DAO and cast your votes on the active PIPs. Make sure to head over to the Super Phoenix Sports website to sign up for this Sunday’s tournament, and keep your eyes peeled for the official HoloSymmetric Chapter 2 release date. We’ll see you this Friday for the Galia gaming night—stay safe out there in the deep space!
+I am launching a Star Atlas merch store. Please check it out at Intergalactic Gear.
+I am also creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic Coalition.
+Star Atlas Weekly Recap Newsletter – Catch up on all the important videos and articles from the Star Atlas community in a weekly recap email newsletter. https://intergalacticherald.com/star-atlas-weekly-recap-newsletter/
+Star Atlas Week in Review Podcast – Audio podcast where I break down everything that happened in Star Atlas the past week plus my analysis on what it all means. https://intergalacticherald.com/podcast/
+Star Atlas Discord News Feed Newsletter – Star Atlas Discord announcements send directly to your email so you never miss out on updates from the Star Atlas team. https://intergalacticherald.com/star-atlas-discord-news-feed/
+If you would like to support my efforts, donations can be sent to intergalacticherald.sol
+Star Atlas Event Transcript
+beating at 300 kilometers per hour right now.
+But >> that’s awful. >> Yeah, >> know. >> For sure.
+Not ideal.
+But everything’s fine now. >> Everything’s fine.
+Everyone’s alive and the show must go on. GM to you as well. Jim, how are you doing?
+>> Good. Can you hear me?
+Okay. >> Yep, we hear you just fine. >> GM to our beloved audience.
+It is pleasure to have you guys to another episode of the Atlas Brew number 193.
+This is wild and we keep pushing forward no matter what. And today we have very special episode for you guys. Uh, no way you are trolling me with the sound.
+Tango mic. Are you trolling me?
+Guys, tell me you can hear me. The audience, >> can hear you. >> Okay, thank you.
+So, uh, all good. All good.
+Okay.
+So, as you guys know, whenever Brad come to the brew stage.
+We are about to see something epic. We’re about to see something epic.
+We will see cool stuff and we’ll be mesmerized with all the new content that he has for us. Today we are also going to open the floor for you guys to give us ideas and feedback on features related to Project Galia.
+But first we have some important announcements and noteworthy news uh to our audience and would like to start today with our council which is represented by Mr. Emperor here. I’ll invite you to the stage.
+>> Hello.
+Hello Jam Emperor. How you doing friend? doing excellent.
+The weather is uh getting warmer and it’s not -20 anymore.
+So, it’s good day. >> That’s victory for sure. >> That’s victory.
+>> So, tell us, Emperor, what the console has been cooking lately. Share with us all the details. >> Yeah, I’ll just do quick recap from the beginning of sack 3 just so people know what we’re we’re up to.
+You’re not reading the boring report.
+So, um, we made our final payments to the fees. Um, we’ll have report coming. Um, we do plan on re-uping on that because it was pretty successful.
+Um, we’ve paid out of the arena participants and approved two more. believe that’s with the um, Super Phoenix DAO. We did set some goals.
+Um, this is uh, important. There are two pips open for voting right now.
+So, um can copy it.
+So, the Dowcasters is currently up for vote.
+So, it’s got about nine days left. Um go vote for your favorite Dow caster.
+And then the Penguin, you do have yours up for vote right now. don’t know want to pull that up, but we’re getting >> we’re getting uent participation. We don’t generally see high participation until until the end, but um we’re at you’re you’re doing pretty good on it.
+>> Oh, thank you. >> Want to pull that up.
+Yes. think the community is excited for that. I’m excited for it, too.
+Got to be as well. Um that’s open for voting right now. uh Funcrackers PIP for the um social media posting um has had all of its approvals just waiting to post it and this morning just few hours ago Adam um to continue their operations got approved by um foundation as well.
+So, we will have two more pips coming up. Working internally to see when exactly we’re going to post those, but most likely, don’t hold me to it, but most likely you’ll see it um within three to three to seven days and we’ll have two more up for vote. Um we have paid out Arty.
+Um he has his Arty hosting service. um had two successful payments and um people are taking advantage of that service. Um one of the things we chatted about last night was um being GitHub repository and we actually went ahead and created one of the free ones for um that way we’re paired if somebody wants the DAO to own some tools.
+believe it was um somebody on the team was was creating something in the background and um he wants the DAO to own it.
+So just setting the groundwork for for that stuff to happen. Another thing we chatted about last night was we’re reviewing some of the open and ongoing pips. Uh we do need to touch base with those folks.
+Uh we’ll chat in depth about it next week um to to review some of that. Leading in out of that, we are our feet under us. We’ve had meetings and everyone’s kind of settling into their roles.
+It’s kind of difficult to transition from from one council to the next. It takes takes little while for everyone to kind of get in place and and pick up the pieces. One of the challenges was like the Dowcasters that was, you know, Signal had that as an idea and then the new council had to pick it up and when you’re trying to learn the new role and pick up something major like that, >> it gets little challenging, but we’re we’re working through it.
+We’re all getting together. We all get along really well.
+So, it’s it’s been great group so far. Kind of my my quick update for everybody. >> That’s awesome, man.
+you guys have been cooking. Thank you guys for your work and we are proud to have you guys working for on our behalf as council members. Thank you very much for all your effort.
+Yeah, it’s our pleasure. And if anyone um wants to come to the meetings, um think we might be switching up the time here, but we we definitely welcome anybody to come and join in and and watch us. And um we generally try to try to leave some time for Q&A chat with the audience.
+So >> please do guys, this is super important. mean the DAO belongs to the community.
+So you guys need to be there, need to participate, need to talk to the council, need to forward new peep ideas. It is of the utmost importance for the community to be present and participating in the activities. >> Oh yes, and and we do have tickets.
+Thank you, Jindo. Um there are tickets for those of you that just want want to to come get free tickets. I do make you suffer through until about at least halfway through the meeting.
+So you you at least have to to stay for little bit. Um, one of the things I should probably mention too real quick is one of the the issues we’re dealing with is the volatility of Atlas.
+So like right now PG has PIP um to create some of his to expand some of his tools that he does his games and stuff and um it’s kind of it can be challenging to to wrestle through that.
+So like right now 5% of the ecosystem fund is roughly 2500 bucks.
+So that is pretty limiting. That is something that we’re we’re wrestling with and and trudging through.
+But it’s things like that that we’re dealing with. >> Absolutely.
+It’s part of the job to deal with those situations. >> I’m sure you guys are going to navigate this well. >> We’ll do fine.
+Awesome. >> Well, that’s all had for you. you got more uh more exciting important things to talk about?
+>> Nah, no, no, no. Da work is super important. Thank you, Emperor.
+Uh it was always pleasure. >> Feel free to come whenever you you want, my friend. >> Have good appreciate it, guys.
+Yep. See you. >> See you.
+And now and now uh another one very important announcement coming from the super Phoenix D. My friend Yard, are you in the audience my friend? Let me call you up on stage.
+>> GM GM >> GM GM. How are you doing, Y? >> Doing well.
+Doing well. appreciate you guys having us back. Uh it’s always good to to give the community few updates when we got some things cooking.
+Um so it’s great.
+Yeah, appreciate it. >> Always pleasure. What do you have for us today, my friend?
+>> All right. All right. Um so, so I think sent you couple of um just couple of uh if you’re able to real quick.
+>> Let me let me see if can share them.
+Yeah, think some people might, especially the last one there when we get to it, think people might might appreciate getting getting look at it. Um, and maybe couple of the links that go with it, but ultimately, uh, main thing here is just kind of reminder in general, right? We’ve got the Super Phoenix Sports is kind of officially coming online here for the community, uh, this coming Sunday.
+So, uh, March 1st, we’re we’re ready to rock and roll. Uh we pivoted little bit to do uh more of an open um just kind of an open scrimmage for the shooter arena. Uh we’ve still got everything in place for the racing tournament, which we’re going to do.
+Uh we just had to bump it back little bit to the ETH. Uh mainly because there’s few more patches that the Star Atlas team is working on right this minute, which is great. Uh we just felt it was really tight to try and get that in and then get our website updated and have everything uh smooth for Sunday.
+So instead, we’ve already been kind of working behind the scenes to make sure that we’re good to go, that we get good stream out and we get some participation this weekend either way. Um, so Star Shooter, we’re kind of kicking off, like said, just a three match um kind of miniature, you know, qualifier kind of slash scrimmage this Sunday.
+We have few different teams, so we want to go with fourman teams and ideally um four fourman teams.
+So we could kind of do miniature playoff and basically three matches um in the arena shooter, live stream the whole thing and still get it out there on the website and and let people place wagers if they want to. Um we had number of teams that are interested for the shooter um already lined up which we’ve reached out to and we’re kind of getting those confirmed.
+But if anyone is interested, anybody who’s listening, any of the guilds, uh, that have folks that are kind of happy to jump in and and put together, you know, three or fourman team for shooter, uh, certainly reach out to us here in the next day or so because we’ll probably have little bit of room or we have some flexibility um, just because of the the shuffle up here this weekend.
+But in any case, uh, we’ll be live, we’ll be online, and everything will be up and running um, this weekend.
+So, would say the the big the big piece there is just to check it out, right?
+So, we’re going to be on Twitch. We’re going to be on YouTube. Um, both under Super Phoenix Sports.
+So, pretty simple. You just search us, uh, Super Phoenix Sports. Um, we should be kind of right right top of the the pick there, especially on Twitch is kind of the goal.
+So, think we’ll be good good shape.
+It’s going to be um, Sunday at 4:00 PM Eastern, which is 2100 UTC. Um, so again, we really just kind of want to get viewers in there. Check it out.
+Give us feedback. let us know what’s going on. Uh folks can now go and check out the website as well if they want to.
+We’ll have, like said, there’ll be couple of updates which we’ll put out on uh the account here tomorrow and Friday just about kind of the finalization of teams.
+But in any case, folks can still go check out the website.
+It’s it’s super phoenixports. com. Got the landing page ready.
+We’re going to have the bracket system ready, the profile system ready, uh wallet connect, the whole nine.
+So, we’ll be in really good shape there. Um, there’s some other fun stuff people can kind of scroll and check out. Um, as well, but ultimately, yeah, that’s kind of where we’re going for this weekend.
+So, the first one is just a reminder for uh the event on Sunday. Um, if you want to flip to the next one real quick. There we go.
+Um, >> see the the chat’s asking if they’re allowed two teams. think they mean per per guild, maybe. >> Per guild.
+Um, yeah.
+Yeah. If guild if there’s guild that can field two teams of four, absolutely let us know. We’re we’re happy to uh to fit that in.
+>> Yeah, that’d be great. Like said, really we’re looking for four minimum, but if we get more if more people want to jump in between now and, you know, the next couple days, we can absolutely do more.
+That’s not problem. >> Awesome. >> Um yeah, that’s great.
+Um as far as prizes, we’re still going to do the prize pool.
+So, we’ve got uh basically 250 bucks worth of kind of combination. think it’s going to be Atlas and Cash for the teams that jump in and participate. The winning team is going to get that prize pool just for the weekend.
+And then for folks who are interested in kind of placing wager, right? Maybe it’s your guild, maybe it’s your team, and you can jump in there and place wager for the weekend. just because of the structure here and that it’s bit truncated, we’re going to do it more kind of sweep stakes like, but ultimately people will still just kind of pick, you know, their their winner, right?
+So, if we have um kind of two qualifying matches and then playoff match, it’ll just ultimately be the team that wins out in kind of that short version.
+And then um of everyone who submits their picks, uh we’ll take we’ll take the winners and then effectively kind of pick, you know, top five winners and they’ll get breakdown of that $250 cash prize pool.
+So um it’s kind of binary with teams here.
+You know, you just pick winners and losers.
+So the odds that we get few people who pick the same brackets is probably possible.
+And then at that point, we just do kind of, you know, random um kind of like RNG kind of poll um to get our top five.
+So, we’ll figure it out either way.
+But either way, there’s chance to win some cash if you want to just participate. Um it’s 10 bucks to throw in bracket. And like said, we’re we’re giving out 250 bucks worth of prizes for that.
+Um as well as for people who want to jump in and actually play uh this weekend.
+So again superfixports. com. We’ve we’ve broken it down.
+We’re gonna have some updates to the website as we go in the next couple of weeks with the racing and then when we do kind of the really big inaugural uh kind of full-fledged shooter tournament which is going to be, you know, 8 to 12 teams that’s going to be March 29th.
+It’s going to be kind of the big one.
+So, right now we’re just kind of kicking the tires, getting people used to it, uh getting some good feedback, but we’re still going to have some cash prizes out there. And ultimately, like said, you jump in the website, you connect your wallet, you hit the bracket launch, then you just kind of make your picks, and when you hit submit, um your bracket, it’ll kind of pull up almost like regular checkout experience where you you pay the 10 bucks and everything is locked in on the back end. Um, we’re going to have little bit more up the graphics and stuff as we go, but it’s all functional as of um, we’ll just get all we have to do is finalize the teams here the next day or so and then those will be populated in there.
+So, like said, people can check it out. probably wouldn’t um, we’ll look to we’ll put announcements out on social for when picks are ready. Uh, probably no later than Friday.
+We’ll have to lock it down just so we’re on top of it. >> Awesome. Yep.
+Yep. And like said, we’ll be on Twitch and YouTube, Super Phoenix Sports. Please, please, please check it out if you can live.
+That’s awesome. That helps us out ton. Um, we’ll be in the chats, too.
+The live chats in both those platforms. Um, and if there’s any questions, like if people, you know, don’t know how to join or maybe do want to get my team in or I’m just curious about maybe some of the functionality, um, just hop in the Discord.
+That’s kind of where we’re going to be at for all of the um or if people want to sign up or whatever the case may.
+So, we’ll be in pretty good shape there. >> All right. Uh you got the last here.
+>> Yeah.
+It’s >> Yeah.
+So, yeah, kind of wrap real quick.
+So the the last one here is another.
+So in addition to what we’re kind of doing with the you know tournaments, Super Phoenix sports, the brackets, we’ve also been working we’re kind of working on few other kind of wider Super Phoenix DAO community related uh products, right? And some of this stuff is going to weave into hopefully the Zinc ecosystem little bit down the road.
+But this one was kind of big announcement we wanted to put out today because this is usable for the community now.
+It’s ready as of today.
+So Atlas Pay, it’s been kind of behind the scenes, but Atlas Pay is effectively um it’s way for uh bas you know anybody in the ecosystem who’s has product um that they can use Atlas Pay to collect payments from customers um you know using Atlas or Polus or USDC or Salana and eventually we’re going to make it we have it set up so we can plug in zinc once that’s ready to go.
+So again, and this is open source.
+So guess that’s the other piece.
+It’s free and it’s open source.
+So if you are um any of the folks here in the community that have products or have services um or have websites or those kind of things that you’re offering out to the the uh Star Atlas community, we would encourage you to check it out and see if Atlas Pay makes sense for you to add as kind of plugin um into your site or your offering because like said, we’re we’re putting it out there. um there’s other ways we’re going to connect it to things in the future, but it’s absolutely open source and free of charge uh for the ecosystem. And so the whole idea is that not only do you want to create payment gateway that’s, you know, free for people, but also this we hope that this provides another kind of use to keep Atlas sort of in the ecosystem, right?
+Instead of constantly having to cash out to USDC and kind of uh work on any outside commerce that way.
+So this way, you know, adding to the legitimacy of kind of the in-game economy, uh, the token functionality, um, and really adding almost third-party component to the whole play to earn concept, right? uh where players are still in game, they’re earning Atlas, they’re doing their things, but now if they want to participate and maybe purchase service um you know from some of the folks who’ve created some of these amazing tools for things like Sage um or even you know we know there’s big update with Hollow Sim coming out and some of these things will be really cool that lot of the folks who are creating these third parties can use this payment gateway if they want um you know just to be more kind of inclusive to folks who are in the community who are earning an Atlas um or possibly even Polus, right, if they’re staking and that sort of thing. Um that’s really the whole idea.
+So, we’re kind of excited about it. think it helps kind of monetize, you know, digital content um that that community creators are are doing and we want to offer maybe way, you know, even if they’re folks who are maybe kind of thinking about something they wanted to offer to the community but just haven’t yet.
+This is one of those tools that maybe gets them there little quicker depending on what, you know, their thoughts are, what kind of service they want to provide, you know, to Star Atlas players and and those in the community.
+So, uh, hopefully this empowers, you know, some of the guilds or some of the other Dows, um, to kind of get in there and start building stuff, right? Grow the ecosystem little bit and and, uh, have way to lower the barrier to entry, not just for them, but also for their potential, you know, customers and players. >> That’s um, that’s slick.
+>> Yeah. Do you have link to the to the GitHub repo? Could you post it or if you want to just send it to me too get it out there?
+>> Yeah.
+Sorry. don’t know Jim if that’s you. Kind of broken up there.
+don’t know if it’s on my end or not. >> Well, think think Jose was trying to talk over me, so had to insert myself there.
+No, just kidding. Um, yeah, was just basically asking for the link to the to the repo. If you have GitHub repo, post it to the community.
+I’d love to check it out. >> Can you guys hear me? Am still bringing up?
+>> Yo, did you hear Jim? >> Uh, I can’t.
+No. Um, it’s really broken up, so I don’t know if that’s >> He He end. >> Yeah, he asked for the GitHub link if you have it.
+>> Oh. Oh, gotcha.
+Yeah. Um, can pull Oh, he died now for me. >> Yeah, think he’s breaking up.
+>> Ah, I’ll never be new Santi.
+There’s only one and only Santi. >> So, >> but it is think sent it over to you. If you want If you want to put it in the chat, feel free.
+>> I’m the cheap AI replacement. >> Did you Did you send me your art? >> Um, yeah.
+think it was in my message uh yesterday. the link. can send there.
+>> can probably find it >> uh let’s see >> here. The link that you sent me of page, it’s on the chat right now. >> Perfect.
+>> Okay, great.
+Great. >> All right, Y. Thank you, my friend.
+Thank you so much.
+It’s doubles in the chat for the Super Phoenix and Y. Those guys are working hard for our ecosystem. They are doing Iris work, helping spread the holy gospel of Star Atlas, and we’ll do everything we can to share our support.
+I’ll ask our mods to also uh announce this during the during the event day so we can bring the most visibility to to our friends of the Super Phoenix. Thank you, New York. >> Yeah, absolutely.
+appreciate it, guys.
+There’s, like said, there’s more to come, think, once in goes live as well, but we’ll we’ll save that for another day.
+So, yeah, hopefully this is good one and people can check it out and um and it can it can benefit some of the >> projects.
+Yeah. >> Thank you, my friend. >> All right.
+Greatly appreciated.
+Thanks, guys. >> Thank you.
+So, think those were all the the announcements that we had for today. And as the last thing before we unleash Brad into the audience, I’ll have Jim provide us with some updates on the C4 and zinc front. Jim, if you can talk little bit on those.
+>> Yeah.
+Yeah.
+Yeah. Absolutely.
+So um on the zinc front we had made change to allow to that basically we’re with as sage transactions are happening um what it was doing instead of immediately awarding ZXP it was just accumulating those and then doing nightly batch um using bit of different econ algorithm with the attempt to award players basically less ZXP for less productive gameplay and more ZXP for more productive gameplay. Um, and after running that for couple days in production, despite the testing that had been done in uh in in staging environment, it we were determining it was determined that the the algorithm wasn’t quite doing what we wanted to do.
+So, we ended up rolling that back Sunday night.
+So, now the Sage ZXP is acting how it does um it did before that update. Um, we are as just as company just kind of swamped on C4 and Hollow Sim. know that from zinc perspective, I’m been very very very actively working on making it so that your zinc so that your holosim battle pass will if you have zinc monthly subscription, you will get the holosim battle pass included in that.
+Um, the other piece that think we’ve talked about is in the next version of hollowosim, there’s these achievements. Um, and so in Hollow Sim, you won’t get ZXP for just any actions in Hollow Sim. Uh, in Hollow Sim, um, you know, because we saw this happening kind of during the first phase, people were creating fleets and they were literally just just subping fleets back and forth just um to just to try to farm the little bit of ZXP that that would give.
+Um, and that was great for testing our our backend systems, testing the zinc uh listet, uh, just, you know, testing the load on all of that, but in the end, that’s not really what we want to uh, award people. What we want to reward people is being is people playing the game. Um, and so for Hollow Sim, at least for the next chapter, it’s the achievements that you that that you achieve um that will get ZXP.
+Um, and then the other thing too that we that we’re working on is there’s just like with the Epic Games in Zinc, when you link your Epic Games account, you there’s now an actual really nice workflow to link your Hollow Sim uh account, your hollowosim player to uh to your Zinc profile. Um, so that it’s it’s not like this copy and paste and doing all these back and forth. Um, so that’s that’s kind of the main work that’s been going on in in zinc.
+The other piece that I’ve been again that’s been mass majority of my work working uh when the time that have to work on zinc has been on that. Um am also almost finished with this um with the the stage linking which will follow that same EP epic games hollow sim where you can literally click on button it will find your stage profile. that’ll allow you to link them.
+Um I’ I’ve been making progress on that, but again it’s with with the hard deadline of Hollis coming up here. Um really needed to focus on the the Hollis integration um and getting that fully working and fully and tested.
+So that’s what’s going on in the the zinc front. Um kudos to Ryan and um and Michael Kane and um Xcode who have all been helping with that as well. and hollim is looking really really good in my humble opinion.
+Um and then on the C4 front we have done basically done b half week of internal testing. Um every single blockchain game system has now been fully is fully working. um has been fully uh not tested, but people have been playing and you know, stuff like destroying crafting habs and destroying uh star bases and them respawning and re all of that.
+Just all of the edge cases have been uh flushed out and and are working.
+So, uh, we’re going to do another round of internal testing, um, over the next week, um, that will really be focused on UX polish and bug fixes. Um, and then we’re going to make determine after week of internal testing, uh, when we want to try to do PTR. Um, so don’t have date for PTR.
+Um, but we, like said, we’re we’re we’re really close. We just we just need to kind of play it bunch more internally. um work through.
+mean, it’s it’s such complex game uh now.
+There’s so many things that can be done.
+There’s just lot to kind of go through there. Um so, that’s kind the the C4 update. Um the other thing too from zinc because I’m always think about zinc as the dashboard, but don’t really think about zinc as the uh as the blockchain as well.
+So, apologize about that.
+But zinc from blockchain perspective, um we have uh we’ve basically updated the test net.
+So that again C4 is all running on the zinc test net.
+So we we’ve upgraded the test net to all of the local all of the most recent aguave changes. Uh we’re running the most recent uh version of that stuff. C4 is actually running on it.
+Um and uh the other thing that we’re able to do internally is full endtoend bridge. were able to to lock tokens on the Salana blockchain and then bridge them uh to the Zinc blockchain uh internally in testing.
+Now, that hasn’t been uh audited and it’s not ready to go to audit yet, but we have that fully working now. Um I’ I’ve seen it with my own eyes.
+So, that’s kind of the the development snapshot of the week.
+So, >> yeah, the community has few questions here. Let me fetch them. Um, sure.
+>> Let’s see. agree. Ask Jim, is the rank on the zinc main page the same as your level or they are two separate things?
+>> So, yeah.
+So, did you say the the the multipass or the the rank? I’m I’m sorry, didn’t quite >> as he asked the the rank the rank on the zinc main page is the same as your level or they are two separate things. Um, so, so, yeah.
+Yeah.
+No, that’s perfect.
+So, there’s, there’s two, there’s actually two reward systems inside of Zinc. Um, there’s there’s level, uh, which is an airdrop season.
+So, right now, we’re in the origin season, and you have level, and that’s what our leaderboards are tied to. Um, and that’s going to be kind of like the primary airdrop for the Zinc token itself, right? Um and so uh and and other maybe kind of primary air drops and that that level is different from then there’s this extra reward system.
+So that’s kind of the base reward system.
+You can be part of that reward system without zinc subscription. You just participate in the Star Atlas stuff and uh like playing Gala, which we’re going to see here later, right? like participate in that and you get you get the the ZXP that then will get you’ll get air dropped zinc in the future.
+Uh and that resets with every season.
+So, we did an alpha season, we’re doing an origin season, we’re going to have the next season.
+There’s going to be these seasons, right? And that that allows people new people to get in to be more active.
+That’s the first and primary reward system. The secondary reward system, I’m sorry this is such detailed answer, but it’s complex. The second reward season you have to have subscription for and it gives you this multipass rewards and then for those are based on rank and you get that rank as you have subscription and you’re doing things um it will earn that rank and know there’s UI bug so if you cancel your subscription and you’ve already earned your rank you that that rank is earned you’ve you’ve locked it in you’ll get those airdrops but that’s secondary airdrop reward system where we’re going to be aird dropping things that are in Sage we’re going to be dropping air dropping R4 and ship components and things like that.
+So that’s that’s secondary reward to the main there.
+So they’re different.
+So you might be level 50 and rank 12 and it means you’re going to get whatever airdrop rewards level 50 gets and then you’ll get rank drop rewards of whatever rank 12 is answer that question. >> Yes, for sure my friend. And the second question which Jindo and Laror are asking uh is the zinc subscription going to be actively working for giving the holosene BP on holos chapter 2 release or you need to wait >> like >> no the zinc the zinc subscription should cover your battle pass on day one from the next is for season for chapter 2.
+That’s That’s what if you see me distracted looking at another monitor, that’s what I’m actively working on.
+Yeah.
+So, >> awesome. Awesome. Awesome, >> guys.
+>> Yeah, think that’s covers pretty much uh all the questions here. Um because want to jump into Project Galia. know Brad is impatiently watching his moment to unleash his content.
+Yes, exactly.
+So, last question. Bohemian asked when hol scene.
+We are really close to nailing that down. Bohemian the team has been adding some crazy stuff that we managed to do with our extra week of work.
+We are we are super close. Like the testers have seen the progress that we have made. The game is it’s it’s really close.
+I just don’t won’t give date because Xcode will appear here and come beat my ass if do this.
+But it is it is awesome. >> So steady, we announce it pretty soon.
+Now Brad, the myth, the legend, the magic puncher. Tell us what you got, my friend. >> Right on.
+Um got couple things today. Uh, one of them no one knows about. One of them we uh kind of hinted or we we talked about it in the sneak peek last week, which is uh planetary navigation for AI, which is kind of big deal for us.
+So, uh, excited to jump in. I’m going to share my screen if that’s okay with you guys. >> People were mocking you, Brad, saying that you were unable to share your screen.
+>> Show them.
+No way.
+It’s not working. Oh it’s >> got it. I’m seeing it.
+>> Uh, let’s go. >> Right on.
+So, um I’m here in uh Gallalia. I’m going to spawn ship.
+So, there’s new uh area, new activity.
+So, if open my locations tab, which has been kind of revamped if you haven’t seen it now, it’s it’s organized hierarchically. Um, so Morvia and Porsche is its moon and then there’s this mining hot spot.
+So, that’s where we’re going to go today.
+So, the idea for this place is to be location where you can uh bounty hunt.
+You can also mine there, right? It is it is also mining spot, but uh there’s lots of pirate activity. And so, uh I’ll show you.
+There’s going to be some soon as arrive, there should be some Oops. arm taps. >> Uh, can’t see that yet.
+The screen’s still loading for me. You guys can see it. >> Oh, it was loading.
+It was, but it looks like it got stuck on. I’m seeing it almost get to the mining hot spot. >> Okay.
+Okay.
+Okay. >> Sorry. >> Did you Did you close it?
+Okay. >> Is that better? All right.
+>> Oh, it is better. >> Yes, >> see an asteroid field. >> Let’s go.
+An asteroid field.
+There’s this arm tap and uh it’s mining this asteroid and there should be uh two of them.
+There’s another one mining over there. Um, but uh after little bit then uh we’re going to have some company here.
+Some uh Yorvvic that want little little piece of the pie. >> It’s slowing down again, Brad. >> Maybe it’s the asteroid field that’s >> super heavy.
+Maybe. >> Well, no. My frame rate’s fine.
+>> It’s Discord then. We hate you, Discord. Discord.
+>> Can you see it all?
+It’s just It’s just slow. >> It is. >> It’s blacked up for me again.
+Yeah, I’m sorry. >> Yeah. >> Some people can can see it fine.
+guess >> I’m going to try turning off my camera just so maybe that’ll help. >> Yeah, let’s see. Let’s see if it helps.
+This actually help it.
+Cool.
+Yeah.
+So, you got these pirates that show up and they’re uh they’re scanning the minor, deciding if the juice is worth the squeeze, and then if they decide uh that they’ve it’s got something that they want, then they will open fire. >> And this is so cool. All right.
+So, this guy’s under attack and this uh distress call pops up, which is handy.
+Now, there’s two of them to defend right now. don’t know. And so, can target one of these guys and try not to die.
+We recently uh redid the uh AI for ships and they’re like way harder.
+So, may very well die here.
+Okay, got him. >> The community is asking, is Brad helping the pirates? >> No.
+No, I’m not. >> Come on. Come on, Fracker.
+>> And so, should have gotten uh kill confirmation for that guy. And so, um, as you know, you have to you have to turn these in.
+So, it’s it’s kind of riskreward. Do keep do keep racking them up? Because if die, lose those.
+So, you have to make the call. >> get Yeah. >> Yeah.
+Yeah, if you’re if you’re really into uh space combat, you can come here and just just grind grind bounties and try and save these poor miners. >> Man, look at the X5. Such beast.
+>> It is. You got to get you got to get them on the first pass. There we go.
+Nice. guy’s ways away. And like said, of course, you could uh you could mine if you wanted to.
+want to make it where uh this isn’t in yet, but want to make it where they’ll scan you. They’ll scan the player and attack the player if if the player has anything that, you know, they think is worth the risk. >> Uh, this is this is super cool.
+So now, Brad, this specific region will have those side quests happening often.
+That’s the general idea. >> Yeah.
+Yeah.
+You can come here like at any time. You don’t need mission for it or anything. It’ll just always always be here.
+>> Ouch.
+Solid hits there.
+Cool.
+So, yeah, I’ve got uh I’ve got good good bit of bounties there. might might head back now and turn those in. Um so, yeah, that’s uh that’s it’s in right now.
+mean, it’ll be in the next batch. Um >> nice. Super cool.
+>> Probably needs little polish still, but yeah, I’ we’ve been I’ve been getting into uh behavior trees. Um, so I, like said, redid the like from scratch. We never had like an actual behavior tree for um, combat chips.
+Um, so they have tree now and like these miners have tree and the then the pirates have behavior trees, so they’re like making decisions based on different criteria and stuff. Um, so yeah, it’s been it’s been fun to learn. I’ve never really gotten deep into that before, but I’m enjoying that.
+This is super cool. And I’m not sure told you this, Brad, but I’m working on adding like lower layer to C4 right now. And one of the systems that am adding right now is Mivia.
+So you’ll be able to see everything that’s going on in Medivia in C4 as well.
+It’s going to be >> Oh, that’s awesome. >> Cool. >> Nice.
+>> All right.
+So, um, the next thing wanted to show you guys is our, uh, planetary navigation for AI. Um, I’m going to come to this map.
+So, >> little little background. Oh, turn down our speed. When you’re when you’re moving in space, you have to crank up the speed and then you come to like normal level and you’re going way too fast.
+So, little background real quick. Um, so Unreal has an AI navigation system, but it is inherently 2D.
+It’s it assumes that the world is always going to be flat, like that is always going to be up. And so the second you try and uh you know do something on planet where up isn’t always up so to speak um it it it doesn’t work at all. And so, uh, and that’s the reason why we’ve had to, uh, do all these workarounds where, like right now, we have couple locations on planets where you you you enter an airlock and you go, you know, quote unquote, underground, but what’s really happening is you’re teleporting to like another level that is that is flat, that is up, right?
+So the entrance the entrance is, you know, on the side of the planet, but once you go in it, it you’re rotated. >> And that’s why navigation works.
+That’s why we can have enemies in those kinds of levels.
+It’s we’re kind of cheating, right?
+It’s workaround. Um, but now we can have guys on the surface of planets.
+So, um, as you can see, this is planet and this this is the bot battle level, and it’s completely sideways. Um, and it’s you’ll see it’s not it’s not perfect.
+There’s like couple little weird things sometimes. second. They’ll start moving.
+Um, one thing we haven’t fixed, you’ll see, is the corpses don’t have the gravity direction yet, >> which is pretty awesome. should >> So, yeah, make this channel. >> don’t really want to.
+kind of want to leave it like >> Yeah, leave it like that.
+That’s funny. >> Look at that. Where’d he go?
+While your corps says go find the cosmic currents. >> Yeah, that’s pretty funny. >> Yeah.
+See, he kind of walked up on that little bit. Like there’s there’s few there’s few little things that are are still weird, but >> No, no way you’re getting Jesus. >> Yeah, there’s there’s couple little weird things still, but Oh, there go.
+No way you got wrecked by the bot Brad. >> This is awesome.
+Not going to lie, maybe it’s better to live it that way, Brad. >> Right. >> But jokes aside, this opens the door to many, many, many cool stuff.
+Like we can add animals, we can populate worlds, we can add random events inside the planets. All of these become something within the realm of possibilities now, right Brad? >> Yeah.
+Yeah. should stop playing because can’t talk and play at the same time. Um, yeah.
+So, the first kind of uh iteration of this that you’ll see in game is going to be kind of like this where we want to have surface outposts that have been taken over by Yorvvic and you’ll take a bounty mission. mean, suppose you could just go there, but um get more money if you take bounty mission first and you go clear it out and maybe maybe there’s like boss at the end with with gatling gun or rocket launch or something. Um, and we want to have combat like outside and inside kind of like this where you know there’s outside and and inside.
+Um, and just go wreck wreck shop and then uh because the bounty missions right now are just com space combat, right? Dog fighting bounty missions.
+So, we want to have on foot bounty missions. Um, and so we’re planning on having four or five outposts kind of scattered across the system to start.
+you can go and uh take care of.
+But then after that uh we want to get into creatures. Oh, let’s go. want to talk about creatures.
+Creatures are super cool. >> So, I’m going to show you guys.
+So, this is uh creature that got from from Fab from the marketplace. just happened to have it in my in my library and needed something to prototype with.
+So we mean we could use it. We may or may not use it. Um gamers sometimes are are not very friendly about people using marketplace assets.
+Um and you know there’s there’s pros and cons to it.
+So, this this that is just to say this creature may or may not actually make it into the game. Um, I’m just using it to prototype, but uh it’s kind of fun. All right.
+need more need more firepower. >> It’s It’s lagging for some people, Brad. >> Oh, yeah.
+>> Dang it. >> It’s just It’s just Discord, man. Like, I’m seeing it fully >> freaking Discord.
+There we go.
+Now you got gun. There we go. >> Now you got gun.
+>> Now they’re falling like flies. >> Oh. Oh, thank goodness.
+You got hollow. You got uh things like you can fly. You just gonna You’re just gonna Oh, come >> Jesus.
+Brad has no mercy. >> Oh, head shot. >> Hey, guy.
+Guys got to eat. >> Not the deers.
+You know, it’s really interesting that you talked about, you know, about assets, you know, games.
+It’s interesting because look at like games like Falling Skies and, you know, one developer, you know, being able to build pretty epic game and I was listening to him talk on podcast about it’s exactly what he does. He buys he buys these marketplace assets and then he hires he has a 3D artist that he hires to kind of modify it little bit like change the textures and maybe change his shape little bit.
+But by doing that he’s been able to really create lot more content significantly faster. >> Um and know that’s something I’ve talked about internally with our dev team. uh you know in and you know how we could get things you know just get more content out there faster.
+So it would be interesting kind of hear what our community thinks. know that think one of the big selling points of the Star Atlas has been you know Danny’s artistic vision. >> You know when you look at everything that’s been been built by Star Atlas from 3D modeling and environment perspective it’s just it’s just such high quality.
+So >> yeah.
+Yeah, there’s mean there’s pros and cons and like for team our size mean it’s pretty small team and so uh think it’s not unreasonable to use and it and again it kind of depends on the asset like we use assets for like trees and stuff because you know who’s who’s going to be able to tell if your tree is from you know tree is tree but something as unique as character um understand why we want we you know artistic control over Um but yeah, so the this kind of this we thought this problem would be lot harder to solve. Um, Star Citizen had, if you’ve been following that, they did the same thing initially where the only place where you could do uh, gunplay against AI was in these, you take this elevator down and you fight guys down there, which is and and they did the same trick we did where when you go down the elevator, now you’re in different level that’s oriented up and so navigation is easier. Um, and it took them years, took them like five years to get like actual planetary navigation.
+So, um, didn’t think we were going to be able to do it. And so, we never really put much thought into, you know, what we would do if we had it. And so, now we have it.
+It’s like, well, how how do we actually, you know, what what’s the game design for actually populating the world with creatures? And so we’ve kind of been having an internal discussion about that. Um, and then the other tricky thing is like at the moment the Unreal team is pretty small and we don’t have like lot of resources to go full development into creatures and creature animation and and all that stuff.
+So, um, trying to figure out workarounds. And >> see lot of people in the chat saying that asking you to tell the community what assets we need, monsters and such, and let the people create. Oh, Brad’s gone.
+>> Yeah, you know, >> he’s gone.
+You know, was actually watching that chat.
+It’s great suggestion, especially Dindo, and it be it would be also really interesting. We got Brad back. We’ll let them do that.
+But it’d be kind of interesting if we if we did something where we created kind of like our own little like marketplace bidding thing where people could we could say, “Hey, we need this kind of creature. Here’s the description. ” And then we use the Atlas pay from Super Phoenix Dow and give people little commission, an Atlas for building it.
+So, um, that would be pretty cool.
+Yeah, but I’m not sure if you were here, but lot of community members saying that they are 3D artists or they like to work on those stuff and they would be more than happy to to chime in and try to create some stuff for Star Atlas. >> Yeah, think uh think we’d be open to that. Um, like you mentioned, Danny has he mean he was an art director before he came over as game director and he’s got really good eye for for art and stuff.
+Um, and that’s that’s why you know all of our ships and characters are are so great. Um, but yeah, if uh don’t don’t want to like speak out of turn or anything like I’m just spitballing. Don’t don’t take this as gospel, but um if uh don’t know if anyone out there is like like what do you call that?
+Uh like 2D artist, right? Concept artist.
+That’s the word. Um concept artist. Come up with some concepts and then uh maybe hand it off to someone else.
+Well, we’d want to get that approved first. And and and and also we don’t we want to make sure that that the the game play has hand in it too because we want because another thing we’ve been wrestling with um from game design standpoint is as you as you saw these these creatures right here, they’re melee creatures um and they’re pretty fast, but I’ve got jetties and so can just fly away at any moment. And so that’s that’s another game design challenge.
+How do you how do you challenge as creature if if they’re if they’re range creatures, they can shoot stuff, right?
+That’s that’s cool.
+But if it’s some kind of melee creature, how do you make melee creature dangerous to player that has jetties, right? And so, mean, there’s couple couple things we’ve been thinking about, but so for game design is going to have to have say in creature design because, you know, it it needs to be specific. How is this creature gonna, you know, challenge the players?
+So, lot of moving pieces. >> We We’ll get that. The one thing that I’m most excited about all of this is that we can finally populate the planets, add loot tables, and create crafting recipes using body parts of monsters that have different drop hate percentages.
+think this opens huge door for us, like enormous.
+It’s it makes the game it becomes gameplay loop by itself and super interesting and attractive one at this honestly. >> Yeah, for sure. Um hunting it it’s it’s interesting actually when when first came on the original design uh for Star Atlas was broken into seasons.
+Um, and season 1 was going to be racing and then season two was going to be big game hunting. And thought that was pretty interesting. And the way the seasons were broken up was was going to be to develop certain features.
+So the racing season was going to develop our flight model and then big game hunting season was going to develop our gunplay. We ended up going different direction and doing multiplayer shooter to develop our gunplay.
+But always thought that was cool concept. kind of like, you know, not quite Monster Hunter, but you know, there’s there’s some real tough monsters out there that that you gotta that you got to hunt. Um, and yeah, Danny references uh Red Dead Redemption 2 lot in reference to hunting, which am ashamed to say.
+actually haven’t played yet Red Dead Redemption 2, but just wishlisted it this week because Danny’s always talking about it.
+But uh if you’ve played that, that’s kind of Danny’s vision for hunting is like that. Whatever that is. don’t know.
+>> That’s interesting.
+Guys, any last questions for Brad or Jim before we close? see lots of people chatting.
+Yeah, there could be there could be mechanical monsters. Sure, >> we have many of those.
+Actually, there is whole sector of fox steam punk based creatures in Staratus. Make big monsters in PVA Status like spatial dragons. like where you’re going Tenden.
+>> Yeah. an an easy one that we could already implement is some kind of EMP because our shockwave weapons already do that. If you get hit with shockwave, your jetty is disabled for time.
+>> And so you could have a monster that does like an EMP and it disables your jetty for 10 seconds or whatever. >> That’s that’s my AAA game designer. All right.
+don’t think we have any other last questions. Brad Jim, this was awesome. always love seeing what you are cooking, Brad, and you never disappointed me.
+So, thank you for coming to the brew and sharing your updates.
+We are really looking forward to the next steps of monster hunting, new quests, directional dungeons, and fights. Brad, look at that gift, man. am going to love it.
+Love it. >> That’s awesome. Doubles in the chat for Brad and Jim.
+>> Yeah. >> Yeah. And for the Super Phoenix style people that came on, thank you guys ton.
+>> Absolutely.
+That’s super cool. All right, everyone. Thank you for coming to the real once more.
+Get ready to play Holene. We’ll be announcing it soon. And wait for little bit more because Brad is cooking and manifesting lot of cool stuff for Project Galia as well.
+Thank you everyone in the audience. We’ll see each other this Friday for the Galia gaming night. Bye-bye everyone.
+Have nice week. See you. >> Thanks everybody.
+Bye. >> Later.

@@ -1,0 +1,235 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-6AF49351907F1069",
+    "url": "https://support.staratlas.com/hc/en-us/articles/52247034465939-How-to-Set-Up-a-Claim-Stake-in-C4-PTR",
+    "title": "How to Set Up a Claim Stake in C4 PTR",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2026-06-02T17:48:43Z",
+    "updated_at": "2026-06-03T14:43:31Z",
+    "original_date_text": "2026-06-02T17:48:43Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “How to Set Up a Claim Stake in C4 PTR.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Claim Stakes allow you to produce resources from planets in C4 PTR.\nThis guide explains how to place a Claim Stake, build the required Core Hub, fuel the Claim Stake, and start production.\nImportant: Once a Claim Stake and its buildings have been placed, they cannot be removed.\nBefore you start\nThis guide shows the process using the CSS, your faction’s main base.\nThe same process can be used at other bases, but if you want to build outside of the CSS, you must transport the Claim Stake to that base using one of your fleets.\nThis guide does not provide advice on where to place your Claim Stake or how you should upgrade it. That decision is up to you.\nStep 1: Turn on God Mode\nDuring PTR, you may need to enable God Mode to avoid research requirements for placing a Claim Stake.\nTo turn on God Mode:\nExit any menu you are currently in and return to the main map.\nClick the Council Rank icon in the top-right menu bar.\nClick the God Mode node near the top middle of the Council Rank tree.\nClick Start Research in the bottom-right corner.\nRefresh your browser.\nStep 2: Choose a base\nNext, choose the base where you want to place your Claim Stake.\nFor this tutorial, you can use the CSS.\nTo enter the CSS:\nClick Go To CSS in the bottom-right corner of the screen.\nClick Enter Starbase.\nYou can also enter another base from the map, but you may need to zoom in to select it.\nStep 3: Open the Claims menu\nOnce inside the Starbase:\nClick Claims at the bottom of the Starbase menu on the left.\nSelect the planet where you want to place your Claim Stake.\nClick Place New Claim Stake.\nEach planet can yield different resources, so choose carefully.\nStep 4: Place your Claim Stake\nAfter opening the Claim Stake placement screen:\nSelect the Claim Stake you want to build from the options on the right.\nClick Place Claim Stake.\nYou will then arrive at the main build screen for your Claim Stake.\nEvery Claim Stake requires a Core Hub before it can become active.\nStep 5: Check the required Core Hub materials\nThe Core Hub must match the tier of your Claim Stake.\nFor example, if you placed a T5 Claim Stake, you need a T5 Core Hub.\nTo check the required materials:\nClick the + icon next to the required Core Hub.\nReview the required components.\nWrite down the requirements or take a screenshot.\nYou will need these components before you can build the Core Hub.\nStep 6: Gather the required components\nTo build the Core Hub, you need to gather the required components.\nThis may involve forming fleets, mining raw goods, and crafting the required materials.\nOnce you have the required components:\nReturn to the base where your Claim Stake is placed.\nClick Enter Starbase.\nClick Claims in the Starbase menu.\nSelect your Claim Stake from the right side of the screen.\nClick the green Build button on the right side of your Claim Stake.\nYou will return to the Claim Stake build menu.\nStep 7: Build the Core Hub\nOnce you are back in the build menu:\nClick the + icon next to the Core Hub that matches your Claim Stake tier.\nMake sure all required resources are shown in green.\nClick Apply in the bottom-left corner of the menu.\nAfter the Core Hub is built, your Claim Stake can be activated.\nStep 8: Fuel the Claim Stake\nFuel is required for a Claim Stake to start producing resources.\nTo fuel your Claim Stake, you must transfer fuel using one of your fleets.\nImportant fuel notes:\nUse Cargo Hold Fuel.\nFuel Pod fuel cannot be used to load a Claim Stake.\nThe fleet must be undocked and idle.\nTo prepare the fleet:\nGo to the Starbase menu.\nClick Hangar.\nSelect one of your fleets, or create one.\nLoad the fleet with Cargo Hold Fuel.\nUndock the fleet.\nLeave the fleet idle and undocked.\nStep 9: Transfer fuel to the Claim Stake\nOnce your fleet is idle and loaded with Cargo Hold Fuel:\nClick Claims in the Starbase menu.\nSelect your Claim Stake from the right side.\nClick Transfer Cargo near the top middle of the menu.\nFind your fleet in the Idle Fleets box on the bottom-left.\nSelect the fleet.\nClick MAX next to the Cargo Hold Fuel.\nClick Dispatch Transfer in the bottom-right corner.\nThis will start the cargo transfer to your Claim Stake.\nStep 10: Complete the transfer\nWhen the cargo transfer is complete, your fleet will appear in the Active Transfers box.\nTo finish the transfer:\nFind the fleet in Active Transfers.\nClick the green Ready button next to the fleet.\nYour Claim Stake now has the required fuel and should begin producing resources.\nStep 11: Keep your Claim Stake running\nYour Claim Stake needs regular maintenance to keep producing.\nRemember:\nYou must keep your Claim Stake fueled.\nClaim Stakes have limited cargo space.\nStorage upgrades can increase cargo space.\nIf the Claim Stake cargo becomes full, it will stop producing resources.\nWithdraw resources regularly to keep production active.\nWhat to do next\nOnce your Claim Stake is active, you can withdraw produced resources using a fleet with empty cargo space.",
+  "content_hash": "9c534b6943bf9e14ba83ff89f6167a63e747e07dd16a8a49c6617cd6f5ba35b4",
+  "entities": [
+    "C4",
+    "CORE",
+    "Claim Stakes"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-6AF49351907F1069-01",
+      "text": "Claim Stakes allow you to produce resources from planets in C4 PTR.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-6AF49351907F1069",
+      "publication_date": "2026-06-02T17:48:43Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-6AF49351907F1069-02",
+      "text": "This guide explains how to place a Claim Stake, build the required Core Hub, fuel the Claim Stake, and start production.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-6AF49351907F1069",
+      "publication_date": "2026-06-02T17:48:43Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-6AF49351907F1069-03",
+      "text": "Important: Once a Claim Stake and its buildings have been placed, they cannot be removed.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-6AF49351907F1069",
+      "publication_date": "2026-06-02T17:48:43Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-6AF49351907F1069-04",
+      "text": "Before you start This guide shows the process using the CSS, your faction’s main base.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-6AF49351907F1069",
+      "publication_date": "2026-06-02T17:48:43Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-6AF49351907F1069-05",
+      "text": "The same process can be used at other bases, but if you want to build outside of the CSS, you must transport the Claim Stake to that base using one of your fleets.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-6AF49351907F1069",
+      "publication_date": "2026-06-02T17:48:43Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-6AF49351907F1069-06",
+      "text": "This guide does not provide advice on where to place your Claim Stake or how you should upgrade it.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-6AF49351907F1069",
+      "publication_date": "2026-06-02T17:48:43Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-6AF49351907F1069-07",
+      "text": "Step 1: Turn on God Mode During PTR, you may need to enable God Mode to avoid research requirements for placing a Claim Stake.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-6AF49351907F1069",
+      "publication_date": "2026-06-02T17:48:43Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-6AF49351907F1069-08",
+      "text": "To turn on God Mode: Exit any menu you are currently in and return to the main map.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-6AF49351907F1069",
+      "publication_date": "2026-06-02T17:48:43Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-6AF49351907F1069-09",
+      "text": "Click the Council Rank icon in the top-right menu bar.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-6AF49351907F1069",
+      "publication_date": "2026-06-02T17:48:43Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-6AF49351907F1069-10",
+      "text": "Click the God Mode node near the top middle of the Council Rank tree.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-6AF49351907F1069",
+      "publication_date": "2026-06-02T17:48:43Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-6AF49351907F1069-11",
+      "text": "Click Start Research in the bottom-right corner.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-6AF49351907F1069",
+      "publication_date": "2026-06-02T17:48:43Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-6AF49351907F1069-12",
+      "text": "Step 2: Choose a base Next, choose the base where you want to place your Claim Stake.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-6AF49351907F1069",
+      "publication_date": "2026-06-02T17:48:43Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-6AF49351907F1069-13",
+      "text": "To enter the CSS: Click Go To CSS in the bottom-right corner of the screen.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-6AF49351907F1069",
+      "publication_date": "2026-06-02T17:48:43Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-6AF49351907F1069-14",
+      "text": "You can also enter another base from the map, but you may need to zoom in to select it.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-6AF49351907F1069",
+      "publication_date": "2026-06-02T17:48:43Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-6AF49351907F1069-15",
+      "text": "Step 3: Open the Claims menu Once inside the Starbase: Click Claims at the bottom of the Starbase menu on the left.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-6AF49351907F1069",
+      "publication_date": "2026-06-02T17:48:43Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "CORE",
+    "C4",
+    "Claim Stakes"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/52247034465939-How-to-Set-Up-a-Claim-Stake-in-C4-PTR",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.456589Z"
+  }
+}

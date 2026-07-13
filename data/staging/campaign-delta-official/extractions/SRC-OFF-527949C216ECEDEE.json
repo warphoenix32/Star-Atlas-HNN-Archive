@@ -1,0 +1,150 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-527949C216ECEDEE",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47053489014803-How-do-I-Mine-Resources-in-Starbased",
+    "title": "How do I Mine Resources in Starbased?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-03T13:17:10Z",
+    "updated_at": "2025-12-08T18:23:51Z",
+    "original_date_text": "2025-12-03T13:17:10Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “How do I Mine Resources in Starbased?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Mining in Starbased is essential for collecting resources that fuel your fleet, crafting, and Starbase upgrades.\nPreparing Your Fleet\nUndock your fleet in a sector with a Starbase where mining is possible.\nIn empty sectors, you can only scan for SDUs mining is not available there.\nStarting Mining\nSelect Your Fleet & SectorNavigate to the sector where your fleet is located and select the fleet you wish to mine with.\nInitiate MiningClick “Start Mining” from the fleet menu.You’ll see:\nAvailable resources in the sector\nMining rates per resource\nEstimated time to fill your cargo\nReview the details, then click “Initiate Mining” and approve the transaction in your wallet.\nStopping Mining\nWhen your cargo is full or you wish to relocate:\nClick “Harvest Resources and Stop Mining.”\nApprove the transaction in your wallet.\nYour mined resources are now in your fleet’s cargo.\nUnloading Resources\nDock your fleet at a Starbase to unload your mined resources into your Local Inventory, ready for crafting or trade.",
+  "content_hash": "c9dab94330dc5259eb224d7254264ef1ab7a9d335bb4d96422d6546669eb99ae",
+  "entities": [],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-527949C216ECEDEE-01",
+      "text": "Mining in Starbased is essential for collecting resources that fuel your fleet, crafting, and Starbase upgrades.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-527949C216ECEDEE",
+      "publication_date": "2025-12-03T13:17:10Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-527949C216ECEDEE-02",
+      "text": "Preparing Your Fleet Undock your fleet in a sector with a Starbase where mining is possible.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-527949C216ECEDEE",
+      "publication_date": "2025-12-03T13:17:10Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-527949C216ECEDEE-03",
+      "text": "In empty sectors, you can only scan for SDUs mining is not available there.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-527949C216ECEDEE",
+      "publication_date": "2025-12-03T13:17:10Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-527949C216ECEDEE-04",
+      "text": "Starting Mining Select Your Fleet & SectorNavigate to the sector where your fleet is located and select the fleet you wish to mine with.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-527949C216ECEDEE",
+      "publication_date": "2025-12-03T13:17:10Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-527949C216ECEDEE-05",
+      "text": "Initiate MiningClick “Start Mining” from the fleet menu.You’ll see: Available resources in the sector Mining rates per resource Estimated time to fill your cargo Review the details, then click “Initiate Mining” and approve the transaction in your wallet.",
+      "claim_type": "ESTIMATED_DATE",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-527949C216ECEDEE",
+      "publication_date": "2025-12-03T13:17:10Z",
+      "confidence": "MEDIUM",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-527949C216ECEDEE-06",
+      "text": "Stopping Mining When your cargo is full or you wish to relocate: Click “Harvest Resources and Stop Mining.” Approve the transaction in your wallet.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-527949C216ECEDEE",
+      "publication_date": "2025-12-03T13:17:10Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-527949C216ECEDEE-07",
+      "text": "Your mined resources are now in your fleet’s cargo.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-527949C216ECEDEE",
+      "publication_date": "2025-12-03T13:17:10Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-527949C216ECEDEE-08",
+      "text": "Unloading Resources Dock your fleet at a Starbase to unload your mined resources into your Local Inventory, ready for crafting or trade.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-527949C216ECEDEE",
+      "publication_date": "2025-12-03T13:17:10Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47053489014803-How-do-I-Mine-Resources-in-Starbased",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.238375Z"
+  }
+}

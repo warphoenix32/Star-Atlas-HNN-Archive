@@ -1,0 +1,69 @@
+# Star Atlas Weekly Newsletter #192
+
+## Source metadata
+
+- Source ID: `SRC-IH-2319DAF2BAC3D356`
+- URL: https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-192/
+- Publisher: Intergalactic Herald
+- Published: 2025-11-21T23:00:00
+- Updated: 2025-11-21T21:11:39
+- Classification: `CURATED_SUMMARY`
+- Classification rationale: Weekly newsletter/recap aggregates developments and linked sources.
+- Extraction confidence: `HIGH`
+
+## Source Lineage
+
+**Publication Role:** `CURATED_SUMMARY`
+
+**Relationship:** `CURATED_SUMMARY_OF`
+
+**Primary Sources:**
+
+- **Weekly Star Atlas Newsletter 206** — Author: UNKNOWN; Organization: Aephia; URL: https://aephia.com/star-atlas/weekly-star-atlas-newsletter-206/
+
+**Original Creators:**
+
+- Aephia
+
+**Lineage Confidence:** `MEDIUM`
+
+## Neutral synopsis
+
+Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week. The video and article summaries below are AI generated so they may not be 100% accurate. Weekly Star Atlas Newsletter 206 from Aephia – https://aephia.com/star-atlas/weekly-star-atlas-newsletter-206/ This week, the Star Atlas ecosystem saw a significant spotlight on the upcoming Galia Game Mode overhaul, slated to begin rolling out before Christmas. The latest Atlas Brew showcased early footage of new mechanics, including a comprehensive inventory system, resource harvesting, item equipping, cargo transfers, NPC vendors, and an extensive crafting system for weapons…
+
+## Attribution and linked sources
+
+- [https://aephia.com/star-atlas/weekly-star-atlas-newsletter-206/](https://aephia.com/star-atlas/weekly-star-atlas-newsletter-206/)
+- [https://www.youtube.com/watch?v=8QMQwaQk3z4](https://www.youtube.com/watch?v=8QMQwaQk3z4)
+- [https://www.youtube.com/watch?v=c6d8ydM2R4I](https://www.youtube.com/watch?v=c6d8ydM2R4I)
+- [Intergalactic Gear](https://intergalacticgear.com/)
+- [Intergalactic Coalition](https://intergalacticcoalition.com/)
+
+## Temporal warning
+
+Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources.
+
+## Manual review
+
+- Verify which outbound links are primary sources and preserve creator attribution during promotion.
+
+## Extracted article text
+
+Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week. The video and article summaries below are AI generated so they may not be 100% accurate.
+Weekly Star Atlas Newsletter 206 from Aephia – https://aephia.com/star-atlas/weekly-star-atlas-newsletter-206/
+This week, the Star Atlas ecosystem saw a significant spotlight on the upcoming Galia Game Mode overhaul, slated to begin rolling out before Christmas. The latest Atlas Brew showcased early footage of new mechanics, including a comprehensive inventory system, resource harvesting, item equipping, cargo transfers, NPC vendors, and an extensive crafting system for weapons and ship components. This single-player, off-chain experience will also introduce a mission-driven progression guided by the character SAGE, with players working to free space stations from Jorvik pirates. In governance news, the Council Elections for Term 3 are in their final campaign week, and three crucial Polis Improvement Proposals (PIPs) remain open for voting: PIP-22 (Iris Bounty: The Arena) and PIP-23 (Refresh of PIP-4: Ecosystem Fund) both close tomorrow, November 18th. PIP-24 (DAO-Supported Hosting for SLY Assistant) concludes on November 22nd, with preliminary results indicating a close vote. Additionally, ATMTA’s CPO, Danny, shared a product stack overview, the first Iris’ Blessing raffle winners were announced, and a Star Atlas meetup is confirmed for December 12th in Abu Dhabi, coinciding with Solana Breakpoint. Lastly, a former Senior Technical Artist offered a sneak peek into a versatile weapon skinning system developed for the game.
+Atlas Brew 182-DAO Council Candidates from Star Atlas TV – https://www.youtube.com/watch?v=8QMQwaQk3z4
+This week’s Atlas Brew delivered several exciting updates for the Star Atlas community and its governance. Aetia Industries unveiled their comprehensive Operations Hub (ses.aetia.com), featuring an interactive 3D Galia Viewer, detailed Planet Explorer analytics for economic system ranking, and specialized tools for claimstake and recipe management. This suite aims to provide workflow-driven planning capabilities for players. Complementing this, Yann introduced a community-made Sage Rental Tool that offers real-time profitability analysis for fleet rentals, assisting players in optimizing mining and transfer operations. Important game milestones were also announced: Holo-sim Chapter 2 is opening for testing, with a signup form available for both new and veteran players. Furthermore, ARYS Blessing Month 2 has kicked off, bringing 5,000 in rewards and an upcoming Double XP/CXP weekend. A major segment of the broadcast was dedicated to introducing all six DAO Council candidates—Githblade, Yasfreaks, Morango, Emperor, Lancer, and Winston—who presented their platforms and engaged in Q&A sessions, emphasizing transparency ahead of the upcoming elections. The event concluded with the code “DAO NOW” for community engagement.
+Lore Keepers 16-ECOS & Our Near-Term Future from Star Atlas TV – https://www.youtube.com/watch?v=c6d8ydM2R4I
+The latest Lorekeepers episode unveiled significant developments, primarily focusing on HoloSim Chapter 2, set for release next month. A major highlight is that all factions will receive unique quest lines, offering distinct narratives and perspectives on in-game events, though core tasks will remain consistent for competitive fairness. HoloSim Chapter 2 will feature a “heavy, heavy presence” of the ECOS faction, with players’ in-game actions like extensive mining potentially provoking responses from ECOS NPC armies, introducing a dynamic “danger level” akin to GTA. Furthermore, Project Gaea is making substantial progress, showcased through new development videos of its UI5 single-player mode, which will allow players to settle planets and establish operations. Emphasizing game stability, infrastructure and reliability are central to the upcoming HoloSim release, with community testing applications currently open. The episode also delved into the canonical lore from the ECOS perspective, detailing the destruction of Planet Earth in 2150 AD, the rise of the god-like figure Amon and the alien entity Ar, and the subsequent devastating “Exterminatus” event that forced the MUD faction to flee Earth. Remaining ECOS members, organized as the Earth Conscious Ontological Society, then forged a new path among the stars. Players can anticipate boss-level NPCs and deep dives into the lore of various ECOS sub-factions, including the militaristic Balifa Grove, offering rich storytelling and intense gameplay. Remember, HoloSim is free to play, and active participation in ZING dashboard activities grants benefits.
+I am looking for guests to be on the podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact me.
+I am launching a Star Atlas merch store. Please check it out at Intergalactic Gear.
+I am also creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic Coalition.
+Star Atlas Week in Review Podcast – Audio podcast where I break down everything that happened in Star Atlas the past week plus my analysis on what it all means. https://intergalacticherald.com/podcast/
+Star Atlas Event Recap – AI audio summary covering all the key moments from Star Atlas community events. https://intergalacticherald.com/podcast/star-atlas-event-recaps/
+Star Atlas Discord News Feed Newsletter – Star Atlas Discord announcements send directly to your email so you never miss out on updates from the Star Atlas team. https://intergalacticherald.com/star-atlas-discord-news-feed/
+If you would like to support my efforts, donations can be sent to intergalacticherald.sol
+Latest podcast
+Podcast 176: Star Atlas Weekly Reviewby MattJuly 5, 2026In this episode, I recap the latest news of Star Atlas from the past week. Listen on Apple Podcasts Listen on Spotify I am looking for guests to be on the podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in… Read more: Podcast 176: Star Atlas Weekly Review
+Latest recap
+Star Atlas Event Recap 91: Atlas Brew #211by MattJuly 2, 2026In this episode, hear an AI summary of the latest Star Atlas community event. Full video recordings can be found on the YouTube channel of Star Atlas TV at https://www.youtube.com/@staratlastv. Listen on Apple Podcasts Listen on Spotify Star Atlas Event Summary Hi, this isn’t Matt with the Intergalactic Herald. I… Read more: Star Atlas Event Recap 91: Atlas Brew #211

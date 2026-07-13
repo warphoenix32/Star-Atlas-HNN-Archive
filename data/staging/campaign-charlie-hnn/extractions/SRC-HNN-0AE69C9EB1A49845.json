@@ -1,0 +1,146 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-0AE69C9EB1A49845",
+    "url_id": "URL-0AE69C9EB1A49845",
+    "url": "https://medium.com/the-hologram/star-atlas-sage-crafting-the-best-way-to-get-crews-cheaply-98a33632a88b",
+    "title": "Star Atlas SAGE Crafting: The Best Way to Get Crews Cheaply",
+    "author": "Krigs",
+    "publisher": "The Hologram",
+    "publication_identity": "The Hologram (Medium publication)",
+    "published_at": "2022-12-17T05:47:53Z",
+    "updated_at": "2022-12-17T05:47:53Z",
+    "retrieved_at": "2026-07-13T00:06:27.177506Z",
+    "document_type": "ORIGINAL_INTERVIEW",
+    "source_role": "ORIGINAL_INTERVIEW",
+    "publication_role": "ORIGINAL_INTERVIEW",
+    "classification_rationale": "Publication explicitly presents an interview or Q&A."
+  },
+  "source_lineage": {
+    "publication": "The Hologram (Medium publication)",
+    "publication_role": "ORIGINAL_INTERVIEW",
+    "relationship": "INTERVIEWS",
+    "primary_sources": [
+      {
+        "publication": "manual",
+        "author": "UNKNOWN",
+        "url": "https://staratlas.com/newsroom/game-manuals/sage-game-manual-part-2-game-structure",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [
+      "Krigs"
+    ],
+    "attribution_chain": [
+      {
+        "from": "manual",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "INTERVIEWS",
+        "url": "https://staratlas.com/newsroom/game-manuals/sage-game-manual-part-2-game-structure"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "This original interview published by The Hologram on 2022-12-17 documents “Star Atlas SAGE Crafting: The Best Way to Get Crews Cheaply.” Its surviving text addresses economy, game development, community. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "Member-only story\nStar Atlas SAGE Crafting: The Best Way to Get Crews Cheaply\nKrigs4 min read·Dec 17, 2022\n--\nListen\nShare\nDec 16th, 2022 — Back in August, we published an article theory crafting what would be the best and most efficient way to gain crew members for crafting in Star Atlas SAGE. Today, with the release of the draft SAGE game manual, we finally have some more clarity.\nDisclaimer: Information in this guide is subject to change and without warning by Star Atlas. The information below comes from the Star Atlas SAGE manual with additional amplifying Q&A from the Star Atlas Devs.\nBasic Crew Mechanics\nTo begin, we establish the premise that Crafting capacity in SAGE will be determined by amount of Crew Members docked in a Central Space Station or Star Base.\n2. Second, total crafting capacity management is determined by the number of privilege points a player has invested into that skill. A player can only earn 142 total privilege points on one account\nTheoretically, a player could invest all 142 points into Crafting Capacity, but that would leave no room for other important privileges like fleet size. We’ll cover a potential side option a bit later.\n3. SAGE is no longer using a hangar gating mechanism and players are free to deposit ships into SAGE (This was a recent change and may change before the release of…",
+  "content_hash": "d114af678c0049378c588b4e5ff1c87585060b5e51bf03ed047cda0f7ba5b2cb",
+  "major_topics": [
+    "economy",
+    "game development",
+    "community"
+  ],
+  "entities": [
+    "ATLAS",
+    "Krigs",
+    "SAGE",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-0AE69C9EB1A49845-01",
+      "text": "Basic Crew Mechanics To begin, we establish the premise that Crafting capacity in SAGE will be determined by amount of Crew Members docked in a Central Space Station or Star Base.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-0AE69C9EB1A49845",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "SAGE",
+    "Star Atlas",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [
+    "Krigs"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://medium.com/@krigsfoniks?source=post_page---byline--98a33632a88b---------------------------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fthe-hologram%2F98a33632a88b&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fstar-atlas-sage-crafting-the-best-way-to-get-crews-cheaply-98a33632a88b&user=Krigs&userId=41e0c5b141f1&source=---header_actions--98a33632a88b---------------------clap_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Frepost%2Fp%2F98a33632a88b&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fstar-atlas-sage-crafting-the-best-way-to-get-crews-cheaply-98a33632a88b&user=Krigs&userId=41e0c5b141f1&source=---header_actions--98a33632a88b---------------------repost_header------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F98a33632a88b&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fstar-atlas-sage-crafting-the-best-way-to-get-crews-cheaply-98a33632a88b&source=---header_actions--98a33632a88b---------------------bookmark_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2Fplans%3Fdimension%3Dpost_audio_button%26postId%3D98a33632a88b&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fstar-atlas-sage-crafting-the-best-way-to-get-crews-cheaply-98a33632a88b&source=---header_actions--98a33632a88b---------------------post_audio_button------------------",
+      "anchor_text": "Listen"
+    },
+    {
+      "url": "https://medium.com/the-hologram/what-will-be-the-first-star-atlas-crafting-meta-5c7a3833d176",
+      "anchor_text": "article"
+    },
+    {
+      "url": "https://medium.com/u/5ed69ff9cfb0?source=post_page---user_mention--98a33632a88b---------------------------------------",
+      "anchor_text": "Star Atlas"
+    },
+    {
+      "url": "https://staratlas.com/newsroom/game-manuals/sage-game-manual-part-2-game-structure",
+      "anchor_text": "manual"
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "author_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Extraction completeness or publication dating requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://medium.com/the-hologram/star-atlas-sage-crafting-the-best-way-to-get-crews-cheaply-98a33632a88b",
+    "final_url": "https://medium.com/the-hologram/star-atlas-sage-crafting-the-best-way-to-get-crews-cheaply-98a33632a88b",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 111148,
+    "elapsed_ms": 761,
+    "retrieval_mode": "LIVE",
+    "archive_capture": null
+  }
+}

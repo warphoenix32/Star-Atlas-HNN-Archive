@@ -1,0 +1,171 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-8D962D1CD4314414",
+    "url_id": "URL-8D962D1CD4314414",
+    "url": "https://medium.com/the-hologram/star-atlas-developer-atmta-begins-staff-reductions-e2edbbda516f",
+    "title": "Star Atlas Developer, ATMTA, Begins Staff Reductions",
+    "author": "Krigs",
+    "publisher": "The Hologram",
+    "publication_identity": "The Hologram (Medium publication)",
+    "published_at": "2022-12-19T04:00:11Z",
+    "updated_at": "2022-12-19T04:00:11Z",
+    "retrieved_at": "2026-07-13T00:08:44.878863Z",
+    "document_type": "FEATURE",
+    "source_role": "FEATURE",
+    "publication_role": "FEATURE",
+    "classification_rationale": "Publication provides feature-style background or profile coverage."
+  },
+  "source_lineage": {
+    "publication": "The Hologram (Medium publication)",
+    "publication_role": "FEATURE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [
+      {
+        "publication": "Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://staratlas.com/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [
+      "Krigs"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Star Atlas",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://staratlas.com/"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "This feature published by The Hologram on 2022-12-19 documents “Star Atlas Developer, ATMTA, Begins Staff Reductions.” Its surviving text addresses governance, economy, game development, community, lore, technology. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "Star Atlas\nStar Atlas Developer, ATMTA, Begins Staff Reductions\nKrigs2 min read·Dec 19, 2022\n--\n1\nListen\nShare\nSun, Dec 18th — Automata, the developers of the game Star Atlas, quietly began staff reductions last Friday to include Content Strategist Dave Boerger, better known in the Star Atlas Community as DaveyB.\nIn a LinkedIn post, the Head of Growth at Star Atlas, Estefan Vazquez, announced on the 16th\n“Today marks the end of my journey with Star Atlas. It has been an incredible experience and a true honor to work alongside some of the most talented people I’ve come across.\nThe two high profile layoffs are two of at least four known staff reductions at the company. Several sources at the company have confirmed the staff layoffs but were not at liberty to discuss the reasoning behind the staff reductions. Automata spokespersons declined to provide comment on the staff reductions at this time.\nStaff Reductions Amidst Runway Shortage\nIt’s officially unclear if the recent downsizing at Automata was driven by their recent fund loss associated with FTX’s collapse. However, given the circumstances of a shortened development runway, it is highly likely that senior executives at the company were forced to make tough cost savings decisions regarding which personnel to retain.\nIt is unlikely that staff reductions were implemented due to public community pressure and outrage following the FTX incident. Star Atlas community members were virulent in their calls for immediate staff firings. Rather, this appears to be a pragmatic business decision the company was forced to make.\nThe question remains as to the size and scope of these initial reductions. Should revenue reports continue to be net negative, it is possible that additional rounds of layoffs might occur in the future. Automata now faces the challenge of ensuring that the reduction in payroll expenses ultimately enable the development and delivery of the Star Atlas game.\nAbout the Author\nKrigs is the founder of The Hologram News Network, an independent blockchain gaming meta-news organization devoted to the coverage of the Star Atlas game. Krigs has covered Star Atlas for the past year and enjoys writing about the potential that blockchain technology has to revolutionize the gaming industry.\nFollow on Social Media:\nTwitter | Instagram | Web\nAbout The Hologram\nThe Hologram is Star Atlas’ first and only independent news network. Our vision is to become the most trusted source of information about Star Atlas and a voice for the whole community. Readers can expect a high standard from our reporting and staff. Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.\nThe Hologram is not endorsed or paid by the Star Atlas team. Any information published by The Hologram nor its writers should be considered as informational in nature and does not constitute any financial advice.",
+  "content_hash": "fc551fb3d7b94030a61f0efd11859b42c4874ecda68e60573a85d090ade69cd1",
+  "major_topics": [
+    "governance",
+    "economy",
+    "game development",
+    "community",
+    "lore",
+    "technology"
+  ],
+  "entities": [
+    "ATLAS",
+    "Krigs",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-8D962D1CD4314414-01",
+      "text": "In a LinkedIn post, the Head of Growth at Star Atlas, Estefan Vazquez, announced on the 16th “Today marks the end of my journey with Star Atlas.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-8D962D1CD4314414",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-8D962D1CD4314414-02",
+      "text": "Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-8D962D1CD4314414",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Star Atlas",
+    "ATLAS"
+  ],
+  "governance_items": [
+    "Star Atlas governance / DAO"
+  ],
+  "lore_items": [
+    "ONI"
+  ],
+  "actors": [
+    "Krigs"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://medium.com/@krigsfoniks?source=post_page---byline--e2edbbda516f---------------------------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fthe-hologram%2Fe2edbbda516f&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fstar-atlas-developer-atmta-begins-staff-reductions-e2edbbda516f&user=Krigs&userId=41e0c5b141f1&source=---header_actions--e2edbbda516f---------------------clap_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Frepost%2Fp%2Fe2edbbda516f&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fstar-atlas-developer-atmta-begins-staff-reductions-e2edbbda516f&user=Krigs&userId=41e0c5b141f1&source=---header_actions--e2edbbda516f---------------------repost_header------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fe2edbbda516f&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fstar-atlas-developer-atmta-begins-staff-reductions-e2edbbda516f&source=---header_actions--e2edbbda516f---------------------bookmark_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2Fplans%3Fdimension%3Dpost_audio_button%26postId%3De2edbbda516f&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fstar-atlas-developer-atmta-begins-staff-reductions-e2edbbda516f&source=---header_actions--e2edbbda516f---------------------post_audio_button------------------",
+      "anchor_text": "Listen"
+    },
+    {
+      "url": "https://medium.com/u/5ed69ff9cfb0?source=post_page---user_mention--e2edbbda516f---------------------------------------",
+      "anchor_text": "Star Atlas"
+    },
+    {
+      "url": "https://medium.com/blockchain-biz/star-atlas-heavily-affected-by-ftx-catastrophe-ceo-remains-committed-180cf3c2f5a9",
+      "anchor_text": "fund loss"
+    },
+    {
+      "url": "https://twitter.com/home",
+      "anchor_text": "Twitter"
+    },
+    {
+      "url": "https://thehologram.io/",
+      "anchor_text": "Web"
+    },
+    {
+      "url": "https://medium.com/the-hologram",
+      "anchor_text": "The Hologram"
+    },
+    {
+      "url": "https://staratlas.com/",
+      "anchor_text": "Star Atlas"
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "https://medium.com/the-hologram/star-atlas-developer-atmta-begins-staff-reductions-e2edbbda516f",
+    "final_url": "https://medium.com/the-hologram/star-atlas-developer-atmta-begins-staff-reductions-e2edbbda516f",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 118682,
+    "elapsed_ms": 560,
+    "retrieval_mode": "LIVE",
+    "archive_capture": null
+  }
+}

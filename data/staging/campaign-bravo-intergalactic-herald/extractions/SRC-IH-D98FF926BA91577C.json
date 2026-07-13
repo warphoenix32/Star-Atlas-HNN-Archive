@@ -1,0 +1,252 @@
+{
+  "source": {
+    "source_id": "SRC-IH-D98FF926BA91577C",
+    "url_id": "URL-D98FF926BA91577C",
+    "url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-101/",
+    "inventory_url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-101",
+    "title": "Star Atlas Weekly News Recap #101",
+    "author": "Intergalactic Herald",
+    "publisher": "Intergalactic Herald",
+    "published_at": "2024-02-25T17:00:00",
+    "updated_at": "2026-03-13T08:07:32",
+    "retrieved_at": "2026-07-12T22:08:29.513636Z",
+    "document_type": "NEWSLETTER",
+    "source_role": "CURATED_SUMMARY",
+    "source_classification": "CURATED_SUMMARY",
+    "classification_rationale": "Weekly newsletter/recap aggregates developments and linked sources.",
+    "wordpress_type": "posts"
+  },
+  "summary": {
+    "neutral_abstract": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week. We are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us. We are launching a Star Atlas merch store. Please check it out at Intergalactic",
+    "historical_value": "Contemporary Intergalactic Herald publication preserved with role and attribution boundaries.",
+    "current_validity_warning": "Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources."
+  },
+  "article_text": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week.\nWe are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us.\nWe are launching a Star Atlas merch store. Please check it out at Intergalactic Gear.\nWe are creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic Coalition.\nIf you would like to support our efforts, donations can be sent to intergalacticherald.sol\nSTAR ATLAS #221 DAC Statistics Reveal All, Joni Awards & Using Sly Labs\nMetaVerse Explorer posted a video of Star Atlas updates.\nMetaverse Nomads #134 Star Atlas DAC Statistics w/ Steven Sabol\nMetaverse Nomads posted a video replay of their weekly Star Atlas livestream.\nStar Atlas Joni Awards with Krigs!!\nBeyond the Horizon posted a video about the Star Atlas JONI awards.\nWEEKLY STAR ATLAS NEWSLETTER #117\nAephia published their weekly Star Atlas newsletter.\nStar Atlas: SCORE VS SAGE (part 7) Handler/Lancer\nBeyond the Horizon posted a video of the next episode of his SCORE versus SAGE tutorial.\nTHE GENESIS OF STAR ATLAS: MICHAEL WAGNER’S CRYPTO JOURNEY FROM MINING TO MMOS\nInfluencive posted an interview with Star Atlas CEO Michael Wagner.\n9 Guilds To Compete For Star Atlas COPA 2024 Competition\nHologram News Network published an article about the Star Atlas COPA competition.",
+  "content_hash": "7de079f1900c8481dae7898065a4652f6e5a7011e5405b3a1aec8804837e1c2e",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [
+    "2024"
+  ],
+  "external_sources": [
+    {
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=QRP1n_59NQ0",
+      "anchor_text": "Star Atlas updates"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=_TIWWc-2sCE",
+      "anchor_text": "weekly Star Atlas livestream"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=1PUkuz-NHi0",
+      "anchor_text": "Star Atlas JONI awards"
+    },
+    {
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-117/",
+      "anchor_text": "weekly Star Atlas newsletter"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=iKauJkAXxzk",
+      "anchor_text": "SCORE versus SAGE tutorial"
+    },
+    {
+      "url": "https://hologramnews.com/star-atlas-copa-2024/",
+      "anchor_text": "Star Atlas COPA competition"
+    }
+  ],
+  "primary_source_relationships": [
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=QRP1n_59NQ0",
+      "anchor_text": "Star Atlas updates"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=_TIWWc-2sCE",
+      "anchor_text": "weekly Star Atlas livestream"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=1PUkuz-NHi0",
+      "anchor_text": "Star Atlas JONI awards"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-117/",
+      "anchor_text": "weekly Star Atlas newsletter"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=iKauJkAXxzk",
+      "anchor_text": "SCORE versus SAGE tutorial"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://hologramnews.com/star-atlas-copa-2024/",
+      "anchor_text": "Star Atlas COPA competition"
+    }
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Verify which outbound links are primary sources and preserve creator attribution during promotion."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-101&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 4608,
+    "elapsed_ms": 1889,
+    "attempts": [
+      {
+        "endpoint": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-101&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "http_status": 200,
+        "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-101&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "content_type": "application/json; charset=UTF-8",
+        "response_size": 4608,
+        "elapsed_ms": 1889
+      }
+    ]
+  },
+  "source_lineage": {
+    "publication": "Intergalactic Herald",
+    "publication_role": "CURATED_SUMMARY",
+    "relationship": "CURATED_SUMMARY_OF",
+    "primary_sources": [
+      {
+        "publication": "Star Atlas updates",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=QRP1n_59NQ0",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas updates"
+      },
+      {
+        "publication": "weekly Star Atlas livestream",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=_TIWWc-2sCE",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: weekly Star Atlas livestream"
+      },
+      {
+        "publication": "Star Atlas JONI awards",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=1PUkuz-NHi0",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas JONI awards"
+      },
+      {
+        "publication": "weekly Star Atlas newsletter",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-117/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article with anchor text: weekly Star Atlas newsletter"
+      },
+      {
+        "publication": "SCORE versus SAGE tutorial",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=iKauJkAXxzk",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: SCORE versus SAGE tutorial"
+      },
+      {
+        "publication": "Star Atlas COPA competition",
+        "author": "UNKNOWN",
+        "url": "https://hologramnews.com/star-atlas-copa-2024/",
+        "organization": "Hologram News Network (HNN)",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas COPA competition"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "publication": "Intergalactic Gear",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticgear.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Intergalactic Coalition",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticcoalition.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      }
+    ],
+    "original_creators": [
+      "Aephia",
+      "Hologram News Network (HNN)"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Star Atlas updates",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=QRP1n_59NQ0"
+      },
+      {
+        "from": "weekly Star Atlas livestream",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=_TIWWc-2sCE"
+      },
+      {
+        "from": "Star Atlas JONI awards",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=1PUkuz-NHi0"
+      },
+      {
+        "from": "weekly Star Atlas newsletter",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-117/"
+      },
+      {
+        "from": "SCORE versus SAGE tutorial",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=iKauJkAXxzk"
+      },
+      {
+        "from": "Star Atlas COPA competition",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://hologramnews.com/star-atlas-copa-2024/"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  }
+}

@@ -1,0 +1,525 @@
+{
+  "source": {
+    "source_id": "SRC-IH-CC48DEA76A052D0F",
+    "url_id": "URL-CC48DEA76A052D0F",
+    "url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-58/",
+    "inventory_url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-58",
+    "title": "Star Atlas Weekly News Recap #58",
+    "author": "Intergalactic Herald",
+    "publisher": "Intergalactic Herald",
+    "published_at": "2023-04-29T17:00:52",
+    "updated_at": "2023-05-02T06:26:31",
+    "retrieved_at": "2026-07-12T22:08:02.271280Z",
+    "document_type": "NEWSLETTER",
+    "source_role": "CURATED_SUMMARY",
+    "source_classification": "CURATED_SUMMARY",
+    "classification_rationale": "Weekly newsletter/recap aggregates developments and linked sources.",
+    "wordpress_type": "posts"
+  },
+  "summary": {
+    "neutral_abstract": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week. We are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us. MetaVerse Explorer posted a video about getting ready for the Star Atlas scavenger",
+    "historical_value": "Contemporary Intergalactic Herald publication preserved with role and attribution boundaries.",
+    "current_validity_warning": "Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources."
+  },
+  "article_text": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week.\nWe are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us.\nStar Atlas Town Hall #38\nMetaverse Nomads posted a video of the latest Star Atlas Townhall.\nStar Atlas : Townhall Recap : The Leak End Ep. 5\nPockThePirate posted a video recapping the Star Atlas Townhall.\nLET’S GO SAGE!!! 4/26\nGladiator posted a video of his review of the Star Atlas Townhall.\nSTAR ATLAS Major Town Hall Recap – 426, Scavenger Hunt & LOOT\nMetaVerse Explorer posted his recap of the Star Atlas Townhall.\nMetaverse Nomads #91 Star Atlas Town Hall Summary\nMetaverse Nomads posted a video of their latest Star Atlas live stream.\nSAGE: ESCAPE VELOCITY – EVERYTHING WE KNOW!\nAephia published an article about SAGE: Escape Velocity.\nWEEKLY STAR ATLAS NEWSLETTER #76\nAephia published their latest Star Atlas newsletter.\nSTAR ATLAS #177 Scavenger Hunt Prep & FREE SHIPS!\nMetaVerse Explorer posted a video about getting ready for the Star Atlas scavenger hunt.\nStar Atlas Escape Velocity, what I need to know\nOCG Thor posted a video about the upcoming SAGE: Escape Velocity.\nStar Atlas Revolutionary Technology Reaches Escape Velocity: Real-time Fully On-chain Space Movement on Solana\nStar Atlas published an article announcing SAGE: Escape Velocity.\nStar Atlas : Escape velocity Tutorial – SAGE\nPockThePirate posted a tutorial of SAGE: Escape Velocity.\nGalia Merchants — Star Atlas’s First Community Licensed Merchandise Store Launches\nThe Hologram published an article about a Star Atlas merchandise store.\nTL;DR —The Star Atlas Town Hall Recap You Won’t Read\nThe Hologram published an article recapping the Star Atlas Townhall.\nThe Ultimate Star Atlas Escape Velocity Guide — Updated with NEW Loot Table!\nThe Hologram published an article as a guide to SAGE: Escape Velocity.\nStar Atlas Escape Velocity Crashes! Deploy Airbags\nOCG Thor posted a video about how to handle the crashes in Escape Velocity.\nSTAR ATLAS SCAVENGER HUNT BEGINNER GUIDE!\nMetaVerse Explorer posted a video of a beginner guide to the Star Atlas scavenger hunt.\nSCANNING FOR LOOT IN STAR ATLAS – GAME IS LIVE ON SOLANA!\nThe Club posted a video about scanning for loot in Star Atlas.\nSTAR ATLAS – Movement Test and Review\nAtlas Theory posted a video reviewing the Star Atlas movement test.\nAMAZING Tip’s to find LOOT | SAGE Star Atlas\nGladiator posted a video with tips for finding loot.\nStar Atlas launches into Escape Velocity, Putting Solana to the Test\nKrigs published an article about testing Solana by Escape Velocity.",
+  "content_hash": "c4a0df0b1eb6737f41644249d5742717d80429a720eddcf583d7ad54e965c09d",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [],
+  "external_sources": [
+    {
+      "url": "https://www.youtube.com/watch?v=PAgSRJJL6pM",
+      "anchor_text": "Star Atlas Townhall"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=jQth343BeQo",
+      "anchor_text": "Star Atlas Townhall"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ayDxYWpoaaQ",
+      "anchor_text": "Star Atlas Townhall"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=MKkMZ-zCv1o",
+      "anchor_text": "Star Atlas Townhall"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=pIOSGeeb8bY",
+      "anchor_text": "latest Star Atlas live stream"
+    },
+    {
+      "url": "https://aephia.com/star-atlas/sage-escape-velocity-everything-we-know/",
+      "anchor_text": "SAGE: Escape Velocity."
+    },
+    {
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-76/",
+      "anchor_text": "latest Star Atlas newsletter"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=_Hk1laRB5Ag",
+      "anchor_text": "Star Atlas scavenger hunt"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=aDhiFJkxsrE",
+      "anchor_text": "SAGE: Escape Velocity"
+    },
+    {
+      "url": "https://medium.com/star-atlas/star-atlas-revolutionary-technology-reaches-escape-velocity-real-time-fully-on-chain-space-56081f4ef313",
+      "anchor_text": "announcing SAGE: Escape Velocity"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=3jqoTD6uGXo",
+      "anchor_text": "tutorial of SAGE: Escape Velocity"
+    },
+    {
+      "url": "https://medium.com/the-hologram/galia-merchants-star-atlass-first-community-licensed-merchandise-store-launches-2d934803fe74",
+      "anchor_text": "Star Atlas merchandise store"
+    },
+    {
+      "url": "https://medium.com/the-hologram/tl-dr-the-star-atlas-town-hall-recap-you-wont-read-30400b951b4",
+      "anchor_text": "recapping the Star Atlas Townhall"
+    },
+    {
+      "url": "https://medium.com/the-hologram/the-ultimate-star-atlas-escape-velocity-guide-updated-with-new-loot-table-c35b97761ecb",
+      "anchor_text": "guide to SAGE: Escape Velocity"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=3uoTLiTmB34",
+      "anchor_text": "crashes in Escape Velocity"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=m-tBlScdeDg",
+      "anchor_text": "beginner guide to the Star Atlas scavenger hunt"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=zg9TGPsL8AI",
+      "anchor_text": "scanning for loot in Star Atlas"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ad1mbVan6No",
+      "anchor_text": "Star Atlas movement test"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=CEbDzHKzIq0",
+      "anchor_text": "tips for finding loot"
+    },
+    {
+      "url": "https://medium.com/@krigsfoniks/star-atlas-launches-into-escape-velocity-putting-solana-to-the-test-219b8a77bbc3",
+      "anchor_text": "testing Solana by Escape Velocity"
+    }
+  ],
+  "primary_source_relationships": [
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=PAgSRJJL6pM",
+      "anchor_text": "Star Atlas Townhall"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=jQth343BeQo",
+      "anchor_text": "Star Atlas Townhall"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=ayDxYWpoaaQ",
+      "anchor_text": "Star Atlas Townhall"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=MKkMZ-zCv1o",
+      "anchor_text": "Star Atlas Townhall"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=pIOSGeeb8bY",
+      "anchor_text": "latest Star Atlas live stream"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/sage-escape-velocity-everything-we-know/",
+      "anchor_text": "SAGE: Escape Velocity."
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-76/",
+      "anchor_text": "latest Star Atlas newsletter"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=_Hk1laRB5Ag",
+      "anchor_text": "Star Atlas scavenger hunt"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=aDhiFJkxsrE",
+      "anchor_text": "SAGE: Escape Velocity"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://medium.com/star-atlas/star-atlas-revolutionary-technology-reaches-escape-velocity-real-time-fully-on-chain-space-56081f4ef313",
+      "anchor_text": "announcing SAGE: Escape Velocity"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=3jqoTD6uGXo",
+      "anchor_text": "tutorial of SAGE: Escape Velocity"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://medium.com/the-hologram/galia-merchants-star-atlass-first-community-licensed-merchandise-store-launches-2d934803fe74",
+      "anchor_text": "Star Atlas merchandise store"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://medium.com/the-hologram/tl-dr-the-star-atlas-town-hall-recap-you-wont-read-30400b951b4",
+      "anchor_text": "recapping the Star Atlas Townhall"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://medium.com/the-hologram/the-ultimate-star-atlas-escape-velocity-guide-updated-with-new-loot-table-c35b97761ecb",
+      "anchor_text": "guide to SAGE: Escape Velocity"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=3uoTLiTmB34",
+      "anchor_text": "crashes in Escape Velocity"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=m-tBlScdeDg",
+      "anchor_text": "beginner guide to the Star Atlas scavenger hunt"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=zg9TGPsL8AI",
+      "anchor_text": "scanning for loot in Star Atlas"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=ad1mbVan6No",
+      "anchor_text": "Star Atlas movement test"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=CEbDzHKzIq0",
+      "anchor_text": "tips for finding loot"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://medium.com/@krigsfoniks/star-atlas-launches-into-escape-velocity-putting-solana-to-the-test-219b8a77bbc3",
+      "anchor_text": "testing Solana by Escape Velocity"
+    }
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Verify which outbound links are primary sources and preserve creator attribution during promotion."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-58&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 9574,
+    "elapsed_ms": 2239,
+    "attempts": [
+      {
+        "endpoint": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-58&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "http_status": 200,
+        "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-58&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "content_type": "application/json; charset=UTF-8",
+        "response_size": 9574,
+        "elapsed_ms": 2239
+      }
+    ]
+  },
+  "source_lineage": {
+    "publication": "Intergalactic Herald",
+    "publication_role": "CURATED_SUMMARY",
+    "relationship": "CURATED_SUMMARY_OF",
+    "primary_sources": [
+      {
+        "publication": "Star Atlas Townhall",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=PAgSRJJL6pM",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas Townhall"
+      },
+      {
+        "publication": "Star Atlas Townhall",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=jQth343BeQo",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas Townhall"
+      },
+      {
+        "publication": "Star Atlas Townhall",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=ayDxYWpoaaQ",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas Townhall"
+      },
+      {
+        "publication": "Star Atlas Townhall",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=MKkMZ-zCv1o",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas Townhall"
+      },
+      {
+        "publication": "latest Star Atlas live stream",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=pIOSGeeb8bY",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest Star Atlas live stream"
+      },
+      {
+        "publication": "SAGE: Escape Velocity.",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/sage-escape-velocity-everything-we-know/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article with anchor text: SAGE: Escape Velocity."
+      },
+      {
+        "publication": "latest Star Atlas newsletter",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-76/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest Star Atlas newsletter"
+      },
+      {
+        "publication": "Star Atlas scavenger hunt",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=_Hk1laRB5Ag",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas scavenger hunt"
+      },
+      {
+        "publication": "SAGE: Escape Velocity",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=aDhiFJkxsrE",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: SAGE: Escape Velocity"
+      },
+      {
+        "publication": "announcing SAGE: Escape Velocity",
+        "author": "UNKNOWN",
+        "url": "https://medium.com/star-atlas/star-atlas-revolutionary-technology-reaches-escape-velocity-real-time-fully-on-chain-space-56081f4ef313",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: announcing SAGE: Escape Velocity"
+      },
+      {
+        "publication": "tutorial of SAGE: Escape Velocity",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=3jqoTD6uGXo",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: tutorial of SAGE: Escape Velocity"
+      },
+      {
+        "publication": "Star Atlas merchandise store",
+        "author": "UNKNOWN",
+        "url": "https://medium.com/the-hologram/galia-merchants-star-atlass-first-community-licensed-merchandise-store-launches-2d934803fe74",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas merchandise store"
+      },
+      {
+        "publication": "recapping the Star Atlas Townhall",
+        "author": "UNKNOWN",
+        "url": "https://medium.com/the-hologram/tl-dr-the-star-atlas-town-hall-recap-you-wont-read-30400b951b4",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: recapping the Star Atlas Townhall"
+      },
+      {
+        "publication": "guide to SAGE: Escape Velocity",
+        "author": "UNKNOWN",
+        "url": "https://medium.com/the-hologram/the-ultimate-star-atlas-escape-velocity-guide-updated-with-new-loot-table-c35b97761ecb",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: guide to SAGE: Escape Velocity"
+      },
+      {
+        "publication": "crashes in Escape Velocity",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=3uoTLiTmB34",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: crashes in Escape Velocity"
+      },
+      {
+        "publication": "beginner guide to the Star Atlas scavenger hunt",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=m-tBlScdeDg",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: beginner guide to the Star Atlas scavenger hunt"
+      },
+      {
+        "publication": "scanning for loot in Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=zg9TGPsL8AI",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: scanning for loot in Star Atlas"
+      },
+      {
+        "publication": "Star Atlas movement test",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=ad1mbVan6No",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas movement test"
+      },
+      {
+        "publication": "tips for finding loot",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=CEbDzHKzIq0",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: tips for finding loot"
+      },
+      {
+        "publication": "testing Solana by Escape Velocity",
+        "author": "UNKNOWN",
+        "url": "https://medium.com/@krigsfoniks/star-atlas-launches-into-escape-velocity-putting-solana-to-the-test-219b8a77bbc3",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: testing Solana by Escape Velocity"
+      }
+    ],
+    "secondary_sources": [],
+    "original_creators": [
+      "Star Atlas",
+      "Aephia"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Star Atlas Townhall",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=PAgSRJJL6pM"
+      },
+      {
+        "from": "Star Atlas Townhall",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=jQth343BeQo"
+      },
+      {
+        "from": "Star Atlas Townhall",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=ayDxYWpoaaQ"
+      },
+      {
+        "from": "Star Atlas Townhall",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=MKkMZ-zCv1o"
+      },
+      {
+        "from": "latest Star Atlas live stream",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=pIOSGeeb8bY"
+      },
+      {
+        "from": "SAGE: Escape Velocity.",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/sage-escape-velocity-everything-we-know/"
+      },
+      {
+        "from": "latest Star Atlas newsletter",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-76/"
+      },
+      {
+        "from": "Star Atlas scavenger hunt",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=_Hk1laRB5Ag"
+      },
+      {
+        "from": "SAGE: Escape Velocity",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=aDhiFJkxsrE"
+      },
+      {
+        "from": "announcing SAGE: Escape Velocity",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://medium.com/star-atlas/star-atlas-revolutionary-technology-reaches-escape-velocity-real-time-fully-on-chain-space-56081f4ef313"
+      },
+      {
+        "from": "tutorial of SAGE: Escape Velocity",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=3jqoTD6uGXo"
+      },
+      {
+        "from": "Star Atlas merchandise store",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://medium.com/the-hologram/galia-merchants-star-atlass-first-community-licensed-merchandise-store-launches-2d934803fe74"
+      },
+      {
+        "from": "recapping the Star Atlas Townhall",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://medium.com/the-hologram/tl-dr-the-star-atlas-town-hall-recap-you-wont-read-30400b951b4"
+      },
+      {
+        "from": "guide to SAGE: Escape Velocity",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://medium.com/the-hologram/the-ultimate-star-atlas-escape-velocity-guide-updated-with-new-loot-table-c35b97761ecb"
+      },
+      {
+        "from": "crashes in Escape Velocity",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=3uoTLiTmB34"
+      },
+      {
+        "from": "beginner guide to the Star Atlas scavenger hunt",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=m-tBlScdeDg"
+      },
+      {
+        "from": "scanning for loot in Star Atlas",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=zg9TGPsL8AI"
+      },
+      {
+        "from": "Star Atlas movement test",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=ad1mbVan6No"
+      },
+      {
+        "from": "tips for finding loot",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=CEbDzHKzIq0"
+      },
+      {
+        "from": "testing Solana by Escape Velocity",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://medium.com/@krigsfoniks/star-atlas-launches-into-escape-velocity-putting-solana-to-the-test-219b8a77bbc3"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  }
+}

@@ -1,0 +1,2927 @@
+{
+  "campaign": "Campaign Delta — Official Newsroom Reconciliation",
+  "completed_at": "2026-07-13T01:06:43.949865Z",
+  "urls_attempted": 321,
+  "successful_retrievals": 320,
+  "failures": 1,
+  "duplicate_or_mirrored_pages": 0,
+  "classification_counts": {
+    "TECHNICAL_DOCUMENTATION": 49,
+    "OFFICIAL_ANNOUNCEMENT": 67,
+    "LORE": 23,
+    "PARTNERSHIP_ANNOUNCEMENT": 3,
+    "ROADMAP": 1,
+    "ECONOMIC_REPORT": 1,
+    "REFERENCE": 9,
+    "SUPPORT_ARTICLE": 167
+  },
+  "date_coverage": {
+    "first": "2021-03-16",
+    "last": "2026-07-10"
+  },
+  "extraction_confidence": {
+    "MEDIUM": 211,
+    "HIGH": 109
+  },
+  "reconciliation_records_produced": 960,
+  "confirmed_overlaps": 14,
+  "conflicts": 0,
+  "likely_corrections": 0,
+  "first_mention_candidates": 47,
+  "promotion_candidates": 0,
+  "items_requiring_manual_review": 1172,
+  "results": [
+    {
+      "url": "https://build.staratlas.com/creative-assets/building-with-star-atlas-creative-ip",
+      "source_id": "SRC-OFF-7E820F10A355A1FE",
+      "status": "SUCCESS",
+      "classification": "TECHNICAL_DOCUMENTATION",
+      "confidence": "MEDIUM",
+      "published_at": null,
+      "content_hash": "3c5bbbe9421eb293bbb5daca94c00133c983eea3867c184ac011897130806d19"
+    },
+    {
+      "url": "https://build.staratlas.com/creative-assets/royalties",
+      "source_id": "SRC-OFF-5242148279562884",
+      "status": "SUCCESS",
+      "classification": "TECHNICAL_DOCUMENTATION",
+      "confidence": "MEDIUM",
+      "published_at": null,
+      "content_hash": "25167bfc6b710d9050df5303b99deae35202fff1f9f9914c5505fa625b6629f2"
+    },
+    {
+      "url": "https://build.staratlas.com/creative-assets/star-atlas-assets",
+      "source_id": "SRC-OFF-5C04CF2AA3580D72",
+      "status": "SUCCESS",
+      "classification": "TECHNICAL_DOCUMENTATION",
+      "confidence": "MEDIUM",
+      "published_at": null,
+      "content_hash": "850d934601019445e8a39db0741118b75a97702d2a3bc85689cb3d3686902930"
+    },
+    {
+      "url": "https://build.staratlas.com/creative-assets/star-atlas-powered-by-the-people",
+      "source_id": "SRC-OFF-EFE5625D15BEFEA7",
+      "status": "SUCCESS",
+      "classification": "TECHNICAL_DOCUMENTATION",
+      "confidence": "MEDIUM",
+      "published_at": null,
+      "content_hash": "ed8e0f45a6cbe649e492954bf059b15d6bf0cb8499b876c57655be523961b6b2"
+    },
+    {
+      "url": "https://build.staratlas.com/creative-assets/user-services-requirements",
+      "source_id": "SRC-OFF-AB11BF8E61BDB201",
+      "status": "SUCCESS",
+      "classification": "TECHNICAL_DOCUMENTATION",
+      "confidence": "MEDIUM",
+      "published_at": null,
+      "content_hash": "a8d2b958c0c0e142822b7a8370dab6a620f0e7672688603adced18e0330f594f"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data",
+      "source_id": "SRC-OFF-566C6B5E5258E7ED",
+      "status": "SUCCESS",
+      "classification": "TECHNICAL_DOCUMENTATION",
+      "confidence": "MEDIUM",
+      "published_at": null,
+      "content_hash": "07992c9cf543517157fe8d7195fd0fb68d0a5cec4b5fa55e13e1233a71db320e"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/atlas-prime",
+      "source_id": "SRC-OFF-DDA966BE82FEDCA3",
+      "status": "SUCCESS",
+      "classification": "TECHNICAL_DOCUMENTATION",
+      "confidence": "MEDIUM",
+      "published_at": null,
+      "content_hash": "c33256f95f8ec111473e1fc58b08b6f26b15c0753fa09c40f2c20f0664232e5e"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/cargo",
+      "source_id": "SRC-OFF-9D986E9EE2455C6E",
+      "status": "SUCCESS",
+      "classification": "TECHNICAL_DOCUMENTATION",
+      "confidence": "MEDIUM",
+      "published_at": null,
+      "content_hash": "190edd8b7d50e5a6f7bd61fadc84814d858f983e0267c90dda2b8306791c05e1"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/claim-stakes",
+      "source_id": "SRC-OFF-276913D514D4F26A",
+      "status": "SUCCESS",
+      "classification": "TECHNICAL_DOCUMENTATION",
+      "confidence": "MEDIUM",
+      "published_at": null,
+      "content_hash": "3b6961918ab2f35058458171e52e8d4e67310656d76b773b459ecf3bddf849aa"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/crafting",
+      "source_id": "SRC-OFF-5776419FBD76E9FD",
+      "status": "SUCCESS",
+      "classification": "TECHNICAL_DOCUMENTATION",
+      "confidence": "MEDIUM",
+      "published_at": null,
+      "content_hash": "56835e89b4d707e1814be03fdc2d714ace64a23f850ea9108e92d324e6952c0a"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/crew",
+      "source_id": "SRC-OFF-9C47F3E7D9676D81",
+      "status": "SUCCESS",
+      "classification": "TECHNICAL_DOCUMENTATION",
+      "confidence": "MEDIUM",
+      "published_at": null,
+      "content_hash": "d86e309fac2e5e924634338961899101d05cc08404da5575fc0b2e3d05bcf19c"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/data-source",
+      "source_id": "SRC-OFF-62677061BED32848",
+      "status": "SUCCESS",
+      "classification": "TECHNICAL_DOCUMENTATION",
+      "confidence": "MEDIUM",
+      "published_at": null,
+      "content_hash": "aefcf60075676bf060a23d6f81cc72c37db23cb64d31c0f32c7e27b220fc698b"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/factory",
+      "source_id": "SRC-OFF-93860527690EB75B",
+      "status": "SUCCESS",
+      "classification": "TECHNICAL_DOCUMENTATION",
+      "confidence": "MEDIUM",
+      "published_at": null,
+      "content_hash": "ea072305e8a4299c45bfbc70d299069b52854229a0c2b83b40826aec97ca1c24"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/fleet-rentals",
+      "source_id": "SRC-OFF-585BABA910AC9649",
+      "status": "SUCCESS",
+      "classification": "TECHNICAL_DOCUMENTATION",
+      "confidence": "MEDIUM",
+      "published_at": null,
+      "content_hash": "b61e8e63fd0d44982db845af4617737c13ed60063b480d60959ec7b7b0501df5"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/galactic-marketplace",
+      "source_id": "SRC-OFF-C973FDEE44BE9B0A",
+      "status": "SUCCESS",
+      "classification": "TECHNICAL_DOCUMENTATION",
+      "confidence": "MEDIUM",
+      "published_at": null,
+      "content_hash": "ebf50798df953f7fbd18c11247085d3d5b63ea99faf2faff8431462841a6b7b8"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/galaxy-api",
+      "source_id": "SRC-OFF-6E6ECFFABAF364F1",
+      "status": "SUCCESS",
+      "classification": "TECHNICAL_DOCUMENTATION",
+      "confidence": "MEDIUM",
+      "published_at": null,
+      "content_hash": "2d1dad00911bb99e0f2e7e55665a99bf125a66cd445fc180dced352471b86d5c"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/galaxy-api/items",
+      "source_id": "SRC-OFF-9EC06F03BD9B1998",
+      "status": "SUCCESS",
+      "classification": "TECHNICAL_DOCUMENTATION",
+      "confidence": "MEDIUM",
+      "published_at": null,
+      "content_hash": "43e998657624c1e5c5d667cd770b1adf6db8aac0c8c55aba2f0a452b0dcd678a"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/galaxy-api/showroom",
+      "source_id": "SRC-OFF-55E521D11DFF210A",
+      "status": "SUCCESS",
+      "classification": "TECHNICAL_DOCUMENTATION",
+      "confidence": "MEDIUM",
+      "published_at": null,
+      "content_hash": "ef5b551b487f6af917635770a76adf400c42f396b2b097fd0d75a78781d050a6"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/galaxy-api/tokens",
+      "source_id": "SRC-OFF-4F78671802CD2C44",
+      "status": "SUCCESS",
+      "classification": "TECHNICAL_DOCUMENTATION",
+      "confidence": "MEDIUM",
+      "published_at": null,
+      "content_hash": "6a56ccc429a6780c49e15b6956a1b059e3387d7ec3342282ac48039acc530b1e"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/player-profile",
+      "source_id": "SRC-OFF-E9F028FC7B518290",
+      "status": "SUCCESS",
+      "classification": "TECHNICAL_DOCUMENTATION",
+      "confidence": "MEDIUM",
+      "published_at": null,
+      "content_hash": "c5e80930e6f111a4c10721dade56ed4ac982674d5f65fd8b6613d0f6b553d1f6"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/profile-faction",
+      "source_id": "SRC-OFF-1AD18A7FE6CC32F1",
+      "status": "SUCCESS",
+      "classification": "TECHNICAL_DOCUMENTATION",
+      "confidence": "MEDIUM",
+      "published_at": null,
+      "content_hash": "279f2ff6ab72e0250d6ab0022a4eb5bf8a6cb6b5a34e8a050acfc5a7007f9526"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/sage",
+      "source_id": "SRC-OFF-E258CC8F566D5F64",
+      "status": "SUCCESS",
+      "classification": "TECHNICAL_DOCUMENTATION",
+      "confidence": "MEDIUM",
+      "published_at": null,
+      "content_hash": "7eb4263b2f9e7f7a3abc61e3e6b3947fe33a81620a3b234ec855c06aa1e5c64e"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/approach-and-philosophy",
+      "source_id": "SRC-OFF-86E9294F62D1A386",
+      "status": "SUCCESS",
+      "classification": "TECHNICAL_DOCUMENTATION",
+      "confidence": "MEDIUM",
+      "published_at": null,
+      "content_hash": "8afb1f62abf494d08e9b25b7ee5fbef942087fb5557113e8c5a3a237a4ffd8d3"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/mainnet-program-ids",
+      "source_id": "SRC-OFF-F217B64FD0342839",
+      "status": "SUCCESS",
+      "classification": "TECHNICAL_DOCUMENTATION",
+      "confidence": "MEDIUM",
+      "published_at": null,
+      "content_hash": "31e8d4780dddc3ac318539e0c9fda0ed126a55958b33f83ad5b242970938f991"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/on-chain-game-systems",
+      "source_id": "SRC-OFF-B32669924F083C41",
+      "status": "SUCCESS",
+      "classification": "TECHNICAL_DOCUMENTATION",
+      "confidence": "MEDIUM",
+      "published_at": null,
+      "content_hash": "3d06c61430a7ee466cd405b6a4dac7912412da99a90396314e0e2edf33872da5"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/on-chain-game-systems/faction-fleet",
+      "source_id": "SRC-OFF-DD0FB6FFDD5F5762",
+      "status": "SUCCESS",
+      "classification": "TECHNICAL_DOCUMENTATION",
+      "confidence": "MEDIUM",
+      "published_at": null,
+      "content_hash": "729fdc76438e2c1738f074c1ef43043c0b576b759c8c53e5996011bf73188ee7"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/on-chain-game-systems/galactic-marketplace",
+      "source_id": "SRC-OFF-6A56B5D30E7EBCA4",
+      "status": "SUCCESS",
+      "classification": "TECHNICAL_DOCUMENTATION",
+      "confidence": "MEDIUM",
+      "published_at": null,
+      "content_hash": "09e5c20530baf71ac6c2ae92dc182af939f97a8c9c2b15d4f4edd12ad79fbc26"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/on-chain-game-systems/galactic-marketplace/fees",
+      "source_id": "SRC-OFF-6A20C318BFBA5E14",
+      "status": "SUCCESS",
+      "classification": "TECHNICAL_DOCUMENTATION",
+      "confidence": "MEDIUM",
+      "published_at": null,
+      "content_hash": "049fec1d65150cb1cb0c255ded4f354bdae948091e37b9c0d301bf6e42b2dddf"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/on-chain-game-systems/player-profile",
+      "source_id": "SRC-OFF-55AABF6C02F3F53E",
+      "status": "SUCCESS",
+      "classification": "TECHNICAL_DOCUMENTATION",
+      "confidence": "MEDIUM",
+      "published_at": null,
+      "content_hash": "991e7da5504deaf9bf59b51cc5bc23fafca138f2f3bcc03416f6d52e14e571db"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/program-security",
+      "source_id": "SRC-OFF-9D526883C47C68C8",
+      "status": "SUCCESS",
+      "classification": "TECHNICAL_DOCUMENTATION",
+      "confidence": "MEDIUM",
+      "published_at": null,
+      "content_hash": "a19ee91871287e776057fb04416d9b2263138c5e7f67c4ca6bf15a58331b58dd"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/star-frame",
+      "source_id": "SRC-OFF-53044660BCD43164",
+      "status": "SUCCESS",
+      "classification": "TECHNICAL_DOCUMENTATION",
+      "confidence": "MEDIUM",
+      "published_at": null,
+      "content_hash": "e790370c8e16c68da900c41a894fb8e151af8ec3f82150624945e07e131c31a7"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/unreal-engine-tooling",
+      "source_id": "SRC-OFF-BED0C7C1B6E2E923",
+      "status": "SUCCESS",
+      "classification": "TECHNICAL_DOCUMENTATION",
+      "confidence": "MEDIUM",
+      "published_at": null,
+      "content_hash": "a48d9fdfb19806aec4c170c4b1169282ce8a98b41286f4831511529cf21e9fe4"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/unreal-engine-tooling/f-kit-documentation",
+      "source_id": "SRC-OFF-E096D3725E00BC22",
+      "status": "SUCCESS",
+      "classification": "TECHNICAL_DOCUMENTATION",
+      "confidence": "MEDIUM",
+      "published_at": null,
+      "content_hash": "2c12f6d64df3ed83559150ce83dd5f94232f3eef1b448cc790e3443b3fc2fad9"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/unreal-engine-tooling/how-to-setup-f-kit-in-your-project",
+      "source_id": "SRC-OFF-D6F7E5EE3520E6EE",
+      "status": "SUCCESS",
+      "classification": "TECHNICAL_DOCUMENTATION",
+      "confidence": "MEDIUM",
+      "published_at": null,
+      "content_hash": "db219a8c7042256c8382d6a406a48dcf1117c8fd8dc0349e1f8f080d0461035f"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/unreal-engine-tooling/how-to-use-f-kit-blueprints",
+      "source_id": "SRC-OFF-FA07F79C3878A4E5",
+      "status": "SUCCESS",
+      "classification": "TECHNICAL_DOCUMENTATION",
+      "confidence": "MEDIUM",
+      "published_at": null,
+      "content_hash": "8338acc540ab5d0ab8cb488c67a9318d56a97dd4160131a95e5b98ffd76196e8"
+    },
+    {
+      "url": "https://build.staratlas.com/developer-rpc-initiative",
+      "source_id": "SRC-OFF-E86CA86FF92C3AEE",
+      "status": "SUCCESS",
+      "classification": "TECHNICAL_DOCUMENTATION",
+      "confidence": "MEDIUM",
+      "published_at": null,
+      "content_hash": "fb0cb80a4c6e0af3f3fd459ab1017e4f6d1f5a6060c5aa473988ad675f619d21"
+    },
+    {
+      "url": "https://build.staratlas.com/introduction/what-is-build",
+      "source_id": "SRC-OFF-FCAD0FED23CA625F",
+      "status": "SUCCESS",
+      "classification": "TECHNICAL_DOCUMENTATION",
+      "confidence": "MEDIUM",
+      "published_at": null,
+      "content_hash": "fa70d6780fa0f08e33c6b20619551fe938530560e894f6227cf7260ce171dcda"
+    },
+    {
+      "url": "https://build.staratlas.com/introduction/what-is-star-atlas",
+      "source_id": "SRC-OFF-39E9207320B5141F",
+      "status": "SUCCESS",
+      "classification": "TECHNICAL_DOCUMENTATION",
+      "confidence": "MEDIUM",
+      "published_at": null,
+      "content_hash": "11f864d8c4e3f74174529b274120cb60454cb5a4a70a0235035e7f13dc280cdc"
+    },
+    {
+      "url": "https://build.staratlas.com/introduction/what-you-can-build",
+      "source_id": "SRC-OFF-17012CC0302537A1",
+      "status": "SUCCESS",
+      "classification": "TECHNICAL_DOCUMENTATION",
+      "confidence": "MEDIUM",
+      "published_at": null,
+      "content_hash": "81107885f487e0aa3157aa5a528e9795689fc04e258a1ac154b9c34c3e2cc02a"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/article/building-a-next-gen-metaverse-economy-with-solana-serum-and-metaplex",
+      "source_id": "SRC-OFF-AE8A2FB7CBCE296A",
+      "status": "SUCCESS",
+      "classification": "OFFICIAL_ANNOUNCEMENT",
+      "confidence": "MEDIUM",
+      "published_at": "2021-08-19",
+      "content_hash": "68c00d0cf612f31c51892cbf277ed64d358768c3809df735e928c6790c133787"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/article/community-alert-always-double-check-official-origin-of-star-atlas-accounts",
+      "source_id": "SRC-OFF-3D17848194168DD5",
+      "status": "SUCCESS",
+      "classification": "OFFICIAL_ANNOUNCEMENT",
+      "confidence": "MEDIUM",
+      "published_at": "2021-08-30",
+      "content_hash": "f7ca8df41a3076f142d30ed33077002c4e404b1f2c7397dfdc6ea7f702869149"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/article/first-ever-meta-poster-experience-featuring-blond-ish-and-jason-silva",
+      "source_id": "SRC-OFF-5D05309B045A6A76",
+      "status": "SUCCESS",
+      "classification": "OFFICIAL_ANNOUNCEMENT",
+      "confidence": "MEDIUM",
+      "published_at": "2021-06-30",
+      "content_hash": "c10aa4b86ee0468bf496804f6ead5cecc6a97691f94eb9afb1ca9527e34768be"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/article/how-money-is-made-in-a-metaverse",
+      "source_id": "SRC-OFF-09585A56D6560A93",
+      "status": "SUCCESS",
+      "classification": "OFFICIAL_ANNOUNCEMENT",
+      "confidence": "MEDIUM",
+      "published_at": "2021-08-12",
+      "content_hash": "85ab5a800b48afd655fff89b21ad9efed64411081505c0312f2e26bbdc6610a5"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/article/how-star-atlas-uses-the-blockchain-to-create-a-unique-play-to-earn-metaverse",
+      "source_id": "SRC-OFF-292F4D8D8E88EA09",
+      "status": "SUCCESS",
+      "classification": "OFFICIAL_ANNOUNCEMENT",
+      "confidence": "MEDIUM",
+      "published_at": "2021-08-30",
+      "content_hash": "a91475d8a135be8fb690a9f6e58e9e70777965bccaceb5f5c04858ac7d3d8cd2"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/article/how-to-join-a-star-atlas-guild-or-create-your-own",
+      "source_id": "SRC-OFF-69412F7FAE16DF25",
+      "status": "SUCCESS",
+      "classification": "OFFICIAL_ANNOUNCEMENT",
+      "confidence": "MEDIUM",
+      "published_at": "2022-05-20",
+      "content_hash": "241449345233b1979f669f76ae2e44f22f02909f4ed95cc96a46edcf1c05f474"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/article/power-to-the-people-star-atlas-publishes-blueprint-of-next-gen-economic-and",
+      "source_id": "SRC-OFF-44DE029022F88A60",
+      "status": "SUCCESS",
+      "classification": "OFFICIAL_ANNOUNCEMENT",
+      "confidence": "MEDIUM",
+      "published_at": "2021-08-18",
+      "content_hash": "89652545c3fa04aae34fa5666e72e8932dc537afac7736537230b828eb9189fc"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/article/prelude-a-galaxy-in-movement-the-first-day",
+      "source_id": "SRC-OFF-660199AB6CAC990A",
+      "status": "SUCCESS",
+      "classification": "OFFICIAL_ANNOUNCEMENT",
+      "confidence": "MEDIUM",
+      "published_at": "2023-05-10",
+      "content_hash": "5f1fe2aad4cc952155d6af681d2b0efffa2ff065c5c9f999dff15db81f2743ba"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/article/star-atlas-a-day-in-the-life-of-a-mud-faction-captain",
+      "source_id": "SRC-OFF-91B2D272DB2003FD",
+      "status": "SUCCESS",
+      "classification": "LORE",
+      "confidence": "MEDIUM",
+      "published_at": "2021-08-31",
+      "content_hash": "a6e6cfedd00b8430daa1d2f30f412c1d516e6d05616678840d4e4018661a8c66"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/article/star-atlas-and-the-fabricant-create-first-of-its-kind-metaverse-digital",
+      "source_id": "SRC-OFF-5ED7C7E87D1335ED",
+      "status": "SUCCESS",
+      "classification": "OFFICIAL_ANNOUNCEMENT",
+      "confidence": "MEDIUM",
+      "published_at": "2021-07-02",
+      "content_hash": "effdb21c737d2dace538e7a382e26617816f5ba2debc4b320488666872b6d5d1"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/article/star-atlas-completes-over-usd3-million-nft-sale-to-animoca-brands",
+      "source_id": "SRC-OFF-8AC8EED8F9A8B82E",
+      "status": "SUCCESS",
+      "classification": "OFFICIAL_ANNOUNCEMENT",
+      "confidence": "MEDIUM",
+      "published_at": "2022-01-22",
+      "content_hash": "4dfc04ac8b1fcf359f5108e55973b595ab7c085cf3d2023ae14176cebb99230b"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/article/star-atlas-feature-reveal-faction-aligned-companies",
+      "source_id": "SRC-OFF-555CAC4267FC734E",
+      "status": "SUCCESS",
+      "classification": "OFFICIAL_ANNOUNCEMENT",
+      "confidence": "MEDIUM",
+      "published_at": "2022-01-14",
+      "content_hash": "f33dd4a7c3d169fabd9922fb66c870a0c56b6323cbc138052d8574974b74c10a"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/article/star-atlas-in-game-play-adventures-as-a-landowner",
+      "source_id": "SRC-OFF-74B5B70B06711742",
+      "status": "SUCCESS",
+      "classification": "OFFICIAL_ANNOUNCEMENT",
+      "confidence": "MEDIUM",
+      "published_at": "2021-10-03",
+      "content_hash": "fcd8b92846bedf43cc3e94f5da424ee5907d394110fd00dc4262aec4e1b9c7d2"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/article/star-atlas-in-game-play-adventures-as-a-mud-explorer",
+      "source_id": "SRC-OFF-82E77398A899FBD8",
+      "status": "SUCCESS",
+      "classification": "LORE",
+      "confidence": "MEDIUM",
+      "published_at": "2021-10-18",
+      "content_hash": "293823f59494a8b508465bd64de8bb72402390adfaabc9bc0a6dabec335e5ac3"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/article/star-atlas-in-game-play-adventures-as-an-ustur-builder",
+      "source_id": "SRC-OFF-167C2FD266A1C3E9",
+      "status": "SUCCESS",
+      "classification": "LORE",
+      "confidence": "MEDIUM",
+      "published_at": "2021-10-12",
+      "content_hash": "74241541200f99bdbe15c1555c595c667531a5d99fd588af8963cf2ba1208cc7"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/article/star-atlas-in-game-play-conquest-as-an-oni-fighter",
+      "source_id": "SRC-OFF-9626A1F9027B8C1C",
+      "status": "SUCCESS",
+      "classification": "LORE",
+      "confidence": "MEDIUM",
+      "published_at": "2021-10-14",
+      "content_hash": "16f21fa32d98f4024e758d6d13f5eb78c9cee8e24ebf93cdf95b3aa20eb7cdc8"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/article/star-atlas-intergalactic-economy-101-welcome-to-the-real-world",
+      "source_id": "SRC-OFF-E9E5AB15C5DECE43",
+      "status": "SUCCESS",
+      "classification": "OFFICIAL_ANNOUNCEMENT",
+      "confidence": "MEDIUM",
+      "published_at": "2021-08-26",
+      "content_hash": "2cc74aae8f790703c0965bb4b787019ec050c5384e5aab34a87a976d0e03fd7a"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/article/star-atlas-launches-a-new-era-of-gaming-with-record-shattering-token-sales",
+      "source_id": "SRC-OFF-0333A5B22A207D88",
+      "status": "SUCCESS",
+      "classification": "OFFICIAL_ANNOUNCEMENT",
+      "confidence": "MEDIUM",
+      "published_at": "2021-09-08",
+      "content_hash": "9312f80ba9c03ed3680696aaf363f661e18fe20c00d9b2f777d5e804ba8fa483"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/article/star-atlas-nft-cosmos-the-hunt-for-an-ancient-artifact",
+      "source_id": "SRC-OFF-BE3F6F5D62BE9688",
+      "status": "SUCCESS",
+      "classification": "OFFICIAL_ANNOUNCEMENT",
+      "confidence": "MEDIUM",
+      "published_at": "2021-10-26",
+      "content_hash": "6002bd4d0b8d6b29c89dd0daf0f60c459673437a06676b82479ed88033e4fdd1"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/article/the-secret-core-of-nft-gaming-future",
+      "source_id": "SRC-OFF-4EAAA31A80812F1F",
+      "status": "SUCCESS",
+      "classification": "OFFICIAL_ANNOUNCEMENT",
+      "confidence": "MEDIUM",
+      "published_at": "2021-08-06",
+      "content_hash": "b8b29c8a7dff68b1b32e85a2ad0a3e5201ed4eb3fa4c50357498c8bf960cd6c7"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/game-updates/game-on-pledge-your-ships-for-factional-fleet-service-in-star-atlas",
+      "source_id": "SRC-OFF-CFB3A87BF1E48DDE",
+      "status": "SUCCESS",
+      "classification": "OFFICIAL_ANNOUNCEMENT",
+      "confidence": "MEDIUM",
+      "published_at": "2021-12-24",
+      "content_hash": "b1ca18016ffd1a93179319bfe244f98fadf3d0c4c3bcce3cc99bd881afbf8708"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/game-updates/join-the-fleet-star-atlas-launches-its-inaugural-on-chain-gameplay",
+      "source_id": "SRC-OFF-0AED270D51ACD552",
+      "status": "SUCCESS",
+      "classification": "OFFICIAL_ANNOUNCEMENT",
+      "confidence": "MEDIUM",
+      "published_at": "2021-12-17",
+      "content_hash": "164fb8602ef3ede77813424e5b42faaeba3e9dc8d8d58eef3dceac25db3e6064"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/game-updates/legendary-surprise-for-rebirth-meta-poster-rewards-pilot-and-captain-license",
+      "source_id": "SRC-OFF-1903C036D200376C",
+      "status": "SUCCESS",
+      "classification": "OFFICIAL_ANNOUNCEMENT",
+      "confidence": "MEDIUM",
+      "published_at": "2021-10-07",
+      "content_hash": "0aedc2b9065de608995643e78b12aee953f45322638e96f8e9bf5e281b73a6dc"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/game-updates/start-your-engines-star-atlas-showroom-2-1-game-release-begins-the-racing",
+      "source_id": "SRC-OFF-FC61779037A23908",
+      "status": "SUCCESS",
+      "classification": "OFFICIAL_ANNOUNCEMENT",
+      "confidence": "MEDIUM",
+      "published_at": "2023-06-02",
+      "content_hash": "2f09eb016c6b555a5940669c963c75eda799199188965869bd640160d0e71c7c"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/game-updates/the-metaverse-big-bang-star-atlas-launches-the-next-generation-of-nfts",
+      "source_id": "SRC-OFF-B2C1AA5D0C8E9D15",
+      "status": "SUCCESS",
+      "classification": "OFFICIAL_ANNOUNCEMENT",
+      "confidence": "MEDIUM",
+      "published_at": "2021-09-07",
+      "content_hash": "4cc3a340182f5dbfb167251c8a5bba7be1e69a2d91fe1938a23c1ac64ecbb125"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/game-updates/the-shipmas-season-approaches-countdown-to-9-new-star-atlas-spaceships",
+      "source_id": "SRC-OFF-E7DB29C6A8D06CD0",
+      "status": "SUCCESS",
+      "classification": "OFFICIAL_ANNOUNCEMENT",
+      "confidence": "MEDIUM",
+      "published_at": "2021-12-09",
+      "content_hash": "0de678a440b9422bda6c4a4e5a418212d1653f5e282b593604d1be60b1cf0518"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/star-atlas-news/animoca-brands-joins-star-atlas-in-a-partnership-to-revolutionize-the-future",
+      "source_id": "SRC-OFF-601DB73CC99402B0",
+      "status": "SUCCESS",
+      "classification": "PARTNERSHIP_ANNOUNCEMENT",
+      "confidence": "MEDIUM",
+      "published_at": "2021-08-23",
+      "content_hash": "d5f72afaa74a5b4353f5526b08d6692c6f1504caf1521106bb08921649adc09f"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/star-atlas-news/claim-your-destiny-the-dawn-of-the-player-driven-star-atlas-economy",
+      "source_id": "SRC-OFF-D023F6DAFA12F9AA",
+      "status": "SUCCESS",
+      "classification": "OFFICIAL_ANNOUNCEMENT",
+      "confidence": "MEDIUM",
+      "published_at": "2023-06-08",
+      "content_hash": "dc186e5ebce1df1964d35751715188583413a0f0d53645747639f52aa1557109"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/star-atlas-news/copa-intergalactic-competition-guild-finalists-and-event-details-announced",
+      "source_id": "SRC-OFF-D72CE2BCE740856F",
+      "status": "SUCCESS",
+      "classification": "OFFICIAL_ANNOUNCEMENT",
+      "confidence": "MEDIUM",
+      "published_at": "2022-06-11",
+      "content_hash": "e9b40ace0e6777772ffc0ee79e1871fb34aee4b0899c63c878a3684649a64216"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/star-atlas-news/cosmic-alpha-burst-star-atlas-unveils-roadmap-graphic-novel-sage-and-more-at",
+      "source_id": "SRC-OFF-22181D98D7A1B870",
+      "status": "SUCCESS",
+      "classification": "ROADMAP",
+      "confidence": "MEDIUM",
+      "published_at": "2022-11-07",
+      "content_hash": "962efc4149d8a8457d09eecd63b0f7b2671fa2f8541b56e3557dfe24ff19e95b"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/star-atlas-news/destination-starbase-rush-towards-prosperity-in-star-atlas-intensifies",
+      "source_id": "SRC-OFF-A49DE58EC808D004",
+      "status": "SUCCESS",
+      "classification": "OFFICIAL_ANNOUNCEMENT",
+      "confidence": "MEDIUM",
+      "published_at": "2023-06-30",
+      "content_hash": "6086ba1f63618282ec4e991f3355c41f42e279390ce6e170d7c879e300771717"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/star-atlas-news/exclusive-ftx-and-raydium-spaceship-skin-nfts-drop-to-commemorate-record",
+      "source_id": "SRC-OFF-68CCF56035993E33",
+      "status": "SUCCESS",
+      "classification": "OFFICIAL_ANNOUNCEMENT",
+      "confidence": "MEDIUM",
+      "published_at": "2021-09-10",
+      "content_hash": "9f13c0c5a55260ac83f8c6f2ed143b9fd2934082074cf0a4f4c30528b131313c"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/star-atlas-news/existing-atlas-pair-spaceships-return-to-the-galactic-marketplace-at-20",
+      "source_id": "SRC-OFF-9F4AFD0238C8E17B",
+      "status": "SUCCESS",
+      "classification": "OFFICIAL_ANNOUNCEMENT",
+      "confidence": "MEDIUM",
+      "published_at": "2023-06-06",
+      "content_hash": "25cfb791fe81b3816b552365caee6fe1427175b4581729105be9085c7d76d09e"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/star-atlas-news/firmam3ntal-star-makers-inaugural-collection-by-star-atlas-and-the-fabricant",
+      "source_id": "SRC-OFF-269BEC52917B0546",
+      "status": "SUCCESS",
+      "classification": "OFFICIAL_ANNOUNCEMENT",
+      "confidence": "MEDIUM",
+      "published_at": "2021-09-16",
+      "content_hash": "1544b256b8737cca5247d6824ca4405b184319e425585f055ef9fe00450bd745"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/star-atlas-news/flight-of-the-titans-manifesto-for-the-golden-era",
+      "source_id": "SRC-OFF-6DC12D8B73ABA5A3",
+      "status": "SUCCESS",
+      "classification": "OFFICIAL_ANNOUNCEMENT",
+      "confidence": "MEDIUM",
+      "published_at": "2022-11-22",
+      "content_hash": "065b7017bf279c756a80b5dc52844fd5e46d443f86d9f771af2f9793b106ff05"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/star-atlas-news/high-octane-october-star-atlas-set-to-release-player-factions-new-trailer",
+      "source_id": "SRC-OFF-678621BE1998176D",
+      "status": "SUCCESS",
+      "classification": "OFFICIAL_ANNOUNCEMENT",
+      "confidence": "MEDIUM",
+      "published_at": "2021-10-02",
+      "content_hash": "19b44cd1cfbb489e56e7710d905e0d3a9c368542b73e3882794b3e3c48308b30"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/star-atlas-news/how-to-enter-the-star-atlas-pre-alpha-showroom",
+      "source_id": "SRC-OFF-340128795CCA03A9",
+      "status": "SUCCESS",
+      "classification": "OFFICIAL_ANNOUNCEMENT",
+      "confidence": "MEDIUM",
+      "published_at": "2022-09-29",
+      "content_hash": "c429af5e6bb6f7ff33175d153dcc3be568102edd76f91750257cfa2de7c3a72b"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/star-atlas-news/ibuypower-to-offer-custom-star-atlas-branded-gaming-gear",
+      "source_id": "SRC-OFF-352ACE3DC60AEFA4",
+      "status": "SUCCESS",
+      "classification": "OFFICIAL_ANNOUNCEMENT",
+      "confidence": "MEDIUM",
+      "published_at": "2022-07-21",
+      "content_hash": "9ce72f792b5a151c8a7a33ef8d8c75d26da343bdc40ac497583906df70d20cbd"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/star-atlas-news/inaugural-copa-festival-winners-make-history",
+      "source_id": "SRC-OFF-E89CAA2834793DCC",
+      "status": "SUCCESS",
+      "classification": "OFFICIAL_ANNOUNCEMENT",
+      "confidence": "MEDIUM",
+      "published_at": "2022-06-17",
+      "content_hash": "c7dcdc3ae590cb69d73f5400175697f633d6dc170f4ab702dcf78f425c66b862"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/star-atlas-news/introducing-copa-a-festival-of-guilds",
+      "source_id": "SRC-OFF-AB9BE32532D219C9",
+      "status": "SUCCESS",
+      "classification": "OFFICIAL_ANNOUNCEMENT",
+      "confidence": "MEDIUM",
+      "published_at": "2022-05-20",
+      "content_hash": "2a53dd20893dd8aae2929e7cb3281ab2ecadcacb04b2ad903ba33b8ffd275590"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/star-atlas-news/introducing-rebirth-genesis-of-a-metaverse",
+      "source_id": "SRC-OFF-2EE519344E7C47AC",
+      "status": "SUCCESS",
+      "classification": "OFFICIAL_ANNOUNCEMENT",
+      "confidence": "MEDIUM",
+      "published_at": "2021-06-19",
+      "content_hash": "383afd0ecd4b6ff845c8ae1eb32496c00dfae1e131228d239659a83b59c99d8a"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/star-atlas-news/metaverse-meets-metaverse-star-atlas-the-sandbox-community-contest",
+      "source_id": "SRC-OFF-96818E7C47F82CD6",
+      "status": "SUCCESS",
+      "classification": "OFFICIAL_ANNOUNCEMENT",
+      "confidence": "MEDIUM",
+      "published_at": "2022-05-03",
+      "content_hash": "23890eb6288c4ece908c760914f913013e18b949f21c9b873aac04c26f110f3f"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/star-atlas-news/metaverse-meets-metaverse-test",
+      "source_id": "SRC-OFF-3E00F39D5D112494",
+      "status": "SUCCESS",
+      "classification": "OFFICIAL_ANNOUNCEMENT",
+      "confidence": "MEDIUM",
+      "published_at": "2022-05-03",
+      "content_hash": "57e3769f013918dce99861cd7d4dbfb0d65972d837244c6db49ee15595f182c9"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/star-atlas-news/never-alone-a-shared-social-adventure-across-the-star-atlas-galaxy",
+      "source_id": "SRC-OFF-E934B90D2A82BDAA",
+      "status": "SUCCESS",
+      "classification": "OFFICIAL_ANNOUNCEMENT",
+      "confidence": "MEDIUM",
+      "published_at": "2023-05-11",
+      "content_hash": "fccccd5d258c64385ce5ebddcce5e2c9e24540a68f19bd656de070db10797dd7"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/star-atlas-news/new-star-atlas-state-of-the-economy-report-highlights-liberalization-of",
+      "source_id": "SRC-OFF-50C11FFE40CE676F",
+      "status": "SUCCESS",
+      "classification": "ECONOMIC_REPORT",
+      "confidence": "MEDIUM",
+      "published_at": "2023-06-30",
+      "content_hash": "3c943e5ee45901bc5b9498fd715462a545ba5b8cd5db92a9dac5c8e1d94f2ee5"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/star-atlas-news/shoot-for-the-stars-star-atlas-launches-metaverse-photography-career-contest",
+      "source_id": "SRC-OFF-9243918EDFE0EC78",
+      "status": "SUCCESS",
+      "classification": "OFFICIAL_ANNOUNCEMENT",
+      "confidence": "MEDIUM",
+      "published_at": "2023-07-15",
+      "content_hash": "75896f65e467082b2d50cff9760b33586534842b624309d44b25769959a97dbc"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/star-atlas-news/so-it-begins-countdown-to-launch-of-star-atlas-token-sale-on-ftx-raydium-and",
+      "source_id": "SRC-OFF-5A8CBF667AD201EF",
+      "status": "SUCCESS",
+      "classification": "OFFICIAL_ANNOUNCEMENT",
+      "confidence": "MEDIUM",
+      "published_at": "2021-08-09",
+      "content_hash": "9f138beb7066b7c692f33fff95fba1f76fe63576e130faa1ece94058fb2d6c80"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/star-atlas-news/star-atlas-and-hello-moon-partner-to-level-up-gaming-with-live-data",
+      "source_id": "SRC-OFF-2BC7D317600C6107",
+      "status": "SUCCESS",
+      "classification": "OFFICIAL_ANNOUNCEMENT",
+      "confidence": "MEDIUM",
+      "published_at": "2023-07-06",
+      "content_hash": "6e0d61775f8e43375899faf484bf30ca6a0deb6572279ed774db8fa030e51132"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/star-atlas-news/star-atlas-and-ibuypower-partner-to-onboard-gamers-to-the-metaverse",
+      "source_id": "SRC-OFF-17C770884734231A",
+      "status": "SUCCESS",
+      "classification": "OFFICIAL_ANNOUNCEMENT",
+      "confidence": "MEDIUM",
+      "published_at": "2022-06-08",
+      "content_hash": "441ba680c0f837ff768c5976a502e497219bf92f066c1bd13edca116f873707e"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/star-atlas-news/star-atlas-and-us-space-force-drop-neil-armstrong-meta-poster-nft-for-satellite-launch",
+      "source_id": "SRC-OFF-F3FA340D29AD6F70",
+      "status": "SUCCESS",
+      "classification": "OFFICIAL_ANNOUNCEMENT",
+      "confidence": "MEDIUM",
+      "published_at": "2021-06-30",
+      "content_hash": "1a2b5a940add1389e0a91bee99fe5ef0b9370b85b0590413782475a02c9f677f"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/star-atlas-news/star-atlas-announces-nft-loot-box-rewards-drop-for-rebirth-meta-poster",
+      "source_id": "SRC-OFF-BCBE8698B8C9B03D",
+      "status": "SUCCESS",
+      "classification": "OFFICIAL_ANNOUNCEMENT",
+      "confidence": "MEDIUM",
+      "published_at": "2021-08-03",
+      "content_hash": "8ca4518f7d3e017f4795feba334af502b5da1ed683444c68c903e64b9f5ab755"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/star-atlas-news/star-atlas-announces-the-next-major-release-event-426live-nyk",
+      "source_id": "SRC-OFF-F58B0AB5D35EF8FC",
+      "status": "SUCCESS",
+      "classification": "OFFICIAL_ANNOUNCEMENT",
+      "confidence": "MEDIUM",
+      "published_at": "2022-09-20",
+      "content_hash": "f87dc0ce1363a524bad7e63b26762816bcfde3adfbfcbf717309a1bd58b94c23"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/star-atlas-news/star-atlas-closes-seed-round-with-serum-leading-funding",
+      "source_id": "SRC-OFF-723C7D67B80744DF",
+      "status": "SUCCESS",
+      "classification": "OFFICIAL_ANNOUNCEMENT",
+      "confidence": "MEDIUM",
+      "published_at": "2021-06-24",
+      "content_hash": "e28bceaeb1d1ed5a31935c3f85b02decaf1dd06648f1bad97051da606d3fafee"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/star-atlas-news/star-atlas-dao-lays-foundation-for-sustainable-governance-in-gaming",
+      "source_id": "SRC-OFF-50186C400EF7CC79",
+      "status": "SUCCESS",
+      "classification": "OFFICIAL_ANNOUNCEMENT",
+      "confidence": "MEDIUM",
+      "published_at": "2023-07-07",
+      "content_hash": "3fcdb2b2ecfd3cc0643dac4f1b5febbb8c9b34f582a175d5d6d8ba5dc9b7d187"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/star-atlas-news/star-atlas-dao-releases-atlas-locker",
+      "source_id": "SRC-OFF-D07F401D77E9CA13",
+      "status": "SUCCESS",
+      "classification": "OFFICIAL_ANNOUNCEMENT",
+      "confidence": "MEDIUM",
+      "published_at": "2022-09-29",
+      "content_hash": "4a375d4f5cc85f105bf4241324fe13735be350fa6ad3493fd83d428a1d5b6b4b"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/star-atlas-news/star-atlas-launches-unreal-engine-5-powered-pre-alpha-showroom-on-the-epic",
+      "source_id": "SRC-OFF-C6B9C26055452AF8",
+      "status": "SUCCESS",
+      "classification": "OFFICIAL_ANNOUNCEMENT",
+      "confidence": "MEDIUM",
+      "published_at": "2022-09-30",
+      "content_hash": "542d61cdd368eb6907324734d9b46a7365c1fa3bdbc64f1240184d08f8c0b676"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/star-atlas-news/star-atlas-partners-with-moonpay-to-provide-an-onramp-for-next-wave-of",
+      "source_id": "SRC-OFF-F546F327C3C9B727",
+      "status": "SUCCESS",
+      "classification": "PARTNERSHIP_ANNOUNCEMENT",
+      "confidence": "MEDIUM",
+      "published_at": "2022-06-10",
+      "content_hash": "c028eae94d0de4c53115c8b78bd4672d72c4feb2678002ffae87f8bfa0c73b24"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/star-atlas-news/star-atlas-partnership-with-sperasoft-to-develop-the-most-immersive",
+      "source_id": "SRC-OFF-187A8E889198C5D3",
+      "status": "SUCCESS",
+      "classification": "PARTNERSHIP_ANNOUNCEMENT",
+      "confidence": "MEDIUM",
+      "published_at": "2021-11-30",
+      "content_hash": "7849c49032241f3b33ef16697f0b8ee7104ac58b923fc2b568f21369d72e8843"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/star-atlas-news/star-atlas-presents-golden-era-start-sequence-our-path-towards-tomorrow",
+      "source_id": "SRC-OFF-7102D44F3A9B9DB6",
+      "status": "SUCCESS",
+      "classification": "OFFICIAL_ANNOUNCEMENT",
+      "confidence": "MEDIUM",
+      "published_at": "2022-11-18",
+      "content_hash": "af61531f2fe6e385c4e943bb4af4960a1059478a978908aeb73fb19b6f0d8e59"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/star-atlas-news/star-atlas-revolutionary-technology-reaches-escape-velocity-real-time-fully",
+      "source_id": "SRC-OFF-C189056066EBFEA7",
+      "status": "SUCCESS",
+      "classification": "OFFICIAL_ANNOUNCEMENT",
+      "confidence": "MEDIUM",
+      "published_at": "2023-04-27",
+      "content_hash": "a52d4a13b72ad97947cc75436907310b7ee689f0ace631cece179fe9429b1daa"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/star-atlas-news/star-atlas-to-sponsor-play-to-earn-game-festival",
+      "source_id": "SRC-OFF-7649C89B8CCEE60B",
+      "status": "SUCCESS",
+      "classification": "OFFICIAL_ANNOUNCEMENT",
+      "confidence": "MEDIUM",
+      "published_at": "2021-07-07",
+      "content_hash": "740ece42fa5f0dfb7f060adf79bc1fcfdb3f70ed4484b56315a5a14902a4ee3e"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/star-atlas-news/star-atlas-token-sale-details-revealed",
+      "source_id": "SRC-OFF-927F495C3F49A56F",
+      "status": "SUCCESS",
+      "classification": "OFFICIAL_ANNOUNCEMENT",
+      "confidence": "MEDIUM",
+      "published_at": "2021-08-17",
+      "content_hash": "c9e61193f9bcd6aeb62f86bb4e15efe1ac93cef618ee30d80c6965771ea161af"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/star-atlas-news/starpath-the-official-star-atlas-referral-program",
+      "source_id": "SRC-OFF-8C3F18E4BEFF48B2",
+      "status": "SUCCESS",
+      "classification": "OFFICIAL_ANNOUNCEMENT",
+      "confidence": "MEDIUM",
+      "published_at": "2022-07-22",
+      "content_hash": "7222a4ee438d61cd0b7d0b8fc78104dc7ebcc2e2e84b5aa9c2ac7abea2b2383d"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/star-atlas-news/start-sequence-continues-from-claim-stakes-to-space-crops-with-new-solarpunk",
+      "source_id": "SRC-OFF-9F8AA620349CF5A1",
+      "status": "SUCCESS",
+      "classification": "OFFICIAL_ANNOUNCEMENT",
+      "confidence": "MEDIUM",
+      "published_at": "2022-12-02",
+      "content_hash": "ef045d7f8cb3ef072af5b1d2268e1fbeed3cf1f15c90488fcb33d0fcf290e4d9"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/star-atlas-news/supporting-community-entrepreneurs-build-with-star-atlas-intellectual-property-first-one-million-in-revenue-is-royalty-free",
+      "source_id": "SRC-OFF-B19E0D091A8449AB",
+      "status": "SUCCESS",
+      "classification": "OFFICIAL_ANNOUNCEMENT",
+      "confidence": "MEDIUM",
+      "published_at": "2023-04-26",
+      "content_hash": "3f3d5887584fc2d1ae3128974be181f91f71d9833e4050d64fa2ec100073a8ac"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/star-atlas-news/the-countdown-starts-inbound-wave-4-spaceship-drop-featuring-payment-with",
+      "source_id": "SRC-OFF-D5772C68493593AA",
+      "status": "SUCCESS",
+      "classification": "OFFICIAL_ANNOUNCEMENT",
+      "confidence": "MEDIUM",
+      "published_at": "2021-11-02",
+      "content_hash": "61782102be07bb951faf5a4f3d97ac224ad93b3466361c4952287bc9ad277439"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/star-atlas-news/the-f-kit-a-bridge-to-web3-for-game-developers",
+      "source_id": "SRC-OFF-5A3F7E05FA593B9F",
+      "status": "SUCCESS",
+      "classification": "OFFICIAL_ANNOUNCEMENT",
+      "confidence": "MEDIUM",
+      "published_at": "2022-09-29",
+      "content_hash": "8b5913814fe3c1bd84418266d3fb6c6b347a2e5ba23a6bb6b8d290b5f7d58a9f"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/star-atlas-news/the-new-galactic-marketplace-a-small-step-for-trading-a-huge-leap-for-the",
+      "source_id": "SRC-OFF-0C5AA46E01E189EC",
+      "status": "SUCCESS",
+      "classification": "OFFICIAL_ANNOUNCEMENT",
+      "confidence": "MEDIUM",
+      "published_at": "2022-07-22",
+      "content_hash": "64e398c17f916b9542f3e5e852f9393612342510cde5997634813d4930c2cde5"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/star-atlas-news/the-path-towards-tomorrow-phase-2-css-land-plot-and-claim-stake-sales",
+      "source_id": "SRC-OFF-AC23D0459AB9A1AC",
+      "status": "SUCCESS",
+      "classification": "OFFICIAL_ANNOUNCEMENT",
+      "confidence": "MEDIUM",
+      "published_at": "2022-11-29",
+      "content_hash": "371899fc40e65e618b990d6f77d7cb82447b240abe6542697464c85fa542f825"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/star-atlas-news/the-showroom-a-journey-through-a-handcrafted-metaverse",
+      "source_id": "SRC-OFF-57027457FD1317B4",
+      "status": "SUCCESS",
+      "classification": "OFFICIAL_ANNOUNCEMENT",
+      "confidence": "MEDIUM",
+      "published_at": "2022-09-29",
+      "content_hash": "ae8ff24ebaa2456fdb0b73d4473e5d6e68a166e8fbe7d54f46c7f77d1fd4bf39"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/star-atlas-news/the-solana-powered-core-of-star-atlas-goes-live-the-galactic-marketplace",
+      "source_id": "SRC-OFF-A465C97640C55838",
+      "status": "SUCCESS",
+      "classification": "OFFICIAL_ANNOUNCEMENT",
+      "confidence": "MEDIUM",
+      "published_at": "2021-08-04",
+      "content_hash": "7cc55d2ae4b7104a66fda56ec5324f05ad4058d6cbcbb00ec154c924f4178f4e"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/star-atlas-news/the-star-atlas-dao-releases-its-sustainable-governance-framework",
+      "source_id": "SRC-OFF-68D126528852339E",
+      "status": "SUCCESS",
+      "classification": "OFFICIAL_ANNOUNCEMENT",
+      "confidence": "MEDIUM",
+      "published_at": "2022-09-29",
+      "content_hash": "b3877fb29439a13f9d09886d36a2010050e6af88f54ffa22144eed2081c1dec9"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/star-atlas-news/the-star-atlas-dao-the-game-of-polis",
+      "source_id": "SRC-OFF-E5AEFD6B36E3CE06",
+      "status": "SUCCESS",
+      "classification": "OFFICIAL_ANNOUNCEMENT",
+      "confidence": "MEDIUM",
+      "published_at": "2022-07-21",
+      "content_hash": "bc54a24a37a48f270775329b66aec2957791b6b3a0f9631a0506a96774fc992f"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/star-atlas-news/thrilling-to-the-core-star-atlas-releases-epic-graphic-novel",
+      "source_id": "SRC-OFF-1336E035AB9A6C39",
+      "status": "SUCCESS",
+      "classification": "OFFICIAL_ANNOUNCEMENT",
+      "confidence": "MEDIUM",
+      "published_at": "2022-11-09",
+      "content_hash": "f524adb4d9892b70f179c7e4f3a4df5dc30580ecf9144cd25dc49578a05b6ff5"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/star-atlas-news/vimeo-video-test",
+      "source_id": "SRC-OFF-35BD997A8113B07D",
+      "status": "SUCCESS",
+      "classification": "OFFICIAL_ANNOUNCEMENT",
+      "confidence": "MEDIUM",
+      "published_at": "2026-07-10",
+      "content_hash": "0bf3b0acbcf75111bc6ac0fc7c1d7c3f84111014308219063bb4599148c6642c"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/star-atlas-news/yield-guild-games-commits-to-usd1m-purchase-of-star-atlas-game-assets",
+      "source_id": "SRC-OFF-A887A417A8066E37",
+      "status": "SUCCESS",
+      "classification": "OFFICIAL_ANNOUNCEMENT",
+      "confidence": "MEDIUM",
+      "published_at": "2021-10-04",
+      "content_hash": "6670b711993ccf0d88e1467c105c5e7b5825517c749e5ba3388cac1035474a4c"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/the-atlassian-newsletter/the-atlas-star-issue-1",
+      "source_id": "SRC-OFF-2A930EF6763F8490",
+      "status": "SUCCESS",
+      "classification": "LORE",
+      "confidence": "MEDIUM",
+      "published_at": "2021-03-16",
+      "content_hash": "42cdab33137d7413331d394441f43d9e9d214b8fe772c17727aab8d70d80a5e3"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/the-atlassian-newsletter/the-atlas-star-issue-10",
+      "source_id": "SRC-OFF-2E4DE78B3C355FA9",
+      "status": "SUCCESS",
+      "classification": "LORE",
+      "confidence": "MEDIUM",
+      "published_at": "2022-08-26",
+      "content_hash": "5b5cf09f1561fbc1c7e2066879f64ebaa696454665f63f7fd6717b659e616309"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/the-atlassian-newsletter/the-atlas-star-issue-11",
+      "source_id": "SRC-OFF-BD0CD688817291A3",
+      "status": "SUCCESS",
+      "classification": "LORE",
+      "confidence": "MEDIUM",
+      "published_at": "2022-10-08",
+      "content_hash": "bb8a1a52067e32379469b6412973d50b1d5e8891b378d8c20f4f166d2b969652"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/the-atlassian-newsletter/the-atlas-star-issue-12",
+      "source_id": "SRC-OFF-7FFFCA6E3EFC320C",
+      "status": "SUCCESS",
+      "classification": "LORE",
+      "confidence": "MEDIUM",
+      "published_at": "2022-10-29",
+      "content_hash": "5d29152a18344a192ecd3cda51f51ea2f12a343ee0fcd96d2101457c65c17c7a"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/the-atlassian-newsletter/the-atlas-star-issue-13",
+      "source_id": "SRC-OFF-8882149416E54B8B",
+      "status": "SUCCESS",
+      "classification": "LORE",
+      "confidence": "MEDIUM",
+      "published_at": "2022-12-02",
+      "content_hash": "a0fbce0ef16fc04a9e8d37fafd2486588c1af3c1fe649680cc832d23b867c6b5"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/the-atlassian-newsletter/the-atlas-star-issue-14-special-edition-2022-in-review",
+      "source_id": "SRC-OFF-4A9FCC4E28487231",
+      "status": "SUCCESS",
+      "classification": "LORE",
+      "confidence": "MEDIUM",
+      "published_at": "2023-01-13",
+      "content_hash": "1edc93855813c8ef0073238b489ca1612080917e586870d970b897e26e3fc9d4"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/the-atlassian-newsletter/the-atlas-star-issue-15",
+      "source_id": "SRC-OFF-1365677CDCD2670F",
+      "status": "SUCCESS",
+      "classification": "LORE",
+      "confidence": "MEDIUM",
+      "published_at": "2023-02-17",
+      "content_hash": "a301210fde831ffb35bb905b9785c48078e995ec73c5c4efc2c928cd843b055e"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/the-atlassian-newsletter/the-atlas-star-issue-16",
+      "source_id": "SRC-OFF-926F4D9B4FD056CD",
+      "status": "SUCCESS",
+      "classification": "LORE",
+      "confidence": "MEDIUM",
+      "published_at": "2023-03-17",
+      "content_hash": "03141a50a79cb49e0da410bf263bfc27fd42dea4714ddb84dca8ef3b755cb1e8"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/the-atlassian-newsletter/the-atlas-star-issue-17",
+      "source_id": "SRC-OFF-C1F706C02AECEE23",
+      "status": "SUCCESS",
+      "classification": "LORE",
+      "confidence": "MEDIUM",
+      "published_at": "2023-04-14",
+      "content_hash": "4e6201b0481bab447abf3797c78c4985f7aa7a247879e8cd7b13f8ffabce7698"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/the-atlassian-newsletter/the-atlas-star-issue-18",
+      "source_id": "SRC-OFF-3471FBD517D5CD7F",
+      "status": "SUCCESS",
+      "classification": "LORE",
+      "confidence": "MEDIUM",
+      "published_at": "2023-05-20",
+      "content_hash": "6615cf6f3005b833b8d07f81e7793cc8d169e1cf32b63cb8c6d9df3571f692a0"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/the-atlassian-newsletter/the-atlas-star-issue-19",
+      "source_id": "SRC-OFF-6D877A93C3669C23",
+      "status": "SUCCESS",
+      "classification": "LORE",
+      "confidence": "MEDIUM",
+      "published_at": "2023-07-01",
+      "content_hash": "45bd48679d23988eb5476f4ef37e5681c70401deb53f5e2faf7058e93f70cfb6"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/the-atlassian-newsletter/the-atlas-star-issue-2",
+      "source_id": "SRC-OFF-7EB2192021729405",
+      "status": "SUCCESS",
+      "classification": "LORE",
+      "confidence": "MEDIUM",
+      "published_at": "2021-04-13",
+      "content_hash": "ae87a564b0ad7ee9a2846d75b164d5963e26340782402ba502900b0ec85f176f"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/the-atlassian-newsletter/the-atlas-star-issue-3",
+      "source_id": "SRC-OFF-DD9175EF794C1F8D",
+      "status": "SUCCESS",
+      "classification": "LORE",
+      "confidence": "MEDIUM",
+      "published_at": "2021-05-18",
+      "content_hash": "54e4cbeed2fbf6e9011cb470d7eea460ba2d254824bd4ddceb42bd0e9bafaea1"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/the-atlassian-newsletter/the-atlas-star-issue-4",
+      "source_id": "SRC-OFF-1943EB02EECEDABB",
+      "status": "SUCCESS",
+      "classification": "LORE",
+      "confidence": "MEDIUM",
+      "published_at": "2021-07-15",
+      "content_hash": "46fef714d678b99b0d33bbb1b7e2fe8cdfa8480cbd1631eb468952a6b04cd6ed"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/the-atlassian-newsletter/the-atlas-star-issue-5",
+      "source_id": "SRC-OFF-8917A64EB222FB1E",
+      "status": "SUCCESS",
+      "classification": "LORE",
+      "confidence": "MEDIUM",
+      "published_at": "2022-04-21",
+      "content_hash": "b0aaada6f6fe94775ff72884a15c758298c74b99d283396a56718e5a9a0af1cf"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/the-atlassian-newsletter/the-atlas-star-issue-6",
+      "source_id": "SRC-OFF-81AC1295ED8D5F75",
+      "status": "SUCCESS",
+      "classification": "LORE",
+      "confidence": "MEDIUM",
+      "published_at": "2022-04-23",
+      "content_hash": "a1bf0f9fa72c3bb5fc3152d9e5b371fe17d6524e5b874c3889be7872e549ab1a"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/the-atlassian-newsletter/the-atlas-star-issue-7",
+      "source_id": "SRC-OFF-A2F14F878C41366F",
+      "status": "SUCCESS",
+      "classification": "LORE",
+      "confidence": "MEDIUM",
+      "published_at": "2022-05-14",
+      "content_hash": "5f6b66f47d5d4174083cd416831a5e1411ae55c5d5748906f7b38b64806f4b0c"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/the-atlassian-newsletter/the-atlas-star-issue-8",
+      "source_id": "SRC-OFF-F9654AA6FF1D8010",
+      "status": "SUCCESS",
+      "classification": "LORE",
+      "confidence": "MEDIUM",
+      "published_at": "2022-06-25",
+      "content_hash": "8c13c8095a455359da74769e07996caeea972c5befacad701a42fa7d3b1b9f8a"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/the-atlassian-newsletter/the-atlas-star-issue-9",
+      "source_id": "SRC-OFF-C4DA380B01338D57",
+      "status": "SUCCESS",
+      "classification": "LORE",
+      "confidence": "MEDIUM",
+      "published_at": "2022-08-06",
+      "content_hash": "2d3cdd7c8651113629d2c2c1af727a62fb3d275b094edbe1136b63c4d5e38a4a"
+    },
+    {
+      "url": "https://govern.staratlas.com/",
+      "source_id": "SRC-OFF-B4F9EB92DD60A7A8",
+      "status": "SUCCESS",
+      "classification": "REFERENCE",
+      "confidence": "MEDIUM",
+      "published_at": null,
+      "content_hash": "26beacd7eb25f57f30a87b6b17b1af95ce74525de51a65ab52087051619f046a"
+    },
+    {
+      "url": "https://staratlas.com/game/",
+      "source_id": "SRC-OFF-E7E78243A0DE9C1B",
+      "status": "SUCCESS",
+      "classification": "REFERENCE",
+      "confidence": "MEDIUM",
+      "published_at": null,
+      "content_hash": "6b85dc5a6d91dce959c8e990d149ac983f1936e92c17bdf857d5dc1de416ae41"
+    },
+    {
+      "url": "https://staratlas.com/game/fleet-command/",
+      "source_id": "SRC-OFF-7375CE6619CF2B43",
+      "status": "SUCCESS",
+      "classification": "REFERENCE",
+      "confidence": "MEDIUM",
+      "published_at": null,
+      "content_hash": "0878de881748cb00230d6dc9aea93ca1bee3e2c9e07422ef6ef03786be3935b5"
+    },
+    {
+      "url": "https://staratlas.com/game/galia/",
+      "source_id": "SRC-OFF-DFAC68CA1C476E50",
+      "status": "SUCCESS",
+      "classification": "REFERENCE",
+      "confidence": "MEDIUM",
+      "published_at": null,
+      "content_hash": "3229791115b86bac2ce61dfb160afda234ff7258f587f12dfd7d62202df7ae6b"
+    },
+    {
+      "url": "https://staratlas.com/game/game-modes/",
+      "source_id": "SRC-OFF-0373ACC08A613B85",
+      "status": "SUCCESS",
+      "classification": "REFERENCE",
+      "confidence": "MEDIUM",
+      "published_at": null,
+      "content_hash": "2ee00c58cbac80933d7ea39a97e3a85c2e8377d0262669bfbfbf099371d5f08d"
+    },
+    {
+      "url": "https://staratlas.com/game/holosim/",
+      "source_id": "SRC-OFF-4850F98FBD1F1541",
+      "status": "SUCCESS",
+      "classification": "REFERENCE",
+      "confidence": "MEDIUM",
+      "published_at": null,
+      "content_hash": "c2c8c6e2629f1070977669f87f3154cae29f5a40cd6108f5e6868cf70f155af6"
+    },
+    {
+      "url": "https://staratlas.com/game/life-in-galia/",
+      "source_id": "SRC-OFF-A021979A621E6BE1",
+      "status": "SUCCESS",
+      "classification": "REFERENCE",
+      "confidence": "MEDIUM",
+      "published_at": null,
+      "content_hash": "6f4084ff9896c87e2b885f627641a3bcaa9a2e3dc2877b1edcdc30b774fb7a64"
+    },
+    {
+      "url": "https://staratlas.com/game/sage-labs/",
+      "source_id": "SRC-OFF-34D7C5B461DD88BE",
+      "status": "SUCCESS",
+      "classification": "REFERENCE",
+      "confidence": "MEDIUM",
+      "published_at": null,
+      "content_hash": "b87ba4b62790d1b568537597330db37e5d03eb92acfd6adedc1f638f8af1abae"
+    },
+    {
+      "url": "https://staratlas.com/game/your-fleet-your-way/",
+      "source_id": "SRC-OFF-E38E55EE3566069A",
+      "status": "SUCCESS",
+      "classification": "REFERENCE",
+      "confidence": "MEDIUM",
+      "published_at": null,
+      "content_hash": "bb90be81cedca95306330aca643ed1eac6b2f6b19d7b1682e2bfc3270bcf905f"
+    },
+    {
+      "url": "https://staratlas.com/newsroom/press-kit",
+      "status": "FAILED",
+      "error_type": "HTTPError",
+      "message": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/52243005225363-How-to-Get-Started-in-C4-PTR",
+      "source_id": "SRC-OFF-E061D3A6454697AB",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2026-06-02T16:05:16Z",
+      "content_hash": "293da8838e72b925c15bc865c25ee1b35022be39303f375328e54c847d7ca1b0"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47210147563539-How-do-I-connect-my-Ledger-in-the-UE5-Game",
+      "source_id": "SRC-OFF-F4C930CC2EBD2777",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-08T20:25:36Z",
+      "content_hash": "532a2aa83ff229fa33d719d12db3db77ae26bc2169ecb81867a69ac383b81288"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47210139556115-How-do-I-import-my-UE5-wallet-into-Backpack",
+      "source_id": "SRC-OFF-5DE1FDD0B561C11E",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "MEDIUM",
+      "published_at": "2025-12-08T20:25:35Z",
+      "content_hash": "76218861c2f1b06d4074dffa9f0768debf662cc65eb37c731b7054406f5c45c0"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47210126616979-How-do-I-create-a-new-wallet-in-the-UE5-Game",
+      "source_id": "SRC-OFF-ED7AD490CF12BFA6",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "MEDIUM",
+      "published_at": "2025-12-08T20:25:32Z",
+      "content_hash": "5a34ced5a312ebda6aa3ee239df4b820f8f4f1f83fa3ff6c2a3d241395752dd6"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47210112349075-How-do-I-connect-my-existing-wallet-to-the-UE5-Game",
+      "source_id": "SRC-OFF-05CC4589C03B3475",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-08T20:25:31Z",
+      "content_hash": "2d0162bf2ab03842e3465d26dbfc4e48416df4c2a67da2aa87e534621af04f73"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47210126275347-What-is-the-Star-Atlas-UE5-Game",
+      "source_id": "SRC-OFF-0E22684F68D016E0",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-08T20:25:29Z",
+      "content_hash": "ac83e6659fd80b8a5d838c8c8944bcc3ba9bca1edce52201d37390313fc819f9"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47210130041875-What-ships-can-I-fly-in-the-Star-Atlas-UE5-Game",
+      "source_id": "SRC-OFF-3767A165D63DF723",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-08T20:25:24Z",
+      "content_hash": "032a8c70f6ab1e13343e157c4c3dc26d1ae1d4d599ae01a0f15d2e92fa581d48"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47061504320275-How-to-manage-your-active-orders",
+      "source_id": "SRC-OFF-7A4EBB356B1E7BF1",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "MEDIUM",
+      "published_at": "2025-12-03T17:02:17Z",
+      "content_hash": "a8c43e0a41338d114f82b9d79f73e02c97f19b8de52a24182a036e2d4064b9c0"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47061480208915-How-to-Create-a-Buy-or-Sell-Order-on-the-Star-Atlas-Marketplace",
+      "source_id": "SRC-OFF-1EE2242A6F7844FF",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-03T17:02:16Z",
+      "content_hash": "4ea0ba207648ac17ba9e48eea13ab82273a90c161d25ffed81830531c53c1eb2"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47061466446099-How-do-I-buy-an-item",
+      "source_id": "SRC-OFF-8EAE98F8F7712E82",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-03T17:02:15Z",
+      "content_hash": "6b6a97e7c7ab1d043ead84f6f3f9cd731c910a3d43538cb01b989f7786560a57"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47061479995283-How-do-I-sell-an-item",
+      "source_id": "SRC-OFF-E9EF08EB073BEDD6",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-03T17:02:14Z",
+      "content_hash": "328e5ebaacb8e62eea30e6d474280f74336242ddf41cc8034a9456da236d34ea"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47061466167827-Marketplace-Fees-and-ATLAS-Locking",
+      "source_id": "SRC-OFF-B38AFD8A2122994F",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-03T17:02:14Z",
+      "content_hash": "a17ded948da4b9fe4fb6c06c4c99ce870f4e132e96a40ec083331cfff7b75d49"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47061449236627-What-are-collectibles",
+      "source_id": "SRC-OFF-9D838688CE7692B2",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-03T17:02:13Z",
+      "content_hash": "69cb296cc7e8e34517a90d9186cd2ffeaa4727de8419d978167d5b20f1b26d47"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47061465761555-What-are-structures",
+      "source_id": "SRC-OFF-64B7DF6E3AD0E36C",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "MEDIUM",
+      "published_at": "2025-12-03T17:02:12Z",
+      "content_hash": "01ee22eb4da71452c3ba6003c1ea38ba7a8f18912c625ced00c391e8e7acacbf"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47061503229587-How-does-a-Star-Atlas-player-benefit-by-using-Jupiter-aggregator",
+      "source_id": "SRC-OFF-23BCB996AAE5DEA0",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "MEDIUM",
+      "published_at": "2025-12-03T17:02:11Z",
+      "content_hash": "65b264330c7b7b17d40b2c336e828aacd8f47a571550b9743cf38adafde8b9a2"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47061486871571-How-does-Jupiter-work",
+      "source_id": "SRC-OFF-E0B18BA53BE669C8",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "MEDIUM",
+      "published_at": "2025-12-03T17:02:10Z",
+      "content_hash": "2ae1b70fc21ed213730fda965bf3342ca708399ea315c500db9bb6b4af3b7f91"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47061479182867-What-is-Jupiter",
+      "source_id": "SRC-OFF-6ED05065C68E4947",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "MEDIUM",
+      "published_at": "2025-12-03T17:02:10Z",
+      "content_hash": "e5c73525e0e3fd05bd8f971a7dcca8632cb32af2aec2e17eedf6060ce3acf328"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47061486331795-How-do-I-claim-rewards",
+      "source_id": "SRC-OFF-27E4FE1DA4DC69D7",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "MEDIUM",
+      "published_at": "2025-12-03T17:02:07Z",
+      "content_hash": "48f1e296983ac848e38a4f9ca243415139175c1a6ee68de6dd16e6421ea253aa"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47061478639763-How-do-I-withdraw-my-Claim-Stake-from-Faction-Claims",
+      "source_id": "SRC-OFF-3C54D3AF9675D4AF",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "MEDIUM",
+      "published_at": "2025-12-03T17:02:07Z",
+      "content_hash": "35c857b2b863c46e5dc456d45c7a890be369c6ebbfa824dc60f86a8e5cbf56b8"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47061471152915-What-are-Star-Atlas-Claim-Stakes",
+      "source_id": "SRC-OFF-1AFD97FC4E315273",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-03T17:02:06Z",
+      "content_hash": "e267bac231c30fa7dd5d1f34c01d8e0c3afccb5c4b2adb01503dd41469634e83"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47061470949267-What-is-the-reward-for-enlisting-a-Claim-Stake",
+      "source_id": "SRC-OFF-674D5FD2E8A89D9B",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-03T17:02:05Z",
+      "content_hash": "b1f106b174fb4e36705775216442071b59447e47223bab23ed43d75726421d61"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47061501855251-What-is-the-production-capacity-of-a-Claim-Stake",
+      "source_id": "SRC-OFF-FBD99B79F9DD0637",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "MEDIUM",
+      "published_at": "2025-12-03T17:02:04Z",
+      "content_hash": "5d1e9b374b41774103f846e5a9444e953a3bac8fb5fb42df9a250e4f33298ccd"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47061470550675-How-to-Enlist-Claim-Stakes-in-Star-Atlas",
+      "source_id": "SRC-OFF-DFB2C89AA6D125C5",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "MEDIUM",
+      "published_at": "2025-12-03T17:02:03Z",
+      "content_hash": "17fdac800f94c3f4764ca7f45e91f0ebd270051556e877a749b29c6375c4b3c1"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47061484838803-Will-I-be-able-to-choose-a-profession-in-Star-Atlas",
+      "source_id": "SRC-OFF-6FB2232270EDDAA1",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-03T17:01:59Z",
+      "content_hash": "dbace328a86e3a21247e1455a39c05d3f200222d1fd9e8c8d32c9380939ee6db"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47061447062803-What-is-a-faction-and-how-to-join",
+      "source_id": "SRC-OFF-3C5A5254EAC9E639",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-03T17:01:59Z",
+      "content_hash": "b592b793a8c7ec09ada8818aca08a41fcae7ba11975bfed3259a5fd4451eb151"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47061462878355-How-to-Buy-ATLAS-and-POLIS-Tokens",
+      "source_id": "SRC-OFF-B7F11CD1E84CA317",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-03T17:01:57Z",
+      "content_hash": "f53f9657e3b186fff43c468782549756916f4b39326019576597174f9813b9a4"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47061500226323-What-is-a-Solana-Wallet-and-how-do-I-get-one",
+      "source_id": "SRC-OFF-7120B37A2981335D",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-03T17:01:56Z",
+      "content_hash": "ce57ffc7f464d910d56c686a9e225a7b663ba9b41db22bb9af671b3b65899b82"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47061462742163-What-is-SOL",
+      "source_id": "SRC-OFF-096C3D09D2F1D2C2",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "MEDIUM",
+      "published_at": "2025-12-03T17:01:56Z",
+      "content_hash": "25e335d3ce602e2edfc3e20e3b3407433bdea9dc31cc4bf2f23764074699afcd"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47061462429843-What-is-a-crypto-wallet",
+      "source_id": "SRC-OFF-9B647EF49E49FB58",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-03T17:01:55Z",
+      "content_hash": "fd9d96a084fe173f74ee98abcfcd9d16dbd6f0b71af41db0135fee4a0fa17d1c"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47061469156883-How-do-I-join-the-Star-Atlas-community",
+      "source_id": "SRC-OFF-229871D015FAA800",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "MEDIUM",
+      "published_at": "2025-12-03T17:01:54Z",
+      "content_hash": "6df15b8dbc88fd8b8190ddd675320871b366e985da29f345adc2db877f6cef25"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47061432400403-What-are-ship-components",
+      "source_id": "SRC-OFF-C382E9B30652DDBA",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-03T17:01:52Z",
+      "content_hash": "aaa349d900ad7d5b6fb71ca9b52407b399a25dbee6e89ca437086d8233deec28"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47061468634771-What-are-rarity-traits",
+      "source_id": "SRC-OFF-28FD08D8C041C9DA",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-03T17:01:51Z",
+      "content_hash": "705167afa4a516ad6abd181598ff8927eb77ec262ac59379c1d2a9f99fe12576"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47061468418835-How-to-Connect-a-Ledger-to-Your-Solana-Wallet",
+      "source_id": "SRC-OFF-0C0365583D4B60FB",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-03T17:01:50Z",
+      "content_hash": "466c7b2ddab95f8332686c74bd1163acad9493a35bc36f9551986607d7319702"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47061431907475-How-to-Transfer-a-Solana-Wallet-or-Address-to-Another-Wallet",
+      "source_id": "SRC-OFF-0CD11E0E506A5BFC",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-03T17:01:49Z",
+      "content_hash": "755ceb39689eb970f1c7d0b7d6fd7001a36140bf2eb1ed13a818b6455e4bef72"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47061415578259-What-are-Crew",
+      "source_id": "SRC-OFF-C550641C23773119",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-03T17:01:48Z",
+      "content_hash": "b007615fe85899e3efdf60771d1103edc88efc24229829bf7b88e7a45fba056c"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47061415287571-What-Are-Resources-in-Star-Atlas",
+      "source_id": "SRC-OFF-FF570FFF4150E6A2",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-03T17:01:46Z",
+      "content_hash": "55c924a5bc2530cadd955470d3f8c143d3a150d705c21254c708e5805b429e0e"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47061467575571-How-to-Fund-Your-Wallet-with-SOL-to-Play-Star-Atlas",
+      "source_id": "SRC-OFF-5008A83ECD9C48EC",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-03T17:01:45Z",
+      "content_hash": "8d36462b79ac75f4a40ce4939feef9c9b402184c8311838ea4847e0a3d7a403c"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47061414989843-How-to-Earn-POLIS-in-Star-Atlas",
+      "source_id": "SRC-OFF-E6B4CD3C8CC15371",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-03T17:01:44Z",
+      "content_hash": "91cba8cfe6ed69a9f0dfe66bac576b1e5201c8b720835d100c01e9c77e252b51"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47061460246163-How-to-Earn-ATLAS-in-Star-Atlas",
+      "source_id": "SRC-OFF-3CAA5C3F438BBA22",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-03T17:01:43Z",
+      "content_hash": "36eeac58572675456922dd591ea99c9b08d12a7a9f5b9ff47549a16a608e143a"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47061466931219-What-s-the-Star-Atlas-Roadmap",
+      "source_id": "SRC-OFF-ECA45CEC453E8364",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "MEDIUM",
+      "published_at": "2025-12-03T17:01:41Z",
+      "content_hash": "dda7c52a60da0953163330a6d363202c5e03303e764e09ebf092300dd326d995"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47061399470995-How-to-Buy-ATLAS-and-POLIS-in-the-Star-Atlas-Marketplace",
+      "source_id": "SRC-OFF-D81D250D1E34A25A",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-03T17:01:39Z",
+      "content_hash": "0b65df54c4fd371fabbf0b0216d3e359c48396aefe0e8ac38173911ebdd03512"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47061458942995-What-blockchain-is-Star-Atlas-building-on",
+      "source_id": "SRC-OFF-419B0D2BAC24A9CD",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "MEDIUM",
+      "published_at": "2025-12-03T17:01:36Z",
+      "content_hash": "c973072c759968e3e0bd2f07558480cf19fd86c8398ce2116841372cc16e55b2"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47061458507795-What-is-a-metaverse",
+      "source_id": "SRC-OFF-B97303EC3962DFAD",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-03T17:01:34Z",
+      "content_hash": "ba493c2f1f437b905c274dd7f95a5112d57afa23f654671a2f664b5f2ee28dbf"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47061412844947-When-is-Star-Atlas-going-to-release-a-full-game",
+      "source_id": "SRC-OFF-FED32042E37BFB38",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-03T17:01:32Z",
+      "content_hash": "0a8b3655a55f16dac8235037018a0e290110a778dae67c37c0bcf421da663bf6"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47061441203091-How-will-land-claims-and-mining-work-in-Star-Atlas",
+      "source_id": "SRC-OFF-D35D412DB78A8641",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-03T17:01:31Z",
+      "content_hash": "5506a0017d608e32583a5b3cc98a98b8ce248a3c6c2decbf392694dd17129168"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47061441609235-How-do-I-create-a-Star-Atlas-player-profile-in-PLAY",
+      "source_id": "SRC-OFF-C81D51BDAC31D7EA",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-03T17:01:30Z",
+      "content_hash": "ed76788c31b1d67f11425ddee8bc2041fdd80c75b786b66673ad840065821ca6"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47061455306131-Getting-Started-with-Star-Atlas",
+      "source_id": "SRC-OFF-1CEBF63F67BBD918",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-03T17:01:28Z",
+      "content_hash": "b679f51d57d9e79ccffdf7558960b4ff6fb80534f6712e0c8a70cd14766f076c"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47061454830099-What-are-in-game-zones",
+      "source_id": "SRC-OFF-33EB7E4F547E8501",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-03T17:01:26Z",
+      "content_hash": "18842a09056969c6b8652fe4d0a267cbae0026b579f3dab8ea068964a57f2052"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47061439814547-What-are-the-Star-Atlas-tokens",
+      "source_id": "SRC-OFF-E6314609D04235FE",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-03T17:01:24Z",
+      "content_hash": "ca86d372d934a766519b787b5b4b7b478c9a26ed887e733e79ee37d5897144fd"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47061423487379-What-is-play-to-earn",
+      "source_id": "SRC-OFF-F36B881D3997AD36",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-03T17:01:23Z",
+      "content_hash": "c75d5147ed28ad3a65fb31c9e0637f957f306fa107a8da52321aaf589465fbde"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47061454286867-What-are-NFTs",
+      "source_id": "SRC-OFF-E505A7F5A50C1B52",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-03T17:01:22Z",
+      "content_hash": "7eb536a412b2e1bd17d1ca85120f4ff1d02ed97ff7dab00dc2122df045a1f661"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47057429296787-How-to-Enlist-a-Ship-in-Faction-Fleet",
+      "source_id": "SRC-OFF-7D74702BDE1CE3DA",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-03T15:14:37Z",
+      "content_hash": "128a611b07fd054e71e8a9434169bf3f7e3c27f5aa50825c1e548612fca6d423"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47057412966035-What-is-the-reward-for-enlisting-a-Ship-in-Faction-Fleet",
+      "source_id": "SRC-OFF-8D764B8E4E2A0E2F",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "MEDIUM",
+      "published_at": "2025-12-03T15:14:35Z",
+      "content_hash": "9c26ccd3066e5adc58f73d656f5d974cfda951b0c7f372e9b4e6c9cbc7921676"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47057433144851-What-is-Faction-Fleet-in-Star-Atlas",
+      "source_id": "SRC-OFF-F05B48E5CEE409BA",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "MEDIUM",
+      "published_at": "2025-12-03T15:14:31Z",
+      "content_hash": "8d686ca331ebd942875e1fd44c2f56c8fc5a1c33a953128ab0a9a3e42f2ccd77"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47057428605331-What-are-Star-Atlas-ships",
+      "source_id": "SRC-OFF-F31A03A826213BF7",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-03T15:14:30Z",
+      "content_hash": "e01dae6839fb43921fc46ab2d874241f01d0695f5a1a6c7f1805a71288ec2744"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47053503890579-What-are-Local-Markets-in-Sage-Labs-Starbased",
+      "source_id": "SRC-OFF-1206858B54C3E67E",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "MEDIUM",
+      "published_at": "2025-12-03T13:17:12Z",
+      "content_hash": "34b1e2f9d62a3b6ae8f8c2641215e01260f45fbc8762ed3763bd8c223bdab65f"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47053489014803-How-do-I-Mine-Resources-in-Starbased",
+      "source_id": "SRC-OFF-527949C216ECEDEE",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-03T13:17:10Z",
+      "content_hash": "c9dab94330dc5259eb224d7254264ef1ab7a9d335bb4d96422d6546669eb99ae"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47053520114963-Upgrading-and-Maintaining-Starbases-in-Starbased",
+      "source_id": "SRC-OFF-EF4F170FCDBC4B94",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "MEDIUM",
+      "published_at": "2025-12-03T13:17:09Z",
+      "content_hash": "b8807ea8bf7348adbf49f25f6a28ca32cfc88dfd1ca31722d3c69d00796d3db1"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47053488955667-Crafting-Items-in-Starbased-What-You-Need-to-Know",
+      "source_id": "SRC-OFF-9181BEEEF9F2F96C",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-03T13:17:09Z",
+      "content_hash": "1802e97306b0fc9401d3d04c9561adbf7fcaed654e834c148520324c1ac3bba6"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47053520025747-How-to-Scan-for-SDUs-in-SAGE",
+      "source_id": "SRC-OFF-D1961379033AAEE1",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-03T13:17:08Z",
+      "content_hash": "611c716a69054c9908330792a06bf594016205dbd582d252c5459b47373642f2"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47053512390803-What-is-Sage-Labs-Starbased",
+      "source_id": "SRC-OFF-A6A4A97A9D09AA1E",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-03T13:17:03Z",
+      "content_hash": "967b63fdb141fd012c79c5f5a684d6ef4ab8ee415be55ca5c2c008d58558af06"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47053519496083-How-to-Dock-Undock-Your-Fleet-in-Sage",
+      "source_id": "SRC-OFF-3E660B0FDC1AF7CA",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "MEDIUM",
+      "published_at": "2025-12-03T13:17:00Z",
+      "content_hash": "c8139888ec7e7c4b9ddd6ef77b1537d3ccff4f8902e24edbd3cb679a358fa545"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47053502923667-What-are-LP-Loyalty-Points",
+      "source_id": "SRC-OFF-2F5BB71C2BA09657",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-03T13:16:57Z",
+      "content_hash": "2e71b0dfb8fb80afde5a7159738b69cf8b4f3a14d0845cd08cdd8d10b49d78f9"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47053523972883-How-to-enable-Atlas-Prime",
+      "source_id": "SRC-OFF-8346008176FB13C8",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "MEDIUM",
+      "published_at": "2025-12-03T13:16:56Z",
+      "content_hash": "24e8a86f938a8ea1f19134a3267b94b500539097ae9a0a0308a1c9cb789d18ad"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47053502502931-How-to-Import-Crew-Members-into-SAGE",
+      "source_id": "SRC-OFF-B0DF140E00EB2196",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-03T13:16:51Z",
+      "content_hash": "c5781705a8ed978417d04e5bbfa4317b15ec736f62b19baa1c1ea4252b188829"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47053532039571-What-community-created-tools-and-resources-are-available-for-SAGE-Labs-players",
+      "source_id": "SRC-OFF-FD1A85930C740204",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-03T13:16:48Z",
+      "content_hash": "402c4dfd0a0cddf71d4c6d88d7e8602ddc5983ae3bba890da7442a749869bb06"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47050850825363-How-do-I-form-a-fleet-in-Holosim",
+      "source_id": "SRC-OFF-C38C56C97A26AB91",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "MEDIUM",
+      "published_at": "2025-12-03T11:17:38Z",
+      "content_hash": "0caafb5f2c285b748dcb2def7b74608778d9076e8c57f7bc100b06058f536614"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47031387314195-How-do-I-start-quests-in-Holosim",
+      "source_id": "SRC-OFF-EC1007E4869C790B",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "MEDIUM",
+      "published_at": "2025-12-02T19:07:25Z",
+      "content_hash": "7642d034c5ff7ae2362dbaef686a049a7e3bf751f0577da8b3267007e7cc14ab"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47031371565971-Can-I-continue-my-Holosim-game-on-another-browser-or-PC",
+      "source_id": "SRC-OFF-7C434B73A808D5E7",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "MEDIUM",
+      "published_at": "2025-12-02T19:07:24Z",
+      "content_hash": "3628a9ca3a4a3a2c88610bfae81bdc342928184b337112993aca4f56b4bbc8ad"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47031402157331-What-types-of-quests-exist-in-Holosim",
+      "source_id": "SRC-OFF-7E2651A64522DACE",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "MEDIUM",
+      "published_at": "2025-12-02T19:07:23Z",
+      "content_hash": "6c7d81f88acf7173383393160b44add323f4edfe96521417b9c3b6ec96089721"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47031355091603-How-do-I-save-my-progress-in-Holosim",
+      "source_id": "SRC-OFF-9A02CD416A9E0A34",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "MEDIUM",
+      "published_at": "2025-12-02T19:07:23Z",
+      "content_hash": "730ca0af0fe37153eaaa64a7893fa8330a09103243f424262821d95aba14283c"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47031364775827-How-do-I-create-my-character-in-Holosim",
+      "source_id": "SRC-OFF-92912CC09853EF08",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "MEDIUM",
+      "published_at": "2025-12-02T19:07:21Z",
+      "content_hash": "933457c5ce623ac16c1f4797fe40caafdffc5e5ce5b8e4984428ed5a2b79dd92"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47031386316819-How-does-combat-work-in-Holosim",
+      "source_id": "SRC-OFF-0BFA050EF12E2E17",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-02T19:07:17Z",
+      "content_hash": "974c0cff79b31a132de652a063cc13f9b218e5a1a81c81ef2e831db4227b2973"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47031385752211-What-is-zATLAS-in-Holosim",
+      "source_id": "SRC-OFF-0449B94A36A8B803",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "MEDIUM",
+      "published_at": "2025-12-02T19:07:12Z",
+      "content_hash": "13d419de120ce8df559add0605d8ac32c64a985e5dac26c0817dff687336d375"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47031385678611-What-are-Starbases-in-Holosim",
+      "source_id": "SRC-OFF-C97D8D6F62B7D1B7",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-02T19:07:12Z",
+      "content_hash": "76d0cb66fe8d8f26e1cde66f6c158ece76b911a75c224369032a07dbb55c0e63"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47031333660563-How-does-automation-work-in-Holosim",
+      "source_id": "SRC-OFF-854CB512DFE80EA1",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-02T19:07:11Z",
+      "content_hash": "35f379d9714a1744acf54ffda22d532d25e4d78fbc7296fee0835ac41116a4cf"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47031348688275-How-do-I-manage-my-fleets-in-Holosim",
+      "source_id": "SRC-OFF-4D11337D80379C85",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "MEDIUM",
+      "published_at": "2025-12-02T19:07:10Z",
+      "content_hash": "f2cde62f07bab35f22350ebbdac961db68fe09df9db3da5c1c8712a7d16b82d0"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47029053074835-What-Are-Fleet-Rental-Fees",
+      "source_id": "SRC-OFF-F6BFD210BB78F1B3",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "MEDIUM",
+      "published_at": "2025-12-02T18:09:24Z",
+      "content_hash": "8fdd3612f09d85bdc1c8ddc1982fe42f234b6224c42b8600d422d9acc23a95ce"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47028985877907-How-Do-I-Rent-Out-My-Ships-in-Star-Atlas",
+      "source_id": "SRC-OFF-671EF3C385D75F64",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-02T18:09:23Z",
+      "content_hash": "ff2794367da1ddd2e95d5f4ae3552917fb47b2b81f5325cec1a2473e4188bac6"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47028993524499-What-Happens-If-a-Fleet-Is-Rented-Without-Fuel-or-Ammo",
+      "source_id": "SRC-OFF-0A102A194CADD521",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "MEDIUM",
+      "published_at": "2025-12-02T18:09:21Z",
+      "content_hash": "31c342ab108abd8e52b3fb1d045d1e5690810efbc9ff203f9aea19a8fa1b0f77"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47029000884883-How-Is-Payment-Handled",
+      "source_id": "SRC-OFF-FF9C3616DFC41388",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "MEDIUM",
+      "published_at": "2025-12-02T18:09:19Z",
+      "content_hash": "8b0c027110a131d1c1b5859971328da5ce4645adf299bbd8614f28c9c3aadd2b"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47029006311059-What-Happens-If-a-Renter-Disappears-or-Loses-Their-Wallet",
+      "source_id": "SRC-OFF-032B4723627B456C",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "MEDIUM",
+      "published_at": "2025-12-02T18:09:16Z",
+      "content_hash": "caf7b9cf02942cfc7c8f8ce18c77f61d3b0d44888b11ff00c78c4462c0413234"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47028984667667-Can-I-Cancel-a-Rental-Early",
+      "source_id": "SRC-OFF-137411269AFC6A24",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "MEDIUM",
+      "published_at": "2025-12-02T18:09:13Z",
+      "content_hash": "eb366db8f86bd48a4d6a5d6ef2817277c0fb301878dfbdaa53b2706e40260cff"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47028951579667-How-Do-I-Rent-a-Fleet",
+      "source_id": "SRC-OFF-0DD935082DF1090F",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-02T18:09:10Z",
+      "content_hash": "dd7a6ed1494306c8af42b10a3edb0653126125e43e4fd7c07b39be6a9b5b3cc4"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47027594011923-What-s-Coming-for-the-DAC-Platform-in-Star-Atlas",
+      "source_id": "SRC-OFF-D54B8742891B39BD",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-02T17:34:46Z",
+      "content_hash": "88d40653cfcf291bfeb27faac6f39440b076f13c0db507f7952e4806943fa332"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47027564007059-How-to-Join-a-DAC-in-Star-Atlas",
+      "source_id": "SRC-OFF-6F7F7BF686064526",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-02T17:34:43Z",
+      "content_hash": "e2348cd91470a4a6ff3c6006a013393fd44bff0f2fcbe33ca292cddf0855d15f"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47027531542547-How-to-Register-Your-DAC-in-Star-Atlas",
+      "source_id": "SRC-OFF-F2037ECDC1494C46",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-02T17:34:41Z",
+      "content_hash": "53abeb26eb6397e8efdc7ebb588bdfeb7042936a6b654d98660a3911c2ce0e49"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47027536110739-What-is-the-DAC-Platform",
+      "source_id": "SRC-OFF-5326920AFE5D0592",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-02T17:34:40Z",
+      "content_hash": "e3a61083368cd4cc8f03266256f51323be42ee30b481709a2d5405e88293ca8e"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47027519932691-What-is-a-DAC-in-Star-Atlas",
+      "source_id": "SRC-OFF-4E9E0D35A253DF51",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-02T17:34:39Z",
+      "content_hash": "ae05723b74c6f2a099ab174b1e3bbbd64f2e8eead7666385ff0dd9ea2521a169"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47021309411859-How-to-lock-your-Polis",
+      "source_id": "SRC-OFF-45B0F6196BC7966E",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-02T15:04:09Z",
+      "content_hash": "1e91b32c23d00e171dab5be2192b4fd7ad7e02b4bb57f061707591a5c8623055"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47021309214867-What-is-PIP",
+      "source_id": "SRC-OFF-68CBB7E8522D8A74",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-02T15:04:07Z",
+      "content_hash": "0c54203ad60376e9dd6a3af277a2eaba62960d8a95ae7bbd4b23e47f623a87ce"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47021326216851-How-does-the-ATLAS-locker-work",
+      "source_id": "SRC-OFF-A5D64DE1191E1208",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-02T15:04:06Z",
+      "content_hash": "0d21a1f7a9b9b4f68f6baad6e58584f9abf98d3cd9bcc65956c3a733c75fb0d1"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47021259873299-How-are-DAO-locking-rewards-calculated",
+      "source_id": "SRC-OFF-69C74ED09DCF4088",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-02T15:04:05Z",
+      "content_hash": "ae9dc12df4fe3cec3e0592dd9e4a1b95e1617bef4aad2c84a6d9e5b880fae537"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47021308545171-Why-do-I-need-SOL-to-lock-tokens",
+      "source_id": "SRC-OFF-7DA438676F8CE583",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-02T15:04:03Z",
+      "content_hash": "d239452e3609dad91ca9924e06c15ae6c340a97397ba7b81b8f2505cd901bf7f"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47021308457747-What-is-the-Star-Atlas-DAO-Treasury",
+      "source_id": "SRC-OFF-BFA6D14D54A9AA6A",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-02T15:04:02Z",
+      "content_hash": "7cc222df0d91d52dc72918612e7c4ebd5fb99592d3e0be8bff662782b364f8d6"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47021259192467-How-are-POLIS-locking-rewards-calculated",
+      "source_id": "SRC-OFF-2A076CDCA845BB86",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-02T15:04:00Z",
+      "content_hash": "4dc41a228f6ab154c45841dc403c1f477815e5be6a2aca30000f0c46a89e59d6"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47021307964819-What-is-the-Star-Atlas-DAO",
+      "source_id": "SRC-OFF-7A4C3924BE52B1A6",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-02T15:03:58Z",
+      "content_hash": "171ee58a15b5d4882e66b8a43a8e576c6ceb810cdaeee32a64b9ff6a58d35b20"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47021293641491-How-does-POLIS-locking-work",
+      "source_id": "SRC-OFF-35ABC47FBF297A8A",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-02T15:03:58Z",
+      "content_hash": "5be7b846f1220dca6c39fadd4dee04932acdcab6d0ed22dd9cb2321f3ecc5ed2"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/52244580822419-C4-PTR-Menu-Overview",
+      "source_id": "SRC-OFF-02F1D8A8DA169206",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2026-06-02T16:45:30Z",
+      "content_hash": "79ca15364ecc73b0415cae14634829704e73193318f2692adae33487f5a8931e"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47210147319443-What-s-coming-next-for-the-Star-Atlas-UE5-Game",
+      "source_id": "SRC-OFF-2E975D439DBCF20C",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "MEDIUM",
+      "published_at": "2025-12-08T20:25:34Z",
+      "content_hash": "da8f8f34b614ca4200d7ca356bbc1d64ca035bce5b9356d234907d714c2affd1"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47210146746899-How-do-I-access-the-Star-Atlas-UE5-Game",
+      "source_id": "SRC-OFF-EA72DB41419EB7A3",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "MEDIUM",
+      "published_at": "2025-12-08T20:25:29Z",
+      "content_hash": "6afa9c6c47fe140d1618c4ba079ffd4cc2e4877d8316146f25103652665fd76e"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47061399229331-What-is-Star-Atlas",
+      "source_id": "SRC-OFF-79F7FFA485E5BFC2",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-03T17:01:38Z",
+      "content_hash": "85720b876539419273b566a9d09e070d38d35d3048c63073f90c55448ee49447"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47057449326355-Why-can-t-I-enlist-my-ship",
+      "source_id": "SRC-OFF-9215EB0D04AE77F8",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "MEDIUM",
+      "published_at": "2025-12-03T15:14:40Z",
+      "content_hash": "0054a7f9871dc4578fa810c3564981adb7a04c6c358ccb2069db28caffe82e68"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47057448873619-How-do-I-claim-my-Faction-Fleet-rewards",
+      "source_id": "SRC-OFF-6F3376857CE48236",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "MEDIUM",
+      "published_at": "2025-12-03T15:14:34Z",
+      "content_hash": "2ff63fda28872e8e0928fed8a90d9e0bcacb4531a6ed2693ce7729be242b295b"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47053533981203-How-do-I-purchase-or-sell-an-item-in-SAGE",
+      "source_id": "SRC-OFF-DB4057D863B6BB7B",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-03T13:17:13Z",
+      "content_hash": "73813d34ebaef2c1de62cbfcebbfc2aae8960468e0d3a78a39da023e3e42cc94"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47053533098387-How-to-start-playing-SAGE",
+      "source_id": "SRC-OFF-C6773EB8AD8C3A16",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-03T13:17:01Z",
+      "content_hash": "5724cfaf072f701c30736cf71832691b922e80158006f8ac750545d6bc1814bc"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47053503072659-How-to-Warp-Subwarp-in-Starbased",
+      "source_id": "SRC-OFF-CB82A1B778C57ED7",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "MEDIUM",
+      "published_at": "2025-12-03T13:16:59Z",
+      "content_hash": "df6f3d8170bb4ed96cbede9e8684491c2c139bba120635964bc02c6d67d4f468"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47053502396563-How-to-Use-Crew-Members-in-SAGE-for-Ship-Operations",
+      "source_id": "SRC-OFF-3D9435B57A6B6E1A",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-03T13:16:50Z",
+      "content_hash": "3ec539c4cf4d6b3061baa4e9acafa98d4402b9c625ab8ce39a4aaff83468c7ef"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47031354558227-How-do-I-play-Holosim",
+      "source_id": "SRC-OFF-0B296BC2BA36B3D6",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "MEDIUM",
+      "published_at": "2025-12-02T19:07:19Z",
+      "content_hash": "18b55e37aacb72b56ce6e00871d9f1d7d735ed5ea9356ea515e7cdef52e324a7"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47031364454035-When-am-I-safe-from-attacks-in-Holosim",
+      "source_id": "SRC-OFF-61C2E976FF41FD91",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "MEDIUM",
+      "published_at": "2025-12-02T19:07:18Z",
+      "content_hash": "8ef40c49e2ebb8cfeca1734f5017af3d82bc295e60b8bcbfc18de6ed107e6c75"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47029007013651-What-Are-Fleet-Scores-in-Fleet-Rental",
+      "source_id": "SRC-OFF-88D5E291890076FD",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-02T18:09:22Z",
+      "content_hash": "d1f4c7ce7b5399f4826d9457967ec48dec9c228fd5a731b316cc84ef1ecee36c"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47029006892051-Can-I-Rent-a-Fleet-With-No-Crew",
+      "source_id": "SRC-OFF-7D67A0C21FF6CA05",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "MEDIUM",
+      "published_at": "2025-12-02T18:09:21Z",
+      "content_hash": "09abacbc1eecc95804f840fd6b52e2ba9947d86e2a8c3b0c424d7622036fe510"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47029019604115-Can-I-Cancel-a-Rental-Once-It-s-Active",
+      "source_id": "SRC-OFF-CB741B9A3E4E7104",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "MEDIUM",
+      "published_at": "2025-12-02T18:09:17Z",
+      "content_hash": "56a3dff5593c5a6d6097297f8ff41dbbfbb01ef4a7f0ea8c732ab5cb07f59152"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47027564111763-How-to-Report-a-DAC-in-Star-Atlas",
+      "source_id": "SRC-OFF-1DE2A3F4B9BB117C",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-02T17:34:44Z",
+      "content_hash": "719c7695ac14de70dd4f40f40e25037daebf0fcf8e48dd88a2111e3b1b9050ea"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47021310448531-DAO-Treasury-Help-Page",
+      "source_id": "SRC-OFF-3B56F80661EC7068",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-02T15:04:06Z",
+      "content_hash": "0d4d85c1e1841a8249c99a243a9029677afbdb762ea2b38ba40675fa709e80e3"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47021308339987-How-do-DAO-proposals-PIP-work",
+      "source_id": "SRC-OFF-4F4F51E8572B49C7",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-02T15:04:02Z",
+      "content_hash": "39b5bdc11f85dde1e238099bc429f5ce56f6bb298e5caaa235205e81e76abfb5"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47021259103507-How-does-the-Star-Atlas-DAO-work",
+      "source_id": "SRC-OFF-E4ED405826A89D9B",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-02T15:03:59Z",
+      "content_hash": "eec6f12a0179c83e49b362777d78b8191390aae948c0f545e52c9921d2d81fe3"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/52243941755923-How-to-Use-the-C4-PTR-Map",
+      "source_id": "SRC-OFF-5648276C58CD3600",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2026-06-02T16:28:01Z",
+      "content_hash": "887fa642c05558ab34ae6b5b438a4a9db468a8900c23874b6d8708b2a08b60be"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47210147406483-How-to-Redeem-Your-Star-Atlas-How-to-Redeem-Your-Star-Atlas-UE5-Game-Key-Game-Key",
+      "source_id": "SRC-OFF-542DEEE0FB7F90C2",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "MEDIUM",
+      "published_at": "2025-12-08T20:25:35Z",
+      "content_hash": "12cb60d3a724e483962c518945ffe4d5510f1756aa8600f2bbafe7da2395d26c"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47210125921811-Can-I-Buy-Ships-Directly-in-the-Star-Atlas-UE5-Game",
+      "source_id": "SRC-OFF-BE6BD1DC05B4F3F6",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "MEDIUM",
+      "published_at": "2025-12-08T20:25:25Z",
+      "content_hash": "c916306411ba3aebcb056ccb01a112a0ab97a94c11ca828e4ce25bbb489a28e4"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47057449110675-How-Do-I-Withdraw-My-Ships-from-Faction-Fleet",
+      "source_id": "SRC-OFF-15568A1F07385E5A",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "MEDIUM",
+      "published_at": "2025-12-03T15:14:38Z",
+      "content_hash": "1b68d5caa7963786c0834c1b9ebd8d2e92864a46b4d68f29a694353f22068e20"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47057412823571-Do-all-my-resources-need-to-be-above-0-to-receive-ATLAS-emissions",
+      "source_id": "SRC-OFF-31C9A684FD37FA07",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "MEDIUM",
+      "published_at": "2025-12-03T15:14:34Z",
+      "content_hash": "638176a9b34713e1bf23958659d34f119b7fd9cc1e5214a400bb13ac235c3581"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47053525126419-How-do-I-create-a-buy-or-sell-order-in-SAGE",
+      "source_id": "SRC-OFF-B4C5F178762DC6F4",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-03T13:17:12Z",
+      "content_hash": "38f6af492946576e723bb41030d690dedc0e11df0b27e148214d06db34295418"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47053488533907-How-to-Create-a-Character-in-Sage",
+      "source_id": "SRC-OFF-F846A4C9BCA4D2AA",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-03T13:17:03Z",
+      "content_hash": "56ff650484e15821b8a95ae4aeab36b0b2f5912946d001b4d5f5253f1bdfa0de"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47053502454547-How-to-Use-Crew-Members-in-SAGE-for-Crafting-Operations",
+      "source_id": "SRC-OFF-F16EDE163D73ECE2",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-03T13:16:51Z",
+      "content_hash": "43f1f7c7842a9e5c3136ef484c89ae360d0989c63dc77fa242f2917e5a390a75"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47031349882003-What-is-the-Battle-Pass-in-Holosim",
+      "source_id": "SRC-OFF-2EB620F81DD3A4E1",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "MEDIUM",
+      "published_at": "2025-12-02T19:07:20Z",
+      "content_hash": "46481998dcd84f8e2cdc1c5f43c1ba6919f23178b07f8336cc9e62295ca7334b"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47031349414419-How-do-I-transport-crew-between-bases-in-Holosim",
+      "source_id": "SRC-OFF-579237853CBD891D",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "MEDIUM",
+      "published_at": "2025-12-02T19:07:16Z",
+      "content_hash": "700e16cb43dd02a3d998d9729348ebc8cbbd1b99d1832df77a2f0f71ffdf52a1"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47029006170259-What-Happens-If-a-Rental-Expires",
+      "source_id": "SRC-OFF-107509DD696BC573",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "MEDIUM",
+      "published_at": "2025-12-02T18:09:14Z",
+      "content_hash": "0f20a292cf4f0e9c1ee271061ac8bc80bc15eab2332f97f61ca065fdf4f0e967"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47029036279955-How-Long-Can-I-Rent-a-Fleet-For",
+      "source_id": "SRC-OFF-58CAA243BD4690DF",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "MEDIUM",
+      "published_at": "2025-12-02T18:09:12Z",
+      "content_hash": "1f3e5a1d3c4cc1fe795c61216a9f7a56c59b6e52b3ecc3220b2a6059aef3f8a6"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47028991796499-What-is-Fleet-Rentals-in-Star-Atlas",
+      "source_id": "SRC-OFF-7F41E99909FE23BD",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "MEDIUM",
+      "published_at": "2025-12-02T18:09:09Z",
+      "content_hash": "8d1586d717966056c614c3d995860fcd3d7dac585c9ccbccb244d8a5d963f8be"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47021328529043-What-is-PVP-in-Star-Atlas",
+      "source_id": "SRC-OFF-E81A9082347AF533",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "MEDIUM",
+      "published_at": "2025-12-02T15:04:11Z",
+      "content_hash": "cb019667db49f6ebf323d25f4f3f34b4137ba1ab591492c106633136a34d3d5f"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47021280362643-Is-the-DAO-secure",
+      "source_id": "SRC-OFF-84B53B1AE4084FC2",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-02T15:04:04Z",
+      "content_hash": "01b35ac7b16e2131aa985c0fe55f8434b65ee2b3763c83a67569127fae30e653"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/52243667123603-How-to-Import-Assets-in-C4-PTR",
+      "source_id": "SRC-OFF-24D1FA9D56188F71",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2026-06-02T16:21:54Z",
+      "content_hash": "66b2171d7a54f37c12f09eea8a14c51e7b7d8c4aeeb4b8a169a3dc4a5b855b5c"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47210117125139-What-are-the-system-requirements-for-the-Star-Atlas-UE5-Game",
+      "source_id": "SRC-OFF-F2DB36AA8D69DDC8",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "MEDIUM",
+      "published_at": "2025-12-08T20:25:32Z",
+      "content_hash": "b6898ed9070cd7d2efaaa411b84cd4a8bbe26bdf6866538cdf5770f0b31f91c0"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47210125869203-What-is-the-Volant-Station",
+      "source_id": "SRC-OFF-9B84BA9492C41150",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-08T20:25:25Z",
+      "content_hash": "9a4d48137508caba87b4894c5396d447151ba4cdaeec4c522fb86a24556e2697"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47061430298899-Where-Can-I-Play-Star-Atlas",
+      "source_id": "SRC-OFF-77C95E5F33593A5B",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-03T17:01:40Z",
+      "content_hash": "d4898ea30ef0673e5cb73d4e39e228b9623377e3d83ca4076e2794cd1e81e3a1"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47057445677075-Why-can-t-I-withdraw-my-ship",
+      "source_id": "SRC-OFF-80FD92B53B0F7452",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "MEDIUM",
+      "published_at": "2025-12-03T15:14:39Z",
+      "content_hash": "5783427e11ceace84016543f4059c9e917d1055f38d25cda90fac7d431c6c378"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47057413031699-Why-can-t-I-claim-my-ATLAS-from-Faction-Fleet",
+      "source_id": "SRC-OFF-BA774D181F1BEA70",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "MEDIUM",
+      "published_at": "2025-12-03T15:14:36Z",
+      "content_hash": "50efed26184cdc20dc2840aae999816d368e47136c8a87ffeb81972a7df37201"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47053533449619-How-to-Import-Resources-into-Sage",
+      "source_id": "SRC-OFF-274E23FFC1846B8A",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "MEDIUM",
+      "published_at": "2025-12-03T13:17:06Z",
+      "content_hash": "a96f235e107afbf7060b414102a9b1867cf222c39a3248d993ff8cfb33ace2ad"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47053532445843-How-to-Add-Crew-Manually-to-My-Fleet",
+      "source_id": "SRC-OFF-084B9B05C94EBDDB",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-03T13:16:53Z",
+      "content_hash": "6840813e46a4b2cb67e82f0d4353f54bf9b4b976e0c48852d708bc98fc537a0c"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47031386864659-Do-I-need-a-wallet-to-play-Holosim",
+      "source_id": "SRC-OFF-5E3C884FBE440C33",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "MEDIUM",
+      "published_at": "2025-12-02T19:07:22Z",
+      "content_hash": "0c7a16527e1cadda39305684ef82c3f68c33ea2630a06da337674bf2277c2581"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47031349283475-How-does-crafting-work-in-Holosim",
+      "source_id": "SRC-OFF-6A9A3D6A006E3C8E",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-02T19:07:15Z",
+      "content_hash": "3d8a513220729e5ed01fef5d980a9b46d4fee39ec3ac7bda21a2b5dd68e05afd"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47029037646483-Can-I-Extend-a-Rental-While-It-s-Active",
+      "source_id": "SRC-OFF-00B89A6A600890BE",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "MEDIUM",
+      "published_at": "2025-12-02T18:09:23Z",
+      "content_hash": "44a12b84d93d6921bbb32947e17a6c5d89587e38a7bcd4818555d498f4d2362d"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47028985478675-What-Happens-to-Crew-and-Resources-When-the-Rental-Ends",
+      "source_id": "SRC-OFF-D73BB61E750F9C5D",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "MEDIUM",
+      "published_at": "2025-12-02T18:09:20Z",
+      "content_hash": "36d1a1f0b0475e5fba8f90ed5e86550cc85f10d042e50cd9a55ede530a727c09"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47021328296723-What-s-the-Legislative-Process-for-the-Star-Atlas-DAO",
+      "source_id": "SRC-OFF-85A2BC7ED64B2EAC",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-02T15:04:09Z",
+      "content_hash": "a11fcf280f01c234e11f41dd346bac4b340d4f856fc66e90579e4224a14f6a1e"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47021259296147-What-Solana-programs-make-up-the-DAO",
+      "source_id": "SRC-OFF-4312E3B0005E60A3",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-02T15:04:01Z",
+      "content_hash": "f4fad708deb997b51ed7dd2896fc2ddda6bf852da1796264ecde3e8652d0ca0c"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/52251721868563-How-to-Create-and-Use-a-Fleet-in-C4-PTR",
+      "source_id": "SRC-OFF-DE76DDC4E8B8A28E",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2026-06-02T19:53:18Z",
+      "content_hash": "84e4e4e7d8406199619fbf24b7ea1dcc446d4ebbb59228a311edfb5269ce08a5"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47061430667027-What-is-Sage-Labs-Starbased",
+      "source_id": "SRC-OFF-0A646AE069AFFBA5",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-03T17:01:42Z",
+      "content_hash": "e541d2472d8398199e8415dfac6dc619ad14ec4ced91d07370285813a9479226"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47057433352339-Where-can-I-find-the-different-staking-rewards-for-ships",
+      "source_id": "SRC-OFF-4212F2396373E4E1",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "MEDIUM",
+      "published_at": "2025-12-03T15:14:33Z",
+      "content_hash": "42d8a56cb15b5f70c0c7475dbaa61b0e810d013a324fdf105bbee5264f279b11"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47053519746451-How-to-Import-a-Ship-into-Sage",
+      "source_id": "SRC-OFF-F5E8D885F87B4B27",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-03T13:17:04Z",
+      "content_hash": "443e58255346eb8b38c335f161e05d99f71b1d147f5dbde24e017d9147a086f3"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47053523886995-How-to-Transport-Crew-from-One-Starbase-to-Another",
+      "source_id": "SRC-OFF-213FD29A1BA6ABB1",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-03T13:16:55Z",
+      "content_hash": "d7252ccf9aaa6bc863fe440feb3e4cce6dcf30f71744425b8f832f0ddcc9a0f0"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47031334087059-How-do-I-mine-and-transport-resources-in-Holosim",
+      "source_id": "SRC-OFF-B263E0E5565CB9ED",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-02T19:07:14Z",
+      "content_hash": "d4438a71e121a9022ff8e3803d76805792b36cd2368f04b083e82cea3b81a8e8"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47021309325331-What-is-PIP-Deliberation-Process",
+      "source_id": "SRC-OFF-1E258CA232737785",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "MEDIUM",
+      "published_at": "2025-12-02T15:04:08Z",
+      "content_hash": "4ea22ea2eaa3e294b58304b5ef0dc9476e015d1c8d35828e71a5d3126a28e62f"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/52273962138771-How-to-Move-a-Fleet-in-C4-PTR",
+      "source_id": "SRC-OFF-707BAD732E32BEAE",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2026-06-03T13:55:53Z",
+      "content_hash": "1a643b21613cb4e3a2f8cd8a2d43a766b0d5ad02ab40e219175c7c611e4a8325"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47053488731667-Managing-Your-Fleet-in-Sage-Refueling-Rearming-and-Resupplying",
+      "source_id": "SRC-OFF-9E1CC8743E15D465",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-03T13:17:05Z",
+      "content_hash": "5f19250cc477faf13385ba7254925c5b1d84fffcd90a891fe4eeda9570ddff9b"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47053502692243-Do-Aptitude-and-Personality-Traits-Have-Utility-in-SAGE",
+      "source_id": "SRC-OFF-0DAD393CE1D6C2D7",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "MEDIUM",
+      "published_at": "2025-12-03T13:16:54Z",
+      "content_hash": "65e20a6d34e34422c1b1a0b7951e6fefbd33a4884361e3577d45dfb7667b3e80"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/52272891667987-How-to-Mine-Resources-in-C4-PTR",
+      "source_id": "SRC-OFF-952AB5D6D09DD6BF",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2026-06-03T13:23:31Z",
+      "content_hash": "80278f6d8e79838b07ef3a94721ad1457be6613134dbe505464ed733d396802b"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47053488658067-Creating-a-Fleet-in-Sage-Step-by-Step-Guide",
+      "source_id": "SRC-OFF-BABE51E0880FD385",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-03T13:17:05Z",
+      "content_hash": "712e0565d29257730fc96fd5aebd3c3ca7498f7279d22329f78823cbf929abff"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47053502617363-Can-I-XP-My-Crew-in-Sage",
+      "source_id": "SRC-OFF-796279D2583C5239",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "MEDIUM",
+      "published_at": "2025-12-03T13:16:52Z",
+      "content_hash": "4938d2f2a4cbe16b03a30aa1b7ae5ec3250d9a0ccb0177ad4f942360b0cfe847"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/52275761937555-How-to-Scan-in-C4-PTR",
+      "source_id": "SRC-OFF-4F4170FA1199794B",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2026-06-03T14:42:21Z",
+      "content_hash": "6508fb8bf3c39d3a254b997320bddd1af3d4a9e2931e15122b389cbc7cb7b2af"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47053539377299-How-Council-Rank-XP-Works-in-Starbased",
+      "source_id": "SRC-OFF-D3FB59C687BA3D7E",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-03T13:17:11Z",
+      "content_hash": "bbe5cb1753bf9c9d8f685f3888a8d816ed48a792d2d7ca758142d6e2a07b06c3"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47053519001235-How-to-Withdraw-Crew-Members-from-SAGE",
+      "source_id": "SRC-OFF-B43F5E2C9A505669",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-03T13:16:52Z",
+      "content_hash": "3564598978e2141cbb80d9ef906337da982c11a0fe277c1c767f7a0ba2f6ebaf"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/52247034465939-How-to-Set-Up-a-Claim-Stake-in-C4-PTR",
+      "source_id": "SRC-OFF-6AF49351907F1069",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2026-06-02T17:48:43Z",
+      "content_hash": "9c534b6943bf9e14ba83ff89f6167a63e747e07dd16a8a49c6617cd6f5ba35b4"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47053488462995-What-is-ATLAS-Prime",
+      "source_id": "SRC-OFF-FE77BA0D81A68A42",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2025-12-03T13:17:02Z",
+      "content_hash": "3259fb5dbd49a3b67434ede0d93d6b24be8bb10033002e879b490d795ba473ee"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/52250841633811-C4-PTR-Game-and-Account-Settings-Overview",
+      "source_id": "SRC-OFF-F33E1ABAD1C6D6E8",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2026-06-02T19:27:55Z",
+      "content_hash": "5fd249c4c4bfe5100c631f728a925373c7cb79aeb6a8de38a9598d272c366802"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47053488824211-How-to-Withdraw-Resources-from-Sage",
+      "source_id": "SRC-OFF-E987400F2C22D83E",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "MEDIUM",
+      "published_at": "2025-12-03T13:17:07Z",
+      "content_hash": "a1850798657727e5161c0f21eb7b13ded0bc94793827f14e2c39edb9837243f7"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/52250104058131-How-to-Report-Bugs-and-Feedback-in-C4-PTR",
+      "source_id": "SRC-OFF-803587BAB681C79A",
+      "status": "SUCCESS",
+      "classification": "SUPPORT_ARTICLE",
+      "confidence": "HIGH",
+      "published_at": "2026-06-02T19:07:57Z",
+      "content_hash": "491555ce4ae11683ad2363e77374c6f83ce6db8d52db6e4be9fb59fff23e1982"
+    },
+    {
+      "url": "https://github.com/staratlasmeta/factory#readme",
+      "source_id": "SRC-OFF-076F496F0A6CA989",
+      "status": "SUCCESS",
+      "classification": "TECHNICAL_DOCUMENTATION",
+      "confidence": "HIGH",
+      "published_at": "2021-05-27T08:02:09Z",
+      "content_hash": "6ee82109ba689dbde4e8e40ffcca95daf7e9977d9571a4f8ec8908664128df40"
+    },
+    {
+      "url": "https://github.com/staratlasmeta/FoundationKit#readme",
+      "source_id": "SRC-OFF-AD99A9BB2DDC4F0A",
+      "status": "SUCCESS",
+      "classification": "TECHNICAL_DOCUMENTATION",
+      "confidence": "HIGH",
+      "published_at": "2022-09-08T20:15:31Z",
+      "content_hash": "a923955a128868bfc4f62e79ea8bdd366a13a1677a672d3bd41519da3c3104b7"
+    },
+    {
+      "url": "https://github.com/staratlasmeta/star_frame#readme",
+      "source_id": "SRC-OFF-3974380BE9CB23D7",
+      "status": "SUCCESS",
+      "classification": "TECHNICAL_DOCUMENTATION",
+      "confidence": "HIGH",
+      "published_at": "2024-01-23T19:58:39Z",
+      "content_hash": "589adb535513a9aee33b8963ab86c0c35657218c4f2561e31b4cd461a508cc31"
+    },
+    {
+      "url": "https://github.com/staratlasmeta/sage-labs-changelog.github.io#readme",
+      "source_id": "SRC-OFF-2AC4925BB2D5E646",
+      "status": "SUCCESS",
+      "classification": "TECHNICAL_DOCUMENTATION",
+      "confidence": "MEDIUM",
+      "published_at": "2024-04-10T08:33:02Z",
+      "content_hash": "33f22bd258ff0f3fc330da03bcb72f28610547502041391c79023602e2985958"
+    },
+    {
+      "url": "https://github.com/staratlasmeta/star-atlas-cookbook#readme",
+      "source_id": "SRC-OFF-F2263ECD65B0488A",
+      "status": "SUCCESS",
+      "classification": "TECHNICAL_DOCUMENTATION",
+      "confidence": "MEDIUM",
+      "published_at": "2024-04-11T14:55:54Z",
+      "content_hash": "18d27c3e453707d33558f7b07a9a82c5d7f6b31372722764b08802ac62cc4f56"
+    },
+    {
+      "url": "https://github.com/staratlasmeta/validas#readme",
+      "source_id": "SRC-OFF-DC12E0C2EDC1DC22",
+      "status": "SUCCESS",
+      "classification": "TECHNICAL_DOCUMENTATION",
+      "confidence": "MEDIUM",
+      "published_at": "2024-08-28T00:26:49Z",
+      "content_hash": "2f7b3de1009709b5eed79355b92e6ec2a5d0738627416da283b5877562d81395"
+    },
+    {
+      "url": "https://github.com/staratlasmeta/configs#readme",
+      "source_id": "SRC-OFF-D4EF1A241BAD9BBE",
+      "status": "SUCCESS",
+      "classification": "TECHNICAL_DOCUMENTATION",
+      "confidence": "HIGH",
+      "published_at": "2024-10-28T20:25:28Z",
+      "content_hash": "9c4bfea425bd292fbfd6cacc5ba7d8391e3854dc165a0796e4ebb5bed70764d3"
+    },
+    {
+      "url": "https://github.com/staratlasmeta/star-atlas-decoders#readme",
+      "source_id": "SRC-OFF-B3E826AFA52FB19B",
+      "status": "SUCCESS",
+      "classification": "TECHNICAL_DOCUMENTATION",
+      "confidence": "HIGH",
+      "published_at": "2025-09-23T23:31:11Z",
+      "content_hash": "0e9675cb1668ebe2a8349858425ed549af019a0b4d4d99357a9ebbfb265809c2"
+    },
+    {
+      "url": "https://github.com/staratlasmeta/profile-key-management#readme",
+      "source_id": "SRC-OFF-A8666129E94E5181",
+      "status": "SUCCESS",
+      "classification": "TECHNICAL_DOCUMENTATION",
+      "confidence": "HIGH",
+      "published_at": "2025-11-21T19:10:17Z",
+      "content_hash": "05bdc2723b0bcb1d6230fc9064e388dab5d9168fa5ff77a4d7b89e57b3ceb075"
+    },
+    {
+      "url": "https://github.com/staratlasmeta/build-staratlas#readme",
+      "source_id": "SRC-OFF-A51F2D22DAE3C382",
+      "status": "SUCCESS",
+      "classification": "TECHNICAL_DOCUMENTATION",
+      "confidence": "HIGH",
+      "published_at": "2026-04-10T06:40:03Z",
+      "content_hash": "6c620f1b03971166731a1e32552f606583b1b8cc883627041447211791b815a8"
+    }
+  ],
+  "reconciliation_relationship_counts": {
+    "OFFICIAL_SUPERSEDES_OLDER_GUIDE": 570,
+    "COMMUNITY_ADDS_CONTEXT": 329,
+    "COMMUNITY_PRECEDES_OFFICIAL_ANNOUNCEMENT": 47,
+    "OFFICIAL_CONFIRMS_COMMUNITY_REPORT": 14
+  }
+}

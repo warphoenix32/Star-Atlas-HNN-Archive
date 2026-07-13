@@ -1,0 +1,14 @@
+{
+  "topic": "and, claims, how, record, remain, sage, solana, the",
+  "official_source_ids": [
+    "SRC-OFF-7120B37A2981335D"
+  ],
+  "community_source_ids": [
+    "SRC-HNN-0A769F0CE0CFADD8"
+  ],
+  "relationship": "OFFICIAL_SUPERSEDES_OLDER_GUIDE",
+  "finding": "Automated topic overlap on: and, claims, how, record, remain, sage, solana, the, this, time. Official authority is limited to the official wording; community context remains separately attributed.",
+  "confidence": "LOW",
+  "promotion_candidate": false,
+  "manual_review_required": true
+}

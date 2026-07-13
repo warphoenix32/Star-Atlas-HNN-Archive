@@ -1,0 +1,180 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-EF4F170FCDBC4B94",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47053520114963-Upgrading-and-Maintaining-Starbases-in-Starbased",
+    "title": "Upgrading and Maintaining Starbases in Starbased",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-03T13:17:09Z",
+    "updated_at": "2025-12-08T18:23:51Z",
+    "original_date_text": "2025-12-03T13:17:09Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “Upgrading and Maintaining Starbases in Starbased.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Starbases are critical hubs in Starbased, supporting crafting, resource management, and faction influence. To keep them operational and progressing, you need to upgrade and maintain them regularly.\nUpgrading Starbases\nPurpose: Unlock new crafting recipes and higher functionality.\nHow:\nDeliver specific crafted materials required for the next tier.\nAssign crew members for a set time to complete upgrades.\nTip: Higher tiers need more complex goods and more crew.\nMaintaining Starbases\nPurpose: Keep starbases active and effective for crafting and support.\nHow:\nRegularly supply resources like Food, Toolkits, and other essentials.\nWithout upkeep, starbase functions (like crafting) may pause or slow down.\nInvesting in starbase upgrades and upkeep ensures your faction’s strength and unlocks more opportunities in Star Atlas",
+  "content_hash": "b8807ea8bf7348adbf49f25f6a28ca32cfc88dfd1ca31722d3c69d00796d3db1",
+  "entities": [
+    "ATLAS",
+    "Crew"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-EF4F170FCDBC4B94-01",
+      "text": "Starbases are critical hubs in Starbased, supporting crafting, resource management, and faction influence.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-EF4F170FCDBC4B94",
+      "publication_date": "2025-12-03T13:17:09Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-EF4F170FCDBC4B94-02",
+      "text": "To keep them operational and progressing, you need to upgrade and maintain them regularly.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-EF4F170FCDBC4B94",
+      "publication_date": "2025-12-03T13:17:09Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-EF4F170FCDBC4B94-03",
+      "text": "Upgrading Starbases Purpose: Unlock new crafting recipes and higher functionality.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-EF4F170FCDBC4B94",
+      "publication_date": "2025-12-03T13:17:09Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-EF4F170FCDBC4B94-04",
+      "text": "How: Deliver specific crafted materials required for the next tier.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-EF4F170FCDBC4B94",
+      "publication_date": "2025-12-03T13:17:09Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-EF4F170FCDBC4B94-05",
+      "text": "Assign crew members for a set time to complete upgrades.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-EF4F170FCDBC4B94",
+      "publication_date": "2025-12-03T13:17:09Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-EF4F170FCDBC4B94-06",
+      "text": "Tip: Higher tiers need more complex goods and more crew.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-EF4F170FCDBC4B94",
+      "publication_date": "2025-12-03T13:17:09Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-EF4F170FCDBC4B94-07",
+      "text": "Maintaining Starbases Purpose: Keep starbases active and effective for crafting and support.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-EF4F170FCDBC4B94",
+      "publication_date": "2025-12-03T13:17:09Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-EF4F170FCDBC4B94-08",
+      "text": "How: Regularly supply resources like Food, Toolkits, and other essentials.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-EF4F170FCDBC4B94",
+      "publication_date": "2025-12-03T13:17:09Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-EF4F170FCDBC4B94-09",
+      "text": "Without upkeep, starbase functions (like crafting) may pause or slow down.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-EF4F170FCDBC4B94",
+      "publication_date": "2025-12-03T13:17:09Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-EF4F170FCDBC4B94-10",
+      "text": "Investing in starbase upgrades and upkeep ensures your faction’s strength and unlocks more opportunities in Star Atlas",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-EF4F170FCDBC4B94",
+      "publication_date": "2025-12-03T13:17:09Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "ATLAS",
+    "Crew"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47053520114963-Upgrading-and-Maintaining-Starbases-in-Starbased",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.240116Z"
+  }
+}

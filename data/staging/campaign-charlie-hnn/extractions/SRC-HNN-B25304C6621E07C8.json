@@ -1,0 +1,208 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-B25304C6621E07C8",
+    "url_id": "URL-B25304C6621E07C8",
+    "url": "https://medium.com/the-hologram/in-sage-multifaction-guilds-hold-key-combat-advantage-95d458672a1c",
+    "title": "In SAGE, Multifaction Guilds Hold Key Combat Advantage",
+    "author": "Krigs",
+    "publisher": "The Hologram",
+    "publication_identity": "The Hologram (Medium publication)",
+    "published_at": "2022-12-31T16:01:58Z",
+    "updated_at": "2022-12-31T16:07:35Z",
+    "retrieved_at": "2026-07-13T00:09:21.371932Z",
+    "document_type": "ORIGINAL_REPORTING",
+    "source_role": "ORIGINAL_REPORTING",
+    "publication_role": "ORIGINAL_REPORTING",
+    "classification_rationale": "Publication reports a development without explicit interview, editorial, investigative, event, or reference framing."
+  },
+  "source_lineage": {
+    "publication": "The Hologram (Medium publication)",
+    "publication_role": "ORIGINAL_REPORTING",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [
+      {
+        "publication": "Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://staratlas.com/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [
+      "Krigs"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Star Atlas",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://staratlas.com/"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "This original reporting published by The Hologram on 2022-12-31 documents “In SAGE, Multifaction Guilds Hold Key Combat Advantage.” Its surviving text addresses governance, economy, guilds and DACs, game development, community, lore, technology. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "Star AtlasGameplay\nIn SAGE, Multifaction Guilds Hold Key Combat Advantage\nKrigs3 min read·Dec 31, 2022\n--\n1\nListen\nShare\nIn SAGE, the upcoming web game module for Star Atlas, the three Council of Peace factions will compete with one another for territorial conquest. This includes attacking other factions, furthering strategic objectives.\nPress enter or click to view image in full size\nUntil recently, many contemplated how multifaction guilds would handle faction aligned combat in SAGE. The release of the SAGE Game Manual has answered many of those long standing questions.\nWhile the manual largely reaffirms that SAGE will be driven largely by players contributing towards faction objectives, there is one key mechanic in play.\nMultifaction guilds can ally two factions in combat\nSAGE Game Manual: Combat Excerpt\nThere are no 3-way battles. If a fleet belonging to a third faction elects to participate in a battle already initiated by the two other factions, they must select which side they intend to support.\nThis combat mechanic allows the members of one guild, belonging to two different factions, the opportunity to work cross-faction and attack and defend against the third faction in the triad.\nA guild may strategically place or reinforce its positions along border territories using the combat power of two of its member factions, giving them significant strategic advantaged and operational flexibility.\nLarge Star Atlas guilds like Quimera and The Club recently have publicly confirmed their guild’s multifaction statuses. Combat oriented pilots and groups should pay heed to the implications of two on one faction combat, particularly when operating in the border regions of two factions.\nCross-Faction Diplomacy Possible; Likely Inevitable\nAlthough multifaction guilds hold organizational advantages in SAGE, new avenues for influence shaping are possible for small guilds or single faction guilds as well.\nThe “2 vs 1\" combat mechanic will inevitably drive open diplomacy between groups in SAGE regardless of faction. Either out of desire or sheer survival necessity, smaller organizations can now enact treaties with organizations of another faction to defend against larger guild-states.\nLikewise, in any particular region, small fleets may choose to form defensive pacts with neighboring groups or factions, thus deterring potential aggressors. Conversely, on the more aggressive front, single faction guilds of two different factions may choose to ally with one another and go to war with a guild of the third faction.\nWhile this new combat mechanic only warrants two sentences in the game manual, its presence has the ability to dramatically shape the way SAGE is played by both big and small guilds alike. With SAGE’s upcoming release, the political and geographic boundaries of Galia will quickly be drawn.\nAbout the Author\nKrigs is the founder of The Hologram News Network, an independent blockchain gaming meta-news organization devoted to the coverage of the Star Atlas game. Krigs has covered Star Atlas for the past year and enjoys writing about the potential that blockchain technology has to revolutionize the gaming industry.\nFollow on Social Media:\nTwitter | Instagram | Web\nAbout The Hologram\nThe Hologram is Star Atlas’ first and only independent news network. Our vision is to become the most trusted source of information about Star Atlas and a voice for the whole community. Readers can expect a high standard from our reporting and staff. Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.\nThe Hologram is not endorsed or paid by the Star Atlas team. Any information published by The Hologram nor its writers should be considered as informational in nature and does not constitute any financial advice.",
+  "content_hash": "500fc9c99a70a5b15ac432da317d099cf3b9890a890cde5196707aaeba99ac42",
+  "major_topics": [
+    "governance",
+    "economy",
+    "guilds and DACs",
+    "game development",
+    "community",
+    "lore",
+    "technology"
+  ],
+  "entities": [
+    "ATLAS",
+    "Krigs",
+    "SAGE",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-B25304C6621E07C8-01",
+      "text": "Star AtlasGameplay In SAGE, Multifaction Guilds Hold Key Combat Advantage Krigs3 min read·Dec 31, 2022 -- 1 Listen Share In SAGE, the upcoming web game module for Star Atlas, the three Council of Peace factions will compete with one another for territorial conquest.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-B25304C6621E07C8",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-B25304C6621E07C8-02",
+      "text": "While the manual largely reaffirms that SAGE will be driven largely by players contributing towards faction objectives, there is one key mechanic in play.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-B25304C6621E07C8",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-B25304C6621E07C8-03",
+      "text": "The “2 vs 1\" combat mechanic will inevitably drive open diplomacy between groups in SAGE regardless of faction.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-B25304C6621E07C8",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-B25304C6621E07C8-04",
+      "text": "With SAGE’s upcoming release, the political and geographic boundaries of Galia will quickly be drawn.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-B25304C6621E07C8",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-B25304C6621E07C8-05",
+      "text": "Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-B25304C6621E07C8",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "SAGE",
+    "Star Atlas",
+    "ATLAS"
+  ],
+  "governance_items": [
+    "Star Atlas governance / DAO"
+  ],
+  "lore_items": [
+    "ONI"
+  ],
+  "actors": [
+    "Krigs"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://medium.com/@krigsfoniks?source=---byline--95d458672a1c---------------------------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fthe-hologram%2F95d458672a1c&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fin-sage-multifaction-guilds-hold-key-combat-advantage-95d458672a1c&user=Krigs&userId=41e0c5b141f1&source=---header_actions--95d458672a1c---------------------clap_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Frepost%2Fp%2F95d458672a1c&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fin-sage-multifaction-guilds-hold-key-combat-advantage-95d458672a1c&user=Krigs&userId=41e0c5b141f1&source=---header_actions--95d458672a1c---------------------repost_header------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F95d458672a1c&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fin-sage-multifaction-guilds-hold-key-combat-advantage-95d458672a1c&source=---header_actions--95d458672a1c---------------------bookmark_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2Fplans%3Fdimension%3Dpost_audio_button%26postId%3D95d458672a1c&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fin-sage-multifaction-guilds-hold-key-combat-advantage-95d458672a1c&source=---header_actions--95d458672a1c---------------------post_audio_button------------------",
+      "anchor_text": "Listen"
+    },
+    {
+      "url": "https://medium.com/u/5ed69ff9cfb0?source=---user_mention--95d458672a1c---------------------------------------",
+      "anchor_text": "Star Atlas"
+    },
+    {
+      "url": "https://medium.com/the-hologram/tension-rise-as-factions-and-guilds-prepare-for-scream-eb21829a4a84",
+      "anchor_text": "contemplated"
+    },
+    {
+      "url": "https://medium.com/star-atlas/star-atlas-golden-era-game-manual-vol-ii-the-game-structure-c931a2c933a0",
+      "anchor_text": "SAGE Game Manual"
+    },
+    {
+      "url": "https://twitter.com/home",
+      "anchor_text": "Twitter"
+    },
+    {
+      "url": "https://thehologram.io/",
+      "anchor_text": "Web"
+    },
+    {
+      "url": "https://medium.com/the-hologram",
+      "anchor_text": "The Hologram"
+    },
+    {
+      "url": "https://staratlas.com/",
+      "anchor_text": "Star Atlas"
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "https://medium.com/the-hologram/in-sage-multifaction-guilds-hold-key-combat-advantage-95d458672a1c",
+    "final_url": "https://medium.com/the-hologram/in-sage-multifaction-guilds-hold-key-combat-advantage-95d458672a1c",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 265347,
+    "elapsed_ms": 740,
+    "retrieval_mode": "LIVE",
+    "archive_capture": null
+  }
+}

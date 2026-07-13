@@ -1,0 +1,140 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-B32669924F083C41",
+    "url": "https://build.staratlas.com/dev-resources/on-chain-game-systems",
+    "title": "Star Atlas Build",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Build / ATMTA",
+    "published_at": null,
+    "updated_at": "2026-04-16T16:32:35.000Z",
+    "original_date_text": "2026-04-16T16:32:35.000Z",
+    "document_type": "TECHNICAL_DOCUMENTATION",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Build / ATMTA",
+    "publication_role": "TECHNICAL_DOCUMENTATION",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Star Atlas Build / ATMTA"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official technical documentation titled “Star Atlas Build.” This record preserves what Star Atlas Build / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "On-Chain Game Systems | Star Atlas Build\nSkip to contentStar Atlas BuildSearchK\nAppearance\nMenuReturn to top\nOn-Chain Game Systems ​\nPlayer Profile\nGalactic Marketplace: Decentralized MMO-style trading\nFees\nFaction Fleet",
+  "content_hash": "3d06c61430a7ee466cd405b6a4dac7912412da99a90396314e0e2edf33872da5",
+  "entities": [
+    "ATLAS",
+    "Faction Fleet",
+    "Galactic Marketplace"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-B32669924F083C41-01",
+      "text": "On-Chain Game Systems | Star Atlas Build Skip to contentStar Atlas BuildSearchK Appearance MenuReturn to top On-Chain Game Systems ​ Player Profile Galactic Marketplace: Decentralized MMO-style trading Fees Faction Fleet",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B32669924F083C41",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Faction Fleet",
+    "Galactic Marketplace",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://build.staratlas.com/dev-resources/on-chain-game-systems",
+      "anchor_text": "Skip to content"
+    },
+    {
+      "url": "https://build.staratlas.com/",
+      "anchor_text": "Star Atlas Build"
+    },
+    {
+      "url": "https://discord.com/invite/staratlas",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/on-chain-game-systems/player-profile",
+      "anchor_text": "Player Profile"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/on-chain-game-systems/galactic-marketplace",
+      "anchor_text": "Galactic Marketplace"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/on-chain-game-systems/galactic-marketplace/fees",
+      "anchor_text": "Fees"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/on-chain-game-systems/faction-fleet",
+      "anchor_text": "Faction Fleet"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://build.staratlas.com/dev-resources/on-chain-game-systems",
+      "anchor_text": "Skip to content"
+    },
+    {
+      "url": "https://build.staratlas.com/",
+      "anchor_text": "Star Atlas Build"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/on-chain-game-systems/player-profile",
+      "anchor_text": "Player Profile"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/on-chain-game-systems/galactic-marketplace",
+      "anchor_text": "Galactic Marketplace"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/on-chain-game-systems/galactic-marketplace/fees",
+      "anchor_text": "Fees"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/on-chain-game-systems/faction-fleet",
+      "anchor_text": "Faction Fleet"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://build.staratlas.com/dev-resources/on-chain-game-systems",
+    "final_url": "https://build.staratlas.com/dev-resources/on-chain-game-systems",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 32047,
+    "retrieved_at": "2026-07-13T01:04:29.160690Z",
+    "elapsed_ms": 183
+  }
+}

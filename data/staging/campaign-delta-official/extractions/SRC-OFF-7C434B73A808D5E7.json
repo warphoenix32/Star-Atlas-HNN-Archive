@@ -1,0 +1,160 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-7C434B73A808D5E7",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47031371565971-Can-I-continue-my-Holosim-game-on-another-browser-or-PC",
+    "title": "Can I continue my Holosim game on another browser or PC?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-02T19:07:24Z",
+    "updated_at": "2025-12-08T18:24:00Z",
+    "original_date_text": "2025-12-02T19:07:24Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://holosim.staratlas.com",
+        "anchor_text": "holosim.staratlas.com"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “Can I continue my Holosim game on another browser or PC?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Yes, you can continue your Holosim game on any device, as long as you have your saved JSON file with the secret key. This file is created when you save your game for the first time.\nHow to restore your game:\nOn the new browser or PC, go to holosim.staratlas.com.\nSkip or watch the intro, then click “Launch Game.”\nOn the login screen, select “Already have an account.”\nPaste your secret key from your saved JSON file.\nConfirm, and your character, fleets, and progress will be restored.\n⚠️ Important: Without your save file/secret key, your game progress cannot be recovered. Make sure to back it up safely before switching devices.",
+  "content_hash": "3628a9ca3a4a3a2c88610bfae81bdc342928184b337112993aca4f56b4bbc8ad",
+  "entities": [
+    "Holosim"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-7C434B73A808D5E7-01",
+      "text": "Yes, you can continue your Holosim game on any device, as long as you have your saved JSON file with the secret key.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-7C434B73A808D5E7",
+      "publication_date": "2025-12-02T19:07:24Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-7C434B73A808D5E7-02",
+      "text": "This file is created when you save your game for the first time.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-7C434B73A808D5E7",
+      "publication_date": "2025-12-02T19:07:24Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-7C434B73A808D5E7-03",
+      "text": "How to restore your game: On the new browser or PC, go to holosim.staratlas.com.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-7C434B73A808D5E7",
+      "publication_date": "2025-12-02T19:07:24Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-7C434B73A808D5E7-04",
+      "text": "Skip or watch the intro, then click “Launch Game.” On the login screen, select “Already have an account.” Paste your secret key from your saved JSON file.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-7C434B73A808D5E7",
+      "publication_date": "2025-12-02T19:07:24Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-7C434B73A808D5E7-05",
+      "text": "Confirm, and your character, fleets, and progress will be restored.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-7C434B73A808D5E7",
+      "publication_date": "2025-12-02T19:07:24Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-7C434B73A808D5E7-06",
+      "text": "⚠️ Important: Without your save file/secret key, your game progress cannot be recovered.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-7C434B73A808D5E7",
+      "publication_date": "2025-12-02T19:07:24Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-7C434B73A808D5E7-07",
+      "text": "Make sure to back it up safely before switching devices.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-7C434B73A808D5E7",
+      "publication_date": "2025-12-02T19:07:24Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Holosim"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://holosim.staratlas.com",
+      "anchor_text": "holosim.staratlas.com"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://holosim.staratlas.com",
+      "anchor_text": "holosim.staratlas.com"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47031371565971-Can-I-continue-my-Holosim-game-on-another-browser-or-PC",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.261635Z"
+  }
+}

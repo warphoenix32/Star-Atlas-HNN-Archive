@@ -1,0 +1,180 @@
+{
+  "source": {
+    "source_id": "SRC-IH-0E70509CB73938D1",
+    "url_id": "URL-0E70509CB73938D1",
+    "url": "https://intergalacticherald.com/star-atlas-recap/recap-11-star-atlas-economic-forum-june-2025-deep-dive-into-c4-with-chris/",
+    "inventory_url": "https://intergalacticherald.com/star-atlas-recap/recap-11-star-atlas-economic-forum-june-2025-deep-dive-into-c4-with-chris",
+    "title": "Recap 11: Star Atlas Economic Forum – June 2025 | Deep Dive into C4 with Chris",
+    "author": "Intergalactic Herald",
+    "publisher": "Intergalactic Herald",
+    "published_at": "2025-06-05T21:00:00",
+    "updated_at": "2025-06-06T22:43:38",
+    "retrieved_at": "2026-07-12T22:00:54.356853Z",
+    "document_type": "EVENT_RECAP",
+    "source_role": "CURATED_SUMMARY",
+    "source_classification": "CURATED_SUMMARY",
+    "classification_rationale": "Event recap summarizes an externally originated event, broadcast, or discussion.",
+    "wordpress_type": "posts"
+  },
+  "summary": {
+    "neutral_abstract": "In this episode, hear an AI summary of the latest Star Atlas community event. Full video recordings can be found on the YouTube channel of Star Atlas TV at https://www.youtube.com/@staratlastv. We are launching a Star Atlas merch store. Please check it out at Intergalactic Gear. We are creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic",
+    "historical_value": "Contemporary Intergalactic Herald publication preserved with role and attribution boundaries.",
+    "current_validity_warning": "Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources."
+  },
+  "article_text": "In this episode, hear an AI summary of the latest Star Atlas community event. Full video recordings can be found on the YouTube channel of Star Atlas TV at https://www.youtube.com/@staratlastv.\nAlso, check out my newsletter and podcast.\nListen on Apple Podcasts\nListen on Spotify\nWe are launching a Star Atlas merch store. Please check it out at Intergalactic Gear.\nWe are creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic Coalition.\nIf you would like to support our efforts, donations can be sent to intergalacticherald.sol\nPodcast Transcript\nThis Star Atlas Economics Forum session began with hosts welcoming community members and reflecting on the previous day’s large Town Hall event, noting that many announcements had been made, allowing for more open discussion during the forum. The purpose of the monthly forum is to provide an opportunity for a one-on-one discussion with the community about the fast-paced Star Atlas economy, covering data and updates. While some updates occurred in the past month, the focus of this forum would be on C4, Hollow Sim, and new data changes.\nA significant update discussed was the community dashboard, which received a user interface and user experience improvement. Previously tucked away, it now has its own dedicated header tab for economics on the DAO site, making it more navigable. Reports are also now easily accessible there, aiming to make this section the new economy hub on the front end, with plans to host other insights and papers. Although a small team works on this, it represents a huge step forward, particularly by providing more vertical space per dashboard page to add more charts and insights that were previously omitted. They are actively taking suggestions for additions to the dashboard. The data provided on the dashboard is onchain and publicly accessible, though other community-run dashboards offer even more detail.\nAttendees were reminded of a Data Runner sale, offering 50% off Opal Rayfam and Fimble BIOS Ranger ships. Recent updates to these ships in the game’s mainnet stage included reduced cooldowns for scanning (50%), zero food consumption, and boosted SDU finds. This has led to a shift in the labor force for SDU production towards data runner ships.\nA major announcement was Hollow Sim, described as a simulation of the real onchain Sage game but free-to-play. It runs on a copy of the Solana blockchain called Atlas Net, an internal testing chain. A key feature of Hollow Sim is that actions do not incur gas fees, making it completely free to play, even without purchasing ships. This is seen as a powerful retention mechanic to introduce people to the Star Atlas ecosystem, particularly those in regions with less income or familiar with free-to-play loops. While eventually planned for monetization through microtransactions like a mobile game, it is currently in an alpha test phase without monetization, and account resets may occur. Initial stats show 863 users joined as of the presentation time, with user growth approaching mainnet numbers. It has seen over 103,000 transactions since launch, demonstrating greater transaction efficiency than Sage mainnet. Players are estimated to be saving about 30 cents per hour on average compared to playing onchain. Hollow Sim is highlighted as a fully onchain free-to-play game, unique in the web3 space at its scale.\nAnother significant development is the native ingestion of Atlas Net data into the company’s data environment using proprietary tools, bypassing third-party data aggregators previously used. This technological accomplishment provides access to a wealth of data, including not just high-level metrics but also detailed game data like resources mined and produced.\nThe topic of UE5 economics was also brought up for potential discussion in the Q&A. They are working on the technical components of implementing blockchain earning in the UE5 product, with scanning and mining being considered as key actions. Balancing its value relative to C4 and managing potential exploits from automation or direct blockchain invocation of instructions are ongoing considerations.\nThe main focus shifted to C4, described as the next iteration of Sage and a massive update. It will introduce four key gameplay components not previously in the onchain game: claim stakes for mining, crafting habs for processing materials, combat, and council rank for progression. C4 will drastically increase the number of assets in the game, adding approximately 5,000 new assets. This includes about 75-80 new raw materials, 150 intermediate goods, and thousands of final goods. Final goods, such as hundreds of different buildings for claim stakes and thousands of ship components, are either burnt or used for productive capabilities.\nA critical component of C4 is combat, which involves the destruction of final goods. When a ship is destroyed in combat, the configuration (ship parts) is destroyed, but the ship itself is not, balancing risk by blowing up crafted materials (potentially $500 worth) rather than the entire capital asset (like a $100,000 commander ship). This system aims to create a war industry loop with a lot of combat, destruction, and crafting.\nThe discussion touched upon applying high-risk zone dynamics to the medium-risk zone, specifically the destruction of ship components and resources at blown-up star bases. While acknowledging concerns about player sentiment, it was noted that risk is necessary for combat, and game design, including territorial control mechanics, provides some safety closer to a faction’s center.\nRandomness (RNG) was discussed, primarily in the context of loot dropping from destroyed ships. The current plan is for the person with the last hit to have initial priority for looting, with a dice roll determining which items in the cargo are destroyed. Introducing RNG for whether ship components are destroyed was suggested and noted as a cool idea, although it presents significant technical challenges on the blockchain.\nA complex issue is the incentive compatibility of combat rewards. The challenge is to balance the reward for winning against the cost of losing to prevent players from exploiting the system by blowing up their own configs for arbitrage. Ship respawn time, with an option to pay for faster respawn, will be a long-term consequence of destruction. Starbase battles are anticipated to be the main strategic combat.\nThe possibility of claim stake upgradability was addressed. While no technical reason prevents it, profound economic reasons argue against it, particularly concerning the limited space for higher-tier claim stakes on planets and the risk of creating unplaceable assets. Making claim stakes craftable or upgradeable also poses a risk to the existing market price structure, requiring extremely expensive recipes to maintain value, which is nuanced given secondary market fees and revenue generation. The historical context of early claim stake discussions was noted as being before the current team’s time.\nThe transition to C4 and the increase in complexity was recognized. It was acknowledged that Sage already has a steep learning curve, compounded by its user interface. The introduction of council rank and potentially a quest system are intended to help new players navigate this complexity. For veteran, economically savvy players, complexity is seen as a positive feature that supports the goal of ensuring not everyone can do everything, creating challenges for those with large asset holdings. The aim is to satisfy both casual players and those with multi-thousand dollar fleets.\nAtlas emissions in C4 will see significant changes. The goal is to replace the FIX mechanic with ship config sales as a passive way to earn Atlas. LP (Liquidity Provision) is intended to be the sole emission mechanic for Atlas, with a planned increase to the LP pool targeting around 8.5 million Atlas per day (though currently above that target). LP earnings will be tied heavily to combat, specifically the destruction of ships and star bases, offering handsome rewards due to the associated risk. Other LP loops like scanning, upgrading star bases, and upkeep will also exist, aiming to reduce income inequality and make LP more accessible to smaller players.\nA key design mechanic discussed for Atlas emissions is a dynamic emissions curve based on map control. Each additional star base controlled by a faction will yield diminishing marginal returns in their LP Atlas emissions pool. This means the first star base is the most valuable, creating a natural balancing mechanism. If one faction dominates the map, the total Atlas emissions across all factions would actually decrease compared to a more balanced distribution. This mechanic provides a higher incentive for smaller, worse-off factions to fight back and gain regions. The goal is to encourage factions to balance out and prevent mass faction exits by making it more attractive to be in a smaller faction that is gaining regions.\nRegarding LP distribution when multiple fleets attack the same target, the current plan, due to blockchain constraints, is to use the final hit logic, similar to cargo drops. While not ideal, calculating damage contribution on-chain is currently more complex.\nThe process of balancing the C4 economy is a large task, involving both algorithmic and heuristic approaches. Chris and Gareth are working together, with Gareth focusing on crafting recipes and Chris on LP, combat, and extraction rates. They noted that while AI has been explored, they haven’t found it effective for this specific balancing work. A community suggestion about gradually reducing fighter mining rates before C4 was acknowledged as a good point but carries the risk of crashing the ship market if C4 launch is delayed.\nFinally, the potential impact of UE5 resources/economics on the Sage economy was compared to the C4 transition. The aim is to balance UE5 rewards to ensure they are significantly more rewarding due to the effort premium of physically playing, but without making them so high as to devalue existing Sage assets or be easily exploitable. The exact level of increased reward is still being determined as data and analysis are needed.",
+  "content_hash": "a8bb9ec6aa8c10bad7c3d1ff83633a65ba20a266d41e82526a4069815cf89717",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [],
+  "external_sources": [
+    {
+      "url": "https://www.youtube.com/@staratlastv",
+      "anchor_text": "https://www.youtube.com/@staratlastv"
+    },
+    {
+      "url": "https://podcasts.apple.com/us/podcast/star-atlas-week-in-review-podcast/id1678661043",
+      "anchor_text": "Listen on Apple Podcasts"
+    },
+    {
+      "url": "https://open.spotify.com/show/0aHDjCqFpy8Lzrkilv8n16",
+      "anchor_text": "Listen on Spotify"
+    },
+    {
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    }
+  ],
+  "primary_source_relationships": [
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/@staratlastv",
+      "anchor_text": "https://www.youtube.com/@staratlastv"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://podcasts.apple.com/us/podcast/star-atlas-week-in-review-podcast/id1678661043",
+      "anchor_text": "Listen on Apple Podcasts"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://open.spotify.com/show/0aHDjCqFpy8Lzrkilv8n16",
+      "anchor_text": "Listen on Spotify"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    }
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Verify which outbound links are primary sources and preserve creator attribution during promotion.",
+      "Source lineage: attribution requires manual confirmation."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=recap-11-star-atlas-economic-forum-june-2025-deep-dive-into-c4-with-chris&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 15902,
+    "elapsed_ms": 1719,
+    "attempts": [
+      {
+        "endpoint": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=recap-11-star-atlas-economic-forum-june-2025-deep-dive-into-c4-with-chris&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "http_status": 200,
+        "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=recap-11-star-atlas-economic-forum-june-2025-deep-dive-into-c4-with-chris&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "content_type": "application/json; charset=UTF-8",
+        "response_size": 15902,
+        "elapsed_ms": 1719
+      }
+    ]
+  },
+  "source_lineage": {
+    "publication": "Intergalactic Herald",
+    "publication_role": "CURATED_SUMMARY",
+    "relationship": "CURATED_SUMMARY_OF",
+    "primary_sources": [
+      {
+        "publication": "Star Atlas Economic Forum",
+        "author": "UNKNOWN",
+        "url": "UNKNOWN",
+        "organization": "Star Atlas",
+        "evidence": "Explicitly named in publication title"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "publication": "@Staratlastv",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/@staratlastv",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Listen on Apple Podcasts",
+        "author": "UNKNOWN",
+        "url": "https://podcasts.apple.com/us/podcast/star-atlas-week-in-review-podcast/id1678661043",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Listen on Spotify",
+        "author": "UNKNOWN",
+        "url": "https://open.spotify.com/show/0aHDjCqFpy8Lzrkilv8n16",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Intergalactic Gear",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticgear.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Intergalactic Coalition",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticcoalition.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Star Atlas Economic Forum",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "UNKNOWN"
+      }
+    ],
+    "lineage_confidence": "MEDIUM"
+  }
+}

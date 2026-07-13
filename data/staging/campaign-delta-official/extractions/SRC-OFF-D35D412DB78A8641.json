@@ -1,0 +1,245 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-D35D412DB78A8641",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47061441203091-How-will-land-claims-and-mining-work-in-Star-Atlas",
+    "title": "How will land claims and mining work in Star Atlas?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-03T17:01:31Z",
+    "updated_at": "2025-12-08T18:23:41Z",
+    "original_date_text": "2025-12-03T17:01:31Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://atmta.zendesk.com/hc/en-us/articles/47061471152915",
+        "anchor_text": "What are Star Atlas Claim Stakes?"
+      },
+      {
+        "url": "https://play.staratlas.com/claims/",
+        "anchor_text": "Faction Claim"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “How will land claims and mining work in Star Atlas?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Land and resource extraction are key pillars of the Star Atlas economy. To support this system, players can utilize Claim Stakes, NFT-based structures that allow users to claim territory and mine valuable materials across the universe.\nWhat is a Claim Stake?\nA Claim Stake is an NFT structure used to claim a portion of land in the Star Atlas metaverse. These lands are rich in raw materials, such as ore, minerals, and gases—that are vital for crafting, trading, and building the economy.\nClaim Stakes come in five tiers, with Tier 5 offering the deepest and widest excavation potential. The higher the tier, the greater the resource production capacity\n🔗 Learn more about Claim Stakes here:What are Star Atlas Claim Stakes?\nStructures Used in Mining\nTo mine from a claimed area, players will need to deploy additional structures. Here's how the system is expected to work:\nPower Plant\nThe foundation of your mining operation. This energizes your Mining Drill and other structures, enabling raw resource extraction.\nMining Drill\nOnce powered by a Power Plant, the Mining Drill begins automated material extraction. Auto-sleds then collect the resources for transport.\nSpace Station\nBuilding a Space Station above your Mining Station allows for efficient storage, processing, and preparation of raw materials for sale or crafting.\nClaim Stakes in Faction Claim (Passive Rewards)\nIn addition to future active mining, Claim Stakes can already be enlisted in Faction Claim to generate passive income.\nOnce enlisted, Claim Stakes will produce R4 resources:\nFuel\nFood\nToolkits\nAmmunition\nThe quantity of R4 produced depends on the tier of the Claim Stake you enlist",
+  "content_hash": "5506a0017d608e32583a5b3cc98a98b8ce248a3c6c2decbf392694dd17129168",
+  "entities": [
+    "ATLAS",
+    "Claim Stakes"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-D35D412DB78A8641-01",
+      "text": "Land and resource extraction are key pillars of the Star Atlas economy.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-D35D412DB78A8641",
+      "publication_date": "2025-12-03T17:01:31Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-D35D412DB78A8641-02",
+      "text": "To support this system, players can utilize Claim Stakes, NFT-based structures that allow users to claim territory and mine valuable materials across the universe.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-D35D412DB78A8641",
+      "publication_date": "2025-12-03T17:01:31Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-D35D412DB78A8641-03",
+      "text": "A Claim Stake is an NFT structure used to claim a portion of land in the Star Atlas metaverse.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-D35D412DB78A8641",
+      "publication_date": "2025-12-03T17:01:31Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-D35D412DB78A8641-04",
+      "text": "These lands are rich in raw materials, such as ore, minerals, and gases—that are vital for crafting, trading, and building the economy.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-D35D412DB78A8641",
+      "publication_date": "2025-12-03T17:01:31Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-D35D412DB78A8641-05",
+      "text": "Claim Stakes come in five tiers, with Tier 5 offering the deepest and widest excavation potential.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-D35D412DB78A8641",
+      "publication_date": "2025-12-03T17:01:31Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-D35D412DB78A8641-06",
+      "text": "The higher the tier, the greater the resource production capacity 🔗 Learn more about Claim Stakes here:What are Star Atlas Claim Stakes?",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-D35D412DB78A8641",
+      "publication_date": "2025-12-03T17:01:31Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-D35D412DB78A8641-07",
+      "text": "Structures Used in Mining To mine from a claimed area, players will need to deploy additional structures.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-D35D412DB78A8641",
+      "publication_date": "2025-12-03T17:01:31Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-D35D412DB78A8641-08",
+      "text": "Here's how the system is expected to work: Power Plant The foundation of your mining operation.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-D35D412DB78A8641",
+      "publication_date": "2025-12-03T17:01:31Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-D35D412DB78A8641-09",
+      "text": "This energizes your Mining Drill and other structures, enabling raw resource extraction.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-D35D412DB78A8641",
+      "publication_date": "2025-12-03T17:01:31Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-D35D412DB78A8641-10",
+      "text": "Mining Drill Once powered by a Power Plant, the Mining Drill begins automated material extraction.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-D35D412DB78A8641",
+      "publication_date": "2025-12-03T17:01:31Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-D35D412DB78A8641-11",
+      "text": "Auto-sleds then collect the resources for transport.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-D35D412DB78A8641",
+      "publication_date": "2025-12-03T17:01:31Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-D35D412DB78A8641-12",
+      "text": "Space Station Building a Space Station above your Mining Station allows for efficient storage, processing, and preparation of raw materials for sale or crafting.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-D35D412DB78A8641",
+      "publication_date": "2025-12-03T17:01:31Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-D35D412DB78A8641-13",
+      "text": "Claim Stakes in Faction Claim (Passive Rewards) In addition to future active mining, Claim Stakes can already be enlisted in Faction Claim to generate passive income.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-D35D412DB78A8641",
+      "publication_date": "2025-12-03T17:01:31Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-D35D412DB78A8641-14",
+      "text": "Once enlisted, Claim Stakes will produce R4 resources: Fuel Food Toolkits Ammunition The quantity of R4 produced depends on the tier of the Claim Stake you enlist",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-D35D412DB78A8641",
+      "publication_date": "2025-12-03T17:01:31Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "ATLAS",
+    "Claim Stakes"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://atmta.zendesk.com/hc/en-us/articles/47061471152915",
+      "anchor_text": "What are Star Atlas Claim Stakes?"
+    },
+    {
+      "url": "https://play.staratlas.com/claims/",
+      "anchor_text": "Faction Claim"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://play.staratlas.com/claims/",
+      "anchor_text": "Faction Claim"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47061441203091-How-will-land-claims-and-mining-work-in-Star-Atlas",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.211505Z"
+  }
+}

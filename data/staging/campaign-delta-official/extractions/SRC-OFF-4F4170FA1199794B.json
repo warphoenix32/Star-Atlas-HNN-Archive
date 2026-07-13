@@ -1,0 +1,249 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-4F4170FA1199794B",
+    "url": "https://support.staratlas.com/hc/en-us/articles/52275761937555-How-to-Scan-in-C4-PTR",
+    "title": "How to Scan in C4 PTR",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2026-06-03T14:42:21Z",
+    "updated_at": "2026-06-03T14:43:31Z",
+    "original_date_text": "2026-06-03T14:42:21Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “How to Scan in C4 PTR.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Scanning allows your fleet to search space for SDUs, which can be used in crafting recipes.\nThis guide explains how to prepare a scanning fleet, move it to the area you want to scan, and start a scan sweep.\nNote: C4 PTR is still in development. Scanning behavior, scan patterns, costs, and results may change over time.\nBefore you start\nBefore scanning, you need to create a fleet and move it to the area where you want to scan.\nIf you need help with those steps, check these guides first:\nHow to Create and Use a Fleet in C4 PTR\nHow to Move a Fleet in C4 PTR\nTo scan, your fleet needs:\nFuel to move\nRepair Kits to perform scan sweeps\nMake sure your fleet has both before you start.\nStep 1: Prepare your fleet\nBefore starting a scan:\nCreate your fleet.\nAdd the ships you want to use.\nAdd enough Fuel for travel.\nAdd enough Repair Kits for scanning.\nUndock the fleet.\nYour fleet must be undocked before it can scan.\nStep 2: Move your fleet to the scan location\nOnce your fleet is ready, move it to the area where you want to scan.\nYou can use your normal fleet movement options, such as:\nWarp\nSubwarp\nWarp Gate when available\nWhen your fleet arrives, keep it undocked and select it.\nStep 3: Open the Scan menu\nTo begin scanning:\nSelect your fleet.\nOpen the fleet action menu.\nClick Scan.\nThis opens the Scan Sweep view.\nStep 4: Choose a scan pattern\nIn the Scan Sweep view, you will see several scan patterns.\nEach pattern has its own scanning characteristics, the selected pattern affects the scan area and the cost of the scan.\nFor example, different patterns may change:\nThe size of the scan area\nThe signal value\nThe amount of Repair Kits required\nTo start a scan:\nReview the available scan patterns.\nClick the pattern you want to use.\nConfirm the scan by clicking Ready.\nStep 5: Start scanning\nAfter selecting a scan pattern and confirming it, your fleet will begin the scan sweep.\nThe goal of scanning is to find SDUs, which can later be used for crafting recipes.\nDepending on future updates, scanning behavior, results, and follow-up actions may change.\nSummary\nTo scan in C4 PTR:\nCreate a fleet.\nAdd Fuel and Repair Kits.\nUndock the fleet.\nMove it to the area you want to scan.\nSelect the fleet.\nClick Scan.\nChoose a scan pattern.\nClick Ready to begin the scan.\nScanning is used to find SDUs for crafting, so it is an important part of the broader resource and production loop",
+  "content_hash": "6508fb8bf3c39d3a254b997320bddd1af3d4a9e2931e15122b389cbc7cb7b2af",
+  "entities": [
+    "C4"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-4F4170FA1199794B-01",
+      "text": "Scanning allows your fleet to search space for SDUs, which can be used in crafting recipes.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-4F4170FA1199794B",
+      "publication_date": "2026-06-03T14:42:21Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-4F4170FA1199794B-02",
+      "text": "This guide explains how to prepare a scanning fleet, move it to the area you want to scan, and start a scan sweep.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-4F4170FA1199794B",
+      "publication_date": "2026-06-03T14:42:21Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-4F4170FA1199794B-03",
+      "text": "Scanning behavior, scan patterns, costs, and results may change over time.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-4F4170FA1199794B",
+      "publication_date": "2026-06-03T14:42:21Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-4F4170FA1199794B-04",
+      "text": "Before you start Before scanning, you need to create a fleet and move it to the area where you want to scan.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-4F4170FA1199794B",
+      "publication_date": "2026-06-03T14:42:21Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-4F4170FA1199794B-05",
+      "text": "If you need help with those steps, check these guides first: How to Create and Use a Fleet in C4 PTR How to Move a Fleet in C4 PTR To scan, your fleet needs: Fuel to move Repair Kits to perform scan sweeps Make sure your fleet has both before you start.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-4F4170FA1199794B",
+      "publication_date": "2026-06-03T14:42:21Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-4F4170FA1199794B-06",
+      "text": "Step 1: Prepare your fleet Before starting a scan: Create your fleet.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-4F4170FA1199794B",
+      "publication_date": "2026-06-03T14:42:21Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-4F4170FA1199794B-07",
+      "text": "Your fleet must be undocked before it can scan.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-4F4170FA1199794B",
+      "publication_date": "2026-06-03T14:42:21Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-4F4170FA1199794B-08",
+      "text": "Step 2: Move your fleet to the scan location Once your fleet is ready, move it to the area where you want to scan.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-4F4170FA1199794B",
+      "publication_date": "2026-06-03T14:42:21Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-4F4170FA1199794B-09",
+      "text": "You can use your normal fleet movement options, such as: Warp Subwarp Warp Gate when available When your fleet arrives, keep it undocked and select it.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-4F4170FA1199794B",
+      "publication_date": "2026-06-03T14:42:21Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-4F4170FA1199794B-10",
+      "text": "Step 3: Open the Scan menu To begin scanning: Select your fleet.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-4F4170FA1199794B",
+      "publication_date": "2026-06-03T14:42:21Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-4F4170FA1199794B-11",
+      "text": "Step 4: Choose a scan pattern In the Scan Sweep view, you will see several scan patterns.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-4F4170FA1199794B",
+      "publication_date": "2026-06-03T14:42:21Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-4F4170FA1199794B-12",
+      "text": "Each pattern has its own scanning characteristics, the selected pattern affects the scan area and the cost of the scan.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-4F4170FA1199794B",
+      "publication_date": "2026-06-03T14:42:21Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-4F4170FA1199794B-13",
+      "text": "For example, different patterns may change: The size of the scan area The signal value The amount of Repair Kits required To start a scan: Review the available scan patterns.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-4F4170FA1199794B",
+      "publication_date": "2026-06-03T14:42:21Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-4F4170FA1199794B-14",
+      "text": "Step 5: Start scanning After selecting a scan pattern and confirming it, your fleet will begin the scan sweep.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-4F4170FA1199794B",
+      "publication_date": "2026-06-03T14:42:21Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-4F4170FA1199794B-15",
+      "text": "The goal of scanning is to find SDUs, which can later be used for crafting recipes.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-4F4170FA1199794B",
+      "publication_date": "2026-06-03T14:42:21Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "C4"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/52251721868563",
+      "anchor_text": "How to Create and Use a Fleet in C4 PTR"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/52273962138771",
+      "anchor_text": "How to Move a Fleet in C4 PTR"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/52251721868563",
+      "anchor_text": "How to Create and Use a Fleet in C4 PTR"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/52273962138771",
+      "anchor_text": "How to Move a Fleet in C4 PTR"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/52275761937555-How-to-Scan-in-C4-PTR",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.448427Z"
+  }
+}

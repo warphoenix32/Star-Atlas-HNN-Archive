@@ -1,0 +1,167 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-854CB512DFE80EA1",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47031333660563-How-does-automation-work-in-Holosim",
+    "title": "How does automation work in Holosim?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-02T19:07:11Z",
+    "updated_at": "2025-12-08T18:24:06Z",
+    "original_date_text": "2025-12-02T19:07:11Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “How does automation work in Holosim?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Automation in Holosim allows your fleets to run routes automatically, repeating tasks like mining, transporting, or patrolling without needing constant manual input.\nHow to enable automation:\nOpen “My Fleets”: click the My Fleets tab to see your fleets.\nSelect a fleet: choose the fleet you want to automate.\nClick the automation icon: look for the symbol with a curved arrow and gear\nEnable route: click “Enable Route.”\nChoose an action: select one of the available automation tasks:\nMining: automatically mine resources.\nTransport: move goods between bases.\nPatrol: keep your fleet active in specific areas.\nSet the details: depending on the action, you may need to choose:\nWhich base or resource to mine.\nThe origin and destination for transport.\nThe patrol sector.\nAssign the automation: once configured, confirm to activate.\nHow to stop automation:\nOpen the same fleet, click the automation icon again, and disable the route. This stops the automated task immediately.\nAutomation helps you save time and keep multiple fleets working in the background, but make sure you have enough crew, food, fuel, and resources to sustain the tasks.",
+  "content_hash": "35f379d9714a1744acf54ffda22d532d25e4d78fbc7296fee0835ac41116a4cf",
+  "entities": [
+    "Crew",
+    "Holosim"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-854CB512DFE80EA1-01",
+      "text": "Automation in Holosim allows your fleets to run routes automatically, repeating tasks like mining, transporting, or patrolling without needing constant manual input.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-854CB512DFE80EA1",
+      "publication_date": "2025-12-02T19:07:11Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-854CB512DFE80EA1-02",
+      "text": "How to enable automation: Open “My Fleets”: click the My Fleets tab to see your fleets.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-854CB512DFE80EA1",
+      "publication_date": "2025-12-02T19:07:11Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-854CB512DFE80EA1-03",
+      "text": "Select a fleet: choose the fleet you want to automate.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-854CB512DFE80EA1",
+      "publication_date": "2025-12-02T19:07:11Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-854CB512DFE80EA1-04",
+      "text": "Click the automation icon: look for the symbol with a curved arrow and gear Enable route: click “Enable Route.” Choose an action: select one of the available automation tasks: Mining: automatically mine resources.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-854CB512DFE80EA1",
+      "publication_date": "2025-12-02T19:07:11Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-854CB512DFE80EA1-05",
+      "text": "Patrol: keep your fleet active in specific areas.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-854CB512DFE80EA1",
+      "publication_date": "2025-12-02T19:07:11Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-854CB512DFE80EA1-06",
+      "text": "Set the details: depending on the action, you may need to choose: Which base or resource to mine.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-854CB512DFE80EA1",
+      "publication_date": "2025-12-02T19:07:11Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-854CB512DFE80EA1-07",
+      "text": "Assign the automation: once configured, confirm to activate.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-854CB512DFE80EA1",
+      "publication_date": "2025-12-02T19:07:11Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-854CB512DFE80EA1-08",
+      "text": "How to stop automation: Open the same fleet, click the automation icon again, and disable the route.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-854CB512DFE80EA1",
+      "publication_date": "2025-12-02T19:07:11Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-854CB512DFE80EA1-09",
+      "text": "Automation helps you save time and keep multiple fleets working in the background, but make sure you have enough crew, food, fuel, and resources to sustain the tasks.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-854CB512DFE80EA1",
+      "publication_date": "2025-12-02T19:07:11Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Holosim",
+    "Crew"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47031333660563-How-does-automation-work-in-Holosim",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.273612Z"
+  }
+}

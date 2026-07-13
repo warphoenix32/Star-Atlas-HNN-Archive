@@ -1,0 +1,177 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-BED0C7C1B6E2E923",
+    "url": "https://build.staratlas.com/dev-resources/unreal-engine-tooling",
+    "title": "Star Atlas Build",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Build / ATMTA",
+    "published_at": null,
+    "updated_at": "2026-04-16T16:32:35.000Z",
+    "original_date_text": "2026-04-16T16:32:35.000Z",
+    "document_type": "TECHNICAL_DOCUMENTATION",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Build / ATMTA",
+    "publication_role": "TECHNICAL_DOCUMENTATION",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://github.com/staratlasmeta/FoundationKit",
+        "anchor_text": "https://github.com/staratlasmeta/FoundationKit"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Build / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official technical documentation titled “Star Atlas Build.” This record preserves what Star Atlas Build / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Unreal Engine Tooling | Star Atlas Build\nSkip to contentStar Atlas BuildSearchK\nAppearance\nMenuReturn to top\nUnreal Engine Tooling ​\nF-KIT ​\nThe F-KIT provides developers with free, state-of-the-art technology that will make it easier and faster for them to bring their Unreal Engine 5 games, products, and tools to Solana - and, by extension, to the Star Atlas metaverse. F-KIT offers the following:\nAllows the in-engine generation and import of Solana private keys and wallets.\nPermits Unreal Engine 5 to interact with on-chain data (reading on-chain data from the game and allowing the game interface to perform on-chain transactions: sNFTs, xNFTs, and tokens).\nCreates an Unreal Engine 5 wallet management feature that allows users to see and interact with all of their SPL tokens and NFTs.\nEmbeds development support, including visual coding blueprints for user interfaces and user experience.\nIntegrates with any Solana program.\nHere is the link to the F-Kit repository: https://github.com/staratlasmeta/FoundationKit",
+  "content_hash": "a48d9fdfb19806aec4c170c4b1169282ce8a98b41286f4831511529cf21e9fe4",
+  "entities": [
+    "ATLAS",
+    "F-KIT",
+    "Solana"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-BED0C7C1B6E2E923-01",
+      "text": "Unreal Engine Tooling | Star Atlas Build Skip to contentStar Atlas BuildSearchK Appearance MenuReturn to top Unreal Engine Tooling ​ F-KIT ​ The F-KIT provides developers with free, state-of-the-art technology that will make it easier and faster for them to bring their Unreal Engine 5 games, products, and tools to Solana - and, by extension, to the Star Atlas metaverse.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-BED0C7C1B6E2E923",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-BED0C7C1B6E2E923-02",
+      "text": "F-KIT offers the following: Allows the in-engine generation and import of Solana private keys and wallets.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-BED0C7C1B6E2E923",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-BED0C7C1B6E2E923-03",
+      "text": "Permits Unreal Engine 5 to interact with on-chain data (reading on-chain data from the game and allowing the game interface to perform on-chain transactions: sNFTs, xNFTs, and tokens).",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-BED0C7C1B6E2E923",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-BED0C7C1B6E2E923-04",
+      "text": "Creates an Unreal Engine 5 wallet management feature that allows users to see and interact with all of their SPL tokens and NFTs.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-BED0C7C1B6E2E923",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-BED0C7C1B6E2E923-05",
+      "text": "Embeds development support, including visual coding blueprints for user interfaces and user experience.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-BED0C7C1B6E2E923",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-BED0C7C1B6E2E923-06",
+      "text": "Here is the link to the F-Kit repository: https://github.com/staratlasmeta/FoundationKit",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-BED0C7C1B6E2E923",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "ATLAS",
+    "F-KIT"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [
+    "Solana"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://build.staratlas.com/dev-resources/unreal-engine-tooling",
+      "anchor_text": "Skip to content"
+    },
+    {
+      "url": "https://build.staratlas.com/",
+      "anchor_text": "Star Atlas Build"
+    },
+    {
+      "url": "https://discord.com/invite/staratlas",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://github.com/staratlasmeta/FoundationKit",
+      "anchor_text": "https://github.com/staratlasmeta/FoundationKit"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://build.staratlas.com/dev-resources/unreal-engine-tooling",
+      "anchor_text": "Skip to content"
+    },
+    {
+      "url": "https://build.staratlas.com/",
+      "anchor_text": "Star Atlas Build"
+    },
+    {
+      "url": "https://github.com/staratlasmeta/FoundationKit",
+      "anchor_text": "https://github.com/staratlasmeta/FoundationKit"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://build.staratlas.com/dev-resources/unreal-engine-tooling",
+    "final_url": "https://build.staratlas.com/dev-resources/unreal-engine-tooling",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 32838,
+    "retrieved_at": "2026-07-13T01:04:30.601809Z",
+    "elapsed_ms": 112
+  }
+}

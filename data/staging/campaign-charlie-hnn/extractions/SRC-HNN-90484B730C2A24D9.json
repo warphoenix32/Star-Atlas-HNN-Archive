@@ -1,0 +1,254 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-90484B730C2A24D9",
+    "url_id": "URL-90484B730C2A24D9",
+    "url": "https://hologramnews.com/michael-wagner-addresses-star-atlas-community-blowback-on-acquisition-of-multichain-ventures",
+    "title": "Michael Wagner addresses Star Atlas community blowback on acquisition of Multichain Ventures - Hologram News Network 🦉",
+    "author": "UNKNOWN",
+    "publisher": "Hologram News Network (HNN)",
+    "publication_identity": "HNN website (hologramnews.com)",
+    "published_at": "2024-04-24T18:27:40+00:00",
+    "updated_at": "2024-04-24T18:27:40+00:00",
+    "retrieved_at": "2026-07-13T00:08:49.478977Z",
+    "document_type": "EDITORIAL",
+    "source_role": "EDITORIAL",
+    "publication_role": "EDITORIAL",
+    "classification_rationale": "Publication uses explicit commentary, prediction, or editorial framing."
+  },
+  "source_lineage": {
+    "publication": "HNN website (hologramnews.com)",
+    "publication_role": "EDITORIAL",
+    "relationship": "ANNOTATES",
+    "primary_sources": [],
+    "original_creators": [],
+    "attribution_chain": [],
+    "lineage_confidence": "UNKNOWN"
+  },
+  "summary": {
+    "archival_abstract": "This editorial published by Hologram News Network (HNN) on 2024-04-24 documents “Michael Wagner addresses Star Atlas community blowback on acquisition of Multichain Ventures - Hologram News Network 🦉.” Its surviving text addresses economy, game development, community, lore, technology. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "Michael Wagner addresses Star Atlas community blowback on acquisition of Multichain Ventures\nBy KrigsPublished On: 24 April 2024Tags: tokes, Wagner\nStar Atlas made the recent announcement of their acquisition of Multichain Ventures, a previous project created and run by Star Atlas CEO Michael Wagner. The announcement detailed ATMTA’s incorporation of the Tokes intellectual property and subsequent TOKES token into the Star Atlas metaverse. Announced on April 20th or 4/20, the release was supposed to coincide with a popular date in cannabis culture.\nHowever, the announcement by Wagner and team was met with strong and vocal opposition by the Star Atlas community with a number of various concerns outlaid by community members. Facing strong public opinion, Wagner took to the Star Atlas Discord to address these concerns. Following is Wagner’s direct commentary.\nA personal message regarding the acquisition of Multichain Ventures and integration of the Tokes community into Star Atlas\nAs a preface, I want to note that the announcement we made on April 20th was not intended to drive Star Atlas community members to take any action. We were merely outlining the process of integration from where we are today, starting with the possibility of bridging tokes from the Waves Blockchain over to Solana. While we have been actively structuring economics surrounding this integration, it is subordinated (lower priority) to any of our other core efforts on Star Atlas today. Nevertheless, April 20th, 420, is broadly recognized as a day of significance within cannabis culture, and proved a timely opportunity for us to at least instantiate these efforts. More information will be forthcoming with respect to Cultivation Facility quantities and valuations. While we have released some preliminary numbers, they of course, as always, are subject to change until finalized.\nBelow I’ll outline responses to some of the key areas people have communicated as being a concern with this integration.\nAsset Dilution\nFrom my perspective, this appears to be overwhelmingly the largest concern of the community. And I want to address two aspects of this: asset “dilution” within existing SA assets, and asset “dilution” associated with the release of a new asset class.\nStarting with existing Star Atlas assets, and in spite of comments suggesting the alternative, I strongly disagree with the premise that the release of game assets like new ship models results in dilution of existing game/ship assets. While I agree that it does result in new inventory, and more competition between potential buyers/sellers of each ship, I would argue that each ship model is intended to serve a unique purpose or niche within the game. As you know, substantial complexity exists across class (scale), specialization, and underlying stats/metrics with each ship we release. No two ships are intended to perform the same across the game. Each ship model targets a distinct audience based on its capabilities. And while I don’t have the specifics on hand, we are still anticipating another 90 or so ship models to be released before ATMTA assets are exhausted. Though the userbase today might not realize the full benefits of this variability, should we achieve our goals of reaching 10’s of millions of players (or realistically, even 100,000’s of players), the novelty of our design will materialize.\nTaking this a step further, our vision for game assets is to transition from SFT assets that we have today into truly unique 1:1’s going in to the future. Enabling us to capture data, on chain, of the individual actions players take utilizing their asset. Imagine owning a C11, and using it in the historical capture of a highly contested territory on the map. That ship is marked as having participated in that event. Or perhaps it’s a ship that has traveled the most AU’s in the game. Those assets are unique, and it’s reasonable to assume that they will derive at least *some* collectability value as a result of those actions. The list of possibilities is endless, and it’s where we see Star Atlas evolving over time.\nSeparately, with respect to introducing a new asset class, I once again argue that these are in no way competing with existing assets on the market. We went to great lengths to design an integration point that in fact compartmentalized and isolated these assets from the existing asset base. The intention was to specifically *prevent* the notion of dilution. We aren’t increasing the total supply of any asset (nor will we, as we have never done). We created a new gameplay loop and new asset class dedicated to that loop to isolate the existing asset base and insulate all of you, our current supporters, from being negatively impacted by this integration.\nThe purpose for isolating these assets from the existing community (via a tokes purchasing requirement) is two fold. And the first is to minimize harm to any of our existing users by facilitating the opening of this asset class, and enabling price discovery to occur. In full transparency, I don’t specifically know how many users will transition over from tokes. It has seen extremely limited support in 4+ years, since the conception of Star Atlas. Our estimates place probable transition of some $2-$5M in value from tokes in to Star Atlas. However, we could see more or less value transfer depending on how virally the news circulates. There are approximately 330,000,000 tokes in public circulation that could potentially transfer to Cultivation assets. All tokes that were either held in Multichain Ventures treasury wallets, or otherwise intended for future distributions are being burned. Putting that in to perspective, we have some $300,000,000 in total SA assets (at VWAP) either in circulation or on the marketplace today.\nWe also did not enable the purchase of any other existing asset within the game using tokes because doing so has the possibility of negatively impacting those assets, should they just be sold on the market. Those assets might not be moving quickly right now, but we have seen how powerful the sales engine can get in heated markets. And if someone uses tokes to purchase an asset and then immediately dumps it, that is going to impact *someone*. Everything is intended to be compartmentalized as a part of this integration. This should be a recurring theme at this point.\nThe second component of the restricted allocation (to tokes), is to ensure that we can both minimize the quantity of these assets being minted, while also ensuring that existing holders of tokes have an opportunity to purchase. Should we enable competition in limited inventory, the Cultivation Facilities could sell out before all redemptions from tokes are processed. A core initiative of this integration is to fully deprecate tokes at the completion of the campaign. Tokes received by ATMTA are just being burned. The tokes token will not exist after this, and will not be supported by ATMTA or within Star Atlas after after this campaign. It’s imperative that we ensure inventory exists for the tokes audience so we can successfully deprecate the token. Let’s take this opportunity to bring potential new users into SA, get an initial asset base, and start playing. After we have numbers surrounding the redemptions in tokes, we can more appropriately make a decision about total quantities of inventory available to everyone else.\nFinally, on the topic of resource inflation. These new facilities are *not* competing with existing asset classes (i.e. claim stakes/mining, etc.) in any material way. They are producing new base resources, predominantly mni flower and hemp derivatives, with minor allocations to carbon and and biomass. The former two new raw materials will likely make up 85% or greater of the total production value of the facility. Further, as claim stakes and cultivation facilities see support added in game, the cultivation facilities will likely produce zero emissions, but still be required for processing of particular materials and recipes.\nExit Liquidity\nI want to reinforce here that at no point have we encouraged existing Star Atlas community members to purchase tokes or, when possible, purchase the Cultivation Facilities from this tokes integration. In fact, I’d strongly advocate for the alternative, which is to wait for price discovery to occur before taking any action towards this new asset class. No one is forcing you to get involved in the stim-production loop. These are temporary, consumable buffs. And we’re still months away from a simple integration into Faction Claims, let alone more deeply into SAGE/SA in crafting and consumption. While I appreciate everyone wants to be a first mover and capture an edge, my hope is that you’ll take time to allow information to surface so you can make better decisions with respect to the value and utility of these assets. To be clear, the only stakeholder losing potential value capture here is ATMTA. Which is a topic I’ll discuss in more detail below, but is a position I’m also willing to take to close the book on Multichain Ventures. You are only “exit liquidity” if you decide to speculate on these assets today!\nBenefit to Star Atlas\nFirst and foremost, this integration enables new economic gameplay loops in the form of stim production and consumption. And while we could have accomplished this without the tokes integration, it is thematically appropriate to drive this type of game activity through a product like tokes. It is complementary to the lore. To be abundantly clear, we are not adding cannabis to Star Atlas. However, we will be introducing various forms of neutropics, hallucinogens, stimulants, and other industrial (hemp) products to crafting systems. New crafting outputs, and greater variation in crafting options increases the possibility of specialization. I’ve noted in the past that our economic model is intended to sustain value through the establishment of niches within the game, wherein players are participating more in trade with one another as a way of producing value, in place of relying on an inflationary token model (i.e. ATLAS) to create Play to Earn opportunities. No individual player should be able to specialize in all game loops, particularly as game dev progresses. This places a requirement of trade on all players, increases GDP, and ultimately establishes a robust economy.\nI’ll also add that there is a potential benefit in user acquisition here. Not only from the existing tokes community, but also from other people who are captivated by this particular gameplay loop. It is debatable as to whether or not we will see much user inflow from tokes, noting again the lack of support for a number of years. At one point, I believe there were ~10,000 wallets holding tokes. Some of those are gamers. Some of those will convert to tokes assets and play. Some of those will simply sell tokes or the game assets. However, I do feel there is a reasonable hedge in asset release versus user acquisition. We will either see a large number of people use their tokes for redemptions, with some percentages converting to Star Atlas users, or we will not. In the latter case, we can expect minimal release of the Cultivation Facility asset through this program, and greater availability for the existing SA community.\nAnd finally, I also want to point out that users migrating from tokes into these assets are restricted to a particular (new) asset class. They do not intrinsically own ships. The do not intrinsically own crew. They are not able to craft, or even participate in SAGE/SA. Should they be interested in doing so, they will need to independently purchase all other assets that will enable them to participate in the game. If they decide they do not want to buy any other assets, all of their output of raw materials become available to other producers in the supply chain. You can provide shipping and logistics. You can craft these into consumables. You can in turn sell your productive output with enhanced value created by you. You are not isolated from participating in this gameplay loop, even if you don’t own a Cultivation Facility. That’s the beauty of the Star Atlas economy. We’re converting these new users into supply chain participants in a *limited* initial capacity. And this creates new opportunities for all of our existing users.\nBenefits to ATMTA\nFor a number of the reasons outlined above, ATMTA also benefits from potential new users acquisition and revenue derived from both additional asset purchases. Separately, while I won’t go into elaborate detail, ATMTA was also able to secure a fully uncorrelated revenue stream resulting from the acquisition of tokes IP, which includes a licensing agreement with a food and beverage organization. That revenue stream is relatively small today, estimated at $500,000 annually, but it is one that could scale into multiples of that in the future. Any additional revenue stream, especially those not associated with our core business activities today, adds greater resilience to our business economics. This is not only a net positive for us, it’s a net positive for anyone wanting to see the Star Atlas vision fully materialize.\nThe MV acquisition of all of tokes IP is **not** worthless simply because it was a cashless transaction. I was able to secure stakeholder alignment with shareholders of both companies without costing ATMTA any money because we’ve also taken on the responsibility of delivering value to the tokes community. As I’ve argued above, this is not through inflation of game assets or at the cost of the Star Atlas community, but at the cost of engineering, design, and development resources contributed to gameplay development from ATMTA. It was overall a big win for both companies.\nPersonal Benefits\nPeople have suggested impropriety could have occurred on the back end of these deals. I would hope that after all of these years of development, and all of the actions I’ve taken, my integrity would not come in to question like this. Nevertheless, I can confirm that no tokes have been distributed to anyone in the the last 4+ years. Those assets have all been dormant in the Multichain Ventures treasury. While I am a holder of tokes, a result of both earning it through various compensation agreements with Multichain, or otherwise purchasing them on my own volition, I’m going to commit to burning my own personal supply of tokens. I will not be transitioning any of my assets into SA assets. However, I will not request anyone else from the legacy management team or otherwise token purchasers to do the same. My personal benefit consists of removing the responsibility of managing a second company. My focus has been nearly 100% on Star Atlas since inception, but I always had the knowledge in my mind that something needed to be done with tokes. This is that thing. And the relief from that responsibility is invaluable.\nAbout the Author: Krigs\nAn ardent supporter of emerging technologies, Krigs has been covering blockchain games for over two years and believes passionately in their power to revolutionize our collective gaming experience.\nlatest video\neditor's pick\nDiscover Star Atlas Alpha Content Pipelines at Solana Breakpoint 2022\nUnlocking Star Atlas Secrets: CEO Michael Wagner’s CoinDesk.TV Exclusive\nnews via inbox\nGet news from the Hologram first\nVisit Galia Merchants",
+  "content_hash": "d869245a2e68a01bf801e23b0ed61152b5cc5fdde8d7c985d7f6151625145d65",
+  "major_topics": [
+    "economy",
+    "game development",
+    "community",
+    "lore",
+    "technology"
+  ],
+  "entities": [
+    "ATLAS",
+    "Krigs",
+    "Michael Wagner",
+    "SAGE",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-90484B730C2A24D9-01",
+      "text": "Announced on April 20th or 4/20, the release was supposed to coincide with a popular date in cannabis culture.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-90484B730C2A24D9",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-90484B730C2A24D9-02",
+      "text": "More information will be forthcoming with respect to Cultivation Facility quantities and valuations.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-90484B730C2A24D9",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-90484B730C2A24D9-03",
+      "text": "While we have released some preliminary numbers, they of course, as always, are subject to change until finalized.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-90484B730C2A24D9",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-90484B730C2A24D9-04",
+      "text": "And while I don’t have the specifics on hand, we are still anticipating another 90 or so ship models to be released before ATMTA assets are exhausted.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-90484B730C2A24D9",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-90484B730C2A24D9-05",
+      "text": "Though the userbase today might not realize the full benefits of this variability, should we achieve our goals of reaching 10’s of millions of players (or realistically, even 100,000’s of players), the novelty of our design will materialize.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-90484B730C2A24D9",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-90484B730C2A24D9-06",
+      "text": "Those assets are unique, and it’s reasonable to assume that they will derive at least *some* collectability value as a result of those actions.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-90484B730C2A24D9",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-90484B730C2A24D9-07",
+      "text": "We aren’t increasing the total supply of any asset (nor will we, as we have never done).",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-90484B730C2A24D9",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-90484B730C2A24D9-08",
+      "text": "In full transparency, I don’t specifically know how many users will transition over from tokes.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-90484B730C2A24D9",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-90484B730C2A24D9-09",
+      "text": "The tokes token will not exist after this, and will not be supported by ATMTA or within Star Atlas after after this campaign.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-90484B730C2A24D9",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-90484B730C2A24D9-10",
+      "text": "The former two new raw materials will likely make up 85% or greater of the total production value of the facility.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-90484B730C2A24D9",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-90484B730C2A24D9-11",
+      "text": "Further, as claim stakes and cultivation facilities see support added in game, the cultivation facilities will likely produce zero emissions, but still be required for processing of particular materials and recipes.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-90484B730C2A24D9",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-90484B730C2A24D9-12",
+      "text": "However, we will be introducing various forms of neutropics, hallucinogens, stimulants, and other industrial (hemp) products to crafting systems.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-90484B730C2A24D9",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "SAGE",
+    "Star Atlas",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [
+    "ONI"
+  ],
+  "actors": [
+    "Michael Wagner",
+    "Krigs"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://hologramnews.com/michael-wagner-addresses-star-atlas-community-blowback-on-acquisition-of-multichain-ventures/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://hologramnews.com/author/krigs/",
+      "anchor_text": "Krigs"
+    },
+    {
+      "url": "https://hologramnews.com/tag/tokes/",
+      "anchor_text": "tokes"
+    },
+    {
+      "url": "https://hologramnews.com/tag/wagner/",
+      "anchor_text": "Wagner"
+    },
+    {
+      "url": "https://medium.com/star-atlas/a-metaverse-in-expansion-star-atlas-acquires-assets-and-intellectual-property-from-multichain-597c5f4d7f2c",
+      "anchor_text": "Star Atlas made the recent announcement of their acquisition of Multichain Ventures"
+    },
+    {
+      "url": "https://hologramnews.com/",
+      "anchor_text": "Wagner"
+    },
+    {
+      "url": "https://hologramnews.com/discover-star-atlas-alpha-content-pipelines-at-solana-breakpoint-2022/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://hologramnews.com/unlocking-star-atlas-secrets-ceo-michael-wagners-coindesk-tv-exclusive/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://hologramnews.com/galia-merchants/",
+      "anchor_text": "Visit Galia Merchants"
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "UNKNOWN",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Author is not explicit in the surviving publication metadata.",
+      "No explicit primary source was identifiable from preserved outbound links."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://web.archive.org/web/20240529094141id_/https://hologramnews.com/michael-wagner-addresses-star-atlas-community-blowback-on-acquisition-of-multichain-ventures/",
+    "final_url": "https://web.archive.org/web/20240529094141id_/https://hologramnews.com/michael-wagner-addresses-star-atlas-community-blowback-on-acquisition-of-multichain-ventures/",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "response_size": 220028,
+    "elapsed_ms": 1309,
+    "retrieval_mode": "INTERNET_ARCHIVE",
+    "archive_capture": {
+      "timestamp": "20240529094141",
+      "original": "https://hologramnews.com/michael-wagner-addresses-star-atlas-community-blowback-on-acquisition-of-multichain-ventures/",
+      "digest": "DZNAFN6X4RNK7V3GK7OR6V6TFGQWNVGO"
+    }
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-FBD99B79F9DD0637",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47061501855251-What-is-the-production-capacity-of-a-Claim-Stake",
+    "title": "What is the production capacity of a Claim Stake?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-03T17:02:04Z",
+    "updated_at": "2025-12-08T18:23:18Z",
+    "original_date_text": "2025-12-03T17:02:04Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “What is the production capacity of a Claim Stake?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Claim Stakes enlisted in Faction Claims produce and store R4 resources Fuel, Food, Toolkits, and Ammunition. However, each stake has a maximum storage capacity based on its tier. Once this cap is reached, production pauses until you claim your rewards.\nHow Capacity Works\nEach Claim Stake has afixed storage limit for each R4 type\nOnce full, production stops until you claim the accumulated resources\nCapacity by Claim Stake Tier\nTier\nCapacity (Days)\nFood\nFuel\nToolkits\nAmmunition\n1\n2.08\n299\n444\n433\n292\n2\n4.33\n1,352\n1,248\n1,456\n1,404\n3\n4.375\n4,396\n5,014\n4,680\n4,513\n4\n5.75\n14,100\n14,898\n13,568\n5\n6.916\n32,276\n25,821\n32,863\n31,690\n🔁 Once a stake hits these caps, it stops producing. Make sure to claim your R4 regularly to avoid production downtime.",
+  "content_hash": "5d1e9b374b41774103f846e5a9444e953a3bac8fb5fb42df9a250e4f33298ccd",
+  "entities": [
+    "Claim Stakes"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-FBD99B79F9DD0637-01",
+      "text": "Claim Stakes enlisted in Faction Claims produce and store R4 resources Fuel, Food, Toolkits, and Ammunition.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-FBD99B79F9DD0637",
+      "publication_date": "2025-12-03T17:02:04Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-FBD99B79F9DD0637-02",
+      "text": "However, each stake has a maximum storage capacity based on its tier.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-FBD99B79F9DD0637",
+      "publication_date": "2025-12-03T17:02:04Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-FBD99B79F9DD0637-03",
+      "text": "Once this cap is reached, production pauses until you claim your rewards.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-FBD99B79F9DD0637",
+      "publication_date": "2025-12-03T17:02:04Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-FBD99B79F9DD0637-04",
+      "text": "How Capacity Works Each Claim Stake has afixed storage limit for each R4 type Once full, production stops until you claim the accumulated resources Capacity by Claim Stake Tier Tier Capacity (Days) Food Fuel Toolkits Ammunition 1 2.08 299 444 433 292 2 4.33 1,352 1,248 1,456 1,404 3 4.375 4,396 5,014 4,680 4,513 4 5.75 14,100 14,898 13,568 5 6.916 32,276 25,821 32,863 31,690 🔁 Once a stake hits these caps, it stops producing.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-FBD99B79F9DD0637",
+      "publication_date": "2025-12-03T17:02:04Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-FBD99B79F9DD0637-05",
+      "text": "Make sure to claim your R4 regularly to avoid production downtime.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-FBD99B79F9DD0637",
+      "publication_date": "2025-12-03T17:02:04Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Claim Stakes"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47061501855251-What-is-the-production-capacity-of-a-Claim-Stake",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.159759Z"
+  }
+}

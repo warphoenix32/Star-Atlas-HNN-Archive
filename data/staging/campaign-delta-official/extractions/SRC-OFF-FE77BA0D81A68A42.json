@@ -1,0 +1,216 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-FE77BA0D81A68A42",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47053488462995-What-is-ATLAS-Prime",
+    "title": "What is ATLAS Prime?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-03T13:17:02Z",
+    "updated_at": "2025-12-08T18:25:04Z",
+    "original_date_text": "2025-12-03T13:17:02Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “What is ATLAS Prime?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "What's ATLAS Prime?\nATLAS Prime is a cutting-edge service introduced by ATMTA, Inc. It allows players and users within Starbased ecosystem to pay for their transactions using ATLAS tokens rather than the SOL, Solana's native currency.\nHow Does ATLAS Prime?\nWhen you enable the ATLAS Prime service, all transaction fees you incur within the ecosystem are automatically covered using the ATLAS tokens present in your wallet. It streamlines your token management, ensuring that you only have to concern yourself with your ATLAS balance.\nImagine initiating a transaction in Starbased: Instead of being charged a fee in SOL, an equivalent amount of ATLAS tokens, based on the current market rate, is deducted from your account. The process is designed to be automatic, efficient, and hassle-free.\nWhy Does This Benefit Me?\nUnified Currency Management: Your gameplay earnings in Star Atlas are all denominated in ATLAS. ATLAS Prime ensures that this remains the primary currency you engage with, without the need to constantly balance between ATLAS and SOL.\nEase of Transactions: Operating on the Solana blockchain usually requires a default fee in SOL. By introducing ATLAS Prime, we've simplified this for you. ATMTA, Inc. covers the SOL fee using a proxy service and accepts payments in ATLAS, ensuring your Star Atlas experience remains uninterrupted.\nFlexibility: Although the ATLAS Prime aims to simplify your in-game transactions, we understand the diverse needs of our players. If you prefer to use SOL for your network transactions, you can easily disable ATLAS Prime in the settings panel at any time.",
+  "content_hash": "3259fb5dbd49a3b67434ede0d93d6b24be8bb10033002e879b490d795ba473ee",
+  "entities": [
+    "ATLAS",
+    "ATMTA",
+    "Atlas Prime",
+    "Solana"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-FE77BA0D81A68A42-01",
+      "text": "ATLAS Prime is a cutting-edge service introduced by ATMTA, Inc.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-FE77BA0D81A68A42",
+      "publication_date": "2025-12-03T13:17:02Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-FE77BA0D81A68A42-02",
+      "text": "It allows players and users within Starbased ecosystem to pay for their transactions using ATLAS tokens rather than the SOL, Solana's native currency.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-FE77BA0D81A68A42",
+      "publication_date": "2025-12-03T13:17:02Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-FE77BA0D81A68A42-03",
+      "text": "When you enable the ATLAS Prime service, all transaction fees you incur within the ecosystem are automatically covered using the ATLAS tokens present in your wallet.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-FE77BA0D81A68A42",
+      "publication_date": "2025-12-03T13:17:02Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-FE77BA0D81A68A42-04",
+      "text": "It streamlines your token management, ensuring that you only have to concern yourself with your ATLAS balance.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-FE77BA0D81A68A42",
+      "publication_date": "2025-12-03T13:17:02Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-FE77BA0D81A68A42-05",
+      "text": "Imagine initiating a transaction in Starbased: Instead of being charged a fee in SOL, an equivalent amount of ATLAS tokens, based on the current market rate, is deducted from your account.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-FE77BA0D81A68A42",
+      "publication_date": "2025-12-03T13:17:02Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-FE77BA0D81A68A42-06",
+      "text": "The process is designed to be automatic, efficient, and hassle-free.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-FE77BA0D81A68A42",
+      "publication_date": "2025-12-03T13:17:02Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-FE77BA0D81A68A42-07",
+      "text": "Unified Currency Management: Your gameplay earnings in Star Atlas are all denominated in ATLAS.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-FE77BA0D81A68A42",
+      "publication_date": "2025-12-03T13:17:02Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-FE77BA0D81A68A42-08",
+      "text": "ATLAS Prime ensures that this remains the primary currency you engage with, without the need to constantly balance between ATLAS and SOL.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-FE77BA0D81A68A42",
+      "publication_date": "2025-12-03T13:17:02Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-FE77BA0D81A68A42-09",
+      "text": "Ease of Transactions: Operating on the Solana blockchain usually requires a default fee in SOL.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-FE77BA0D81A68A42",
+      "publication_date": "2025-12-03T13:17:02Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-FE77BA0D81A68A42-10",
+      "text": "By introducing ATLAS Prime, we've simplified this for you.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-FE77BA0D81A68A42",
+      "publication_date": "2025-12-03T13:17:02Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-FE77BA0D81A68A42-11",
+      "text": "covers the SOL fee using a proxy service and accepts payments in ATLAS, ensuring your Star Atlas experience remains uninterrupted.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-FE77BA0D81A68A42",
+      "publication_date": "2025-12-03T13:17:02Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-FE77BA0D81A68A42-12",
+      "text": "Flexibility: Although the ATLAS Prime aims to simplify your in-game transactions, we understand the diverse needs of our players.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-FE77BA0D81A68A42",
+      "publication_date": "2025-12-03T13:17:02Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-FE77BA0D81A68A42-13",
+      "text": "If you prefer to use SOL for your network transactions, you can easily disable ATLAS Prime in the settings panel at any time.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-FE77BA0D81A68A42",
+      "publication_date": "2025-12-03T13:17:02Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "ATLAS",
+    "Atlas Prime"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [
+    "ATMTA",
+    "Solana"
+  ],
+  "guilds": [],
+  "external_sources": [],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47053488462995-What-is-ATLAS-Prime",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.461371Z"
+  }
+}

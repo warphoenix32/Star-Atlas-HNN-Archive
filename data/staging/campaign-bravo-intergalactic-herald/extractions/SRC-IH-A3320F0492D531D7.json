@@ -1,0 +1,180 @@
+{
+  "source": {
+    "source_id": "SRC-IH-A3320F0492D531D7",
+    "url_id": "URL-A3320F0492D531D7",
+    "url": "https://intergalacticherald.com/star-atlas-recap/event-recap-29-star-atlas-summer-town-hall-part-3/",
+    "inventory_url": "https://intergalacticherald.com/star-atlas-recap/event-recap-29-star-atlas-summer-town-hall-part-3",
+    "title": "Event Recap 29: Star Atlas Summer Town Hall Part 3",
+    "author": "Intergalactic Herald",
+    "publisher": "Intergalactic Herald",
+    "published_at": "2025-08-27T11:00:00",
+    "updated_at": "2025-08-30T18:19:04",
+    "retrieved_at": "2026-07-12T22:06:31.142219Z",
+    "document_type": "EVENT_RECAP",
+    "source_role": "CURATED_SUMMARY",
+    "source_classification": "CURATED_SUMMARY",
+    "classification_rationale": "Event recap summarizes an externally originated event, broadcast, or discussion.",
+    "wordpress_type": "posts"
+  },
+  "summary": {
+    "neutral_abstract": "In this episode, hear an AI summary of the latest Star Atlas community event. Full video recordings can be found on the YouTube channel of Star Atlas TV at https://www.youtube.com/@staratlastv. I am launching a Star Atlas merch store. Please check it out at Intergalactic Gear. I am also creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic",
+    "historical_value": "Contemporary Intergalactic Herald publication preserved with role and attribution boundaries.",
+    "current_validity_warning": "Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources."
+  },
+  "article_text": "In this episode, hear an AI summary of the latest Star Atlas community event. Full video recordings can be found on the YouTube channel of Star Atlas TV at https://www.youtube.com/@staratlastv.\nListen on Apple Podcasts\nListen on Spotify\nI am launching a Star Atlas merch store. Please check it out at Intergalactic Gear.\nI am also creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic Coalition.\nStar Atlas Weekly Recap Newsletter – Catch up on all the important videos and articles from the Star Atlas community in a weekly recap email newsletter. https://intergalacticherald.com/star-atlas-weekly-recap-newsletter/\nStar Atlas Week in Review Podcast – Audio podcast where I break down everything that happened in Star Atlas the past week plus my analysis on what it all means. https://intergalacticherald.com/podcast/\nStar Atlas Discord News Feed Newsletter – Star Atlas Discord announcements send directly to your email so you never miss out on updates from the Star Atlas team. https://intergalacticherald.com/star-atlas-discord-news-feed/\nIf you would like to support my efforts, donations can be sent to intergalacticherald.sol\nPodcast Transcript\nThe latest Star Atlas Summer Town Hall provided a comprehensive overview of the ecosystem, highlighting significant updates across various products and initiatives, while also revealing new development tools and features. The event underscored a period of intense activity and updates across almost every product pipeline.\nThe community’s engagement was a central theme, with shout-outs to fully community-driven efforts like the Iris Quest tournament, which saw 14 teams compete, and the Stratus Comet event during Gamescom that was overbooked with over 70 attendees. The Galia Cup, a community-driven league for the UE5 game, is also starting its fourth season, with Star Atlas providing prizes. These initiatives are seen as accelerating activity and fostering decentralized ownership, with the Star Atlas DAO (on PIP 18) funding community meetups and events. New teams and sponsors from outside the core Star Atlas community, such as Tokenized 360 and Solana Gaming, are joining and contributing value, breaking the “echo chamber” and expanding the ecosystem’s reach to new communities like Turkish and Spanish speakers.\nRegarding Hollow Sim, significant efforts have been made to address stability and scalability. The infrastructure is systematically being migrated from Starcom V2 to direct RPC calls, which is the same technology used across the Solana ecosystem and is now more mature. This aims to handle current player load issues and prepare the system to scale for a 10x player base growth, simultaneously battle-testing the infrastructure for the upcoming C4 product. Active development includes updating the contract race and win condition UI, progressing on the Territory Control MVP (allowing starbase capture), and refreshing the combat UI. The Battle Pass MVP has shown strong user acquisition with a 26% conversion rate among players who complete the first quest, and Hollow Sim boasts a robust Daily Active User (DAU) count of 1429. Plans for Chapter 2 include content updates that build on Chapter 1 without requiring players to restart, providing starting packs of ships and resources, and focusing on territory control with earlier access to capital and commander ships. Future features also include simplified starbase upgrades, experimentation with microtransactions, and the Battle Pass potentially evolving into a Zinc subscription, alongside the introduction of an NPC faction for PvE content. While the route manager, currently a serial action, has some delays, it effectively reduces logistical complexity and has significantly increased resource generation, allowing players to shift focus to combat and territory control. The product goals for Hollow Sim emphasize a free and simplified user onboarding experience with a low financial barrier, abstracting blockchain elements to attract a mainstream audience, and acting as a tool to convert users to the higher-stakes Sage mainnet economy. It also serves as a new revenue stream for Automata, with potential future uses of Battle Pass revenue to fund seasonal reward pools and token buybacks, while also acting as a proving ground for mechanics destined for Sage C4 and beyond.\nStarbase is receiving an “infinite starbase” update to revitalize its aging economic perspective. A single phantom starbase will be added to each faction, positioned on the border of safe and medium-risk zones. These starbases, starting at Tier One, will have effectively infinite upgrade recipes, allowing players to deposit upgrade materials up to Tier Five, continuously generating Loyalty Points (LP). Two new, undisclosed resources will also be introduced. These phantom starbases are ephemeral and will not persist into C4, serving exclusively as resource sinks for the current Starbase game. Critically, any starbase upgraded to Tier Five in the current Starbase will become a “king system” in C4, granting regional control over that area and ensuring all other core systems in that region start at Tier One. Discussions are ongoing about phasing out FICs (Food, Item, Component) in the future, possibly with the introduction of combat systems to Starbase.\nA major technical announcement was the introduction of Starframe, a new Solana program framework developed by Star Atlas itself. This move was necessitated by the growing complexity of Sage, which pushed Anchor’s limitations. Starframe aims to reduce development complexity, offer more flexible data structures (like dynamically sized accounts), simplify account structs, be highly modifiable, and minimize developer error. It overcomes Anchor’s fixed-size account issues by making unsized types first-class citizens, allowing complex entities like a fleet (with ships, cargo, fuel) to be represented in a single account, rather than multiple linked accounts. This also leads to the elimination of rent on token accounts in C4, as cargo and other in-game assets will be tracked within primary game accounts, allowing users to recover rent deposits from existing token accounts. Starframe is built on Pinocchio, a faster Solana SDK, and will be open-sourced as a valuable contribution back to the Solana ecosystem, complementing Zinc development.\nUnreal Engine 5 (UE5) is also receiving a new patch, featuring hardware wallet authentication (Ledger support), balance updates for shooter modes (including a shotgun buff, Gatling gun changes, and heavy weapons no longer starting with ammo), improved team balancing, fixes for jittery character movement, and the ability to descend in hover mode. The most significant announcement for UE5 is the introduction of “Inc” (Inter Nanite Kinematics), a new exclusive resource earnable only by playing Star Atlas in UE5. Players will earn one Inc for every 100 XP gained in a match, with periodic airdrops to prevent exploitation. Inc is a crucial bridge between UE5 gameplay and Sage Labs, as it can be imported, transported to phantom starbases, and deposited as an upgrading resource worth 100,000 LP per unit. To celebrate this, a double XP weekend (August 29-31) was announced, allowing players to earn double Inc. In the lore, Inc is envisioned as a bridge between Zinc (the blockchain substrate) and Star Atlas (the blockchain of its universe).\nFinally, Star Atlas is publicly releasing its C4 Development Toolkit (Sage Editor Suite) at ses.staratlas.com, offering unprecedented real-time access to developers’ internal tools. This comprehensive suite includes:\nLoop Matrix: A conditional listing tool for creating high-density data lists, such as ship components.\nShip Configurator: Allows users to configure ships and fleets, analyze component effects, and integrate with the combat simulator.\nCombat Simulator: Enables users to pit fleets against each other, analyze combat stats, damage types, and test different configurations, though current stats are placeholders and subject to change with testing.\nMap Editor: Displays the latest map, showcasing the new king and core systems (Tier Five Starbases from Sage will become King Systems in C4, granting regional control), resource distribution, and asteroid fields.\nIntegrated Claim Stakes, Crafting Habs, and Crafting Recipes Tools: These allow players to simulate designing claim stakes, managing resource extraction and processing (up to two production steps), operating crafting habs with job slots, and visualizing complex crafting recipe trees.\nResearch Nodes (Council Rank System): A simulator for skill trees across various careers and the council rank, demonstrating how players will earn and spend renown points, with existing Starbase XP converting to C4 skill points.\nThese tools, while currently prototypes to gauge gameplay feel, represent a transparent approach to development, allowing the community to plan strategies and stay updated as C4 progresses. This release is considered the official first release of the C4 Public Test Realm (PTR) for development.",
+  "content_hash": "dfdff7fd3f6dec5316717b6eb49059c297e7e2977c2ab86d961d97f55de2709b",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [],
+  "external_sources": [
+    {
+      "url": "https://www.youtube.com/@staratlastv",
+      "anchor_text": "https://www.youtube.com/@staratlastv"
+    },
+    {
+      "url": "https://podcasts.apple.com/us/podcast/star-atlas-week-in-review-podcast/id1678661043",
+      "anchor_text": "Listen on Apple Podcasts"
+    },
+    {
+      "url": "https://open.spotify.com/show/0aHDjCqFpy8Lzrkilv8n16",
+      "anchor_text": "Listen on Spotify"
+    },
+    {
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    }
+  ],
+  "primary_source_relationships": [
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/@staratlastv",
+      "anchor_text": "https://www.youtube.com/@staratlastv"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://podcasts.apple.com/us/podcast/star-atlas-week-in-review-podcast/id1678661043",
+      "anchor_text": "Listen on Apple Podcasts"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://open.spotify.com/show/0aHDjCqFpy8Lzrkilv8n16",
+      "anchor_text": "Listen on Spotify"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    }
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Verify which outbound links are primary sources and preserve creator attribution during promotion.",
+      "Source lineage: attribution requires manual confirmation."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=event-recap-29-star-atlas-summer-town-hall-part-3&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 14265,
+    "elapsed_ms": 2858,
+    "attempts": [
+      {
+        "endpoint": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=event-recap-29-star-atlas-summer-town-hall-part-3&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "http_status": 200,
+        "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=event-recap-29-star-atlas-summer-town-hall-part-3&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "content_type": "application/json; charset=UTF-8",
+        "response_size": 14265,
+        "elapsed_ms": 2858
+      }
+    ]
+  },
+  "source_lineage": {
+    "publication": "Intergalactic Herald",
+    "publication_role": "CURATED_SUMMARY",
+    "relationship": "CURATED_SUMMARY_OF",
+    "primary_sources": [
+      {
+        "publication": "Official Star Atlas Town Hall",
+        "author": "UNKNOWN",
+        "url": "UNKNOWN",
+        "organization": "Star Atlas",
+        "evidence": "Explicitly named in publication title"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "publication": "@Staratlastv",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/@staratlastv",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Listen on Apple Podcasts",
+        "author": "UNKNOWN",
+        "url": "https://podcasts.apple.com/us/podcast/star-atlas-week-in-review-podcast/id1678661043",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Listen on Spotify",
+        "author": "UNKNOWN",
+        "url": "https://open.spotify.com/show/0aHDjCqFpy8Lzrkilv8n16",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Intergalactic Gear",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticgear.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Intergalactic Coalition",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticcoalition.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Official Star Atlas Town Hall",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "UNKNOWN"
+      }
+    ],
+    "lineage_confidence": "MEDIUM"
+  }
+}

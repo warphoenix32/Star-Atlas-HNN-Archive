@@ -1,0 +1,527 @@
+{
+  "source": {
+    "source_id": "SRC-IH-032A15CF6BD5A0D5",
+    "url_id": "URL-032A15CF6BD5A0D5",
+    "url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-67/",
+    "inventory_url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-67",
+    "title": "Star Atlas Weekly News Recap #67",
+    "author": "Intergalactic Herald",
+    "publisher": "Intergalactic Herald",
+    "published_at": "2023-07-02T17:00:42",
+    "updated_at": "2023-07-02T16:24:57",
+    "retrieved_at": "2026-07-12T22:00:28.533750Z",
+    "document_type": "NEWSLETTER",
+    "source_role": "CURATED_SUMMARY",
+    "source_classification": "CURATED_SUMMARY",
+    "classification_rationale": "Weekly newsletter/recap aggregates developments and linked sources.",
+    "wordpress_type": "posts"
+  },
+  "summary": {
+    "neutral_abstract": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week. We are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us. Star Atlas Town Hall #40 – R2.1 Patch Updates, DAO Updates and Destination",
+    "historical_value": "Contemporary Intergalactic Herald publication preserved with role and attribution boundaries.",
+    "current_validity_warning": "Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources."
+  },
+  "article_text": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week.\nWe are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us.\nStar Atlas Town Hall #40 – R2.1 Patch Updates, DAO Updates and Destination Starbase\nMetaverse Nomads posted a video replay of the Star Atlas Townhall #40.\nSTAR ATLAS Town Hall Recap With Patch Notes & DAO Proposals\nMetaVerse Explorer posted a video recapping the Star Atlas Townhall.\nStar Atlas Recap News June 23 2023\nBeyond the Horizon posted a video recapping the past week of Star Atlas News.\nStar Atlas Chatter #2 – Bring out the IMP! Week in Review 6/16 – 6/23 2023\nRahMega posted a video reviewing the week of Star Atlas news.\nMetaverse Nomads #100 Star Atlas w/ Michael Wagner and Chypto\nMetaverse Nomads posted a video of their weekly Star Atlas live stream.\nStar Atlas Race Track Challenge\nBeyond the Horizon posted a video showing the Star Atlas race course.\nStar Atlas REC New Crafting Meta\nThe Hologram News Network posted a video of news about Star Atlas crafting.\nStar Atlas Data YOU REALLY NEED TO SEE Are We Creating a bubble?\nMetaVerse Explorer posted a video about Star Atlas data analysis.\nWEEKLY STAR ATLAS NEWSLETTER #85\nAephia published their weekly Star Atlas newsletter.\nAll 12 Factions and their Alignments. – STAR ATLAS Lore of ECOS beginnings Revealed!!!\nGladiator posted a video of Star Atlas lore.\nStar Atlas Race Track Challenge with THE COPILOT\nBeyond The Horizon posted a video of running the Star Atlas race track.\nThe Star Atlas Bot Crackdown\nThe Hologram published a video about a bot crackdown in Star Atlas.\nStar Atlas : PIP-X The First Player Initiated DAO Proposal\nPockThePirate posted a video interview with Signal.\nSTAR ATLAS – NEW SHIP SPECS OVERHAULED\nThe Club posted a video looking at the Star Atlas Lore Wiki.\nExploring the Star Atlas Showroom: Little Secrets\nThe Hologram published an article about secrets in the Star Atlas Showroom.\nYou are not going to want to hear this.\nGladiator posted a video of his reactions to Star Atlas DAO proposals.\nDestination Starbase: Rush Towards Prosperity in Star Atlas Intensifies\nStar Atlas published an article about the release of new mining ships.\n#7 | NO MORE ESCAPE VELOCITY!!! | Star Atlas\nPathfinder posted a video of Star Atlas news.\nStar Atlas summary Brew 67 Great episode\nOCG Thor posted a video on his thoughts related to a Star Atlas Brew.\nNew Star Atlas State of the Economy Report Highlights Liberalization of Player Resource Economy\nStar Atlas published their quarterly economy report.",
+  "content_hash": "da36605480cf70ab1bb12dabfa298abd8e11081316b89c5afe0dfa82e39e278c",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [
+    "2023"
+  ],
+  "external_sources": [
+    {
+      "url": "https://www.youtube.com/watch?v=p_duZBzqLKo",
+      "anchor_text": "Star Atlas Townhall #40"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=0_9ukSy-eqQ",
+      "anchor_text": "recapping the Star Atlas Townhall"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=O7ocGCE3-rc",
+      "anchor_text": "past week of Star Atlas News"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=xsD19rD48dE",
+      "anchor_text": "reviewing the week of Star Atlas news"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=i7Gt8V6p5pU",
+      "anchor_text": "weekly Star Atlas live stream"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=kBoD6sOGWwE",
+      "anchor_text": "Star Atlas race course"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Qg0f2_hAjqo",
+      "anchor_text": "Star Atlas crafting"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=TXOPhQ6sHPc",
+      "anchor_text": "Star Atlas data analysis"
+    },
+    {
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-85/",
+      "anchor_text": "weekly Star Atlas newsletter"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=33x87a8B55Y",
+      "anchor_text": "Star Atlas lore"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=YMHFMLlASE0",
+      "anchor_text": "Star Atlas race track"
+    },
+    {
+      "url": "https://medium.com/the-hologram/the-star-atlas-bot-crackdown-9a8b2d990a08",
+      "anchor_text": "bot crackdown in Star Atlas"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=lsfuUnikpfE",
+      "anchor_text": "interview with Signal"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Y3E8cCDnMmc",
+      "anchor_text": "Star Atlas Lore Wiki"
+    },
+    {
+      "url": "https://medium.com/the-hologram/exploring-the-star-atlas-showroom-little-secrets-a758a650e610",
+      "anchor_text": "secrets in the Star Atlas Showroom"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=6xC1MLw-4FE",
+      "anchor_text": "Star Atlas DAO proposals"
+    },
+    {
+      "url": "https://medium.com/star-atlas/destination-starbase-star-atlas-new-mining-ships-armstrong-industries-72fd0cfc1775",
+      "anchor_text": "new mining ships"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=5H1CspwmAB8",
+      "anchor_text": "Star Atlas news"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=XaEOOJUVFRc",
+      "anchor_text": "thoughts related to a Star Atlas Brew"
+    },
+    {
+      "url": "https://medium.com/star-atlas/state-of-the-economy-report-liberalization-of-player-resource-economy-metaverse-3686cd16bb47",
+      "anchor_text": "quarterly economy report"
+    }
+  ],
+  "primary_source_relationships": [
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=p_duZBzqLKo",
+      "anchor_text": "Star Atlas Townhall #40"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=0_9ukSy-eqQ",
+      "anchor_text": "recapping the Star Atlas Townhall"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=O7ocGCE3-rc",
+      "anchor_text": "past week of Star Atlas News"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=xsD19rD48dE",
+      "anchor_text": "reviewing the week of Star Atlas news"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=i7Gt8V6p5pU",
+      "anchor_text": "weekly Star Atlas live stream"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=kBoD6sOGWwE",
+      "anchor_text": "Star Atlas race course"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=Qg0f2_hAjqo",
+      "anchor_text": "Star Atlas crafting"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=TXOPhQ6sHPc",
+      "anchor_text": "Star Atlas data analysis"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-85/",
+      "anchor_text": "weekly Star Atlas newsletter"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=33x87a8B55Y",
+      "anchor_text": "Star Atlas lore"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=YMHFMLlASE0",
+      "anchor_text": "Star Atlas race track"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://medium.com/the-hologram/the-star-atlas-bot-crackdown-9a8b2d990a08",
+      "anchor_text": "bot crackdown in Star Atlas"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=lsfuUnikpfE",
+      "anchor_text": "interview with Signal"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=Y3E8cCDnMmc",
+      "anchor_text": "Star Atlas Lore Wiki"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://medium.com/the-hologram/exploring-the-star-atlas-showroom-little-secrets-a758a650e610",
+      "anchor_text": "secrets in the Star Atlas Showroom"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=6xC1MLw-4FE",
+      "anchor_text": "Star Atlas DAO proposals"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://medium.com/star-atlas/destination-starbase-star-atlas-new-mining-ships-armstrong-industries-72fd0cfc1775",
+      "anchor_text": "new mining ships"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=5H1CspwmAB8",
+      "anchor_text": "Star Atlas news"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=XaEOOJUVFRc",
+      "anchor_text": "thoughts related to a Star Atlas Brew"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://medium.com/star-atlas/state-of-the-economy-report-liberalization-of-player-resource-economy-metaverse-3686cd16bb47",
+      "anchor_text": "quarterly economy report"
+    }
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Verify which outbound links are primary sources and preserve creator attribution during promotion."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-67&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 9366,
+    "elapsed_ms": 2475,
+    "attempts": [
+      {
+        "endpoint": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-67&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "http_status": 200,
+        "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-67&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "content_type": "application/json; charset=UTF-8",
+        "response_size": 9366,
+        "elapsed_ms": 2475
+      }
+    ]
+  },
+  "source_lineage": {
+    "publication": "Intergalactic Herald",
+    "publication_role": "CURATED_SUMMARY",
+    "relationship": "CURATED_SUMMARY_OF",
+    "primary_sources": [
+      {
+        "publication": "Star Atlas Townhall #40",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=p_duZBzqLKo",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas Townhall #40"
+      },
+      {
+        "publication": "recapping the Star Atlas Townhall",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=0_9ukSy-eqQ",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: recapping the Star Atlas Townhall"
+      },
+      {
+        "publication": "past week of Star Atlas News",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=O7ocGCE3-rc",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: past week of Star Atlas News"
+      },
+      {
+        "publication": "reviewing the week of Star Atlas news",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=xsD19rD48dE",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: reviewing the week of Star Atlas news"
+      },
+      {
+        "publication": "weekly Star Atlas live stream",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=i7Gt8V6p5pU",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: weekly Star Atlas live stream"
+      },
+      {
+        "publication": "Star Atlas race course",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=kBoD6sOGWwE",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas race course"
+      },
+      {
+        "publication": "Star Atlas crafting",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=Qg0f2_hAjqo",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas crafting"
+      },
+      {
+        "publication": "Star Atlas data analysis",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=TXOPhQ6sHPc",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas data analysis"
+      },
+      {
+        "publication": "weekly Star Atlas newsletter",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-85/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article with anchor text: weekly Star Atlas newsletter"
+      },
+      {
+        "publication": "Star Atlas lore",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=33x87a8B55Y",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas lore"
+      },
+      {
+        "publication": "Star Atlas race track",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=YMHFMLlASE0",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas race track"
+      },
+      {
+        "publication": "bot crackdown in Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://medium.com/the-hologram/the-star-atlas-bot-crackdown-9a8b2d990a08",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: bot crackdown in Star Atlas"
+      },
+      {
+        "publication": "interview with Signal",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=lsfuUnikpfE",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: interview with Signal"
+      },
+      {
+        "publication": "Star Atlas Lore Wiki",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=Y3E8cCDnMmc",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas Lore Wiki"
+      },
+      {
+        "publication": "secrets in the Star Atlas Showroom",
+        "author": "UNKNOWN",
+        "url": "https://medium.com/the-hologram/exploring-the-star-atlas-showroom-little-secrets-a758a650e610",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: secrets in the Star Atlas Showroom"
+      },
+      {
+        "publication": "Star Atlas DAO proposals",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=6xC1MLw-4FE",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas DAO proposals"
+      },
+      {
+        "publication": "new mining ships",
+        "author": "UNKNOWN",
+        "url": "https://medium.com/star-atlas/destination-starbase-star-atlas-new-mining-ships-armstrong-industries-72fd0cfc1775",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: new mining ships"
+      },
+      {
+        "publication": "Star Atlas news",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=5H1CspwmAB8",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas news"
+      },
+      {
+        "publication": "thoughts related to a Star Atlas Brew",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=XaEOOJUVFRc",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: thoughts related to a Star Atlas Brew"
+      },
+      {
+        "publication": "quarterly economy report",
+        "author": "UNKNOWN",
+        "url": "https://medium.com/star-atlas/state-of-the-economy-report-liberalization-of-player-resource-economy-metaverse-3686cd16bb47",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: quarterly economy report"
+      }
+    ],
+    "secondary_sources": [],
+    "original_creators": [
+      "Star Atlas",
+      "Aephia"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Star Atlas Townhall #40",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=p_duZBzqLKo"
+      },
+      {
+        "from": "recapping the Star Atlas Townhall",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=0_9ukSy-eqQ"
+      },
+      {
+        "from": "past week of Star Atlas News",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=O7ocGCE3-rc"
+      },
+      {
+        "from": "reviewing the week of Star Atlas news",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=xsD19rD48dE"
+      },
+      {
+        "from": "weekly Star Atlas live stream",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=i7Gt8V6p5pU"
+      },
+      {
+        "from": "Star Atlas race course",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=kBoD6sOGWwE"
+      },
+      {
+        "from": "Star Atlas crafting",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=Qg0f2_hAjqo"
+      },
+      {
+        "from": "Star Atlas data analysis",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=TXOPhQ6sHPc"
+      },
+      {
+        "from": "weekly Star Atlas newsletter",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-85/"
+      },
+      {
+        "from": "Star Atlas lore",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=33x87a8B55Y"
+      },
+      {
+        "from": "Star Atlas race track",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=YMHFMLlASE0"
+      },
+      {
+        "from": "bot crackdown in Star Atlas",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://medium.com/the-hologram/the-star-atlas-bot-crackdown-9a8b2d990a08"
+      },
+      {
+        "from": "interview with Signal",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=lsfuUnikpfE"
+      },
+      {
+        "from": "Star Atlas Lore Wiki",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=Y3E8cCDnMmc"
+      },
+      {
+        "from": "secrets in the Star Atlas Showroom",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://medium.com/the-hologram/exploring-the-star-atlas-showroom-little-secrets-a758a650e610"
+      },
+      {
+        "from": "Star Atlas DAO proposals",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=6xC1MLw-4FE"
+      },
+      {
+        "from": "new mining ships",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://medium.com/star-atlas/destination-starbase-star-atlas-new-mining-ships-armstrong-industries-72fd0cfc1775"
+      },
+      {
+        "from": "Star Atlas news",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=5H1CspwmAB8"
+      },
+      {
+        "from": "thoughts related to a Star Atlas Brew",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=XaEOOJUVFRc"
+      },
+      {
+        "from": "quarterly economy report",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://medium.com/star-atlas/state-of-the-economy-report-liberalization-of-player-resource-economy-metaverse-3686cd16bb47"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  }
+}

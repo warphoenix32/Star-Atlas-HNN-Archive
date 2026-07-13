@@ -1,0 +1,338 @@
+{
+  "source": {
+    "source_id": "SRC-IH-2D60697B556375BB",
+    "url_id": "URL-2D60697B556375BB",
+    "url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-87/",
+    "inventory_url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-87",
+    "title": "Star Atlas Weekly News Recap #87",
+    "author": "Intergalactic Herald",
+    "publisher": "Intergalactic Herald",
+    "published_at": "2023-11-19T17:00:00",
+    "updated_at": "2023-11-18T17:01:28",
+    "retrieved_at": "2026-07-12T22:01:47.282212Z",
+    "document_type": "NEWSLETTER",
+    "source_role": "CURATED_SUMMARY",
+    "source_classification": "CURATED_SUMMARY",
+    "classification_rationale": "Weekly newsletter/recap aggregates developments and linked sources.",
+    "wordpress_type": "posts"
+  },
+  "summary": {
+    "neutral_abstract": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week. We are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us. We are launching a Star Atlas merch store. Please check it out at Intergalactic",
+    "historical_value": "Contemporary Intergalactic Herald publication preserved with role and attribution boundaries.",
+    "current_validity_warning": "Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources."
+  },
+  "article_text": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week.\nWe are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us.\nWe are launching a Star Atlas merch store. Please check it out at Intergalactic Gear.\nWe are creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic Coalition.\nIf you would like to support our efforts, donations can be sent to intergalacticherald.sol\nMetaverse Nomads #120 Star Atlas w/ Virtuwul\nMetaverse Nomads posted a video replay of their weekly Star Atlas livestream.\nStar Atlas: Next Generation Gaming Metaverse\nCoin Bureau published a review of Star Atlas.\nWEEKLY STAR ATLAS NEWSLETTER #105\nAephia published their weekly Star Atlas newsletter.\nStar Atlas Clips – Developer Hour\nStar Atlas posted a video discussion about Star Atlas development tools.\nSTAR ATLAS #209 Latest Updates On The Game\nMetaVerse Explorer posted a video of Star Atlas updates.\nThe Atlas Brew #88\nStar Atlas TV posted a video replay of the latest Atlas Brew.\n#17 | The OPAL Walkman is here!!! | Star Atlas\nPathfinder posted a video about the new Star Atlas ship.\nStar Atlas – NEW Scanning Ship Available Now!! (+free ship)\nAtlas Theory posted a video about the new Opal RayFam Star Atlas ship.\nStar Atlas – PROTECT YOURSELF When Using StarPath!!\nAtlas Theory posted a video about how to disclose the Star Atlas Starpath referral program.\nStar Atlas Opal Rayfam Ship Release!\nBeyond the Horizon posted a video about the Opal Rayfram.",
+  "content_hash": "f717d6298c69574fd1a58761a8f278ad79d888d48ad169a6df3e656537daba61",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [],
+  "external_sources": [
+    {
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "url": "https://www.youtube.com/live/szohAM4cC1w",
+      "anchor_text": "weekly Star Atlas livestream"
+    },
+    {
+      "url": "https://www.coinbureau.com/review/star-atlas/",
+      "anchor_text": "review of Star Atlas"
+    },
+    {
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-105/",
+      "anchor_text": "weekly Star Atlas newsletter"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=awAZCqN1eSI",
+      "anchor_text": "Star Atlas development tools"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=vgZbPafrqfo",
+      "anchor_text": "Star Atlas updates"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=zrVdIXnxF-E",
+      "anchor_text": "Atlas Brew"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=y6SK9l4EGbQ",
+      "anchor_text": "new Star Atlas ship"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=dxHOAmgvc48",
+      "anchor_text": "new Opal RayFam Star Atlas ship"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=fovQUOlYNkc",
+      "anchor_text": "Star Atlas Starpath referral program"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Z_O2tfWmXkY",
+      "anchor_text": "Opal Rayfram"
+    }
+  ],
+  "primary_source_relationships": [
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/live/szohAM4cC1w",
+      "anchor_text": "weekly Star Atlas livestream"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.coinbureau.com/review/star-atlas/",
+      "anchor_text": "review of Star Atlas"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-105/",
+      "anchor_text": "weekly Star Atlas newsletter"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=awAZCqN1eSI",
+      "anchor_text": "Star Atlas development tools"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=vgZbPafrqfo",
+      "anchor_text": "Star Atlas updates"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=zrVdIXnxF-E",
+      "anchor_text": "Atlas Brew"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=y6SK9l4EGbQ",
+      "anchor_text": "new Star Atlas ship"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=dxHOAmgvc48",
+      "anchor_text": "new Opal RayFam Star Atlas ship"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=fovQUOlYNkc",
+      "anchor_text": "Star Atlas Starpath referral program"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=Z_O2tfWmXkY",
+      "anchor_text": "Opal Rayfram"
+    }
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Verify which outbound links are primary sources and preserve creator attribution during promotion."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-87&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 5722,
+    "elapsed_ms": 1724,
+    "attempts": [
+      {
+        "endpoint": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-87&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "http_status": 200,
+        "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-87&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "content_type": "application/json; charset=UTF-8",
+        "response_size": 5722,
+        "elapsed_ms": 1724
+      }
+    ]
+  },
+  "source_lineage": {
+    "publication": "Intergalactic Herald",
+    "publication_role": "CURATED_SUMMARY",
+    "relationship": "CURATED_SUMMARY_OF",
+    "primary_sources": [
+      {
+        "publication": "weekly Star Atlas livestream",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/live/szohAM4cC1w",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: weekly Star Atlas livestream"
+      },
+      {
+        "publication": "review of Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://www.coinbureau.com/review/star-atlas/",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: review of Star Atlas"
+      },
+      {
+        "publication": "weekly Star Atlas newsletter",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-105/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article with anchor text: weekly Star Atlas newsletter"
+      },
+      {
+        "publication": "Star Atlas development tools",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=awAZCqN1eSI",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas development tools"
+      },
+      {
+        "publication": "Star Atlas updates",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=vgZbPafrqfo",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas updates"
+      },
+      {
+        "publication": "Atlas Brew",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=zrVdIXnxF-E",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: Atlas Brew"
+      },
+      {
+        "publication": "new Star Atlas ship",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=y6SK9l4EGbQ",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: new Star Atlas ship"
+      },
+      {
+        "publication": "new Opal RayFam Star Atlas ship",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=dxHOAmgvc48",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: new Opal RayFam Star Atlas ship"
+      },
+      {
+        "publication": "Star Atlas Starpath referral program",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=fovQUOlYNkc",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas Starpath referral program"
+      },
+      {
+        "publication": "Opal Rayfram",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=Z_O2tfWmXkY",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Opal Rayfram"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "publication": "Intergalactic Gear",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticgear.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Intergalactic Coalition",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticcoalition.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      }
+    ],
+    "original_creators": [
+      "Aephia",
+      "Star Atlas"
+    ],
+    "attribution_chain": [
+      {
+        "from": "weekly Star Atlas livestream",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/live/szohAM4cC1w"
+      },
+      {
+        "from": "review of Star Atlas",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.coinbureau.com/review/star-atlas/"
+      },
+      {
+        "from": "weekly Star Atlas newsletter",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-105/"
+      },
+      {
+        "from": "Star Atlas development tools",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=awAZCqN1eSI"
+      },
+      {
+        "from": "Star Atlas updates",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=vgZbPafrqfo"
+      },
+      {
+        "from": "Atlas Brew",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=zrVdIXnxF-E"
+      },
+      {
+        "from": "new Star Atlas ship",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=y6SK9l4EGbQ"
+      },
+      {
+        "from": "new Opal RayFam Star Atlas ship",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=dxHOAmgvc48"
+      },
+      {
+        "from": "Star Atlas Starpath referral program",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=fovQUOlYNkc"
+      },
+      {
+        "from": "Opal Rayfram",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=Z_O2tfWmXkY"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  }
+}

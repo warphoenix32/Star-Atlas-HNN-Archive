@@ -1,0 +1,316 @@
+{
+  "source": {
+    "source_id": "SRC-IH-5EB0A03062B32CEF",
+    "url_id": "URL-5EB0A03062B32CEF",
+    "url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-96/",
+    "inventory_url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-96",
+    "title": "Star Atlas Weekly News Recap #96",
+    "author": "Intergalactic Herald",
+    "publisher": "Intergalactic Herald",
+    "published_at": "2024-01-21T17:00:00",
+    "updated_at": "2024-01-20T17:57:31",
+    "retrieved_at": "2026-07-12T22:03:45.681927Z",
+    "document_type": "NEWSLETTER",
+    "source_role": "CURATED_SUMMARY",
+    "source_classification": "CURATED_SUMMARY",
+    "classification_rationale": "Weekly newsletter/recap aggregates developments and linked sources.",
+    "wordpress_type": "posts"
+  },
+  "summary": {
+    "neutral_abstract": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week. We are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us. We are launching a Star Atlas merch store. Please check it out at Intergalactic",
+    "historical_value": "Contemporary Intergalactic Herald publication preserved with role and attribution boundaries.",
+    "current_validity_warning": "Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources."
+  },
+  "article_text": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week.\nWe are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us.\nWe are launching a Star Atlas merch store. Please check it out at Intergalactic Gear.\nWe are creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic Coalition.\nIf you would like to support our efforts, donations can be sent to intergalacticherald.sol\nStar Atlas Recap 1-13-24\nBeyond the Horizon posted a video recapping the latest Star Atlas news.\nMetaverse Nomads #129 Star Atlas 1000 Player UE5 Stress Test\nMetaverse Nomads posted a video replay of their weekly Star Atlas livestream.\nMetagravity Stress test brew\nStar Atlas TV posted a video replay of the latest Atlas Brew. The event was part of the larger Star Atlas Stress live stream.\nWEEKLY STAR ATLAS NEWSLETTER #112\nAephia published their weekly Star Atlas newsletter.\nStar Atlas Metagravity Stress Test\nBeyond the Horizon posted a video of his experience in the Star Atlas Stress Test.\nWhy Solana MMO ‘Star Atlas’ Is Hosting a 1,000-Player Online Stress Test\nDecrypt published an article about the Star Atlas Stress Test.\nStar Atlas Stress Test Family Photo\nBeyond the Horizon posted a video about the family photo in the Star Atlas Stress Test.\nSTAR ATLAS #217 Missing Multiplayer Events! Because Sleep & Adult\nMetaVerse Explorer posted a video about updates in Star Atlas.\nStar Atlas Throwdown: Score VS Sage (Part 1)\nBeyond the Horizon posted a video comparing Star Atlas SCORE to SAGE.",
+  "content_hash": "6d3aa192c745dfa22f74f88baf8cac114bb19305c8fcba00adba536037da6801",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [],
+  "external_sources": [
+    {
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=rnwLfZ2kVbw",
+      "anchor_text": "latest Star Atlas news"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=PUc0wIjq2sI",
+      "anchor_text": "weekly Star Atlas livestream"
+    },
+    {
+      "url": "https://www.youtube.com/live/UMRHIK6Q8s4?si=uYaIWEnISk2LV9oN&t=1635",
+      "anchor_text": "latest Atlas Brew"
+    },
+    {
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-112/",
+      "anchor_text": "weekly Star Atlas newsletter"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=2Sel4ABEIdw",
+      "anchor_text": "Star Atlas Stress Test"
+    },
+    {
+      "url": "https://decrypt.co/213149/why-solana-mmo-star-atlas-is-hosting-a-1000-player-online-stress-test",
+      "anchor_text": "Star Atlas Stress Test"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=oZlkWqVg6_0",
+      "anchor_text": "family photo"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=FLBqV-vCbBE",
+      "anchor_text": "updates in Star Atlas"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=5pAvoGF9O34",
+      "anchor_text": "Star Atlas SCORE to SAGE"
+    }
+  ],
+  "primary_source_relationships": [
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=rnwLfZ2kVbw",
+      "anchor_text": "latest Star Atlas news"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=PUc0wIjq2sI",
+      "anchor_text": "weekly Star Atlas livestream"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/live/UMRHIK6Q8s4?si=uYaIWEnISk2LV9oN&t=1635",
+      "anchor_text": "latest Atlas Brew"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-112/",
+      "anchor_text": "weekly Star Atlas newsletter"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=2Sel4ABEIdw",
+      "anchor_text": "Star Atlas Stress Test"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://decrypt.co/213149/why-solana-mmo-star-atlas-is-hosting-a-1000-player-online-stress-test",
+      "anchor_text": "Star Atlas Stress Test"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=oZlkWqVg6_0",
+      "anchor_text": "family photo"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=FLBqV-vCbBE",
+      "anchor_text": "updates in Star Atlas"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=5pAvoGF9O34",
+      "anchor_text": "Star Atlas SCORE to SAGE"
+    }
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Verify which outbound links are primary sources and preserve creator attribution during promotion."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-96&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 5560,
+    "elapsed_ms": 2152,
+    "attempts": [
+      {
+        "endpoint": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-96&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "http_status": 200,
+        "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-96&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "content_type": "application/json; charset=UTF-8",
+        "response_size": 5560,
+        "elapsed_ms": 2152
+      }
+    ]
+  },
+  "source_lineage": {
+    "publication": "Intergalactic Herald",
+    "publication_role": "CURATED_SUMMARY",
+    "relationship": "CURATED_SUMMARY_OF",
+    "primary_sources": [
+      {
+        "publication": "latest Star Atlas news",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=rnwLfZ2kVbw",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest Star Atlas news"
+      },
+      {
+        "publication": "weekly Star Atlas livestream",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=PUc0wIjq2sI",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: weekly Star Atlas livestream"
+      },
+      {
+        "publication": "latest Atlas Brew",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/live/UMRHIK6Q8s4?si=uYaIWEnISk2LV9oN&t=1635",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest Atlas Brew"
+      },
+      {
+        "publication": "weekly Star Atlas newsletter",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-112/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article with anchor text: weekly Star Atlas newsletter"
+      },
+      {
+        "publication": "Star Atlas Stress Test",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=2Sel4ABEIdw",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas Stress Test"
+      },
+      {
+        "publication": "Star Atlas Stress Test",
+        "author": "UNKNOWN",
+        "url": "https://decrypt.co/213149/why-solana-mmo-star-atlas-is-hosting-a-1000-player-online-stress-test",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas Stress Test"
+      },
+      {
+        "publication": "family photo",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=oZlkWqVg6_0",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: family photo"
+      },
+      {
+        "publication": "updates in Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=FLBqV-vCbBE",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: updates in Star Atlas"
+      },
+      {
+        "publication": "Star Atlas SCORE to SAGE",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=5pAvoGF9O34",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas SCORE to SAGE"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "publication": "Intergalactic Gear",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticgear.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Intergalactic Coalition",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticcoalition.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas",
+      "Aephia"
+    ],
+    "attribution_chain": [
+      {
+        "from": "latest Star Atlas news",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=rnwLfZ2kVbw"
+      },
+      {
+        "from": "weekly Star Atlas livestream",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=PUc0wIjq2sI"
+      },
+      {
+        "from": "latest Atlas Brew",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/live/UMRHIK6Q8s4?si=uYaIWEnISk2LV9oN&t=1635"
+      },
+      {
+        "from": "weekly Star Atlas newsletter",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-112/"
+      },
+      {
+        "from": "Star Atlas Stress Test",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=2Sel4ABEIdw"
+      },
+      {
+        "from": "Star Atlas Stress Test",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://decrypt.co/213149/why-solana-mmo-star-atlas-is-hosting-a-1000-player-online-stress-test"
+      },
+      {
+        "from": "family photo",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=oZlkWqVg6_0"
+      },
+      {
+        "from": "updates in Star Atlas",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=FLBqV-vCbBE"
+      },
+      {
+        "from": "Star Atlas SCORE to SAGE",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=5pAvoGF9O34"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  }
+}

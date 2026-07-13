@@ -1,0 +1,228 @@
+{
+  "source": {
+    "source_id": "SRC-IH-B2B73AC0B5B8805B",
+    "url_id": "URL-B2B73AC0B5B8805B",
+    "url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-173/",
+    "inventory_url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-173",
+    "title": "Star Atlas Weekly Newsletter #173",
+    "author": "Intergalactic Herald",
+    "publisher": "Intergalactic Herald",
+    "published_at": "2025-07-13T17:00:00",
+    "updated_at": "2025-08-03T14:21:13",
+    "retrieved_at": "2026-07-12T22:07:04.818388Z",
+    "document_type": "NEWSLETTER",
+    "source_role": "CURATED_SUMMARY",
+    "source_classification": "CURATED_SUMMARY",
+    "classification_rationale": "Weekly newsletter/recap aggregates developments and linked sources.",
+    "wordpress_type": "posts"
+  },
+  "summary": {
+    "neutral_abstract": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week. I am looking for guests to be on the podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact me. I am launching a Star Atlas merch store. Please check it out at Intergalactic",
+    "historical_value": "Contemporary Intergalactic Herald publication preserved with role and attribution boundaries.",
+    "current_validity_warning": "Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources."
+  },
+  "article_text": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week.\nAlso, check out my podcast and AI summary recaps.\nStar Atlas New C4 Regions, Borderlines & Warp Lanes\nBeyond the Horizon posted a video on C4 regions, borderlines and warp lanes.\nStar Atlas: C4 upcoming COMBAT!\nBeyond the Horizon posted a video on C4 combat.\nWeekly Star Atlas Newsletter #187\nAephia published their weekly Star Atlas newsletter.\nAtlas Brew #166 – PIPs Brainstorming Session\nStar Atlas TV posted the latest Atlas Brew.\nStar Atlas: C4 Ship Component\nBeyond the Horizon posted a video on C4 ship component.\nI am looking for guests to be on the podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact me.\nI am launching a Star Atlas merch store. Please check it out at Intergalactic Gear.\nI am also creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic Coalition.\nIf you would like to support my efforts, donations can be sent to intergalacticherald.sol\nLatest podcast\nPodcast 176: Star Atlas Weekly Reviewby MattJuly 5, 2026In this episode, I recap the latest news of Star Atlas from the past week. Listen on Apple Podcasts Listen on Spotify I am looking for guests to be on the podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in… Read more: Podcast 176: Star Atlas Weekly Review\nLatest recap\nStar Atlas Event Recap 91: Atlas Brew #211by MattJuly 2, 2026In this episode, hear an AI summary of the latest Star Atlas community event. Full video recordings can be found on the YouTube channel of Star Atlas TV at https://www.youtube.com/@staratlastv. Listen on Apple Podcasts Listen on Spotify Star Atlas Event Summary Hi, this isn’t Matt with the Intergalactic Herald. I… Read more: Star Atlas Event Recap 91: Atlas Brew #211",
+  "content_hash": "ad7d16d541fd7bb548dba30e22373f72194e43448cc1fa35445c8c9a63350eb8",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [],
+  "external_sources": [
+    {
+      "url": "https://www.youtube.com/watch?v=xqm7gvCfm3g",
+      "anchor_text": "C4 regions, borderlines and warp lanes"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=HwoSHXy9tc4",
+      "anchor_text": "C4 combat"
+    },
+    {
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-187/",
+      "anchor_text": "weekly Star Atlas newsletter"
+    },
+    {
+      "url": "https://www.youtube.com/live/jWDx7JJPFNY",
+      "anchor_text": "Atlas Brew"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=0DsJrwaUJG4",
+      "anchor_text": "C4 ship component"
+    },
+    {
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    }
+  ],
+  "primary_source_relationships": [
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=xqm7gvCfm3g",
+      "anchor_text": "C4 regions, borderlines and warp lanes"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=HwoSHXy9tc4",
+      "anchor_text": "C4 combat"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-187/",
+      "anchor_text": "weekly Star Atlas newsletter"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/live/jWDx7JJPFNY",
+      "anchor_text": "Atlas Brew"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=0DsJrwaUJG4",
+      "anchor_text": "C4 ship component"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    }
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Verify which outbound links are primary sources and preserve creator attribution during promotion."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-newsletter-173&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 8715,
+    "elapsed_ms": 2460,
+    "attempts": [
+      {
+        "endpoint": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-newsletter-173&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "http_status": 200,
+        "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-newsletter-173&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "content_type": "application/json; charset=UTF-8",
+        "response_size": 8715,
+        "elapsed_ms": 2460
+      }
+    ]
+  },
+  "source_lineage": {
+    "publication": "Intergalactic Herald",
+    "publication_role": "CURATED_SUMMARY",
+    "relationship": "CURATED_SUMMARY_OF",
+    "primary_sources": [
+      {
+        "publication": "C4 regions, borderlines and warp lanes",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=xqm7gvCfm3g",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: C4 regions, borderlines and warp lanes"
+      },
+      {
+        "publication": "C4 combat",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=HwoSHXy9tc4",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: C4 combat"
+      },
+      {
+        "publication": "weekly Star Atlas newsletter",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-187/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article with anchor text: weekly Star Atlas newsletter"
+      },
+      {
+        "publication": "Atlas Brew",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/live/jWDx7JJPFNY",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: Atlas Brew"
+      },
+      {
+        "publication": "C4 ship component",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=0DsJrwaUJG4",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: C4 ship component"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "publication": "Intergalactic Gear",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticgear.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Intergalactic Coalition",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticcoalition.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      }
+    ],
+    "original_creators": [
+      "Aephia",
+      "Star Atlas"
+    ],
+    "attribution_chain": [
+      {
+        "from": "C4 regions, borderlines and warp lanes",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=xqm7gvCfm3g"
+      },
+      {
+        "from": "C4 combat",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=HwoSHXy9tc4"
+      },
+      {
+        "from": "weekly Star Atlas newsletter",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-187/"
+      },
+      {
+        "from": "Atlas Brew",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/live/jWDx7JJPFNY"
+      },
+      {
+        "from": "C4 ship component",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=0DsJrwaUJG4"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  }
+}

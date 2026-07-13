@@ -1,0 +1,177 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-8A845F8DED1AF3A9",
+    "url_id": "URL-8A845F8DED1AF3A9",
+    "url": "https://medium.com/the-hologram/star-atlas-a-new-social-frontier-9a16815bbc71",
+    "title": "Star Atlas: A New Social Frontier",
+    "author": "Oni Merchant",
+    "publisher": "The Hologram",
+    "publication_identity": "The Hologram (Medium publication)",
+    "published_at": "2023-01-15T05:59:53Z",
+    "updated_at": "2023-01-15T05:59:53Z",
+    "retrieved_at": "2026-07-13T00:08:43.363854Z",
+    "document_type": "EVENT_COVERAGE",
+    "source_role": "EVENT_COVERAGE",
+    "publication_role": "EVENT_COVERAGE",
+    "classification_rationale": "Publication documents or recaps a named event."
+  },
+  "source_lineage": {
+    "publication": "The Hologram (Medium publication)",
+    "publication_role": "EVENT_COVERAGE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [
+      {
+        "publication": "Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://staratlas.com/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [
+      "Oni Merchant"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Star Atlas",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://staratlas.com/"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "This event coverage published by The Hologram on 2023-01-15 documents “Star Atlas: A New Social Frontier.” Its surviving text addresses governance, economy, guilds and DACs, community, lore, technology. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "Star AtlasFuturismCommunity\nStar Atlas: A New Social Frontier\nDo we need a new Social Network?\nOni Merchant4 min read·Jan 15, 2023\n--\n1\nListen\nShare\nThe developing Star Atlas metaverse is a unique and immersive gaming experience that combines the elements of gaming, space exploration, and cryptocurrency. While the game itself is already becoming a captivating experience, imagine for a moment the addition of a simple, yet visually appealing social network on the Solana blockchain, built for browser and Unreal Engine 5 integration. This would open up the possibility of changing the Star Atlas community forever.\nPress enter or click to view image in full size\nOne of the main benefits of a social network on Web3 is the ability for players to easily connect and form communities with one another based on real value. The Star Atlas space is already developing into something different, where players find themselves transacting AAA digital assets with people they’ve never met before. A system fully taking advantage of crypto’s trustless environment would allow players to easily connect with one another, exchange information, and achieve shared goals. This would increase the sense of community and collaboration within the game, making the experience more engaging and rewarding for all players.\nIn the Star Atlas metaverse, individuals will have the task of gathering resources, crafting items, and trading with one another to build and expand their ships and economic standing. Building a new type of dynamic system, specific to Star Atlas, would allow players to easily connect with one another, create smaller groups, join guilds, exchange resources, and trade items while the game itself is still being developed. The freedom of competition and collaboration would be much more liberating… making the experience rewarding for all life-forms.\nPress enter or click to view image in full size\nSocial Networking Built For Web3 and Blockchain\nOne might ask, why not simply create Discord integration straight into the game itself and forgo this idea completely? Of course, this could eventually happen and would be cool. But after all, it’s nearly the same thing as having a second PC monitor. We need a system built from the ground up that visually represents a new type of world…a system built specifically for a metaverse that can interact with everything in the Star Atlas economy and the crypto community itself.\nWhy put up with the same old MMO friends list, chat, and trade window when we can think bigger, and have something new altogether…inside and outside the system? A social network built specifically for the metaverse would allow for seamless exchange of information and value. Building a ground-up project would also enhance the overall appeal for the Star Atlas metaverse. Unreal Engine 5 is known for its stunning graphics and advanced rendering capabilities, and the integration of a new-age system would allow for players to see and connect with friends and acquaintances across the internet in an incredibly unique way. Something of this nature could quite possibly revolutionize the industry as a whole.\nIn conclusion, a social network using blockchain, with cross-platform capability between browser and the Star Atlas game, would greatly enhance the overall experience for everyone, both now and in the future. The ability for players to easily connect and form communities with one another, trade and exchange items and resources, engage in space combat, and experience advanced visuals would greatly enhance the sense of community, competition, and collaboration within the metaverse.\nI believe that the Star Atlas community is ready to lead the next step in gaming evolution and in the metaverse as a whole.\nAbout the Author\nNotBitcoinCEO is a mud pilot & writer on The Hologram News Network, an independent blockchain gaming meta-news organization devoted to the coverage of Star Atlas.\nFollow on Social Media:\nTwitter | Instagram | Web\nAbout The Hologram\nThe Hologram is Star Atlas’ first and only independent news network. Our vision is to become the most trusted source of information about Star Atlas and a voice for the whole community. Readers can expect a high standard from our reporting and staff. Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.\nPress enter or click to view image in full size\nThe Hologram is not endorsed or paid by the Star Atlas team. Any information published by The Hologram nor its writers should be considered as informational in nature and does not constitute any financial advice.",
+  "content_hash": "f4dd1549922fe992d999af9a08689dbf09709e21d9068107e4e681ea2f66e1d1",
+  "major_topics": [
+    "governance",
+    "economy",
+    "guilds and DACs",
+    "community",
+    "lore",
+    "technology"
+  ],
+  "entities": [
+    "ATLAS",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-8A845F8DED1AF3A9-01",
+      "text": "In the Star Atlas metaverse, individuals will have the task of gathering resources, crafting items, and trading with one another to build and expand their ships and economic standing.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-8A845F8DED1AF3A9",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-8A845F8DED1AF3A9-02",
+      "text": "Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-8A845F8DED1AF3A9",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Star Atlas",
+    "ATLAS"
+  ],
+  "governance_items": [
+    "Star Atlas governance / DAO"
+  ],
+  "lore_items": [
+    "MUD",
+    "ONI"
+  ],
+  "actors": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://medium.com/@punaab?source=post_page---byline--9a16815bbc71---------------------------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fthe-hologram%2F9a16815bbc71&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fstar-atlas-a-new-social-frontier-9a16815bbc71&user=Oni+Merchant&userId=ad2a3faef607&source=---header_actions--9a16815bbc71---------------------clap_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Frepost%2Fp%2F9a16815bbc71&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fstar-atlas-a-new-social-frontier-9a16815bbc71&user=Oni+Merchant&userId=ad2a3faef607&source=---header_actions--9a16815bbc71---------------------repost_header------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F9a16815bbc71&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fstar-atlas-a-new-social-frontier-9a16815bbc71&source=---header_actions--9a16815bbc71---------------------bookmark_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2Fplans%3Fdimension%3Dpost_audio_button%26postId%3D9a16815bbc71&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fstar-atlas-a-new-social-frontier-9a16815bbc71&source=---header_actions--9a16815bbc71---------------------post_audio_button------------------",
+      "anchor_text": "Listen"
+    },
+    {
+      "url": "https://medium.com/u/5ed69ff9cfb0?source=post_page---user_mention--9a16815bbc71---------------------------------------",
+      "anchor_text": "Star Atlas"
+    },
+    {
+      "url": "https://medium.com/u/af6a22150fa9?source=post_page---user_mention--9a16815bbc71---------------------------------------",
+      "anchor_text": "Solana"
+    },
+    {
+      "url": "https://medium.com/@mudpilot",
+      "anchor_text": "NotBitcoinCEO"
+    },
+    {
+      "url": "https://twitter.com/Hologram_News",
+      "anchor_text": "Twitter"
+    },
+    {
+      "url": "https://www.instagram.com/hologram_news/",
+      "anchor_text": "Instagram"
+    },
+    {
+      "url": "https://thehologram.io/",
+      "anchor_text": "Web"
+    },
+    {
+      "url": "https://medium.com/the-hologram",
+      "anchor_text": "The Hologram"
+    },
+    {
+      "url": "https://staratlas.com/",
+      "anchor_text": "Star Atlas"
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "https://medium.com/the-hologram/star-atlas-a-new-social-frontier-9a16815bbc71",
+    "final_url": "https://medium.com/the-hologram/star-atlas-a-new-social-frontier-9a16815bbc71",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 130413,
+    "elapsed_ms": 533,
+    "retrieval_mode": "LIVE",
+    "archive_capture": null
+  }
+}

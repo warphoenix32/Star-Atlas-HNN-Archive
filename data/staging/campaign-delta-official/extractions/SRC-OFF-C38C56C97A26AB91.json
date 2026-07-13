@@ -1,0 +1,156 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-C38C56C97A26AB91",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47050850825363-How-do-I-form-a-fleet-in-Holosim",
+    "title": "How do I form a fleet in Holosim?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-03T11:17:38Z",
+    "updated_at": "2025-12-08T18:23:59Z",
+    "original_date_text": "2025-12-03T11:17:38Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “How do I form a fleet in Holosim?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Fleets are the backbone of Holosim, they allow you to mine, transport, fight, and explore the universe. Forming your first fleet is part of the tutorial, but you can create new fleets anytime.\nSteps to form a fleet:\nOpen the Hangar: click on your Central Space Station (CSS) on the map, then select “Hangar” from the Star Base menu.\nClick “Form a New Fleet”: you’ll see a list of available ships.\nAssign ships to the fleet: choose the ships you want to add. Each fleet has a maximum capacity limit.\nName your fleet (optional): make it easier to identify different groups of ships.\nFinalize: once everything is set, confirm to create your new fleet.\nYour fleet will now appear in the “My Fleets” menu, ready for missions like mining, transport, or combat.",
+  "content_hash": "0caafb5f2c285b748dcb2def7b74608778d9076e8c57f7bc100b06058f536614",
+  "entities": [
+    "Holosim"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-C38C56C97A26AB91-01",
+      "text": "Fleets are the backbone of Holosim, they allow you to mine, transport, fight, and explore the universe.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-C38C56C97A26AB91",
+      "publication_date": "2025-12-03T11:17:38Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-C38C56C97A26AB91-02",
+      "text": "Forming your first fleet is part of the tutorial, but you can create new fleets anytime.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-C38C56C97A26AB91",
+      "publication_date": "2025-12-03T11:17:38Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-C38C56C97A26AB91-03",
+      "text": "Steps to form a fleet: Open the Hangar: click on your Central Space Station (CSS) on the map, then select “Hangar” from the Star Base menu.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-C38C56C97A26AB91",
+      "publication_date": "2025-12-03T11:17:38Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-C38C56C97A26AB91-04",
+      "text": "Click “Form a New Fleet”: you’ll see a list of available ships.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-C38C56C97A26AB91",
+      "publication_date": "2025-12-03T11:17:38Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-C38C56C97A26AB91-05",
+      "text": "Assign ships to the fleet: choose the ships you want to add.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-C38C56C97A26AB91",
+      "publication_date": "2025-12-03T11:17:38Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-C38C56C97A26AB91-06",
+      "text": "Name your fleet (optional): make it easier to identify different groups of ships.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-C38C56C97A26AB91",
+      "publication_date": "2025-12-03T11:17:38Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-C38C56C97A26AB91-07",
+      "text": "Finalize: once everything is set, confirm to create your new fleet.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-C38C56C97A26AB91",
+      "publication_date": "2025-12-03T11:17:38Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-C38C56C97A26AB91-08",
+      "text": "Your fleet will now appear in the “My Fleets” menu, ready for missions like mining, transport, or combat.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-C38C56C97A26AB91",
+      "publication_date": "2025-12-03T11:17:38Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Holosim"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47050850825363-How-do-I-form-a-fleet-in-Holosim",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.258611Z"
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-FCAD0FED23CA625F",
+    "url": "https://build.staratlas.com/introduction/what-is-build",
+    "title": "Star Atlas Build",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Build / ATMTA",
+    "published_at": null,
+    "updated_at": "2026-04-16T16:32:35.000Z",
+    "original_date_text": "2026-04-16T16:32:35.000Z",
+    "document_type": "TECHNICAL_DOCUMENTATION",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Build / ATMTA",
+    "publication_role": "TECHNICAL_DOCUMENTATION",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Star Atlas Build / ATMTA"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official technical documentation titled “Star Atlas Build.” This record preserves what Star Atlas Build / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "What is Build? | Star Atlas Build\nSkip to contentStar Atlas BuildSearchK\nAppearance\nMenuReturn to top\nWhat is Build? ​\nStar Atlas Build is the official hub for developers and creators building in the Star Atlas ecosystem. This program allows you to build using our IP with no fees until you reach $1,000,000 in revenue.\nWhether you're crafting tools, designing content, or launching your own Star Atlas-inspired project, this site gives you everything you need to get started:\nAccess to core on-chain programs powering SAGE, the DAO, Marketplace and more\nA growing Galaxy API for querying live data like items, markets and inventory\nTypeScript packages to simplify integration (like @staratlas/sage or @staratlas/data-source)\nA Creative IP program for using official Star Atlas artwork, lore and branding\nWho is Build for? ​\nDevelopers — building tools, dashboards, bots, or blockchain integrations\nCreators — designing games, art, merch, lore, or media inspired by the Star Atlas universe\nCurious explorers — just looking to understand what’s possible and how to get involved\nWhether you're building on-chain, off-chain, or something in between, this site is your perfect starting point.",
+  "content_hash": "fa70d6780fa0f08e33c6b20619551fe938530560e894f6227cf7260ce171dcda",
+  "entities": [
+    "ATLAS",
+    "CORE",
+    "SAGE"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-FCAD0FED23CA625F-01",
+      "text": "| Star Atlas Build Skip to contentStar Atlas BuildSearchK Appearance MenuReturn to top What is Build?",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-FCAD0FED23CA625F",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-FCAD0FED23CA625F-02",
+      "text": "​ Star Atlas Build is the official hub for developers and creators building in the Star Atlas ecosystem.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-FCAD0FED23CA625F",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-FCAD0FED23CA625F-03",
+      "text": "This program allows you to build using our IP with no fees until you reach $1,000,000 in revenue.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-FCAD0FED23CA625F",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-FCAD0FED23CA625F-04",
+      "text": "​ Developers — building tools, dashboards, bots, or blockchain integrations Creators — designing games, art, merch, lore, or media inspired by the Star Atlas universe Curious explorers — just looking to understand what’s possible and how to get involved Whether you're building on-chain, off-chain, or something in between, this site is your perfect starting point.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-FCAD0FED23CA625F",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "SAGE",
+    "CORE",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://build.staratlas.com/introduction/what-is-build",
+      "anchor_text": "Skip to content"
+    },
+    {
+      "url": "https://build.staratlas.com/",
+      "anchor_text": "Star Atlas Build"
+    },
+    {
+      "url": "https://discord.com/invite/staratlas",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/mainnet-program-ids",
+      "anchor_text": "core on-chain programs"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/galaxy-api",
+      "anchor_text": "Galaxy API"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/sage",
+      "anchor_text": "@staratlas/sage"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/data-source",
+      "anchor_text": "@staratlas/data-source"
+    },
+    {
+      "url": "https://build.staratlas.com/creative-assets/building-with-star-atlas-creative-ip",
+      "anchor_text": "IP program"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://build.staratlas.com/introduction/what-is-build",
+      "anchor_text": "Skip to content"
+    },
+    {
+      "url": "https://build.staratlas.com/",
+      "anchor_text": "Star Atlas Build"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/mainnet-program-ids",
+      "anchor_text": "core on-chain programs"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/galaxy-api",
+      "anchor_text": "Galaxy API"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/sage",
+      "anchor_text": "@staratlas/sage"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/data-source",
+      "anchor_text": "@staratlas/data-source"
+    },
+    {
+      "url": "https://build.staratlas.com/creative-assets/building-with-star-atlas-creative-ip",
+      "anchor_text": "IP program"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://build.staratlas.com/introduction/what-is-build",
+    "final_url": "https://build.staratlas.com/introduction/what-is-build",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 22299,
+    "retrieved_at": "2026-07-13T01:04:31.629051Z",
+    "elapsed_ms": 147
+  }
+}

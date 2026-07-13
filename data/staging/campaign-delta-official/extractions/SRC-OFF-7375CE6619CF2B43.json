@@ -1,0 +1,171 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-7375CE6619CF2B43",
+    "url": "https://staratlas.com/game/fleet-command/",
+    "title": "Fleet Command | Star Atlas",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas / ATMTA",
+    "published_at": null,
+    "updated_at": null,
+    "original_date_text": null,
+    "document_type": "REFERENCE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas / ATMTA",
+    "publication_role": "REFERENCE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://play.staratlas.com",
+        "anchor_text": "Play Now"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official reference titled “Fleet Command | Star Atlas.” This record preserves what Star Atlas / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Fleet Command | Star Atlas\n0001.\nFleet Command\nFleet Command transforms Star Atlas into a grand strategy experience. Currently in development. Shift from third-person exploration to a strategic overview where you'll coordinate armadas, control territory, and shape Galia's political landscape.\nYour browser does not support the video tag.\nThe Art of Command\nIn the vastness of Galia, individual heroism only goes so far. The great powers of the galaxy are built by those who can coordinate fleets of hundreds of ships, manage supply lines across light-years, and outthink their opponents before the first shot is fired.\nRTS\nStrategy\n100s\nOf Ships\nReal\nStakes\nLive\nOn-Chain\nStrategic Overview\nSee the bigger picture. The top-down view reveals fleet positions, resource nodes, faction territories, and strategic opportunities invisible from the cockpit.\nGalaxy-wide visibility\nFleet positioning\nTerritory visualization\nThreat assessment\nMass Fleet Operations\nCommand dozens or hundreds of ships simultaneously. Issue coordinated orders, manage formations, and execute complex tactical maneuvers.\nMulti-fleet coordination\nFormation commands\nTactical maneuvers\nAutomated logistics\nTerritory Control\nEstablish and defend control over valuable regions. Starbases serve as your footholds in contested space.\nStarbase construction\nDefense networks\nResource control\nExpansion planning\nFaction Politics\nNavigate the complex web of faction relationships. Form alliances, negotiate agreements, and wage economic or military warfare.\nDiplomatic options\nAlliance systems\nEconomic warfare\nPolitical influence\nFleet Command Basics\nAccess Fleet Command from your capital ship's bridge\nFamiliarize yourself with the strategic map and controls\nStart with small fleet operations to learn coordination\nEstablish your first starbase in a contested region\nCoordinate with your DAC for large-scale operations\nTake Command\nThe galaxy doesn't conquer itself. Rise from pilot to admiral and lead your faction to dominance.\nPlay Now\nExplore More Features\nGalia ExpanseGame ModesYour Fleet, Your WayLife in GaliaHolosimSAGE Labs",
+  "content_hash": "0878de881748cb00230d6dc9aea93ca1bee3e2c9e07422ef6ef03786be3935b5",
+  "entities": [
+    "ATLAS",
+    "Fleet Command"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-7375CE6619CF2B43-01",
+      "text": "RTS Strategy 100s Of Ships Real Stakes Live On-Chain Strategic Overview See the bigger picture.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-7375CE6619CF2B43",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-7375CE6619CF2B43-02",
+      "text": "Issue coordinated orders, manage formations, and execute complex tactical maneuvers.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-7375CE6619CF2B43",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-7375CE6619CF2B43-03",
+      "text": "Starbase construction Defense networks Resource control Expansion planning Faction Politics Navigate the complex web of faction relationships.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-7375CE6619CF2B43",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "ATLAS",
+    "Fleet Command"
+  ],
+  "governance_items": [],
+  "lore_items": [
+    "Galia"
+  ],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://play.staratlas.com",
+      "anchor_text": "Play Now"
+    },
+    {
+      "url": "https://staratlas.com/game/galia/",
+      "anchor_text": "Galia Expanse"
+    },
+    {
+      "url": "https://staratlas.com/game/game-modes/",
+      "anchor_text": "Game Modes"
+    },
+    {
+      "url": "https://staratlas.com/game/your-fleet-your-way/",
+      "anchor_text": "Your Fleet, Your Way"
+    },
+    {
+      "url": "https://staratlas.com/game/life-in-galia/",
+      "anchor_text": "Life in Galia"
+    },
+    {
+      "url": "https://staratlas.com/game/holosim/",
+      "anchor_text": "Holosim"
+    },
+    {
+      "url": "https://staratlas.com/game/sage-labs/",
+      "anchor_text": "SAGE Labs"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://play.staratlas.com",
+      "anchor_text": "Play Now"
+    },
+    {
+      "url": "https://staratlas.com/game/galia/",
+      "anchor_text": "Galia Expanse"
+    },
+    {
+      "url": "https://staratlas.com/game/game-modes/",
+      "anchor_text": "Game Modes"
+    },
+    {
+      "url": "https://staratlas.com/game/your-fleet-your-way/",
+      "anchor_text": "Your Fleet, Your Way"
+    },
+    {
+      "url": "https://staratlas.com/game/life-in-galia/",
+      "anchor_text": "Life in Galia"
+    },
+    {
+      "url": "https://staratlas.com/game/holosim/",
+      "anchor_text": "Holosim"
+    },
+    {
+      "url": "https://staratlas.com/game/sage-labs/",
+      "anchor_text": "SAGE Labs"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "LOW",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://staratlas.com/game/fleet-command/",
+    "final_url": "https://staratlas.com/game/fleet-command/",
+    "http_status": 200,
+    "content_type": "text/html",
+    "response_size": 9660,
+    "retrieved_at": "2026-07-13T01:05:02.893837Z",
+    "elapsed_ms": 248
+  }
+}

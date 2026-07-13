@@ -1,0 +1,340 @@
+{
+  "source": {
+    "source_id": "SRC-IH-08FC5B109D605D43",
+    "url_id": "URL-08FC5B109D605D43",
+    "url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-113/",
+    "inventory_url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-113",
+    "title": "Star Atlas Weekly News Recap #113",
+    "author": "Intergalactic Herald",
+    "publisher": "Intergalactic Herald",
+    "published_at": "2024-05-19T17:00:00",
+    "updated_at": "2024-05-18T13:19:01",
+    "retrieved_at": "2026-07-12T22:00:40.400971Z",
+    "document_type": "NEWSLETTER",
+    "source_role": "CURATED_SUMMARY",
+    "source_classification": "CURATED_SUMMARY",
+    "classification_rationale": "Weekly newsletter/recap aggregates developments and linked sources.",
+    "wordpress_type": "posts"
+  },
+  "summary": {
+    "neutral_abstract": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week. We are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us. We are launching a Star Atlas merch store. Please check it out at Intergalactic",
+    "historical_value": "Contemporary Intergalactic Herald publication preserved with role and attribution boundaries.",
+    "current_validity_warning": "Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources."
+  },
+  "article_text": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week.\nWe are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us.\nWe are launching a Star Atlas merch store. Please check it out at Intergalactic Gear.\nWe are creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic Coalition.\nIf you would like to support our efforts, donations can be sent to intergalacticherald.sol\nSolana Crossroads – The Solana Conference [Day 2]\nStar Atlas gave a presentation at the Solana Crossroads conference.\nA New Release on the Horizon — Star Atlas Crew Packs Coming in Q2 2024\nStar Atlas published an article about a pre-release of Crew Packs.\nStar Atlas: Solana Crossroads Event!\nBeyond the Horizon posted a video about the Solana Crossroads conference.\nStar Atlas: SAGE Starbased Changes\nBeyond the Horizon posted a video about the SAGE Starbased changes.\nSTAR ATLAS #234 CREW PACKS HAVE ARRIVED!\nMetaVerse Explorer posted a video about the Star Altas Crew Packs.\nMetaverse Nomads #146 – Star Atlas @ Solana Crossroads / Platinum 10 Crew Pack\nMetaverse Nomads posted a video replay of their weekly Star Atlas livestream.\nWEEKLY STAR ATLAS NEWSLETTER #129\nAephia published their weekly Star Atlas newsletter.\nThe Atlas Brew #111\nStar Atlas TV posted a replay of the latest Atlas Brew.\nSOLD OUT! — Star Atlas Sells All Five Thousand Pre-Sale Crew Pack Bundles in Less Than 24 Hours After Solana Crossroads Event\nStar Atlas published an article about announcements from the Solana Crossroads conference.\nStar Atlas And Topper Partnership\nBeyond the Horizon posted a video about a partnership with Topper.",
+  "content_hash": "df2cd254633fd7318c5f53cde6d6e21024742e52db03a0039a91845f4e8ff855",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [
+    "2024"
+  ],
+  "external_sources": [
+    {
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "url": "https://www.youtube.com/live/wilFLhdkyy8?si=KcHL8C4pr5HWexQg&t=26825",
+      "anchor_text": "Solana Crossroads conference"
+    },
+    {
+      "url": "https://medium.com/star-atlas/a-new-release-on-the-horizon-star-atlas-crew-packs-coming-in-q2-2024-e2603415bc65",
+      "anchor_text": "pre-release of Crew Packs"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=_whkzdvGi-A",
+      "anchor_text": "Solana Crossroads conference"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=5B_9m6DubJ8",
+      "anchor_text": "SAGE Starbased changes"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=NQrrjcqwBQE",
+      "anchor_text": "Star Altas Crew Packs"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=lGSiJCvf7zY",
+      "anchor_text": "weekly Star Atlas livestream"
+    },
+    {
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-129/",
+      "anchor_text": "weekly Star Atlas newsletter"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=zLe3N0spdVg",
+      "anchor_text": "latest Atlas Brew"
+    },
+    {
+      "url": "https://medium.com/star-atlas/sold-out-star-atlas-sells-all-five-thousand-pre-sale-crew-pack-bundles-in-less-than-24-hours-5b6fd39d9aba",
+      "anchor_text": "Solana Crossroads conference"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=9huxyNYvKjQ",
+      "anchor_text": "partnership with Topper"
+    }
+  ],
+  "primary_source_relationships": [
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/live/wilFLhdkyy8?si=KcHL8C4pr5HWexQg&t=26825",
+      "anchor_text": "Solana Crossroads conference"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://medium.com/star-atlas/a-new-release-on-the-horizon-star-atlas-crew-packs-coming-in-q2-2024-e2603415bc65",
+      "anchor_text": "pre-release of Crew Packs"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=_whkzdvGi-A",
+      "anchor_text": "Solana Crossroads conference"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=5B_9m6DubJ8",
+      "anchor_text": "SAGE Starbased changes"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=NQrrjcqwBQE",
+      "anchor_text": "Star Altas Crew Packs"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=lGSiJCvf7zY",
+      "anchor_text": "weekly Star Atlas livestream"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-129/",
+      "anchor_text": "weekly Star Atlas newsletter"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=zLe3N0spdVg",
+      "anchor_text": "latest Atlas Brew"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://medium.com/star-atlas/sold-out-star-atlas-sells-all-five-thousand-pre-sale-crew-pack-bundles-in-less-than-24-hours-5b6fd39d9aba",
+      "anchor_text": "Solana Crossroads conference"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=9huxyNYvKjQ",
+      "anchor_text": "partnership with Topper"
+    }
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Verify which outbound links are primary sources and preserve creator attribution during promotion."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-113&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 6072,
+    "elapsed_ms": 1565,
+    "attempts": [
+      {
+        "endpoint": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-113&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "http_status": 200,
+        "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-113&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "content_type": "application/json; charset=UTF-8",
+        "response_size": 6072,
+        "elapsed_ms": 1565
+      }
+    ]
+  },
+  "source_lineage": {
+    "publication": "Intergalactic Herald",
+    "publication_role": "CURATED_SUMMARY",
+    "relationship": "CURATED_SUMMARY_OF",
+    "primary_sources": [
+      {
+        "publication": "Solana Crossroads conference",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/live/wilFLhdkyy8?si=KcHL8C4pr5HWexQg&t=26825",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Solana Crossroads conference"
+      },
+      {
+        "publication": "pre-release of Crew Packs",
+        "author": "UNKNOWN",
+        "url": "https://medium.com/star-atlas/a-new-release-on-the-horizon-star-atlas-crew-packs-coming-in-q2-2024-e2603415bc65",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: pre-release of Crew Packs"
+      },
+      {
+        "publication": "Solana Crossroads conference",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=_whkzdvGi-A",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Solana Crossroads conference"
+      },
+      {
+        "publication": "SAGE Starbased changes",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=5B_9m6DubJ8",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: SAGE Starbased changes"
+      },
+      {
+        "publication": "Star Altas Crew Packs",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=NQrrjcqwBQE",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Altas Crew Packs"
+      },
+      {
+        "publication": "weekly Star Atlas livestream",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=lGSiJCvf7zY",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: weekly Star Atlas livestream"
+      },
+      {
+        "publication": "weekly Star Atlas newsletter",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-129/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article with anchor text: weekly Star Atlas newsletter"
+      },
+      {
+        "publication": "latest Atlas Brew",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=zLe3N0spdVg",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest Atlas Brew"
+      },
+      {
+        "publication": "Solana Crossroads conference",
+        "author": "UNKNOWN",
+        "url": "https://medium.com/star-atlas/sold-out-star-atlas-sells-all-five-thousand-pre-sale-crew-pack-bundles-in-less-than-24-hours-5b6fd39d9aba",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Solana Crossroads conference"
+      },
+      {
+        "publication": "partnership with Topper",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=9huxyNYvKjQ",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: partnership with Topper"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "publication": "Intergalactic Gear",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticgear.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Intergalactic Coalition",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticcoalition.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      }
+    ],
+    "original_creators": [
+      "Aephia",
+      "Star Atlas"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Solana Crossroads conference",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/live/wilFLhdkyy8?si=KcHL8C4pr5HWexQg&t=26825"
+      },
+      {
+        "from": "pre-release of Crew Packs",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://medium.com/star-atlas/a-new-release-on-the-horizon-star-atlas-crew-packs-coming-in-q2-2024-e2603415bc65"
+      },
+      {
+        "from": "Solana Crossroads conference",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=_whkzdvGi-A"
+      },
+      {
+        "from": "SAGE Starbased changes",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=5B_9m6DubJ8"
+      },
+      {
+        "from": "Star Altas Crew Packs",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=NQrrjcqwBQE"
+      },
+      {
+        "from": "weekly Star Atlas livestream",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=lGSiJCvf7zY"
+      },
+      {
+        "from": "weekly Star Atlas newsletter",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-129/"
+      },
+      {
+        "from": "latest Atlas Brew",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=zLe3N0spdVg"
+      },
+      {
+        "from": "Solana Crossroads conference",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://medium.com/star-atlas/sold-out-star-atlas-sells-all-five-thousand-pre-sale-crew-pack-bundles-in-less-than-24-hours-5b6fd39d9aba"
+      },
+      {
+        "from": "partnership with Topper",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=9huxyNYvKjQ"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  }
+}

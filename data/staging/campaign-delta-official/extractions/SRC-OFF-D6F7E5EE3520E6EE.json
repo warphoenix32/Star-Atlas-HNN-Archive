@@ -1,0 +1,117 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-D6F7E5EE3520E6EE",
+    "url": "https://build.staratlas.com/dev-resources/unreal-engine-tooling/how-to-setup-f-kit-in-your-project",
+    "title": "Star Atlas Build",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Build / ATMTA",
+    "published_at": null,
+    "updated_at": "2026-04-16T16:32:35.000Z",
+    "original_date_text": "2026-04-16T16:32:35.000Z",
+    "document_type": "TECHNICAL_DOCUMENTATION",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Build / ATMTA",
+    "publication_role": "TECHNICAL_DOCUMENTATION",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Star Atlas Build / ATMTA"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official technical documentation titled “Star Atlas Build.” This record preserves what Star Atlas Build / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "How To Setup F-Kit in Your Project | Star Atlas Build\nSkip to contentStar Atlas BuildSearchK\nAppearance\nMenuReturn to top\nHow To Setup F-Kit in Your Project ​\nOpen Epic Games Launcher and launch your installed version of Unreal Engine\nCreate a new project and select C++ as project template\nClose the editor and open the folder where the Project is located (e.g.,\nC:\\UnrealEngine\\SampleProject\nCreate a new\nPlugins\nfolder at the root directory\nCopy your plugin within the\nPlugins\ndirectory\nRight-click\n.uproject\nfile located at the root and select\nGenerate Visual Studio project files\nDouble-click\n.sln\nfile and open the project solution with your C++ IDE (Rider or Visual Studio)\nOpen the file located under\nSource/<ProjectName>/<ProjectName>.build.cs\nAddj to\nPublicDependencyModuleNames\nthe plugin module name you want to use in C++. In our case the module we want to use is\nFoundation\nOpen the\n.uproject\nfile\nAdd the plugin name you want to use for your project\nClose your IDE and generate project files again. Right-click\n.uproject\nfile on the root directory and\nselect Generate Visual Studio project files\nOpen your project solution\n.sln\nYou can now start using your plugin in C++",
+  "content_hash": "db219a8c7042256c8382d6a406a48dcf1117c8fd8dc0349e1f8f080d0461035f",
+  "entities": [
+    "ATLAS",
+    "F-KIT"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-D6F7E5EE3520E6EE-01",
+      "text": "In our case the module we want to use is Foundation Open the .uproject file Add the plugin name you want to use for your project Close your IDE and generate project files again.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-D6F7E5EE3520E6EE",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-D6F7E5EE3520E6EE-02",
+      "text": "Right-click .uproject file on the root directory and select Generate Visual Studio project files Open your project solution .sln You can now start using your plugin in C++",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-D6F7E5EE3520E6EE",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "ATLAS",
+    "F-KIT"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://build.staratlas.com/dev-resources/unreal-engine-tooling/how-to-setup-f-kit-in-your-project",
+      "anchor_text": "Skip to content"
+    },
+    {
+      "url": "https://build.staratlas.com/",
+      "anchor_text": "Star Atlas Build"
+    },
+    {
+      "url": "https://discord.com/invite/staratlas",
+      "anchor_text": ""
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://build.staratlas.com/dev-resources/unreal-engine-tooling/how-to-setup-f-kit-in-your-project",
+      "anchor_text": "Skip to content"
+    },
+    {
+      "url": "https://build.staratlas.com/",
+      "anchor_text": "Star Atlas Build"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://build.staratlas.com/dev-resources/unreal-engine-tooling/how-to-setup-f-kit-in-your-project",
+    "final_url": "https://build.staratlas.com/dev-resources/unreal-engine-tooling/how-to-setup-f-kit-in-your-project",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 34502,
+    "retrieved_at": "2026-07-13T01:04:31.064056Z",
+    "elapsed_ms": 175
+  }
+}

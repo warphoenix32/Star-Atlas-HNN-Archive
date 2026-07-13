@@ -1,0 +1,624 @@
+{
+  "source": {
+    "source_id": "SRC-IH-C4CF9297FC48AFFE",
+    "url_id": "URL-C4CF9297FC48AFFE",
+    "url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-79/",
+    "inventory_url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-79",
+    "title": "Star Atlas Weekly News Recap #79",
+    "author": "Intergalactic Herald",
+    "publisher": "Intergalactic Herald",
+    "published_at": "2023-09-24T17:00:00",
+    "updated_at": "2023-09-24T16:37:12",
+    "retrieved_at": "2026-07-12T22:07:36.617880Z",
+    "document_type": "NEWSLETTER",
+    "source_role": "CURATED_SUMMARY",
+    "source_classification": "CURATED_SUMMARY",
+    "classification_rationale": "Weekly newsletter/recap aggregates developments and linked sources.",
+    "wordpress_type": "posts"
+  },
+  "summary": {
+    "neutral_abstract": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week. We are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us. We are launching a Star Atlas merch store. Please check it out at Intergalactic",
+    "historical_value": "Contemporary Intergalactic Herald publication preserved with role and attribution boundaries.",
+    "current_validity_warning": "Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources."
+  },
+  "article_text": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week.\nWe are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us.\nWe are launching a Star Atlas merch store. Please check it out at Intergalactic Gear.\nWe are creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic Coalition.\nIf you would like to support our efforts, donations can be sent to intergalacticherald.sol\nWHY Star Atlas Is GROUNDBREAKING!\nBeyond the Horizon posted a video talking about why Star Atlas is ground breaking.\nSage Labs Showdown Thus Far\nBeyond the Horizon posted a video talking about his showdown with Atlas Theory.\nMetaverse Nomads #112 Star Atlas w/ Viktor and Kenny – Aephia Industries\nMetaverse Nomads posted a video replay of their weekly Star Atlas livestream.\nStar Atlas: Calling all Usturs\nOCG Thor posted a video about organizing players in the Star Atlas Ushur faction.\nStar Atlas Reveals the Third Generation of the Ship Configuration System\nStar Atlas published an article about the next update to Star Atlas ship configurations.\nWEEKLY STAR ATLAS NEWSLETTER #97\nAephia published their weekly Star Atlas newsletter.\nStar Atlas Referral Program with Massive Revenue Sharing Deal Gets Revolutionary Web3 Upgrade Powered by Buddy Link\nStar Atlas published an article about their updated referral program called Starpath.\nStar Atlas: How To Play SAGE Labs ($1.2M+ in prizes!)\nTLDR posted a video about how to play SAGE Labs.\nStar Atlas Sage Labs Pre Game!\nBeyond the Horizon posted a video about getting ready for Star Atlas SAGE Labs.\nStar Atlas Resource Locations\nThe Hologram published an article about the locations in SAGE Labs.\nStar Atlas Announces Breakthrough Feature Atlas PRIME for Paying Solana Network Fees in ATLAS\nStar Atlas published an article about a new service call Atlas PRIME.\nStar Atlas – ALL Resource Locations Revealed for Sage Labs.\nAtlas Theory posted a video about locations in SAGE Labs.\nThe Atlas Brew #80 one more day\nStar Atlas TV posted a video replay of the latest Atlas Brew.\nStar Atlas Brew #80: Reflecting On Our Journey – TLDR\nTLDR posted a video recapping the latest Atlas Brew.\nSTARPATH V2 – EVERYTHING YOU NEED TO KNOW\nAephia posted an article about Star Atlas Starpath.\nStar Atlas: How To Buy a Ship for SAGE Labs\nTLDR posted a video about how to buy a Star Atlas ship.\nStar Atlas: Prepping for Sage Labs\nOCG Thor posted a video about prepping for SAGE Labs.\nSTAR ATLAS #199 The Calm Before The Storm!\nMetaVerse Explorer posted a video about updates in Star Atlas.\nStar Atlas – Starpath and a SECRET Snapshot!?\nAtlas Theory posted a video about Star Atlas Starpath.\nStarpath Referral Guide – A breakdown of Star Atlas NEW revenue sharing program\nRahMega posted a video about the Star Atlas referral program called Starpath.\nStar Atlas: Star Path… but actually worth it!\nOCG Thor posted a video about Star Atlas Starpath.\nStar Atlas – Sage Labs – How To Get Started – Mining Step by Step Tutorial\nNebular TV posted a video about how to mine in SAGE Labs.\nHow to Play SAGE Labs – Walkthrough\nDominicVain posted a video walking through SAGE Labs.",
+  "content_hash": "74e031c6f82c2c131f29003d7bd902da39e0e544a4f826483611764838702b0d",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [],
+  "external_sources": [
+    {
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=lwREGmI3KTM",
+      "anchor_text": "why Star Atlas is ground breaking"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=6aG8GTFdUsQ",
+      "anchor_text": "showdown with Atlas Theory"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=tOh-1Q59rTM",
+      "anchor_text": "weekly Star Atlas livestream"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=kd6Ot8fiMmM",
+      "anchor_text": "organizing players in the Star Atlas Ushur faction"
+    },
+    {
+      "url": "https://medium.com/star-atlas/star-atlas-3rd-generation-ship-configuration-system-9c067d2e681",
+      "anchor_text": "next update to Star Atlas ship configurations"
+    },
+    {
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-97/",
+      "anchor_text": "weekly Star Atlas newsletter"
+    },
+    {
+      "url": "https://medium.com/star-atlas/star-atlas-starpath-buddy-link-referral-program-revolutionary-web3-discount-1586fcb8a021",
+      "anchor_text": "updated referral program called Starpath"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=g-6NVbhGbK8",
+      "anchor_text": "how to play SAGE Labs"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=y26by6BgV-c",
+      "anchor_text": "getting ready for Star Atlas SAGE Labs"
+    },
+    {
+      "url": "https://medium.com/the-hologram/star-atlas-resource-locations-ba437a910473",
+      "anchor_text": "locations in SAGE Labs"
+    },
+    {
+      "url": "https://medium.com/star-atlas/star-atlas-atlas-prime-pay-solana-network-fees-in-atlas-85472d5803d6",
+      "anchor_text": "Atlas PRIME"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=a_lPEJvRJkw",
+      "anchor_text": "locations in SAGE Labs"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=wQ6lfLihk_0",
+      "anchor_text": "video replay of the latest Atlas Brew"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=_0dYsJiYn48",
+      "anchor_text": "latest Atlas Brew"
+    },
+    {
+      "url": "https://aephia.com/star-atlas/starpath-v2-everything-you-need-to-know/",
+      "anchor_text": "Star Atlas Starpath"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=qySGuC1Wok0",
+      "anchor_text": "how to buy a Star Atlas ship"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=8YdbT06Rak0",
+      "anchor_text": "prepping for SAGE Labs"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=bbFEtfz-RF4",
+      "anchor_text": "updates in Star Atlas"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=CykI6S3lBdY",
+      "anchor_text": "Star Atlas Starpath"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=O4aPI9wUKV0",
+      "anchor_text": "Star Atlas referral program called Starpath"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=wBRa6VLmG4w",
+      "anchor_text": "Star Atlas Starpath"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=_8tgjPHw1Zc",
+      "anchor_text": "mine in SAGE Labs"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=L2o8sNSarjM",
+      "anchor_text": "walking through SAGE Labs"
+    }
+  ],
+  "primary_source_relationships": [
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=lwREGmI3KTM",
+      "anchor_text": "why Star Atlas is ground breaking"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=6aG8GTFdUsQ",
+      "anchor_text": "showdown with Atlas Theory"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=tOh-1Q59rTM",
+      "anchor_text": "weekly Star Atlas livestream"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=kd6Ot8fiMmM",
+      "anchor_text": "organizing players in the Star Atlas Ushur faction"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://medium.com/star-atlas/star-atlas-3rd-generation-ship-configuration-system-9c067d2e681",
+      "anchor_text": "next update to Star Atlas ship configurations"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-97/",
+      "anchor_text": "weekly Star Atlas newsletter"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://medium.com/star-atlas/star-atlas-starpath-buddy-link-referral-program-revolutionary-web3-discount-1586fcb8a021",
+      "anchor_text": "updated referral program called Starpath"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=g-6NVbhGbK8",
+      "anchor_text": "how to play SAGE Labs"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=y26by6BgV-c",
+      "anchor_text": "getting ready for Star Atlas SAGE Labs"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://medium.com/the-hologram/star-atlas-resource-locations-ba437a910473",
+      "anchor_text": "locations in SAGE Labs"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://medium.com/star-atlas/star-atlas-atlas-prime-pay-solana-network-fees-in-atlas-85472d5803d6",
+      "anchor_text": "Atlas PRIME"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=a_lPEJvRJkw",
+      "anchor_text": "locations in SAGE Labs"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=wQ6lfLihk_0",
+      "anchor_text": "video replay of the latest Atlas Brew"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=_0dYsJiYn48",
+      "anchor_text": "latest Atlas Brew"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/starpath-v2-everything-you-need-to-know/",
+      "anchor_text": "Star Atlas Starpath"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=qySGuC1Wok0",
+      "anchor_text": "how to buy a Star Atlas ship"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=8YdbT06Rak0",
+      "anchor_text": "prepping for SAGE Labs"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=bbFEtfz-RF4",
+      "anchor_text": "updates in Star Atlas"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=CykI6S3lBdY",
+      "anchor_text": "Star Atlas Starpath"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=O4aPI9wUKV0",
+      "anchor_text": "Star Atlas referral program called Starpath"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=wBRa6VLmG4w",
+      "anchor_text": "Star Atlas Starpath"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=_8tgjPHw1Zc",
+      "anchor_text": "mine in SAGE Labs"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=L2o8sNSarjM",
+      "anchor_text": "walking through SAGE Labs"
+    }
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Verify which outbound links are primary sources and preserve creator attribution during promotion."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-79&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 11225,
+    "elapsed_ms": 1616,
+    "attempts": [
+      {
+        "endpoint": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-79&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "http_status": 200,
+        "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-79&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "content_type": "application/json; charset=UTF-8",
+        "response_size": 11225,
+        "elapsed_ms": 1616
+      }
+    ]
+  },
+  "source_lineage": {
+    "publication": "Intergalactic Herald",
+    "publication_role": "CURATED_SUMMARY",
+    "relationship": "CURATED_SUMMARY_OF",
+    "primary_sources": [
+      {
+        "publication": "why Star Atlas is ground breaking",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=lwREGmI3KTM",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: why Star Atlas is ground breaking"
+      },
+      {
+        "publication": "showdown with Atlas Theory",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=6aG8GTFdUsQ",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: showdown with Atlas Theory"
+      },
+      {
+        "publication": "weekly Star Atlas livestream",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=tOh-1Q59rTM",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: weekly Star Atlas livestream"
+      },
+      {
+        "publication": "organizing players in the Star Atlas Ushur faction",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=kd6Ot8fiMmM",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: organizing players in the Star Atlas Ushur faction"
+      },
+      {
+        "publication": "next update to Star Atlas ship configurations",
+        "author": "UNKNOWN",
+        "url": "https://medium.com/star-atlas/star-atlas-3rd-generation-ship-configuration-system-9c067d2e681",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: next update to Star Atlas ship configurations"
+      },
+      {
+        "publication": "weekly Star Atlas newsletter",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-97/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article with anchor text: weekly Star Atlas newsletter"
+      },
+      {
+        "publication": "updated referral program called Starpath",
+        "author": "UNKNOWN",
+        "url": "https://medium.com/star-atlas/star-atlas-starpath-buddy-link-referral-program-revolutionary-web3-discount-1586fcb8a021",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: updated referral program called Starpath"
+      },
+      {
+        "publication": "how to play SAGE Labs",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=g-6NVbhGbK8",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: how to play SAGE Labs"
+      },
+      {
+        "publication": "getting ready for Star Atlas SAGE Labs",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=y26by6BgV-c",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: getting ready for Star Atlas SAGE Labs"
+      },
+      {
+        "publication": "locations in SAGE Labs",
+        "author": "UNKNOWN",
+        "url": "https://medium.com/the-hologram/star-atlas-resource-locations-ba437a910473",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: locations in SAGE Labs"
+      },
+      {
+        "publication": "Atlas PRIME",
+        "author": "UNKNOWN",
+        "url": "https://medium.com/star-atlas/star-atlas-atlas-prime-pay-solana-network-fees-in-atlas-85472d5803d6",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Atlas PRIME"
+      },
+      {
+        "publication": "locations in SAGE Labs",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=a_lPEJvRJkw",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: locations in SAGE Labs"
+      },
+      {
+        "publication": "video replay of the latest Atlas Brew",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=wQ6lfLihk_0",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: video replay of the latest Atlas Brew"
+      },
+      {
+        "publication": "latest Atlas Brew",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=_0dYsJiYn48",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest Atlas Brew"
+      },
+      {
+        "publication": "Star Atlas Starpath",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/starpath-v2-everything-you-need-to-know/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas Starpath"
+      },
+      {
+        "publication": "how to buy a Star Atlas ship",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=qySGuC1Wok0",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: how to buy a Star Atlas ship"
+      },
+      {
+        "publication": "prepping for SAGE Labs",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=8YdbT06Rak0",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: prepping for SAGE Labs"
+      },
+      {
+        "publication": "updates in Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=bbFEtfz-RF4",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: updates in Star Atlas"
+      },
+      {
+        "publication": "Star Atlas Starpath",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=CykI6S3lBdY",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas Starpath"
+      },
+      {
+        "publication": "Star Atlas referral program called Starpath",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=O4aPI9wUKV0",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas referral program called Starpath"
+      },
+      {
+        "publication": "Star Atlas Starpath",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=wBRa6VLmG4w",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas Starpath"
+      },
+      {
+        "publication": "mine in SAGE Labs",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=_8tgjPHw1Zc",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: mine in SAGE Labs"
+      },
+      {
+        "publication": "walking through SAGE Labs",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=L2o8sNSarjM",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: walking through SAGE Labs"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "publication": "Intergalactic Gear",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticgear.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Intergalactic Coalition",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticcoalition.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      }
+    ],
+    "original_creators": [
+      "Aephia",
+      "Star Atlas"
+    ],
+    "attribution_chain": [
+      {
+        "from": "why Star Atlas is ground breaking",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=lwREGmI3KTM"
+      },
+      {
+        "from": "showdown with Atlas Theory",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=6aG8GTFdUsQ"
+      },
+      {
+        "from": "weekly Star Atlas livestream",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=tOh-1Q59rTM"
+      },
+      {
+        "from": "organizing players in the Star Atlas Ushur faction",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=kd6Ot8fiMmM"
+      },
+      {
+        "from": "next update to Star Atlas ship configurations",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://medium.com/star-atlas/star-atlas-3rd-generation-ship-configuration-system-9c067d2e681"
+      },
+      {
+        "from": "weekly Star Atlas newsletter",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-97/"
+      },
+      {
+        "from": "updated referral program called Starpath",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://medium.com/star-atlas/star-atlas-starpath-buddy-link-referral-program-revolutionary-web3-discount-1586fcb8a021"
+      },
+      {
+        "from": "how to play SAGE Labs",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=g-6NVbhGbK8"
+      },
+      {
+        "from": "getting ready for Star Atlas SAGE Labs",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=y26by6BgV-c"
+      },
+      {
+        "from": "locations in SAGE Labs",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://medium.com/the-hologram/star-atlas-resource-locations-ba437a910473"
+      },
+      {
+        "from": "Atlas PRIME",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://medium.com/star-atlas/star-atlas-atlas-prime-pay-solana-network-fees-in-atlas-85472d5803d6"
+      },
+      {
+        "from": "locations in SAGE Labs",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=a_lPEJvRJkw"
+      },
+      {
+        "from": "video replay of the latest Atlas Brew",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=wQ6lfLihk_0"
+      },
+      {
+        "from": "latest Atlas Brew",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=_0dYsJiYn48"
+      },
+      {
+        "from": "Star Atlas Starpath",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/starpath-v2-everything-you-need-to-know/"
+      },
+      {
+        "from": "how to buy a Star Atlas ship",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=qySGuC1Wok0"
+      },
+      {
+        "from": "prepping for SAGE Labs",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=8YdbT06Rak0"
+      },
+      {
+        "from": "updates in Star Atlas",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=bbFEtfz-RF4"
+      },
+      {
+        "from": "Star Atlas Starpath",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=CykI6S3lBdY"
+      },
+      {
+        "from": "Star Atlas referral program called Starpath",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=O4aPI9wUKV0"
+      },
+      {
+        "from": "Star Atlas Starpath",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=wBRa6VLmG4w"
+      },
+      {
+        "from": "mine in SAGE Labs",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=_8tgjPHw1Zc"
+      },
+      {
+        "from": "walking through SAGE Labs",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=L2o8sNSarjM"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  }
+}

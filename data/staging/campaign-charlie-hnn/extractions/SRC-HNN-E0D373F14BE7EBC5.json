@@ -1,0 +1,169 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-E0D373F14BE7EBC5",
+    "url_id": "URL-E0D373F14BE7EBC5",
+    "url": "https://medium.com/the-hologram/every-winner-from-the-2022-star-atlas-joni-awards-22fa8ca4a46b",
+    "title": "Every Winner From the 2022 Star Atlas Joni Awards",
+    "author": "Krigs",
+    "publisher": "The Hologram",
+    "publication_identity": "The Hologram (Medium publication)",
+    "published_at": "2022-12-16T22:04:44Z",
+    "updated_at": "2022-12-16T22:04:44Z",
+    "retrieved_at": "2026-07-13T00:10:14.415090Z",
+    "document_type": "EVENT_COVERAGE",
+    "source_role": "EVENT_COVERAGE",
+    "publication_role": "EVENT_COVERAGE",
+    "classification_rationale": "Publication documents or recaps a named event."
+  },
+  "source_lineage": {
+    "publication": "The Hologram (Medium publication)",
+    "publication_role": "EVENT_COVERAGE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [
+      {
+        "publication": "Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://staratlas.com/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [
+      "Krigs"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Star Atlas",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://staratlas.com/"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "This event coverage published by The Hologram on 2022-12-16 documents “Every Winner From the 2022 Star Atlas Joni Awards.” Its surviving text addresses governance, economy, guilds and DACs, community, lore, technology. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "Every Winner From the 2022 Star Atlas Joni Awards\nKrigs3 min read·Dec 16, 2022\n--\n1\nListen\nShare\nFriday, Dec 16th — Star Atlas hosted its first ever Joni Awards, an award program dedicated to the members of the Star Atlas community. Named after the Oni female in the Star Atlas trailer, the golden statue of Joni was presented to each of the 12 winners below.\nPresenters included members of the Star Atlas team and members of the Star Atlas community including Arktype, Shadix, and Krigs from The Hologram.\nThe event culminated with the presentation of Community Member of the Year by CEO Michael Wagner of Automata, the company behind Star Atlas.\nEach Joni Award serves as a unique NFT and was presented to each winner from each category.\nFrom the Hologram, congratulations to each winner!\n1. Favorite Solana Project of the Year: Phantom\nPress enter or click to view image in full size\n2. Most Knowledgeable Community Member of the Year: Prometheus\nPress enter or click to view image in full size\n3. Community Helper of the Year: Morpheus\nPress enter or click to view image in full size\n4. Community Created Project of the Year: Tufa Attack\nPress enter or click to view image in full size\n5. Meme of the Year: Santi!\nPress enter or click to view image in full size\n6. Small Guild of the Year: Dark Matter\nPress enter or click to view image in full size\n7. Medium Guild of the Year: Rome\nPress enter or click to view image in full size\n8. Large Guild of the Year: Quimera\nPress enter or click to view image in full size\n9. Best Guild Website of the Year: Aephia.Com\nPress enter or click to view image in full size\n10. Video of the Year: DAOCaster\nPress enter or click to view image in full size\n11. Content Creator of the Year: Metaverse Explorer\nPress enter or click to view image in full size\n12. Community Member of the Year: Funcracker\nPress enter or click to view image in full size\nKrigs is the founder of The Hologram News Network, an independent blockchain gaming meta-news organization devoted to the coverage of the Star Atlas game. Krigs has covered Star Atlas for the past year and enjoys writing about the potential that blockchain technology has to revolutionize the gaming industry.\nFollow on Social Media:\nTwitter | Instagram | Web\nAbout The Hologram\nThe Hologram is Star Atlas’ first and only independent news network. Our vision is to become the most trusted source of information about Star Atlas and a voice for the whole community. Readers can expect a high standard from our reporting and staff. Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.\nThe Hologram is not endorsed or paid by the Star Atlas team. Any information published by The Hologram nor its writers should be considered as informational in nature and does not constitute any financial advice.",
+  "content_hash": "fed4dff73fb6b5d86685e9c9df3e0aedd251bd1ff9437b232ff2c834eff0854e",
+  "major_topics": [
+    "governance",
+    "economy",
+    "guilds and DACs",
+    "community",
+    "lore",
+    "technology"
+  ],
+  "entities": [
+    "ATLAS",
+    "Krigs",
+    "Michael Wagner",
+    "Santi",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-E0D373F14BE7EBC5-01",
+      "text": "Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-E0D373F14BE7EBC5",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Star Atlas",
+    "ATLAS"
+  ],
+  "governance_items": [
+    "Star Atlas governance / DAO"
+  ],
+  "lore_items": [
+    "ONI"
+  ],
+  "actors": [
+    "Michael Wagner",
+    "Krigs",
+    "Santi"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://medium.com/@krigsfoniks?source=---byline--22fa8ca4a46b---------------------------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fthe-hologram%2F22fa8ca4a46b&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fevery-winner-from-the-2022-star-atlas-joni-awards-22fa8ca4a46b&user=Krigs&userId=41e0c5b141f1&source=---header_actions--22fa8ca4a46b---------------------clap_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Frepost%2Fp%2F22fa8ca4a46b&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fevery-winner-from-the-2022-star-atlas-joni-awards-22fa8ca4a46b&user=Krigs&userId=41e0c5b141f1&source=---header_actions--22fa8ca4a46b---------------------repost_header------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F22fa8ca4a46b&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fevery-winner-from-the-2022-star-atlas-joni-awards-22fa8ca4a46b&source=---header_actions--22fa8ca4a46b---------------------bookmark_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2Fplans%3Fdimension%3Dpost_audio_button%26postId%3D22fa8ca4a46b&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fevery-winner-from-the-2022-star-atlas-joni-awards-22fa8ca4a46b&source=---header_actions--22fa8ca4a46b---------------------post_audio_button------------------",
+      "anchor_text": "Listen"
+    },
+    {
+      "url": "https://medium.com/u/5ed69ff9cfb0?source=---user_mention--22fa8ca4a46b---------------------------------------",
+      "anchor_text": "Star Atlas"
+    },
+    {
+      "url": "https://medium.com/u/800890c0705f?source=---user_mention--22fa8ca4a46b---------------------------------------",
+      "anchor_text": "Arktype"
+    },
+    {
+      "url": "https://medium.com/u/41e0c5b141f1?source=---user_mention--22fa8ca4a46b---------------------------------------",
+      "anchor_text": "Krigs"
+    },
+    {
+      "url": "https://twitter.com/home",
+      "anchor_text": "Twitter"
+    },
+    {
+      "url": "https://thehologram.io/",
+      "anchor_text": "Web"
+    },
+    {
+      "url": "https://medium.com/the-hologram",
+      "anchor_text": "The Hologram"
+    },
+    {
+      "url": "https://staratlas.com/",
+      "anchor_text": "Star Atlas"
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "https://medium.com/the-hologram/every-winner-from-the-2022-star-atlas-joni-awards-22fa8ca4a46b",
+    "final_url": "https://medium.com/the-hologram/every-winner-from-the-2022-star-atlas-joni-awards-22fa8ca4a46b",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 300449,
+    "elapsed_ms": 649,
+    "retrieval_mode": "LIVE",
+    "archive_capture": null
+  }
+}

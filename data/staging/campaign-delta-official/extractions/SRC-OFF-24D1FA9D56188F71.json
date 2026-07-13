@@ -1,0 +1,257 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-24D1FA9D56188F71",
+    "url": "https://support.staratlas.com/hc/en-us/articles/52243667123603-How-to-Import-Assets-in-C4-PTR",
+    "title": "How to Import Assets in C4 PTR",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2026-06-02T16:21:54Z",
+    "updated_at": "2026-06-03T14:43:31Z",
+    "original_date_text": "2026-06-02T16:21:54Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “How to Import Assets in C4 PTR.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Before you can use your ships and resources in C4 PTR, you need to import them into the game through the Port of Entry.\nIn PTR, assets are provided for testing purposes. These are not real assets\nStep 1: Open the Port of Entry\nAfter creating your C4 PTR profile, you will arrive on the main map.\nTo start importing your assets:\nLook at the bottom-right corner of the map.\nClick the Port of Entry.\nThe Port of Entry is where you can move your provided PTR assets into the game.\nStep 2: Select the assets you want to import\nInside the import interface, you will see the available items that can be imported.\nTo select your assets:\nClick MAX on the right side of each item you want to import.\nClick Deposit next to each selected item.\nThis will move the selected items into the manifest on the right side of the screen.\nStep 3: Review the transfer manifest\nAfter selecting your assets, review the manifest on the right side of the interface.\nThe manifest shows which assets are ready to be transferred into the game.\nBefore continuing, make sure the items you want to import are listed there.\nStep 4: Transfer the manifest\nOnce your manifest is ready:\nClick Transfer Manifest at the top of the manifest box.\nWait for the transfer to complete.\nAfter the transfer is complete, your assets will be imported into your faction CSS.\nWhere are imported assets sent?\nImported assets are sent to your faction CSS.\nThe CSS is the only base that has a Port of Entry for import and export.\nImportant notes\nPTR assets are provided for testing and are not real assets.\nYou need to import your assets before you can use them in C4 PTR.\nThe import process in PTR is expected to be similar to the mainnet process, although the PTR remains a test environment and may change over time.\nYour imported assets will be available from your faction CSS.\nWhat to do next\nOnce your assets are imported, you can start using them in C4 PTR.\nRecommended next steps:\nLearn how to use the C4 PTR map.\nReview the main menus.\nCreate or manage fleets.\nStart exploring the available PTR systems.",
+  "content_hash": "66b2171d7a54f37c12f09eea8a14c51e7b7d8c4aeeb4b8a169a3dc4a5b855b5c",
+  "entities": [
+    "C4"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-24D1FA9D56188F71-01",
+      "text": "Before you can use your ships and resources in C4 PTR, you need to import them into the game through the Port of Entry.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-24D1FA9D56188F71",
+      "publication_date": "2026-06-02T16:21:54Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-24D1FA9D56188F71-02",
+      "text": "In PTR, assets are provided for testing purposes.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-24D1FA9D56188F71",
+      "publication_date": "2026-06-02T16:21:54Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-24D1FA9D56188F71-03",
+      "text": "These are not real assets Step 1: Open the Port of Entry After creating your C4 PTR profile, you will arrive on the main map.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-24D1FA9D56188F71",
+      "publication_date": "2026-06-02T16:21:54Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-24D1FA9D56188F71-04",
+      "text": "To start importing your assets: Look at the bottom-right corner of the map.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-24D1FA9D56188F71",
+      "publication_date": "2026-06-02T16:21:54Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-24D1FA9D56188F71-05",
+      "text": "The Port of Entry is where you can move your provided PTR assets into the game.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-24D1FA9D56188F71",
+      "publication_date": "2026-06-02T16:21:54Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-24D1FA9D56188F71-06",
+      "text": "Step 2: Select the assets you want to import Inside the import interface, you will see the available items that can be imported.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-24D1FA9D56188F71",
+      "publication_date": "2026-06-02T16:21:54Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-24D1FA9D56188F71-07",
+      "text": "To select your assets: Click MAX on the right side of each item you want to import.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-24D1FA9D56188F71",
+      "publication_date": "2026-06-02T16:21:54Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-24D1FA9D56188F71-08",
+      "text": "This will move the selected items into the manifest on the right side of the screen.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-24D1FA9D56188F71",
+      "publication_date": "2026-06-02T16:21:54Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-24D1FA9D56188F71-09",
+      "text": "Step 3: Review the transfer manifest After selecting your assets, review the manifest on the right side of the interface.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-24D1FA9D56188F71",
+      "publication_date": "2026-06-02T16:21:54Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-24D1FA9D56188F71-10",
+      "text": "The manifest shows which assets are ready to be transferred into the game.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-24D1FA9D56188F71",
+      "publication_date": "2026-06-02T16:21:54Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-24D1FA9D56188F71-11",
+      "text": "Before continuing, make sure the items you want to import are listed there.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-24D1FA9D56188F71",
+      "publication_date": "2026-06-02T16:21:54Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-24D1FA9D56188F71-12",
+      "text": "Step 4: Transfer the manifest Once your manifest is ready: Click Transfer Manifest at the top of the manifest box.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-24D1FA9D56188F71",
+      "publication_date": "2026-06-02T16:21:54Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-24D1FA9D56188F71-13",
+      "text": "After the transfer is complete, your assets will be imported into your faction CSS.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-24D1FA9D56188F71",
+      "publication_date": "2026-06-02T16:21:54Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-24D1FA9D56188F71-14",
+      "text": "Imported assets are sent to your faction CSS.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-24D1FA9D56188F71",
+      "publication_date": "2026-06-02T16:21:54Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-24D1FA9D56188F71-15",
+      "text": "The CSS is the only base that has a Port of Entry for import and export.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-24D1FA9D56188F71",
+      "publication_date": "2026-06-02T16:21:54Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "C4"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/52243941755923",
+      "anchor_text": "Learn how to use the C4 PTR map."
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/52244580822419",
+      "anchor_text": "Review the main menus."
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/52251721868563",
+      "anchor_text": "Create or manage fleets."
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/52243941755923",
+      "anchor_text": "Learn how to use the C4 PTR map."
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/52244580822419",
+      "anchor_text": "Review the main menus."
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/52251721868563",
+      "anchor_text": "Create or manage fleets."
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/52243667123603-How-to-Import-Assets-in-C4-PTR",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.390241Z"
+  }
+}

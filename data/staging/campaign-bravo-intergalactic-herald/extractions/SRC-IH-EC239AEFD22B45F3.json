@@ -1,0 +1,316 @@
+{
+  "source": {
+    "source_id": "SRC-IH-EC239AEFD22B45F3",
+    "url_id": "URL-EC239AEFD22B45F3",
+    "url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-82/",
+    "inventory_url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-82",
+    "title": "Star Atlas Weekly News Recap #82",
+    "author": "Intergalactic Herald",
+    "publisher": "Intergalactic Herald",
+    "published_at": "2023-10-15T17:00:00",
+    "updated_at": "2023-10-14T16:34:37",
+    "retrieved_at": "2026-07-12T22:09:12.955134Z",
+    "document_type": "NEWSLETTER",
+    "source_role": "CURATED_SUMMARY",
+    "source_classification": "CURATED_SUMMARY",
+    "classification_rationale": "Weekly newsletter/recap aggregates developments and linked sources.",
+    "wordpress_type": "posts"
+  },
+  "summary": {
+    "neutral_abstract": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week. We are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us. We are launching a Star Atlas merch store. Please check it out at Intergalactic",
+    "historical_value": "Contemporary Intergalactic Herald publication preserved with role and attribution boundaries.",
+    "current_validity_warning": "Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources."
+  },
+  "article_text": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week.\nWe are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us.\nWe are launching a Star Atlas merch store. Please check it out at Intergalactic Gear.\nWe are creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic Coalition.\nIf you would like to support our efforts, donations can be sent to intergalacticherald.sol\nMetaverse Nomads #115 Star Atlas w/ @Chris_Economics\nMetaverse Nomads posted a video of their weekly Star Atlas livestream.\nStar Atlas Tops Ethereum and Polygon For Daily Transactions\nThe Hologram published an article about the number of daily Star Atlas blockchain transactions.\nWEEKLY STAR ATLAS NEWSLETTER #100\nAephia published their weekly Star Atlas newsletter.\nStar Atlas: Metaverse Nomads #114 w/ Chypto – TLDR\nTLDR posted a video recap of the Metaverse Nomads livestream.\nThe Atlas Brew #83\nStar Atlas TV posted a video replay of the latest Atlas Brew.\n#13 | BIG REVEAL!!! | Star Atlas\nPathfinder posted a video about his experiences playing Star Atlas.\nStar Atlas Sage Labs Elusive SDUs\nBeyond the Horizon posted a video about his experiences playing Star Atlas.\nmy response to the Star Atlas SDU problem.\nAtlas Theory posted a video talking about the problem scanning SDUs.\nStar Atlas Brew #83: Chypto & Giuliano (Game Design Team) – TLDR\nTLDR poste a video recap of the latest Atlas Brew.",
+  "content_hash": "edc273b3183958fa9085d3f61c0accfa5fc456aa7f5fd539d876a3ca5c90be52",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [],
+  "external_sources": [
+    {
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ZLIgPEG3b0g",
+      "anchor_text": "weekly Star Atlas livestream"
+    },
+    {
+      "url": "https://medium.com/the-hologram/star-atlas-tops-ethereum-and-polygon-for-daily-transactions-12fdd74989a7",
+      "anchor_text": "number of daily Star Atlas blockchain transactions"
+    },
+    {
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-100/",
+      "anchor_text": "weekly Star Atlas newsletter"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=rtk7Ec6cnq4",
+      "anchor_text": "video recap of the Metaverse Nomads livestream"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=a90tYseiwPs",
+      "anchor_text": "latest Atlas Brew"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=R3VBAUUjB5s",
+      "anchor_text": "his experiences playing Star Atlas"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=HaF-j8MlokM",
+      "anchor_text": "his experiences playing Star Atlas"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=BWs-MX2VCks",
+      "anchor_text": "problem scanning SDUs"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=xR4KOg6aYYw",
+      "anchor_text": "latest Atlas Brew"
+    }
+  ],
+  "primary_source_relationships": [
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=ZLIgPEG3b0g",
+      "anchor_text": "weekly Star Atlas livestream"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://medium.com/the-hologram/star-atlas-tops-ethereum-and-polygon-for-daily-transactions-12fdd74989a7",
+      "anchor_text": "number of daily Star Atlas blockchain transactions"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-100/",
+      "anchor_text": "weekly Star Atlas newsletter"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=rtk7Ec6cnq4",
+      "anchor_text": "video recap of the Metaverse Nomads livestream"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=a90tYseiwPs",
+      "anchor_text": "latest Atlas Brew"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=R3VBAUUjB5s",
+      "anchor_text": "his experiences playing Star Atlas"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=HaF-j8MlokM",
+      "anchor_text": "his experiences playing Star Atlas"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=BWs-MX2VCks",
+      "anchor_text": "problem scanning SDUs"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=xR4KOg6aYYw",
+      "anchor_text": "latest Atlas Brew"
+    }
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Verify which outbound links are primary sources and preserve creator attribution during promotion."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-82&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 5443,
+    "elapsed_ms": 1627,
+    "attempts": [
+      {
+        "endpoint": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-82&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "http_status": 200,
+        "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-82&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "content_type": "application/json; charset=UTF-8",
+        "response_size": 5443,
+        "elapsed_ms": 1627
+      }
+    ]
+  },
+  "source_lineage": {
+    "publication": "Intergalactic Herald",
+    "publication_role": "CURATED_SUMMARY",
+    "relationship": "CURATED_SUMMARY_OF",
+    "primary_sources": [
+      {
+        "publication": "weekly Star Atlas livestream",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=ZLIgPEG3b0g",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: weekly Star Atlas livestream"
+      },
+      {
+        "publication": "number of daily Star Atlas blockchain transactions",
+        "author": "UNKNOWN",
+        "url": "https://medium.com/the-hologram/star-atlas-tops-ethereum-and-polygon-for-daily-transactions-12fdd74989a7",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: number of daily Star Atlas blockchain transactions"
+      },
+      {
+        "publication": "weekly Star Atlas newsletter",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-100/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article with anchor text: weekly Star Atlas newsletter"
+      },
+      {
+        "publication": "video recap of the Metaverse Nomads livestream",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=rtk7Ec6cnq4",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: video recap of the Metaverse Nomads livestream"
+      },
+      {
+        "publication": "latest Atlas Brew",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=a90tYseiwPs",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest Atlas Brew"
+      },
+      {
+        "publication": "his experiences playing Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=R3VBAUUjB5s",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: his experiences playing Star Atlas"
+      },
+      {
+        "publication": "his experiences playing Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=HaF-j8MlokM",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: his experiences playing Star Atlas"
+      },
+      {
+        "publication": "problem scanning SDUs",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=BWs-MX2VCks",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: problem scanning SDUs"
+      },
+      {
+        "publication": "latest Atlas Brew",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=xR4KOg6aYYw",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest Atlas Brew"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "publication": "Intergalactic Gear",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticgear.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Intergalactic Coalition",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticcoalition.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      }
+    ],
+    "original_creators": [
+      "Aephia",
+      "Star Atlas"
+    ],
+    "attribution_chain": [
+      {
+        "from": "weekly Star Atlas livestream",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=ZLIgPEG3b0g"
+      },
+      {
+        "from": "number of daily Star Atlas blockchain transactions",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://medium.com/the-hologram/star-atlas-tops-ethereum-and-polygon-for-daily-transactions-12fdd74989a7"
+      },
+      {
+        "from": "weekly Star Atlas newsletter",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-100/"
+      },
+      {
+        "from": "video recap of the Metaverse Nomads livestream",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=rtk7Ec6cnq4"
+      },
+      {
+        "from": "latest Atlas Brew",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=a90tYseiwPs"
+      },
+      {
+        "from": "his experiences playing Star Atlas",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=R3VBAUUjB5s"
+      },
+      {
+        "from": "his experiences playing Star Atlas",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=HaF-j8MlokM"
+      },
+      {
+        "from": "problem scanning SDUs",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=BWs-MX2VCks"
+      },
+      {
+        "from": "latest Atlas Brew",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=xR4KOg6aYYw"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  }
+}

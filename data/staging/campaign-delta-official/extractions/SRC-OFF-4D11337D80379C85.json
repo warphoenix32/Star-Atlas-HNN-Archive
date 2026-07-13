@@ -1,0 +1,167 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-4D11337D80379C85",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47031348688275-How-do-I-manage-my-fleets-in-Holosim",
+    "title": "How do I manage my fleets in Holosim?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-02T19:07:10Z",
+    "updated_at": "2025-12-08T18:24:06Z",
+    "original_date_text": "2025-12-02T19:07:10Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “How do I manage my fleets in Holosim?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Once you’ve formed a fleet, you’ll need to manage it to keep it active and efficient. Fleet management lets you adjust settings, assign tasks, and keep track of your ships.\nWays to manage your fleets:\nOpen the “My Fleets” menu: this tab shows all fleets you have created.\nCheck fleet details: click on a fleet to see its ships, crew, cargo, and status.\nAccess fleet settings: open the Hangar menu, select a fleet, and click the small cog icon. This is where you can adjust options like auto-unload or automation preferences.\nDocking and undocking: fleets can be docked at bases to rest, refuel, or load/unload resources.\nGive orders: fleets can be assigned tasks like mining, transporting, scanning, or combat depending on their ships.\nManaging fleets effectively ensures you always have the right ships and crew working toward your goals, whether that’s gathering resources or defending your faction.",
+  "content_hash": "f2cde62f07bab35f22350ebbdac961db68fe09df9db3da5c1c8712a7d16b82d0",
+  "entities": [
+    "Crew"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-4D11337D80379C85-01",
+      "text": "Once you’ve formed a fleet, you’ll need to manage it to keep it active and efficient.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-4D11337D80379C85",
+      "publication_date": "2025-12-02T19:07:10Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-4D11337D80379C85-02",
+      "text": "Fleet management lets you adjust settings, assign tasks, and keep track of your ships.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-4D11337D80379C85",
+      "publication_date": "2025-12-02T19:07:10Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-4D11337D80379C85-03",
+      "text": "Ways to manage your fleets: Open the “My Fleets” menu: this tab shows all fleets you have created.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-4D11337D80379C85",
+      "publication_date": "2025-12-02T19:07:10Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-4D11337D80379C85-04",
+      "text": "Check fleet details: click on a fleet to see its ships, crew, cargo, and status.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-4D11337D80379C85",
+      "publication_date": "2025-12-02T19:07:10Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-4D11337D80379C85-05",
+      "text": "Access fleet settings: open the Hangar menu, select a fleet, and click the small cog icon.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-4D11337D80379C85",
+      "publication_date": "2025-12-02T19:07:10Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-4D11337D80379C85-06",
+      "text": "This is where you can adjust options like auto-unload or automation preferences.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-4D11337D80379C85",
+      "publication_date": "2025-12-02T19:07:10Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-4D11337D80379C85-07",
+      "text": "Docking and undocking: fleets can be docked at bases to rest, refuel, or load/unload resources.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-4D11337D80379C85",
+      "publication_date": "2025-12-02T19:07:10Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-4D11337D80379C85-08",
+      "text": "Give orders: fleets can be assigned tasks like mining, transporting, scanning, or combat depending on their ships.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-4D11337D80379C85",
+      "publication_date": "2025-12-02T19:07:10Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-4D11337D80379C85-09",
+      "text": "Managing fleets effectively ensures you always have the right ships and crew working toward your goals, whether that’s gathering resources or defending your faction.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-4D11337D80379C85",
+      "publication_date": "2025-12-02T19:07:10Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Crew"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47031348688275-How-do-I-manage-my-fleets-in-Holosim",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.275718Z"
+  }
+}

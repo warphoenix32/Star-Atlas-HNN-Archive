@@ -1,0 +1,360 @@
+{
+  "source": {
+    "source_id": "SRC-IH-A2C1802626103F79",
+    "url_id": "URL-A2C1802626103F79",
+    "url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-84/",
+    "inventory_url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-84",
+    "title": "Star Atlas Weekly News Recap #84",
+    "author": "Intergalactic Herald",
+    "publisher": "Intergalactic Herald",
+    "published_at": "2023-10-29T17:00:00",
+    "updated_at": "2023-10-28T22:38:44",
+    "retrieved_at": "2026-07-12T22:06:23.531993Z",
+    "document_type": "NEWSLETTER",
+    "source_role": "CURATED_SUMMARY",
+    "source_classification": "CURATED_SUMMARY",
+    "classification_rationale": "Weekly newsletter/recap aggregates developments and linked sources.",
+    "wordpress_type": "posts"
+  },
+  "summary": {
+    "neutral_abstract": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week. We are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us. We are launching a Star Atlas merch store. Please check it out at Intergalactic",
+    "historical_value": "Contemporary Intergalactic Herald publication preserved with role and attribution boundaries.",
+    "current_validity_warning": "Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources."
+  },
+  "article_text": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week.\nWe are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us.\nWe are launching a Star Atlas merch store. Please check it out at Intergalactic Gear.\nWe are creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic Coalition.\nIf you would like to support our efforts, donations can be sent to intergalacticherald.sol\nStar Atlas Chatter #16 – SAGE Alpha & What’s NEXT!\nRahMega posted a video on Star Atlas news.\nSTAR ATLAS #204 OPAL RAYFAM – How Much Will It Cost & Will you Buy It?\nMetaVerse Explorer posted a video of Star Altas updates.\nMetaverse Nomads #117 Star Atlas w/ Jose\nMetaverse Nomads posted a video replay of their weekly Star Atlas livestream.\nIs Star Atlas still a thing?\nA video interview with Star Atlas CEO Michael Wagner.\nWEEKLY STAR ATLAS NEWSLETTER #102\nAephia published their weekly Star Atlas newsletter.\n#15 | Star Atlas Patch 1.1.1 | SDU Updates | Updates to The Casino\nPathfinder posted a video about Star Atlas news.\nThe Atlas Brew #85\nStar Altas TV posted a video replay of the latest Atlas Brew.\nSTAR ATLAS #205 Amazing New SAGE Updates\nMetaVerse Explorer posted a video of more Star Atlas updates.\nStar Atlas Giving $1.35 Million in Loot to Players of Revolutionary Browser Game on Solana\nStar Atlas published an article about their upcoming reward campaign.\nWin $150,000 in Weekly Rewards!! (Star Atlas)\nAtlas Theory posted a video about the Star Atlas Golden Ticket raffle.\nSTAR ATLAS #206 BATTLE FOR $300K!\nMetaVerse Explorer posted a video about how to enter a Golden Ticket.",
+  "content_hash": "5c4c82ce64b390845d63fc48322cae330e630ac4335c53ab8d2a48ac797b4b3f",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [],
+  "external_sources": [
+    {
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=QcUrnziaTb0",
+      "anchor_text": "Star Atlas news"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=HuWTMBQCI-g",
+      "anchor_text": "Star Altas updates"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=I533-NCLAYc",
+      "anchor_text": "weekly Star Atlas livestream"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=phKTL7WfTmM",
+      "anchor_text": "video interview"
+    },
+    {
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-102/",
+      "anchor_text": "weekly Star Atlas newsletter"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=RFYrAs7au7U",
+      "anchor_text": "Star Atlas news"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=cogVr8xibUk",
+      "anchor_text": "latest Atlas Brew"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=6Oz71a-h7P4",
+      "anchor_text": "Star Atlas updates"
+    },
+    {
+      "url": "https://medium.com/star-atlas/golden-tickets-star-atlas-giving-million-loot-revolutionary-game-solana-b3d01930e9dc",
+      "anchor_text": "reward campaign"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=MYT1dgJ_j10",
+      "anchor_text": "Star Atlas Golden Ticket raffle"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=wyldTbmj1hQ",
+      "anchor_text": "how to enter a Golden Ticket"
+    }
+  ],
+  "primary_source_relationships": [
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=QcUrnziaTb0",
+      "anchor_text": "Star Atlas news"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=HuWTMBQCI-g",
+      "anchor_text": "Star Altas updates"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=I533-NCLAYc",
+      "anchor_text": "weekly Star Atlas livestream"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=phKTL7WfTmM",
+      "anchor_text": "video interview"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-102/",
+      "anchor_text": "weekly Star Atlas newsletter"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=RFYrAs7au7U",
+      "anchor_text": "Star Atlas news"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=cogVr8xibUk",
+      "anchor_text": "latest Atlas Brew"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=6Oz71a-h7P4",
+      "anchor_text": "Star Atlas updates"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://medium.com/star-atlas/golden-tickets-star-atlas-giving-million-loot-revolutionary-game-solana-b3d01930e9dc",
+      "anchor_text": "reward campaign"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=MYT1dgJ_j10",
+      "anchor_text": "Star Atlas Golden Ticket raffle"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=wyldTbmj1hQ",
+      "anchor_text": "how to enter a Golden Ticket"
+    }
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Verify which outbound links are primary sources and preserve creator attribution during promotion."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-84&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 6206,
+    "elapsed_ms": 1551,
+    "attempts": [
+      {
+        "endpoint": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-84&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "http_status": 200,
+        "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-84&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "content_type": "application/json; charset=UTF-8",
+        "response_size": 6206,
+        "elapsed_ms": 1551
+      }
+    ]
+  },
+  "source_lineage": {
+    "publication": "Intergalactic Herald",
+    "publication_role": "CURATED_SUMMARY",
+    "relationship": "CURATED_SUMMARY_OF",
+    "primary_sources": [
+      {
+        "publication": "Star Atlas news",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=QcUrnziaTb0",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas news"
+      },
+      {
+        "publication": "Star Altas updates",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=HuWTMBQCI-g",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Altas updates"
+      },
+      {
+        "publication": "weekly Star Atlas livestream",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=I533-NCLAYc",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: weekly Star Atlas livestream"
+      },
+      {
+        "publication": "video interview",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=phKTL7WfTmM",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: video interview"
+      },
+      {
+        "publication": "weekly Star Atlas newsletter",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-102/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article with anchor text: weekly Star Atlas newsletter"
+      },
+      {
+        "publication": "Star Atlas news",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=RFYrAs7au7U",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas news"
+      },
+      {
+        "publication": "latest Atlas Brew",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=cogVr8xibUk",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest Atlas Brew"
+      },
+      {
+        "publication": "Star Atlas updates",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=6Oz71a-h7P4",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas updates"
+      },
+      {
+        "publication": "reward campaign",
+        "author": "UNKNOWN",
+        "url": "https://medium.com/star-atlas/golden-tickets-star-atlas-giving-million-loot-revolutionary-game-solana-b3d01930e9dc",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: reward campaign"
+      },
+      {
+        "publication": "Star Atlas Golden Ticket raffle",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=MYT1dgJ_j10",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas Golden Ticket raffle"
+      },
+      {
+        "publication": "how to enter a Golden Ticket",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=wyldTbmj1hQ",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: how to enter a Golden Ticket"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "publication": "Intergalactic Gear",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticgear.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Intergalactic Coalition",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticcoalition.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      }
+    ],
+    "original_creators": [
+      "Aephia",
+      "Star Atlas"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Star Atlas news",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=QcUrnziaTb0"
+      },
+      {
+        "from": "Star Altas updates",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=HuWTMBQCI-g"
+      },
+      {
+        "from": "weekly Star Atlas livestream",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=I533-NCLAYc"
+      },
+      {
+        "from": "video interview",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=phKTL7WfTmM"
+      },
+      {
+        "from": "weekly Star Atlas newsletter",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-102/"
+      },
+      {
+        "from": "Star Atlas news",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=RFYrAs7au7U"
+      },
+      {
+        "from": "latest Atlas Brew",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=cogVr8xibUk"
+      },
+      {
+        "from": "Star Atlas updates",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=6Oz71a-h7P4"
+      },
+      {
+        "from": "reward campaign",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://medium.com/star-atlas/golden-tickets-star-atlas-giving-million-loot-revolutionary-game-solana-b3d01930e9dc"
+      },
+      {
+        "from": "Star Atlas Golden Ticket raffle",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=MYT1dgJ_j10"
+      },
+      {
+        "from": "how to enter a Golden Ticket",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=wyldTbmj1hQ"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-F05B48E5CEE409BA",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47057433144851-What-is-Faction-Fleet-in-Star-Atlas",
+    "title": "What is Faction Fleet in Star Atlas?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-03T15:14:31Z",
+    "updated_at": "2025-12-03T15:26:54Z",
+    "original_date_text": "2025-12-03T15:14:31Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “What is Faction Fleet in Star Atlas?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Faction Fleet allows you to stake your ships and earn $ATLAS overtime by continuing to resupply your ships with the 4 resources needed.",
+  "content_hash": "8d686ca331ebd942875e1fd44c2f56c8fc5a1c33a953128ab0a9a3e42f2ccd77",
+  "entities": [
+    "ATLAS",
+    "Faction Fleet"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-F05B48E5CEE409BA-01",
+      "text": "Faction Fleet allows you to stake your ships and earn $ATLAS overtime by continuing to resupply your ships with the 4 resources needed.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F05B48E5CEE409BA",
+      "publication_date": "2025-12-03T15:14:31Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Faction Fleet",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://support.staratlas.com/api/v2/help_center/en-us/articles/47057433144851.json",
+    "final_url": "https://support.staratlas.com/api/v2/help_center/en-us/articles/47057433144851.json",
+    "http_status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "response_size": 989,
+    "retrieved_at": "2026-07-13T01:06:40.684135Z",
+    "elapsed_ms": 419
+  }
+}

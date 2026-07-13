@@ -1,0 +1,14 @@
+{
+  "topic": "atmta, claims, polis, record, remain, the, this, time",
+  "official_source_ids": [
+    "SRC-OFF-4F78671802CD2C44"
+  ],
+  "community_source_ids": [
+    "SRC-HNN-623E80701742558B"
+  ],
+  "relationship": "OFFICIAL_SUPERSEDES_OLDER_GUIDE",
+  "finding": "Automated topic overlap on: atmta, claims, polis, record, remain, the, this, time. Official authority is limited to the official wording; community context remains separately attributed.",
+  "confidence": "LOW",
+  "promotion_candidate": false,
+  "manual_review_required": true
+}

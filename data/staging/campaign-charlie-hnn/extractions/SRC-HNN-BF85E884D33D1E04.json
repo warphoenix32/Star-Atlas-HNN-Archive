@@ -1,0 +1,260 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-BF85E884D33D1E04",
+    "url_id": "URL-BF85E884D33D1E04",
+    "url": "https://medium.com/the-hologram/who-is-iris-a-star-atlas-treasure-hunt-part-i-5e5a6fe74f78",
+    "title": "Who Is Iris? A Star Atlas Treasure Hunt Part I",
+    "author": "Krigs",
+    "publisher": "The Hologram",
+    "publication_identity": "The Hologram (Medium publication)",
+    "published_at": "2022-11-08T01:56:17Z",
+    "updated_at": "2023-03-27T02:04:57Z",
+    "retrieved_at": "2026-07-13T00:09:41.130852Z",
+    "document_type": "ORIGINAL_REPORTING",
+    "source_role": "ORIGINAL_REPORTING",
+    "publication_role": "ORIGINAL_REPORTING",
+    "classification_rationale": "Publication reports a development without explicit interview, editorial, investigative, event, or reference framing."
+  },
+  "source_lineage": {
+    "publication": "The Hologram (Medium publication)",
+    "publication_role": "ORIGINAL_REPORTING",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [
+      {
+        "publication": "Tim Mcburnie",
+        "author": "UNKNOWN",
+        "url": "http://www.timmcburnie.com/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "stream cipher",
+        "author": "UNKNOWN",
+        "url": "https://en.wikipedia.org/wiki/Stream_cipher",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://staratlas.com/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [
+      "Krigs"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Tim Mcburnie",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "http://www.timmcburnie.com/"
+      },
+      {
+        "from": "stream cipher",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://en.wikipedia.org/wiki/Stream_cipher"
+      },
+      {
+        "from": "Star Atlas",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://staratlas.com/"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "This original reporting published by The Hologram on 2022-11-08 documents “Who Is Iris? A Star Atlas Treasure Hunt Part I.” Its surviving text addresses economy, game development, community, lore. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "Star AtlasLore\nWho Is Iris? A Star Atlas Treasure Hunt Part I\nKrigs5 min read·Nov 8, 2022\n--\nListen\nShare\nAdherents to Star Atlas lore know that the legendary planet Iris is central to its mythos. Iris’ collision with seven other planets created The Cataclysm and sparked a Galactic Expansion and Arms Race between the three Star Atlas factions to claim its valuable resources.\nIn Star Atlas: CORE, Star Atlas Head Writer Matt Medney tells the lore behind the metaverse of Star Atlas. CORE is set 100 years before The Cataclysm and subsequent Convergence War. Throughout the series, the story will focus on Gyunn, a MUD protagonist traversing the galaxy after a visit to a planet in the high risk zone ends with a catastrophic blow to his team. It’s a tale of heroism, heartbreak, and epic adventure set in the rich and complex world that is Star Atlas.\nEpisode 1 of CORE, written by Tim Mcburnie, introduces the reader to a trio of space explorers scouting a distant planet for valuable resources.\nStar Atlas: CORE Gyunn Edition Cover\nWho is Iris?\nWell, in Star Atlas, Iris isn’t a ‘who’ but a ‘what’. As mentioned, Iris is a planet that existed deep in the High Risk Zone. As a planet, Iris is central to the story of Star Atlas in the current timeline. Star Atlas: CORE will explore the 100 years prior to The Cataclysm. Unfortunately, that’s all we know up until this point in the Star Atlas Lore.\nHowever, the fun is only beginning.\nStar Atlas Treasure Hunt Begins: Hunt for the Key of Iris\nReaders who purchase the Star Atlas: CORE SFTs will receive clues contained within each episode. Just like Gyunn, readers will embark on a journey to claim an invaluable prize. Being one of the first explorers to crack the cypher may earn them:\nComplete Digital Edition of CORE\nMeeting with the writing team\nShip skin based off of the graphic novel\nExtra exclusive content…\nSo…. Who Is Iris?\nWe know lore writers often like tying their lore to real life mythologies. J.K. Rowling is famous for lacing allusions to various polytheistic religions and beliefs throughout the Harry Potter series. It’s no doubt that Medney and Mcburnie have done the same.\nIn Greek mythology, Iris is the personification of the rainbow and messenger of the gods. Her sister Arke betrayed the Olympians and became the messenger of the gods’ enemy, the Titans. She is also known as one of the goddesses of the sea and the sky and links the gods to humanity. Iris is represented either as a rainbow or as a beautiful young maiden with wings on her shoulders. As a goddess, Iris is associated with communication, messages, the rainbow, and new endeavors. In some texts she is depicted wearing a coat of many colors. With this coat she actually creates the rainbows she rides to get from place to place.\nThere’s some pretty elegant imagery and symbolism here. What’s even more fascinating is that it all relates to Star Atlas in some way!\nArke and Rainbows\nWhere have we heard that before? If your thought was the Rainbow Arc, you’d be spot on!\nPress enter or click to view image in full sizeStar Atlas Rainbow Arc\nWe know that the Rainbow Arc is a ship manufactured by the Photoli, beings revered as Gods, by the MUD who themselves are human descendants in Star Atlas lore. The Rainbow Arc is also capable of some sort of light cloak or armor which gives it protection, much like Iris’ coat of rainbow colors. There’s just too many connections for this to be simply a mere coincidence.\nOnwards to glory and treasure\nThe allusions to the Greek goddess don’t end there. The Star Atlas page for Star Atlas: CORE contains what is likely the first clue in what could be a year long treasure hunt.\nPress enter or click to view image in full size\nAgain, we see the reference to Arc. However, what's more is that an Arc Cypher is an actual cryptological encryption method. An Arc Cypher, or a Rivest Cipher 4, also known as ARC4 or ARCFOUR, are stream ciphers. By going to the Star Atlas: CORE page, there appears to be a running stream cypher on the page. By finding the “Key to Iris”, readers and hunters will likely be able to decrypt the Arc Cypher and claim their prize!\nAs a last little easter egg, the Star Atlas CORE newsletter is titled, The Voice of Iris. Remember, Iris was the messenger of the Gods, so it’s befitting that the official newsletter is her voice.\nEager hunters will likely need to collect a copy of each weekly SFT to be able to discover the Key to Iris.\nIs the Voice of Iris calling to you? Will you heed her call? And will you find glory at the end of the rainbow?\nDisclaimer: While The Hologram will be participating in the hunt, this is not an endorsement to purchase the 18 SFTs that will likely be needed (36 in total if you count both Star Atlas and Magic Eden versions). Readers can access all the content of the CORE story for free.\nPress enter or click to view image in full size\nAbout The Hologram\nThe Hologram is Star Atlas’ first and only independent news network. Our vision is to become the most trusted source of information about Star Atlas and a voice for the whole community. Readers can expect a high standard from our reporting and staff. Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.\nThe Hologram is not endorsed or paid by the Star Atlas team. Any information published by The Hologram nor its writers should be considered as informational in nature and does not constitute any financial advice.",
+  "content_hash": "49d9a738f2218900d17cd75e38375664150237df69f1d96dda5ff31cbcf93b38",
+  "major_topics": [
+    "economy",
+    "game development",
+    "community",
+    "lore"
+  ],
+  "entities": [
+    "ATLAS",
+    "Krigs",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-BF85E884D33D1E04-01",
+      "text": "Throughout the series, the story will focus on Gyunn, a MUD protagonist traversing the galaxy after a visit to a planet in the high risk zone ends with a catastrophic blow to his team.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-BF85E884D33D1E04",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-BF85E884D33D1E04-02",
+      "text": "Star Atlas: CORE will explore the 100 years prior to The Cataclysm.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-BF85E884D33D1E04",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-BF85E884D33D1E04-03",
+      "text": "Star Atlas Treasure Hunt Begins: Hunt for the Key of Iris Readers who purchase the Star Atlas: CORE SFTs will receive clues contained within each episode.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-BF85E884D33D1E04",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-BF85E884D33D1E04-04",
+      "text": "Just like Gyunn, readers will embark on a journey to claim an invaluable prize.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-BF85E884D33D1E04",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-BF85E884D33D1E04-05",
+      "text": "By finding the “Key to Iris”, readers and hunters will likely be able to decrypt the Arc Cypher and claim their prize!",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-BF85E884D33D1E04",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-BF85E884D33D1E04-06",
+      "text": "Eager hunters will likely need to collect a copy of each weekly SFT to be able to discover the Key to Iris.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-BF85E884D33D1E04",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-BF85E884D33D1E04-07",
+      "text": "And will you find glory at the end of the rainbow?",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-BF85E884D33D1E04",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-BF85E884D33D1E04-08",
+      "text": "Disclaimer: While The Hologram will be participating in the hunt, this is not an endorsement to purchase the 18 SFTs that will likely be needed (36 in total if you count both Star Atlas and Magic Eden versions).",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-BF85E884D33D1E04",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-BF85E884D33D1E04-09",
+      "text": "Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-BF85E884D33D1E04",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Star Atlas",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [
+    "MUD",
+    "ONI"
+  ],
+  "actors": [
+    "Krigs"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://medium.com/@krigsfoniks?source=---byline--5e5a6fe74f78---------------------------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fthe-hologram%2F5e5a6fe74f78&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fwho-is-iris-a-star-atlas-treasure-hunt-part-i-5e5a6fe74f78&user=Krigs&userId=41e0c5b141f1&source=---header_actions--5e5a6fe74f78---------------------clap_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Frepost%2Fp%2F5e5a6fe74f78&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fwho-is-iris-a-star-atlas-treasure-hunt-part-i-5e5a6fe74f78&user=Krigs&userId=41e0c5b141f1&source=---header_actions--5e5a6fe74f78---------------------repost_header------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F5e5a6fe74f78&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fwho-is-iris-a-star-atlas-treasure-hunt-part-i-5e5a6fe74f78&source=---header_actions--5e5a6fe74f78---------------------bookmark_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2Fplans%3Fdimension%3Dpost_audio_button%26postId%3D5e5a6fe74f78&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fwho-is-iris-a-star-atlas-treasure-hunt-part-i-5e5a6fe74f78&source=---header_actions--5e5a6fe74f78---------------------post_audio_button------------------",
+      "anchor_text": "Listen"
+    },
+    {
+      "url": "https://twitter.com/matthewmedney",
+      "anchor_text": "Matt Medney"
+    },
+    {
+      "url": "http://www.timmcburnie.com/",
+      "anchor_text": "Tim Mcburnie"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Stream_cipher",
+      "anchor_text": "stream cipher"
+    },
+    {
+      "url": "https://medium.com/the-hologram",
+      "anchor_text": "The Hologram"
+    },
+    {
+      "url": "https://staratlas.com/",
+      "anchor_text": "Star Atlas"
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "https://medium.com/the-hologram/who-is-iris-a-star-atlas-treasure-hunt-part-i-5e5a6fe74f78",
+    "final_url": "https://medium.com/the-hologram/who-is-iris-a-star-atlas-treasure-hunt-part-i-5e5a6fe74f78",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 280626,
+    "elapsed_ms": 581,
+    "retrieval_mode": "LIVE",
+    "archive_capture": null
+  }
+}

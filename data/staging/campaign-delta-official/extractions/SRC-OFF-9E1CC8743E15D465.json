@@ -1,0 +1,239 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-9E1CC8743E15D465",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47053488731667-Managing-Your-Fleet-in-Sage-Refueling-Rearming-and-Resupplying",
+    "title": "Managing Your Fleet in Sage: Refueling, Rearming and Resupplying",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-03T13:17:05Z",
+    "updated_at": "2025-12-08T18:24:59Z",
+    "original_date_text": "2025-12-03T13:17:05Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://based.staratlas.com/",
+        "anchor_text": "Starbased"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “Managing Your Fleet in Sage: Refueling, Rearming and Resupplying.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "A crucial aspect of managing your fleet in Starbased is ensuring it's always ready for the next mission. This means keeping your ships fueled, armed, and supplied. Here's how to refuel and rearm your fleet efficiently:\nDock Your Fleet at a Starbase: Before you can refuel or rearm, your fleet needs to be docked at a starbase where you've already stocked resources. For guidance on importing resources into Starbased, refer to our article: How to Import Resources in Starbased.\nAccess the Hangar: Navigate to the hangar of the starbase where your fleet is docked by clicking on the Starbase or Central Space Station. Then, select \"Hangar\" from the new view that opens.\nRefueling and Rearming Options: In the hangar view, you’ll see all fleets currently docked at the starbase. At the top of this view, options to refuel or rearm all your fleets are available.\nFor specific fleet needs, like adding toolkit or food:\nClick on the fleet you wish to supply.\nA detailed view of your fleet’s cargo will display, including fuel, ammo, food, toolkit, and your cargo hold’s status.\nFor full rearming or refueling, select \"Full rearm\" or \"Full refuel\" accordingly.\nTo add food or toolkit, click on \"supply cargo,\" select the quantity, and then \"transfer.\"\nTransferring Additional Resources: If you need to transfer resources other than fuel, food, toolkit, and ammo:\nNavigate to \"Local Inventory\" where your fleet is docked.\nSelect your fleet to view its cargo status, helping you determine available space for additional resources.\nChoose the resources you wish to transfer, specify the quantity, and click on \"transfer to fleet.\"",
+  "content_hash": "5f19250cc477faf13385ba7254925c5b1d84fffcd90a891fe4eeda9570ddff9b",
+  "entities": [],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-9E1CC8743E15D465-01",
+      "text": "A crucial aspect of managing your fleet in Starbased is ensuring it's always ready for the next mission.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-9E1CC8743E15D465",
+      "publication_date": "2025-12-03T13:17:05Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-9E1CC8743E15D465-02",
+      "text": "This means keeping your ships fueled, armed, and supplied.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-9E1CC8743E15D465",
+      "publication_date": "2025-12-03T13:17:05Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-9E1CC8743E15D465-03",
+      "text": "Here's how to refuel and rearm your fleet efficiently: Dock Your Fleet at a Starbase: Before you can refuel or rearm, your fleet needs to be docked at a starbase where you've already stocked resources.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-9E1CC8743E15D465",
+      "publication_date": "2025-12-03T13:17:05Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-9E1CC8743E15D465-04",
+      "text": "For guidance on importing resources into Starbased, refer to our article: How to Import Resources in Starbased.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-9E1CC8743E15D465",
+      "publication_date": "2025-12-03T13:17:05Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-9E1CC8743E15D465-05",
+      "text": "Access the Hangar: Navigate to the hangar of the starbase where your fleet is docked by clicking on the Starbase or Central Space Station.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-9E1CC8743E15D465",
+      "publication_date": "2025-12-03T13:17:05Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-9E1CC8743E15D465-06",
+      "text": "Then, select \"Hangar\" from the new view that opens.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-9E1CC8743E15D465",
+      "publication_date": "2025-12-03T13:17:05Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-9E1CC8743E15D465-07",
+      "text": "Refueling and Rearming Options: In the hangar view, you’ll see all fleets currently docked at the starbase.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-9E1CC8743E15D465",
+      "publication_date": "2025-12-03T13:17:05Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-9E1CC8743E15D465-08",
+      "text": "At the top of this view, options to refuel or rearm all your fleets are available.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-9E1CC8743E15D465",
+      "publication_date": "2025-12-03T13:17:05Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-9E1CC8743E15D465-09",
+      "text": "For specific fleet needs, like adding toolkit or food: Click on the fleet you wish to supply.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-9E1CC8743E15D465",
+      "publication_date": "2025-12-03T13:17:05Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-9E1CC8743E15D465-10",
+      "text": "A detailed view of your fleet’s cargo will display, including fuel, ammo, food, toolkit, and your cargo hold’s status.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-9E1CC8743E15D465",
+      "publication_date": "2025-12-03T13:17:05Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-9E1CC8743E15D465-11",
+      "text": "For full rearming or refueling, select \"Full rearm\" or \"Full refuel\" accordingly.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-9E1CC8743E15D465",
+      "publication_date": "2025-12-03T13:17:05Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-9E1CC8743E15D465-12",
+      "text": "To add food or toolkit, click on \"supply cargo,\" select the quantity, and then \"transfer.\" Transferring Additional Resources: If you need to transfer resources other than fuel, food, toolkit, and ammo: Navigate to \"Local Inventory\" where your fleet is docked.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-9E1CC8743E15D465",
+      "publication_date": "2025-12-03T13:17:05Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-9E1CC8743E15D465-13",
+      "text": "Select your fleet to view its cargo status, helping you determine available space for additional resources.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-9E1CC8743E15D465",
+      "publication_date": "2025-12-03T13:17:05Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-9E1CC8743E15D465-14",
+      "text": "Choose the resources you wish to transfer, specify the quantity, and click on \"transfer to fleet.\"",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-9E1CC8743E15D465",
+      "publication_date": "2025-12-03T13:17:05Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://based.staratlas.com/",
+      "anchor_text": "Starbased"
+    },
+    {
+      "url": "https://support.staratlas.com/how-to-import-resources-into-starbased",
+      "anchor_text": "How to Import Resources in Starbased"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://based.staratlas.com/",
+      "anchor_text": "Starbased"
+    },
+    {
+      "url": "https://support.staratlas.com/how-to-import-resources-into-starbased",
+      "anchor_text": "How to Import Resources in Starbased"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47053488731667-Managing-Your-Fleet-in-Sage-Refueling-Rearming-and-Resupplying",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.436033Z"
+  }
+}

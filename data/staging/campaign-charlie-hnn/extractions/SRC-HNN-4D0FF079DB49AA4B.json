@@ -1,0 +1,121 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-4D0FF079DB49AA4B",
+    "url_id": "URL-4D0FF079DB49AA4B",
+    "url": "https://medium.com/the-hologram/star-atlas-philologists-make-two-important-discoveries-about-ancient-ustur-31c00bf95c8",
+    "title": "Star Atlas — Lost Ustur Language Decoded Part II",
+    "author": "Krigs",
+    "publisher": "The Hologram",
+    "publication_identity": "The Hologram (Medium publication)",
+    "published_at": "2023-02-12T19:32:08Z",
+    "updated_at": "2023-03-09T02:16:04Z",
+    "retrieved_at": "2026-07-13T00:07:31.724714Z",
+    "document_type": "ORIGINAL_REPORTING",
+    "source_role": "ORIGINAL_REPORTING",
+    "publication_role": "ORIGINAL_REPORTING",
+    "classification_rationale": "Publication reports a development without explicit interview, editorial, investigative, event, or reference framing."
+  },
+  "source_lineage": {
+    "publication": "The Hologram (Medium publication)",
+    "publication_role": "ORIGINAL_REPORTING",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Krigs"
+    ],
+    "attribution_chain": [],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "This original reporting published by The Hologram on 2023-02-12 documents “Star Atlas — Lost Ustur Language Decoded Part II.” Its surviving text addresses economy, game development, lore. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "Member-only story\nStar Atlas — Lost Ustur Language Decoded Part II\nKrigs4 min read·Feb 12, 2023\n--\n2\nListen\nShare\nTwo new discoveries were made this week during translation efforts for Ancient Ustur.\nPress enter or click to view image in full size\nEarlier this week, Star Atlas linguists made enormous breakthroughs in deciphering a newly discovered lost language — “Ancient Ustur”. This initial draft of the language provided a fundamental baseline for other decryptors to continue the work.\nWith the help of Ju from Gargantua Industries, The Hologram has two additional minor but important updates to the study of this ancient text.\nDebate over the “U” and “W” characters\nAncient Ustur as decrypted first draft\nWhen the first draft of the decoded language was first published, the was room for open debate regarding the usage of the characters “U” and “W”. At the time, historical texts provided inconstant and interchangeable usages of each character. Additionally, due to the low quality resolutions of these texts, it was originally believed that the “W” character was a slight variation of the “U” character”.\nHowever, now that modern text restoration scanners have completed their survey, high resolution captures of the texts are now available. What this improved quality texts…",
+  "content_hash": "7949712dba20ba2968a055157e848574ab994ebbe29414814f8b1eb5d76fc7f2",
+  "major_topics": [
+    "economy",
+    "game development",
+    "lore"
+  ],
+  "entities": [
+    "ATLAS",
+    "Krigs",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Star Atlas",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [
+    "Ustur"
+  ],
+  "actors": [
+    "Krigs"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://medium.com/@krigsfoniks?source=---byline--31c00bf95c8---------------------------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fthe-hologram%2F31c00bf95c8&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fstar-atlas-philologists-make-two-important-discoveries-about-ancient-ustur-31c00bf95c8&user=Krigs&userId=41e0c5b141f1&source=---header_actions--31c00bf95c8---------------------clap_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Frepost%2Fp%2F31c00bf95c8&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fstar-atlas-philologists-make-two-important-discoveries-about-ancient-ustur-31c00bf95c8&user=Krigs&userId=41e0c5b141f1&source=---header_actions--31c00bf95c8---------------------repost_header------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F31c00bf95c8&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fstar-atlas-philologists-make-two-important-discoveries-about-ancient-ustur-31c00bf95c8&source=---header_actions--31c00bf95c8---------------------bookmark_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2Fplans%3Fdimension%3Dpost_audio_button%26postId%3D31c00bf95c8&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fstar-atlas-philologists-make-two-important-discoveries-about-ancient-ustur-31c00bf95c8&source=---header_actions--31c00bf95c8---------------------post_audio_button------------------",
+      "anchor_text": "Listen"
+    },
+    {
+      "url": "https://medium.com/u/5ed69ff9cfb0?source=---user_mention--31c00bf95c8---------------------------------------",
+      "anchor_text": "Star Atlas"
+    },
+    {
+      "url": "https://medium.com/the-hologram/star-atlas-lost-ustur-language-decoded-6d0b82fe5acb",
+      "anchor_text": "breakthroughs"
+    },
+    {
+      "url": "https://medium.com/u/c33b0043eac3?source=---user_mention--31c00bf95c8---------------------------------------",
+      "anchor_text": "Gargantua Industries"
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "author_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "No explicit primary source was identifiable from preserved outbound links.",
+      "Extraction completeness or publication dating requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://medium.com/the-hologram/star-atlas-philologists-make-two-important-discoveries-about-ancient-ustur-31c00bf95c8",
+    "final_url": "https://medium.com/the-hologram/star-atlas-philologists-make-two-important-discoveries-about-ancient-ustur-31c00bf95c8",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 248930,
+    "elapsed_ms": 595,
+    "retrieval_mode": "LIVE",
+    "archive_capture": null
+  }
+}

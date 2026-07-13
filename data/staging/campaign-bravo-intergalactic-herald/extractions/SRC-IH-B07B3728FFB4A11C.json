@@ -1,0 +1,340 @@
+{
+  "source": {
+    "source_id": "SRC-IH-B07B3728FFB4A11C",
+    "url_id": "URL-B07B3728FFB4A11C",
+    "url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-85/",
+    "inventory_url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-85",
+    "title": "Star Atlas Weekly News Recap #85",
+    "author": "Intergalactic Herald",
+    "publisher": "Intergalactic Herald",
+    "published_at": "2023-11-05T18:00:00",
+    "updated_at": "2023-11-04T20:22:04",
+    "retrieved_at": "2026-07-12T22:06:59.680581Z",
+    "document_type": "NEWSLETTER",
+    "source_role": "CURATED_SUMMARY",
+    "source_classification": "CURATED_SUMMARY",
+    "classification_rationale": "Weekly newsletter/recap aggregates developments and linked sources.",
+    "wordpress_type": "posts"
+  },
+  "summary": {
+    "neutral_abstract": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week. We are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us. We are launching a Star Atlas merch store. Please check it out at Intergalactic",
+    "historical_value": "Contemporary Intergalactic Herald publication preserved with role and attribution boundaries.",
+    "current_validity_warning": "Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources."
+  },
+  "article_text": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week.\nWe are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us.\nWe are launching a Star Atlas merch store. Please check it out at Intergalactic Gear.\nWe are creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic Coalition.\nIf you would like to support our efforts, donations can be sent to intergalacticherald.sol\nSTAR ATLAS GOLDEN TICKET GUIDE – WIN $1,350,000!\nMetaVerse Explorer posted a video about how to enter the Star Atlas Golden Ticket raffle.\nMetaverse Nomads #118 Solana Breakpoint\nMetaverse Nomads posted a video replay of their weekly Star Atlas livestream.\nWEEKLY STAR ATLAS NEWSLETTER #103\nAephia published their weekly Star Atlas newsletter.\nStar Atlas Golden Ticket Raffle Offers Unique Opportunity at $1.35 Million In Prizes\nThe Hologram published an article about the Star Atlas Golden Ticket raffle.\nAtlas Brew 86 – Breakpoint Talk\nThe Hologram News Network posted a video replay of the latest Atlas Brew.\nStar Atlas Brew #86: Breakpoint Talk – TLDR\nTLDR posted a video recapping the latest Atlas Brew.\nStar Atlas – Breakpoint 2023 Presentation (REACTION)\nAtlas Theory posted a reaction video to the Star Atlas Breakpoint presentation.\nBreakpoint 2023: Star Atlas Session\nVideo of Star Atlas Breakpoint presentation.\n#16 | STAR ATLAS BREAKPOINT REACTION\nPathfinder posted a reaction video for the Breakpoint presentation.\nAll Eyes On Star Atlas At Solana Breakpoint 2023\nThe Hologram published an article about the Star Atlas Breakpoint presentation.",
+  "content_hash": "5b707ecdca29b49620e58875421eded2e843aaa5ea095f25debe31f12489fb8e",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [
+    "2023"
+  ],
+  "external_sources": [
+    {
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=9A--WJgeV_E",
+      "anchor_text": "Star Atlas Golden Ticket raffle"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=uQZxcKDVbmM",
+      "anchor_text": "weekly Star Atlas livestream"
+    },
+    {
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-103/",
+      "anchor_text": "weekly Star Atlas newsletter"
+    },
+    {
+      "url": "https://medium.com/the-hologram/star-atlas-golden-ticket-raffle-offers-unique-opportunity-at-1-35-million-in-prizes-711ce770eb20",
+      "anchor_text": "Star Atlas Golden Ticket raffle"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ytI6vemCVEo",
+      "anchor_text": "latest Atlas Brew"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=FNpZlGfTPcg",
+      "anchor_text": "recapping the latest Atlas Brew."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=kCVgtJ9pits",
+      "anchor_text": "reaction video to the Star Atlas Breakpoint presentation"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=c9elx0ir2js",
+      "anchor_text": "Star Atlas Breakpoint presentation"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Qv3Rkp-W7tI",
+      "anchor_text": "Breakpoint presentation"
+    },
+    {
+      "url": "https://medium.com/the-hologram/all-eyes-on-star-atlas-at-solana-breakpoint-2023-2f48ee869b1d",
+      "anchor_text": "Star Atlas Breakpoint presentation"
+    }
+  ],
+  "primary_source_relationships": [
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=9A--WJgeV_E",
+      "anchor_text": "Star Atlas Golden Ticket raffle"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=uQZxcKDVbmM",
+      "anchor_text": "weekly Star Atlas livestream"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-103/",
+      "anchor_text": "weekly Star Atlas newsletter"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://medium.com/the-hologram/star-atlas-golden-ticket-raffle-offers-unique-opportunity-at-1-35-million-in-prizes-711ce770eb20",
+      "anchor_text": "Star Atlas Golden Ticket raffle"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=ytI6vemCVEo",
+      "anchor_text": "latest Atlas Brew"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=FNpZlGfTPcg",
+      "anchor_text": "recapping the latest Atlas Brew."
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=kCVgtJ9pits",
+      "anchor_text": "reaction video to the Star Atlas Breakpoint presentation"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=c9elx0ir2js",
+      "anchor_text": "Star Atlas Breakpoint presentation"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=Qv3Rkp-W7tI",
+      "anchor_text": "Breakpoint presentation"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://medium.com/the-hologram/all-eyes-on-star-atlas-at-solana-breakpoint-2023-2f48ee869b1d",
+      "anchor_text": "Star Atlas Breakpoint presentation"
+    }
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Verify which outbound links are primary sources and preserve creator attribution during promotion."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-85&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 5956,
+    "elapsed_ms": 2158,
+    "attempts": [
+      {
+        "endpoint": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-85&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "http_status": 200,
+        "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-85&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "content_type": "application/json; charset=UTF-8",
+        "response_size": 5956,
+        "elapsed_ms": 2158
+      }
+    ]
+  },
+  "source_lineage": {
+    "publication": "Intergalactic Herald",
+    "publication_role": "CURATED_SUMMARY",
+    "relationship": "CURATED_SUMMARY_OF",
+    "primary_sources": [
+      {
+        "publication": "Star Atlas Golden Ticket raffle",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=9A--WJgeV_E",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas Golden Ticket raffle"
+      },
+      {
+        "publication": "weekly Star Atlas livestream",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=uQZxcKDVbmM",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: weekly Star Atlas livestream"
+      },
+      {
+        "publication": "weekly Star Atlas newsletter",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-103/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article with anchor text: weekly Star Atlas newsletter"
+      },
+      {
+        "publication": "Star Atlas Golden Ticket raffle",
+        "author": "UNKNOWN",
+        "url": "https://medium.com/the-hologram/star-atlas-golden-ticket-raffle-offers-unique-opportunity-at-1-35-million-in-prizes-711ce770eb20",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas Golden Ticket raffle"
+      },
+      {
+        "publication": "latest Atlas Brew",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=ytI6vemCVEo",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest Atlas Brew"
+      },
+      {
+        "publication": "recapping the latest Atlas Brew.",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=FNpZlGfTPcg",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: recapping the latest Atlas Brew."
+      },
+      {
+        "publication": "reaction video to the Star Atlas Breakpoint presentation",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=kCVgtJ9pits",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: reaction video to the Star Atlas Breakpoint presentation"
+      },
+      {
+        "publication": "Star Atlas Breakpoint presentation",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=c9elx0ir2js",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas Breakpoint presentation"
+      },
+      {
+        "publication": "Breakpoint presentation",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=Qv3Rkp-W7tI",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Breakpoint presentation"
+      },
+      {
+        "publication": "Star Atlas Breakpoint presentation",
+        "author": "UNKNOWN",
+        "url": "https://medium.com/the-hologram/all-eyes-on-star-atlas-at-solana-breakpoint-2023-2f48ee869b1d",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas Breakpoint presentation"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "publication": "Intergalactic Gear",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticgear.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Intergalactic Coalition",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticcoalition.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      }
+    ],
+    "original_creators": [
+      "Aephia",
+      "Star Atlas"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Star Atlas Golden Ticket raffle",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=9A--WJgeV_E"
+      },
+      {
+        "from": "weekly Star Atlas livestream",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=uQZxcKDVbmM"
+      },
+      {
+        "from": "weekly Star Atlas newsletter",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-103/"
+      },
+      {
+        "from": "Star Atlas Golden Ticket raffle",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://medium.com/the-hologram/star-atlas-golden-ticket-raffle-offers-unique-opportunity-at-1-35-million-in-prizes-711ce770eb20"
+      },
+      {
+        "from": "latest Atlas Brew",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=ytI6vemCVEo"
+      },
+      {
+        "from": "recapping the latest Atlas Brew.",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=FNpZlGfTPcg"
+      },
+      {
+        "from": "reaction video to the Star Atlas Breakpoint presentation",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=kCVgtJ9pits"
+      },
+      {
+        "from": "Star Atlas Breakpoint presentation",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=c9elx0ir2js"
+      },
+      {
+        "from": "Breakpoint presentation",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=Qv3Rkp-W7tI"
+      },
+      {
+        "from": "Star Atlas Breakpoint presentation",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://medium.com/the-hologram/all-eyes-on-star-atlas-at-solana-breakpoint-2023-2f48ee869b1d"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  }
+}

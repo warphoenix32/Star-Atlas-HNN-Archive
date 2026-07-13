@@ -1,0 +1,14 @@
+{
+  "topic": "about, claims, record, remain, sage, the, this, time",
+  "official_source_ids": [
+    "SRC-OFF-5C04CF2AA3580D72"
+  ],
+  "community_source_ids": [
+    "SRC-HNN-8ECF631D1920EBB2"
+  ],
+  "relationship": "OFFICIAL_SUPERSEDES_OLDER_GUIDE",
+  "finding": "Automated topic overlap on: about, claims, record, remain, sage, the, this, time. Official authority is limited to the official wording; community context remains separately attributed.",
+  "confidence": "LOW",
+  "promotion_candidate": false,
+  "manual_review_required": true
+}

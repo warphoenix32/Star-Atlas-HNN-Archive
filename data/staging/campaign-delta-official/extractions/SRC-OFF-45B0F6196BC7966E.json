@@ -1,0 +1,218 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-45B0F6196BC7966E",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47021309411859-How-to-lock-your-Polis",
+    "title": "How to lock your Polis?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-02T15:04:09Z",
+    "updated_at": "2025-12-08T18:24:17Z",
+    "original_date_text": "2025-12-02T15:04:09Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://govern.staratlas.com/lockers",
+        "anchor_text": "https://govern.staratlas.com/lockers"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “How to lock your Polis?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Locking your POLIS tokens grants you POLIS Voting Power (PVP), which allows you to participate in governance and shape the future of Star Atlas.\nYou can lock POLIS on the official governance platform:\nhttps://govern.staratlas.com/lockers\nStep-by-Step: Lock POLIS for Governance Power\nGo to the Governance Website\nVisit govern.staratlas.com/lockers\nClick “Connect Wallet” and approve the connection using your Solana wallet (e.g., Phantom, Backpack, etc.).\nClick “Lock POLIS”\nOn the Lockers page, locate the POLIS Locker section.\nClick the “Lock POLIS” button to begin the process.\nChoose Lock Period & Amount\nScroll down to the lock settings.\nSelect the amount of POLIS you want to lock.\nChoose your lock duration using the slider (longer locks = more PVP).\nReview the summary and confirm you're happy with your inputs.\nApprove the Transaction\nClick “Lock Token” and approve the transaction in your wallet.\nOnce confirmed, your POLIS is locked and you’ve earned PVP, giving you access to vote and contribute in the DAO.\n📌 Notes\nLocked POLIS cannot be withdrawn before the end of the chosen lock period.\nThe longer you lock, the more PVP you receive per POLIS.\nYou’ll be able to see your active locks and rewards on the same page",
+  "content_hash": "1e91b32c23d00e171dab5be2192b4fd7ad7e02b4bb57f061707591a5c8623055",
+  "entities": [
+    "ATLAS",
+    "POLIS",
+    "Solana"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-45B0F6196BC7966E-01",
+      "text": "Locking your POLIS tokens grants you POLIS Voting Power (PVP), which allows you to participate in governance and shape the future of Star Atlas.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-45B0F6196BC7966E",
+      "publication_date": "2025-12-02T15:04:09Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-45B0F6196BC7966E-02",
+      "text": "You can lock POLIS on the official governance platform: https://govern.staratlas.com/lockers Step-by-Step: Lock POLIS for Governance Power Go to the Governance Website Visit govern.staratlas.com/lockers Click “Connect Wallet” and approve the connection using your Solana wallet (e.g., Phantom, Backpack, etc.).",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-45B0F6196BC7966E",
+      "publication_date": "2025-12-02T15:04:09Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-45B0F6196BC7966E-03",
+      "text": "Click “Lock POLIS” On the Lockers page, locate the POLIS Locker section.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-45B0F6196BC7966E",
+      "publication_date": "2025-12-02T15:04:09Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-45B0F6196BC7966E-04",
+      "text": "Click the “Lock POLIS” button to begin the process.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-45B0F6196BC7966E",
+      "publication_date": "2025-12-02T15:04:09Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-45B0F6196BC7966E-05",
+      "text": "Choose Lock Period & Amount Scroll down to the lock settings.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-45B0F6196BC7966E",
+      "publication_date": "2025-12-02T15:04:09Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-45B0F6196BC7966E-06",
+      "text": "Choose your lock duration using the slider (longer locks = more PVP).",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-45B0F6196BC7966E",
+      "publication_date": "2025-12-02T15:04:09Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-45B0F6196BC7966E-07",
+      "text": "Review the summary and confirm you're happy with your inputs.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-45B0F6196BC7966E",
+      "publication_date": "2025-12-02T15:04:09Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-45B0F6196BC7966E-08",
+      "text": "Approve the Transaction Click “Lock Token” and approve the transaction in your wallet.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-45B0F6196BC7966E",
+      "publication_date": "2025-12-02T15:04:09Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-45B0F6196BC7966E-09",
+      "text": "Once confirmed, your POLIS is locked and you’ve earned PVP, giving you access to vote and contribute in the DAO.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-45B0F6196BC7966E",
+      "publication_date": "2025-12-02T15:04:09Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-45B0F6196BC7966E-10",
+      "text": "📌 Notes Locked POLIS cannot be withdrawn before the end of the chosen lock period.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-45B0F6196BC7966E",
+      "publication_date": "2025-12-02T15:04:09Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-45B0F6196BC7966E-11",
+      "text": "The longer you lock, the more PVP you receive per POLIS.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-45B0F6196BC7966E",
+      "publication_date": "2025-12-02T15:04:09Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-45B0F6196BC7966E-12",
+      "text": "You’ll be able to see your active locks and rewards on the same page",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-45B0F6196BC7966E",
+      "publication_date": "2025-12-02T15:04:09Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "POLIS",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [
+    "Solana"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://govern.staratlas.com/lockers",
+      "anchor_text": "https://govern.staratlas.com/lockers"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://govern.staratlas.com/lockers",
+      "anchor_text": "https://govern.staratlas.com/lockers"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47021309411859-How-to-lock-your-Polis",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.302127Z"
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-853DECAAAB045386",
+    "url_id": "URL-853DECAAAB045386",
+    "url": "https://hologramnews.com/key-insights-from-star-atlas-community-townhall-42",
+    "title": "Key Takeaways from the 42nd Star Atlas Community Townhall - Hologram News Network 🦉",
+    "author": "UNKNOWN",
+    "publisher": "Hologram News Network (HNN)",
+    "publication_identity": "HNN website (hologramnews.com)",
+    "published_at": "2024-02-29T15:27:00+00:00",
+    "updated_at": "2024-02-29T15:34:29+00:00",
+    "retrieved_at": "2026-07-13T00:08:35.885490Z",
+    "document_type": "EVENT_COVERAGE",
+    "source_role": "EVENT_COVERAGE",
+    "publication_role": "EVENT_COVERAGE",
+    "classification_rationale": "Publication documents or recaps a named event."
+  },
+  "source_lineage": {
+    "publication": "HNN website (hologramnews.com)",
+    "publication_role": "EVENT_COVERAGE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [
+      {
+        "publication": "Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://staratlas.com/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [],
+    "attribution_chain": [
+      {
+        "from": "Star Atlas",
+        "to": "HNN website (hologramnews.com)",
+        "relationship": "REPORTS_ON",
+        "url": "https://staratlas.com/"
+      }
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "This event coverage published by Hologram News Network (HNN) on 2024-02-29 documents “Key Takeaways from the 42nd Star Atlas Community Townhall - Hologram News Network 🦉.” Its surviving text addresses governance, economy, guilds and DACs, game development, community, lore, technology. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "Key Takeaways from the 42nd Star Atlas Community Townhall\nBy Hologram News NetworkPublished On: 29 February 2024Tags: Star Atlas Events, Star Atlas Golden Era, Starbased, Townhall\nMajor Changes and Update Announcements in Star Atlas\nIn Tuesday’s 42nd Star Atlas Town Hall, the Star Atlas gaming community received essential updates on many aspects of the gaming platform presented directly from CEO Michael Wagner\nFaction Fleet\nThe Faction Fleet program will undergo another change. Specifically, Faction Fleet rewards will see a reduction of 33% from the original rates, effective today. Simultaneously, the SDU discover rate in Sage will rise by 33% for a total per minute discover rate of 2,000 SDUs per minute. In the absence of any changes to Faction Claims, the introduction of Starbased will eventually render Faction Fleet obsolete within a launch timeline of two to four weeks post-private community testing.\nStarbased Transition\nOne of the significant updates concerns the evolution of gameplay. Traditional solo play in Starbased will become phased out, with factions competing against each other to create and expand their star bases. This shift implies migrating your resources into a new game ID, paying for fuel costs and ending any mining or scanning operations in the old game ID.\nCharacter XP Progression and Loyalty Points\nCharacter progression and loyalty points will emerge as crucial elements. Players can level up their Council Rank or licenses in mining, crafting, and scanning, with a daily XP cap. In the future, the Council rank mechanic will award you points that enhance account specifications, with larger fleets or crew members.\nLoyalty points determine your contribution to faction tasks such as constructing star bases. Each task will receive LP allocation based on its rarity, with upgrades to star bases yielding more LP than maintenance.\nATLAS Emission Changes\nThe emissions of Atlas, the in-game currency, is also set to be tweaked. The current constant rate of 4.5 million Atlas per day will transform into 1.5 million Atlas per faction under the Starbased system. Atlas emissions will be proportional to LP earned, compared to the rest of the faction.\nWith the introduction of the Starbased system, Star bases will start at level one, except for CSS which will debut at level six. Advancement allows players access to a variety of recipes and upgrades. Star base functionality depends on food availability; a lack of food only pauses crafting operations, while toolkit deficiency freezes upgrades.\nNew Resources Introduction\nIn terms of resources, three new elements, Silica, Titanium Ore and Nitrogen, will appear on the map, replacing older resources. The advantageous usage of these resources in crafting and upgrading will play a significant role in gameplay. This change also indicates that RFR Redemption will be discontinued, calling for the strategic placement of SDUs in upgrading recipes.\nFuture Combat Release\nFollowing the implementation of Starbased, combat systems will come under review, potentially calling for another game ID move.\nFuture Crew Mechanics\nThe future also holds promising development for crew members. Players can use their crew as an avatar in UE5, and considering the expectation for up to 2.5 million crew members, Star Atlas might mint 10 million compressed crew NFTs to save on costs. Rarity and backstory will determine the power and skills of the crew members.\nOther Noteworthy Updates\nAnother promising development is the planned April release teaser for a big Sage 3D feature.\nThe Crew Companion app for mobile platforms is also in development, although its launch could happen as late as Q3 considering current projects like the DAO, DAC, SAGE and R2.2.\nThe recently launched full DAC Platform, being mobile-friendly, offers a revamped management view highlighting the DAC you’re part of. Plans for adding DAC treasury, lending and borrowing facilities and a feature to analyze player wallets for inclusion in the DAC are also in place.\nOn another note, proposals to reprioritize the DAO, considered as late as Q2, include on-chain voting and the ability to permanently lock POLIS in the POLIS locker, introducing a higher multiplier feature.\nLastly, the promising UE5 stress tests are scheduled for the months of March or April. They could accommodate up to 2000 players, giving away rewards like Atlas and crew cards depending on participation levels.\nStar Atlas Townhall 42 Recap provided by contributing reporter Beth.\nAbout the Author: Hologram News Network\nThe Hologram is Star Atlas’ first and only independent news network. HNN's goal is to deliver the most trusted source of information about Star Atlas and be a voice for the whole community.Simultaneously, HNN seeks to enable community driven content creation by supporting and sponsoring emerging creators, writers, and community members.Readers can expect a high standard from our reporting and staff.\nlatest video\neditor's pick\nDiscover Star Atlas Alpha Content Pipelines at Solana Breakpoint 2022\nUnlocking Star Atlas Secrets: CEO Michael Wagner’s CoinDesk.TV Exclusive\nnews via inbox\nGet news from the Hologram first\nVisit Galia Art Station",
+  "content_hash": "f1ed31db16b25931b44bf673e3f8fb8ed7650e50d4eb170f8bbc59510afd3924",
+  "major_topics": [
+    "governance",
+    "economy",
+    "guilds and DACs",
+    "game development",
+    "community",
+    "lore",
+    "technology"
+  ],
+  "entities": [
+    "ATLAS",
+    "Michael Wagner",
+    "POLIS",
+    "SAGE",
+    "Star Atlas",
+    "Starbased"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-853DECAAAB045386-01",
+      "text": "Key Takeaways from the 42nd Star Atlas Community Townhall By Hologram News NetworkPublished On: 29 February 2024Tags: Star Atlas Events, Star Atlas Golden Era, Starbased, Townhall Major Changes and Update Announcements in Star Atlas In Tuesday’s 42nd Star Atlas Town Hall, the Star Atlas gaming community received essential updates on many aspects of the gaming platform presented directly from CEO Michael Wagner Faction Fleet The Faction Fleet program will undergo another change.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-853DECAAAB045386",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-853DECAAAB045386-02",
+      "text": "Specifically, Faction Fleet rewards will see a reduction of 33% from the original rates, effective today.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-853DECAAAB045386",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-853DECAAAB045386-03",
+      "text": "Simultaneously, the SDU discover rate in Sage will rise by 33% for a total per minute discover rate of 2,000 SDUs per minute.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-853DECAAAB045386",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-853DECAAAB045386-04",
+      "text": "In the absence of any changes to Faction Claims, the introduction of Starbased will eventually render Faction Fleet obsolete within a launch timeline of two to four weeks post-private community testing.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-853DECAAAB045386",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-853DECAAAB045386-05",
+      "text": "Traditional solo play in Starbased will become phased out, with factions competing against each other to create and expand their star bases.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-853DECAAAB045386",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-853DECAAAB045386-06",
+      "text": "Character XP Progression and Loyalty Points Character progression and loyalty points will emerge as crucial elements.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-853DECAAAB045386",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-853DECAAAB045386-07",
+      "text": "In the future, the Council rank mechanic will award you points that enhance account specifications, with larger fleets or crew members.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-853DECAAAB045386",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-853DECAAAB045386-08",
+      "text": "Each task will receive LP allocation based on its rarity, with upgrades to star bases yielding more LP than maintenance.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-853DECAAAB045386",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-853DECAAAB045386-09",
+      "text": "The current constant rate of 4.5 million Atlas per day will transform into 1.5 million Atlas per faction under the Starbased system.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-853DECAAAB045386",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-853DECAAAB045386-10",
+      "text": "Atlas emissions will be proportional to LP earned, compared to the rest of the faction.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-853DECAAAB045386",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-853DECAAAB045386-11",
+      "text": "With the introduction of the Starbased system, Star bases will start at level one, except for CSS which will debut at level six.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-853DECAAAB045386",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-853DECAAAB045386-12",
+      "text": "New Resources Introduction In terms of resources, three new elements, Silica, Titanium Ore and Nitrogen, will appear on the map, replacing older resources.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-853DECAAAB045386",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "SAGE",
+    "Star Atlas",
+    "Starbased",
+    "POLIS",
+    "ATLAS"
+  ],
+  "governance_items": [
+    "Star Atlas governance / DAO"
+  ],
+  "lore_items": [],
+  "actors": [
+    "Michael Wagner"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://hologramnews.com/key-insights-from-star-atlas-community-townhall-42/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://hologramnews.com/author/hologramnews-com/",
+      "anchor_text": "Hologram News Network"
+    },
+    {
+      "url": "https://hologramnews.com/tag/events/",
+      "anchor_text": "Star Atlas Events"
+    },
+    {
+      "url": "https://hologramnews.com/tag/sage/",
+      "anchor_text": "Star Atlas Golden Era"
+    },
+    {
+      "url": "https://hologramnews.com/tag/starbased/",
+      "anchor_text": "Starbased"
+    },
+    {
+      "url": "https://hologramnews.com/tag/townhall/",
+      "anchor_text": "Townhall"
+    },
+    {
+      "url": "https://staratlas.com/",
+      "anchor_text": "Star Atlas"
+    },
+    {
+      "url": "https://hologramnews.com/?s=wagner&post_type%5B%5D=any&search_limit_to_post_titles=0&fs=1",
+      "anchor_text": "Wagner"
+    },
+    {
+      "url": "https://twitter.com/bnBeth_solvax",
+      "anchor_text": "Beth."
+    },
+    {
+      "url": "https://hologramnews.com/discover-star-atlas-alpha-content-pipelines-at-solana-breakpoint-2022/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://hologramnews.com/unlocking-star-atlas-secrets-ceo-michael-wagners-coindesk-tv-exclusive/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://hologramnews.com/galia-art-station/",
+      "anchor_text": "Visit Galia Art Station"
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "UNKNOWN",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Author is not explicit in the surviving publication metadata."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://web.archive.org/web/20240420095858id_/https://hologramnews.com/key-insights-from-star-atlas-community-townhall-42/",
+    "final_url": "https://web.archive.org/web/20240420095858id_/https://hologramnews.com/key-insights-from-star-atlas-community-townhall-42/",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "response_size": 212719,
+    "elapsed_ms": 1549,
+    "retrieval_mode": "INTERNET_ARCHIVE",
+    "archive_capture": {
+      "timestamp": "20240420095858",
+      "original": "https://hologramnews.com/key-insights-from-star-atlas-community-townhall-42/",
+      "digest": "F63UE2CZ7B35TDB6GFSUT65WD7WWFK4N"
+    }
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-4850F98FBD1F1541",
+    "url": "https://staratlas.com/game/holosim/",
+    "title": "Holosim | Star Atlas",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas / ATMTA",
+    "published_at": null,
+    "updated_at": null,
+    "original_date_text": null,
+    "document_type": "REFERENCE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas / ATMTA",
+    "publication_role": "REFERENCE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://play.staratlas.com",
+        "anchor_text": "Play Now"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official reference titled “Holosim | Star Atlas.” This record preserves what Star Atlas / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Holosim | Star Atlas\n0001.\nHolosim\nHolosim brings Fleet Command to your browser, free to play and instantly accessible. An in-universe simulation that lets you experience strategic gameplay without special hardware or a crypto wallet. The perfect entry point into Star Atlas.\nYour browser does not support the video tag.\nFree\nTo Play\n0\nDownloads\n5min\nTo Start\n100%\nBrowser\nInstant Access\nNo downloads, no installations, no wallet setup. Open your browser and start commanding fleets within minutes.\nBrowser-based gameplay\nNo downloads required\nNo crypto wallet needed\nWorks on any device\nFree to Play\nExperience Star Atlas fleet mechanics without any upfront investment. Holosim is designed to welcome new players to the universe.\nZero cost entry\nFull gameplay experience\nLearn before you invest\nNo pay-to-win mechanics\nReal Mechanics\nHolosim offers genuine Star Atlas fleet command simulation with meaningful strategic depth. This is real gameplay, accessible to everyone.\nAuthentic fleet management\nStrategic decision-making\nResource management\nTactical combat\nPath to Full Game\nSkills learned in Holosim transfer directly to the full Star Atlas experience. Graduate from simulation to reality when you're ready.\nSkills transfer\nSeamless progression\nCommunity integration\nEconomy connection\nGetting Started with Holosim\nVisit the Star Atlas Holosim portal\nCreate a free account (no wallet required)\nComplete the tutorial to learn basic fleet commands\nParticipate in simulation battles\nConnect your wallet when ready to enter the real economy\nTry It Now\nNo barriers, no risk. Experience Star Atlas fleet command in your browser right now.\nPlay Now\nExplore More Features\nGalia ExpanseGame ModesYour Fleet, Your WayLife in GaliaFleet CommandSAGE Labs",
+  "content_hash": "c2c8c6e2629f1070977669f87f3154cae29f5a40cd6108f5e6868cf70f155af6",
+  "entities": [
+    "ATLAS",
+    "Fleet Command",
+    "Holosim"
+  ],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "ATLAS",
+    "Holosim",
+    "Fleet Command"
+  ],
+  "governance_items": [],
+  "lore_items": [
+    "Galia"
+  ],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://play.staratlas.com",
+      "anchor_text": "Play Now"
+    },
+    {
+      "url": "https://staratlas.com/game/galia/",
+      "anchor_text": "Galia Expanse"
+    },
+    {
+      "url": "https://staratlas.com/game/game-modes/",
+      "anchor_text": "Game Modes"
+    },
+    {
+      "url": "https://staratlas.com/game/your-fleet-your-way/",
+      "anchor_text": "Your Fleet, Your Way"
+    },
+    {
+      "url": "https://staratlas.com/game/life-in-galia/",
+      "anchor_text": "Life in Galia"
+    },
+    {
+      "url": "https://staratlas.com/game/fleet-command/",
+      "anchor_text": "Fleet Command"
+    },
+    {
+      "url": "https://staratlas.com/game/sage-labs/",
+      "anchor_text": "SAGE Labs"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://play.staratlas.com",
+      "anchor_text": "Play Now"
+    },
+    {
+      "url": "https://staratlas.com/game/galia/",
+      "anchor_text": "Galia Expanse"
+    },
+    {
+      "url": "https://staratlas.com/game/game-modes/",
+      "anchor_text": "Game Modes"
+    },
+    {
+      "url": "https://staratlas.com/game/your-fleet-your-way/",
+      "anchor_text": "Your Fleet, Your Way"
+    },
+    {
+      "url": "https://staratlas.com/game/life-in-galia/",
+      "anchor_text": "Life in Galia"
+    },
+    {
+      "url": "https://staratlas.com/game/fleet-command/",
+      "anchor_text": "Fleet Command"
+    },
+    {
+      "url": "https://staratlas.com/game/sage-labs/",
+      "anchor_text": "SAGE Labs"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "LOW",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://staratlas.com/game/holosim/",
+    "final_url": "https://staratlas.com/game/holosim/",
+    "http_status": 200,
+    "content_type": "text/html",
+    "response_size": 9208,
+    "retrieved_at": "2026-07-13T01:05:03.561028Z",
+    "elapsed_ms": 69
+  }
+}

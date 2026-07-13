@@ -1,0 +1,190 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-878B6B43E3D95D52",
+    "url_id": "URL-878B6B43E3D95D52",
+    "url": "https://hologramnews.com/ftx-liquidators-increase-star-atlas-selling-pace",
+    "title": "FTX liquidators increase Star Atlas selling pace -",
+    "author": "Siggy",
+    "publisher": "Hologram News Network (HNN)",
+    "publication_identity": "HNN website (hologramnews.com)",
+    "published_at": "2024-08-01T09:31:37+00:00",
+    "updated_at": "2024-08-01T09:31:55+00:00",
+    "retrieved_at": "2026-07-13T00:08:38.925226Z",
+    "document_type": "ORIGINAL_REPORTING",
+    "source_role": "ORIGINAL_REPORTING",
+    "publication_role": "ORIGINAL_REPORTING",
+    "classification_rationale": "Publication reports a development without explicit interview, editorial, investigative, event, or reference framing."
+  },
+  "source_lineage": {
+    "publication": "HNN website (hologramnews.com)",
+    "publication_role": "ORIGINAL_REPORTING",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Siggy"
+    ],
+    "attribution_chain": [],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "This original reporting published by Hologram News Network (HNN) on 2024-08-01 documents “FTX liquidators increase Star Atlas selling pace -.” Its surviving text addresses governance, economy, game development, community, technology. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "FTX liquidators increase Star Atlas selling pace\nBy SiggyPublished On: 1 August 2024Tags: Atlas, ftx, Polis\nToday, FTX liquidations of Star Atlas tokens $POLIS and $ATLAS increased substantially. While this may seem like bearish news, it’s quite the opposite. FTX liquidations are now projected to last shorter than previously predicted.\nWhat You Need To Know\nIn addition to the ongoing token sales on centralized exchange Gate.io, there are now two liquidation dollar cost averages on the @JupiterExchange for both ATLAS and POLIS:\nATLAS: 350,771 & 499,849 per hour totaling 850,620 per hour\nPOLIS: 23,992 & 3,613 hour = 27,605 per hour\nSince yesterday, the increased selling from the FTX liquidations on DEXs equals 110% for ATLAS and 664% for POLIS\nAt current token price values, the total USDC daily sell volume equals:\nATLAS: $33,900 per day\nPOLIS: $62,700/day\nThis is the first time since April 1, 2024 that the firm carrying out the FTX token liquidations has had two sell accounts for either ATLAS or POLIS at the same time. This increased sell pressure is directly causing today’s downward price action.\nWhat Does This Mean Going Forward\nIncreased volumes of token selling as stated above (if it continues) will likely drive prices lower, but I don’t think you can chart this type of price action. Importantly, however, this will also dramatically reduce the duration of these liquidations, bringing an end to this madness sooner rather than later.\nNew Estimated Time Left For Token Liquidations To Conclude:\nATLAS: 9-10 days (Old estimate = ~11 days)\nPOLIS: 9-10 days (Old estimate = ~35 days)\nI want to stress that I am not concerned right now, I am actually excited.\nLet me explain: These tokens are being sold by a firm that likely received them for cents on the dollar, doesn’t care about price or project fundamentals, and has a lot of tokens they wanted gone yesterday. They are pushing the market cap of Star Atlas tokens to values comparable to projects that aren’t even in the same stage of development.\nStar Atlas is being built by a super passionate, extremely talented team willing to work on the project on their own time. It has had a fully operational economy running for nearly a year, a solid path to Season 0, and a top-tier community built over years of development.\nThis community has been battle-tested through project bugs and has outlasted events that no other project in Web3 or Web2 could even dream of enduring. We’re building in UnrealEngine, the best gaming engine available today, on Solana, the best blockchain in all of crypto and by far the most popular this cycle.\nFor all the OGs out there, development is so far along that we are “most definitely, getting close to a jog. When we get Fleet Command, Galia and instanced game modes humming we’re in a jog. Season 0 is running.” -bunthius, CPO at Star Atlas\nIf you’ve seen where we’ve come from, and you know where we are going, these token prices may just be a fantastic DCA opportunity. Not only this but for the first time ever, Star Atlas tokens will no longer have Private Token Holders or early investors or FTX to continuously dump tokens on to this passionate community.\nNot Financial Advice and these are my own personal opinions.\nAbout the Author: Siggy\nStar Atlas Discount\nSave 10% on Star Atlas with the Starpath Referral Program\nrelated\nStar Atlas Townhall 32: ATLAS Staking and SCREAM News\nStar Atlas Land Sales Coming in the Future\nnews via inbox\nGet news from the Hologram first",
+  "content_hash": "1ea9241f75349d8896c208c80e5959180f0cf727755ad54932373a6021ea5525",
+  "major_topics": [
+    "governance",
+    "economy",
+    "game development",
+    "community",
+    "technology"
+  ],
+  "entities": [
+    "ATLAS",
+    "POLIS",
+    "SCREAM",
+    "Star Atlas",
+    "StarPath"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-878B6B43E3D95D52-01",
+      "text": "What Does This Mean Going Forward Increased volumes of token selling as stated above (if it continues) will likely drive prices lower, but I don’t think you can chart this type of price action.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-878B6B43E3D95D52",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-878B6B43E3D95D52-02",
+      "text": "Importantly, however, this will also dramatically reduce the duration of these liquidations, bringing an end to this madness sooner rather than later.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-878B6B43E3D95D52",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-878B6B43E3D95D52-03",
+      "text": "Not only this but for the first time ever, Star Atlas tokens will no longer have Private Token Holders or early investors or FTX to continuously dump tokens on to this passionate community.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-878B6B43E3D95D52",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Star Atlas",
+    "POLIS",
+    "ATLAS",
+    "StarPath",
+    "SCREAM"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://hologramnews.com/ftx-liquidators-increase-star-atlas-selling-pace/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://hologramnews.com/author/siggy/",
+      "anchor_text": "Siggy"
+    },
+    {
+      "url": "https://hologramnews.com/tag/atlas/",
+      "anchor_text": "Atlas"
+    },
+    {
+      "url": "https://hologramnews.com/tag/ftx/",
+      "anchor_text": "ftx"
+    },
+    {
+      "url": "https://hologramnews.com/tag/polis6/",
+      "anchor_text": "Polis"
+    },
+    {
+      "url": "https://x.com/search?q=%24POLIS&src=cashtag_click",
+      "anchor_text": "$POLIS"
+    },
+    {
+      "url": "https://x.com/search?q=%24ATLAS&src=cashtag_click",
+      "anchor_text": "$ATLAS"
+    },
+    {
+      "url": "https://hologramnews.com/why-star-atlas-token-prices-are-sinking-despite-bull-run/",
+      "anchor_text": "FTX liquidations are now projected to last shorter than previously predicted."
+    },
+    {
+      "url": "https://x.com/JupiterExchange",
+      "anchor_text": "@JupiterExchange"
+    },
+    {
+      "url": "https://x.com/UnrealEngine",
+      "anchor_text": "UnrealEngine"
+    },
+    {
+      "url": "https://x.com/solana",
+      "anchor_text": "olana"
+    },
+    {
+      "url": "https://x.com/bunthius",
+      "anchor_text": "-bunthius"
+    },
+    {
+      "url": "https://hologramnews.com/starpath-save-10-on-star-atlas/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://hologramnews.com/star-atlas-townhall-32-atlas-staking-and-scream-news/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://hologramnews.com/star-atlas-land-sales-coming-in-the-future/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://hologramnews.com/galia-merchants/",
+      "anchor_text": ""
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "No explicit primary source was identifiable from preserved outbound links."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://web.archive.org/web/20241210120721id_/https://hologramnews.com/ftx-liquidators-increase-star-atlas-selling-pace/",
+    "final_url": "https://web.archive.org/web/20241210120721id_/https://hologramnews.com/ftx-liquidators-increase-star-atlas-selling-pace/",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "response_size": 199901,
+    "elapsed_ms": 971,
+    "retrieval_mode": "INTERNET_ARCHIVE",
+    "archive_capture": {
+      "timestamp": "20241210120721",
+      "original": "https://hologramnews.com/ftx-liquidators-increase-star-atlas-selling-pace/",
+      "digest": "EXJSIZE5EEUBL4EKV3SCYAYV22SRDUFQ"
+    }
+  }
+}

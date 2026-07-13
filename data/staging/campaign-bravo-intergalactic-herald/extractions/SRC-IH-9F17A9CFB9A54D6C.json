@@ -1,0 +1,180 @@
+{
+  "source": {
+    "source_id": "SRC-IH-9F17A9CFB9A54D6C",
+    "url_id": "URL-9F17A9CFB9A54D6C",
+    "url": "https://intergalacticherald.com/star-atlas-recap/recap-15-atlas-brew-164-holosim/",
+    "inventory_url": "https://intergalacticherald.com/star-atlas-recap/recap-15-atlas-brew-164-holosim",
+    "title": "Recap 15: Atlas Brew 164 – Holosim",
+    "author": "Intergalactic Herald",
+    "publisher": "Intergalactic Herald",
+    "published_at": "2025-06-25T21:00:00",
+    "updated_at": "2025-06-27T20:56:31",
+    "retrieved_at": "2026-07-12T22:06:17.719678Z",
+    "document_type": "EVENT_RECAP",
+    "source_role": "CURATED_SUMMARY",
+    "source_classification": "CURATED_SUMMARY",
+    "classification_rationale": "Event recap summarizes an externally originated event, broadcast, or discussion.",
+    "wordpress_type": "posts"
+  },
+  "summary": {
+    "neutral_abstract": "In this episode, hear an AI summary of the latest Star Atlas community event. Full video recordings can be found on the YouTube channel of Star Atlas TV at https://www.youtube.com/@staratlastv. I am launching a Star Atlas merch store. Please check it out at Intergalactic Gear. I am also creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic",
+    "historical_value": "Contemporary Intergalactic Herald publication preserved with role and attribution boundaries.",
+    "current_validity_warning": "Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources."
+  },
+  "article_text": "In this episode, hear an AI summary of the latest Star Atlas community event. Full video recordings can be found on the YouTube channel of Star Atlas TV at https://www.youtube.com/@staratlastv.\nAlso, check out my newsletter and podcast.\nListen on Apple Podcasts\nListen on Spotify\nI am launching a Star Atlas merch store. Please check it out at Intergalactic Gear.\nI am also creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic Coalition.\nIf you would like to support my efforts, donations can be sent to intergalacticherald.sol\nPodcast Transcript\nThe YouTube video primarily discusses Holosim, a game mode within the Star Atlas ecosystem, emphasizing its fun and strategic gameplay, and noting that if you’re not playing it, you’re “missing out”. Holosim is described as similar to Sage in having the same three factions and star base positions, but it operates under a different set of rules that make it faster and more “unhinged”. Players begin with a single ship and basic resources, progressing through a quest system that serves as a cool onboarding tool for Starbase, teaching essential mechanics for playing Sage. As players complete quests, they gain XP, level up their console ranks, and unlock new features such as new ships, crafting recipes, and automation mechanics. The main mission of Holosim involves players collectively fulfilling contracts for their faction to win the game, with factions currently in a close race.\nA key aspect of Holosim is the competition and cooperation among factions, where players aim to fulfill their own contracts while also hindering the development of rival factions, often by targeting their miners to disrupt supply chains and diminish their capacity to craft new ships or redeem contracts. There are four different career specializations—merchants, combat/soldiers, miners, and data runners—each linked to specific ship types. Players note the strategic and tactical nature of combat, highlighting factors like cool-downs, warp ranges, and mixing ship types. The game strongly rewards active players, with even top leaderboard positions being achievable through consistent engagement rather than just financial investment. The strong community within Holosim is also highlighted, with players actively communicating, discussing strategy, cooperating on missions, and helping each other with bugs and quests, especially through faction-specific Discord channels. The live development process of Holosim is praised, with developers like “X Code” consistently listening to community feedback, theory-crafting solutions, and implementing changes and bug fixes very quickly.\nWhile generally positive, discussions also touched on areas for improvement in Holosim. New players often struggle with the tutorial, particularly concerning saving their progress and understanding quest check-ins, suggesting a need for better in-game guidance like visual cues for completed quests. The development team is actively addressing this, with features like a crew bonus from the tutorial acting as a catch-up mechanic for newer players. There was also a discussion on automation, with some players favoring more automation for tasks like crafting to promote healthier play habits and allow for more engaging gameplay in shorter sessions, while others prefer the current lack of extensive automation as it gives active players a significant advantage. Ideas were floated about potential monetization avenues for Holosim, such as one-time payments for automation features or cosmetic ship skins, to support development without becoming a “microtransaction ocean”. Furthermore, the need for better in-game notifications for attacks and nearby enemies was emphasized, along with potentially making ships a bit “tankier” to allow players more time to react to combat. The goal for future leaderboards is to offer more diversity, including expertise-specific leaderboards (combat, data running) and team leaderboards, to encourage specialization and group cooperation.\nBeyond Holosim, the video briefly covered other significant updates and events. The Council of Peace Assembly (COPA) is an upcoming guild competition where guilds present the value they’ve added to the Star Atlas ecosystem, with prizes for the top three (Tier 3, 2, and 1 CSS respectively) and a direct communication channel with the Automata team for all valid submissions. The Johnny Awards are returning with new categories, including Community Member of the Year, Content Creator of the Year, and Most Popular Guild of the Year, with top nominees for some awards competing live in a trivia challenge. A new YouTube video created by Dominic Bane was released to serve as a high-level introduction to Star Atlas for new audiences, particularly those from other space games like Star Citizen, explaining the game and its use of blockchain. A sneak peek of “Palm and Soul Jetties” was also shown, hinting at different tiers and a progression system coming in the summer. Lastly, upcoming community events were announced, including the Builder Hour for those developing within the Star Atlas ecosystem, a Galia Game Night with giveaways, and Council Office Hours for DAO discussions and feedback.",
+  "content_hash": "70204b91658d0754b38df6f71e76fc7157d939fbc20eb07527715ebe103664fa",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [],
+  "external_sources": [
+    {
+      "url": "https://www.youtube.com/@staratlastv",
+      "anchor_text": "https://www.youtube.com/@staratlastv"
+    },
+    {
+      "url": "https://podcasts.apple.com/us/podcast/star-atlas-week-in-review-podcast/id1678661043",
+      "anchor_text": "Listen on Apple Podcasts"
+    },
+    {
+      "url": "https://open.spotify.com/show/0aHDjCqFpy8Lzrkilv8n16",
+      "anchor_text": "Listen on Spotify"
+    },
+    {
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    }
+  ],
+  "primary_source_relationships": [
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/@staratlastv",
+      "anchor_text": "https://www.youtube.com/@staratlastv"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://podcasts.apple.com/us/podcast/star-atlas-week-in-review-podcast/id1678661043",
+      "anchor_text": "Listen on Apple Podcasts"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://open.spotify.com/show/0aHDjCqFpy8Lzrkilv8n16",
+      "anchor_text": "Listen on Spotify"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    }
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Verify which outbound links are primary sources and preserve creator attribution during promotion.",
+      "Source lineage: attribution requires manual confirmation."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=recap-15-atlas-brew-164-holosim&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 9650,
+    "elapsed_ms": 1975,
+    "attempts": [
+      {
+        "endpoint": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=recap-15-atlas-brew-164-holosim&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "http_status": 200,
+        "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=recap-15-atlas-brew-164-holosim&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "content_type": "application/json; charset=UTF-8",
+        "response_size": 9650,
+        "elapsed_ms": 1975
+      }
+    ]
+  },
+  "source_lineage": {
+    "publication": "Intergalactic Herald",
+    "publication_role": "CURATED_SUMMARY",
+    "relationship": "CURATED_SUMMARY_OF",
+    "primary_sources": [
+      {
+        "publication": "Atlas Brew 164",
+        "author": "UNKNOWN",
+        "url": "UNKNOWN",
+        "organization": "Star Atlas",
+        "evidence": "Explicitly named in publication title"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "publication": "@Staratlastv",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/@staratlastv",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Listen on Apple Podcasts",
+        "author": "UNKNOWN",
+        "url": "https://podcasts.apple.com/us/podcast/star-atlas-week-in-review-podcast/id1678661043",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Listen on Spotify",
+        "author": "UNKNOWN",
+        "url": "https://open.spotify.com/show/0aHDjCqFpy8Lzrkilv8n16",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Intergalactic Gear",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticgear.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Intergalactic Coalition",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticcoalition.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Atlas Brew 164",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "UNKNOWN"
+      }
+    ],
+    "lineage_confidence": "MEDIUM"
+  }
+}

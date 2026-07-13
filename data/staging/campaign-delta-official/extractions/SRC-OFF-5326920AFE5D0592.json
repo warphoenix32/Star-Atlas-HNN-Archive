@@ -1,0 +1,218 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-5326920AFE5D0592",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47027536110739-What-is-the-DAC-Platform",
+    "title": "What is the DAC Platform?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-02T17:34:40Z",
+    "updated_at": "2025-12-08T18:24:16Z",
+    "original_date_text": "2025-12-02T17:34:40Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://play.staratlas.com/dac",
+        "anchor_text": "play.staratlas.com/dac"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “What is the DAC Platform?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "The DAC Platform is Star Atlas’s official on-chain system for managing player-created organizations known as Decentralized Autonomous Corporations (DACs). It serves as the foundation for collaborative play, enabling individuals to formally unite under shared goals and values.\nWhile gameplay integration is still in development, the platform already supports the creation, branding, and discovery of DACs, helping players organize today, and prepare for deeper social and strategic systems coming in the future.\nWhat Does the DAC Platform Do?\nThe DAC Platform at play.staratlas.com/dac allows players to:\nRegister a DAC with a unique name and visual identity\nWrite a public description and outline their mission or values\nCreate custom tags for filtering and discoverability\nGenerate a join link to recruit new members\nExplore other DACs based on faction, focus, or philosophy\nEach DAC is stored on-chain, meaning its data is secure, permanent, and transparently managed within the Star Atlas ecosystem.\nKey Features\nName, Avatar & CoverRepresent your DAC with a visual identity and a name that reflects your vision in Galia.\nPublic DescriptionShare your story, gameplay focus, and expectations with potential recruits.\nCustom TagsAdd tags like “Mining,” “Freight,” “Combat,” or “Ustur” to help players find organizations that match their interests and values.\nJoin URLInstantly recruit members with a personalized DAC invite link.\nPublic DiscoveryBrowse the full DAC registry, review their tags, and apply to join the one that fits you best.\n⚠️ Note: The current version of the DAC Platform is not yet tied to in-game utility. However, it lays the groundwork for major gameplay systems to come.\nWhat’s Coming Next?\nFuture DAC Platform updates will unlock powerful features like:\nTreasury and financial tools\nMember roles and advanced permissions\nShared asset and resource management\nOn-chain proposal voting systems\nIn-game integrations with SAGE and UE5\nThese updates will position DACs as fully functioning guilds with the tools to strategize, build, govern, and thrive together in the Star Atlas metaverse.",
+  "content_hash": "e3a61083368cd4cc8f03266256f51323be42ee30b481709a2d5405e88293ca8e",
+  "entities": [
+    "ATLAS",
+    "SAGE"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-5326920AFE5D0592-01",
+      "text": "The DAC Platform is Star Atlas’s official on-chain system for managing player-created organizations known as Decentralized Autonomous Corporations (DACs).",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-5326920AFE5D0592",
+      "publication_date": "2025-12-02T17:34:40Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-5326920AFE5D0592-02",
+      "text": "It serves as the foundation for collaborative play, enabling individuals to formally unite under shared goals and values.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-5326920AFE5D0592",
+      "publication_date": "2025-12-02T17:34:40Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-5326920AFE5D0592-03",
+      "text": "While gameplay integration is still in development, the platform already supports the creation, branding, and discovery of DACs, helping players organize today, and prepare for deeper social and strategic systems coming in the future.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-5326920AFE5D0592",
+      "publication_date": "2025-12-02T17:34:40Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-5326920AFE5D0592-04",
+      "text": "The DAC Platform at play.staratlas.com/dac allows players to: Register a DAC with a unique name and visual identity Write a public description and outline their mission or values Create custom tags for filtering and discoverability Generate a join link to recruit new members Explore other DACs based on faction, focus, or philosophy Each DAC is stored on-chain, meaning its data is secure, permanent, and transparently managed within the Star Atlas ecosystem.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-5326920AFE5D0592",
+      "publication_date": "2025-12-02T17:34:40Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-5326920AFE5D0592-05",
+      "text": "Key Features Name, Avatar & CoverRepresent your DAC with a visual identity and a name that reflects your vision in Galia.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-5326920AFE5D0592",
+      "publication_date": "2025-12-02T17:34:40Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-5326920AFE5D0592-06",
+      "text": "Public DescriptionShare your story, gameplay focus, and expectations with potential recruits.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-5326920AFE5D0592",
+      "publication_date": "2025-12-02T17:34:40Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-5326920AFE5D0592-07",
+      "text": "Custom TagsAdd tags like “Mining,” “Freight,” “Combat,” or “Ustur” to help players find organizations that match their interests and values.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-5326920AFE5D0592",
+      "publication_date": "2025-12-02T17:34:40Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-5326920AFE5D0592-08",
+      "text": "Join URLInstantly recruit members with a personalized DAC invite link.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-5326920AFE5D0592",
+      "publication_date": "2025-12-02T17:34:40Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-5326920AFE5D0592-09",
+      "text": "Public DiscoveryBrowse the full DAC registry, review their tags, and apply to join the one that fits you best.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-5326920AFE5D0592",
+      "publication_date": "2025-12-02T17:34:40Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-5326920AFE5D0592-10",
+      "text": "⚠️ Note: The current version of the DAC Platform is not yet tied to in-game utility.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-5326920AFE5D0592",
+      "publication_date": "2025-12-02T17:34:40Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-5326920AFE5D0592-11",
+      "text": "However, it lays the groundwork for major gameplay systems to come.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-5326920AFE5D0592",
+      "publication_date": "2025-12-02T17:34:40Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-5326920AFE5D0592-12",
+      "text": "Future DAC Platform updates will unlock powerful features like: Treasury and financial tools Member roles and advanced permissions Shared asset and resource management On-chain proposal voting systems In-game integrations with SAGE and UE5 These updates will position DACs as fully functioning guilds with the tools to strategize, build, govern, and thrive together in the Star Atlas metaverse.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-5326920AFE5D0592",
+      "publication_date": "2025-12-02T17:34:40Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "SAGE",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [
+    "Ustur",
+    "Galia"
+  ],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://play.staratlas.com/dac",
+      "anchor_text": "play.staratlas.com/dac"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://play.staratlas.com/dac",
+      "anchor_text": "play.staratlas.com/dac"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47027536110739-What-is-the-DAC-Platform",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.296439Z"
+  }
+}

@@ -1,0 +1,377 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-7EB2192021729405",
+    "url": "https://experience.staratlas.com/newsroom/the-atlassian-newsletter/the-atlas-star-issue-2",
+    "title": "The Atlas Star ✧ Issue #2 | Star Atlas",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Newsroom / ATMTA",
+    "published_at": "2021-04-13",
+    "updated_at": null,
+    "original_date_text": "Apr 13, 2021",
+    "document_type": "LORE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Newsroom / ATMTA",
+    "publication_role": "ECONOMIC_REPORT",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://play.staratlas.com",
+        "anchor_text": "Play Now"
+      },
+      {
+        "url": "https://coinmarketcap.com/currencies/star-atlas/",
+        "anchor_text": "CMC"
+      },
+      {
+        "url": "https://www.coingecko.com/en/coins/star-atlas",
+        "anchor_text": "CoinGecko"
+      },
+      {
+        "url": "https://coinmarketcap.com/currencies/star-atlas-polis/",
+        "anchor_text": "CMC"
+      },
+      {
+        "url": "https://www.coingecko.com/en/coins/star-atlas-dao",
+        "anchor_text": "CoinGecko"
+      },
+      {
+        "url": "https://discord.gg/staratlas",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://t.me/staratlasgame",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://www.reddit.com/r/StarAtlas/",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://www.facebook.com/StarAtlasMMO",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://www.instagram.com/staratlasgame/",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://www.youtube.com/channel/UCt-y8Npwje5KDG5MSZ0a9Jw",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://www.twitch.tv/staratlasgame",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://staratlas.com/",
+        "anchor_text": "Pablo Quiroga."
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Newsroom / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official economic report titled “The Atlas Star ✧ Issue #2 | Star Atlas.” This record preserves what Star Atlas Newsroom / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "The Atlas Star ✧ Issue #2 | Star Atlas\nPlay Now\nEconomic Reports\nWhite Paper • PDF\nRead Our Official White Paper!\nEconomics Paper • PDF\nLearn the tokenomics of ATLAS and POLIS in the galactic economy.\nGovernance Documentation\nLearn how Star Atlas is governed and built by its community.\nATLAS\n(\nCMC\nCoinGecko\n)\nPOLIS\n(\nCMC\nCoinGecko\n)\nTerms of Service\nPrivacy Policy\nPromotional Terms\nPlay Now\nBack\nApr 13, 2021\nTag: The Atlas Star ✧ Newsletter\nThe Atlas Star ✧ Issue #2\nThis edition of The Atlassian is brought to you by Star Atlas… the next-gen gaming metaverse where you live out your dreams.\nBack to top\nStar Atlas is proud to deliver original long-form updates covering our latest news and backstage sneak peaks.\nThe journey to reach our N° Star has thus far been an interstellar experience. Across all facets of our star ecosystem, (Marketing, Design, Production, Development, and Operations) our working efficiencies are taking priority along ongoing management optimization frameworks. It’s truly inspiring to witness the ReBirth of a metaverse°\nThis work would not be possible without the support of our community. Much light to you and yours. Co-founder & COO, Pablo Quiroga.\nCoverage includes:\nStar Atlas Economics for the People\nCommunity Growth and Traction\nDesign & Development\nRoadmap Updates\nPartnership Announcements\nMedia Related Activities\nHow is Star Atlas gearing up for the lift-off?\nA quick recap about Star Atlas next-generation economics.\nA Note from the CEO’s desk: Michael Wagner - “Power to the people!”\nMany have claimed that a fully functional perpetual metaverse is an impossibility. In most historical cases, this would have been an accurate conclusion. However, the collective ‘we’ exist within an emergent innovative frontier. The combination of technological evolution and financial revolution has given rise to a new class of assets.\nAs we embark upon the journey of life within the Star Atlas Metaverse, it is important to pay homage to the contributions of those before us, without which, none of this would be possible. To the misfits. To the rogues. And to the renegades who refused to accept the imposition of the will of the powerful. Without this unique class of individuals, which form an alternative collective ‘we’, nothing we are working on at the Star Atlas team would even be feasible.\nThe future we are building within Star Atlas is that of a true alternative digital life. Fueled by genuine opportunity for the industrious, experimental and alternative governance systems, social inclusion for all, and true fundamental economics. For the first time in history, the line between real currency and digital currency can be blurred sufficiently to foster a true alternative economic system. One which resides both inside and outside of an alternative virtual reality at the same time. Schrodinger’s Economy, if you will. Prior to blockchain, cryptocurrency, and the proliferation of decentralization, none of these concepts could be brought to life. The ‘elite’ ruling class would not allow it.\nHow is Star Atlas gearing up for the lift-off?\nWhenever our prehistoric ancestors gazed up into the night sky, they understood that the stars shining above were both the past and the future, the place of their origin and of eventual return. Among many things, they saw the firmament as a generative force whose state directly guided and influenced their own.\nGame Production\nHiring has started on the full game production and will surge after the mini game is released.\nEfforts on the procedural population of the universe and all of its celestial bodies have begun. Due diligence is being put into utilizing Houdini and transferring over those parameters through a plugin in Unreal Engine.\nVisual Effects(VFX) in Niagara(Unreal Engine) have also matured nicely. We are using the best available talent and technology to push the limit in VFX design.\nThe ship production pipeline designs for Unreal have been drafted. This will evolve over time because we will have to branch ship content for real-time dynamic ship assets as well as Nanite, cinematic quality showroom assets.\nAnother big question we’re mulling over is culture. Not in-game culture, team culture (though the Oni are looking pretty fly). It’s the little decisions we make and conversations we have now, early in the project, that will have long-lasting effects on the team and the quality of our game. While it’s still an ongoing conversation, we’re clear on two goals: one, to create an environment for our engineers that stimulates creativity and two, to be uncompromising in the quality of our work. The universe we’re creating is immense, and to not realize that vision would be a sin.\nPress Contact\nFor publicity-related inquiries, contact us now.\npress@staratlas.com\nPrev\nThe Atlas Star ✧ Issue #1\nNext\nThe Atlas Star ✧ Issue #3\n__The Official Star Atlas Newsletter__\nDelivering you original long-form updates covering our latest news and backstage sneak peeks.\n__This edition of The Atlas Star ✧ is brought to you by ReBirth: Genesis of a Metaverse… Owning a piece of history is the first step to being part of the future__\nTrailer\nWe use cookies to enhance your experience and analyze our site usage.\nPlease see our Privacy Policy\nfor more information.\nAccept Cookies",
+  "content_hash": "ae87a564b0ad7ee9a2846d75b164d5963e26340782402ba502900b0ec85f176f",
+  "entities": [
+    "ATLAS",
+    "Michael Wagner",
+    "POLIS",
+    "Pablo Quiroga",
+    "Showroom"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-7EB2192021729405-01",
+      "text": "The Atlas Star ✧ Issue #2 | Star Atlas Play Now Economic Reports White Paper • PDF Read Our Official White Paper!",
+      "claim_type": "LORE_STATEMENT",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-7EB2192021729405",
+      "publication_date": "2021-04-13",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-7EB2192021729405-02",
+      "text": "ATLAS ( CMC CoinGecko ) POLIS ( CMC CoinGecko ) Terms of Service Privacy Policy Promotional Terms Play Now Back Apr 13, 2021 Tag: The Atlas Star ✧ Newsletter The Atlas Star ✧ Issue #2 This edition of The Atlassian is brought to you by Star Atlas… the next-gen gaming metaverse where you live out your dreams.",
+      "claim_type": "LORE_STATEMENT",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-7EB2192021729405",
+      "publication_date": "2021-04-13",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-7EB2192021729405-03",
+      "text": "Coverage includes: Star Atlas Economics for the People Community Growth and Traction Design & Development Roadmap Updates Partnership Announcements Media Related Activities How is Star Atlas gearing up for the lift-off?",
+      "claim_type": "LORE_STATEMENT",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-7EB2192021729405",
+      "publication_date": "2021-04-13",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-7EB2192021729405-04",
+      "text": "And to the renegades who refused to accept the imposition of the will of the powerful.",
+      "claim_type": "LORE_STATEMENT",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-7EB2192021729405",
+      "publication_date": "2021-04-13",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-7EB2192021729405-05",
+      "text": "Game Production Hiring has started on the full game production and will surge after the mini game is released.",
+      "claim_type": "LORE_STATEMENT",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-7EB2192021729405",
+      "publication_date": "2021-04-13",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-7EB2192021729405-06",
+      "text": "We are using the best available talent and technology to push the limit in VFX design.",
+      "claim_type": "LORE_STATEMENT",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-7EB2192021729405",
+      "publication_date": "2021-04-13",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-7EB2192021729405-07",
+      "text": "This will evolve over time because we will have to branch ship content for real-time dynamic ship assets as well as Nanite, cinematic quality showroom assets.",
+      "claim_type": "LORE_STATEMENT",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-7EB2192021729405",
+      "publication_date": "2021-04-13",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-7EB2192021729405-08",
+      "text": "It’s the little decisions we make and conversations we have now, early in the project, that will have long-lasting effects on the team and the quality of our game.",
+      "claim_type": "LORE_STATEMENT",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-7EB2192021729405",
+      "publication_date": "2021-04-13",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Showroom",
+    "POLIS",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [
+    "ONI"
+  ],
+  "actors": [
+    "Michael Wagner",
+    "Pablo Quiroga"
+  ],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://experience.staratlas.com/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://play.staratlas.com",
+      "anchor_text": "Play Now"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/economic-reports/",
+      "anchor_text": "Economic Reports"
+    },
+    {
+      "url": "https://experience.staratlas.com/assets/pdfs/white-paper.pdf",
+      "anchor_text": "White Paper • PDF Read Our Official White Paper!"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/governance-documentation",
+      "anchor_text": "Governance Documentation Learn how Star Atlas is governed and built by its community."
+    },
+    {
+      "url": "https://coinmarketcap.com/currencies/star-atlas/",
+      "anchor_text": "CMC"
+    },
+    {
+      "url": "https://www.coingecko.com/en/coins/star-atlas",
+      "anchor_text": "CoinGecko"
+    },
+    {
+      "url": "https://coinmarketcap.com/currencies/star-atlas-polis/",
+      "anchor_text": "CMC"
+    },
+    {
+      "url": "https://www.coingecko.com/en/coins/star-atlas-dao",
+      "anchor_text": "CoinGecko"
+    },
+    {
+      "url": "https://twitter.com/staratlas",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://discord.gg/staratlas",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://t.me/staratlasgame",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/StarAtlas/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://www.facebook.com/StarAtlasMMO",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://www.instagram.com/staratlasgame/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCt-y8Npwje5KDG5MSZ0a9Jw",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://www.twitch.tv/staratlasgame",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://experience.staratlas.com/terms-of-service",
+      "anchor_text": "Terms of Service"
+    },
+    {
+      "url": "https://experience.staratlas.com/privacy-policy",
+      "anchor_text": "Privacy Policy"
+    },
+    {
+      "url": "https://experience.staratlas.com/promotional-terms-and-conditions",
+      "anchor_text": "Promotional Terms"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/news",
+      "anchor_text": "Back"
+    },
+    {
+      "url": "https://staratlas.com/",
+      "anchor_text": "Pablo Quiroga."
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/the-atlassian-newsletter/the-atlas-star-issue-1",
+      "anchor_text": "Prev The Atlas Star ✧ Issue #1"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/the-atlassian-newsletter/the-atlas-star-issue-3",
+      "anchor_text": "Next The Atlas Star ✧ Issue #3 __The Official Star Atlas Newsletter__ Delivering you original long-form updates covering our latest news and backstage sneak peeks. __This edition of The Atlas Star ✧ is brought to you by ReBirth: Genesis of a Metaverse… Owning a piece of history is the first step to being part of the future__"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/the-atlassian-newsletter/the-atlas-star-issue-2",
+      "anchor_text": "Trailer"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://experience.staratlas.com/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://play.staratlas.com",
+      "anchor_text": "Play Now"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/economic-reports/",
+      "anchor_text": "Economic Reports"
+    },
+    {
+      "url": "https://experience.staratlas.com/assets/pdfs/white-paper.pdf",
+      "anchor_text": "White Paper • PDF Read Our Official White Paper!"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/governance-documentation",
+      "anchor_text": "Governance Documentation Learn how Star Atlas is governed and built by its community."
+    },
+    {
+      "url": "https://experience.staratlas.com/terms-of-service",
+      "anchor_text": "Terms of Service"
+    },
+    {
+      "url": "https://experience.staratlas.com/privacy-policy",
+      "anchor_text": "Privacy Policy"
+    },
+    {
+      "url": "https://experience.staratlas.com/promotional-terms-and-conditions",
+      "anchor_text": "Promotional Terms"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/news",
+      "anchor_text": "Back"
+    },
+    {
+      "url": "https://staratlas.com/",
+      "anchor_text": "Pablo Quiroga."
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/the-atlassian-newsletter/the-atlas-star-issue-1",
+      "anchor_text": "Prev The Atlas Star ✧ Issue #1"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/the-atlassian-newsletter/the-atlas-star-issue-3",
+      "anchor_text": "Next The Atlas Star ✧ Issue #3 __The Official Star Atlas Newsletter__ Delivering you original long-form updates covering our latest news and backstage sneak peeks. __This edition of The Atlas Star ✧ is brought to you by ReBirth: Genesis of a Metaverse… Owning a piece of history is the first step to being part of the future__"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/the-atlassian-newsletter/the-atlas-star-issue-2",
+      "anchor_text": "Trailer"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://experience.staratlas.com/newsroom/the-atlassian-newsletter/the-atlas-star-issue-2",
+    "final_url": "https://experience.staratlas.com/newsroom/the-atlassian-newsletter/the-atlas-star-issue-2",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "response_size": 62315,
+    "retrieved_at": "2026-07-13T01:04:59.079838Z",
+    "elapsed_ms": 238
+  }
+}

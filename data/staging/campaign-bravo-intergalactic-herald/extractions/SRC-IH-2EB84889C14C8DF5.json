@@ -1,0 +1,290 @@
+{
+  "source": {
+    "source_id": "SRC-IH-2EB84889C14C8DF5",
+    "url_id": "URL-2EB84889C14C8DF5",
+    "url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-142/",
+    "inventory_url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-142",
+    "title": "Star Atlas Weekly News Recap #142",
+    "author": "Intergalactic Herald",
+    "publisher": "Intergalactic Herald",
+    "published_at": "2024-12-08T17:00:00",
+    "updated_at": "2024-12-06T21:49:40",
+    "retrieved_at": "2026-07-12T22:01:53.487576Z",
+    "document_type": "NEWSLETTER",
+    "source_role": "CURATED_SUMMARY",
+    "source_classification": "CURATED_SUMMARY",
+    "classification_rationale": "Weekly newsletter/recap aggregates developments and linked sources.",
+    "wordpress_type": "posts"
+  },
+  "summary": {
+    "neutral_abstract": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week. We are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us. We are launching a Star Atlas merch store. Please check it out at Intergalactic",
+    "historical_value": "Contemporary Intergalactic Herald publication preserved with role and attribution boundaries.",
+    "current_validity_warning": "Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources."
+  },
+  "article_text": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week.\nWe are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us.\nWe are launching a Star Atlas merch store. Please check it out at Intergalactic Gear.\nWe are creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic Coalition.\nIf you would like to support our efforts, donations can be sent to intergalacticherald.sol\nStar Atlas: Localized Markets and RFRs\nBeyond the Horizon posted a video about Star Atlas local markets and RFRs.\nStar Atlas: Cold day in Galia\nOCG Thor posted a video of updates on crypto and Star Atlas.\nSTAR ATLAS #259 GAME UPDATES & LOCAL MARKETS\nMetaVerse Explorer posted a video of Star Atlas updates.\nWeekly Star Atlas Newsletter #158\nAephia published their weekly Star Atlas newsletter.\nStar Atlas 3D Printed Landing Dock\nEnigma 42 posted a video of his latest 3D model.\nThe Atlas Brew 139 Local markets & RFR\nStar Atlas TV posted a video of the latest Atlas Brew.\nStar Atlas Economic Forum – December 2024\nStar Atlas TV posted a video of the latest Star Atlas Economic Forum.\nComic #4 from Beyond the Horizon",
+  "content_hash": "335e03ea0b540e4e9e2d6b84a30704a23f8be2e56edd5db88f3d8759146897bd",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [
+    "2024"
+  ],
+  "external_sources": [
+    {
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=-tvad2fTGuY",
+      "anchor_text": "Star Atlas local markets and RFRs"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=S4tOprr-5a4",
+      "anchor_text": "updates on crypto and Star Atlas"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=qD1M8vFUFVM",
+      "anchor_text": "Star Atlas updates"
+    },
+    {
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-158/",
+      "anchor_text": "weekly Star Atlas newsletter"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=lhx0yfK_KgE",
+      "anchor_text": "latest 3D model"
+    },
+    {
+      "url": "https://www.youtube.com/live/5bEcRAUVEuw",
+      "anchor_text": "latest Atlas Brew"
+    },
+    {
+      "url": "https://www.youtube.com/live/nlcfEelsWDY",
+      "anchor_text": "Star Atlas Economic Forum"
+    },
+    {
+      "url": "https://x.com/BTH2620",
+      "anchor_text": "Beyond the Horizon"
+    }
+  ],
+  "primary_source_relationships": [
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=-tvad2fTGuY",
+      "anchor_text": "Star Atlas local markets and RFRs"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=S4tOprr-5a4",
+      "anchor_text": "updates on crypto and Star Atlas"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=qD1M8vFUFVM",
+      "anchor_text": "Star Atlas updates"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-158/",
+      "anchor_text": "weekly Star Atlas newsletter"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=lhx0yfK_KgE",
+      "anchor_text": "latest 3D model"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/live/5bEcRAUVEuw",
+      "anchor_text": "latest Atlas Brew"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/live/nlcfEelsWDY",
+      "anchor_text": "Star Atlas Economic Forum"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://x.com/BTH2620",
+      "anchor_text": "Beyond the Horizon"
+    }
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Verify which outbound links are primary sources and preserve creator attribution during promotion."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-142&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 5748,
+    "elapsed_ms": 1813,
+    "attempts": [
+      {
+        "endpoint": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-142&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "http_status": 200,
+        "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-142&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "content_type": "application/json; charset=UTF-8",
+        "response_size": 5748,
+        "elapsed_ms": 1813
+      }
+    ]
+  },
+  "source_lineage": {
+    "publication": "Intergalactic Herald",
+    "publication_role": "CURATED_SUMMARY",
+    "relationship": "CURATED_SUMMARY_OF",
+    "primary_sources": [
+      {
+        "publication": "Star Atlas local markets and RFRs",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=-tvad2fTGuY",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas local markets and RFRs"
+      },
+      {
+        "publication": "updates on crypto and Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=S4tOprr-5a4",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: updates on crypto and Star Atlas"
+      },
+      {
+        "publication": "Star Atlas updates",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=qD1M8vFUFVM",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas updates"
+      },
+      {
+        "publication": "weekly Star Atlas newsletter",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-158/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article with anchor text: weekly Star Atlas newsletter"
+      },
+      {
+        "publication": "latest 3D model",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=lhx0yfK_KgE",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest 3D model"
+      },
+      {
+        "publication": "latest Atlas Brew",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/live/5bEcRAUVEuw",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest Atlas Brew"
+      },
+      {
+        "publication": "Star Atlas Economic Forum",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/live/nlcfEelsWDY",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas Economic Forum"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "publication": "Intergalactic Gear",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticgear.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Intergalactic Coalition",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticcoalition.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Beyond the Horizon",
+        "author": "UNKNOWN",
+        "url": "https://x.com/BTH2620",
+        "organization": "Beyond the Horizon",
+        "relationship": "REFERENCES"
+      }
+    ],
+    "original_creators": [
+      "Aephia",
+      "Star Atlas"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Star Atlas local markets and RFRs",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=-tvad2fTGuY"
+      },
+      {
+        "from": "updates on crypto and Star Atlas",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=S4tOprr-5a4"
+      },
+      {
+        "from": "Star Atlas updates",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=qD1M8vFUFVM"
+      },
+      {
+        "from": "weekly Star Atlas newsletter",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-158/"
+      },
+      {
+        "from": "latest 3D model",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=lhx0yfK_KgE"
+      },
+      {
+        "from": "latest Atlas Brew",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/live/5bEcRAUVEuw"
+      },
+      {
+        "from": "Star Atlas Economic Forum",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/live/nlcfEelsWDY"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  }
+}

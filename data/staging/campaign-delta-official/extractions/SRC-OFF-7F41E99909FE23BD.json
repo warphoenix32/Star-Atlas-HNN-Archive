@@ -1,0 +1,112 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-7F41E99909FE23BD",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47028991796499-What-is-Fleet-Rentals-in-Star-Atlas",
+    "title": "What is Fleet Rentals in Star Atlas?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-02T18:09:09Z",
+    "updated_at": "2025-12-08T18:24:45Z",
+    "original_date_text": "2025-12-02T18:09:09Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "http://play.staratlas.com/rentals",
+        "anchor_text": "Fleet Rentals"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “What is Fleet Rentals in Star Atlas?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Fleet Rentals lets you lend or borrow ships in the Star Atlas ecosystem, creating a new way to earn or access gameplay without full ownership.\nBuilt on Solana smart contracts, Fleet Rental is a secure and transparent system where:\nOwners can list their ships and earn passive income in ATLAS\nBorrowers can rent ships to explore SAGE Labs and engage in gameplay without needing to buy assets upfront\nThis marketplace lowers the barrier to entry for new players and offers utility for idle fleets, making it a win-win for both sides.",
+  "content_hash": "8d1586d717966056c614c3d995860fcd3d7dac585c9ccbccb244d8a5d963f8be",
+  "entities": [
+    "ATLAS",
+    "SAGE",
+    "SAGE Labs",
+    "Solana"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-7F41E99909FE23BD-01",
+      "text": "Fleet Rentals lets you lend or borrow ships in the Star Atlas ecosystem, creating a new way to earn or access gameplay without full ownership.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-7F41E99909FE23BD",
+      "publication_date": "2025-12-02T18:09:09Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-7F41E99909FE23BD-02",
+      "text": "Built on Solana smart contracts, Fleet Rental is a secure and transparent system where: Owners can list their ships and earn passive income in ATLAS Borrowers can rent ships to explore SAGE Labs and engage in gameplay without needing to buy assets upfront This marketplace lowers the barrier to entry for new players and offers utility for idle fleets, making it a win-win for both sides.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-7F41E99909FE23BD",
+      "publication_date": "2025-12-02T18:09:09Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "SAGE Labs",
+    "SAGE",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [
+    "Solana"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "http://play.staratlas.com/rentals",
+      "anchor_text": "Fleet Rentals"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "http://play.staratlas.com/rentals",
+      "anchor_text": "Fleet Rentals"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47028991796499-What-is-Fleet-Rentals-in-Star-Atlas",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.383883Z"
+  }
+}

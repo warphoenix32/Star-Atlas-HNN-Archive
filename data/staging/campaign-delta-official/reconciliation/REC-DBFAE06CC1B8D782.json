@@ -1,0 +1,14 @@
+{
+  "topic": "claims, how, record, remain, source, the, this, time",
+  "official_source_ids": [
+    "SRC-OFF-854CB512DFE80EA1"
+  ],
+  "community_source_ids": [
+    "SRC-HNN-238F34DB897A6723"
+  ],
+  "relationship": "OFFICIAL_SUPERSEDES_OLDER_GUIDE",
+  "finding": "Automated topic overlap on: claims, how, record, remain, source, the, this, time. Official authority is limited to the official wording; community context remains separately attributed.",
+  "confidence": "LOW",
+  "promotion_candidate": false,
+  "manual_review_required": true
+}

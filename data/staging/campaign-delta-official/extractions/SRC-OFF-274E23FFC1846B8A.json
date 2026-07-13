@@ -1,0 +1,123 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-274E23FFC1846B8A",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47053533449619-How-to-Import-Resources-into-Sage",
+    "title": "How to Import Resources into Sage",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-03T13:17:06Z",
+    "updated_at": "2025-12-08T18:24:49Z",
+    "original_date_text": "2025-12-03T13:17:06Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “How to Import Resources into Sage.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Importing resources into Starbased is essential for fueling your first fleet\nQuick Steps:\nGo to Your Faction’s Central Space Station\nOpen Starbased, select your profile and navigate to your Faction’s Central Space Station (ONI, USTUR or MUD CSS)\nOpen the Local Inventory\nAt the CSS, click on “Local Inventory”. This is where you manage resources needed for fueling fleets and supporting operations.\nSelect Resources & Quantity\nChoose which resources (e.g., Fuel, Food, Ammo, Toolkits, or crafting materials) you wish to import and specify the quantity.\nClick “Import from Wallet”\nThis will pull the selected resources from your connected wallet into your Local Inventory inside Starbased.\nApprove the Transaction\nReview and confirm the transaction in your wallet to complete the import",
+  "content_hash": "a96f235e107afbf7060b414102a9b1867cf222c39a3248d993ff8cfb33ace2ad",
+  "entities": [],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-274E23FFC1846B8A-01",
+      "text": "Importing resources into Starbased is essential for fueling your first fleet Quick Steps: Go to Your Faction’s Central Space Station Open Starbased, select your profile and navigate to your Faction’s Central Space Station (ONI, USTUR or MUD CSS) Open the Local Inventory At the CSS, click on “Local Inventory”.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-274E23FFC1846B8A",
+      "publication_date": "2025-12-03T13:17:06Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-274E23FFC1846B8A-02",
+      "text": "This is where you manage resources needed for fueling fleets and supporting operations.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-274E23FFC1846B8A",
+      "publication_date": "2025-12-03T13:17:06Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-274E23FFC1846B8A-03",
+      "text": "Select Resources & Quantity Choose which resources (e.g., Fuel, Food, Ammo, Toolkits, or crafting materials) you wish to import and specify the quantity.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-274E23FFC1846B8A",
+      "publication_date": "2025-12-03T13:17:06Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-274E23FFC1846B8A-04",
+      "text": "Click “Import from Wallet” This will pull the selected resources from your connected wallet into your Local Inventory inside Starbased.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-274E23FFC1846B8A",
+      "publication_date": "2025-12-03T13:17:06Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-274E23FFC1846B8A-05",
+      "text": "Approve the Transaction Review and confirm the transaction in your wallet to complete the import",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-274E23FFC1846B8A",
+      "publication_date": "2025-12-03T13:17:06Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "lore_items": [
+    "MUD",
+    "ONI",
+    "Ustur"
+  ],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47053533449619-How-to-Import-Resources-into-Sage",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.402140Z"
+  }
+}

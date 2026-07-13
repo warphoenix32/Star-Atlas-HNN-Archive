@@ -1,0 +1,162 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-493BD227B8F441DB",
+    "url_id": "URL-493BD227B8F441DB",
+    "url": "https://thehologram.io/syntax-riddle-answer",
+    "title": "S&B Pirate Unearths Syntax's Treasure Hunt » The Hologram",
+    "author": "Krigs",
+    "publisher": "Hologram News Network (HNN)",
+    "publication_identity": "Archived HNN website (thehologram.io)",
+    "published_at": "2022-08-20T22:25:35+00:00",
+    "updated_at": null,
+    "retrieved_at": "2026-07-13T00:14:04.688197Z",
+    "document_type": "ORIGINAL_REPORTING",
+    "source_role": "ORIGINAL_REPORTING",
+    "publication_role": "ORIGINAL_REPORTING",
+    "classification_rationale": "Publication reports a development without explicit interview, editorial, investigative, event, or reference framing."
+  },
+  "source_lineage": {
+    "publication": "Archived HNN website (thehologram.io)",
+    "publication_role": "ORIGINAL_REPORTING",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [
+      {
+        "publication": "Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://staratlas.com/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [
+      "Krigs"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Star Atlas",
+        "to": "Archived HNN website (thehologram.io)",
+        "relationship": "REPORTS_ON",
+        "url": "https://staratlas.com/"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "This original reporting published by Hologram News Network (HNN) on 2022-08-20 documents “S&B Pirate Unearths Syntax's Treasure Hunt » The Hologram.” Its surviving text addresses economy, guilds and DACs, game development, community, lore. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "S&B Pirate Unearths Syntax’s Treasure Hunt\nPosted by Krigs | Aug 20, 2022 | Guilds\nAn intrepid Skull & Bones pirate by the name of Metus Siderum was the first to successfully decipher clues left behind by data runners from Syntax. For their efforts in discovering the encrypted treasure, Siderum lay claim to an Opal Jet Jet for their very own.\nTo uncover the clues left behind by the data runners, Siderum had to expertly use a Caesar Cipher to decrypt the encoded message that contained the location of the hidden Opal Jet Jet.\nAnswer to Syntax’s Riddle:\nWith a direct neural link to your ship, you plunge headfirst into the dizzying data-winds of unexplored space. As an electronic wraith, you are the ultimate data runner, your brain, one with the ship. It was meant to be a quick recovery job for a bit of ATLAS; go here, recover a drive, and return home.\n“1. protector” static “2. three” static “3. ghost” static “3. nebula” static “1. orion” static “4. caesar” static “End transmission”.\nUsing the answer and hints from the above transmission, visit the “analytics” twitter account. Solve the cipher to receive your reward.\nFrom the above transmission, by connecting the number before each word to the corresponding letter in the attached word provided a 6 letter clue\nFor Example:1. protector = P2. three = H3. ghost = O3. nebula = B1. orion = O4. caesar = S\nBy using the key word “Phobos” and searching for “Phobos Analytics” on twitter led to the Phobos Analytics Twitter account. Posted to the accounts page was another mysterious clue.\nzhq exvdq gdwd uxqqhu\nFrom here, treasure hunters were then required to use a Caesar Cipher with a key shift of “3”, clues that were provided in the original passphrase.\nA Caesar Cipher is a type of substitution encryption that substitutes letter for other letters using a number shift. For example, in a Caesar cipher with a shift of 3, any encrypted letter “A” become a “D”. The word “Dog” would become “Grj”\nBy decoding the message left by Phobos Analytics, Siderum discovered the final answer: “Wen Busan Data Runner”\nAbout The Hologram\nThe Hologram is Star Atlas’ first and only independent news network. Our vision is to become the most trusted source of information about Star Atlas and a voice for the whole community. Readers can expect a high standard from our reporting and staff. Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.\nThe Hologram is not endorsed or paid by the Star Atlas team. Any information published by The Hologram nor its writers should be considered as informational in nature and does not constitute any financial advice.\nShare:",
+  "content_hash": "068f469d3c60bf49fd63485c17182e1e6b335da996c1b7411dc69d1ad494986b",
+  "major_topics": [
+    "economy",
+    "guilds and DACs",
+    "game development",
+    "community",
+    "lore"
+  ],
+  "entities": [
+    "ATLAS",
+    "Krigs",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-493BD227B8F441DB-01",
+      "text": "Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-493BD227B8F441DB",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Star Atlas",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [
+    "ONI"
+  ],
+  "actors": [
+    "Krigs"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://thehologram.io/author/krigs/",
+      "anchor_text": "Krigs"
+    },
+    {
+      "url": "https://thehologram.io/category/community/guilds/",
+      "anchor_text": "Guilds"
+    },
+    {
+      "url": "https://thehologram.io/skull-and-bones-the-first-star-atlas-pirate-guild/",
+      "anchor_text": "Skull & Bones"
+    },
+    {
+      "url": "https://thehologram.io/syntax-riddle/",
+      "anchor_text": "clues"
+    },
+    {
+      "url": "https://thehologram.io/syntax-star-atlas-best-data-runners-is-recruiting/",
+      "anchor_text": "Syntax"
+    },
+    {
+      "url": "https://twitter.com/AnalyticsPhobos",
+      "anchor_text": "Phobos Analytics"
+    },
+    {
+      "url": "https://thehologram.io/",
+      "anchor_text": "The Hologram"
+    },
+    {
+      "url": "https://staratlas.com/",
+      "anchor_text": "Star Atlas"
+    },
+    {
+      "url": "http://www.facebook.com/sharer.php?u=https://thehologram.io/syntax-riddle-answer/&t=S%26B%20Pirate%20Unearths%20Syntax%E2%80%99s%20Treasure%20Hunt",
+      "anchor_text": ""
+    },
+    {
+      "url": "http://twitter.com/intent/tweet?text=S%26B%20Pirate%20Unearths%20Syntax%E2%80%99s%20Treasure%20Hunt%20https://thehologram.io/syntax-riddle-answer/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://plus.google.com/share?url=https://thehologram.io/syntax-riddle-answer/&t=S%26B%20Pirate%20Unearths%20Syntax%E2%80%99s%20Treasure%20Hunt",
+      "anchor_text": ""
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "https://web.archive.org/web/20220820222537id_/https://thehologram.io/syntax-riddle-answer/",
+    "final_url": "https://web.archive.org/web/20220820222537id_/https://thehologram.io/syntax-riddle-answer/",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "response_size": 170545,
+    "elapsed_ms": 725,
+    "retrieval_mode": "INTERNET_ARCHIVE",
+    "archive_capture": {
+      "timestamp": "20220820222537",
+      "original": "https://thehologram.io/syntax-riddle-answer/",
+      "digest": "KOB3NGAM772WZR6TAGAHORQNMA4SS2WR"
+    }
+  }
+}

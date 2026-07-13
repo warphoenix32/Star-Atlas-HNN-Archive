@@ -1,0 +1,14 @@
+{
+  "topic": "article, atmta, dao, for, the, this, what",
+  "official_source_ids": [
+    "SRC-OFF-85A2BC7ED64B2EAC"
+  ],
+  "community_source_ids": [
+    "SRC-IH-9654E758AD3CC0AC"
+  ],
+  "relationship": "OFFICIAL_CONFIRMS_COMMUNITY_REPORT",
+  "finding": "Automated topic overlap on: article, atmta, dao, for, the, this, what. Official authority is limited to the official wording; community context remains separately attributed.",
+  "confidence": "LOW",
+  "promotion_candidate": false,
+  "manual_review_required": true
+}

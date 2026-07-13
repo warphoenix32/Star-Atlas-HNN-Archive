@@ -1,0 +1,100 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-23BCB996AAE5DEA0",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47061503229587-How-does-a-Star-Atlas-player-benefit-by-using-Jupiter-aggregator",
+    "title": "How does a Star Atlas player benefit by using Jupiter aggregator?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-03T17:02:11Z",
+    "updated_at": "2025-12-03T18:17:42Z",
+    "original_date_text": "2025-12-03T17:02:11Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://docs.jup.ag/how-does-jupiter-work",
+        "anchor_text": "Jupiter Integrator FAQ"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “How does a Star Atlas player benefit by using Jupiter aggregator?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "The new feature, available directly in the Star Atlas web interface, provides Star Atlas players with an enhanced gaming experience, combining cutting-edge real-time graphics and a secure, serverless blockchain ecosystem with Jupiter's swap aggregation and real-time precise price data.\nLearn more by visiting the official Jupiter Integrator FAQ.",
+  "content_hash": "65b264330c7b7b17d40b2c336e828aacd8f47a571550b9743cf38adafde8b9a2",
+  "entities": [
+    "ATLAS"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-23BCB996AAE5DEA0-01",
+      "text": "The new feature, available directly in the Star Atlas web interface, provides Star Atlas players with an enhanced gaming experience, combining cutting-edge real-time graphics and a secure, serverless blockchain ecosystem with Jupiter's swap aggregation and real-time precise price data.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-23BCB996AAE5DEA0",
+      "publication_date": "2025-12-03T17:02:11Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-23BCB996AAE5DEA0-02",
+      "text": "Learn more by visiting the official Jupiter Integrator FAQ.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-23BCB996AAE5DEA0",
+      "publication_date": "2025-12-03T17:02:11Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://docs.jup.ag/how-does-jupiter-work",
+      "anchor_text": "Jupiter Integrator FAQ"
+    }
+  ],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47061503229587-How-does-a-Star-Atlas-player-benefit-by-using-Jupiter-aggregator",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.149024Z"
+  }
+}

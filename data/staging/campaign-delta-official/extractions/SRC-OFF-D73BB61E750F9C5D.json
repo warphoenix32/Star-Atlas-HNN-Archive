@@ -1,0 +1,79 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-D73BB61E750F9C5D",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47028985478675-What-Happens-to-Crew-and-Resources-When-the-Rental-Ends",
+    "title": "What Happens to Crew and Resources When the Rental Ends?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-02T18:09:20Z",
+    "updated_at": "2025-12-08T18:24:53Z",
+    "original_date_text": "2025-12-02T18:09:20Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “What Happens to Crew and Resources When the Rental Ends?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "At the end of a rental period:\nCrew: Borrowers have their crew returned to their CSS\nResources: The fleet’s resources, such as fuel, ammo, and cargo remain with the fleet and are automatically transferred back to the owner.",
+  "content_hash": "36d1a1f0b0475e5fba8f90ed5e86550cc85f10d042e50cd9a55ede530a727c09",
+  "entities": [
+    "Crew"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-D73BB61E750F9C5D-01",
+      "text": "At the end of a rental period: Crew: Borrowers have their crew returned to their CSS Resources: The fleet’s resources, such as fuel, ammo, and cargo remain with the fleet and are automatically transferred back to the owner.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-D73BB61E750F9C5D",
+      "publication_date": "2025-12-02T18:09:20Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Crew"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47028985478675-What-Happens-to-Crew-and-Resources-When-the-Rental-Ends",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.410135Z"
+  }
+}

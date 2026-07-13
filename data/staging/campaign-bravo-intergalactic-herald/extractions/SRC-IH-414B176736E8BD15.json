@@ -1,0 +1,426 @@
+{
+  "source": {
+    "source_id": "SRC-IH-414B176736E8BD15",
+    "url_id": "URL-414B176736E8BD15",
+    "url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-107/",
+    "inventory_url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-107",
+    "title": "Star Atlas Weekly News Recap #107",
+    "author": "Intergalactic Herald",
+    "publisher": "Intergalactic Herald",
+    "published_at": "2024-04-07T17:00:00",
+    "updated_at": "2024-04-06T16:41:34",
+    "retrieved_at": "2026-07-12T22:02:41.174848Z",
+    "document_type": "NEWSLETTER",
+    "source_role": "CURATED_SUMMARY",
+    "source_classification": "CURATED_SUMMARY",
+    "classification_rationale": "Weekly newsletter/recap aggregates developments and linked sources.",
+    "wordpress_type": "posts"
+  },
+  "summary": {
+    "neutral_abstract": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week. We are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us. We are launching a Star Atlas merch store. Please check it out at Intergalactic",
+    "historical_value": "Contemporary Intergalactic Herald publication preserved with role and attribution boundaries.",
+    "current_validity_warning": "Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources."
+  },
+  "article_text": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week.\nWe are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us.\nWe are launching a Star Atlas merch store. Please check it out at Intergalactic Gear.\nWe are creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic Coalition.\nIf you would like to support our efforts, donations can be sent to intergalacticherald.sol\nStar Atlas Surge Technical Test\nBeyond the Horizon posted a video about the Star Atlas Surge test.\nMetaverse Nomads #140 w/ Star Atlas Starbased – April 2nd Release\nMetaverse Nomads posted a replay of their weekly Star Atlas livestream.\nSTAR ATLAS #227 Big Changes You Need To Know! DONT LOSE MONEY!\nMetaverse Explorer posted a video with updates in Star Atlas.\nA NEW ECONOMIC PARADIGM\nAephia published an article about the economy changes in Star Atlas.\nWEEKLY STAR ATLAS NEWSLETTER #123\nAephia published their weekly Star Atlas newsletter.\nStar Atlas – Surge Trailer\nStar Atlas released a trailer for their Surge game mode.\nStar Atlas “Surge” Gameplay Reveal! + Starbased Launch! CEO INTERVIEW\nPaul Barron Network had an interview with Star Atlas CEO Michael Wagner.\n20 | STARBASED is FINALLY HERE!!! | Star Atlas\nPathfinder posted a video about the release of Star Atlas SAGE Starbased.\nThe Atlas Brew #105\nStar Atlas TV posted a recording of the latest Atlas Brew.\nStar Atlas: Starbased Walkthrough Tutorial\nBeyond the Horizon posted a video walkthrough of some parts of Starbased.\nStar Atlas Star Based Game Play! Don’t make this mistake\nOCG Thor posted a video about a mistake he made in SAGE Starbased.\nSTARBASED – THE MISSING MANUAL!\nAephia published an article with information about Starbased.\nAtlas Brew #105: Starbased – TLDR\nBeth posted a video recapping the latest Atlas Brew.\nSTAR ATLAS GAMEPLAY – STARBASED [ FIRST IMPRESSIONS ]\nMetaVerse Explorer posted a video of his first impressions of SAGE Starbased.",
+  "content_hash": "8261e9dbe67fc68ffa55f6df0e85a8437a2c8204f4ff354ad35759c60c261638",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [],
+  "external_sources": [
+    {
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=tnVnHDCtCoo",
+      "anchor_text": "Star Atlas Surge test"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=KzO8A-v2iTA",
+      "anchor_text": "Star Atlas livestream"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Tg89nKZbmXQ",
+      "anchor_text": "updates in Star Atlas"
+    },
+    {
+      "url": "https://aephia.com/star-atlas/a-new-economic-paradigm/",
+      "anchor_text": "economy changes in Star Atlas"
+    },
+    {
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-123/",
+      "anchor_text": "weekly Star Atlas newsletter."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=SuvL4tP57Q4",
+      "anchor_text": "Surge game mode"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=i0fD4n9HROA",
+      "anchor_text": "interview"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=-S4C17KolTA",
+      "anchor_text": "Star Atlas SAGE Starbased"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=D7i0Ymdcbj4",
+      "anchor_text": "latest Atlas Brew"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=xiN_G0EgOOc",
+      "anchor_text": "video walkthrough"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=RdhZeJyOvJ8",
+      "anchor_text": "SAGE Starbased"
+    },
+    {
+      "url": "https://aephia.com/star-atlas/starbased-the-missing-manual/",
+      "anchor_text": "information about Starbased"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=fLAg_SZA8W0",
+      "anchor_text": "latest Atlas Brew"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=XASYB6mRd2g",
+      "anchor_text": "first impressions of SAGE Starbased"
+    }
+  ],
+  "primary_source_relationships": [
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=tnVnHDCtCoo",
+      "anchor_text": "Star Atlas Surge test"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=KzO8A-v2iTA",
+      "anchor_text": "Star Atlas livestream"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=Tg89nKZbmXQ",
+      "anchor_text": "updates in Star Atlas"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/a-new-economic-paradigm/",
+      "anchor_text": "economy changes in Star Atlas"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-123/",
+      "anchor_text": "weekly Star Atlas newsletter."
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=SuvL4tP57Q4",
+      "anchor_text": "Surge game mode"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=i0fD4n9HROA",
+      "anchor_text": "interview"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=-S4C17KolTA",
+      "anchor_text": "Star Atlas SAGE Starbased"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=D7i0Ymdcbj4",
+      "anchor_text": "latest Atlas Brew"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=xiN_G0EgOOc",
+      "anchor_text": "video walkthrough"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=RdhZeJyOvJ8",
+      "anchor_text": "SAGE Starbased"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/starbased-the-missing-manual/",
+      "anchor_text": "information about Starbased"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=fLAg_SZA8W0",
+      "anchor_text": "latest Atlas Brew"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=XASYB6mRd2g",
+      "anchor_text": "first impressions of SAGE Starbased"
+    }
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Verify which outbound links are primary sources and preserve creator attribution during promotion."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-107&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 7344,
+    "elapsed_ms": 1651,
+    "attempts": [
+      {
+        "endpoint": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-107&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "http_status": 200,
+        "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-107&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "content_type": "application/json; charset=UTF-8",
+        "response_size": 7344,
+        "elapsed_ms": 1651
+      }
+    ]
+  },
+  "source_lineage": {
+    "publication": "Intergalactic Herald",
+    "publication_role": "CURATED_SUMMARY",
+    "relationship": "CURATED_SUMMARY_OF",
+    "primary_sources": [
+      {
+        "publication": "Star Atlas Surge test",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=tnVnHDCtCoo",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas Surge test"
+      },
+      {
+        "publication": "Star Atlas livestream",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=KzO8A-v2iTA",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas livestream"
+      },
+      {
+        "publication": "updates in Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=Tg89nKZbmXQ",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: updates in Star Atlas"
+      },
+      {
+        "publication": "economy changes in Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/a-new-economic-paradigm/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article with anchor text: economy changes in Star Atlas"
+      },
+      {
+        "publication": "weekly Star Atlas newsletter.",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-123/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article with anchor text: weekly Star Atlas newsletter."
+      },
+      {
+        "publication": "Surge game mode",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=SuvL4tP57Q4",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Surge game mode"
+      },
+      {
+        "publication": "interview",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=i0fD4n9HROA",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: interview"
+      },
+      {
+        "publication": "Star Atlas SAGE Starbased",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=-S4C17KolTA",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas SAGE Starbased"
+      },
+      {
+        "publication": "latest Atlas Brew",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=D7i0Ymdcbj4",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest Atlas Brew"
+      },
+      {
+        "publication": "video walkthrough",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=xiN_G0EgOOc",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: video walkthrough"
+      },
+      {
+        "publication": "SAGE Starbased",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=RdhZeJyOvJ8",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: SAGE Starbased"
+      },
+      {
+        "publication": "information about Starbased",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/starbased-the-missing-manual/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article with anchor text: information about Starbased"
+      },
+      {
+        "publication": "latest Atlas Brew",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=fLAg_SZA8W0",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest Atlas Brew"
+      },
+      {
+        "publication": "first impressions of SAGE Starbased",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=XASYB6mRd2g",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: first impressions of SAGE Starbased"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "publication": "Intergalactic Gear",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticgear.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Intergalactic Coalition",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticcoalition.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      }
+    ],
+    "original_creators": [
+      "Aephia",
+      "Star Atlas"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Star Atlas Surge test",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=tnVnHDCtCoo"
+      },
+      {
+        "from": "Star Atlas livestream",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=KzO8A-v2iTA"
+      },
+      {
+        "from": "updates in Star Atlas",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=Tg89nKZbmXQ"
+      },
+      {
+        "from": "economy changes in Star Atlas",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/a-new-economic-paradigm/"
+      },
+      {
+        "from": "weekly Star Atlas newsletter.",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-123/"
+      },
+      {
+        "from": "Surge game mode",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=SuvL4tP57Q4"
+      },
+      {
+        "from": "interview",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=i0fD4n9HROA"
+      },
+      {
+        "from": "Star Atlas SAGE Starbased",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=-S4C17KolTA"
+      },
+      {
+        "from": "latest Atlas Brew",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=D7i0Ymdcbj4"
+      },
+      {
+        "from": "video walkthrough",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=xiN_G0EgOOc"
+      },
+      {
+        "from": "SAGE Starbased",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=RdhZeJyOvJ8"
+      },
+      {
+        "from": "information about Starbased",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/starbased-the-missing-manual/"
+      },
+      {
+        "from": "latest Atlas Brew",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=fLAg_SZA8W0"
+      },
+      {
+        "from": "first impressions of SAGE Starbased",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=XASYB6mRd2g"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  }
+}

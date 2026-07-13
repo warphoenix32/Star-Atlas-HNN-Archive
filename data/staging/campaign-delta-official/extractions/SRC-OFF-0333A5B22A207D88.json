@@ -1,0 +1,523 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-0333A5B22A207D88",
+    "url": "https://experience.staratlas.com/newsroom/article/star-atlas-launches-a-new-era-of-gaming-with-record-shattering-token-sales",
+    "title": "Star Atlas Launches a New Era of Gaming with Record-shattering Token Sales | Star Atlas",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Newsroom / ATMTA",
+    "published_at": "2021-09-08",
+    "updated_at": null,
+    "original_date_text": "Sep 08, 2021",
+    "document_type": "OFFICIAL_ANNOUNCEMENT",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Newsroom / ATMTA",
+    "publication_role": "ECONOMIC_REPORT",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://play.staratlas.com",
+        "anchor_text": "Play Now"
+      },
+      {
+        "url": "https://coinmarketcap.com/currencies/star-atlas/",
+        "anchor_text": "CMC"
+      },
+      {
+        "url": "https://www.coingecko.com/en/coins/star-atlas",
+        "anchor_text": "CoinGecko"
+      },
+      {
+        "url": "https://coinmarketcap.com/currencies/star-atlas-polis/",
+        "anchor_text": "CMC"
+      },
+      {
+        "url": "https://www.coingecko.com/en/coins/star-atlas-dao",
+        "anchor_text": "CoinGecko"
+      },
+      {
+        "url": "https://discord.gg/staratlas",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://t.me/staratlasgame",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://www.reddit.com/r/StarAtlas/",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://www.facebook.com/StarAtlasMMO",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://www.instagram.com/staratlasgame/",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://www.youtube.com/channel/UCt-y8Npwje5KDG5MSZ0a9Jw",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://www.twitch.tv/staratlasgame",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://ftx.com/trade/ATLAS/USD",
+        "anchor_text": "ATLAS"
+      },
+      {
+        "url": "https://ftx.com/trade/POLIS/USD",
+        "anchor_text": "POLIS"
+      },
+      {
+        "url": "https://play.staratlas.com/market/3ySaxSspDCsEM53zRTfpyr9s9yfq9yNpZFXSEbvbadLf",
+        "anchor_text": "unveiled Pearce X5 spaceship"
+      },
+      {
+        "url": "https://play.staratlas.com/market/2W6ff8LajAwekXVxDARGQ9QFNcRbxmJPE2p3eNsGR7Qu",
+        "anchor_text": "Opal Jetjet space racer"
+      },
+      {
+        "url": "https://ftx.com/nfts",
+        "anchor_text": "FTX NFT Marketplace"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=hnFNh-1qLWk",
+        "anchor_text": "teaser trailer video"
+      },
+      {
+        "url": "https://medium.com/star-atlas/animoca-brands-joins-star-atlas-partnership-revolutionize-future-entertainment-b0fc33e9e8a5",
+        "anchor_text": "Animoca Brands"
+      },
+      {
+        "url": "https://medium.com/star-atlas/star-atlas-closes-seed-round-with-serum-leading-funding-a5cf1c6bd7c9",
+        "anchor_text": "Serum"
+      },
+      {
+        "url": "https://medium.com/star-atlas/spoiler-alert-star-atlas-reveals-full-top-talent-lineup-for-rebirth-meta-poster-series-347373550343",
+        "anchor_text": "collaboration"
+      },
+      {
+        "url": "https://medium.com/star-atlas/star-atlas-and-us-space-force-drop-neil-armstrong-meta-poster-nft-for-satellite-launch-a858b6558514",
+        "anchor_text": "Neil Armstrong meta-poster"
+      },
+      {
+        "url": "https://c212.net/c/link/?t=0&l=en&o=3518016-1&h=2748636143&u=https%3A%2F%2Fc212.net%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D3397231-1%26h%3D2982849003%26u%3Dhttp%253A%252F%252Fsolana.com%252F%26a%3DSolana&a=Solana",
+        "anchor_text": "Solana"
+      },
+      {
+        "url": "https://c212.net/c/link/?t=0&l=en&o=3518016-1&h=1530369193&u=https%3A%2F%2Fc212.net%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D3397231-1%26h%3D3652583731%26u%3Dhttps%253A%252F%252Fstaratlas.com%252F%26a%3DStarAtlas.com&a=StarAtlas.com",
+        "anchor_text": "StarAtlas.com"
+      },
+      {
+        "url": "https://c212.net/c/link/?t=0&l=en&o=3518016-1&h=3921988929&u=https%3A%2F%2Fc212.net%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D3397231-1%26h%3D445912205%26u%3Dhttp%253A%252F%252Fplay.staratlas.com%252F%26a%3DPlay.StarAtlas.com&a=Play.StarAtlas.com",
+        "anchor_text": "Play.StarAtlas.com"
+      },
+      {
+        "url": "https://www.reddit.com/r/StarAtlas",
+        "anchor_text": "Reddit"
+      },
+      {
+        "url": "https://www.linkedin.com/company/star-atlas",
+        "anchor_text": "Linkedin"
+      },
+      {
+        "url": "https://medium.com/star-atlas",
+        "anchor_text": "Medium"
+      },
+      {
+        "url": "https://www.tiktok.com/@staratlasmetaverse",
+        "anchor_text": "Tik Tok"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Newsroom / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official economic report titled “Star Atlas Launches a New Era of Gaming with Record-shattering Token Sales | Star Atlas.” This record preserves what Star Atlas Newsroom / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Star Atlas Launches a New Era of Gaming with Record-shattering Token Sales | Star Atlas\nPlay Now\nEconomic Reports\nWhite Paper • PDF\nRead Our Official White Paper!\nEconomics Paper • PDF\nLearn the tokenomics of ATLAS and POLIS in the galactic economy.\nGovernance Documentation\nLearn how Star Atlas is governed and built by its community.\nATLAS\n(\nCMC\nCoinGecko\n)\nPOLIS\n(\nCMC\nCoinGecko\n)\nTerms of Service\nPrivacy Policy\nPromotional Terms\nPlay Now\nBack\nSep 08, 2021\nTag: Articles\nStar Atlas Launches a New Era of Gaming with Record-shattering Token Sales\nSolana-powered next-gen blockchain metaverse brings decentralized full ownership opportunities to the worldwide gaming community\nBack to top\nCouncil of Peace Complex Interior WIP /// Player-Controlled In-game Asset /// Metaverse Public Space\nAs a blockchain-based metaverse known for its pioneering economics and governance system with an incentive structure, Star Atlas experienced unprecedented success on the market open after an already outstandingly successful close of $2 Million in its public token sale of its native ATLAS and POLIS tokens.\nFollowing the continued momentum and the growth of the of Star Atlas metaverse, these two tokens, released as an initial exchange offering (IEO) on FTX and an initial DEX offering (IDO) on Raydium and Apollo-X, further the growth of the Solana ecosystem and rising interest in advanced play-to-earn gaming.\nStar Atlas tokens have been exceptionally sought-after during offerings on all three platforms, reaching a 5000% over-subscription rate in the FTX IEO, a 1600% oversubscribed status in the Apollo X DEX offering with over $8 million of staked capital, and a burgeoning 3400% filling on Raydium.\nOn the occasion, Star Atlas is also releasing commemorative, exclusive spaceship skins for the freshly unveiled Pearce X5 spaceship NFT and the Opal Jetjet space racer in collaboration with FTX and Raydium, which will soon be available in the FTX NFT Marketplace and by providing liquidity on Raydium.\nStar Atlas is currently the only company building an AAA title metaverse game within the Solana ecosystem and, with a groundswell of anticipation among its community of gamers and creators, has already generated $41 million in sales of NFTs related to the project and private token sales.\nKnown for its breakthrough blockchain economic model with play-to-earn design, DeFi features and a fiat on-ramp enabling game assets to be purchased with credit or debit cards, Star Atlas’ successful token sale brings power back to the players joining the platform. These tokens will act as in-game assets within Star Atlas, enabling players to create tangible value through exploration, deploying political strategies, and influencing the future of metaverse development.\n“Our vision goes beyond gaming and the token sale is a testament to the infinite possibilities of blockchain based gaming. We are extremely pleased with our progress so far and this sale, offered broadly in line with the values Star Atlas represents, will help fuel us through the launch of the Metaverse. Our ATLAS and POLIS tokens represent a culmination of the support the Star Atlas community of enthusiasts has given our team as we work to build the next-generation socio-economic paradigm in the metaverse.”\n— Michael Wagner — CEO of Star Atlas\n“FTX always aims to be the first mover when it comes to crypto trends, and Star Atlas certainly ticks all the boxes, from gaming NFT’s, to yield and even player vs player combat. The community is super excited about the upcoming IEO and we are too! ”\n> — Michael Burgess — Head Of Partnerships FTX\nThe Star Atlas team has structured its offering with the goal of ensuring the broad distribution of ownership in the platform. At the close of the sale $1 million in ATLAS and POLIS tokens were allocated via a lottery system through the FTX initial exchange offering (IEO), ensuring a fair, equal and widely distributed token sale that is in line with the ethos of DeFi and gameplay monetization.\nThe token sale is the latest in a string of notable announcements from Star Atlas, including the new teaser trailer video, a recently announced partnership with Animoca Brands, decentralized NFT marketplace integration on Serum and an extremely successful NFT meta-poster sale, following a collaboration with deadmau5, Sueco the Child and a collaboration with US Space Force to offer a minted Neil Armstrong meta-poster NFT.\nTo learn more about how each of these tokens will fit within the metaverse’s DeFi-powered economic system, visit StarAtlas.com and read the Metaverse Economics and Governance Paper.\nABOUT STAR ATLAS\nStar Atlas is a next-gen gaming Metaverse emerging from the confluence of state of the art blockchain, real-time graphics, multiplayer video game, and decentralized financial technologies.\nReal-time graphics technology using Unreal Engine 5’s Nanite allows for cinematic quality video game visuals. Blockchain technology using the Solana protocol establishes a largely serverless and secured gameplay experience. Non-fungible tokens obtained and traded within Star Atlas create an economy that replicates the tangibility of real world assets and ownership. To learn more, visit StarAtlas.com, join a faction at Play.StarAtlas.com and send your spaceships on a deep space mission by enrolling them into a Faction Fleet.\nJOIN OUR COMMUNITY\nTwitter | Discord | Telegram | Youtube | Instagram | Reddit | Facebook | Linkedin | Medium | Tik Tok | Twitch\nPrev\nThe Metaverse Big Bang: Star Atlas Launches the Next Generation of NFTs through Galactic Asset Offering\nNext\nExclusive FTX and Raydium Spaceship Skin NFTs Drop to Commemorate Record-Shattering Token Listing\nTrailer\nWe use cookies to enhance your experience and analyze our site usage.\nPlease see our Privacy Policy\nfor more information.\nAccept Cookies",
+  "content_hash": "9312f80ba9c03ed3680696aaf363f661e18fe20c00d9b2f777d5e804ba8fa483",
+  "entities": [
+    "ATLAS",
+    "Animoca Brands",
+    "Faction Fleet",
+    "Michael Wagner",
+    "POLIS",
+    "Serum",
+    "Solana"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-0333A5B22A207D88-01",
+      "text": "Star Atlas Launches a New Era of Gaming with Record-shattering Token Sales | Star Atlas Play Now Economic Reports White Paper • PDF Read Our Official White Paper!",
+      "claim_type": "EVENT_OCCURRED",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0333A5B22A207D88",
+      "publication_date": "2021-09-08",
+      "confidence": "MEDIUM",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-0333A5B22A207D88-02",
+      "text": "Following the continued momentum and the growth of the of Star Atlas metaverse, these two tokens, released as an initial exchange offering (IEO) on FTX and an initial DEX offering (IDO) on Raydium and Apollo-X, further the growth of the Solana ecosystem and rising interest in advanced play-to-earn gaming.",
+      "claim_type": "EVENT_OCCURRED",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0333A5B22A207D88",
+      "publication_date": "2021-09-08",
+      "confidence": "MEDIUM",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-0333A5B22A207D88-03",
+      "text": "On the occasion, Star Atlas is also releasing commemorative, exclusive spaceship skins for the freshly unveiled Pearce X5 spaceship NFT and the Opal Jetjet space racer in collaboration with FTX and Raydium, which will soon be available in the FTX NFT Marketplace and by providing liquidity on Raydium.",
+      "claim_type": "ANNOUNCEMENT",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0333A5B22A207D88",
+      "publication_date": "2021-09-08",
+      "confidence": "HIGH",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-0333A5B22A207D88-04",
+      "text": "These tokens will act as in-game assets within Star Atlas, enabling players to create tangible value through exploration, deploying political strategies, and influencing the future of metaverse development.",
+      "claim_type": "ANNOUNCEMENT",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0333A5B22A207D88",
+      "publication_date": "2021-09-08",
+      "confidence": "HIGH",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-0333A5B22A207D88-05",
+      "text": "We are extremely pleased with our progress so far and this sale, offered broadly in line with the values Star Atlas represents, will help fuel us through the launch of the Metaverse.",
+      "claim_type": "ANNOUNCEMENT",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0333A5B22A207D88",
+      "publication_date": "2021-09-08",
+      "confidence": "HIGH",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-0333A5B22A207D88-06",
+      "text": "” > — Michael Burgess — Head Of Partnerships FTX The Star Atlas team has structured its offering with the goal of ensuring the broad distribution of ownership in the platform.",
+      "claim_type": "EVENT_OCCURRED",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0333A5B22A207D88",
+      "publication_date": "2021-09-08",
+      "confidence": "MEDIUM",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-0333A5B22A207D88-07",
+      "text": "The token sale is the latest in a string of notable announcements from Star Atlas, including the new teaser trailer video, a recently announced partnership with Animoca Brands, decentralized NFT marketplace integration on Serum and an extremely successful NFT meta-poster sale, following a collaboration with deadmau5, Sueco the Child and a collaboration with US Space Force to offer a minted Neil Armstrong meta-poster NFT.",
+      "claim_type": "ANNOUNCEMENT",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0333A5B22A207D88",
+      "publication_date": "2021-09-08",
+      "confidence": "HIGH",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-0333A5B22A207D88-08",
+      "text": "To learn more about how each of these tokens will fit within the metaverse’s DeFi-powered economic system, visit StarAtlas.com and read the Metaverse Economics and Governance Paper.",
+      "claim_type": "ANNOUNCEMENT",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0333A5B22A207D88",
+      "publication_date": "2021-09-08",
+      "confidence": "HIGH",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-0333A5B22A207D88-09",
+      "text": "JOIN OUR COMMUNITY Twitter | Discord | Telegram | Youtube | Instagram | Reddit | Facebook | Linkedin | Medium | Tik Tok | Twitch Prev The Metaverse Big Bang: Star Atlas Launches the Next Generation of NFTs through Galactic Asset Offering Next Exclusive FTX and Raydium Spaceship Skin NFTs Drop to Commemorate Record-Shattering Token Listing Trailer We use cookies to enhance your experience and analyze our site usage.",
+      "claim_type": "EVENT_OCCURRED",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0333A5B22A207D88",
+      "publication_date": "2021-09-08",
+      "confidence": "MEDIUM",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Faction Fleet",
+    "POLIS",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [
+    "Michael Wagner"
+  ],
+  "organizations": [
+    "Solana",
+    "Animoca Brands",
+    "Serum"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://experience.staratlas.com/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://play.staratlas.com",
+      "anchor_text": "Play Now"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/economic-reports/",
+      "anchor_text": "Economic Reports"
+    },
+    {
+      "url": "https://experience.staratlas.com/assets/pdfs/white-paper.pdf",
+      "anchor_text": "White Paper • PDF Read Our Official White Paper!"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/governance-documentation",
+      "anchor_text": "Governance Documentation Learn how Star Atlas is governed and built by its community."
+    },
+    {
+      "url": "https://coinmarketcap.com/currencies/star-atlas/",
+      "anchor_text": "CMC"
+    },
+    {
+      "url": "https://www.coingecko.com/en/coins/star-atlas",
+      "anchor_text": "CoinGecko"
+    },
+    {
+      "url": "https://coinmarketcap.com/currencies/star-atlas-polis/",
+      "anchor_text": "CMC"
+    },
+    {
+      "url": "https://www.coingecko.com/en/coins/star-atlas-dao",
+      "anchor_text": "CoinGecko"
+    },
+    {
+      "url": "https://twitter.com/staratlas",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://discord.gg/staratlas",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://t.me/staratlasgame",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/StarAtlas/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://www.facebook.com/StarAtlasMMO",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://www.instagram.com/staratlasgame/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCt-y8Npwje5KDG5MSZ0a9Jw",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://www.twitch.tv/staratlasgame",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://experience.staratlas.com/terms-of-service",
+      "anchor_text": "Terms of Service"
+    },
+    {
+      "url": "https://experience.staratlas.com/privacy-policy",
+      "anchor_text": "Privacy Policy"
+    },
+    {
+      "url": "https://experience.staratlas.com/promotional-terms-and-conditions",
+      "anchor_text": "Promotional Terms"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/news",
+      "anchor_text": "Back"
+    },
+    {
+      "url": "https://ftx.com/trade/ATLAS/USD",
+      "anchor_text": "ATLAS"
+    },
+    {
+      "url": "https://ftx.com/trade/POLIS/USD",
+      "anchor_text": "POLIS"
+    },
+    {
+      "url": "https://play.staratlas.com/market/3ySaxSspDCsEM53zRTfpyr9s9yfq9yNpZFXSEbvbadLf",
+      "anchor_text": "unveiled Pearce X5 spaceship"
+    },
+    {
+      "url": "https://play.staratlas.com/market/2W6ff8LajAwekXVxDARGQ9QFNcRbxmJPE2p3eNsGR7Qu",
+      "anchor_text": "Opal Jetjet space racer"
+    },
+    {
+      "url": "https://ftx.com/nfts",
+      "anchor_text": "FTX NFT Marketplace"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=hnFNh-1qLWk",
+      "anchor_text": "teaser trailer video"
+    },
+    {
+      "url": "https://medium.com/star-atlas/animoca-brands-joins-star-atlas-partnership-revolutionize-future-entertainment-b0fc33e9e8a5",
+      "anchor_text": "Animoca Brands"
+    },
+    {
+      "url": "https://medium.com/star-atlas/star-atlas-closes-seed-round-with-serum-leading-funding-a5cf1c6bd7c9",
+      "anchor_text": "Serum"
+    },
+    {
+      "url": "https://medium.com/star-atlas/spoiler-alert-star-atlas-reveals-full-top-talent-lineup-for-rebirth-meta-poster-series-347373550343",
+      "anchor_text": "collaboration"
+    },
+    {
+      "url": "https://medium.com/star-atlas/star-atlas-and-us-space-force-drop-neil-armstrong-meta-poster-nft-for-satellite-launch-a858b6558514",
+      "anchor_text": "Neil Armstrong meta-poster"
+    },
+    {
+      "url": "https://c212.net/c/link/?t=0&l=en&o=3518016-1&h=2748636143&u=https%3A%2F%2Fc212.net%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D3397231-1%26h%3D2982849003%26u%3Dhttp%253A%252F%252Fsolana.com%252F%26a%3DSolana&a=Solana",
+      "anchor_text": "Solana"
+    },
+    {
+      "url": "https://c212.net/c/link/?t=0&l=en&o=3518016-1&h=1530369193&u=https%3A%2F%2Fc212.net%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D3397231-1%26h%3D3652583731%26u%3Dhttps%253A%252F%252Fstaratlas.com%252F%26a%3DStarAtlas.com&a=StarAtlas.com",
+      "anchor_text": "StarAtlas.com"
+    },
+    {
+      "url": "https://c212.net/c/link/?t=0&l=en&o=3518016-1&h=3921988929&u=https%3A%2F%2Fc212.net%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D3397231-1%26h%3D445912205%26u%3Dhttp%253A%252F%252Fplay.staratlas.com%252F%26a%3DPlay.StarAtlas.com&a=Play.StarAtlas.com",
+      "anchor_text": "Play.StarAtlas.com"
+    },
+    {
+      "url": "https://www.reddit.com/r/StarAtlas",
+      "anchor_text": "Reddit"
+    },
+    {
+      "url": "https://www.linkedin.com/company/star-atlas",
+      "anchor_text": "Linkedin"
+    },
+    {
+      "url": "https://medium.com/star-atlas",
+      "anchor_text": "Medium"
+    },
+    {
+      "url": "https://www.tiktok.com/@staratlasmetaverse",
+      "anchor_text": "Tik Tok"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/article/the-metaverse-big-bang-star-atlas-launches-the-next-generation-of-nfts",
+      "anchor_text": "Prev The Metaverse Big Bang: Star Atlas Launches the Next Generation of NFTs through Galactic Asset Offering"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/article/exclusive-ftx-and-raydium-spaceship-skin-nfts-drop-to-commemorate-record",
+      "anchor_text": "Next Exclusive FTX and Raydium Spaceship Skin NFTs Drop to Commemorate Record-Shattering Token Listing"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/article/star-atlas-launches-a-new-era-of-gaming-with-record-shattering-token-sales",
+      "anchor_text": "Trailer"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://experience.staratlas.com/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://play.staratlas.com",
+      "anchor_text": "Play Now"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/economic-reports/",
+      "anchor_text": "Economic Reports"
+    },
+    {
+      "url": "https://experience.staratlas.com/assets/pdfs/white-paper.pdf",
+      "anchor_text": "White Paper • PDF Read Our Official White Paper!"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/governance-documentation",
+      "anchor_text": "Governance Documentation Learn how Star Atlas is governed and built by its community."
+    },
+    {
+      "url": "https://experience.staratlas.com/terms-of-service",
+      "anchor_text": "Terms of Service"
+    },
+    {
+      "url": "https://experience.staratlas.com/privacy-policy",
+      "anchor_text": "Privacy Policy"
+    },
+    {
+      "url": "https://experience.staratlas.com/promotional-terms-and-conditions",
+      "anchor_text": "Promotional Terms"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/news",
+      "anchor_text": "Back"
+    },
+    {
+      "url": "https://play.staratlas.com/market/3ySaxSspDCsEM53zRTfpyr9s9yfq9yNpZFXSEbvbadLf",
+      "anchor_text": "unveiled Pearce X5 spaceship"
+    },
+    {
+      "url": "https://play.staratlas.com/market/2W6ff8LajAwekXVxDARGQ9QFNcRbxmJPE2p3eNsGR7Qu",
+      "anchor_text": "Opal Jetjet space racer"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/article/the-metaverse-big-bang-star-atlas-launches-the-next-generation-of-nfts",
+      "anchor_text": "Prev The Metaverse Big Bang: Star Atlas Launches the Next Generation of NFTs through Galactic Asset Offering"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/article/exclusive-ftx-and-raydium-spaceship-skin-nfts-drop-to-commemorate-record",
+      "anchor_text": "Next Exclusive FTX and Raydium Spaceship Skin NFTs Drop to Commemorate Record-Shattering Token Listing"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/article/star-atlas-launches-a-new-era-of-gaming-with-record-shattering-token-sales",
+      "anchor_text": "Trailer"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://experience.staratlas.com/newsroom/article/star-atlas-launches-a-new-era-of-gaming-with-record-shattering-token-sales",
+    "final_url": "https://experience.staratlas.com/newsroom/article/star-atlas-launches-a-new-era-of-gaming-with-record-shattering-token-sales",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "response_size": 65834,
+    "retrieved_at": "2026-07-13T01:04:37.561233Z",
+    "elapsed_ms": 232
+  }
+}

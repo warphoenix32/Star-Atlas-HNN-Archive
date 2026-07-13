@@ -1,0 +1,390 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-77C95E5F33593A5B",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47061430298899-Where-Can-I-Play-Star-Atlas",
+    "title": "Where Can I Play Star Atlas?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-03T17:01:40Z",
+    "updated_at": "2025-12-08T18:33:24Z",
+    "original_date_text": "2025-12-03T17:01:40Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://store.epicgames.com/en-US/p/star-atlas-bead34",
+        "anchor_text": "MMORPG UE5 Game (Epic Games)"
+      },
+      {
+        "url": "https://based.staratlas.com/",
+        "anchor_text": "SAGE Labs Starbased (sage.staratlas.com)"
+      },
+      {
+        "url": "https://atmta.zendesk.com/hc/en-us/articles/47053512390803",
+        "anchor_text": "Learn more about SAGE"
+      },
+      {
+        "url": "https://play.staratlas.com/",
+        "anchor_text": "PLAY - The Gateway to the Star Atlas Ecosystem"
+      },
+      {
+        "url": "https://play.staratlas.com",
+        "anchor_text": "play.staratlas.com"
+      },
+      {
+        "url": "https://play.staratlas.com/rentals/",
+        "anchor_text": "Fleet Rental"
+      },
+      {
+        "url": "https://play.staratlas.com/market/",
+        "anchor_text": "Marketplace"
+      },
+      {
+        "url": "https://play.staratlas.com/fleet/",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://play.staratlas.com/claims/",
+        "anchor_text": "Faction Claim"
+      },
+      {
+        "url": "https://play.staratlas.com/inventory/",
+        "anchor_text": "Inventory"
+      },
+      {
+        "url": "https://play.staratlas.com/dac/",
+        "anchor_text": "DAC Platform"
+      },
+      {
+        "url": "https://play.staratlas.com/core-graphic-novel/",
+        "anchor_text": "Graphic Novel"
+      },
+      {
+        "url": "https://govern.staratlas.com/lockers/polis",
+        "anchor_text": "POLIS Locker"
+      },
+      {
+        "url": "https://govern.staratlas.com/lockers/atlas",
+        "anchor_text": "ATLAS Locker"
+      },
+      {
+        "url": "https://govern.staratlas.com/proposals",
+        "anchor_text": "Proposals"
+      },
+      {
+        "url": "https://atmta.zendesk.com/hc/en-us/articles/47021307964819",
+        "anchor_text": "Explore DAO governance"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “Where Can I Play Star Atlas?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Star Atlas is a universe of interconnected products spanning web, blockchain, and 3D gaming\nMMORPG UE5 Game (Epic Games)\nExplore the Star Atlas universe in full 3D using Unreal Engine 5\nFly your ships or demo ships\nUse crew avatars to walk, fight, or race\nMine asteroids and navigate open space\nJoin multiplayer combat and racing matches\nFree to play (requires a game key via Discord)\nAvailable in pre-alpha via closed access (Epic Games)Join by requesting a game key in the Star Atlas Discord\nSAGE Labs Starbased (sage.staratlas.com)\nA browser-based, fully on-chain strategy game built on Solana.\nExplore space and discover regions of the Galia Expanse\nMine, refine, and craft resources\nManage fleets, fuel logistics, and trade routes\nEarn through gameplay or rent ships to other players\nEvery action is an on-chain transaction\n🔗 Learn more about SAGE\nPLAY - The Gateway to the Star Atlas Ecosystem\nplay.staratlas.com is the central hub for interacting with most features in Star Atlas. From here, you can manage your assets, trade NFTs, access Faction Claim, Fleet Rental, your DAC, and more.\nFleet Rental\nCreate fleets in SAGE and rent them out for passive income\nMarketplace\nBuy and sell ships, crew, claim stakes, resources, and collectibles using ATLAS or USDC.\nFaction Claim\nEnlist Claim Stakes to produce R4 resources (fuel, food, ammo, toolkits) over time.\nInventory\nView and manage your NFTs.\nDAC PlatformCreate or join a guild (Decentralized Autonomous Corporation), customize your org, and recruit players.\nGraphic Novel\nExplore the official Star Atlas lore through the \"CORE\" digital comic\nFaction Fleet\nStake ships to earn passive ATLAS rewards.\n🔗 Explore Play.StarAtlas.com\nGovernance (govern.staratlas.com)\nShape the future of Star Atlas through on-chain governance.\nPOLIS Locker\nLock POLIS to gain voting power (PVP) and earn daily POLIS rewards.\nATLAS Locker\nLock ATLAS to reduce marketplace fees and earn POLIS rewards.\nProposals\nSubmit or vote on governance proposals (PIPs) that influence DAO operations, treasury, and ecosystem policy.\n🔗 Explore DAO governance",
+  "content_hash": "d4898ea30ef0673e5cb73d4e39e228b9623377e3d83ca4076e2794cd1e81e3a1",
+  "entities": [
+    "ATLAS",
+    "CORE",
+    "Claim Stakes",
+    "Crew",
+    "Faction Fleet",
+    "POLIS",
+    "SAGE",
+    "SAGE Labs",
+    "Solana"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-77C95E5F33593A5B-01",
+      "text": "Explore space and discover regions of the Galia Expanse Mine, refine, and craft resources Manage fleets, fuel logistics, and trade routes Earn through gameplay or rent ships to other players Every action is an on-chain transaction 🔗 Learn more about SAGE PLAY - The Gateway to the Star Atlas Ecosystem play.staratlas.com is the central hub for interacting with most features in Star Atlas.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-77C95E5F33593A5B",
+      "publication_date": "2025-12-03T17:01:40Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-77C95E5F33593A5B-02",
+      "text": "From here, you can manage your assets, trade NFTs, access Faction Claim, Fleet Rental, your DAC, and more.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-77C95E5F33593A5B",
+      "publication_date": "2025-12-03T17:01:40Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-77C95E5F33593A5B-03",
+      "text": "Fleet Rental Create fleets in SAGE and rent them out for passive income Marketplace Buy and sell ships, crew, claim stakes, resources, and collectibles using ATLAS or USDC.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-77C95E5F33593A5B",
+      "publication_date": "2025-12-03T17:01:40Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-77C95E5F33593A5B-04",
+      "text": "Faction Claim Enlist Claim Stakes to produce R4 resources (fuel, food, ammo, toolkits) over time.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-77C95E5F33593A5B",
+      "publication_date": "2025-12-03T17:01:40Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-77C95E5F33593A5B-05",
+      "text": "DAC PlatformCreate or join a guild (Decentralized Autonomous Corporation), customize your org, and recruit players.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-77C95E5F33593A5B",
+      "publication_date": "2025-12-03T17:01:40Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-77C95E5F33593A5B-06",
+      "text": "Graphic Novel Explore the official Star Atlas lore through the \"CORE\" digital comic Faction Fleet Stake ships to earn passive ATLAS rewards.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-77C95E5F33593A5B",
+      "publication_date": "2025-12-03T17:01:40Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-77C95E5F33593A5B-07",
+      "text": "🔗 Explore Play.StarAtlas.com Governance (govern.staratlas.com) Shape the future of Star Atlas through on-chain governance.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-77C95E5F33593A5B",
+      "publication_date": "2025-12-03T17:01:40Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-77C95E5F33593A5B-08",
+      "text": "POLIS Locker Lock POLIS to gain voting power (PVP) and earn daily POLIS rewards.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-77C95E5F33593A5B",
+      "publication_date": "2025-12-03T17:01:40Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-77C95E5F33593A5B-09",
+      "text": "ATLAS Locker Lock ATLAS to reduce marketplace fees and earn POLIS rewards.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-77C95E5F33593A5B",
+      "publication_date": "2025-12-03T17:01:40Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-77C95E5F33593A5B-10",
+      "text": "Proposals Submit or vote on governance proposals (PIPs) that influence DAO operations, treasury, and ecosystem policy.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-77C95E5F33593A5B",
+      "publication_date": "2025-12-03T17:01:40Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "SAGE Labs",
+    "SAGE",
+    "Faction Fleet",
+    "CORE",
+    "POLIS",
+    "ATLAS",
+    "Claim Stakes",
+    "Crew"
+  ],
+  "governance_items": [],
+  "lore_items": [
+    "Galia"
+  ],
+  "actors": [],
+  "organizations": [
+    "Solana"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://store.epicgames.com/en-US/p/star-atlas-bead34",
+      "anchor_text": "MMORPG UE5 Game (Epic Games)"
+    },
+    {
+      "url": "https://discord.com/invite/staratlas",
+      "anchor_text": "Star Atlas Discord"
+    },
+    {
+      "url": "https://support.staratlas.com/star-atlas-unreal-engine-5-game",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://based.staratlas.com/",
+      "anchor_text": "SAGE Labs Starbased (sage.staratlas.com)"
+    },
+    {
+      "url": "https://atmta.zendesk.com/hc/en-us/articles/47053512390803",
+      "anchor_text": "Learn more about SAGE"
+    },
+    {
+      "url": "https://play.staratlas.com/",
+      "anchor_text": "PLAY - The Gateway to the Star Atlas Ecosystem"
+    },
+    {
+      "url": "https://play.staratlas.com",
+      "anchor_text": "play.staratlas.com"
+    },
+    {
+      "url": "https://play.staratlas.com/rentals/",
+      "anchor_text": "Fleet Rental"
+    },
+    {
+      "url": "https://play.staratlas.com/market/",
+      "anchor_text": "Marketplace"
+    },
+    {
+      "url": "https://play.staratlas.com/fleet/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://play.staratlas.com/claims/",
+      "anchor_text": "Faction Claim"
+    },
+    {
+      "url": "https://play.staratlas.com/inventory/",
+      "anchor_text": "Inventory"
+    },
+    {
+      "url": "https://play.staratlas.com/dac/",
+      "anchor_text": "DAC Platform"
+    },
+    {
+      "url": "https://play.staratlas.com/core-graphic-novel/",
+      "anchor_text": "Graphic Novel"
+    },
+    {
+      "url": "https://govern.staratlas.com/lockers/polis",
+      "anchor_text": "POLIS Locker"
+    },
+    {
+      "url": "https://govern.staratlas.com/lockers/atlas",
+      "anchor_text": "ATLAS Locker"
+    },
+    {
+      "url": "https://govern.staratlas.com/proposals",
+      "anchor_text": "Proposals"
+    },
+    {
+      "url": "https://atmta.zendesk.com/hc/en-us/articles/47021307964819",
+      "anchor_text": "Explore DAO governance"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://support.staratlas.com/star-atlas-unreal-engine-5-game",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://based.staratlas.com/",
+      "anchor_text": "SAGE Labs Starbased (sage.staratlas.com)"
+    },
+    {
+      "url": "https://play.staratlas.com/",
+      "anchor_text": "PLAY - The Gateway to the Star Atlas Ecosystem"
+    },
+    {
+      "url": "https://play.staratlas.com",
+      "anchor_text": "play.staratlas.com"
+    },
+    {
+      "url": "https://play.staratlas.com/rentals/",
+      "anchor_text": "Fleet Rental"
+    },
+    {
+      "url": "https://play.staratlas.com/market/",
+      "anchor_text": "Marketplace"
+    },
+    {
+      "url": "https://play.staratlas.com/fleet/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://play.staratlas.com/claims/",
+      "anchor_text": "Faction Claim"
+    },
+    {
+      "url": "https://play.staratlas.com/inventory/",
+      "anchor_text": "Inventory"
+    },
+    {
+      "url": "https://play.staratlas.com/dac/",
+      "anchor_text": "DAC Platform"
+    },
+    {
+      "url": "https://play.staratlas.com/core-graphic-novel/",
+      "anchor_text": "Graphic Novel"
+    },
+    {
+      "url": "https://govern.staratlas.com/lockers/polis",
+      "anchor_text": "POLIS Locker"
+    },
+    {
+      "url": "https://govern.staratlas.com/lockers/atlas",
+      "anchor_text": "ATLAS Locker"
+    },
+    {
+      "url": "https://govern.staratlas.com/proposals",
+      "anchor_text": "Proposals"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47061430298899-Where-Can-I-Play-Star-Atlas",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.397015Z"
+  }
+}

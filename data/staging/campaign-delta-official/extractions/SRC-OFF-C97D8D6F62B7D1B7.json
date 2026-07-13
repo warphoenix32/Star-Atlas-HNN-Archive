@@ -1,0 +1,233 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-C97D8D6F62B7D1B7",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47031385678611-What-are-Starbases-in-Holosim",
+    "title": "What are Starbases in Holosim?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-02T19:07:12Z",
+    "updated_at": "2025-12-08T18:24:05Z",
+    "original_date_text": "2025-12-02T19:07:12Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “What are Starbases in Holosim?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Starbases are key locations in Holosim where you manage your fleets, resources, and progression. Every faction starts with a Central Space Station (CSS), and additional Starbases can be found throughout the map.\nTypes of bases:\nCentral Space Station (CSS)\nYour main hub.\nProvides access to all features, including crafting and fleet management.\nFaction Safe Zone Starbases\nLocated within your faction’s protected region.\nSafer for new players to mine, transport, and grow.\nMedium Risk Zone Starbases\nFound outside faction safe zones.\nOffer richer resources but come with the risk of enemy encounters.\nWhat you can do at bases:\nHangar: dock fleets, create or disband them.\nCrafting: build components, upgrade bases, or create ships.\nInventory: manage your stored items and resources.\nCrew: check your available crew and assign them to fleets.\nMarket: trade resources and items.\nDetails: view information about the base, including which resources are available there.\nBases are essential to expanding your operations. As you progress, upgrading bases outside your CSS becomes important for crafting higher-tier items and strengthening your faction’s presence.",
+  "content_hash": "76d0cb66fe8d8f26e1cde66f6c158ece76b911a75c224369032a07dbb55c0e63",
+  "entities": [
+    "Crew",
+    "Holosim"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-C97D8D6F62B7D1B7-01",
+      "text": "Starbases are key locations in Holosim where you manage your fleets, resources, and progression.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-C97D8D6F62B7D1B7",
+      "publication_date": "2025-12-02T19:07:12Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-C97D8D6F62B7D1B7-02",
+      "text": "Every faction starts with a Central Space Station (CSS), and additional Starbases can be found throughout the map.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-C97D8D6F62B7D1B7",
+      "publication_date": "2025-12-02T19:07:12Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-C97D8D6F62B7D1B7-03",
+      "text": "Types of bases: Central Space Station (CSS) Your main hub.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-C97D8D6F62B7D1B7",
+      "publication_date": "2025-12-02T19:07:12Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-C97D8D6F62B7D1B7-04",
+      "text": "Provides access to all features, including crafting and fleet management.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-C97D8D6F62B7D1B7",
+      "publication_date": "2025-12-02T19:07:12Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-C97D8D6F62B7D1B7-05",
+      "text": "Faction Safe Zone Starbases Located within your faction’s protected region.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-C97D8D6F62B7D1B7",
+      "publication_date": "2025-12-02T19:07:12Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-C97D8D6F62B7D1B7-06",
+      "text": "Safer for new players to mine, transport, and grow.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-C97D8D6F62B7D1B7",
+      "publication_date": "2025-12-02T19:07:12Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-C97D8D6F62B7D1B7-07",
+      "text": "Medium Risk Zone Starbases Found outside faction safe zones.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-C97D8D6F62B7D1B7",
+      "publication_date": "2025-12-02T19:07:12Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-C97D8D6F62B7D1B7-08",
+      "text": "Offer richer resources but come with the risk of enemy encounters.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-C97D8D6F62B7D1B7",
+      "publication_date": "2025-12-02T19:07:12Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-C97D8D6F62B7D1B7-09",
+      "text": "What you can do at bases: Hangar: dock fleets, create or disband them.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-C97D8D6F62B7D1B7",
+      "publication_date": "2025-12-02T19:07:12Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-C97D8D6F62B7D1B7-10",
+      "text": "Crafting: build components, upgrade bases, or create ships.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-C97D8D6F62B7D1B7",
+      "publication_date": "2025-12-02T19:07:12Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-C97D8D6F62B7D1B7-11",
+      "text": "Inventory: manage your stored items and resources.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-C97D8D6F62B7D1B7",
+      "publication_date": "2025-12-02T19:07:12Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-C97D8D6F62B7D1B7-12",
+      "text": "Crew: check your available crew and assign them to fleets.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-C97D8D6F62B7D1B7",
+      "publication_date": "2025-12-02T19:07:12Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-C97D8D6F62B7D1B7-13",
+      "text": "Details: view information about the base, including which resources are available there.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-C97D8D6F62B7D1B7",
+      "publication_date": "2025-12-02T19:07:12Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-C97D8D6F62B7D1B7-14",
+      "text": "Bases are essential to expanding your operations.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-C97D8D6F62B7D1B7",
+      "publication_date": "2025-12-02T19:07:12Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-C97D8D6F62B7D1B7-15",
+      "text": "As you progress, upgrading bases outside your CSS becomes important for crafting higher-tier items and strengthening your faction’s presence.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-C97D8D6F62B7D1B7",
+      "publication_date": "2025-12-02T19:07:12Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Holosim",
+    "Crew"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47031385678611-What-are-Starbases-in-Holosim",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.271563Z"
+  }
+}

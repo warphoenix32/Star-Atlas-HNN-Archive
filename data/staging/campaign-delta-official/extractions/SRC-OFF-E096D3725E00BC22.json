@@ -1,0 +1,175 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-E096D3725E00BC22",
+    "url": "https://build.staratlas.com/dev-resources/unreal-engine-tooling/f-kit-documentation",
+    "title": "Star Atlas Build",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Build / ATMTA",
+    "published_at": null,
+    "updated_at": "2026-04-16T16:32:35.000Z",
+    "original_date_text": "2026-04-16T16:32:35.000Z",
+    "document_type": "TECHNICAL_DOCUMENTATION",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Build / ATMTA",
+    "publication_role": "TECHNICAL_DOCUMENTATION",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Star Atlas Build / ATMTA"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official technical documentation titled “Star Atlas Build.” This record preserves what Star Atlas Build / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "F-Kit - Documentation | Star Atlas Build\nSkip to contentStar Atlas BuildSearchK\nAppearance\nMenuReturn to top\nF-Kit - Documentation ​\nSolanaWallet ​\nUSolanaWallet Class Reference\n#include <``\nSolanaWallet.h\n``>\nPublic Member Functions\nType\nFunction\nvoid\nSetSaveSlotName (FString NewSaveSlotName)\nconst FString &\nGetSaveSlotName () const\nbool\nDoesWalletExist () const\nbool\nGenerateMnemonic (FString &MnemonicString)\nbool\nRestoreMnemonic (FString InMnemonic)\nFString\nGetMnemonicString () const\nDECLARE_DYNAMIC_MULTICAST_DELEGATE_OneParam (FOnMnemonicUpdated, FString, Mnemonic)\nbool\nSetPassword (FString NewPassword)\nbool\nSaveWallet ()\nbool\nUnlockWallet (FString Password)\nvoid\nLockWallet (bool bSaveWallet)\nvoid\nWipeWallet ()\nDECLARE_DYNAMIC_MULTICAST_DELEGATE_OneParam (FOnWalletWiped, USolanaWallet *,\nWallet)\nbool\nIsWalletLocked () const\nbool\nSetDerivationPath (const FDerivationPath &DerivationPath)\nbool\nGetAccountsFromPath (FDerivationPath Path, int32 NumAccounts, TArray< FAccount > &OutAccounts) const\nUWalletAccount *\nGetAccountFromGenIndex (int32 GenIndex) const\nUWalletAccount *\nGenerateAccountFromGenIndex (int32 GenIndex)\nuint32\nGetNextAccountIndexToGenerate () const\nUWalletAccount *\nGenerateNewAccount ()\nUWalletAccount *\nImportAccountFromPrivateKey (FString PrivateKey)\nUWalletAccount *\nImportAccountFromPublicKey (FString PublicKey)\nvoid\nRemoveAccount (UWalletAccount *Account)\nTArray< UWalletAccount * >\nGetAccounts () const\nStatic Public Member Functions\nType\nFunction\nstatic bool\nIsMnemonicValid (FString Mnemonic)\nstatic TArray< FDerivationPath >\nGetDerivationPaths ()\nstatic void\nClipboardCopy (FString String)\nPublic Attributes\nFOnMnemonicUpdatedFOnMnemonicUpdated\nOnMnemonicUpdatedOnMnemonicUpdated\nFOnWalletWiped\nOnWalletWiped\nDetailed Description ​\nUSolanaWallet\nThis class abstracts a wallet for the Solana network and it is made up of:\na mnemonic phrase to generate new accounts\na derivation path to generate new accounts\na save slot name to save the wallet on disk\na password to encrypt the wallet on disk\na list of accounts either generated from the mnemonic phrase or imported from a public or private key\nMember Function Documentation ​\nClipboardCopy() ​\nstatic void USolanaWallet::ClipboardCopy(FString String)static\nCopy the string parameter to the system clipboard.\nParameters:\nString: The string to copy.\nDECLARE_DYNAMIC_MULTICAST_DELEGATE_OneParam() [1/2] ​\nUSolanaWallet::DECLARE_DYNAMIC_MULTICAST_DELEGATE_OneParam(FOnMnemonicUpdated ,FString ,Mnemonic )\nCalled when mnemonic is set, loaded or erased.\nParameters:\nMnemonic: The Updated Mnemonic\nDECLARE_DYNAMIC_MULTICAST_DELEGATE_OneParam() [2/2] ​\nUSolanaWallet::DECLARE_DYNAMIC_MULTICAST_DELEGATE_OneParam(FOnWalletWiped ,USolanaWallet * ,Wallet )\nCalled when the wallet get wiped\nParameters:\nWallet: The wiped wallet\nDoesWalletExist() ​\nbool USolanaWallet::DoesWalletExist()const\nCheck if there is an existing file for this wallet.\nReturns:\nWhether the wallet file already exists or not.\nGenerateAccountFromGenIndex() ​\nUWalletAccount * USolanaWallet::GenerateAccountFromGenIndex(int32 GenIndex)\nGenerate an account with the given generation index\nParameters:\nGenIndex: The generation index\nReturns:\nThe generated UWalletAccount.\nGenerateMnemonic() ​\nbool USolanaWallet::GenerateMnemonic(FString & MnemonicString)\nGenerate a mnemonic if no mnemonic exists in this wallet\nParameters:\nMnemonicString: the mnemonic string currently in use.\nReturns:\nWhether the mnemonic has been generated or not.\nGenerateNewAccount() ​\nUWalletAccount * USolanaWallet::GenerateNewAccount()\nGenerate a new account increasing the generation index\nReturns:\nThe generated account\nGetAccountFromGenIndex() ​\nUWalletAccount * USolanaWallet::GetAccountFromGenIndex(int32 GenIndex)const\nGet the account corresponding to the given generation index if it has been already generated\nParameters:\nGenIndex: The generation index\nReturns:\nThe corresponding UWalletAccount\nGetAccounts() ​\nTArray< UWalletAccount * > USolanaWallet::GetAccounts()const\nGet all accounts in this wallet\nReturns:\nThe list of account for this wallet\nGetAccountsFromPath() ​\nbool USolanaWallet::GetAccountsFromPath(FDerivationPath Path,int32 NumAccounts,TArray< FAccount > & OutAccounts)const\nGet accounts for a specific derivation path\nParameters:\nPath: The DerivationPath\nNumAccounts: The number of accounts to retrieve\nOutAccounts: The list of accounts\nReturns:\nWhether the accounts were found for the given derivation path\nGetDerivationPaths() ​\nstatic TArray< FDerivationPath > USolanaWallet::GetDerivationPaths()static\nGet all available derivation paths\nReturns:\nThe list of available derivation paths\nGetMnemonicString() ​\nFString USolanaWallet::GetMnemonicString()const\nGet the Mnemonic string of this wallet\nReturns:\nThe mnemonic of this wallet\nGetNextAccountIndexToGenerate() ​\nuint32 USolanaWallet::GetNextAccountIndexToGenerate()const\nGet the index of the next account to generate\nReturns:\nThe index of the next account to generate\nGetSaveSlotName() ​\nconst FString & USolanaWallet::GetSaveSlotName()constinline\nGet the name of the file used to load or save this wallet\nReturns:\nName of the slot name file currently in use\nImportAccountFromPrivateKey() ​\nUWalletAccount * USolanaWallet::ImportAccountFromPrivateKey(FString PrivateKey)\nCreate an account from a private key\nParameters:\nPrivateKey: The private key\nReturns:\nThe created account\nImportAccountFromPublicKey() ​\nUWalletAccount * USolanaWallet::ImportAccountFromPublicKey(FString PublicKey)\nCreate an account from a public key\nParameters:\nPublicKey: The public key\nReturns:\nThe created account.\nIsMnemonicValid() ​\nstatic bool USolanaWallet::IsMnemonicValid(FString Mnemonic)static\nCheck if a Mnemonic string is valid.\nParameters:\nMnemonic: The Mnemonic to check\nReturns:\nWhether the mnemonic is valid or not\nIsWalletLocked() ​\nbool USolanaWallet::IsWalletLocked()const\nWhether the wallet is locked or not\nReturns:\nWhether the wallet is locked or not\nLockWallet() ​\nvoid USolanaWallet::LockWallet(bool bSaveWallet)\nLock the wallet, deleting mnemonic and private keys from memory\nReturns\nWhether the lock was successful or not\nRemoveAccount() ​\nvoid USolanaWallet::RemoveAccount(UWalletAccount * Account)\nRemove an account from this wallet\nParameters\nAccount: The account to remove\nRestoreMnemonic() ​\nbool USolanaWallet::RestoreMnemonic(FString InMnemonic)\nRestore a mnemonic if no mnemonic exists in this wallet\nParameters:\nInMnemonic: The new Mnemonic\nReturns:\nWhether the mnemonic has been restored or not\nSaveWallet() ​\nbool USolanaWallet::SaveWallet()\nSave this wallet to disk to reload it later\nReturns:\nWhether the save was successful or not\nSetDerivationPath() ​\nbool USolanaWallet::SetDerivationPath(const FDerivationPath & DerivationPath)\nSet the derivation path for this wallet to derive new wallet address\nParameters:\nDerivationPathThe new DerivationPath\nReturns:\nWhether the new DerivationPath has been set or not\nSetPassword() ​\nbool USolanaWallet::SetPassword(FString NewPassword)\nSet or change the password\nParameters\nNewPassword: The new password\nReturns:\nWhether the new password has been set or not\nSetSaveSlotName() ​\nvoid USolanaWallet::SetSaveSlotName(FString NewSaveSlotName)\nSet the name of the file used to load or save this wallet\nParameters\nNewSaveSlotName: Name of the slot name file to use.\nUnlockWallet() ​\nbool USolanaWallet::UnlockWallet(FString Password)\nLoad and unlock this wallet from disk if password is correct\nReturns:\nWhether the unlock was successful or not\nWipeWallet() ​\nvoid USolanaWallet::WipeWallet()\nWipe the wallet from both memory and disk\nReturns:\nWhether the wipe was successful or not\nSolanaWalletManager ​\nUSolanaWalletManager Class Reference\nPublic Member Functions\nType\nFunction\nvirtual void\nInitialize (FSubsystemCollectionBase &Collection) override\nTArray< FString >\nGetSaveSlotList () const\nUSolanaWallet *\nCreateNewWallet ()\nUSolanaWallet *\nGetOrCreateWallet (const FString &SlotName)\nvoid\nRegisterWallet (USolanaWallet *Wallet)\nMember Function Documentation ​\nCreateNewWallet() ​\nUSolanaWallet * USolanaWalletManager::CreateNewWallet()\nCreate a new wallet\nReturns:\nThe created USolanaWallet\nGetOrCreateWallet() ​\nUSolanaWallet * USolanaWalletManager::GetOrCreateWallet(const FString & SlotName)\nGet a wallet from a slot name, create a new one if not exists\nParameters:\nSlotName: The slot name\nReturns\nThe created or retrieved account\nGetSaveSlotList() ​\nTArray< FString > USolanaWalletManager::GetSaveSlotList()const\nGet the list of available save slots\nReturns:\nThe array of available slots\nRegisterWallet() ​\nvoid USolanaWalletManager::RegisterWallet(USolanaWallet * Wallet)\nRegister a newly created wallet into the list of wallets\nParameters:\nWallet: The private key",
+  "content_hash": "2c12f6d64df3ed83559150ce83dd5f94232f3eef1b448cc790e3443b3fc2fad9",
+  "entities": [
+    "ATLAS",
+    "F-KIT",
+    "Solana"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-E096D3725E00BC22-01",
+      "text": "DECLARE_DYNAMIC_MULTICAST_DELEGATE_OneParam() [1/2] ​ USolanaWallet::DECLARE_DYNAMIC_MULTICAST_DELEGATE_OneParam(FOnMnemonicUpdated ,FString ,Mnemonic ) Called when mnemonic is set, loaded or erased.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E096D3725E00BC22",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E096D3725E00BC22-02",
+      "text": "Parameters: Mnemonic: The Updated Mnemonic DECLARE_DYNAMIC_MULTICAST_DELEGATE_OneParam() [2/2] ​ USolanaWallet::DECLARE_DYNAMIC_MULTICAST_DELEGATE_OneParam(FOnWalletWiped ,USolanaWallet * ,Wallet ) Called when the wallet get wiped Parameters: Wallet: The wiped wallet DoesWalletExist() ​ bool USolanaWallet::DoesWalletExist()const Check if there is an existing file for this wallet.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E096D3725E00BC22",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E096D3725E00BC22-03",
+      "text": "Returns: Whether the wallet file already exists or not.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E096D3725E00BC22",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E096D3725E00BC22-04",
+      "text": "GenerateAccountFromGenIndex() ​ UWalletAccount * USolanaWallet::GenerateAccountFromGenIndex(int32 GenIndex) Generate an account with the given generation index Parameters: GenIndex: The generation index Returns: The generated UWalletAccount.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E096D3725E00BC22",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E096D3725E00BC22-05",
+      "text": "GenerateMnemonic() ​ bool USolanaWallet::GenerateMnemonic(FString & MnemonicString) Generate a mnemonic if no mnemonic exists in this wallet Parameters: MnemonicString: the mnemonic string currently in use.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E096D3725E00BC22",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E096D3725E00BC22-06",
+      "text": "Returns: Whether the mnemonic has been generated or not.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E096D3725E00BC22",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-E096D3725E00BC22-07",
+      "text": "IsMnemonicValid() ​ static bool USolanaWallet::IsMnemonicValid(FString Mnemonic)static Check if a Mnemonic string is valid.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E096D3725E00BC22",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "ATLAS",
+    "F-KIT"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [
+    "Solana"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://build.staratlas.com/dev-resources/unreal-engine-tooling/f-kit-documentation",
+      "anchor_text": "Skip to content"
+    },
+    {
+      "url": "https://build.staratlas.com/",
+      "anchor_text": "Star Atlas Build"
+    },
+    {
+      "url": "https://discord.com/invite/staratlas",
+      "anchor_text": ""
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://build.staratlas.com/dev-resources/unreal-engine-tooling/f-kit-documentation",
+      "anchor_text": "Skip to content"
+    },
+    {
+      "url": "https://build.staratlas.com/",
+      "anchor_text": "Star Atlas Build"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://build.staratlas.com/dev-resources/unreal-engine-tooling/f-kit-documentation",
+    "final_url": "https://build.staratlas.com/dev-resources/unreal-engine-tooling/f-kit-documentation",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 52024,
+    "retrieved_at": "2026-07-13T01:04:30.829055Z",
+    "elapsed_ms": 174
+  }
+}

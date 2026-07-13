@@ -1,0 +1,14 @@
+{
+  "topic": "claims, faction, game, polis, record, remain, the, this",
+  "official_source_ids": [
+    "SRC-OFF-A887A417A8066E37"
+  ],
+  "community_source_ids": [
+    "SRC-HNN-232EC6F1D6301E88"
+  ],
+  "relationship": "COMMUNITY_ADDS_CONTEXT",
+  "finding": "Automated topic overlap on: claims, faction, game, polis, record, remain, the, this, time. Official authority is limited to the official wording; community context remains separately attributed.",
+  "confidence": "LOW",
+  "promotion_candidate": false,
+  "manual_review_required": true
+}

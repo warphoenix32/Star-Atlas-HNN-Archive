@@ -1,0 +1,280 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-3C5A5254EAC9E639",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47061447062803-What-is-a-faction-and-how-to-join",
+    "title": "What is a faction and how to join?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-03T17:01:59Z",
+    "updated_at": "2025-12-08T18:23:21Z",
+    "original_date_text": "2025-12-03T17:01:59Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://play.staratlas.com/",
+        "anchor_text": "PLAY"
+      },
+      {
+        "url": "https://play.staratlas.com/dac/",
+        "anchor_text": "https://play.staratlas.com/dac/"
+      },
+      {
+        "url": "https://lore.staratlas.com/",
+        "anchor_text": "https://lore.staratlas.com/"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “What is a faction and how to join?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "A faction is your organization in the universe of Star Atlas. There are 3 factions. You can choose between ONI, Ustur and MUD\nFactions in Star Atlas and their different advantages.\nTo join a faction, navigate to the PLAY and connect your preferred wallet. You will be prompted to select a faction.\nQuick Facts & Tips\nThere are different perks associated with the faction you choose. This means your in-game abilities will change, depending on whether you have chosen to be part of the MUD, ONI, or Ustur faction (see above). Your earnings help your nation’s overall leaderboard.\nFaction choice is permanent and cannot be changed! This means that the (Solana) account you use to register will not be able to be registered to a different faction later on.\nRegistration will cost a small gas fee, so make sure to have some SOL at the ready (0.03 SOL should suffice)\nTIP: Before choosing a faction, choose which DAC (Guild/Clan) better suits your in-game goals, because when you choose a faction, you can’t join a DAC from other factions! (You can find the current DAC list here: https://play.staratlas.com/dac/)\nTIP: Factions with fewer active members will have their members earn more compared to factions with more members (as an equal amount of resources is being distributed among a smaller number of players), an incentive to balance out faction population in the long run. If the faction you want to join has fewer members than others, it will give you a starting edge\nMUD Territory\nManus Ultimus Divinum, The Last Divine Hand, is a spacefaring faction of humans originating from their home planet of Earth. After uniting under a common cause inspired by a benevolent photoli scout, humans harnessed Earth’s resources to set off for the stars.\nUnder the contemporary leadership of Charon Gotti Jr., MUD Territory is established as the only legitimate human faction in the Council of Peace. Despite the dramatic losses in the Convergence War decades prior, MUD emerged as an industrial powerhouse in the region by securing diplomatic relations through fair trade with ONI and Ustur.\nMUD-controlled space provides proximity to raw materials that serve a core purpose in the component manufacturing process for distant astronautical travel and ballistics technology. Join MUD to ensure the perpetual fair and powerful leadership of humankind.\nFACTION TRAITS\nFirepower, Travel Distance\nUstur Sector\nUstur cybernetic sentient beings have an origin shrouded in complex mystery. One legend tells of a Dyson sphere-powered supercomputer harnessing the energy of a magnetar class neutron star. The energy throughput allowed the installed AI to advance beyond its physical location and withdrew from the parent machine without a trace.\nA millennium later, the Ustur appeared in a physicalized form through advanced soft form robotics. However, none of them are able to recall their origin. But it is thought that their individual bodies contain a sliver of the original parent AI in pursuit of transcendent awakening and experiencing the universe through an organic medium.\nBecome a part of the Ustur Sector to form your own path in this physical universe and ascend the ranks of every observable spiritual plane. Receive access to rare minerals vital in the formation of highly nimble thruster tech and top-tier hull reinforcing pipelines.\nFACTION TRAITS\nHull Strength, Maneuvering\nONI Region\nThe ONI faction is a harmonious consortium of diverse species. The people of the Om sector, Segal, Akenat, and Neuno systems collectively set aside their differences in the hopes of a more bountiful life in space.\nAfter the near-total wartime extinction of the Sogmian race, the Mierese, Punaab, and Photoli united firmly together under a strategic military pact to save their desperate ally. Through this pact, a breakthrough weapon of war was constructed. Before retaliation took hold to destroy the region’s life force, a truce was soon declared for the betterment of all factions, and peace was restored throughout the region.\nThe benefits of joining the ONI Region lie primarily in access to densely clustered raw materials within their controlled space. These materials are highly coveted in crafting advanced stealth and radar technologies, lending to the discovery of even greater breakthroughs for all sentient life.\nFACTION TRAITS\nStealth, Scanning DistanceLearn more about Star Atlas lore: https://lore.staratlas.com/",
+  "content_hash": "b592b793a8c7ec09ada8818aca08a41fcae7ba11975bfed3259a5fd4451eb151",
+  "entities": [
+    "ATLAS",
+    "CORE",
+    "Solana"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-3C5A5254EAC9E639-01",
+      "text": "A faction is your organization in the universe of Star Atlas.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-3C5A5254EAC9E639",
+      "publication_date": "2025-12-03T17:01:59Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-3C5A5254EAC9E639-02",
+      "text": "You can choose between ONI, Ustur and MUD Factions in Star Atlas and their different advantages.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-3C5A5254EAC9E639",
+      "publication_date": "2025-12-03T17:01:59Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-3C5A5254EAC9E639-03",
+      "text": "To join a faction, navigate to the PLAY and connect your preferred wallet.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-3C5A5254EAC9E639",
+      "publication_date": "2025-12-03T17:01:59Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-3C5A5254EAC9E639-04",
+      "text": "Quick Facts & Tips There are different perks associated with the faction you choose.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-3C5A5254EAC9E639",
+      "publication_date": "2025-12-03T17:01:59Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-3C5A5254EAC9E639-05",
+      "text": "This means your in-game abilities will change, depending on whether you have chosen to be part of the MUD, ONI, or Ustur faction (see above).",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-3C5A5254EAC9E639",
+      "publication_date": "2025-12-03T17:01:59Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-3C5A5254EAC9E639-06",
+      "text": "Your earnings help your nation’s overall leaderboard.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-3C5A5254EAC9E639",
+      "publication_date": "2025-12-03T17:01:59Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-3C5A5254EAC9E639-07",
+      "text": "Faction choice is permanent and cannot be changed!",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-3C5A5254EAC9E639",
+      "publication_date": "2025-12-03T17:01:59Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-3C5A5254EAC9E639-08",
+      "text": "This means that the (Solana) account you use to register will not be able to be registered to a different faction later on.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-3C5A5254EAC9E639",
+      "publication_date": "2025-12-03T17:01:59Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-3C5A5254EAC9E639-09",
+      "text": "Registration will cost a small gas fee, so make sure to have some SOL at the ready (0.03 SOL should suffice) TIP: Before choosing a faction, choose which DAC (Guild/Clan) better suits your in-game goals, because when you choose a faction, you can’t join a DAC from other factions!",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-3C5A5254EAC9E639",
+      "publication_date": "2025-12-03T17:01:59Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-3C5A5254EAC9E639-10",
+      "text": "(You can find the current DAC list here: https://play.staratlas.com/dac/) TIP: Factions with fewer active members will have their members earn more compared to factions with more members (as an equal amount of resources is being distributed among a smaller number of players), an incentive to balance out faction population in the long run.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-3C5A5254EAC9E639",
+      "publication_date": "2025-12-03T17:01:59Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-3C5A5254EAC9E639-11",
+      "text": "If the faction you want to join has fewer members than others, it will give you a starting edge MUD Territory Manus Ultimus Divinum, The Last Divine Hand, is a spacefaring faction of humans originating from their home planet of Earth.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-3C5A5254EAC9E639",
+      "publication_date": "2025-12-03T17:01:59Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-3C5A5254EAC9E639-12",
+      "text": "After uniting under a common cause inspired by a benevolent photoli scout, humans harnessed Earth’s resources to set off for the stars.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-3C5A5254EAC9E639",
+      "publication_date": "2025-12-03T17:01:59Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-3C5A5254EAC9E639-13",
+      "text": "Under the contemporary leadership of Charon Gotti Jr., MUD Territory is established as the only legitimate human faction in the Council of Peace.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-3C5A5254EAC9E639",
+      "publication_date": "2025-12-03T17:01:59Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-3C5A5254EAC9E639-14",
+      "text": "Despite the dramatic losses in the Convergence War decades prior, MUD emerged as an industrial powerhouse in the region by securing diplomatic relations through fair trade with ONI and Ustur.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-3C5A5254EAC9E639",
+      "publication_date": "2025-12-03T17:01:59Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-3C5A5254EAC9E639-15",
+      "text": "MUD-controlled space provides proximity to raw materials that serve a core purpose in the component manufacturing process for distant astronautical travel and ballistics technology.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-3C5A5254EAC9E639",
+      "publication_date": "2025-12-03T17:01:59Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "CORE",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [
+    "MUD",
+    "ONI",
+    "Ustur",
+    "Convergence War"
+  ],
+  "actors": [],
+  "organizations": [
+    "Solana"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://play.staratlas.com/",
+      "anchor_text": "PLAY"
+    },
+    {
+      "url": "https://play.staratlas.com/dac/",
+      "anchor_text": "https://play.staratlas.com/dac/"
+    },
+    {
+      "url": "https://lore.staratlas.com/",
+      "anchor_text": "https://lore.staratlas.com/"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://play.staratlas.com/",
+      "anchor_text": "PLAY"
+    },
+    {
+      "url": "https://play.staratlas.com/dac/",
+      "anchor_text": "https://play.staratlas.com/dac/"
+    },
+    {
+      "url": "https://lore.staratlas.com/",
+      "anchor_text": "https://lore.staratlas.com/"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47061447062803-What-is-a-faction-and-how-to-join",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.165222Z"
+  }
+}

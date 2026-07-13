@@ -1,0 +1,318 @@
+{
+  "source": {
+    "source_id": "SRC-IH-937EDF0340335E63",
+    "url_id": "URL-937EDF0340335E63",
+    "url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-128/",
+    "inventory_url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-128",
+    "title": "Star Atlas Weekly News Recap #128",
+    "author": "Intergalactic Herald",
+    "publisher": "Intergalactic Herald",
+    "published_at": "2024-09-01T17:00:00",
+    "updated_at": "2024-08-30T21:20:20",
+    "retrieved_at": "2026-07-12T22:05:53.778081Z",
+    "document_type": "NEWSLETTER",
+    "source_role": "CURATED_SUMMARY",
+    "source_classification": "CURATED_SUMMARY",
+    "classification_rationale": "Weekly newsletter/recap aggregates developments and linked sources.",
+    "wordpress_type": "posts"
+  },
+  "summary": {
+    "neutral_abstract": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week. We are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us. We are launching a Star Atlas merch store. Please check it out at Intergalactic",
+    "historical_value": "Contemporary Intergalactic Herald publication preserved with role and attribution boundaries.",
+    "current_validity_warning": "Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources."
+  },
+  "article_text": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week.\nWe are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us.\nWe are launching a Star Atlas merch store. Please check it out at Intergalactic Gear.\nWe are creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic Coalition.\nIf you would like to support our efforts, donations can be sent to intergalacticherald.sol\nStar Atlas: Crew Card Changes!!\nBeyond the Horizon posted a video about the changes to the Star Atlas crew cards.\nStar Atlas: Tensor Tutorial\nBeyond the Horizon posted a video of a tutorial about Tensor.\nSTAR ATLAS #250 6 ANOMALY CREW!? WHAT!? TENSOR TRADING IS LIVE!\nMetaVerse Explorer posted a video about Star Atlas updates.\nMetaverse Nomads #161 Star Atlas Crew Cards Episode 1\nMetaverse Nomads posted a video of their weekly Star Atlas livestream.\nWeekly Star Atlas Newsletter #144\nAephia published their weekly Star Atlas newsletter.\nThe Atlas Brew #126\nStar Atlas TV posted a video of the latest Atlas Brew.\nStar Atlas SAGE Beginner Guide & Tips For New Players (Q3 2024)\nMetaVerse Explorer posted a video of a beginner guide for Star Atlas SAGE.\nThe Lore Keepers #7\nStar Atlas TV posted a video of the latest Lore Keepers.\nStar Atlas Personality Traits\nOCG Thor posted a video about crew personality traits.",
+  "content_hash": "d4f231f3f1bff505d4d1d789a4cd0b9f1c83132463ba194276e5e59d9d6933a2",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [
+    "2024"
+  ],
+  "external_sources": [
+    {
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=RjxdcuSyCnI",
+      "anchor_text": "Star Atlas crew cards"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=4LCJqJfIykM",
+      "anchor_text": "tutorial about Tensor"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=wTuvRuBg-nM",
+      "anchor_text": "Star Atlas updates"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=i1l6OsA5eWk",
+      "anchor_text": "weekly Star Atlas livestream"
+    },
+    {
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-144/",
+      "anchor_text": "weekly Star Atlas newsletter"
+    },
+    {
+      "url": "https://www.youtube.com/live/5VXDeMnXr3Y",
+      "anchor_text": "Atlas Brew"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ST2k1CYglsI",
+      "anchor_text": "beginner guide for Star Atlas SAGE"
+    },
+    {
+      "url": "https://www.youtube.com/live/pca9jywRBYA",
+      "anchor_text": "Lore Keepers"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=trOSeYNm_e8",
+      "anchor_text": "crew personality traits"
+    }
+  ],
+  "primary_source_relationships": [
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=RjxdcuSyCnI",
+      "anchor_text": "Star Atlas crew cards"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=4LCJqJfIykM",
+      "anchor_text": "tutorial about Tensor"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=wTuvRuBg-nM",
+      "anchor_text": "Star Atlas updates"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=i1l6OsA5eWk",
+      "anchor_text": "weekly Star Atlas livestream"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-144/",
+      "anchor_text": "weekly Star Atlas newsletter"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/live/5VXDeMnXr3Y",
+      "anchor_text": "Atlas Brew"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=ST2k1CYglsI",
+      "anchor_text": "beginner guide for Star Atlas SAGE"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/live/pca9jywRBYA",
+      "anchor_text": "Lore Keepers"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=trOSeYNm_e8",
+      "anchor_text": "crew personality traits"
+    }
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Verify which outbound links are primary sources and preserve creator attribution during promotion."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-128&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 5284,
+    "elapsed_ms": 1589,
+    "attempts": [
+      {
+        "endpoint": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-128&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "http_status": 200,
+        "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-128&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "content_type": "application/json; charset=UTF-8",
+        "response_size": 5284,
+        "elapsed_ms": 1589
+      }
+    ]
+  },
+  "source_lineage": {
+    "publication": "Intergalactic Herald",
+    "publication_role": "CURATED_SUMMARY",
+    "relationship": "CURATED_SUMMARY_OF",
+    "primary_sources": [
+      {
+        "publication": "Star Atlas crew cards",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=RjxdcuSyCnI",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas crew cards"
+      },
+      {
+        "publication": "tutorial about Tensor",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=4LCJqJfIykM",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: tutorial about Tensor"
+      },
+      {
+        "publication": "Star Atlas updates",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=wTuvRuBg-nM",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas updates"
+      },
+      {
+        "publication": "weekly Star Atlas livestream",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=i1l6OsA5eWk",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: weekly Star Atlas livestream"
+      },
+      {
+        "publication": "weekly Star Atlas newsletter",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-144/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article with anchor text: weekly Star Atlas newsletter"
+      },
+      {
+        "publication": "Atlas Brew",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/live/5VXDeMnXr3Y",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: Atlas Brew"
+      },
+      {
+        "publication": "beginner guide for Star Atlas SAGE",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=ST2k1CYglsI",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: beginner guide for Star Atlas SAGE"
+      },
+      {
+        "publication": "Lore Keepers",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/live/pca9jywRBYA",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: Lore Keepers"
+      },
+      {
+        "publication": "crew personality traits",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=trOSeYNm_e8",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: crew personality traits"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "publication": "Intergalactic Gear",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticgear.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Intergalactic Coalition",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticcoalition.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      }
+    ],
+    "original_creators": [
+      "Aephia",
+      "Star Atlas"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Star Atlas crew cards",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=RjxdcuSyCnI"
+      },
+      {
+        "from": "tutorial about Tensor",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=4LCJqJfIykM"
+      },
+      {
+        "from": "Star Atlas updates",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=wTuvRuBg-nM"
+      },
+      {
+        "from": "weekly Star Atlas livestream",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=i1l6OsA5eWk"
+      },
+      {
+        "from": "weekly Star Atlas newsletter",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-144/"
+      },
+      {
+        "from": "Atlas Brew",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/live/5VXDeMnXr3Y"
+      },
+      {
+        "from": "beginner guide for Star Atlas SAGE",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=ST2k1CYglsI"
+      },
+      {
+        "from": "Lore Keepers",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/live/pca9jywRBYA"
+      },
+      {
+        "from": "crew personality traits",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=trOSeYNm_e8"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  }
+}

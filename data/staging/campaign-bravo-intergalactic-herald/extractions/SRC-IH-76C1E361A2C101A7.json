@@ -1,0 +1,180 @@
+{
+  "source": {
+    "source_id": "SRC-IH-76C1E361A2C101A7",
+    "url_id": "URL-76C1E361A2C101A7",
+    "url": "https://intergalacticherald.com/star-atlas-recap/recap-13-atlas-brew-163-c4-qa-part-2/",
+    "inventory_url": "https://intergalacticherald.com/star-atlas-recap/recap-13-atlas-brew-163-c4-qa-part-2",
+    "title": "Recap 13: Atlas Brew 163 – C4 QA, Part 2",
+    "author": "Intergalactic Herald",
+    "publisher": "Intergalactic Herald",
+    "published_at": "2025-06-18T21:00:00",
+    "updated_at": "2025-06-19T22:29:49",
+    "retrieved_at": "2026-07-12T22:04:46.578219Z",
+    "document_type": "EVENT_RECAP",
+    "source_role": "CURATED_SUMMARY",
+    "source_classification": "CURATED_SUMMARY",
+    "classification_rationale": "Event recap summarizes an externally originated event, broadcast, or discussion.",
+    "wordpress_type": "posts"
+  },
+  "summary": {
+    "neutral_abstract": "In this episode, hear an AI summary of the latest Star Atlas community event. Full video recordings can be found on the YouTube channel of Star Atlas TV at https://www.youtube.com/@staratlastv. We are launching a Star Atlas merch store. Please check it out at Intergalactic Gear. We are creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic",
+    "historical_value": "Contemporary Intergalactic Herald publication preserved with role and attribution boundaries.",
+    "current_validity_warning": "Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources."
+  },
+  "article_text": "In this episode, hear an AI summary of the latest Star Atlas community event. Full video recordings can be found on the YouTube channel of Star Atlas TV at https://www.youtube.com/@staratlastv.\nAlso, check out my newsletter and podcast.\nListen on Apple Podcasts\nListen on Spotify\nWe are launching a Star Atlas merch store. Please check it out at Intergalactic Gear.\nWe are creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic Coalition.\nIf you would like to support our efforts, donations can be sent to intergalacticherald.sol\nPodcast Transcript\nThe YouTube video “Atlas Brew #163 – C4 Q&A, Part 2” provided a comprehensive update on upcoming events and detailed insights into the C4 update for Star Atlas, featuring a Q&A session with Brett.\nThe noteworthy news began with the announcement that the Copa and Jon Awards are coming very soon, with nomination forms for guilds and community members expected to open the current week. Guilds will need to present their past year’s accomplishments for Copa, while the community can nominate for the Johnny Awards. During Community Week, a challenge against the Star Atlas team in Unreal Engine (UE) events will offer prizes. Other immediate events include an unofficial poker night with a guaranteed prize pool of 200,000 Atlas and a 100% player payout beyond the first ten participants, and the Lore Keepers event which is highly recommended for its alpha content. The popular Galia Games Night will also continue.\nThe team showcased sneak peeks of new assets, including the Calico SC, a new Gatling gun model, and a “crazy” looking sniper rifle, signaling a “wild” summer update for gunplay. Updates from the DAO highlighted the passage of the media expansion and writing systems proposals, while the in-person community meetup proposal failed. However, the Iris Bounty passed, enabling community members to apply for funding to host their own in-person meetups. The council also holds office hours on Saturdays for community engagement and questions. A significant development is an AI tool created by BB, which compiles C4 information from past events and podcasts, offering “crazy accurate” replies to questions and a mind map of C4 updates. This tool is accessible with a Google account and will be continuously updated with new information.\nThe Q&A session covered various aspects of the C4 update:\nCrafting habs will be constructed on starbases using existing CSS hab assets that were sold with land, which are yet to be distributed. These assets are essential for creating crafting habs.\nFor regions, they will be defined on-chain as polylines, a series of connected points, rather than square grids. The map will remain 2D without a Z-coordinate for simplicity, though future minimal Z-levels are a possibility. Void regions between owned territories will be neutral MRZ (Material Resource Zone) where combat and actions are permitted. The system differentiates between border regions, which neighbor unowned territories or opposing starbases, and safe regions, which are inaccessible to opposing factions unless a neighboring region is neutralized. This allows for tactical maneuvers, such as attacking supply routes in border regions. Visual cues will differentiate region types, like solid blue for safe regions or outlines for border and neutral regions. Lower zones are designated regions that are always safe for a particular faction.\nClaim stakes are universal across all planet types and can be placed on any suitable location. Placing multiple claim stakes on a planet doubles production, as each stake is an independent unit. The design team is still deciding if claim stakes will have minor functions without additional buildings. Claim stake building slots cannot be rented. While higher-tier buildings might be placeable on lower-tier claim stakes, this depends on specific design decisions. Notably, individual building tokens will not be created; instead, players will spend resources directly to construct buildings on their claim stakes. Deconstruction will return slightly fewer resources than initially invested, creating a burn mechanism. All claim stake data is stored on-chain. A critical point is that if a starbase is taken over or down-levels, and insufficient slots remain, your claim stake will be evicted, respawn elsewhere, and all buildings will be destroyed with token loss. However, region ownership alone does not trigger eviction. Deconstruction speed will be additive based on the number of buildings. Existing mining drill flat packs and upgrade bundles will be converted into equivalent resources, maintaining their promised utility.\nMoving resources from a claim stake requires a fleet to land, load/unload resources, a process governed by a fleet loading rate (a new ship stat). Ships are vulnerable during this period if not in a safe region. Claim stakes themselves are treated as cargo that ships can transport and deploy from a starbase’s inventory. Systems are defined as singular points on the map, with planets and starbases collocated at that point; a future sub-map for detailed system views is planned.\nTraveling speed will be adjusted to be slower than it is currently, aiming for more tactical combat. This speed will be further refined during the PTR and potentially adjusted with increasing player density. Warp lanes (previously star paths) enable fast, safe travel across owned space with no fuel cost, no spool time, and no vulnerability. These are tactically important for establishing “beachheads” and protecting supply lines. Standard subwarp and warp movement will still exist; subwarp allows for attacks, while warp will have a spool-up time during which a ship can be attacked before jumping.\nThe Public Test Realm (PTR) will be less rigid than Holosim, serving as a test environment where players can access various ships and assets without needing to use their own, allowing for diverse testing scenarios.\nIn combat mechanics, it’s not a 1v1 instance; attacks are singular transactions, allowing multiple ships to attack one target. Initial PTR testing for ship-to-ship combat will use a “last hit” mechanic for LP and loot, though starbase LP is still being finalized. When a ship is destroyed, its components are currently burned, and only the cargo hold is lootable. The cargo is dropped in space, and the last hitter receives an exclusivity period (approximately one hour) to retrieve it. Salvage ships will be more efficient at looting. After the exclusivity period, the loot becomes accessible to anyone, fostering “scavenger” gameplay. The possibility of bomber ships having buffs for attacking starbases is being considered, aligning with the goal of giving every ship type a unique specialization.\nFinally, repair ships will gain utility in C4, capable of repairing starbases (the sole method of repair) and fleets in space. However, repairing a fleet will cause the repairing fleet to reload, making it suboptimal for primary combat fleets. Refuel utility is not planned for C4. The team emphasized their commitment to using community feedback from the PTR to refine game mechanics and encouraged participation in DAO discussions and events.",
+  "content_hash": "09fb9a0c9616b45bac082a96f4755f8bb83bab405719ff945e3c2c58d669fa91",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [],
+  "external_sources": [
+    {
+      "url": "https://www.youtube.com/@staratlastv",
+      "anchor_text": "https://www.youtube.com/@staratlastv"
+    },
+    {
+      "url": "https://podcasts.apple.com/us/podcast/star-atlas-week-in-review-podcast/id1678661043",
+      "anchor_text": "Listen on Apple Podcasts"
+    },
+    {
+      "url": "https://open.spotify.com/show/0aHDjCqFpy8Lzrkilv8n16",
+      "anchor_text": "Listen on Spotify"
+    },
+    {
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    }
+  ],
+  "primary_source_relationships": [
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/@staratlastv",
+      "anchor_text": "https://www.youtube.com/@staratlastv"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://podcasts.apple.com/us/podcast/star-atlas-week-in-review-podcast/id1678661043",
+      "anchor_text": "Listen on Apple Podcasts"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://open.spotify.com/show/0aHDjCqFpy8Lzrkilv8n16",
+      "anchor_text": "Listen on Spotify"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    }
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Verify which outbound links are primary sources and preserve creator attribution during promotion.",
+      "Source lineage: attribution requires manual confirmation."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=recap-13-atlas-brew-163-c4-qa-part-2&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 12519,
+    "elapsed_ms": 1740,
+    "attempts": [
+      {
+        "endpoint": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=recap-13-atlas-brew-163-c4-qa-part-2&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "http_status": 200,
+        "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=recap-13-atlas-brew-163-c4-qa-part-2&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "content_type": "application/json; charset=UTF-8",
+        "response_size": 12519,
+        "elapsed_ms": 1740
+      }
+    ]
+  },
+  "source_lineage": {
+    "publication": "Intergalactic Herald",
+    "publication_role": "CURATED_SUMMARY",
+    "relationship": "CURATED_SUMMARY_OF",
+    "primary_sources": [
+      {
+        "publication": "Atlas Brew 163",
+        "author": "UNKNOWN",
+        "url": "UNKNOWN",
+        "organization": "Star Atlas",
+        "evidence": "Explicitly named in publication title"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "publication": "@Staratlastv",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/@staratlastv",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Listen on Apple Podcasts",
+        "author": "UNKNOWN",
+        "url": "https://podcasts.apple.com/us/podcast/star-atlas-week-in-review-podcast/id1678661043",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Listen on Spotify",
+        "author": "UNKNOWN",
+        "url": "https://open.spotify.com/show/0aHDjCqFpy8Lzrkilv8n16",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Intergalactic Gear",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticgear.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Intergalactic Coalition",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticcoalition.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Atlas Brew 163",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "UNKNOWN"
+      }
+    ],
+    "lineage_confidence": "MEDIUM"
+  }
+}

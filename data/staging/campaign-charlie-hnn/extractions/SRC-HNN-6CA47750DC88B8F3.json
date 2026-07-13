@@ -1,0 +1,306 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-6CA47750DC88B8F3",
+    "url_id": "URL-6CA47750DC88B8F3",
+    "url": "https://medium.com/the-hologram/the-road-to-sage-a-guide-to-the-tech-demo-part-2-45c58d55c237",
+    "title": "The Road to SAGE: A Guide to the Tech Demo (Part 2)",
+    "author": "JALLDIGITAL",
+    "publisher": "The Hologram",
+    "publication_identity": "The Hologram (Medium publication)",
+    "published_at": "2023-02-06T23:37:55Z",
+    "updated_at": "2023-02-08T03:57:14Z",
+    "retrieved_at": "2026-07-13T00:08:10.791772Z",
+    "document_type": "REFERENCE",
+    "source_role": "REFERENCE",
+    "publication_role": "REFERENCE",
+    "classification_rationale": "Publication is structured as a guide or reference."
+  },
+  "source_lineage": {
+    "publication": "The Hologram (Medium publication)",
+    "publication_role": "REFERENCE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "publication": "ATLAS",
+        "author": "UNKNOWN",
+        "url": "https://coinmarketcap.com/currencies/star-atlas/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "fuel",
+        "author": "UNKNOWN",
+        "url": "https://play.staratlas.com/market/fueL3hBZjLLLJHiFH9cqZoozTG3XQZ53diwFPwbzNim/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "marketplace",
+        "author": "UNKNOWN",
+        "url": "https://play.staratlas.com/market/?category=resource&itemClass=consumable",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Manual",
+        "author": "UNKNOWN",
+        "url": "https://staratlas.com/newsroom/game-manuals",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://staratlas.com/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [
+      "JALLDIGITAL"
+    ],
+    "attribution_chain": [
+      {
+        "from": "ATLAS",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REFERENCES",
+        "url": "https://coinmarketcap.com/currencies/star-atlas/"
+      },
+      {
+        "from": "fuel",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REFERENCES",
+        "url": "https://play.staratlas.com/market/fueL3hBZjLLLJHiFH9cqZoozTG3XQZ53diwFPwbzNim/"
+      },
+      {
+        "from": "marketplace",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REFERENCES",
+        "url": "https://play.staratlas.com/market/?category=resource&itemClass=consumable"
+      },
+      {
+        "from": "Manual",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REFERENCES",
+        "url": "https://staratlas.com/newsroom/game-manuals"
+      },
+      {
+        "from": "Star Atlas",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REFERENCES",
+        "url": "https://staratlas.com/"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "This reference published by The Hologram on 2023-02-06 documents “The Road to SAGE: A Guide to the Tech Demo (Part 2).” Its surviving text addresses governance, economy, game development, community, lore, technology. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "The Road to SAGE: A Guide to the Tech Demo (Part 2)\nJALLDIGITAL5 min read·Feb 6, 2023\n--\nListen\nShare\nHello dreamers of the metaverse. Today I bring you the second part of the guide for the first stage of the Roadmap in the phase known as the Tech Demo. We will describe each of the necessary steps to reach a complete launch of this first phase and we will discuss some extra details that you cannot miss.\nStar Path Network\nPress enter or click to view image in full sizeStar Gate\nThe movement of ships within the Galia map is not just dependent on their impulse engines or their warping engines. The Star Path is a network formed by all systems belonging to the faction, a safe and fast route for transportation through known territory at the cost of a small commission of ATLAS and fuel.\nThe cost in ATLAS depends on the level of the Star Base within the system from where we want to leave and the amount of privilege points we have deposited in reducing these fees. This mechanism facilitates transportation and allows smaller ships to participate in different faction tasks in a more balanced way. We will see in the future if this route will always be the most used or if many will prefer to use their own engines, this may vary depending on the cost of fuel in the market, the urgency of the trip and the safety of adjacent sectors.\nR20\nPress enter or click to view image in full sizeResources and Materials found in the Middle Zone\nMining and resource gathering are the foundation of the economy within Star Atlas. R20 will allow for the creation of a wide range of consumables for both Star Bases and ships, as well as future upgrades.\nThe extraction difficulty varies depending on the hardness of each resource, which affects the mining or collection time. The amount of resources or wealth level is determined by the type of planet or distance from the safe zone. We usually find the rarest resources as we venture further into the medium-risk zone, this is an extra incentive for explorers and fortune seekers.\nR4 Crafting\nPress enter or click to view image in full sizeR4\nThe R4 resources are the most well-known, and we currently need them to make our ships produce ATLAS within SCORE, the current minigame-staking that is the center of the utility of ships as NFTs. If you want to learn more about these, you can find them in the Star Atlas marketplace.\nWith the launch of SAGE, these resources will no longer be sold directly by the DAO and will be entirely processed by the players. Keep in mind that the Tech Demo will be within the Solana Devnet, so in this first phase it does not affect its supply in the Marketplace, but in the future when the game’s economy is released.\nThese resources are essential for the operation of ships and even Star Bases. Each one fulfills a function, ammunition allows for battles and direct resource gathering from asteroids, food allows the crew to operate at their maximum level without penalties, tool kits are essential for repairing damage received by our ships in battle once they are refueled at a Star Base or at the Central Space Station, as well as fuel, which allows us to move around the map. Refueling is a condition for reloading ammunition, fuel and tool kits until the mechanics that allow specialized ships to fulfill their functions are released.\nGalactic Map with 51 Star Systems\nExploring the Galia map is one of the player’s main objectives in SAGE. This is the first experience we will have within the game thanks to the information provided by the team, a delivery called The Treasure Hunt, the first truly play-to-earn interaction where there will be high-value loot, even a Fimbul BYOS Tankship, a legendary rarity Commander-sized ship valued at over 90,000 USDC, whoever finds this rarity will truly carry the envy of the entire community:).\nInitially, we do not know if we will have all the Star Systems from the Tech Demo to explore, but we will be able to discover how the resources are distributed and the different ways to explore this Universe. Each movement between sectors is recorded on the blockchain, so once we start playing many can create maps of all the explored places and their resources through the interaction of their ships with the game, at the start it’s a race to be the first to arrive and find the hidden secrets.\nEnd of Part 2\nTo finish this second part of the guide, I must highlight that everything discussed corresponds to information revealed by the team through talks and some written sources, in addition to the Manual. Everything revealed in the SAGE manual is prone to changes and should be taken into account when making any decisions.\nFor now, I bid farewell friends of the metaverse, I hope that soon we will be exploring Galia in search of that Tankship, in the meantime, we will be attentive to all the important news from the team.\nAbout The Hologram\nThe Hologram is Star Atlas’ first and only independent news network. Our vision is to become the most trusted source of information about Star Atlas and a voice for the whole community. Readers can expect a high standard from our reporting and staff. Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.\nThe Hologram is not endorsed or paid by the Star Atlas team. Any information published by The Hologram nor its writers should be considered as informational in nature and does not constitute any financial advice.",
+  "content_hash": "b0e4eba80bfe2ea2894c29fed6da200892114609a7635fe1df7269cfa32219ea",
+  "major_topics": [
+    "governance",
+    "economy",
+    "game development",
+    "community",
+    "lore",
+    "technology"
+  ],
+  "entities": [
+    "ATLAS",
+    "SAGE",
+    "SCORE",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-6CA47750DC88B8F3-01",
+      "text": "We will describe each of the necessary steps to reach a complete launch of this first phase and we will discuss some extra details that you cannot miss.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-6CA47750DC88B8F3",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-6CA47750DC88B8F3-02",
+      "text": "We will see in the future if this route will always be the most used or if many will prefer to use their own engines, this may vary depending on the cost of fuel in the market, the urgency of the trip and the safety of adjacent sectors.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-6CA47750DC88B8F3",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-6CA47750DC88B8F3-03",
+      "text": "R20 will allow for the creation of a wide range of consumables for both Star Bases and ships, as well as future upgrades.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-6CA47750DC88B8F3",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-6CA47750DC88B8F3-04",
+      "text": "With the launch of SAGE, these resources will no longer be sold directly by the DAO and will be entirely processed by the players.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-6CA47750DC88B8F3",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-6CA47750DC88B8F3-05",
+      "text": "Keep in mind that the Tech Demo will be within the Solana Devnet, so in this first phase it does not affect its supply in the Marketplace, but in the future when the game’s economy is released.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-6CA47750DC88B8F3",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-6CA47750DC88B8F3-06",
+      "text": "Refueling is a condition for reloading ammunition, fuel and tool kits until the mechanics that allow specialized ships to fulfill their functions are released.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-6CA47750DC88B8F3",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-6CA47750DC88B8F3-07",
+      "text": "This is the first experience we will have within the game thanks to the information provided by the team, a delivery called The Treasure Hunt, the first truly play-to-earn interaction where there will be high-value loot, even a Fimbul BYOS Tankship, a legendary rarity Commander-sized ship valued at over 90,000 USDC, whoever finds this rarity will truly carry the envy of the entire community:).",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-6CA47750DC88B8F3",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-6CA47750DC88B8F3-08",
+      "text": "Initially, we do not know if we will have all the Star Systems from the Tech Demo to explore, but we will be able to discover how the resources are distributed and the different ways to explore this Universe.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-6CA47750DC88B8F3",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-6CA47750DC88B8F3-09",
+      "text": "For now, I bid farewell friends of the metaverse, I hope that soon we will be exploring Galia in search of that Tankship, in the meantime, we will be attentive to all the important news from the team.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-6CA47750DC88B8F3",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-6CA47750DC88B8F3-10",
+      "text": "Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-6CA47750DC88B8F3",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "SAGE",
+    "SCORE",
+    "Star Atlas",
+    "ATLAS"
+  ],
+  "governance_items": [
+    "Star Atlas governance / DAO"
+  ],
+  "lore_items": [],
+  "actors": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://medium.com/@jalldigital?source=post_page---byline--45c58d55c237---------------------------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fthe-hologram%2F45c58d55c237&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fthe-road-to-sage-a-guide-to-the-tech-demo-part-2-45c58d55c237&user=JALLDIGITAL&userId=b3ca146a7a78&source=---header_actions--45c58d55c237---------------------clap_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Frepost%2Fp%2F45c58d55c237&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fthe-road-to-sage-a-guide-to-the-tech-demo-part-2-45c58d55c237&user=JALLDIGITAL&userId=b3ca146a7a78&source=---header_actions--45c58d55c237---------------------repost_header------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F45c58d55c237&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fthe-road-to-sage-a-guide-to-the-tech-demo-part-2-45c58d55c237&source=---header_actions--45c58d55c237---------------------bookmark_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2Fplans%3Fdimension%3Dpost_audio_button%26postId%3D45c58d55c237&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fthe-road-to-sage-a-guide-to-the-tech-demo-part-2-45c58d55c237&source=---header_actions--45c58d55c237---------------------post_audio_button------------------",
+      "anchor_text": "Listen"
+    },
+    {
+      "url": "https://medium.com/the-hologram/venturing-down-the-paths-of-sage-guide-to-the-first-stage-roadmap-tech-demo-part-1-4e1df64bf935",
+      "anchor_text": "Tech Demo"
+    },
+    {
+      "url": "https://coinmarketcap.com/currencies/star-atlas/",
+      "anchor_text": "ATLAS"
+    },
+    {
+      "url": "https://play.staratlas.com/market/fueL3hBZjLLLJHiFH9cqZoozTG3XQZ53diwFPwbzNim/",
+      "anchor_text": "fuel"
+    },
+    {
+      "url": "https://play.staratlas.com/market/?category=resource&itemClass=consumable",
+      "anchor_text": "marketplace"
+    },
+    {
+      "url": "https://staratlas.com/newsroom/game-manuals",
+      "anchor_text": "Manual"
+    },
+    {
+      "url": "https://medium.com/the-hologram",
+      "anchor_text": "The Hologram"
+    },
+    {
+      "url": "https://staratlas.com/",
+      "anchor_text": "Star Atlas"
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "https://medium.com/the-hologram/the-road-to-sage-a-guide-to-the-tech-demo-part-2-45c58d55c237",
+    "final_url": "https://medium.com/the-hologram/the-road-to-sage-a-guide-to-the-tech-demo-part-2-45c58d55c237",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 136935,
+    "elapsed_ms": 781,
+    "retrieval_mode": "LIVE",
+    "archive_capture": null
+  }
+}

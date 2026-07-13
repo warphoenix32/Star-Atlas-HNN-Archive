@@ -1,0 +1,14 @@
+{
+  "topic": "about, how, limited, solana, the, this, wallet, what",
+  "official_source_ids": [
+    "SRC-OFF-0C0365583D4B60FB"
+  ],
+  "community_source_ids": [
+    "SRC-IH-2A595F8EF796F3B3"
+  ],
+  "relationship": "OFFICIAL_SUPERSEDES_OLDER_GUIDE",
+  "finding": "Automated topic overlap on: about, how, limited, solana, the, this, wallet, what. Official authority is limited to the official wording; community context remains separately attributed.",
+  "confidence": "LOW",
+  "promotion_candidate": false,
+  "manual_review_required": true
+}

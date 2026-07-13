@@ -1,0 +1,293 @@
+{
+  "source": {
+    "source_id": "SRC-IH-A3AD17606CD9E5E0",
+    "url_id": "URL-A3AD17606CD9E5E0",
+    "url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-93/",
+    "inventory_url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-93",
+    "title": "Star Atlas Weekly News Recap #93",
+    "author": "Intergalactic Herald",
+    "publisher": "Intergalactic Herald",
+    "published_at": "2023-12-31T17:00:00",
+    "updated_at": "2024-01-01T09:11:44",
+    "retrieved_at": "2026-07-12T22:06:33.413653Z",
+    "document_type": "NEWSLETTER",
+    "source_role": "CURATED_SUMMARY",
+    "source_classification": "CURATED_SUMMARY",
+    "classification_rationale": "Weekly newsletter/recap aggregates developments and linked sources.",
+    "wordpress_type": "posts"
+  },
+  "summary": {
+    "neutral_abstract": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week. We are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us. We are launching a Star Atlas merch store. Please check it out at Intergalactic",
+    "historical_value": "Contemporary Intergalactic Herald publication preserved with role and attribution boundaries.",
+    "current_validity_warning": "Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources."
+  },
+  "article_text": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week.\nWe are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us.\nWe are launching a Star Atlas merch store. Please check it out at Intergalactic Gear.\nWe are creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic Coalition.\nIf you would like to support our efforts, donations can be sent to intergalacticherald.sol\nStar Atlas : The New Showroom with COMBAT!\nBeyond the Horizon posted a video about the new Star Atlas Showroom.\nAn Unreal Update — Star Atlas Launches the Last Patch before Ground Breaking Showroom R2.2 Release.\nStar Atlas published an article announcing a new update for the Showroom game.\nStar Atlas: Checkpoint #2\nA video roundtable discussion about the past year in Star Atlas.\nProject Galia – A Star Atlas Experiment\nStar Atlas leaked an internal video of future Star Atlas gameplay.\nMetaverse Nomads #126 Star Atlas Faction Fleet Earnings Reduced w/ Signal\nMetaverse Nomads posted a video replay of their Star Atlas livestream.\nStar Atlas And The Future Of The Metaverse!\nBeyond the Horizon posted a video documentary about the metaverse.\nWEEKLY STAR ATLAS NEWSLETTER #111\nAephia published their weekly Star Atlas newsletter.\nSTAR ATLAS #216 The Worst Gamer Ever.\nMetaVerse Explorer posted a video with Star Atlas updates.",
+  "content_hash": "8fe6339a6e56a1a7d9fc911f8284edea4ed51a274e61822026d5096980c83ef3",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [],
+  "external_sources": [
+    {
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=aQHY8GIj6MQ",
+      "anchor_text": "new Star Atlas Showroom"
+    },
+    {
+      "url": "https://medium.com/star-atlas/an-unreal-update-star-atlas-launches-the-last-patch-before-ground-breaking-showroom-r2-2-release-ba8a73c6a6e2",
+      "anchor_text": "new update for the Showroom game"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=tdmXFtdr-2c",
+      "anchor_text": "past year in Star Atlas"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=x_msEcJddhE&t=6s",
+      "anchor_text": "future Star Atlas gameplay"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=FH4F7GFWhtw",
+      "anchor_text": "Star Atlas livestream"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=-rKi0kyuHmA",
+      "anchor_text": "documentary about the metaverse"
+    },
+    {
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-111/",
+      "anchor_text": "weekly Star Atlas newsletter"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=opkIGnNQSFg",
+      "anchor_text": "Star Atlas updates"
+    }
+  ],
+  "primary_source_relationships": [
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=aQHY8GIj6MQ",
+      "anchor_text": "new Star Atlas Showroom"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://medium.com/star-atlas/an-unreal-update-star-atlas-launches-the-last-patch-before-ground-breaking-showroom-r2-2-release-ba8a73c6a6e2",
+      "anchor_text": "new update for the Showroom game"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=tdmXFtdr-2c",
+      "anchor_text": "past year in Star Atlas"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=x_msEcJddhE&t=6s",
+      "anchor_text": "future Star Atlas gameplay"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=FH4F7GFWhtw",
+      "anchor_text": "Star Atlas livestream"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=-rKi0kyuHmA",
+      "anchor_text": "documentary about the metaverse"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-111/",
+      "anchor_text": "weekly Star Atlas newsletter"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=opkIGnNQSFg",
+      "anchor_text": "Star Atlas updates"
+    }
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Verify which outbound links are primary sources and preserve creator attribution during promotion."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-93&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 5135,
+    "elapsed_ms": 2070,
+    "attempts": [
+      {
+        "endpoint": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-93&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "http_status": 200,
+        "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-93&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "content_type": "application/json; charset=UTF-8",
+        "response_size": 5135,
+        "elapsed_ms": 2070
+      }
+    ]
+  },
+  "source_lineage": {
+    "publication": "Intergalactic Herald",
+    "publication_role": "CURATED_SUMMARY",
+    "relationship": "CURATED_SUMMARY_OF",
+    "primary_sources": [
+      {
+        "publication": "new Star Atlas Showroom",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=aQHY8GIj6MQ",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: new Star Atlas Showroom"
+      },
+      {
+        "publication": "new update for the Showroom game",
+        "author": "UNKNOWN",
+        "url": "https://medium.com/star-atlas/an-unreal-update-star-atlas-launches-the-last-patch-before-ground-breaking-showroom-r2-2-release-ba8a73c6a6e2",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: new update for the Showroom game"
+      },
+      {
+        "publication": "past year in Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=tdmXFtdr-2c",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: past year in Star Atlas"
+      },
+      {
+        "publication": "future Star Atlas gameplay",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=x_msEcJddhE&t=6s",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: future Star Atlas gameplay"
+      },
+      {
+        "publication": "Star Atlas livestream",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=FH4F7GFWhtw",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas livestream"
+      },
+      {
+        "publication": "documentary about the metaverse",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=-rKi0kyuHmA",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: documentary about the metaverse"
+      },
+      {
+        "publication": "weekly Star Atlas newsletter",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-111/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article with anchor text: weekly Star Atlas newsletter"
+      },
+      {
+        "publication": "Star Atlas updates",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=opkIGnNQSFg",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas updates"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "publication": "Intergalactic Gear",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticgear.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Intergalactic Coalition",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticcoalition.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      }
+    ],
+    "original_creators": [
+      "Aephia"
+    ],
+    "attribution_chain": [
+      {
+        "from": "new Star Atlas Showroom",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=aQHY8GIj6MQ"
+      },
+      {
+        "from": "new update for the Showroom game",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://medium.com/star-atlas/an-unreal-update-star-atlas-launches-the-last-patch-before-ground-breaking-showroom-r2-2-release-ba8a73c6a6e2"
+      },
+      {
+        "from": "past year in Star Atlas",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=tdmXFtdr-2c"
+      },
+      {
+        "from": "future Star Atlas gameplay",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=x_msEcJddhE&t=6s"
+      },
+      {
+        "from": "Star Atlas livestream",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=FH4F7GFWhtw"
+      },
+      {
+        "from": "documentary about the metaverse",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=-rKi0kyuHmA"
+      },
+      {
+        "from": "weekly Star Atlas newsletter",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-111/"
+      },
+      {
+        "from": "Star Atlas updates",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=opkIGnNQSFg"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  }
+}

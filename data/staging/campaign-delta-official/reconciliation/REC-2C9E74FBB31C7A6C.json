@@ -1,0 +1,14 @@
+{
+  "topic": "alpha, and, claims, polis, record, remain, scream, showroom",
+  "official_source_ids": [
+    "SRC-OFF-22181D98D7A1B870"
+  ],
+  "community_source_ids": [
+    "SRC-HNN-5A433D5B64D7648F"
+  ],
+  "relationship": "COMMUNITY_PRECEDES_OFFICIAL_ANNOUNCEMENT",
+  "finding": "Automated topic overlap on: alpha, and, claims, polis, record, remain, scream, showroom, the, this, time. Official authority is limited to the official wording; community context remains separately attributed.",
+  "confidence": "LOW",
+  "promotion_candidate": false,
+  "manual_review_required": true
+}

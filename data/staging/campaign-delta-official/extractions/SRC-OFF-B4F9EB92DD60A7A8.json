@@ -1,0 +1,290 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-B4F9EB92DD60A7A8",
+    "url": "https://govern.staratlas.com/",
+    "title": "Star Atlas DAO",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas DAO",
+    "published_at": null,
+    "updated_at": null,
+    "original_date_text": null,
+    "document_type": "REFERENCE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas DAO",
+    "publication_role": "REFERENCE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://support.staratlas.com/what-is-the-star-atlas-dao",
+        "anchor_text": "Read More"
+      },
+      {
+        "url": "https://support.staratlas.com/how-does-the-dao-work",
+        "anchor_text": "Read More"
+      },
+      {
+        "url": "https://support.staratlas.com/hc/en-us/articles/47021293641491-How-does-POLIS-locking-work",
+        "anchor_text": "Read More"
+      },
+      {
+        "url": "https://support.staratlas.com/how-do-dao-proposals-work",
+        "anchor_text": "Read More"
+      },
+      {
+        "url": "https://discord.gg/staratlas",
+        "anchor_text": "Discord"
+      },
+      {
+        "url": "https://www.facebook.com/StarAtlasMmo/",
+        "anchor_text": "Facebook"
+      },
+      {
+        "url": "https://www.instagram.com/staratlasgame",
+        "anchor_text": "Instagram"
+      },
+      {
+        "url": "https://t.me/staratlasgame",
+        "anchor_text": "Telegram"
+      },
+      {
+        "url": "https://www.reddit.com/r/StarAtlas/",
+        "anchor_text": "Reddit"
+      },
+      {
+        "url": "https://www.twitch.tv/staratlasgame",
+        "anchor_text": "Twitch"
+      },
+      {
+        "url": "https://www.youtube.com/c/StarAtlasGame",
+        "anchor_text": "YouTube"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas DAO"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official reference titled “Star Atlas DAO.” This record preserves what Star Atlas DAO publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Star Atlas DAO\nDAO\nReady to get started?Launch the Govern app and start making an impact in the Star Atlas Metaverse.Launch The Govern AppUpdates and AnnouncementsFEATURE RELEASE\nPower to the People\nIn our latest release, our proposal section has been updated to include a proposed governance framework that empowers the community through the Star Atlas DAO.\nOur proposal includes:\n- Ratification of the Star Atlas DAO, which is the decentralized autonomous organization that makes decisions affecting critical aspects of the Star Atlas metaverse.\n- Ratification of the Star Atlas Constitution, which describes the permissions, processes, and overall framework of the DAO.\n- Ratification of the operations of the Star Atlas Foundation, an independent legal entity protecting certain elements of the Star Atlas DAO.\nCommunity Driven Governance\nWhat is the Star Atlas DAO?\nThe Star Atlas DAO is your opportunity to influence the destiny of every aspect of Star Atlas.\n“The Long-term vision of Star Atlas is an autonomous, player-owned game, fully controlled and funded by decentralized governance.\"\n- Star Atlas white paper\nRead More\nHow does the DAO work?\nUtilizing multi-signature wallets and on-chain proposal voting, members decide economic and political control of the entire Star Atlas Metaverse.\nDecentralized Autonomous Organization(s), or DAO, are member owned governance organizations whose actions are programmatically determined by on-chain consensus mechanisms. The Star Atlas ecosystem is guided by the DAO with governances for player guilds, regional and factional authority, and ultimately, the future for all its citizens.\nRead More\nLeadership by Commitment.\nVoting power is determined by both the quantity of tokens as well as the length of time one is willing to commit their resources.\nThe Star Atlas DAO uses a voting-escrow (VE) model in which POLIS tokens are staked in an escrow account in return for voting power. This voting-escrow model favors community members with long-term conviction in the Star Atlas vision, and is resilient against governance attacks such as just-in-time voting or flash loan exploits.\nRead MoreComing Soon\nProposals and Voting.\nBring your best concepts to life through detailed proposals and get consensus through on-chain community voting.\nThe Star Atlas DAO will use POLIS Improvement Proposals, or PIPs, to provide information to the Star Atlas community about proposed new features, processes, or experience changes to the Star Atlas Metaverse. Authors provide concise technical specifications and rationale for a feature while building advocacy within the community through engaged discussions.\nRead MorePioneer a new digital frontier.Launch the Govern app and make your mark todayLaunch The Govern AppTwitterDiscordFacebookInstagramTelegramRedditTwitchYouTubeTerms of ServicePrivacy Policy",
+  "content_hash": "26beacd7eb25f57f30a87b6b17b1af95ce74525de51a65ab52087051619f046a",
+  "entities": [
+    "ATLAS",
+    "POLIS",
+    "Star Atlas DAO",
+    "Star Atlas Foundation"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-B4F9EB92DD60A7A8-01",
+      "text": "Star Atlas DAO DAO Ready to get started?Launch the Govern app and start making an impact in the Star Atlas Metaverse.Launch The Govern AppUpdates and AnnouncementsFEATURE RELEASE Power to the People In our latest release, our proposal section has been updated to include a proposed governance framework that empowers the community through the Star Atlas DAO.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B4F9EB92DD60A7A8",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-B4F9EB92DD60A7A8-02",
+      "text": "Our proposal includes: - Ratification of the Star Atlas DAO, which is the decentralized autonomous organization that makes decisions affecting critical aspects of the Star Atlas metaverse.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B4F9EB92DD60A7A8",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-B4F9EB92DD60A7A8-03",
+      "text": "Utilizing multi-signature wallets and on-chain proposal voting, members decide economic and political control of the entire Star Atlas Metaverse.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B4F9EB92DD60A7A8",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-B4F9EB92DD60A7A8-04",
+      "text": "Voting power is determined by both the quantity of tokens as well as the length of time one is willing to commit their resources.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B4F9EB92DD60A7A8",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-B4F9EB92DD60A7A8-05",
+      "text": "Bring your best concepts to life through detailed proposals and get consensus through on-chain community voting.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B4F9EB92DD60A7A8",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-B4F9EB92DD60A7A8-06",
+      "text": "The Star Atlas DAO will use POLIS Improvement Proposals, or PIPs, to provide information to the Star Atlas community about proposed new features, processes, or experience changes to the Star Atlas Metaverse.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B4F9EB92DD60A7A8",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-B4F9EB92DD60A7A8-07",
+      "text": "Read MorePioneer a new digital frontier.Launch the Govern app and make your mark todayLaunch The Govern AppTwitterDiscordFacebookInstagramTelegramRedditTwitchYouTubeTerms of ServicePrivacy Policy",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B4F9EB92DD60A7A8",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "POLIS",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [
+    "Star Atlas DAO",
+    "Star Atlas Foundation"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://govern.staratlas.com/lockers",
+      "anchor_text": "Launch The Govern App"
+    },
+    {
+      "url": "https://support.staratlas.com/what-is-the-star-atlas-dao",
+      "anchor_text": "Read More"
+    },
+    {
+      "url": "https://support.staratlas.com/how-does-the-dao-work",
+      "anchor_text": "Read More"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47021293641491-How-does-POLIS-locking-work",
+      "anchor_text": "Read More"
+    },
+    {
+      "url": "https://support.staratlas.com/how-do-dao-proposals-work",
+      "anchor_text": "Read More"
+    },
+    {
+      "url": "https://twitter.com/staratlas",
+      "anchor_text": "Twitter"
+    },
+    {
+      "url": "https://discord.gg/staratlas",
+      "anchor_text": "Discord"
+    },
+    {
+      "url": "https://www.facebook.com/StarAtlasMmo/",
+      "anchor_text": "Facebook"
+    },
+    {
+      "url": "https://www.instagram.com/staratlasgame",
+      "anchor_text": "Instagram"
+    },
+    {
+      "url": "https://t.me/staratlasgame",
+      "anchor_text": "Telegram"
+    },
+    {
+      "url": "https://www.reddit.com/r/StarAtlas/",
+      "anchor_text": "Reddit"
+    },
+    {
+      "url": "https://www.twitch.tv/staratlasgame",
+      "anchor_text": "Twitch"
+    },
+    {
+      "url": "https://www.youtube.com/c/StarAtlasGame",
+      "anchor_text": "YouTube"
+    },
+    {
+      "url": "https://govern.staratlas.com/terms-of-service",
+      "anchor_text": "Terms of Service"
+    },
+    {
+      "url": "https://govern.staratlas.com/privacy-policy",
+      "anchor_text": "Privacy Policy"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://govern.staratlas.com/lockers",
+      "anchor_text": "Launch The Govern App"
+    },
+    {
+      "url": "https://support.staratlas.com/what-is-the-star-atlas-dao",
+      "anchor_text": "Read More"
+    },
+    {
+      "url": "https://support.staratlas.com/how-does-the-dao-work",
+      "anchor_text": "Read More"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/47021293641491-How-does-POLIS-locking-work",
+      "anchor_text": "Read More"
+    },
+    {
+      "url": "https://support.staratlas.com/how-do-dao-proposals-work",
+      "anchor_text": "Read More"
+    },
+    {
+      "url": "https://govern.staratlas.com/terms-of-service",
+      "anchor_text": "Terms of Service"
+    },
+    {
+      "url": "https://govern.staratlas.com/privacy-policy",
+      "anchor_text": "Privacy Policy"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "LOW",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://govern.staratlas.com/",
+    "final_url": "https://govern.staratlas.com/",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 45673,
+    "retrieved_at": "2026-07-13T01:05:02.155471Z",
+    "elapsed_ms": 594
+  }
+}

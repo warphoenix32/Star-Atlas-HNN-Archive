@@ -1,0 +1,302 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-85C38D84C83B9596",
+    "url_id": "URL-85C38D84C83B9596",
+    "url": "https://medium.com/the-hologram/town-hall-recap-2-2-23-runway-roadmap-and-getting-saasy-abb7fdd4a5a0",
+    "title": "Town Hall Recap 2/2/23: Runway, Roadmap, and Getting SAASy",
+    "author": "bee.bod",
+    "publisher": "The Hologram",
+    "publication_identity": "The Hologram (Medium publication)",
+    "published_at": "2023-02-03T19:59:56Z",
+    "updated_at": "2023-02-05T02:08:45Z",
+    "retrieved_at": "2026-07-13T00:08:36.786273Z",
+    "document_type": "EVENT_COVERAGE",
+    "source_role": "EVENT_COVERAGE",
+    "publication_role": "EVENT_COVERAGE",
+    "classification_rationale": "Publication documents or recaps a named event."
+  },
+  "source_lineage": {
+    "publication": "The Hologram (Medium publication)",
+    "publication_role": "EVENT_COVERAGE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [
+      {
+        "publication": "Star Atlas Town Hall",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=q36DaAobbq0",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Fimbul BYOS Tankship",
+        "author": "UNKNOWN",
+        "url": "https://play.staratlas.com/market/4ns3shP4WunCtJbr2HFu31RjjxSJxDymEFcBZxiHr11s/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "DAO treasury page",
+        "author": "UNKNOWN",
+        "url": "https://govern.staratlas.com/treasury",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [
+      "bee.bod"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Star Atlas Town Hall",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://www.youtube.com/watch?v=q36DaAobbq0"
+      },
+      {
+        "from": "Fimbul BYOS Tankship",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://play.staratlas.com/market/4ns3shP4WunCtJbr2HFu31RjjxSJxDymEFcBZxiHr11s/"
+      },
+      {
+        "from": "DAO treasury page",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://govern.staratlas.com/treasury"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "This event coverage published by The Hologram on 2023-02-03 documents “Town Hall Recap 2/2/23: Runway, Roadmap, and Getting SAASy.” Its surviving text addresses governance, economy, guilds and DACs, game development, community, lore, technology. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "Town HallMetaverseMmorpgStar Atlas\nTown Hall Recap 2/2/23: Runway, Roadmap, and Getting SAASy\nbee.bod5 min read·Feb 3, 2023\n--\nListen\nShare\nPress enter or click to view image in full sizeUE5 Ground Racetrack WIP — ATMTA Official Art\nThe first Star Atlas Town Hall of 2023 has just concluded, with ATMTA CEO Michael Wagner and Community Director Santi delivering a Titan-class update on the future of ATMTA and Star Atlas into 2023 and beyond. There’s a ton to cover, so I’ll get right into it, beginning with a highly-anticipated update on the status of ATMTA’s funding, runway, and recovery of funds lost in the Sammy Banx/FTX debacle.\nATMTA brokers deal to recover lost funds, extends runway to late 2023\nIn November of 2023, the Star Atlas community was rocked by the new that ATMTA had lost approximately half of the company’s liquid capital in the collapse of the FTX centralized exchange, dramatically shortening the project’s runway. In today’s town hall, Wagner reported on the progress made on multiple fronts to right the ship financially and ensure the long-term viability of the Star Atlas vision. The Start Sequence asset sales raised approximately 2 million USDC, proving the community’s continued faith in ATMTA and the project. Additionally, the team made a 13% reduction in headcount, and a 25% overall reduction in monthly burn rate.\nWagner also confirmed for the first time that ATMTA has completed a brokered sale of their claim to the assets lost on FTX. In practical terms, this has allowed the team to immediately recover a “decent amount” of the missing capital, rather than waiting through a legal process that will most likely take several years to resolve. This was undoubtedly the right choice given ATMTA’s immediate funding needs, but Wagner did not reveal exactly how much capital was obtained in this deal. Finally, it was confirmed that SA is in the advanced stages of fundraising talks with venture capital firms and similar entities, potentially extending the runway further if a deal is reached. All told, the current most conservative runway estimates from the team suggest they are fully funded through September 2023, not accounting for future revenue streams or deals with capital partners.\nPress enter or click to view image in full sizeTrain Interior, Volant Studios Showroom, Upcoming Star Atlas Release — Official ATMTA Art\nThe 2023 Roadmap: SAGE, Showroom, POLIS DAO, & DAC System\nWith the runway questions answered, the remainder of the Town Hall focused on the upcoming product releases for 2023. Santi & “Swagner” provided tons of details on plans for the upcoming browser-based on-chain real-time strategy MMO known as Star Atlas: Golden Era (SAGE), Unreal Engine 5 gameplay in the Showroom, governance in the POLIS DAO, and the DAC management system for player guilds/corporations.\nStar Atlas fans have been asking “wen SAGE?” almost constantly since the first teaser images were revealed last year. While hesitant to provide specific dates, Wagner confirmed that the initial SAGE release is being targeted for Q1 this year. This will be a basic minimum viable product, designed to test the on-chain movement and coordinate systems. In order to make this fun and rewarding for players, this initial release will take the form of a scavenger hunt, with a prize pool valued in the hundreds of thousands in USD terms. Loot tables will be released in the future, and it was revealed that players will even have a small chance to earn a Legendary Fimbul BYOS Tankship, currently selling for 97,500 USDC on the SA Marketplace. This is my favorite ship in the entire catalog, so I will be grinding fiendishly just in case I get lucky.\nOn the Showroom side, the next release (R 2.1) will feature an 8-player ground racetrack, with players competing head-to-head with the ability to shoot and disable other ships. This is the first live multiplayer competitive gameplay for Star Atlas, representing a significant step towards creating a fun, highly replayable game loop to attract traditional gamers into the ecosystem. This release will also integrate UE 5.1, improving certain visual aspects like foliage and lighting while improving performance. R 2.1 will also integrate the SA Marketplace directly into the game, allowing players to test drive and purchase ships without breaking immersion. Future releases will improve multiplayer with dedicated ATMTA-hosted servers, reducing latency issues and allowing roughly 400–1000 players to join a single instance of the Showroom. In November of 2023, ATMTA will showcase Showroom R3 at Solana Breakpoint, teased to include more player-versus-player gameplay and new environments.\nFor the POLIS DAO, 2023 will focus on rolling out Polis Improvement Proposals (PIPs), voting, and governance systems in line with the Sustainable Governance Framework document released last year by ATMTA General Counsel Dan Park. The DAO treasury page was launched this week, showing approximately 1.6 million USD in combined ATLAS and USDC holdings. In the next set of releases, the proposal and voting system will be rolled out in phases, beginning with an upvote/downvote system and culminating in open proposals, PVP (POLIS voting power) utility, and discourse forum.\nPlayer guilds, known as Decentralized Autonomous Corporations or DACs, will soon have a toolset enabling leaders to add and remove members, assign ranks and roles, and see their DAC’s position on global leaderboards. The DAC management tool is focused on gaming-oriented DACs initially, but will be iterated to provide better support for business-oriented groups and individuals (sole proprietors) as well. No specific release date was announced, but is being targeted to coincide with the launch of SAGE.\nATMTA’s Software-As-A-Service Potential\nWhile answering a question from renowned polistician Signal about revenue strategies going forward, Wagner brought up an interesting idea to provide an additional ongoing revenue stream for ATMTA. In the process of developing SAGE, the team has built extensive back-end architecture to enable a real-time on-chain gameplay experience. These tools include StarComm, a Web3 MMO server system, and Fuzzy Lemur, a blockchain indexing tool. These products could potentially be used by other companies building their own on-chain games and other products, creating an opportunity to spin them off into a Software-As-A-Service (SAAS) play. While this idea is in its embryonic stage and would require outside help to develop sales pipelines, this could create significant and ongoing recurring revenue, using work the team has already done in the process of building Star Atlas.\nThis article is probably too long already for a recap, so I will end it here. In my opinion, Santi and Swagner did an excellent and very thorough job addressing community concerns about the release schedule and the financial position of ATMTA. With more confidence and clarity about the future, I look forward to dedicating my time to playing and writing about Star Atlas for years to come. Look out Galia, I’m coming for that Tankship!\nI couldn’t cover every detail and nugget of alpha here, so I highly suggest listening to the whole Town Hall yourself, helpfully recorded and uploaded by the fine people at Metaverse Nomads on Youtube (link here).",
+  "content_hash": "f812ebbce8e9da15d0b33d2a99a080af8da375094a5a36ea93f007bf4d11284c",
+  "major_topics": [
+    "governance",
+    "economy",
+    "guilds and DACs",
+    "game development",
+    "community",
+    "lore",
+    "technology"
+  ],
+  "entities": [
+    "ATLAS",
+    "Michael Wagner",
+    "POLIS",
+    "SAGE",
+    "Santi",
+    "Showroom",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-85C38D84C83B9596-01",
+      "text": "In today’s town hall, Wagner reported on the progress made on multiple fronts to right the ship financially and ensure the long-term viability of the Star Atlas vision.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-85C38D84C83B9596",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-85C38D84C83B9596-02",
+      "text": "In practical terms, this has allowed the team to immediately recover a “decent amount” of the missing capital, rather than waiting through a legal process that will most likely take several years to resolve.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-85C38D84C83B9596",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-85C38D84C83B9596-03",
+      "text": "Santi & “Swagner” provided tons of details on plans for the upcoming browser-based on-chain real-time strategy MMO known as Star Atlas: Golden Era (SAGE), Unreal Engine 5 gameplay in the Showroom, governance in the POLIS DAO, and the DAC management system for player guilds/corporations.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-85C38D84C83B9596",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-85C38D84C83B9596-04",
+      "text": "This will be a basic minimum viable product, designed to test the on-chain movement and coordinate systems.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-85C38D84C83B9596",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-85C38D84C83B9596-05",
+      "text": "In order to make this fun and rewarding for players, this initial release will take the form of a scavenger hunt, with a prize pool valued in the hundreds of thousands in USD terms.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-85C38D84C83B9596",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-85C38D84C83B9596-06",
+      "text": "Loot tables will be released in the future, and it was revealed that players will even have a small chance to earn a Legendary Fimbul BYOS Tankship, currently selling for 97,500 USDC on the SA Marketplace.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-85C38D84C83B9596",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-85C38D84C83B9596-07",
+      "text": "This is my favorite ship in the entire catalog, so I will be grinding fiendishly just in case I get lucky.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-85C38D84C83B9596",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-85C38D84C83B9596-08",
+      "text": "On the Showroom side, the next release (R 2.1) will feature an 8-player ground racetrack, with players competing head-to-head with the ability to shoot and disable other ships.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-85C38D84C83B9596",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-85C38D84C83B9596-09",
+      "text": "This release will also integrate UE 5.1, improving certain visual aspects like foliage and lighting while improving performance.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-85C38D84C83B9596",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-85C38D84C83B9596-10",
+      "text": "R 2.1 will also integrate the SA Marketplace directly into the game, allowing players to test drive and purchase ships without breaking immersion.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-85C38D84C83B9596",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-85C38D84C83B9596-11",
+      "text": "Future releases will improve multiplayer with dedicated ATMTA-hosted servers, reducing latency issues and allowing roughly 400–1000 players to join a single instance of the Showroom.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-85C38D84C83B9596",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-85C38D84C83B9596-12",
+      "text": "In November of 2023, ATMTA will showcase Showroom R3 at Solana Breakpoint, teased to include more player-versus-player gameplay and new environments.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-85C38D84C83B9596",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "SAGE",
+    "Star Atlas",
+    "Showroom",
+    "POLIS",
+    "ATLAS"
+  ],
+  "governance_items": [
+    "Star Atlas governance / DAO"
+  ],
+  "lore_items": [
+    "ONI"
+  ],
+  "actors": [
+    "Michael Wagner",
+    "Santi"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://medium.com/@bee.bod?source=---byline--abb7fdd4a5a0---------------------------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fthe-hologram%2Fabb7fdd4a5a0&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Ftown-hall-recap-2-2-23-runway-roadmap-and-getting-saasy-abb7fdd4a5a0&user=bee.bod&userId=2bfebca6a8e1&source=---header_actions--abb7fdd4a5a0---------------------clap_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Frepost%2Fp%2Fabb7fdd4a5a0&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Ftown-hall-recap-2-2-23-runway-roadmap-and-getting-saasy-abb7fdd4a5a0&user=bee.bod&userId=2bfebca6a8e1&source=---header_actions--abb7fdd4a5a0---------------------repost_header------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2Fabb7fdd4a5a0&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Ftown-hall-recap-2-2-23-runway-roadmap-and-getting-saasy-abb7fdd4a5a0&source=---header_actions--abb7fdd4a5a0---------------------bookmark_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2Fplans%3Fdimension%3Dpost_audio_button%26postId%3Dabb7fdd4a5a0&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Ftown-hall-recap-2-2-23-runway-roadmap-and-getting-saasy-abb7fdd4a5a0&source=---header_actions--abb7fdd4a5a0---------------------post_audio_button------------------",
+      "anchor_text": "Listen"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=q36DaAobbq0",
+      "anchor_text": "Star Atlas Town Hall"
+    },
+    {
+      "url": "https://twitter.com/at_mwagner",
+      "anchor_text": "ATMTA CEO Michael Wagner"
+    },
+    {
+      "url": "https://twitter.com/Santiacc_",
+      "anchor_text": "Community Director Santi"
+    },
+    {
+      "url": "https://play.staratlas.com/market/4ns3shP4WunCtJbr2HFu31RjjxSJxDymEFcBZxiHr11s/",
+      "anchor_text": "Fimbul BYOS Tankship"
+    },
+    {
+      "url": "https://govern.staratlas.com/treasury",
+      "anchor_text": "DAO treasury page"
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "https://medium.com/the-hologram/town-hall-recap-2-2-23-runway-roadmap-and-getting-saasy-abb7fdd4a5a0",
+    "final_url": "https://medium.com/the-hologram/town-hall-recap-2-2-23-runway-roadmap-and-getting-saasy-abb7fdd4a5a0",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 267984,
+    "elapsed_ms": 693,
+    "retrieval_mode": "LIVE",
+    "archive_capture": null
+  }
+}

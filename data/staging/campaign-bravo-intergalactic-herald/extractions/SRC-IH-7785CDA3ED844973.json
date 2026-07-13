@@ -1,0 +1,250 @@
+{
+  "source": {
+    "source_id": "SRC-IH-7785CDA3ED844973",
+    "url_id": "URL-7785CDA3ED844973",
+    "url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-161/",
+    "inventory_url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-161",
+    "title": "Star Atlas Weekly News Recap #161",
+    "author": "Intergalactic Herald",
+    "publisher": "Intergalactic Herald",
+    "published_at": "2025-04-20T17:00:00",
+    "updated_at": "2025-05-03T16:49:32",
+    "retrieved_at": "2026-07-12T22:04:51.565494Z",
+    "document_type": "NEWSLETTER",
+    "source_role": "CURATED_SUMMARY",
+    "source_classification": "CURATED_SUMMARY",
+    "classification_rationale": "Weekly newsletter/recap aggregates developments and linked sources.",
+    "wordpress_type": "posts"
+  },
+  "summary": {
+    "neutral_abstract": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week. We are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us. We are launching a Star Atlas merch store. Please check it out at Intergalactic",
+    "historical_value": "Contemporary Intergalactic Herald publication preserved with role and attribution boundaries.",
+    "current_validity_warning": "Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources."
+  },
+  "article_text": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week.\nWe are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us.\nWe are launching a Star Atlas merch store. Please check it out at Intergalactic Gear.\nWe are creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic Coalition.\nIf you would like to support our efforts, donations can be sent to intergalacticherald.sol\nStar Atlas: Building A Web3 Gaming Cybernation\nBeyond the Horizon posted a video about the Star Atlas Cybernation.\nWeekly Star Atlas Newsletter #175\nAephia published their weekly Star Atlas newsletter.\nAtlas Brew #155 – Progression, Onchain Rewards and Other Roadmap Updates\nStar Atlas TV posted a recording of the latest Atlas Brew.\nONI CSS Tour, by The Empress\nFalkor posted a video by The Empress showing off real estate in Star Atlas.\nStar Atlas Players Generate $700K+ in Monthly Revenue as On-Chain Economy Grows\nPlay To Earn published an article about monthly revenue in Star Atlas.\nStar Atlas: CEO Michael Wagner Unveils Exciting Roadmap and Upcoming Features\nStar Horizons published an article summarizing a recent interview of CES Michael Wagner.\nLatest podcast\nPodcast 176: Star Atlas Weekly Reviewby MattJuly 5, 2026In this episode, I recap the latest news of Star Atlas from the past week. Listen on Apple Podcasts Listen on Spotify I am looking for guests to be on the podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in… Read more: Podcast 176: Star Atlas Weekly Review",
+  "content_hash": "7631f79bfefc1e008e2f3da4145c0afed96ce19b70f4918d982262ef25440819",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [],
+  "external_sources": [
+    {
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=tXKTpFZDMQI",
+      "anchor_text": "Star Atlas Cybernation"
+    },
+    {
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-175/",
+      "anchor_text": "Star Atlas newsletter"
+    },
+    {
+      "url": "https://www.youtube.com/live/tKzi5sCS9uM",
+      "anchor_text": "Atlas Brew"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=l_fEVg1v4xA",
+      "anchor_text": "real estate"
+    },
+    {
+      "url": "https://playtoearn.com/news/star-atlas-players-generate-700k-in-monthly-revenue-as-on-chain-economy-grows",
+      "anchor_text": "monthly revenue"
+    },
+    {
+      "url": "https://medium.com/@starhorizonsofficial/star-atlas-ceo-michael-wagner-unveils-exciting-roadmap-and-upcoming-features-37943f0cd030",
+      "anchor_text": "recent interview"
+    }
+  ],
+  "primary_source_relationships": [
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=tXKTpFZDMQI",
+      "anchor_text": "Star Atlas Cybernation"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-175/",
+      "anchor_text": "Star Atlas newsletter"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/live/tKzi5sCS9uM",
+      "anchor_text": "Atlas Brew"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=l_fEVg1v4xA",
+      "anchor_text": "real estate"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://playtoearn.com/news/star-atlas-players-generate-700k-in-monthly-revenue-as-on-chain-economy-grows",
+      "anchor_text": "monthly revenue"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://medium.com/@starhorizonsofficial/star-atlas-ceo-michael-wagner-unveils-exciting-roadmap-and-upcoming-features-37943f0cd030",
+      "anchor_text": "recent interview"
+    }
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Verify which outbound links are primary sources and preserve creator attribution during promotion."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-161&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 6835,
+    "elapsed_ms": 2170,
+    "attempts": [
+      {
+        "endpoint": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-161&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "http_status": 200,
+        "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-161&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "content_type": "application/json; charset=UTF-8",
+        "response_size": 6835,
+        "elapsed_ms": 2170
+      }
+    ]
+  },
+  "source_lineage": {
+    "publication": "Intergalactic Herald",
+    "publication_role": "CURATED_SUMMARY",
+    "relationship": "CURATED_SUMMARY_OF",
+    "primary_sources": [
+      {
+        "publication": "Star Atlas Cybernation",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=tXKTpFZDMQI",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas Cybernation"
+      },
+      {
+        "publication": "Star Atlas newsletter",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-175/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas newsletter"
+      },
+      {
+        "publication": "Atlas Brew",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/live/tKzi5sCS9uM",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: Atlas Brew"
+      },
+      {
+        "publication": "real estate",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=l_fEVg1v4xA",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: real estate"
+      },
+      {
+        "publication": "monthly revenue",
+        "author": "UNKNOWN",
+        "url": "https://playtoearn.com/news/star-atlas-players-generate-700k-in-monthly-revenue-as-on-chain-economy-grows",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: monthly revenue"
+      },
+      {
+        "publication": "recent interview",
+        "author": "UNKNOWN",
+        "url": "https://medium.com/@starhorizonsofficial/star-atlas-ceo-michael-wagner-unveils-exciting-roadmap-and-upcoming-features-37943f0cd030",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: recent interview"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "publication": "Intergalactic Gear",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticgear.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Intergalactic Coalition",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticcoalition.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      }
+    ],
+    "original_creators": [
+      "Aephia",
+      "Star Atlas"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Star Atlas Cybernation",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=tXKTpFZDMQI"
+      },
+      {
+        "from": "Star Atlas newsletter",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-175/"
+      },
+      {
+        "from": "Atlas Brew",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/live/tKzi5sCS9uM"
+      },
+      {
+        "from": "real estate",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=l_fEVg1v4xA"
+      },
+      {
+        "from": "monthly revenue",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://playtoearn.com/news/star-atlas-players-generate-700k-in-monthly-revenue-as-on-chain-economy-grows"
+      },
+      {
+        "from": "recent interview",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://medium.com/@starhorizonsofficial/star-atlas-ceo-michael-wagner-unveils-exciting-roadmap-and-upcoming-features-37943f0cd030"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  }
+}

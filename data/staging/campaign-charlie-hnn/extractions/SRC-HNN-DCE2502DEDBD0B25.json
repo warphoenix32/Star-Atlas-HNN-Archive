@@ -1,0 +1,241 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-DCE2502DEDBD0B25",
+    "url_id": "URL-DCE2502DEDBD0B25",
+    "url": "https://medium.com/the-hologram/the-solana-fud-fiction-to-faction-7b4b191b67b2",
+    "title": "The Solana FUD: Is There Hope?",
+    "author": "Oni Merchant",
+    "publisher": "The Hologram",
+    "publication_identity": "The Hologram (Medium publication)",
+    "published_at": "2023-02-28T20:39:28Z",
+    "updated_at": "2023-03-03T01:39:52Z",
+    "retrieved_at": "2026-07-13T00:10:11.790914Z",
+    "document_type": "ORIGINAL_REPORTING",
+    "source_role": "ORIGINAL_REPORTING",
+    "publication_role": "ORIGINAL_REPORTING",
+    "classification_rationale": "Publication reports a development without explicit interview, editorial, investigative, event, or reference framing."
+  },
+  "source_lineage": {
+    "publication": "The Hologram (Medium publication)",
+    "publication_role": "ORIGINAL_REPORTING",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [
+      {
+        "publication": "some individuals",
+        "author": "UNKNOWN",
+        "url": "https://youtu.be/93tTlejQCuI",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Podcast",
+        "author": "UNKNOWN",
+        "url": "https://open.spotify.com/show/2mxndrDW6yPfpS350ijzjt?si=ec7c717f998240d6",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "YouTube",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/channel/UCDa-YxgNG6A9xpH1qyP0OaQ",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://staratlas.com/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [
+      "Oni Merchant"
+    ],
+    "attribution_chain": [
+      {
+        "from": "some individuals",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://youtu.be/93tTlejQCuI"
+      },
+      {
+        "from": "Podcast",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://open.spotify.com/show/2mxndrDW6yPfpS350ijzjt?si=ec7c717f998240d6"
+      },
+      {
+        "from": "YouTube",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://www.youtube.com/channel/UCDa-YxgNG6A9xpH1qyP0OaQ"
+      },
+      {
+        "from": "Star Atlas",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://staratlas.com/"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "This original reporting published by The Hologram on 2023-02-28 documents “The Solana FUD: Is There Hope?.” Its surviving text addresses governance, economy, game development, community, lore, technology. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "The Solana FUD: Is There Hope?\nOni Merchant5 min read·Feb 28, 2023\n--\nListen\nShare\nA rebuttal to those engaged in steering people away from Solana.\nA couple days ago Solana had another outage lasting almost an entire day. Many unnamed actors in the space were outraged of course, pointing fingers at the Solana team, the technology, and the community. The truth is, Solana is still considered to be among the most promising modern blockchains of its time, built upon state-of-the-art tech, overcoming the FTX fallout, and having more development happening than any other web3 project. But more importantly, Solana is the blockchain of choice for the project known as Star Atlas — a massive multiplayer space-exploration metaverse — a project that’s revolutionizing the gaming industry as we know it.\nPress enter or click to view image in full size\nDesigned from the ground up, Solana is able to process transactions faster than any mainstream blockchain with fees only a fraction of a penny. The creator, Anatoly Yakavenko, saw it in the beginning as the NASDAQ for blockchain, but as it began to be developed, it was clear that Solana might become something different altogether. Unlike Ethereum, which was basically like Bitcoin 2.0, Solana uses cutting-edge technology to do what other projects haven’t been able to implement thus far.\nPillars of the Solana Blockchain\nSolana uses key innovations, which combine Proof-of-Stake and Proof-of-History to achieve these faster speeds, lower fees, and reduced energy consumption rates. Let’s take a look:\nProof-of-History — Clock reference to create a common schedule across all participants.\nTower BFT — a PoH-optimized version of PBFT;\nGulf Stream — Defines when and how transactions are exchanged.\nSealevel — Processing engine to assign execution of transactions.\nTurbine — Defines how transactions are verified, sent, and received.\nCloudbreak — Memory mechanic that follows participant balances.\nPipeline — Verify all components of transactions.\nArchiver — Nodes where data is taken from validators and transferred into storage.\nLet’s focus in on one of these for a moment: Solana’s ability to enable numerous nodes to participate in consensus while maintaining high speeds is primarily achieved through one of its innovations known as Turbine. Any programming student has likely heard of Big O notation, which is often used to determine how fast a program is able to perform. Turbine scales with O(log(n)), which is superior to O(n) or O(n²). In other words, this accelerates the speed of each type of process. When someone complains about Solana being down, it’s important to remember that it’s still significantly faster than other mainstream blockchains.\nFinding Strength in Reality\nJust like roads need repairs, computer parts need replaced, and Star Atlas spaceships need resupplied, some blockchains will have occasional problems, especially this early on. Every man-made architecture has gone through this process. It’s why renovations need to be made to older homes. It’s why the best multiplayer gaming companies go down for maintenance early Tuesday mornings. To focus on occasional downtime is to fail to understand the benefits Solana offers to Web3.\nPress enter or click to view image in full size\nAfter all, Google invested in it…\nEven after Solana’s close relationship with FTX, the platform seems to be doing better than ever after the fallout. When Austin Federa, Head of Strategy at Solana, was asked about the doom and gloom earlier this year regarding FTX, he responded:\n“Months after the [FTX] news, more active network addresses are up, more people are using the network…[and] there’s more validators on the network than before FTX collapsed…if you look at active addresses each day, Solana is higher than all other blockchains at this point.\nYes, Solana had a historic relationship with FTX but so did many other projects and players. Yes, the network currently has an issue when the blockchain goes down, but some of the greatest achievers in history have faced exceeding moments of opposition and have come out on top, many times much stronger. Financially, some individuals admit that Solana could make 5000% gains if it followed a similar trajectory as Ethereum in the last bull cycle (not financial advice). One of the distinctive features of Solana is that its engineering communications are accessible to the general public, specifically to allow for these discussions among individuals mostly considered as “outsiders”. In other words, the company proves to be honest and open about their endeavors. Rather than complaining about downtime, what might be your solution to the team?\nPress enter or click to view image in full size\nAs a merchant in Star Atlas, I must occasionally deal with disgruntled customers across the galaxy. The web3 community is no different. Solana has weaknesses just like any other infrastructure created by people. The problem is that a certain percentage of Solana validators need to agree on a solution when the blockchain goes down. Is the problem a difficult one to solve currently? Of course. Do we believe that this type of issue is impossible to solve? Of course not. But it’s fiction to say that Solana is dying because of it. Empires aren’t built in a year. Have patience.\nIs There Hope for Solana?\nWhen somebody writes a massive thread smearing the fastest, most high-tech, and competitive Web3 blockchain for a little downtime in its early years, it only makes us wonder if they’re being paid by a competitor. The pillars it builds upon are highly innovative and solve many current problems in the Web3 space. Just like the most high-end cars need oil changes, some blockchains will need their own oil changes from time-to-time. After all, every man-made structure is flawed to some extent. To attack Solana by focusing on one flaw, while ignoring all of its benefits, fails to offer a real solution. Let’s have more hope in this space, seeking for solutions rather than accusations.\nWill Solana Make It?\n*Do your own research. This article is not financial advice.\nAbout the Author\nOni Merchant is a writer on The Hologram News Network, an independent blockchain gaming meta-news organization devoted to the coverage of Star Atlas. Follow him on Twitter @OniMerchant.\nFollow The Hologram on Social Media:\nPodcast | YouTube | Twitter | Instagram | Web\nAbout The Hologram\nThe Hologram is Star Atlas’ first and only independent news network. Our vision is to become the most trusted source of information about Star Atlas and a voice for the whole community. Readers can expect a high standard from our reporting and staff. Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.\nThe Hologram is not endorsed or paid by the Star Atlas team. Any information published by The Hologram nor its writers should be considered as informational in nature and does not constitute any financial advice.",
+  "content_hash": "9644ac47b33f3b1a3ae022754ad1acb1511cee67d833385994bd24e542f56dad",
+  "major_topics": [
+    "governance",
+    "economy",
+    "game development",
+    "community",
+    "lore",
+    "technology"
+  ],
+  "entities": [
+    "ATLAS",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-DCE2502DEDBD0B25-01",
+      "text": "Finding Strength in Reality Just like roads need repairs, computer parts need replaced, and Star Atlas spaceships need resupplied, some blockchains will have occasional problems, especially this early on.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-DCE2502DEDBD0B25",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-DCE2502DEDBD0B25-02",
+      "text": "Just like the most high-end cars need oil changes, some blockchains will need their own oil changes from time-to-time.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-DCE2502DEDBD0B25",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-DCE2502DEDBD0B25-03",
+      "text": "Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-DCE2502DEDBD0B25",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Star Atlas",
+    "ATLAS"
+  ],
+  "governance_items": [
+    "Star Atlas governance / DAO"
+  ],
+  "lore_items": [
+    "ONI"
+  ],
+  "actors": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://medium.com/@punaab?source=---byline--7b4b191b67b2---------------------------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fthe-hologram%2F7b4b191b67b2&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fthe-solana-fud-fiction-to-faction-7b4b191b67b2&user=Oni+Merchant&userId=ad2a3faef607&source=---header_actions--7b4b191b67b2---------------------clap_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Frepost%2Fp%2F7b4b191b67b2&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fthe-solana-fud-fiction-to-faction-7b4b191b67b2&user=Oni+Merchant&userId=ad2a3faef607&source=---header_actions--7b4b191b67b2---------------------repost_header------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F7b4b191b67b2&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fthe-solana-fud-fiction-to-faction-7b4b191b67b2&source=---header_actions--7b4b191b67b2---------------------bookmark_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2Fplans%3Fdimension%3Dpost_audio_button%26postId%3D7b4b191b67b2&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fthe-solana-fud-fiction-to-faction-7b4b191b67b2&source=---header_actions--7b4b191b67b2---------------------post_audio_button------------------",
+      "anchor_text": "Listen"
+    },
+    {
+      "url": "https://medium.com/u/af6a22150fa9?source=---user_mention--7b4b191b67b2---------------------------------------",
+      "anchor_text": "Solana"
+    },
+    {
+      "url": "https://medium.com/u/5ed69ff9cfb0?source=---user_mention--7b4b191b67b2---------------------------------------",
+      "anchor_text": "Star Atlas"
+    },
+    {
+      "url": "https://medium.com/solana-labs/7-innovations-that-make-solana-the-first-web-scale-blockchain-ddc50b1defda",
+      "anchor_text": "key innovations"
+    },
+    {
+      "url": "https://youtu.be/93tTlejQCuI",
+      "anchor_text": "some individuals"
+    },
+    {
+      "url": "https://medium.com/@punaab",
+      "anchor_text": "Oni Merchant"
+    },
+    {
+      "url": "https://medium.com/the-hologram",
+      "anchor_text": "The Hologram News Network"
+    },
+    {
+      "url": "https://twitter.com/OniMerchant",
+      "anchor_text": "OniMerchant"
+    },
+    {
+      "url": "https://open.spotify.com/show/2mxndrDW6yPfpS350ijzjt?si=ec7c717f998240d6",
+      "anchor_text": "Podcast"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCDa-YxgNG6A9xpH1qyP0OaQ",
+      "anchor_text": "YouTube"
+    },
+    {
+      "url": "https://twitter.com/home",
+      "anchor_text": "Twitter"
+    },
+    {
+      "url": "https://thehologram.io/",
+      "anchor_text": "Web"
+    },
+    {
+      "url": "https://staratlas.com/",
+      "anchor_text": "Star Atlas"
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "https://medium.com/the-hologram/the-solana-fud-fiction-to-faction-7b4b191b67b2",
+    "final_url": "https://medium.com/the-hologram/the-solana-fud-fiction-to-faction-7b4b191b67b2",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 289860,
+    "elapsed_ms": 717,
+    "retrieval_mode": "LIVE",
+    "archive_capture": null
+  }
+}

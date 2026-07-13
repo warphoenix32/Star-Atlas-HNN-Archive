@@ -1,0 +1,119 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-137411269AFC6A24",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47028984667667-Can-I-Cancel-a-Rental-Early",
+    "title": "Can I Cancel a Rental Early?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-02T18:09:13Z",
+    "updated_at": "2025-12-08T18:24:11Z",
+    "original_date_text": "2025-12-02T18:09:13Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “Can I Cancel a Rental Early?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Yes, renters can cancel their fleet rental at any time. When you cancel:\nThe system calculates a pro-rata refund for any unused rental days.\nPayments are released daily, with refunds processed on the next scheduled tick (0000 UTC).\nThe rental status will update accordingly, and you will receive a confirmation once the cancellation is complete.\nExample Timeline: If accepting a rental at 1000 UTC for a duration of 5 days\nTicks\n0\n1\n2\n3\n4\n5\nDay\nDay 1 - 1000 UTC\nDay 2 - 1000 UTC\nDay 3 - 1000 UTC\nDay 4 - 1000 UTC\nDay 5 - 1000 UTC\nDay 6 - 1000 UTC\nLender Paid\nOff Market\n✅\nMarket\nBorrower\nRenting\nCancelled\nRefund\nClosed",
+  "content_hash": "eb366db8f86bd48a4d6a5d6ef2817277c0fb301878dfbdaa53b2706e40260cff",
+  "entities": [],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-137411269AFC6A24-01",
+      "text": "Yes, renters can cancel their fleet rental at any time.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-137411269AFC6A24",
+      "publication_date": "2025-12-02T18:09:13Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-137411269AFC6A24-02",
+      "text": "When you cancel: The system calculates a pro-rata refund for any unused rental days.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-137411269AFC6A24",
+      "publication_date": "2025-12-02T18:09:13Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-137411269AFC6A24-03",
+      "text": "Payments are released daily, with refunds processed on the next scheduled tick (0000 UTC).",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-137411269AFC6A24",
+      "publication_date": "2025-12-02T18:09:13Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-137411269AFC6A24-04",
+      "text": "The rental status will update accordingly, and you will receive a confirmation once the cancellation is complete.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-137411269AFC6A24",
+      "publication_date": "2025-12-02T18:09:13Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-137411269AFC6A24-05",
+      "text": "Example Timeline: If accepting a rental at 1000 UTC for a duration of 5 days Ticks 0 1 2 3 4 5 Day Day 1 - 1000 UTC Day 2 - 1000 UTC Day 3 - 1000 UTC Day 4 - 1000 UTC Day 5 - 1000 UTC Day 6 - 1000 UTC Lender Paid Off Market ✅ Market Borrower Renting Cancelled Refund Closed",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-137411269AFC6A24",
+      "publication_date": "2025-12-02T18:09:13Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47028984667667-Can-I-Cancel-a-Rental-Early",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.284843Z"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-EA72DB41419EB7A3",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47210146746899-How-do-I-access-the-Star-Atlas-UE5-Game",
+    "title": "How do I access the Star Atlas UE5 Game?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-08T20:25:29Z",
+    "updated_at": "2025-12-09T16:46:11Z",
+    "original_date_text": "2025-12-08T20:25:29Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “How do I access the Star Atlas UE5 Game?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "The Star Atlas Showroom is available on the Epic Games Store, and getting access is now easier than ever. Game keys are distributed through our official Discord server, no badge or Faction Fleet enrollment is required.\nHow to Get a Game Key\nJoin the Star Atlas Discord: https://discord.gg/staratlas\nIn the Start Here (INFORMATION) category, go to the\n🔑┃game-access-key\nchannel\nUse the command:\n/key\nThe bot will instantly reply with your personal Epic Games key for the Showroom\nHow to Redeem Your Key on Epic Games\nOpen or install the Epic Games Launcher\nLog into your Epic Games account\nClick your profile name in the upper-right corner\nSelect “Redeem Code” from the dropdown\nEnter the game key you received from Discord\nOpen your Library — Star Atlas will be there!",
+  "content_hash": "6afa9c6c47fe140d1618c4ba079ffd4cc2e4877d8316146f25103652665fd76e",
+  "entities": [
+    "ATLAS",
+    "Faction Fleet",
+    "Showroom"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-EA72DB41419EB7A3-01",
+      "text": "The Star Atlas Showroom is available on the Epic Games Store, and getting access is now easier than ever.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-EA72DB41419EB7A3",
+      "publication_date": "2025-12-08T20:25:29Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-EA72DB41419EB7A3-02",
+      "text": "Game keys are distributed through our official Discord server, no badge or Faction Fleet enrollment is required.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-EA72DB41419EB7A3",
+      "publication_date": "2025-12-08T20:25:29Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Faction Fleet",
+    "Showroom",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47210146746899-How-do-I-access-the-Star-Atlas-UE5-Game",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.329767Z"
+  }
+}

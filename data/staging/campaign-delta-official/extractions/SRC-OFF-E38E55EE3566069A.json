@@ -1,0 +1,149 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-E38E55EE3566069A",
+    "url": "https://staratlas.com/game/your-fleet-your-way/",
+    "title": "Your Fleet, Your Way | Star Atlas",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas / ATMTA",
+    "published_at": null,
+    "updated_at": null,
+    "original_date_text": null,
+    "document_type": "REFERENCE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas / ATMTA",
+    "publication_role": "LORE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://play.staratlas.com",
+        "anchor_text": "Play Now"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official lore titled “Your Fleet, Your Way | Star Atlas.” This record preserves what Star Atlas / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Your Fleet, Your Way | Star Atlas\n0001.\nYour Fleet, Your Way\nIn Star Atlas, ships serve as homes, businesses, and strategic assets. Explore every deck of your vessels, customize their loadouts, and build a fleet that reflects your ambitions in the Galia Expanse.\nYour browser does not support the video tag.\n100+\nShip Models\nXXS-Titan\nSize Classes\nOwner\nOr Renter\nFull\nCustomization\nShip Interiors\nWalk through fully realized ship interiors. From the bridge to the cargo hold, every space is explorable and functional.\nDetailed 3D environments\nFunctional ship systems\nCrew quarters\nCargo management\nFleet Management\nManage your entire armada from a single interface. Assign ships to missions, coordinate movements, and optimize your fleet composition.\nMulti-ship coordination\nMission assignment\nFleet analytics\nResource allocation\nCustomization\nOutfit your ships with weapons, modules, and cosmetics. Every ship can be tailored to your preferred playstyle.\nWeapon loadouts\nModule systems\nVisual customization\nPerformance tuning\nFleet Rentals\nTurn idle ships into income or access powerful vessels without ownership. The Fleet Rental Program creates opportunities for all players.\nRent out your ships\nPassive income generation\nAccess premium vessels\nFlexible contracts\nBuilding Your First Fleet\nStart with a ship role of your choice\nLearn your ship's interior layout and systems\nAcquire specialized vessels as you identify your playstyle\nConsider renting ships to test before buying\nJoin fleet operations with your DAC for large-scale coordination\nBuild Your Legacy\nYour fleet is your empire. Start building today and leave your mark on the Galia Expanse.\nPlay Now\nExplore More Features\nGalia ExpanseGame ModesLife in GaliaFleet CommandHolosimSAGE Labs",
+  "content_hash": "bb90be81cedca95306330aca643ed1eac6b2f6b19d7b1682e2bfc3270bcf905f",
+  "entities": [
+    "ATLAS",
+    "Crew"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-E38E55EE3566069A-01",
+      "text": "Rent out your ships Passive income generation Access premium vessels Flexible contracts Building Your First Fleet Start with a ship role of your choice Learn your ship's interior layout and systems Acquire specialized vessels as you identify your playstyle Consider renting ships to test before buying Join fleet operations with your DAC for large-scale coordination Build Your Legacy Your fleet is your empire.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-E38E55EE3566069A",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "ATLAS",
+    "Crew"
+  ],
+  "governance_items": [],
+  "lore_items": [
+    "Galia"
+  ],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://play.staratlas.com",
+      "anchor_text": "Play Now"
+    },
+    {
+      "url": "https://staratlas.com/game/galia/",
+      "anchor_text": "Galia Expanse"
+    },
+    {
+      "url": "https://staratlas.com/game/game-modes/",
+      "anchor_text": "Game Modes"
+    },
+    {
+      "url": "https://staratlas.com/game/life-in-galia/",
+      "anchor_text": "Life in Galia"
+    },
+    {
+      "url": "https://staratlas.com/game/fleet-command/",
+      "anchor_text": "Fleet Command"
+    },
+    {
+      "url": "https://staratlas.com/game/holosim/",
+      "anchor_text": "Holosim"
+    },
+    {
+      "url": "https://staratlas.com/game/sage-labs/",
+      "anchor_text": "SAGE Labs"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://play.staratlas.com",
+      "anchor_text": "Play Now"
+    },
+    {
+      "url": "https://staratlas.com/game/galia/",
+      "anchor_text": "Galia Expanse"
+    },
+    {
+      "url": "https://staratlas.com/game/game-modes/",
+      "anchor_text": "Game Modes"
+    },
+    {
+      "url": "https://staratlas.com/game/life-in-galia/",
+      "anchor_text": "Life in Galia"
+    },
+    {
+      "url": "https://staratlas.com/game/fleet-command/",
+      "anchor_text": "Fleet Command"
+    },
+    {
+      "url": "https://staratlas.com/game/holosim/",
+      "anchor_text": "Holosim"
+    },
+    {
+      "url": "https://staratlas.com/game/sage-labs/",
+      "anchor_text": "SAGE Labs"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "LOW",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://staratlas.com/game/your-fleet-your-way/",
+    "final_url": "https://staratlas.com/game/your-fleet-your-way/",
+    "http_status": 200,
+    "content_type": "text/html",
+    "response_size": 9249,
+    "retrieved_at": "2026-07-13T01:05:04.313569Z",
+    "elapsed_ms": 177
+  }
+}

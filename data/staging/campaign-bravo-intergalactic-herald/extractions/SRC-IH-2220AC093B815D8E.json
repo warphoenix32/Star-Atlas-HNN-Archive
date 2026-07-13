@@ -1,0 +1,426 @@
+{
+  "source": {
+    "source_id": "SRC-IH-2220AC093B815D8E",
+    "url_id": "URL-2220AC093B815D8E",
+    "url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-80/",
+    "inventory_url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-80",
+    "title": "Star Atlas Weekly News Recap #80",
+    "author": "Intergalactic Herald",
+    "publisher": "Intergalactic Herald",
+    "published_at": "2023-10-01T17:00:00",
+    "updated_at": "2023-09-30T13:28:53",
+    "retrieved_at": "2026-07-12T22:01:18.981972Z",
+    "document_type": "NEWSLETTER",
+    "source_role": "CURATED_SUMMARY",
+    "source_classification": "CURATED_SUMMARY",
+    "classification_rationale": "Weekly newsletter/recap aggregates developments and linked sources.",
+    "wordpress_type": "posts"
+  },
+  "summary": {
+    "neutral_abstract": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week. We are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us. We are launching a Star Atlas merch store. Please check it out at Intergalactic",
+    "historical_value": "Contemporary Intergalactic Herald publication preserved with role and attribution boundaries.",
+    "current_validity_warning": "Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources."
+  },
+  "article_text": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week.\nWe are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us.\nWe are launching a Star Atlas merch store. Please check it out at Intergalactic Gear.\nWe are creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic Coalition.\nIf you would like to support our efforts, donations can be sent to intergalacticherald.sol\nStar Atlas Chatter #14 – SAGE Labs is LIVE! GTs & LPs\nRahMega posted a video recapping the last week of Star Atlas news.\nSAGE LABS – THE MISSING MANUAL – PART 1\nAephia published an article of a manual for SAGE Labs.\nMetaverse Nomads #113 Star Atlas w/ Yield Guild Games\nMetaverse Nomads posted a video replay of their weekly Star Atlas live stream.\nStar Atlas: Trade Table Tool\nOCG Thor posted a video of a Star Atlas SAGE Labs tool he built.\n#11 | What a Roller Coaster of a release SAGE Labs has been | Star Atlas\nPathfinder posted a video about his initial experience in SAGE Labs.\nTips to consider when purchasing ships in Star Atlas\nUndisputed Noobs posted a video about tips for purchasing a Star Atlas ship.\nWEEKLY STAR ATLAS NEWSLETTER #98\nAephia posted their latest Star Atlas newsletter.\nSTAR ATLAS #200 PLAY SAGE & CELEBRATE WITH ME\nMetaVerse Explorer posted a video of Star Atlas updates.\nStar Atlas How To: Create Your Fleets with NANCY\nTLDR posted a video summary of creating fleets in NANCY.\nHow to Play Star Atlas (Sage Labs)\nAtlas Theory posted a video on how to play SAGE Labs.\nThe Atlas Brew #81\nStar Atlas TV posted a replay of the latest Atlas Brew.\nStar Atlas Brew #80: Sage Labs & Community Updates – TLDR\nTLDR posted a summary video of the latest Atlas Brew.\nStar Atlas Sage Labs First Week\nBeyond the Horizon posted a video about the first week of SAGE Labs.\nStar Atlas – ZERO to HERO (Episode 4)\nAtlas Theory posted a video in his ZERO to HERO series.",
+  "content_hash": "44a532ce1bd72d08b2be0249638f7364a0effc39a256c74bd5c0f3d0521ad3ba",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [],
+  "external_sources": [
+    {
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=cvXUbrihIow",
+      "anchor_text": "last week of Star Atlas news"
+    },
+    {
+      "url": "https://aephia.com/star-atlas/sage-labs-the-missing-manual-part-1/",
+      "anchor_text": "manual for SAGE Labs"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=iDg2GY48m_A",
+      "anchor_text": "video replay of their weekly Star Atlas live stream"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=jQgYI765_zk",
+      "anchor_text": "Star Atlas SAGE Labs tool he built"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=y2csnzKeDA8",
+      "anchor_text": "initial experience in SAGE Labs"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Ec9MpqUAyfk",
+      "anchor_text": "tips for purchasing a Star Atlas ship"
+    },
+    {
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-98/",
+      "anchor_text": "latest Star Atlas newsletter"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=7ULmowRO3N0",
+      "anchor_text": "Star Atlas updates"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=9H-itIlyMCY",
+      "anchor_text": "creating fleets in NANCY"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=oMXsDfcZ-ZE",
+      "anchor_text": "how to play SAGE Labs"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ssoJDdoVgAY",
+      "anchor_text": "latest Atlas Brew"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=32P_MX9jJdA",
+      "anchor_text": "summary video of the latest Atlas Brew"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=O3nj_0_qk_o",
+      "anchor_text": "first week of SAGE Labs"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=_u0AwndcK90",
+      "anchor_text": "video in his ZERO to HERO series"
+    }
+  ],
+  "primary_source_relationships": [
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=cvXUbrihIow",
+      "anchor_text": "last week of Star Atlas news"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/sage-labs-the-missing-manual-part-1/",
+      "anchor_text": "manual for SAGE Labs"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=iDg2GY48m_A",
+      "anchor_text": "video replay of their weekly Star Atlas live stream"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=jQgYI765_zk",
+      "anchor_text": "Star Atlas SAGE Labs tool he built"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=y2csnzKeDA8",
+      "anchor_text": "initial experience in SAGE Labs"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=Ec9MpqUAyfk",
+      "anchor_text": "tips for purchasing a Star Atlas ship"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-98/",
+      "anchor_text": "latest Star Atlas newsletter"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=7ULmowRO3N0",
+      "anchor_text": "Star Atlas updates"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=9H-itIlyMCY",
+      "anchor_text": "creating fleets in NANCY"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=oMXsDfcZ-ZE",
+      "anchor_text": "how to play SAGE Labs"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=ssoJDdoVgAY",
+      "anchor_text": "latest Atlas Brew"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=32P_MX9jJdA",
+      "anchor_text": "summary video of the latest Atlas Brew"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=O3nj_0_qk_o",
+      "anchor_text": "first week of SAGE Labs"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=_u0AwndcK90",
+      "anchor_text": "video in his ZERO to HERO series"
+    }
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Verify which outbound links are primary sources and preserve creator attribution during promotion."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-80&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 7281,
+    "elapsed_ms": 1964,
+    "attempts": [
+      {
+        "endpoint": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-80&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "http_status": 200,
+        "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-80&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "content_type": "application/json; charset=UTF-8",
+        "response_size": 7281,
+        "elapsed_ms": 1964
+      }
+    ]
+  },
+  "source_lineage": {
+    "publication": "Intergalactic Herald",
+    "publication_role": "CURATED_SUMMARY",
+    "relationship": "CURATED_SUMMARY_OF",
+    "primary_sources": [
+      {
+        "publication": "last week of Star Atlas news",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=cvXUbrihIow",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: last week of Star Atlas news"
+      },
+      {
+        "publication": "manual for SAGE Labs",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/sage-labs-the-missing-manual-part-1/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article with anchor text: manual for SAGE Labs"
+      },
+      {
+        "publication": "video replay of their weekly Star Atlas live stream",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=iDg2GY48m_A",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: video replay of their weekly Star Atlas live stream"
+      },
+      {
+        "publication": "Star Atlas SAGE Labs tool he built",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=jQgYI765_zk",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas SAGE Labs tool he built"
+      },
+      {
+        "publication": "initial experience in SAGE Labs",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=y2csnzKeDA8",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: initial experience in SAGE Labs"
+      },
+      {
+        "publication": "tips for purchasing a Star Atlas ship",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=Ec9MpqUAyfk",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: tips for purchasing a Star Atlas ship"
+      },
+      {
+        "publication": "latest Star Atlas newsletter",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-98/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest Star Atlas newsletter"
+      },
+      {
+        "publication": "Star Atlas updates",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=7ULmowRO3N0",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas updates"
+      },
+      {
+        "publication": "creating fleets in NANCY",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=9H-itIlyMCY",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: creating fleets in NANCY"
+      },
+      {
+        "publication": "how to play SAGE Labs",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=oMXsDfcZ-ZE",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: how to play SAGE Labs"
+      },
+      {
+        "publication": "latest Atlas Brew",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=ssoJDdoVgAY",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest Atlas Brew"
+      },
+      {
+        "publication": "summary video of the latest Atlas Brew",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=32P_MX9jJdA",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: summary video of the latest Atlas Brew"
+      },
+      {
+        "publication": "first week of SAGE Labs",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=O3nj_0_qk_o",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: first week of SAGE Labs"
+      },
+      {
+        "publication": "video in his ZERO to HERO series",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=_u0AwndcK90",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: video in his ZERO to HERO series"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "publication": "Intergalactic Gear",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticgear.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Intergalactic Coalition",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticcoalition.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      }
+    ],
+    "original_creators": [
+      "Aephia",
+      "Star Atlas"
+    ],
+    "attribution_chain": [
+      {
+        "from": "last week of Star Atlas news",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=cvXUbrihIow"
+      },
+      {
+        "from": "manual for SAGE Labs",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/sage-labs-the-missing-manual-part-1/"
+      },
+      {
+        "from": "video replay of their weekly Star Atlas live stream",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=iDg2GY48m_A"
+      },
+      {
+        "from": "Star Atlas SAGE Labs tool he built",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=jQgYI765_zk"
+      },
+      {
+        "from": "initial experience in SAGE Labs",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=y2csnzKeDA8"
+      },
+      {
+        "from": "tips for purchasing a Star Atlas ship",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=Ec9MpqUAyfk"
+      },
+      {
+        "from": "latest Star Atlas newsletter",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-98/"
+      },
+      {
+        "from": "Star Atlas updates",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=7ULmowRO3N0"
+      },
+      {
+        "from": "creating fleets in NANCY",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=9H-itIlyMCY"
+      },
+      {
+        "from": "how to play SAGE Labs",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=oMXsDfcZ-ZE"
+      },
+      {
+        "from": "latest Atlas Brew",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=ssoJDdoVgAY"
+      },
+      {
+        "from": "summary video of the latest Atlas Brew",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=32P_MX9jJdA"
+      },
+      {
+        "from": "first week of SAGE Labs",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=O3nj_0_qk_o"
+      },
+      {
+        "from": "video in his ZERO to HERO series",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=_u0AwndcK90"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  }
+}

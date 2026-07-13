@@ -1,0 +1,174 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-DFB2C89AA6D125C5",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47061470550675-How-to-Enlist-Claim-Stakes-in-Star-Atlas",
+    "title": "How to Enlist Claim Stakes in Star Atlas?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-03T17:02:03Z",
+    "updated_at": "2025-12-08T18:23:19Z",
+    "original_date_text": "2025-12-03T17:02:03Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://play.staratlas.com/claims",
+        "anchor_text": "play.staratlas.com/claims"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “How to Enlist Claim Stakes in Star Atlas?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Enlisting your Claim Stakes into Faction Claims is the best way to start generating passive income through R4 resources like Fuel, Food, Ammo, and Toolkits.\nBefore starting, ensure you have a funded Solana wallet connected and a small amount of SOL available to cover transaction fees\n1. Go to Faction Claims\nVisit play.staratlas.com/claims and connect your Solana wallet.\n2. Open the “Available Claims” Tab\nOnce connected, navigate to the “Available Claims” tab under the Faction Claims section.\n3. Select Your Claim Stake\nBrowse through the list of eligible Claim Stakes in your wallet\nClick on the stake you wish to enlist\n4. Choose Quantity and Enlist\nEnter how many of that Claim Stake you want to enlist.\nClick the \"Stake Claims\" button.\n5. Approve the Transaction\nYour wallet will prompt you to approve the enlistment. Confirm the transaction and pay the small SOL fee",
+  "content_hash": "17fdac800f94c3f4764ca7f45e91f0ebd270051556e877a749b29c6375c4b3c1",
+  "entities": [
+    "Claim Stakes",
+    "Solana"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-DFB2C89AA6D125C5-01",
+      "text": "Enlisting your Claim Stakes into Faction Claims is the best way to start generating passive income through R4 resources like Fuel, Food, Ammo, and Toolkits.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-DFB2C89AA6D125C5",
+      "publication_date": "2025-12-03T17:02:03Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-DFB2C89AA6D125C5-02",
+      "text": "Before starting, ensure you have a funded Solana wallet connected and a small amount of SOL available to cover transaction fees 1.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-DFB2C89AA6D125C5",
+      "publication_date": "2025-12-03T17:02:03Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-DFB2C89AA6D125C5-03",
+      "text": "Go to Faction Claims Visit play.staratlas.com/claims and connect your Solana wallet.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-DFB2C89AA6D125C5",
+      "publication_date": "2025-12-03T17:02:03Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-DFB2C89AA6D125C5-04",
+      "text": "Open the “Available Claims” Tab Once connected, navigate to the “Available Claims” tab under the Faction Claims section.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-DFB2C89AA6D125C5",
+      "publication_date": "2025-12-03T17:02:03Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-DFB2C89AA6D125C5-05",
+      "text": "Select Your Claim Stake Browse through the list of eligible Claim Stakes in your wallet Click on the stake you wish to enlist 4.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-DFB2C89AA6D125C5",
+      "publication_date": "2025-12-03T17:02:03Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-DFB2C89AA6D125C5-06",
+      "text": "Choose Quantity and Enlist Enter how many of that Claim Stake you want to enlist.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-DFB2C89AA6D125C5",
+      "publication_date": "2025-12-03T17:02:03Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-DFB2C89AA6D125C5-07",
+      "text": "Approve the Transaction Your wallet will prompt you to approve the enlistment.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-DFB2C89AA6D125C5",
+      "publication_date": "2025-12-03T17:02:03Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-DFB2C89AA6D125C5-08",
+      "text": "Confirm the transaction and pay the small SOL fee",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-DFB2C89AA6D125C5",
+      "publication_date": "2025-12-03T17:02:03Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Claim Stakes"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [
+    "Solana"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://play.staratlas.com/claims",
+      "anchor_text": "play.staratlas.com/claims"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://play.staratlas.com/claims",
+      "anchor_text": "play.staratlas.com/claims"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47061470550675-How-to-Enlist-Claim-Stakes-in-Star-Atlas",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.161597Z"
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-6A20C318BFBA5E14",
+    "url": "https://build.staratlas.com/dev-resources/on-chain-game-systems/galactic-marketplace/fees",
+    "title": "Star Atlas Build",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Build / ATMTA",
+    "published_at": null,
+    "updated_at": "2026-04-16T16:32:35.000Z",
+    "original_date_text": "2026-04-16T16:32:35.000Z",
+    "document_type": "TECHNICAL_DOCUMENTATION",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Build / ATMTA",
+    "publication_role": "TECHNICAL_DOCUMENTATION",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://govern.staratlas.com",
+        "anchor_text": "Star Atlas DAO"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Build / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official technical documentation titled “Star Atlas Build.” This record preserves what Star Atlas Build / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Fees | Star Atlas Build\nSkip to contentStar Atlas BuildSearchK\nAppearance\nMenuReturn to top\nFees ​\nFees on the Galactic Marketplace directly support both the Star Atlas DAO and the ongoing development of the decentralized Star Atlas ecosystem.\nWho pays fees in a transaction? ​\nIn any given transaction, the party supplying the currency side of the exchange pays fees. For example:\nIf Alice places an order to sell their Pearce X4 bike, the buyer of that bike will pay fees for the transaction because they are the party supplying currency.\nOn the other hand, if Alice places an order to buy a Pearce X4 bike, then Alice will pay fees for the transaction because she is the party supplying the currency side of the transaction.\nAllocation Strategy ​\nAll collected fees are split between ATMTA, Inc. and the Star Atlas DAO:\nEntity\nFee Allocation\nStar Atlas DAO\n33%\nATMTA, Inc.\n67%\nFee Reductions ​\nUsers have the opportunity to reduce transaction fees on the marketplace by staking ATLAS through the Star Atlas DAO.\nATLAS Value Locked\nFee Reduction\nNew Fee Value\n0\n0%\n6.00% (base value)\n10,000\n10%\n5.40%\n70,000\n15%\n5.10%\n560,000\n25%\n4.50%\n5,600,000\n45%\n3.30%\n72,800,000\n85%\n0.90%",
+  "content_hash": "049fec1d65150cb1cb0c255ded4f354bdae948091e37b9c0d301bf6e42b2dddf",
+  "entities": [
+    "ATLAS",
+    "ATMTA",
+    "Galactic Marketplace",
+    "Star Atlas DAO"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-6A20C318BFBA5E14-01",
+      "text": "Fees | Star Atlas Build Skip to contentStar Atlas BuildSearchK Appearance MenuReturn to top Fees ​ Fees on the Galactic Marketplace directly support both the Star Atlas DAO and the ongoing development of the decentralized Star Atlas ecosystem.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-6A20C318BFBA5E14",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-6A20C318BFBA5E14-02",
+      "text": "​ In any given transaction, the party supplying the currency side of the exchange pays fees.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-6A20C318BFBA5E14",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-6A20C318BFBA5E14-03",
+      "text": "For example: If Alice places an order to sell their Pearce X4 bike, the buyer of that bike will pay fees for the transaction because they are the party supplying currency.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-6A20C318BFBA5E14",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-6A20C318BFBA5E14-04",
+      "text": "On the other hand, if Alice places an order to buy a Pearce X4 bike, then Alice will pay fees for the transaction because she is the party supplying the currency side of the transaction.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-6A20C318BFBA5E14",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-6A20C318BFBA5E14-05",
+      "text": "Allocation Strategy ​ All collected fees are split between ATMTA, Inc.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-6A20C318BFBA5E14",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-6A20C318BFBA5E14-06",
+      "text": "and the Star Atlas DAO: Entity Fee Allocation Star Atlas DAO 33% ATMTA, Inc.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-6A20C318BFBA5E14",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-6A20C318BFBA5E14-07",
+      "text": "67% Fee Reductions ​ Users have the opportunity to reduce transaction fees on the marketplace by staking ATLAS through the Star Atlas DAO.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-6A20C318BFBA5E14",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-6A20C318BFBA5E14-08",
+      "text": "ATLAS Value Locked Fee Reduction New Fee Value 0 0% 6.00% (base value) 10,000 10% 5.40% 70,000 15% 5.10% 560,000 25% 4.50% 5,600,000 45% 3.30% 72,800,000 85% 0.90%",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-6A20C318BFBA5E14",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Galactic Marketplace",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [
+    "ATMTA",
+    "Star Atlas DAO"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://build.staratlas.com/dev-resources/on-chain-game-systems/galactic-marketplace/fees",
+      "anchor_text": "Skip to content"
+    },
+    {
+      "url": "https://build.staratlas.com/",
+      "anchor_text": "Star Atlas Build"
+    },
+    {
+      "url": "https://discord.com/invite/staratlas",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://govern.staratlas.com",
+      "anchor_text": "Star Atlas DAO"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://build.staratlas.com/dev-resources/on-chain-game-systems/galactic-marketplace/fees",
+      "anchor_text": "Skip to content"
+    },
+    {
+      "url": "https://build.staratlas.com/",
+      "anchor_text": "Star Atlas Build"
+    },
+    {
+      "url": "https://govern.staratlas.com",
+      "anchor_text": "Star Atlas DAO"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://build.staratlas.com/dev-resources/on-chain-game-systems/galactic-marketplace/fees",
+    "final_url": "https://build.staratlas.com/dev-resources/on-chain-game-systems/galactic-marketplace/fees",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 33772,
+    "retrieved_at": "2026-07-13T01:04:29.868450Z",
+    "elapsed_ms": 161
+  }
+}

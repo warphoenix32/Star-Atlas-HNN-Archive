@@ -1,0 +1,242 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-4E9E0D35A253DF51",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47027519932691-What-is-a-DAC-in-Star-Atlas",
+    "title": "What is a DAC in Star Atlas?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-02T17:34:39Z",
+    "updated_at": "2025-12-08T18:24:16Z",
+    "original_date_text": "2025-12-02T17:34:39Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://play.staratlas.com/dac/",
+        "anchor_text": "DAC Platform on Play"
+      },
+      {
+        "url": "https://play.staratlas.com/dac",
+        "anchor_text": "play.staratlas.com/dac"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “What is a DAC in Star Atlas?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "In the Star Atlas metaverse, a DAC (Decentralized Autonomous Corporation) is more than just a guild or alliance it’s the core social and organizational structure of the game. DACs enable players to collaborate under shared goals and identities, shaping gameplay, strategy, and community\nWhat Is a DAC?\nA DAC is a player-created organization designed for cooperation, coordination, and shared progression. Whether focused on mining, combat, exploration, logistics, or governance, DACs provide a formal way for players to unite and operate as a collective.\nEach DAC defines its own structure, values, and recruitment strategy. They are self-governed entities with the flexibility to adopt democratic models, hierarchical leadership, or hybrid systems — depending on the goals and vision of the group.\nCommunity, Identity & Purpose\nAt the heart of every DAC is its community. Members form social bonds, create shared lore, execute missions together, and often shape the political or economic landscape of Star Atlas. Being part of a DAC means more than playing side-by-side — it means building a shared legacy in the Galia Expanse.\nDAC Platform on Play\nIn early 2024, Star Atlas launched the DAC Platform v0 on play.staratlas.com/dac, allowing players to:\nCreate DACs on-chain with a custom name, avatar, banner and public description\nAdd tags (e.g., faction, gameplay style) to improve discoverability\nGenerate affiliate join links to recruit new members\nExplore and apply to existing DACs that align with their values\n⚠️ While the DAC Platform is not yet connected to in-game features, it serves as the official registry for player organizations. Future updates will integrate DACs directly into gameplay and governance systems.\nWhat’s Coming Next?\nFuture DAC Platform updates will introduce advanced capabilities like:\nTreasury & resource management\nInternal roles and permission control\nAsset pooling and shared inventory\nVoting and proposal systems\nIn-game utility across SAGE, UE5, and other modules\nThese features aim to empower DACs as true strategic, economic, and political entities in Star Atlas — enabling them to operate like decentralized guilds with real impact on the metaverse.\nWhy Join or Create a DAC?\nJoining or founding a DAC is one of the most meaningful ways to play Star Atlas. As a member, you can:\nCollaborate on goals like mining, combat, or exploration\nAccess shared knowledge and pooled resources\nTake part in events, faction politics, and future governance\nBuild identity and influence across the Galia Expanse\nWhether you lead or follow, DACs bring players together to achieve more than they could alone.",
+  "content_hash": "ae05723b74c6f2a099ab174b1e3bbbd64f2e8eead7666385ff0dd9ea2521a169",
+  "entities": [
+    "ATLAS",
+    "CORE",
+    "SAGE"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-4E9E0D35A253DF51-01",
+      "text": "In the Star Atlas metaverse, a DAC (Decentralized Autonomous Corporation) is more than just a guild or alliance it’s the core social and organizational structure of the game.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-4E9E0D35A253DF51",
+      "publication_date": "2025-12-02T17:34:39Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-4E9E0D35A253DF51-02",
+      "text": "DACs enable players to collaborate under shared goals and identities, shaping gameplay, strategy, and community What Is a DAC?",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-4E9E0D35A253DF51",
+      "publication_date": "2025-12-02T17:34:39Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-4E9E0D35A253DF51-03",
+      "text": "A DAC is a player-created organization designed for cooperation, coordination, and shared progression.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-4E9E0D35A253DF51",
+      "publication_date": "2025-12-02T17:34:39Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-4E9E0D35A253DF51-04",
+      "text": "Whether focused on mining, combat, exploration, logistics, or governance, DACs provide a formal way for players to unite and operate as a collective.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-4E9E0D35A253DF51",
+      "publication_date": "2025-12-02T17:34:39Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-4E9E0D35A253DF51-05",
+      "text": "Each DAC defines its own structure, values, and recruitment strategy.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-4E9E0D35A253DF51",
+      "publication_date": "2025-12-02T17:34:39Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-4E9E0D35A253DF51-06",
+      "text": "They are self-governed entities with the flexibility to adopt democratic models, hierarchical leadership, or hybrid systems — depending on the goals and vision of the group.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-4E9E0D35A253DF51",
+      "publication_date": "2025-12-02T17:34:39Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-4E9E0D35A253DF51-07",
+      "text": "Community, Identity & Purpose At the heart of every DAC is its community.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-4E9E0D35A253DF51",
+      "publication_date": "2025-12-02T17:34:39Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-4E9E0D35A253DF51-08",
+      "text": "Members form social bonds, create shared lore, execute missions together, and often shape the political or economic landscape of Star Atlas.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-4E9E0D35A253DF51",
+      "publication_date": "2025-12-02T17:34:39Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-4E9E0D35A253DF51-09",
+      "text": "Being part of a DAC means more than playing side-by-side — it means building a shared legacy in the Galia Expanse.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-4E9E0D35A253DF51",
+      "publication_date": "2025-12-02T17:34:39Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-4E9E0D35A253DF51-10",
+      "text": "Future updates will integrate DACs directly into gameplay and governance systems.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-4E9E0D35A253DF51",
+      "publication_date": "2025-12-02T17:34:39Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-4E9E0D35A253DF51-11",
+      "text": "Future DAC Platform updates will introduce advanced capabilities like: Treasury & resource management Internal roles and permission control Asset pooling and shared inventory Voting and proposal systems In-game utility across SAGE, UE5, and other modules These features aim to empower DACs as true strategic, economic, and political entities in Star Atlas — enabling them to operate like decentralized guilds with real impact on the metaverse.",
+      "claim_type": "ROADMAP_PLAN",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-4E9E0D35A253DF51",
+      "publication_date": "2025-12-02T17:34:39Z",
+      "confidence": "MEDIUM",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-4E9E0D35A253DF51-12",
+      "text": "Joining or founding a DAC is one of the most meaningful ways to play Star Atlas.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-4E9E0D35A253DF51",
+      "publication_date": "2025-12-02T17:34:39Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-4E9E0D35A253DF51-13",
+      "text": "As a member, you can: Collaborate on goals like mining, combat, or exploration Access shared knowledge and pooled resources Take part in events, faction politics, and future governance Build identity and influence across the Galia Expanse Whether you lead or follow, DACs bring players together to achieve more than they could alone.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-4E9E0D35A253DF51",
+      "publication_date": "2025-12-02T17:34:39Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "SAGE",
+    "CORE",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [
+    "Galia"
+  ],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://play.staratlas.com/dac/",
+      "anchor_text": "DAC Platform on Play"
+    },
+    {
+      "url": "https://play.staratlas.com/dac",
+      "anchor_text": "play.staratlas.com/dac"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://play.staratlas.com/dac/",
+      "anchor_text": "DAC Platform on Play"
+    },
+    {
+      "url": "https://play.staratlas.com/dac",
+      "anchor_text": "play.staratlas.com/dac"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47027519932691-What-is-a-DAC-in-Star-Atlas",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.299187Z"
+  }
+}

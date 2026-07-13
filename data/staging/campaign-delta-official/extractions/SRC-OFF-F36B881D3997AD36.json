@@ -1,0 +1,148 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-F36B881D3997AD36",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47061423487379-What-is-play-to-earn",
+    "title": "What is play-to-earn?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-03T17:01:23Z",
+    "updated_at": "2025-12-08T18:23:45Z",
+    "original_date_text": "2025-12-03T17:01:23Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “What is play-to-earn?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Play-to-earn (P2E) is a game model where players can earn real-world value by participating in the game—completing tasks, battling, trading, crafting, or managing resources.\nIn traditional games, the time and effort you put in often stay locked inside the game. In blockchain-based games like Star Atlas, your effort can be rewarded with cryptocurrencies and NFTs that you fully own and can trade or sell outside the game.\nWhat Can You Earn?\nIn Star Atlas, players can earn:\nATLAS – the in-game currency, used for transactions, upgrades, and rewards\nResources (R4 & raw materials) – earned through crafting or mining in SAGE\nFees from renting out fleets – other players pay you to use your ships\nNFT assets – like ships that can be traded on the marketplace\nWhy Is Blockchain Important?\nBecause Star Atlas runs on the Solana blockchain, all these assets:\nAre owned by you, not the game company\nCan be traded freely on secondary markets\nAre provably scarce and authentic thanks to blockchain technology\nIs Play-to-Earn New?\nNot exactly. Traditional games have long included real-money trading through unofficial channels. What makes P2E in blockchain games different is that:\nOwnership is on-chain and permanent\nTrades happen on open markets, not through black markets\nEarnings are in crypto tokens you can convert to fiat currency",
+  "content_hash": "c75d5147ed28ad3a65fb31c9e0637f957f306fa107a8da52321aaf589465fbde",
+  "entities": [
+    "ATLAS",
+    "SAGE",
+    "Solana"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-F36B881D3997AD36-01",
+      "text": "Play-to-earn (P2E) is a game model where players can earn real-world value by participating in the game—completing tasks, battling, trading, crafting, or managing resources.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F36B881D3997AD36",
+      "publication_date": "2025-12-03T17:01:23Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F36B881D3997AD36-02",
+      "text": "In traditional games, the time and effort you put in often stay locked inside the game.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F36B881D3997AD36",
+      "publication_date": "2025-12-03T17:01:23Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F36B881D3997AD36-03",
+      "text": "In blockchain-based games like Star Atlas, your effort can be rewarded with cryptocurrencies and NFTs that you fully own and can trade or sell outside the game.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F36B881D3997AD36",
+      "publication_date": "2025-12-03T17:01:23Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F36B881D3997AD36-04",
+      "text": "In Star Atlas, players can earn: ATLAS – the in-game currency, used for transactions, upgrades, and rewards Resources (R4 & raw materials) – earned through crafting or mining in SAGE Fees from renting out fleets – other players pay you to use your ships NFT assets – like ships that can be traded on the marketplace Why Is Blockchain Important?",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F36B881D3997AD36",
+      "publication_date": "2025-12-03T17:01:23Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F36B881D3997AD36-05",
+      "text": "Because Star Atlas runs on the Solana blockchain, all these assets: Are owned by you, not the game company Can be traded freely on secondary markets Are provably scarce and authentic thanks to blockchain technology Is Play-to-Earn New?",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F36B881D3997AD36",
+      "publication_date": "2025-12-03T17:01:23Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F36B881D3997AD36-06",
+      "text": "Traditional games have long included real-money trading through unofficial channels.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F36B881D3997AD36",
+      "publication_date": "2025-12-03T17:01:23Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F36B881D3997AD36-07",
+      "text": "What makes P2E in blockchain games different is that: Ownership is on-chain and permanent Trades happen on open markets, not through black markets Earnings are in crypto tokens you can convert to fiat currency",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F36B881D3997AD36",
+      "publication_date": "2025-12-03T17:01:23Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "SAGE",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [
+    "Solana"
+  ],
+  "guilds": [],
+  "external_sources": [],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47061423487379-What-is-play-to-earn",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.224556Z"
+  }
+}

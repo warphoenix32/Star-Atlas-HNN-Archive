@@ -1,0 +1,307 @@
+{
+  "source": {
+    "source_id": "SRC-IH-0DBCD4AE706DF5B8",
+    "url_id": "URL-0DBCD4AE706DF5B8",
+    "url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-55/",
+    "inventory_url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-55",
+    "title": "Star Atlas Weekly News Recap #55",
+    "author": "Intergalactic Herald",
+    "publisher": "Intergalactic Herald",
+    "published_at": "2023-04-09T17:00:15",
+    "updated_at": "2025-10-30T19:50:37",
+    "retrieved_at": "2026-07-12T22:00:52.435025Z",
+    "document_type": "NEWSLETTER",
+    "source_role": "CURATED_SUMMARY",
+    "source_classification": "CURATED_SUMMARY",
+    "classification_rationale": "Weekly newsletter/recap aggregates developments and linked sources.",
+    "wordpress_type": "posts"
+  },
+  "summary": {
+    "neutral_abstract": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week. The Hologram News Network posted a video of an interview about the Star Atlas",
+    "historical_value": "Contemporary Intergalactic Herald publication preserved with role and attribution boundaries.",
+    "current_validity_warning": "Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources."
+  },
+  "article_text": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week.\nFloyd Line Aerospace One Review- Cinematic STAR ATLAS Showroom\nGladiator posted a video reviewing the Star Atlas Floyd Line ship.\nStar Atlas – Q1 2023 Development Sneak Peeks [WIP]\nStar Atlas posted a video showing some work-in-progress images of Star Atlas.\nSTAR ATLAS #170 Racing Track, Economic Report & Dev Update Video\nMetaVerse Explorer posted a video talking about the latest Star Atlas updates.\nStar Atlas Economic Report 2023 Q1\nStar Atlas published its latest Star Atlas Economic Report.\nMetaverse Nomads #88\nMetaverse Nomads posted a video of their weekly Star Atlas live stream.\nSTAR ATLAS Showroom with Gladiator 1080p\nGladiator posted a video reviewing the Star Atlas Showroom.\nStar Atlas SAGE Announcement and Quarterly Econ Update ft. Courtney\nHologram News Network posted a video with the latest Star Atlas updates.\nWEEKLY STAR ATLAS NEWSLETTER #73\nAephia published their weekly Star Atlas newsletter.\nSTAR ATLAS #171 Opal BitBoat Vs Rainbow Arc-Aid, Who wins!?\nMetaVerse Explorer posted a video comparing two Star Atlas ships.\nStar Atlas – “Shaping the Zeitgeist: Setting the Standard for Web3 Economies”\nThe Hologram News Network posted a video of an interview about the Star Atlas economy.",
+  "content_hash": "a0245946044417f4eabd6fb46f9d665ef1ecb941268dc503bd9051ede0146f1a",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [
+    "2023"
+  ],
+  "external_sources": [
+    {
+      "url": "https://www.youtube.com/watch?v=NnYcBH8YcR4",
+      "anchor_text": "Star Atlas Floyd Line ship"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=jaAN34Byp5Q",
+      "anchor_text": "work-in-progress images of Star Atlas"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=7_GOzp70DKM",
+      "anchor_text": "latest Star Atlas updates"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/economic-reports/star-atlas-economic-report-2023-q1",
+      "anchor_text": "latest Star Atlas Economic Report"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=mr3d1YyLfgk",
+      "anchor_text": "weekly Star Atlas live stream"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=2NkrbjVShUs",
+      "anchor_text": "reviewing the Star Atlas Showroom"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=rNkTp1zRUds",
+      "anchor_text": "latest Star Atlas updates"
+    },
+    {
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-73/",
+      "anchor_text": "weekly Star Atlas newsletter"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=sWgCZlrpJjI",
+      "anchor_text": "comparing two Star Atlas ships"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=xIVCP8ReRxA",
+      "anchor_text": "interview about the Star Atlas economy"
+    }
+  ],
+  "primary_source_relationships": [
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=NnYcBH8YcR4",
+      "anchor_text": "Star Atlas Floyd Line ship"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=jaAN34Byp5Q",
+      "anchor_text": "work-in-progress images of Star Atlas"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=7_GOzp70DKM",
+      "anchor_text": "latest Star Atlas updates"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://experience.staratlas.com/newsroom/economic-reports/star-atlas-economic-report-2023-q1",
+      "anchor_text": "latest Star Atlas Economic Report"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=mr3d1YyLfgk",
+      "anchor_text": "weekly Star Atlas live stream"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=2NkrbjVShUs",
+      "anchor_text": "reviewing the Star Atlas Showroom"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=rNkTp1zRUds",
+      "anchor_text": "latest Star Atlas updates"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-73/",
+      "anchor_text": "weekly Star Atlas newsletter"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=sWgCZlrpJjI",
+      "anchor_text": "comparing two Star Atlas ships"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=xIVCP8ReRxA",
+      "anchor_text": "interview about the Star Atlas economy"
+    }
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Verify which outbound links are primary sources and preserve creator attribution during promotion."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-55&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 4960,
+    "elapsed_ms": 1879,
+    "attempts": [
+      {
+        "endpoint": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-55&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "http_status": 200,
+        "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-55&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "content_type": "application/json; charset=UTF-8",
+        "response_size": 4960,
+        "elapsed_ms": 1879
+      }
+    ]
+  },
+  "source_lineage": {
+    "publication": "Intergalactic Herald",
+    "publication_role": "CURATED_SUMMARY",
+    "relationship": "CURATED_SUMMARY_OF",
+    "primary_sources": [
+      {
+        "publication": "Star Atlas Floyd Line ship",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=NnYcBH8YcR4",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas Floyd Line ship"
+      },
+      {
+        "publication": "work-in-progress images of Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=jaAN34Byp5Q",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: work-in-progress images of Star Atlas"
+      },
+      {
+        "publication": "latest Star Atlas updates",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=7_GOzp70DKM",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest Star Atlas updates"
+      },
+      {
+        "publication": "latest Star Atlas Economic Report",
+        "author": "UNKNOWN",
+        "url": "https://experience.staratlas.com/newsroom/economic-reports/star-atlas-economic-report-2023-q1",
+        "organization": "ATMTA / Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest Star Atlas Economic Report"
+      },
+      {
+        "publication": "weekly Star Atlas live stream",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=mr3d1YyLfgk",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: weekly Star Atlas live stream"
+      },
+      {
+        "publication": "reviewing the Star Atlas Showroom",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=2NkrbjVShUs",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: reviewing the Star Atlas Showroom"
+      },
+      {
+        "publication": "latest Star Atlas updates",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=rNkTp1zRUds",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest Star Atlas updates"
+      },
+      {
+        "publication": "weekly Star Atlas newsletter",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-73/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article with anchor text: weekly Star Atlas newsletter"
+      },
+      {
+        "publication": "comparing two Star Atlas ships",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=sWgCZlrpJjI",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: comparing two Star Atlas ships"
+      },
+      {
+        "publication": "interview about the Star Atlas economy",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=xIVCP8ReRxA",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: interview about the Star Atlas economy"
+      }
+    ],
+    "secondary_sources": [],
+    "original_creators": [
+      "ATMTA / Star Atlas",
+      "Aephia"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Star Atlas Floyd Line ship",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=NnYcBH8YcR4"
+      },
+      {
+        "from": "work-in-progress images of Star Atlas",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=jaAN34Byp5Q"
+      },
+      {
+        "from": "latest Star Atlas updates",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=7_GOzp70DKM"
+      },
+      {
+        "from": "latest Star Atlas Economic Report",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://experience.staratlas.com/newsroom/economic-reports/star-atlas-economic-report-2023-q1"
+      },
+      {
+        "from": "weekly Star Atlas live stream",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=mr3d1YyLfgk"
+      },
+      {
+        "from": "reviewing the Star Atlas Showroom",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=2NkrbjVShUs"
+      },
+      {
+        "from": "latest Star Atlas updates",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=rNkTp1zRUds"
+      },
+      {
+        "from": "weekly Star Atlas newsletter",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-73/"
+      },
+      {
+        "from": "comparing two Star Atlas ships",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=sWgCZlrpJjI"
+      },
+      {
+        "from": "interview about the Star Atlas economy",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=xIVCP8ReRxA"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  }
+}

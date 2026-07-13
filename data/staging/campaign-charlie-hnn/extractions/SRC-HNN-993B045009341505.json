@@ -1,0 +1,191 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-993B045009341505",
+    "url_id": "URL-993B045009341505",
+    "url": "https://hologramnews.com/why-star-atlas-token-prices-are-sinking-despite-bull-run",
+    "title": "Why Star Atlas token prices are sinking despite bull run",
+    "author": "UNKNOWN",
+    "publisher": "Hologram News Network (HNN)",
+    "publication_identity": "HNN website (hologramnews.com)",
+    "published_at": "2024-07-21T00:29:39+00:00",
+    "updated_at": "2024-08-01T09:32:15+00:00",
+    "retrieved_at": "2026-07-13T00:08:59.624027Z",
+    "document_type": "ORIGINAL_REPORTING",
+    "source_role": "ORIGINAL_REPORTING",
+    "publication_role": "ORIGINAL_REPORTING",
+    "classification_rationale": "Publication reports a development without explicit interview, editorial, investigative, event, or reference framing."
+  },
+  "source_lineage": {
+    "publication": "HNN website (hologramnews.com)",
+    "publication_role": "ORIGINAL_REPORTING",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [
+      {
+        "publication": "Star Atlas, a promising blockchain gaming project",
+        "author": "UNKNOWN",
+        "url": "https://staratlas.com/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [],
+    "attribution_chain": [
+      {
+        "from": "Star Atlas, a promising blockchain gaming project",
+        "to": "HNN website (hologramnews.com)",
+        "relationship": "REPORTS_ON",
+        "url": "https://staratlas.com/"
+      }
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "This original reporting published by Hologram News Network (HNN) on 2024-07-21 documents “Why Star Atlas token prices are sinking despite bull run.” Its surviving text addresses governance, economy, game development, community, technology. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "Why Star Atlas token prices are sinking despite bull run\nBy SiggyPublished On: 21 July 2024Tags: Atlas, ftx, Polis\nStar Atlas Token Sales and FTX Liquidation: What You Need to Know\nThe collapse of FTX in late 2022 sent shockwaves through the crypto world, and the ripple effects are still being felt today. One of the key developments has been the sale of tokens acquired by the FTX liquidator, the firm tasked with managing and selling FTX’s remaining assets.\nStar Atlas, a promising blockchain gaming project, was one of FTX’s major holdings. Through an arbitration process, the liquidator acquired a significant portion of both ATLAS and POLIS tokens, Star Atlas’ in-game currencies. This has led to consistent selling pressure on these tokens since April 1, 2024, impacting their prices. (Side note: this sell pressure has affected most Solana projects from about the same time, just not to the degree as Star Atlas). Star Atlas was one of FTX’s larger holdings especially being a smaller project.\nGood News on the Horizon:\nThe good news is that the end of these token sales is in sight. Based on current rates, ATLAS sales could conclude within approximately 30 days. POLIS sales might take a bit longer due to lower liquidity, which limits how many tokens can be sold at once.\nBut these token sales have been something that has been coming since the FTX collapse and now for ATLAS we are nearing an end, with a strong community, a good runway and lots of product coming to market.\nToken Sale Numbers and Details:\nPOLIS Price on 1 Apri 2024\nThe FTX liquidator has been selling tokens consistently since April 1, 2024, primarily through decentralized exchanges (DEXs) and centralized exchanges (CEXs). The daily selling volumes have been substantial, especially for ATLAS.\nUp until yesterday the FTX liquidator has been selling about 4,200 POLIS per hour or 101,000 POLIS per day and 720,000 ATLAS per hour or 17,000,000 ATLAS per day.\nHowever, recently token sales have increased as much as 50% in recent days. While precise numbers are difficult to determine due to the complexities of tracking sales across different platforms, estimations suggest that a significant portion of the tokens remains to be sold.\nThe liquidator’s main wallet address is publicly available, and they utilize secondary wallets to transfer tokens to exchanges for sale.\nFTX liquidator main wallet address: jxCGvkr27xw9kcLrScnRVQVN6zfQG9KrB8QmXubXgZD\nFTX Liquidator Acquisition Tokens Remaining To Be Sold\nThe FTX Liquidator’s Acquisition:\nThe liquidator acquired these tokens in March 2024, along with numerous other assets from smaller Solana projects. The amount of ATLAS and POLIS tokens they acquired represented a notable percentage of the total supply at the time.\nATLAS = 2,878,873,159 = ~18.6% of the total circulating supply at the time\nPOLIS = 25,875,119 = ~10.6% of the total circulating supply at the time\nAddressing Community Concerns Over Token Sales\nSome players in the Star Atlas community are unhappy with ATMTA (the studio building Star Atlas) selling tokens. However, in my opinion, token selling should be expected. Let me explain why.\nWhy Does ATMTA Sell ATLAS?\nFrom the very beginning, ATMTA has accepted ATLAS as payment for Star Atlas in-game assets. This integration provides significant utility for the ATLAS we earn through in-game activities. ATMTA, as a business, needs to pay its employees and contractors in USD or other real-world currencies.\nWhen players purchase in-game assets using ATLAS, they transfer the responsibility of converting ATLAS to USD from themselves to ATMTA. This currency exchange is necessary before the payment for the in-game asset can be used for building Star Atlas.\nHow Does ATMTA Exchange ATLAS into USD?\n🔸Deposit Wallet: When ATMTA receives ATLAS from players, it initially goes into a deposit wallet.\n🔸Vault Wallet: The ATLAS is then transferred to a vault wallet, where it is stored for longer durations.\n🔸Exchange Wallet: Periodically, large amounts of ATLAS are moved to an exchange wallet.\n🔸DCA Contract: At regular intervals, batches of ATLAS enter into a DCA (dollar cost average) contract on the @jupiter exchange. This contract sells a set amount of ATLAS every hour, 24/7, until the batch is depleted.\nThis selling process is designed to be gradual and consistent to avoid causing price shocks to the ATLAS/USD exchange rate.\nWhy This Matters\nIf players didn’t have the option to buy in-game assets with ATLAS, they would need to sell their ATLAS for USD themselves. This could result in more volatile prices, making it harder for players to determine the most profitable gameplay tasks.\nCurrency Risk\nWhen players complain about ATMTA selling ATLAS, they often overlook the currency risk involved. For example, if a player buys a ship for 7000 ATLAS, but by the time ATMTA sells the 7000 ATLAS the price has fallen, ATMTA might lose potential earnings.\nDespite these risks, ATMTA is committed to this approach because it supports the long-term vision of Star Atlas. Players should understand that ATMTA’s token sales are necessary and, in a way, requested by players through their in-game purchases using ATLAS.\nLooking Forward:\nThe end of the FTX liquidator’s token sales represents a turning point for Star Atlas. With this overhang lifted, the project can concentrate on delivering its innovative gaming experiences and building its community. While the past months have been challenging due to the selling pressure, the future looks bright for Star Atlas and its dedicated supporters.\nDisclaimer: The author holds Star Atlas assets. The information provided in this article in no way constitutes investment advice.\nAbout the Author: Siggy\nStar Atlas Discount\nSave 10% on Star Atlas with the Starpath Referral Program\nrelated\nThe Mega Star Atlas Town Hall Recap – July 3, 2024\nStar Atlas Unveils New Galactic Marketplace\nnews via inbox\nGet news from the Hologram first",
+  "content_hash": "f729f166446003d4d1553773233c52d9865ff6204c3efbe8f278ca9e5416f39b",
+  "major_topics": [
+    "governance",
+    "economy",
+    "game development",
+    "community",
+    "technology"
+  ],
+  "entities": [
+    "ATLAS",
+    "POLIS",
+    "Star Atlas",
+    "StarPath"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-993B045009341505-01",
+      "text": "One of the key developments has been the sale of tokens acquired by the FTX liquidator, the firm tasked with managing and selling FTX’s remaining assets.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-993B045009341505",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-993B045009341505-02",
+      "text": "Through an arbitration process, the liquidator acquired a significant portion of both ATLAS and POLIS tokens, Star Atlas’ in-game currencies.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-993B045009341505",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-993B045009341505-03",
+      "text": "FTX liquidator main wallet address: jxCGvkr27xw9kcLrScnRVQVN6zfQG9KrB8QmXubXgZD FTX Liquidator Acquisition Tokens Remaining To Be Sold The FTX Liquidator’s Acquisition: The liquidator acquired these tokens in March 2024, along with numerous other assets from smaller Solana projects.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-993B045009341505",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-993B045009341505-04",
+      "text": "The amount of ATLAS and POLIS tokens they acquired represented a notable percentage of the total supply at the time.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-993B045009341505",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Star Atlas",
+    "POLIS",
+    "ATLAS",
+    "StarPath"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://hologramnews.com/why-star-atlas-token-prices-are-sinking-despite-bull-run/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://hologramnews.com/author/siggy/",
+      "anchor_text": "Siggy"
+    },
+    {
+      "url": "https://hologramnews.com/tag/atlas/",
+      "anchor_text": "Atlas"
+    },
+    {
+      "url": "https://hologramnews.com/tag/ftx/",
+      "anchor_text": "ftx"
+    },
+    {
+      "url": "https://hologramnews.com/tag/polis6/",
+      "anchor_text": "Polis"
+    },
+    {
+      "url": "https://hologramnews.com/star-atlas-heavily-affected-by-ftx-catastrophe-ceo-remains-committed/",
+      "anchor_text": "The collapse of FTX in late 2022 sent shockwaves"
+    },
+    {
+      "url": "https://staratlas.com/",
+      "anchor_text": "Star Atlas, a promising blockchain gaming project"
+    },
+    {
+      "url": "https://hologramnews.com/starpath-save-10-on-star-atlas/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://hologramnews.com/the-mega-star-atlas-town-hall-recap-july-3-2024/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://hologramnews.com/star-atlas-unveils-new-galactic-marketplace/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://hologramnews.com/galia-art-station/",
+      "anchor_text": ""
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "UNKNOWN",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Author is not explicit in the surviving publication metadata."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://web.archive.org/web/20240809033043id_/https://hologramnews.com/why-star-atlas-token-prices-are-sinking-despite-bull-run/",
+    "final_url": "https://web.archive.org/web/20240809033043id_/https://hologramnews.com/why-star-atlas-token-prices-are-sinking-despite-bull-run/",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "response_size": 203240,
+    "elapsed_ms": 1735,
+    "retrieval_mode": "INTERNET_ARCHIVE",
+    "archive_capture": {
+      "timestamp": "20240809033043",
+      "original": "https://hologramnews.com/why-star-atlas-token-prices-are-sinking-despite-bull-run/",
+      "digest": "M3BHSIRBEFWPC2EGE7GNGR7TGKX2QEWC"
+    }
+  }
+}

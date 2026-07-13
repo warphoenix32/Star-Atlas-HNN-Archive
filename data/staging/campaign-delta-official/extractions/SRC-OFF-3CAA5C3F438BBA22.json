@@ -1,0 +1,285 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-3CAA5C3F438BBA22",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47061460246163-How-to-Earn-ATLAS-in-Star-Atlas",
+    "title": "How to Earn ATLAS in Star Atlas",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-03T17:01:43Z",
+    "updated_at": "2025-12-08T18:23:33Z",
+    "original_date_text": "2025-12-03T17:01:43Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://based.staratlas.com/",
+        "anchor_text": "SAGE Labs"
+      },
+      {
+        "url": "https://play.staratlas.com/rentals/",
+        "anchor_text": "play.staratlas.com"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “How to Earn ATLAS in Star Atlas.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "ATLAS is the main utility token of the Star Atlas economy. It can be used to buy NFTs (ships, crew, resources, skin and more) and reduce marketplace fees and most importantly, you can earn it directly by playing.\nHere are the primary ways to earn ATLAS today:\nPlay-to-Earn in SAGE Labs (via Starbased)\nSAGE Labs is a browser-based blockchain game where all player actions are on-chain. You’ll need a Solana wallet, a small amount of SOL, and some starting assets (ship, crew, and R4 resources).\nOnce you're in, you can earn ATLAS through the following methods:\n1. Mine Resources and Sell Them\nTravel the Galia Expanse, extract raw materials, and sell them to other players through the Star Atlas Marketplace or directly on-chain.\n2. Craft and Sell Components\nUse raw materials to craft items, like refined resources, components, or ship parts—and sell them for ATLAS.\n3. Submit Resources to Starbase\nDeliver resources to help maintain and upgrade your faction’s Starbases.\nContribute to upkeep: Keep the Starbase operational and functional for all players.\nHelp upgrade Starbase tiers: Your contributions support the faction’s progress and unlock faster crafting and other benefits.\nIn return, you earn Loyalty Points (LP) that can be redeemed for ATLAS\n4. Craft and Sell FICs (Faction Infrastructure Contracts)\nFaction Infrastructure Contracts (FICs) are special items you can craft at any Starbase controlled by your faction. Once crafted, they can be sold back to the Council of Peace for a fixed reward of 2 ATLAS per FIC through faction-specific buy orders at designated Starbases.\nEach faction has a unique recipe requiring components like Frameworks and Survey Data Units.\nFIC buy orders rotate dynamically. A refill and rotation occurs only after both FIC buy orders for a faction have been fully depleted.\nSales are subject to the standard 6% Marketplace fee (reduced if you lock ATLAS).\nThis system complements LP rewards and provides a predictable, guaranteed income stream for crafters and haulers.\n5. Rent Out Your Fleet\nYou can list your SAGE fleet on the Fleet Rental platform (found on play.staratlas.com) and let other players rent your ships. This allows you to earn passive ATLAS from unused assets\nWhat You’ll Need\nTo start earning ATLAS in SAGE Labs:\nA Solana wallet (e.g. Phantom)\nA small amount of SOL for fees\nSome ATLAS to buy a starter ship, crew, and R4 resources",
+  "content_hash": "36eeac58572675456922dd591ea99c9b08d12a7a9f5b9ff47549a16a608e143a",
+  "entities": [
+    "ATLAS",
+    "Crew",
+    "SAGE",
+    "SAGE Labs",
+    "Solana"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-3CAA5C3F438BBA22-01",
+      "text": "ATLAS is the main utility token of the Star Atlas economy.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-3CAA5C3F438BBA22",
+      "publication_date": "2025-12-03T17:01:43Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-3CAA5C3F438BBA22-02",
+      "text": "It can be used to buy NFTs (ships, crew, resources, skin and more) and reduce marketplace fees and most importantly, you can earn it directly by playing.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-3CAA5C3F438BBA22",
+      "publication_date": "2025-12-03T17:01:43Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-3CAA5C3F438BBA22-03",
+      "text": "Here are the primary ways to earn ATLAS today: Play-to-Earn in SAGE Labs (via Starbased) SAGE Labs is a browser-based blockchain game where all player actions are on-chain.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-3CAA5C3F438BBA22",
+      "publication_date": "2025-12-03T17:01:43Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-3CAA5C3F438BBA22-04",
+      "text": "You’ll need a Solana wallet, a small amount of SOL, and some starting assets (ship, crew, and R4 resources).",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-3CAA5C3F438BBA22",
+      "publication_date": "2025-12-03T17:01:43Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-3CAA5C3F438BBA22-05",
+      "text": "Once you're in, you can earn ATLAS through the following methods: 1.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-3CAA5C3F438BBA22",
+      "publication_date": "2025-12-03T17:01:43Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-3CAA5C3F438BBA22-06",
+      "text": "Mine Resources and Sell Them Travel the Galia Expanse, extract raw materials, and sell them to other players through the Star Atlas Marketplace or directly on-chain.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-3CAA5C3F438BBA22",
+      "publication_date": "2025-12-03T17:01:43Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-3CAA5C3F438BBA22-07",
+      "text": "Craft and Sell Components Use raw materials to craft items, like refined resources, components, or ship parts—and sell them for ATLAS.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-3CAA5C3F438BBA22",
+      "publication_date": "2025-12-03T17:01:43Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-3CAA5C3F438BBA22-08",
+      "text": "Submit Resources to Starbase Deliver resources to help maintain and upgrade your faction’s Starbases.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-3CAA5C3F438BBA22",
+      "publication_date": "2025-12-03T17:01:43Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-3CAA5C3F438BBA22-09",
+      "text": "Contribute to upkeep: Keep the Starbase operational and functional for all players.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-3CAA5C3F438BBA22",
+      "publication_date": "2025-12-03T17:01:43Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-3CAA5C3F438BBA22-10",
+      "text": "Help upgrade Starbase tiers: Your contributions support the faction’s progress and unlock faster crafting and other benefits.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-3CAA5C3F438BBA22",
+      "publication_date": "2025-12-03T17:01:43Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-3CAA5C3F438BBA22-11",
+      "text": "In return, you earn Loyalty Points (LP) that can be redeemed for ATLAS 4.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-3CAA5C3F438BBA22",
+      "publication_date": "2025-12-03T17:01:43Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-3CAA5C3F438BBA22-12",
+      "text": "Craft and Sell FICs (Faction Infrastructure Contracts) Faction Infrastructure Contracts (FICs) are special items you can craft at any Starbase controlled by your faction.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-3CAA5C3F438BBA22",
+      "publication_date": "2025-12-03T17:01:43Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-3CAA5C3F438BBA22-13",
+      "text": "Once crafted, they can be sold back to the Council of Peace for a fixed reward of 2 ATLAS per FIC through faction-specific buy orders at designated Starbases.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-3CAA5C3F438BBA22",
+      "publication_date": "2025-12-03T17:01:43Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-3CAA5C3F438BBA22-14",
+      "text": "Each faction has a unique recipe requiring components like Frameworks and Survey Data Units.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-3CAA5C3F438BBA22",
+      "publication_date": "2025-12-03T17:01:43Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-3CAA5C3F438BBA22-15",
+      "text": "A refill and rotation occurs only after both FIC buy orders for a faction have been fully depleted.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-3CAA5C3F438BBA22",
+      "publication_date": "2025-12-03T17:01:43Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "SAGE Labs",
+    "SAGE",
+    "ATLAS",
+    "Crew"
+  ],
+  "governance_items": [],
+  "lore_items": [
+    "Galia"
+  ],
+  "actors": [],
+  "organizations": [
+    "Solana"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://support.staratlas.com/star-atlas-tokens",
+      "anchor_text": "ATLAS"
+    },
+    {
+      "url": "https://based.staratlas.com/",
+      "anchor_text": "SAGE Labs"
+    },
+    {
+      "url": "https://support.staratlas.com/how-does-the-atlas-locker-work",
+      "anchor_text": "lock ATLAS"
+    },
+    {
+      "url": "https://play.staratlas.com/rentals/",
+      "anchor_text": "play.staratlas.com"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://support.staratlas.com/star-atlas-tokens",
+      "anchor_text": "ATLAS"
+    },
+    {
+      "url": "https://based.staratlas.com/",
+      "anchor_text": "SAGE Labs"
+    },
+    {
+      "url": "https://support.staratlas.com/how-does-the-atlas-locker-work",
+      "anchor_text": "lock ATLAS"
+    },
+    {
+      "url": "https://play.staratlas.com/rentals/",
+      "anchor_text": "play.staratlas.com"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47061460246163-How-to-Earn-ATLAS-in-Star-Atlas",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.198945Z"
+  }
+}

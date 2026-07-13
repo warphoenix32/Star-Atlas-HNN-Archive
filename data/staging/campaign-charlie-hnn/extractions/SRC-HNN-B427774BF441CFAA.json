@@ -1,0 +1,413 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-B427774BF441CFAA",
+    "url_id": "URL-B427774BF441CFAA",
+    "url": "https://hologramnews.com/the-2024-star-atlas-joni-awards-nominees",
+    "title": "The 2024 Star Atlas Joni Awards Nominees - Hologram News Network 🦉",
+    "author": "UNKNOWN",
+    "publisher": "Hologram News Network (HNN)",
+    "publication_identity": "HNN website (hologramnews.com)",
+    "published_at": "2024-02-16T16:44:56+00:00",
+    "updated_at": "2024-02-19T14:59:55+00:00",
+    "retrieved_at": "2026-07-13T00:09:23.018878Z",
+    "document_type": "EVENT_COVERAGE",
+    "source_role": "EVENT_COVERAGE",
+    "publication_role": "EVENT_COVERAGE",
+    "classification_rationale": "Publication documents or recaps a named event."
+  },
+  "source_lineage": {
+    "publication": "HNN website (hologramnews.com)",
+    "publication_role": "EVENT_COVERAGE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [
+      {
+        "publication": "here",
+        "author": "UNKNOWN",
+        "url": "https://forms.gle/ZGKXnwbJQexTPpnj9",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Beyond the Horizon 2620",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/@BeyondTheHorizon2620",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Metaverse Nomads",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/@MetaverseNomads",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Metaverse Explorer",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/@MetaVerseExplorer",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "pic.twitter.com/N640cNn4VQ",
+        "author": "UNKNOWN",
+        "url": "https://t.co/N640cNn4VQ",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Aephia – Flipside Dashboard",
+        "author": "UNKNOWN",
+        "url": "https://flipsidecrypto.xyz/Aephia/star-atlas-economy-gm-insights-dJhgb_",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Sly – Labs Assistant",
+        "author": "UNKNOWN",
+        "url": "https://github.com/ImGroovin/Lab-Assistant",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Eveye – Interactive Map",
+        "author": "UNKNOWN",
+        "url": "https://atlas.eveeye.com/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "AEP Life Form",
+        "author": "UNKNOWN",
+        "url": "https://aeplife.io/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Subverted Norms",
+        "author": "UNKNOWN",
+        "url": "https://subvertednorms.com/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [],
+    "attribution_chain": [
+      {
+        "from": "here",
+        "to": "HNN website (hologramnews.com)",
+        "relationship": "REPORTS_ON",
+        "url": "https://forms.gle/ZGKXnwbJQexTPpnj9"
+      },
+      {
+        "from": "Beyond the Horizon 2620",
+        "to": "HNN website (hologramnews.com)",
+        "relationship": "REPORTS_ON",
+        "url": "https://www.youtube.com/@BeyondTheHorizon2620"
+      },
+      {
+        "from": "Metaverse Nomads",
+        "to": "HNN website (hologramnews.com)",
+        "relationship": "REPORTS_ON",
+        "url": "https://www.youtube.com/@MetaverseNomads"
+      },
+      {
+        "from": "Metaverse Explorer",
+        "to": "HNN website (hologramnews.com)",
+        "relationship": "REPORTS_ON",
+        "url": "https://www.youtube.com/@MetaVerseExplorer"
+      },
+      {
+        "from": "pic.twitter.com/N640cNn4VQ",
+        "to": "HNN website (hologramnews.com)",
+        "relationship": "REPORTS_ON",
+        "url": "https://t.co/N640cNn4VQ"
+      },
+      {
+        "from": "Aephia – Flipside Dashboard",
+        "to": "HNN website (hologramnews.com)",
+        "relationship": "REPORTS_ON",
+        "url": "https://flipsidecrypto.xyz/Aephia/star-atlas-economy-gm-insights-dJhgb_"
+      },
+      {
+        "from": "Sly – Labs Assistant",
+        "to": "HNN website (hologramnews.com)",
+        "relationship": "REPORTS_ON",
+        "url": "https://github.com/ImGroovin/Lab-Assistant"
+      },
+      {
+        "from": "Eveye – Interactive Map",
+        "to": "HNN website (hologramnews.com)",
+        "relationship": "REPORTS_ON",
+        "url": "https://atlas.eveeye.com/"
+      },
+      {
+        "from": "AEP Life Form",
+        "to": "HNN website (hologramnews.com)",
+        "relationship": "REPORTS_ON",
+        "url": "https://aeplife.io/"
+      },
+      {
+        "from": "Subverted Norms",
+        "to": "HNN website (hologramnews.com)",
+        "relationship": "REPORTS_ON",
+        "url": "https://subvertednorms.com/"
+      }
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "This event coverage published by Hologram News Network (HNN) on 2024-02-16 documents “The 2024 Star Atlas Joni Awards Nominees - Hologram News Network 🦉.” Its surviving text addresses governance, economy, guilds and DACs, game development, community, lore, technology. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "The 2024 Star Atlas Joni Awards Nominees\nBy KrigsPublished On: 16 February 2024Tags: joni, Star Atlas Events\nThe final list of the 2024 Star Atlas Joni Award nominees is officially out and Star Atlas community members have until Monday, February 26th to cast their vote for this years nominees.\nThe Joni Awards are a community nominated and voted awards ceremony that recognizes outstanding Star Atlas community members and their achievements throughout the year. The first Star Atlas Joni Awards was held in 2022 and is intended to be an annual awards ceremony. However, there were no Joni Awards in 2023 making 2024 only the second time the awards ceremony has been held.\nThis year, voters will select from nine categories, down from twelve in the previous awards cycle. Voters can check out the previous Joni Awards winners as well.\nBe sure to cast your vote for the 2024 Star Atlas Joni Awards – you can vote here.\nCommunity Member of the Year\nArktype\nFounder of Atlas Grace, a Star Atlas charity organization benefiting children in Cambodia.\nSiggy\nStar Atlas Video and Twitter Content Creator.\nYaawn\nWell renowned economic and Star Atlas game expert. Member of Bulk Guild.\nGhazinor\nOriginal Founder of Puri Coin and Puri Community. Member of Rome Guild.\nContent Creator of the Year\nBeyond the Horizon 2620\nStar Atlas YouTube Content Creator in his first year of content creation.\nMetaverse Nomads\nStar Atlas Weekly Podcast with over 100 episodes of content\nMetaverse Explorer\nVeteran Star Atlas YouTube Content Creator with over 200 episodes and winner of Content Creator of the Year 2022\nSiggy\nTwitter content creator and expert video content creator\nMost Entertaining Star Atlas Video of the Year\nAtlas Theory – “The Moment Before”\nSiggy – “Combat Racing Video\n✨Star Atlas – Combat Racing 💥\nExplore @StarAtlas' experimental Combat Racing mode for fast-paced, adrenaline-fueled gameplay where every second matters! 🏁\nWin 1 of 5 – Opal Jet's1) Like & RT this post2) Follow @staratlas & @Siggy_SA3) Tag 1 friend#WeAreStarAtlas… pic.twitter.com/N640cNn4VQ\n— Siggy (@Siggy_SA) January 21, 2024\nBeyond the Horizon 2620 – “Star Atlas and the Future of the Metaverse”\nCagyjan – “Flying all 49 Spaceships”\nBest Educational Video of the Year\nMetaverse Explorer – “Star Atlas Gameplay Manual in 13 Minutes”\nStar Atlas Froggies – “Tutorial Sage Labs in French”\nBeyond the Horizon 2620 – “Star Atlas: SCORE vs SAGE – Labs Tutorial”\nBeyond the Horizon 2620’s – :Star Atlas Throw down: SCORE vs Sage”\nBest Community Tool of the Year\nStar Atlas Italia – Fleet Composer\nFleet metrics and composition dashboard\nAephia – Flipside Dashboard\nStar Atlas Blockchain Economic data dashboard\nSly – Labs Assistant\nStar Atlas SAGE Labs player automation tool\nEveye – Interactive Map\nStar Atlas interactive map and live fleet viewer\nCommunity Helper of the Year\nTorinder\nMember of Star Atlas Italia\nGhazinor\nOriginal Founder of Puri Coin and Puri Community.\nOdvb\nStar Atlas Community Moderator topping Star Atlas main discord activity charts\nMorpheus\nFrench Star Atlas community leader and content creator. Founder of Star Atlas Froggies.\nMost Knowledgeable of the Year\nYaawn\nMember of BULK Guild\nFuncracker\nCo-Founder of Aephia\nEoganacht\nFounder of BULK Guild\nPrometheus\nCo-Founder of Aephia\nBest Star Atlas IP Project of the Year\nGalia Merchants\nStar Atlas merchandise store\nGalia Art Station\nStar Atlas 3D light up models\nAtlas Grace\nStar Atlas Charity benefiting children in Cambodia\nAEP Life Form\nStar Atlas community NFT project\nBest Star Atlas In-game Photo of the Year\n#image_title\nAbout the Author: Krigs\nAn ardent supporter of emerging technologies, Krigs has been covering blockchain games for over two years and believes passionately in their power to revolutionize our collective gaming experience.\nlatest video\neditor's pick\nDiscover Star Atlas Alpha Content Pipelines at Solana Breakpoint 2022\nUnlocking Star Atlas Secrets: CEO Michael Wagner’s CoinDesk.TV Exclusive\nnews via inbox\nGet news from the Hologram first\nVisit Star Atlassian\nOne Comment\nStar Atlas 2024 Community Week - Hologram News Network 🦉\n26 February 2024 at 04:40 - Reply\n[…] The awards being given this year are: […]\nLeave A Comment Cancel reply\nyou might also like\nUnveiling Star Atlas: Remarkable AR Experience with ReBirth and Iris\nCategories: Star Atlas News\nUnraveling the Secrets of Star Atlas: ReBirth and Meta-Poster 2/14\nCategories: Star Atlas News\nExplore Star Atlas’ Convergence War in Meta-Poster 3/14 ReBirth Episode\nCategories: Star Atlas News\nBringing you the latest news and insights, Everyday!\n© 2022 - 2024 Hologram News Network | Theme by Subverted Norms | Hologram News is not affiliated with Automata, Inc",
+  "content_hash": "f64427d1cd953bfa1e5b0437cc07c446dceb6e18797079b9609b2323597b8eae",
+  "major_topics": [
+    "governance",
+    "economy",
+    "guilds and DACs",
+    "game development",
+    "community",
+    "lore",
+    "technology"
+  ],
+  "entities": [
+    "ATLAS",
+    "Krigs",
+    "Michael Wagner",
+    "SAGE",
+    "SAGE Labs",
+    "SCORE",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-B427774BF441CFAA-01",
+      "text": "The Joni Awards are a community nominated and voted awards ceremony that recognizes outstanding Star Atlas community members and their achievements throughout the year.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-B427774BF441CFAA",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-B427774BF441CFAA-02",
+      "text": "This year, voters will select from nine categories, down from twelve in the previous awards cycle.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-B427774BF441CFAA",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "SAGE",
+    "SAGE Labs",
+    "SCORE",
+    "Star Atlas",
+    "ATLAS"
+  ],
+  "governance_items": [
+    "Star Atlas governance / DAO"
+  ],
+  "lore_items": [
+    "ONI"
+  ],
+  "actors": [
+    "Michael Wagner",
+    "Krigs"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://hologramnews.com/the-2024-star-atlas-joni-awards-nominees/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://hologramnews.com/author/krigs/",
+      "anchor_text": "Krigs"
+    },
+    {
+      "url": "https://hologramnews.com/tag/joni/",
+      "anchor_text": "joni"
+    },
+    {
+      "url": "https://hologramnews.com/tag/events/",
+      "anchor_text": "Star Atlas Events"
+    },
+    {
+      "url": "https://hologramnews.com/2022-star-atlas-joni-awards-winners/",
+      "anchor_text": "Voters can check out the previous Joni Awards winners as well"
+    },
+    {
+      "url": "https://forms.gle/ZGKXnwbJQexTPpnj9",
+      "anchor_text": "here"
+    },
+    {
+      "url": "https://hologramnews.com/atlas-grace/",
+      "anchor_text": "Atlas Grace"
+    },
+    {
+      "url": "https://twitter.com/Siggy_SA",
+      "anchor_text": "Siggy"
+    },
+    {
+      "url": "https://hologramnews.com/puri-token/",
+      "anchor_text": "Puri Coin"
+    },
+    {
+      "url": "https://www.youtube.com/@BeyondTheHorizon2620",
+      "anchor_text": "Beyond the Horizon 2620"
+    },
+    {
+      "url": "https://www.youtube.com/@MetaverseNomads",
+      "anchor_text": "Metaverse Nomads"
+    },
+    {
+      "url": "https://www.youtube.com/@MetaVerseExplorer",
+      "anchor_text": "Metaverse Explorer"
+    },
+    {
+      "url": "https://twitter.com/staratlas?ref_src=twsrc%5Etfw",
+      "anchor_text": "@StarAtlas"
+    },
+    {
+      "url": "https://twitter.com/Siggy_SA?ref_src=twsrc%5Etfw",
+      "anchor_text": "@Siggy_SA"
+    },
+    {
+      "url": "https://twitter.com/hashtag/WeAreStarAtlas?src=hash&ref_src=twsrc%5Etfw",
+      "anchor_text": "#WeAreStarAtlas"
+    },
+    {
+      "url": "https://t.co/N640cNn4VQ",
+      "anchor_text": "pic.twitter.com/N640cNn4VQ"
+    },
+    {
+      "url": "https://twitter.com/Siggy_SA/status/1748878800241487990?ref_src=twsrc%5Etfw",
+      "anchor_text": "January 21, 2024"
+    },
+    {
+      "url": "https://flipsidecrypto.xyz/Aephia/star-atlas-economy-gm-insights-dJhgb_",
+      "anchor_text": "Aephia – Flipside Dashboard"
+    },
+    {
+      "url": "https://github.com/ImGroovin/Lab-Assistant",
+      "anchor_text": "Sly – Labs Assistant"
+    },
+    {
+      "url": "https://atlas.eveeye.com/",
+      "anchor_text": "Eveye – Interactive Map"
+    },
+    {
+      "url": "https://hologramnews.com/galia-merchants/",
+      "anchor_text": "Galia Merchants"
+    },
+    {
+      "url": "https://hologramnews.com/galia-art-station/",
+      "anchor_text": "Galia Art Station"
+    },
+    {
+      "url": "https://aeplife.io/",
+      "anchor_text": "AEP Life Form"
+    },
+    {
+      "url": "https://hologramnews.com/discover-star-atlas-alpha-content-pipelines-at-solana-breakpoint-2022/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://hologramnews.com/unlocking-star-atlas-secrets-ceo-michael-wagners-coindesk-tv-exclusive/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://hologramnews.com/star-atlassian/",
+      "anchor_text": "Visit Star Atlassian"
+    },
+    {
+      "url": "https://hologramnews.com/star-atlas-2024-community-week/",
+      "anchor_text": "Star Atlas 2024 Community Week - Hologram News Network 🦉"
+    },
+    {
+      "url": "https://hologramnews.com/the-2024-star-atlas-joni-awards-nominees/?replytocom=4271",
+      "anchor_text": "- Reply"
+    },
+    {
+      "url": "https://hologramnews.com/unveiling-star-atlas-remarkable-ar-experience-with-rebirth-and-iris/",
+      "anchor_text": "Unveiling Star Atlas: Remarkable AR Experience with ReBirth and Iris"
+    },
+    {
+      "url": "https://hologramnews.com/category/star-atlas-news/",
+      "anchor_text": "Star Atlas News"
+    },
+    {
+      "url": "https://hologramnews.com/unraveling-the-secrets-of-star-atlas-rebirth-and-meta-poster-2-14/",
+      "anchor_text": "Unraveling the Secrets of Star Atlas: ReBirth and Meta-Poster 2/14"
+    },
+    {
+      "url": "https://hologramnews.com/explore-star-atlas-convergence-war-in-meta-poster-3-14-rebirth-episode/",
+      "anchor_text": "Explore Star Atlas’ Convergence War in Meta-Poster 3/14 ReBirth Episode"
+    },
+    {
+      "url": "https://hologramnews.com/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://www.facebook.com/thehologramnews",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://twitter.com/Hologram_News",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://www.instagram.com/hologram_news/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCDa-YxgNG6A9xpH1qyP0OaQ?sub_confirmation=1",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://discord.com/channels/@me/1078319983479763026/1196462064458276864",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://subvertednorms.com/",
+      "anchor_text": "Subverted Norms"
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "UNKNOWN",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Author is not explicit in the surviving publication metadata."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://web.archive.org/web/20240420100014id_/https://hologramnews.com/the-2024-star-atlas-joni-awards-nominees/",
+    "final_url": "https://web.archive.org/web/20240420100014id_/https://hologramnews.com/the-2024-star-atlas-joni-awards-nominees/",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "response_size": 215544,
+    "elapsed_ms": 1438,
+    "retrieval_mode": "INTERNET_ARCHIVE",
+    "archive_capture": {
+      "timestamp": "20240420100014",
+      "original": "https://hologramnews.com/the-2024-star-atlas-joni-awards-nominees/",
+      "digest": "XGGSZW6YTEDRDG6I6WFE5XJFD7623PB6"
+    }
+  }
+}

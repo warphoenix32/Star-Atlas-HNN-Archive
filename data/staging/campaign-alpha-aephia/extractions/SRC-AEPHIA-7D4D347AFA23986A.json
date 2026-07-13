@@ -1,0 +1,89 @@
+{
+  "source": {
+    "source_id": "SRC-AEPHIA-7D4D347AFA23986A",
+    "url_id": "URL-7D4D347AFA23986A",
+    "url": "https://aephia.com/star-atlas/sage-infrastructure-contracts/",
+    "inventory_url": "https://aephia.com/star-atlas/sage-infrastructure-contracts",
+    "title": "Your Guide to Infrastructure Contracts in SAGE",
+    "author": "Aephia",
+    "publisher": "Aephia",
+    "published_at": "2024-12-11T16:58:32",
+    "updated_at": "2024-12-15T09:30:36",
+    "retrieved_at": "2026-07-12T21:40:39.507371Z",
+    "document_type": "GUIDE",
+    "source_role": "COMMUNITY_INSTITUTION"
+  },
+  "summary": {
+    "neutral_abstract": "Almost exactly one year ago, the team introduced Council RFRs (Request for Resources) into SAGE and phased them out again 4 months later, in mid-April 2024, in favor of the current Loyalty Point ATLAS earnings. Back then, these RFRs worked much like the Faction Infrastructure Contracts that were introduced today. You would craft them in-game and then sell them back to the team in exchange for a fixed amount of ATLAS. With minable resources being available in unlimited quantities, the team had to make sure there would be a limit in place so they could guarantee the earnings. Back then, there was a maximum to the number of SDUs that could be found in Galia per day, and so the Econ team made…",
+    "historical_value": "Contemporary Aephia coverage preserved as a community-institution source.",
+    "current_validity_warning": "Operational, economic, governance, and roadmap statements may be historical and require reconciliation with later primary sources."
+  },
+  "article_text": "Or: The Return of the Council RFR 😈\nAlmost exactly one year ago, the team introduced Council RFRs (Request for Resources) into SAGE and phased them out again 4 months later, in mid-April 2024, in favor of the current Loyalty Point ATLAS earnings.\nBack then, these RFRs worked much like the Faction Infrastructure Contracts that were introduced today. You would craft them in-game and then sell them back to the team in exchange for a fixed amount of ATLAS.\nWith minable resources being available in unlimited quantities, the team had to make sure there would be a limit in place so they could guarantee the earnings. Back then, there was a maximum to the number of SDUs that could be found in Galia per day, and so the Econ team made the logical choice to include this in the recipe to ensure there was a natural upper bound to the amount of RFRs that could be created per day.\nSince then, the SDU mechanic has changed considerably, removing the fixed upper limit. Moreover, the whole economy has shifted into a different gear with the move to Loyalty Points (LP) and LP-based earnings.\nNow, however, the team is reintroducing RFRs under a new name: Faction Infrastructure Contracts, or just Infrastructure Contracts.This time, it will complement the existing Play-to-Earn (P2E) mechanic instead of replacing it.\nWhy Infrastructure Contracts?\nThough the LP mechanic provided a super clean, automatic faction-balancing mechanic, it became clear that there were downsides to this approach as well.\nThe current LP-based earnings system has been on the team’s mind since 2021, but only after its introduction in April this year (2024) did it become clear that there was a glaring issue with it (obvious in hindsight). Within each Faction, players were competing with each other for the daily ATLAS allocation assigned to their Faction. The fewer players who participated, the bigger the slice of the ATLAS pie would be for those who did. This meant there was no incentive at all for them to recruit more players into the game. In fact, there was an incentive to get rid of other players.\nClearly, this is not what you want in a game that wants to grow its user base significantly and is relying heavily on its current players to do so.\nThough the RFR system (like most P2E mechanics in Web3 games) suffered from the same issue, it was less obvious, required players to “stripscan” the max available SDUs per day, and took place over the whole player base instead of within each player Faction.\nReason enough to now introduce RFRs back into the game in their new incarnation: Infrastructure Contracts\nThis time, though SDUs are involved, there is no clear cap on the amount of SDUs that can be found daily, though there is still a theoretical maximum. Besides this maximum lying much, much higher, the current scanning mechanics make it less likely that this level will ever be reached.\nBenefits\nInfrastructure contracts offer several key benefits to players*:\nIncome Guarantee: Previously, LP earnings were influenced not only by your own efforts but also by the contributions of others in your faction, making your exact reward uncertain. With IC rewards being fixed, players know exactly how much ATLAS they will receive for crafting a specific quantity of these items.\nAdditional Earning Opportunity: ICs provide an alternate income source directly within the game (on top of secondary ways provided by the players).\nEnhanced Scanning Gameplay: The inclusion of SDUs in crafting recipes encourages more engagement in scanning activities, adding more value to this gameplay mechanic.\nThe role of crew members has expanded as\n*) Benefits for Players are, of course, also benefits for the team. You can only grow the player base if most players are happy and incentivized to recruit more players.\nSAGE – The 3 Infrastructure Contracts [one for each Player Faction]\nHow it Works\nIn short, the Faction Infrastructure Contract (FIC) is a new item that can be crafted at every Starbase under your Faction’s control. It can then be sold at three specific (rotating) Starbases into a buy-order that the team has created. Lore-wise, you are selling to the Council of Peace to aid their ongoing operations in the Galia Expanse.\nSelling your FIC this way will reward you with a flat & fixed 2 ATLAS per piece! At least, that is the case on paper. In practice, like all marketplace sales (including local markets), your sale will be subject to a 6% fee. This fee can be reduced by locking ATLAS.\nThough the Buy order may seem limited, there is no actual limit. The team will buy any and all FICs you can sell them. The reason the buy order is limited is to protect the team in case something is going wrong (which it should not).\nEvery Faction has a different FIC recipe, requiring slightly different ingredients and resulting in an FIC connected to that Faction. You can craft these in the Craft Workshop, where you craft all your other regular items as well.\nSAGE – Ustur Infrastructure Contract Recipe\nAccording to the Economic Team, the recipes have been carefully handcrafted for each Faction. However, the exact reasoning behind the selection was not shared.\nThe team has created Buy orders at 3 Starbases per Faction, which means that—though you can craft them everywhere—you can only get your reward at 3 Starbases at any time.\nThese 3 Starbases will change every week (it looks like) and will be randomly picked from a list of 6 Starbases that have been pre-determined. Due to the random nature, there is a good chance that sometimes Starbases that had the Buy order previously, will continue to sport the Buy order.\nThe 6 Starbases for each Faction are:\nMUD: MUD-2, MUD-5, MRZ-7, MRZ-9, MRZ-12\nONI: ONI-2, ONI-3, MRZ-36, MRZ-26, MRZ-31, MRZ-30\nUstur: UST-2, UST-5, MRZ-17, MRZ-28, MRZ-32, MRZ-33\nThese have been selected based on their distance from each Faction’s CSS, as shared during the 7th Economic Forum.\nEconomic Forum #7 – Buy Order Starbase selection\nFaction Infrastructure Contract Recipes\nBelow are the recipes for the three different Faction Infrastructure Contracts. Note that these recipes may receive slight balance changes over the first few weeks!\nUstur Infrastructure Contract:\nResource\nAmount\nElectronics\n157\nFramework\n234\nSurvey Data Unit\n5\nMUD Infrastructure Contract:\nResource\nAmount\nEnergy Substrate\n78\nFramework\n234\nSurvey Data Unit\n5\nONI Infrastructure Contract:\nResource\nAmount\nStrange Emitter\n64\nFramework\n234\nSurvey Data Unit\n5\nWith a weight of 50, the FIC’s weight is about 10% of the total weight of the ingredients.Crafting time is 1 second per FIC.\nLoyalty Point Decrease\nWith FICs offering a viable alternative to earning ATLAS, the daily ATLAS emissions to LP contributors will be lowered. Previously, the team had reserved 6M (plus bonuses for Starbase upgrades) in daily ATALS rewards for LP. This has now been lowered to 4.5 million (1.5 per Faction).\nThis will likely go down further as FIC redemption will pick up over time.\nFuture\nAt present, all Starbases that have buy orders for the FICs offer the same price. The team intends to change this within the first month after launch.\nThe team has plans to break down the ICs within a Faction as well. Some may require more ingredients, but in return, they would offer a bigger payment as well. For now, though, the Econ team will monitor the situation before making any changes.\nUnlike RFRs, it looks like the FICs are here to stay for a long time. That said, nothing is permanent, as the ATLAS emissions may not go on forever!\nHappy crafting in the interim!",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [
+    "2021",
+    "2024"
+  ],
+  "external_sources": [
+    "https://aephia.com/star-atlas/a-new-economic-paradigm/\"",
+    "https://aephia.com/star-atlas/sage-local-markets/\"",
+    "https://aephia.com/wp-content/uploads/2024/12/Guide-to-IC-1024x573.jpg",
+    "https://aephia.com/wp-content/uploads/2024/12/Guide-to-IC-1024x573.jpg\"",
+    "https://aephia.com/wp-content/uploads/2024/12/Guide-to-IC-1320x739.jpg",
+    "https://aephia.com/wp-content/uploads/2024/12/Guide-to-IC-1536x860.jpg",
+    "https://aephia.com/wp-content/uploads/2024/12/Guide-to-IC-2048x1147.jpg",
+    "https://aephia.com/wp-content/uploads/2024/12/Guide-to-IC-300x168.jpg",
+    "https://aephia.com/wp-content/uploads/2024/12/Guide-to-IC-768x430.jpg",
+    "https://aephia.com/wp-content/uploads/2024/12/MIC-150x150.png",
+    "https://aephia.com/wp-content/uploads/2024/12/MIC-300x300.png",
+    "https://aephia.com/wp-content/uploads/2024/12/MIC.png",
+    "https://aephia.com/wp-content/uploads/2024/12/MIC.png\"",
+    "https://aephia.com/wp-content/uploads/2024/12/OIC-150x150.png",
+    "https://aephia.com/wp-content/uploads/2024/12/OIC-300x300.png",
+    "https://aephia.com/wp-content/uploads/2024/12/OIC.png",
+    "https://aephia.com/wp-content/uploads/2024/12/OIC.png\"",
+    "https://aephia.com/wp-content/uploads/2024/12/Screenshot-2024-12-09-at-11.52.40-1024x576.png",
+    "https://aephia.com/wp-content/uploads/2024/12/Screenshot-2024-12-09-at-11.52.40-1024x576.png\"",
+    "https://aephia.com/wp-content/uploads/2024/12/Screenshot-2024-12-09-at-11.52.40-1320x743.png",
+    "https://aephia.com/wp-content/uploads/2024/12/Screenshot-2024-12-09-at-11.52.40-1536x864.png",
+    "https://aephia.com/wp-content/uploads/2024/12/Screenshot-2024-12-09-at-11.52.40-2048x1153.png",
+    "https://aephia.com/wp-content/uploads/2024/12/Screenshot-2024-12-09-at-11.52.40-300x169.png",
+    "https://aephia.com/wp-content/uploads/2024/12/Screenshot-2024-12-09-at-11.52.40-768x432.png",
+    "https://aephia.com/wp-content/uploads/2024/12/Screenshot-2024-12-11-at-11.33.31-300x271.png",
+    "https://aephia.com/wp-content/uploads/2024/12/Screenshot-2024-12-11-at-11.33.31-768x693.png",
+    "https://aephia.com/wp-content/uploads/2024/12/Screenshot-2024-12-11-at-11.33.31.png",
+    "https://aephia.com/wp-content/uploads/2024/12/Screenshot-2024-12-11-at-11.33.31.png\"",
+    "https://aephia.com/wp-content/uploads/2024/12/UIC-150x150.png",
+    "https://aephia.com/wp-content/uploads/2024/12/UIC-300x300.png",
+    "https://aephia.com/wp-content/uploads/2024/12/UIC.png",
+    "https://aephia.com/wp-content/uploads/2024/12/UIC.png\""
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Article was modified after publication; review temporal claims against later evidence."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://aephia.com/wp-json/wp/v2/posts?slug=sage-infrastructure-contracts&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 17164,
+    "elapsed_ms": 927
+  }
+}

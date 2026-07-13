@@ -1,0 +1,221 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-0C0365583D4B60FB",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47061468418835-How-to-Connect-a-Ledger-to-Your-Solana-Wallet",
+    "title": "How to Connect a Ledger to Your Solana Wallet",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-03T17:01:50Z",
+    "updated_at": "2025-12-08T18:23:28Z",
+    "original_date_text": "2025-12-03T17:01:50Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://backpack.exchange/",
+        "anchor_text": "Backpack"
+      },
+      {
+        "url": "https://phantom.com/",
+        "anchor_text": "Phantom"
+      },
+      {
+        "url": "https://www.solflare.com/download/",
+        "anchor_text": "Solflare"
+      },
+      {
+        "url": "https://shop.ledger.com/fr/pages/ledger-wallet",
+        "anchor_text": "Ledger"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “How to Connect a Ledger to Your Solana Wallet.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Secure your assets by connecting your Ledger hardware wallet to Backpack, Solflare or Phantom\nUsing a Ledger device is one of the safest ways to store and manage your Solana assets. All major Solana wallets (Backpack, Phantom, Solflare) allow you to connect a Ledger for enhanced security.\nStep-by-Step Guide\nOpen your Solana wallet (Backpack, Solflare or Phantom)Go to the wallet app or extension you use.\nClick to Add or Import a WalletYou’ll usually find this option in the wallet menu under \"Add wallet\" or \"Import Wallet\".\nChoose “Hardware Wallet”Each wallet will show an option for connecting a Ledger device.\nConnect Your Ledger via USB or bluetoothPlug in your Ledger device and unlock it.\nOpen the Solana App on Your LedgerOn the Ledger device, scroll and launch the Solana app.\nSelect the Address You Want to UseThe wallet will show available Ledger-linked addresses. Pick one and confirm.\nOnce connected, the selected Ledger address becomes accessible inside your Solana wallet interface. Transactions will still require approval on your physical Ledger device, giving you full security over your actions.\nImportant Notes\nMake sure your Ledger firmware and Solana app are up to date via Ledger Wallet.",
+  "content_hash": "466c7b2ddab95f8332686c74bd1163acad9493a35bc36f9551986607d7319702",
+  "entities": [
+    "Solana"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-0C0365583D4B60FB-01",
+      "text": "Secure your assets by connecting your Ledger hardware wallet to Backpack, Solflare or Phantom Using a Ledger device is one of the safest ways to store and manage your Solana assets.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0C0365583D4B60FB",
+      "publication_date": "2025-12-03T17:01:50Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-0C0365583D4B60FB-02",
+      "text": "All major Solana wallets (Backpack, Phantom, Solflare) allow you to connect a Ledger for enhanced security.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0C0365583D4B60FB",
+      "publication_date": "2025-12-03T17:01:50Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-0C0365583D4B60FB-03",
+      "text": "Step-by-Step Guide Open your Solana wallet (Backpack, Solflare or Phantom)Go to the wallet app or extension you use.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0C0365583D4B60FB",
+      "publication_date": "2025-12-03T17:01:50Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-0C0365583D4B60FB-04",
+      "text": "Click to Add or Import a WalletYou’ll usually find this option in the wallet menu under \"Add wallet\" or \"Import Wallet\".",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0C0365583D4B60FB",
+      "publication_date": "2025-12-03T17:01:50Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-0C0365583D4B60FB-05",
+      "text": "Choose “Hardware Wallet”Each wallet will show an option for connecting a Ledger device.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0C0365583D4B60FB",
+      "publication_date": "2025-12-03T17:01:50Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-0C0365583D4B60FB-06",
+      "text": "Connect Your Ledger via USB or bluetoothPlug in your Ledger device and unlock it.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0C0365583D4B60FB",
+      "publication_date": "2025-12-03T17:01:50Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-0C0365583D4B60FB-07",
+      "text": "Open the Solana App on Your LedgerOn the Ledger device, scroll and launch the Solana app.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0C0365583D4B60FB",
+      "publication_date": "2025-12-03T17:01:50Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-0C0365583D4B60FB-08",
+      "text": "Select the Address You Want to UseThe wallet will show available Ledger-linked addresses.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0C0365583D4B60FB",
+      "publication_date": "2025-12-03T17:01:50Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-0C0365583D4B60FB-09",
+      "text": "Once connected, the selected Ledger address becomes accessible inside your Solana wallet interface.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0C0365583D4B60FB",
+      "publication_date": "2025-12-03T17:01:50Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-0C0365583D4B60FB-10",
+      "text": "Transactions will still require approval on your physical Ledger device, giving you full security over your actions.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0C0365583D4B60FB",
+      "publication_date": "2025-12-03T17:01:50Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-0C0365583D4B60FB-11",
+      "text": "Important Notes Make sure your Ledger firmware and Solana app are up to date via Ledger Wallet.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0C0365583D4B60FB",
+      "publication_date": "2025-12-03T17:01:50Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [
+    "Solana"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://backpack.exchange/",
+      "anchor_text": "Backpack"
+    },
+    {
+      "url": "https://phantom.com/",
+      "anchor_text": "Phantom"
+    },
+    {
+      "url": "https://www.solflare.com/download/",
+      "anchor_text": "Solflare"
+    },
+    {
+      "url": "https://shop.ledger.com/fr/pages/ledger-wallet",
+      "anchor_text": "Ledger"
+    }
+  ],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47061468418835-How-to-Connect-a-Ledger-to-Your-Solana-Wallet",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.185533Z"
+  }
+}

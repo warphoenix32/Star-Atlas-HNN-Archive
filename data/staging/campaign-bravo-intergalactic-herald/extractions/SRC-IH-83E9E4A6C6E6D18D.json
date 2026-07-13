@@ -1,0 +1,316 @@
+{
+  "source": {
+    "source_id": "SRC-IH-83E9E4A6C6E6D18D",
+    "url_id": "URL-83E9E4A6C6E6D18D",
+    "url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-112/",
+    "inventory_url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-112",
+    "title": "Star Atlas Weekly News Recap #112",
+    "author": "Intergalactic Herald",
+    "publisher": "Intergalactic Herald",
+    "published_at": "2024-05-12T17:00:00",
+    "updated_at": "2024-05-11T13:22:08",
+    "retrieved_at": "2026-07-12T22:05:32.252972Z",
+    "document_type": "NEWSLETTER",
+    "source_role": "CURATED_SUMMARY",
+    "source_classification": "CURATED_SUMMARY",
+    "classification_rationale": "Weekly newsletter/recap aggregates developments and linked sources.",
+    "wordpress_type": "posts"
+  },
+  "summary": {
+    "neutral_abstract": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week. We are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us. We are launching a Star Atlas merch store. Please check it out at Intergalactic",
+    "historical_value": "Contemporary Intergalactic Herald publication preserved with role and attribution boundaries.",
+    "current_validity_warning": "Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources."
+  },
+  "article_text": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week.\nWe are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us.\nWe are launching a Star Atlas merch store. Please check it out at Intergalactic Gear.\nWe are creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic Coalition.\nIf you would like to support our efforts, donations can be sent to intergalacticherald.sol\nStar Atlas Starbased: The New Atlas Prime Features\nBeyond the Horizon posted a video about the new Altas Prime feature in SAGE Starbased.\nSTAR ATLAS #232 AUTOMATED CRAFTING IS HERE!\nMetaVerse Explorer posted a video of Star Atlas updates.\nStar Atlas: Buying REAL-LIFE Food with $ I Made In-Game\nBeyond the Horizon posted a video of buying coffee with ATLAS.\nMetaverse Nomads #145 – Bodhi [TREE] Interview – Star Atlas\nMetaverse Nomads posted their weekly Star Atlas livestream.\nWEEKLY STAR ATLAS NEWSLETTER #128\nAephia published their weekly Star Atlas newsletter.\nLore Keepers #2\nStar Atlas TV posted a replay of the latest Lore Keepers event.\nThe Atlas Brew #110\nStar Atlas TV posted a replay of the latest Atlas Brew event.\nSuperPhoenix DAO WhitePaper – TLDR\nBeth posted a video recap of the SuperPhoenix DAO whitepaper.\nSTAR ATLAS #233 Upcoming Changes YOU NEED TO KNOW!\nMetaVerse Explorer posted a video about the upcoming changes to SAGE Starbased.",
+  "content_hash": "4e01cc3cf3e1a9611fb93e3a9fbeeb7078058b37ae76ecb1634f5bef0c9a9669",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [],
+  "external_sources": [
+    {
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=N-0ni7wUdn4",
+      "anchor_text": "Altas Prime"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=vbUuJY1vBgQ",
+      "anchor_text": "Star Atlas updates"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=nCk2K8jEAEI",
+      "anchor_text": "buying coffee with ATLAS"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=xM2UOGME3zY",
+      "anchor_text": "weekly Star Atlas livestream"
+    },
+    {
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-128/",
+      "anchor_text": "weekly Star Atlas newsletter"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=d5yCYPFBPzs",
+      "anchor_text": "Lore Keepers"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=B9fYOle3UQs",
+      "anchor_text": "Atlas Brew"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ZLIJJqlP4lU",
+      "anchor_text": "SuperPhoenix DAO whitepaper"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=yZKXecMpMI0",
+      "anchor_text": "upcoming changes to SAGE Starbased"
+    }
+  ],
+  "primary_source_relationships": [
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=N-0ni7wUdn4",
+      "anchor_text": "Altas Prime"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=vbUuJY1vBgQ",
+      "anchor_text": "Star Atlas updates"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=nCk2K8jEAEI",
+      "anchor_text": "buying coffee with ATLAS"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=xM2UOGME3zY",
+      "anchor_text": "weekly Star Atlas livestream"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-128/",
+      "anchor_text": "weekly Star Atlas newsletter"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=d5yCYPFBPzs",
+      "anchor_text": "Lore Keepers"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=B9fYOle3UQs",
+      "anchor_text": "Atlas Brew"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=ZLIJJqlP4lU",
+      "anchor_text": "SuperPhoenix DAO whitepaper"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=yZKXecMpMI0",
+      "anchor_text": "upcoming changes to SAGE Starbased"
+    }
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Verify which outbound links are primary sources and preserve creator attribution during promotion."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-112&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 5339,
+    "elapsed_ms": 1641,
+    "attempts": [
+      {
+        "endpoint": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-112&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "http_status": 200,
+        "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-112&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "content_type": "application/json; charset=UTF-8",
+        "response_size": 5339,
+        "elapsed_ms": 1641
+      }
+    ]
+  },
+  "source_lineage": {
+    "publication": "Intergalactic Herald",
+    "publication_role": "CURATED_SUMMARY",
+    "relationship": "CURATED_SUMMARY_OF",
+    "primary_sources": [
+      {
+        "publication": "Altas Prime",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=N-0ni7wUdn4",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Altas Prime"
+      },
+      {
+        "publication": "Star Atlas updates",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=vbUuJY1vBgQ",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas updates"
+      },
+      {
+        "publication": "buying coffee with ATLAS",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=nCk2K8jEAEI",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: buying coffee with ATLAS"
+      },
+      {
+        "publication": "weekly Star Atlas livestream",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=xM2UOGME3zY",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: weekly Star Atlas livestream"
+      },
+      {
+        "publication": "weekly Star Atlas newsletter",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-128/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article with anchor text: weekly Star Atlas newsletter"
+      },
+      {
+        "publication": "Lore Keepers",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=d5yCYPFBPzs",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: Lore Keepers"
+      },
+      {
+        "publication": "Atlas Brew",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=B9fYOle3UQs",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: Atlas Brew"
+      },
+      {
+        "publication": "SuperPhoenix DAO whitepaper",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=ZLIJJqlP4lU",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: SuperPhoenix DAO whitepaper"
+      },
+      {
+        "publication": "upcoming changes to SAGE Starbased",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=yZKXecMpMI0",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: upcoming changes to SAGE Starbased"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "publication": "Intergalactic Gear",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticgear.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Intergalactic Coalition",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticcoalition.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      }
+    ],
+    "original_creators": [
+      "Aephia",
+      "Star Atlas"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Altas Prime",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=N-0ni7wUdn4"
+      },
+      {
+        "from": "Star Atlas updates",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=vbUuJY1vBgQ"
+      },
+      {
+        "from": "buying coffee with ATLAS",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=nCk2K8jEAEI"
+      },
+      {
+        "from": "weekly Star Atlas livestream",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=xM2UOGME3zY"
+      },
+      {
+        "from": "weekly Star Atlas newsletter",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-128/"
+      },
+      {
+        "from": "Lore Keepers",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=d5yCYPFBPzs"
+      },
+      {
+        "from": "Atlas Brew",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=B9fYOle3UQs"
+      },
+      {
+        "from": "SuperPhoenix DAO whitepaper",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=ZLIJJqlP4lU"
+      },
+      {
+        "from": "upcoming changes to SAGE Starbased",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=yZKXecMpMI0"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  }
+}

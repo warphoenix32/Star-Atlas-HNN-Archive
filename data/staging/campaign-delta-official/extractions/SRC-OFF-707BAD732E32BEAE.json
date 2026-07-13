@@ -1,0 +1,245 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-707BAD732E32BEAE",
+    "url": "https://support.staratlas.com/hc/en-us/articles/52273962138771-How-to-Move-a-Fleet-in-C4-PTR",
+    "title": "How to Move a Fleet in C4 PTR",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2026-06-03T13:55:53Z",
+    "updated_at": "2026-06-03T14:43:31Z",
+    "original_date_text": "2026-06-03T13:55:53Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “How to Move a Fleet in C4 PTR.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Fleet movement allows you to travel between locations in the Galia Expanse.\nIn C4 PTR, fleets can move using different movement options depending on distance, speed, fuel, and available routes.\nNote: C4 PTR is still in development. Movement rules, costs, travel times, and available routes may change over time.\nBefore you start\nBefore moving a fleet, make sure:\nYour fleet has been created.\nYour fleet is undocked.\nYour fleet has the required fuel or access to the selected travel method.\nYou have selected the fleet from the map or from the My Fleets menu.\nIf you have not created a fleet yet, check the How to Create and Use a Fleet in C4 PTR guide first.\nFleet movement options\nDepending on your fleet and destination, you may see different movement options.\nThe main movement options are:\nWarp\nSubwarp\nWarp Gate\nSubwarp\nSubwarp is used to travel longer distances, but it is slower than Warp.\nTo use Subwarp:\nSelect your fleet.\nClick Subwarp from the fleet action menu.\nMove your mouse over the map to choose a destination.\nReview the movement preview, including travel distance, ETA, and fuel consumption.\nClick your destination.\nClick Start Subwarp at the bottom of the screen.\nTip for long-distance Subwarp\nIf you want to move farther away:\nZoom out using your mouse wheel.\nMove around the map until you find the area you want to reach.\nZoom back in if needed.\nSelect your destination.\nThis makes it easier to choose a destination that is farther from your current location.\nWarp\nWarp is faster than Subwarp, but usually works over shorter distances and consumes more fuel.\nTo use Warp:\nSelect your fleet.\nClick Warp from the fleet action menu.\nChoose your destination on the map.\nReview the travel information.\nConfirm the movement order.\nWarp is useful when you want to move faster and your destination is within available Warp range.\nWarp Gate\nWarp Gate travel is different from normal fuel-based movement:\nIt is very fast.\nIt costs ATLAS.\nIt does not consume normal fleet travel resources.\nIt is limited to accessible gates.\nWarp Gate travel can be used when the required route is available, such as when your faction controls the relevant start and destination regions.\nTo use a Warp Gate:\nSelect your fleet.\nClick Warp Gate from the fleet action menu.\nReview the list of available gates.\nCheck the ATLAS cost and travel time.\nSelect the gate destination.\nConfirm the travel order.\nSummary\nTo move a fleet in C4 PTR:\nSelect an undocked fleet.\nChoose a movement option: Warp, Subwarp, or Warp Gate.\nSelect a destination.\nReview the ETA, distance, and cost or fuel consumption.\nConfirm the movement order.\nUse Subwarp for longer, slower travel.Use Warp for faster travel over shorter distances.Use Warp Gate when an available gate route exists and you want fast travel using ATLAS.",
+  "content_hash": "1a643b21613cb4e3a2f8cd8a2d43a766b0d5ad02ab40e219175c7c611e4a8325",
+  "entities": [
+    "ATLAS",
+    "C4"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-707BAD732E32BEAE-01",
+      "text": "Fleet movement allows you to travel between locations in the Galia Expanse.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-707BAD732E32BEAE",
+      "publication_date": "2026-06-03T13:55:53Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-707BAD732E32BEAE-02",
+      "text": "In C4 PTR, fleets can move using different movement options depending on distance, speed, fuel, and available routes.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-707BAD732E32BEAE",
+      "publication_date": "2026-06-03T13:55:53Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-707BAD732E32BEAE-03",
+      "text": "Movement rules, costs, travel times, and available routes may change over time.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-707BAD732E32BEAE",
+      "publication_date": "2026-06-03T13:55:53Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-707BAD732E32BEAE-04",
+      "text": "Before you start Before moving a fleet, make sure: Your fleet has been created.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-707BAD732E32BEAE",
+      "publication_date": "2026-06-03T13:55:53Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-707BAD732E32BEAE-05",
+      "text": "Your fleet has the required fuel or access to the selected travel method.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-707BAD732E32BEAE",
+      "publication_date": "2026-06-03T13:55:53Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-707BAD732E32BEAE-06",
+      "text": "You have selected the fleet from the map or from the My Fleets menu.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-707BAD732E32BEAE",
+      "publication_date": "2026-06-03T13:55:53Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-707BAD732E32BEAE-07",
+      "text": "If you have not created a fleet yet, check the How to Create and Use a Fleet in C4 PTR guide first.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-707BAD732E32BEAE",
+      "publication_date": "2026-06-03T13:55:53Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-707BAD732E32BEAE-08",
+      "text": "Fleet movement options Depending on your fleet and destination, you may see different movement options.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-707BAD732E32BEAE",
+      "publication_date": "2026-06-03T13:55:53Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-707BAD732E32BEAE-09",
+      "text": "The main movement options are: Warp Subwarp Warp Gate Subwarp Subwarp is used to travel longer distances, but it is slower than Warp.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-707BAD732E32BEAE",
+      "publication_date": "2026-06-03T13:55:53Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-707BAD732E32BEAE-10",
+      "text": "Move your mouse over the map to choose a destination.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-707BAD732E32BEAE",
+      "publication_date": "2026-06-03T13:55:53Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-707BAD732E32BEAE-11",
+      "text": "Review the movement preview, including travel distance, ETA, and fuel consumption.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-707BAD732E32BEAE",
+      "publication_date": "2026-06-03T13:55:53Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-707BAD732E32BEAE-12",
+      "text": "Click Start Subwarp at the bottom of the screen.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-707BAD732E32BEAE",
+      "publication_date": "2026-06-03T13:55:53Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-707BAD732E32BEAE-13",
+      "text": "Tip for long-distance Subwarp If you want to move farther away: Zoom out using your mouse wheel.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-707BAD732E32BEAE",
+      "publication_date": "2026-06-03T13:55:53Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-707BAD732E32BEAE-14",
+      "text": "Move around the map until you find the area you want to reach.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-707BAD732E32BEAE",
+      "publication_date": "2026-06-03T13:55:53Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-707BAD732E32BEAE-15",
+      "text": "This makes it easier to choose a destination that is farther from your current location.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-707BAD732E32BEAE",
+      "publication_date": "2026-06-03T13:55:53Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "ATLAS",
+    "C4"
+  ],
+  "governance_items": [],
+  "lore_items": [
+    "Galia"
+  ],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/52251721868563",
+      "anchor_text": "How to Create and Use a Fleet in C4 PTR"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/52251721868563",
+      "anchor_text": "How to Create and Use a Fleet in C4 PTR"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/52273962138771-How-to-Move-a-Fleet-in-C4-PTR",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.432720Z"
+  }
+}

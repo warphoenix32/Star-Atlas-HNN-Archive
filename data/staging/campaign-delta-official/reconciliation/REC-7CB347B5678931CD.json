@@ -1,0 +1,14 @@
+{
+  "topic": "and, claims, economic, faction, fleet, new, release, ships",
+  "official_source_ids": [
+    "SRC-OFF-678621BE1998176D"
+  ],
+  "community_source_ids": [
+    "SRC-AEPHIA-3D6BA2ECA269970E"
+  ],
+  "relationship": "COMMUNITY_ADDS_CONTEXT",
+  "finding": "Automated topic overlap on: and, claims, economic, faction, fleet, new, release, ships, the. Official authority is limited to the official wording; community context remains separately attributed.",
+  "confidence": "LOW",
+  "promotion_candidate": false,
+  "manual_review_required": true
+}

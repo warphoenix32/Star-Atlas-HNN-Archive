@@ -1,0 +1,434 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-2BC7D317600C6107",
+    "url": "https://experience.staratlas.com/newsroom/star-atlas-news/star-atlas-and-hello-moon-partner-to-level-up-gaming-with-live-data",
+    "title": "Star Atlas and Hello Moon Partner to Level Up Gaming with Live Data Streaming | Star Atlas",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Newsroom / ATMTA",
+    "published_at": "2023-07-06",
+    "updated_at": null,
+    "original_date_text": "Jul 06, 2023",
+    "document_type": "OFFICIAL_ANNOUNCEMENT",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Newsroom / ATMTA",
+    "publication_role": "ECONOMIC_REPORT",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://play.staratlas.com",
+        "anchor_text": "Play Now"
+      },
+      {
+        "url": "https://coinmarketcap.com/currencies/star-atlas/",
+        "anchor_text": "CMC"
+      },
+      {
+        "url": "https://www.coingecko.com/en/coins/star-atlas",
+        "anchor_text": "CoinGecko"
+      },
+      {
+        "url": "https://coinmarketcap.com/currencies/star-atlas-polis/",
+        "anchor_text": "CMC"
+      },
+      {
+        "url": "https://www.coingecko.com/en/coins/star-atlas-dao",
+        "anchor_text": "CoinGecko"
+      },
+      {
+        "url": "https://discord.gg/staratlas",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://t.me/staratlasgame",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://www.reddit.com/r/StarAtlas/",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://www.facebook.com/StarAtlasMMO",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://www.instagram.com/staratlasgame/",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://www.youtube.com/channel/UCt-y8Npwje5KDG5MSZ0a9Jw",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://www.twitch.tv/staratlasgame",
+        "anchor_text": ""
+      },
+      {
+        "url": "http://solana.com/",
+        "anchor_text": "Solana"
+      },
+      {
+        "url": "https://staratlas.com/?utm_medium=medium",
+        "anchor_text": "StarAtlas.com"
+      },
+      {
+        "url": "http://play.staratlas.com/?utm_medium=medium&utm_campaign=23dao1",
+        "anchor_text": "Play.StarAtlas.com"
+      },
+      {
+        "url": "https://play.staratlas.com/fleet/?utm_medium=medium&utm_campaign=ev1",
+        "anchor_text": "Faction Fleet"
+      },
+      {
+        "url": "https://play.staratlas.com/claims/?utm_medium=medium&utm_campaign=ev1",
+        "anchor_text": "Faction Claims"
+      },
+      {
+        "url": "https://store.epicgames.com/en-US/p/star-atlas-bead34",
+        "anchor_text": "download the Showroom"
+      },
+      {
+        "url": "https://sage.staratlas.com/?utm_medium=medium&utm_campaign=23dao1",
+        "anchor_text": "Escape Velocity"
+      },
+      {
+        "url": "https://govern.staratlas.com/?utm_medium=medium&utm_campaign=23dao1",
+        "anchor_text": "Star Atlas DAO"
+      },
+      {
+        "url": "https://www.hellomoon.io/developers",
+        "anchor_text": "the website"
+      },
+      {
+        "url": "https://www.linkedin.com/company/star-atlas",
+        "anchor_text": "LinkedIn"
+      },
+      {
+        "url": "https://www.tiktok.com/@staratlasmetaverse",
+        "anchor_text": "Tik Tok"
+      },
+      {
+        "url": "https://medium.com/star-atlas",
+        "anchor_text": "Medium"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Newsroom / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official economic report titled “Star Atlas and Hello Moon Partner to Level Up Gaming with Live Data Streaming | Star Atlas.” This record preserves what Star Atlas Newsroom / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Star Atlas and Hello Moon Partner to Level Up Gaming with Live Data Streaming | Star Atlas\nPlay Now\nEconomic Reports\nWhite Paper • PDF\nRead Our Official White Paper!\nEconomics Paper • PDF\nLearn the tokenomics of ATLAS and POLIS in the galactic economy.\nGovernance Documentation\nLearn how Star Atlas is governed and built by its community.\nATLAS\n(\nCMC\nCoinGecko\n)\nPOLIS\n(\nCMC\nCoinGecko\n)\nTerms of Service\nPrivacy Policy\nPromotional Terms\nPlay Now\nBack\nJul 06, 2023\nTag: Latest News\nStar Atlas and Hello Moon Partner to Level Up Gaming with Live Data Streaming\nHello Moon will provide Star Atlas gaming products with real-time scalable access to Solana blockchain data, enabling seamless player-owned gaming experience\nBack to top\nStar Atlas, the highly popular Solana-based game with millions of daily transactions, unveiled a strategic partnership with Hello Moon, an industry-leading blockchain indexer. The alliance aims to enhance the robustness and scalability of Star Atlas real-time data handling capabilities, effectively replacing its proprietary in-house solution.\nHello Moon's solution is robust, providing Star Atlas with a live data stream facilitated through its cutting-edge technology stack — Geyser, a plugin on the Solana validator, and Kafka, a highly scalable distribution pipeline.\nThis collaboration brings about near-limitless scalability and improved game performance, leading to a better gaming experience for Star Atlas players worldwide.\n\"Hello Moon is about connecting the blockchain world in a way that makes data more accessible and usable. Our partnership with Star Atlas empowers us to showcase our technical prowess by providing real-time, Solana blockchain data for their web3 gaming ecosystem.\"\n\"Working with Hello Moon equips Star Atlas with the speed and scalability to deliver smoother and more immersive gaming experience, setting a new standard for data handling in gaming.\"\nFrank Berreth, Principal Engineer at Hello Moon\nThe partnership marks a new chapter for data handling in gaming and presents enormous potential for the future of blockchain-enabled tech. It showcases how industry collaboration can leverage shared technology to improve product performance and enhance user experience, ultimately driving the entire blockchain and web3 sector forward.\nABOUT STAR ATLAS\nStar Atlas is a next-gen gaming metaverse emerging from the confluence of state-of-the-art blockchain, real-time graphics, multiplayer video games, and decentralized financial technologies.\nUsing Unreal Engine 5's Nanite, real-time graphics technology allows for cinematic quality video game visuals. In addition, blockchain technology using the Solana protocol establishes a largely serverless and secured gameplay experience. Non-fungible tokens obtained and traded within Star Atlas create an economy that replicates tangible world assets and ownership. To learn more, visit StarAtlas.com, join a faction at Play.StarAtlas.com, send your spaceships on a deep space mission by enrolling them in a Faction Fleet, harvesting resources with Faction Claims and download the Showroom on your PC. Hunt for treasures by playing Escape Velocity. Participate in governance of the Star Atlas DAO.\nABOUT HELLO MOON\nHello Moon is a leading blockchain indexer, known for providing efficient, real-time data streams to blockchain and web3 companies. Hello Moon prides itself on its ability to handle large volumes of data, providing the scalability needed for fast-growing tech companies in the web3 space. Find out more on the website.\nJOIN OUR COMMUNITY\nTwitter | Discord | YouTube | Instagram | Reddit | Facebook | LinkedIn | Twitch | Tik Tok | Medium\nPrev\nThe Atlas Star ✧ Issue #19\nNext\nStar Atlas DAO Lays Foundation for Sustainable Governance in Gaming\n*The inaugural on-chain POLIS Improvement Proposal (PIP-1) introduces the Star Atlas DAO on-chain governance mechanisms, the Star Atlas Constitution, and the real-world Star Atlas Foundation.*\nTrailer\nWe use cookies to enhance your experience and analyze our site usage.\nPlease see our Privacy Policy\nfor more information.\nAccept Cookies",
+  "content_hash": "6e0d61775f8e43375899faf484bf30ca6a0deb6572279ed774db8fa030e51132",
+  "entities": [
+    "ATLAS",
+    "Escape Velocity",
+    "Faction Fleet",
+    "POLIS",
+    "Showroom",
+    "Solana",
+    "Star Atlas DAO",
+    "Star Atlas Foundation"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-2BC7D317600C6107-01",
+      "text": "Star Atlas and Hello Moon Partner to Level Up Gaming with Live Data Streaming | Star Atlas Play Now Economic Reports White Paper • PDF Read Our Official White Paper!",
+      "claim_type": "EVENT_OCCURRED",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-2BC7D317600C6107",
+      "publication_date": "2023-07-06",
+      "confidence": "MEDIUM",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-2BC7D317600C6107-02",
+      "text": "Hello Moon's solution is robust, providing Star Atlas with a live data stream facilitated through its cutting-edge technology stack — Geyser, a plugin on the Solana validator, and Kafka, a highly scalable distribution pipeline.",
+      "claim_type": "EVENT_OCCURRED",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-2BC7D317600C6107",
+      "publication_date": "2023-07-06",
+      "confidence": "MEDIUM",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-2BC7D317600C6107-03",
+      "text": "JOIN OUR COMMUNITY Twitter | Discord | YouTube | Instagram | Reddit | Facebook | LinkedIn | Twitch | Tik Tok | Medium Prev The Atlas Star ✧ Issue #19 Next Star Atlas DAO Lays Foundation for Sustainable Governance in Gaming *The inaugural on-chain POLIS Improvement Proposal (PIP-1) introduces the Star Atlas DAO on-chain governance mechanisms, the Star Atlas Constitution, and the real-world Star Atlas Foundation.* Trailer We use cookies to enhance your experience and analyze our site usage.",
+      "claim_type": "EVENT_OCCURRED",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-2BC7D317600C6107",
+      "publication_date": "2023-07-06",
+      "confidence": "MEDIUM",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Faction Fleet",
+    "Showroom",
+    "POLIS",
+    "ATLAS",
+    "Escape Velocity"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [
+    "Star Atlas DAO",
+    "Star Atlas Foundation",
+    "Solana"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://experience.staratlas.com/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://play.staratlas.com",
+      "anchor_text": "Play Now"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/economic-reports/",
+      "anchor_text": "Economic Reports"
+    },
+    {
+      "url": "https://experience.staratlas.com/assets/pdfs/white-paper.pdf",
+      "anchor_text": "White Paper • PDF Read Our Official White Paper!"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/governance-documentation",
+      "anchor_text": "Governance Documentation Learn how Star Atlas is governed and built by its community."
+    },
+    {
+      "url": "https://coinmarketcap.com/currencies/star-atlas/",
+      "anchor_text": "CMC"
+    },
+    {
+      "url": "https://www.coingecko.com/en/coins/star-atlas",
+      "anchor_text": "CoinGecko"
+    },
+    {
+      "url": "https://coinmarketcap.com/currencies/star-atlas-polis/",
+      "anchor_text": "CMC"
+    },
+    {
+      "url": "https://www.coingecko.com/en/coins/star-atlas-dao",
+      "anchor_text": "CoinGecko"
+    },
+    {
+      "url": "https://twitter.com/staratlas",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://discord.gg/staratlas",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://t.me/staratlasgame",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/StarAtlas/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://www.facebook.com/StarAtlasMMO",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://www.instagram.com/staratlasgame/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCt-y8Npwje5KDG5MSZ0a9Jw",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://www.twitch.tv/staratlasgame",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://experience.staratlas.com/terms-of-service",
+      "anchor_text": "Terms of Service"
+    },
+    {
+      "url": "https://experience.staratlas.com/privacy-policy",
+      "anchor_text": "Privacy Policy"
+    },
+    {
+      "url": "https://experience.staratlas.com/promotional-terms-and-conditions",
+      "anchor_text": "Promotional Terms"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/news",
+      "anchor_text": "Back"
+    },
+    {
+      "url": "http://solana.com/",
+      "anchor_text": "Solana"
+    },
+    {
+      "url": "https://staratlas.com/?utm_medium=medium",
+      "anchor_text": "StarAtlas.com"
+    },
+    {
+      "url": "http://play.staratlas.com/?utm_medium=medium&utm_campaign=23dao1",
+      "anchor_text": "Play.StarAtlas.com"
+    },
+    {
+      "url": "https://play.staratlas.com/fleet/?utm_medium=medium&utm_campaign=ev1",
+      "anchor_text": "Faction Fleet"
+    },
+    {
+      "url": "https://play.staratlas.com/claims/?utm_medium=medium&utm_campaign=ev1",
+      "anchor_text": "Faction Claims"
+    },
+    {
+      "url": "https://store.epicgames.com/en-US/p/star-atlas-bead34",
+      "anchor_text": "download the Showroom"
+    },
+    {
+      "url": "https://sage.staratlas.com/?utm_medium=medium&utm_campaign=23dao1",
+      "anchor_text": "Escape Velocity"
+    },
+    {
+      "url": "https://govern.staratlas.com/?utm_medium=medium&utm_campaign=23dao1",
+      "anchor_text": "Star Atlas DAO"
+    },
+    {
+      "url": "https://www.hellomoon.io/developers",
+      "anchor_text": "the website"
+    },
+    {
+      "url": "https://www.linkedin.com/company/star-atlas",
+      "anchor_text": "LinkedIn"
+    },
+    {
+      "url": "https://www.tiktok.com/@staratlasmetaverse",
+      "anchor_text": "Tik Tok"
+    },
+    {
+      "url": "https://medium.com/star-atlas",
+      "anchor_text": "Medium"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/star-atlas-news/the-atlas-star-issue-19",
+      "anchor_text": "Prev The Atlas Star ✧ Issue #19"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/star-atlas-news/star-atlas-dao-lays-foundation-for-sustainable-governance-in-gaming",
+      "anchor_text": "Next Star Atlas DAO Lays Foundation for Sustainable Governance in Gaming *The inaugural on-chain POLIS Improvement Proposal (PIP-1) introduces the Star Atlas DAO on-chain governance mechanisms, the Star Atlas Constitution, and the real-world Star Atlas Foundation.*"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/star-atlas-news/star-atlas-and-hello-moon-partner-to-level-up-gaming-with-live-data",
+      "anchor_text": "Trailer"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://experience.staratlas.com/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://play.staratlas.com",
+      "anchor_text": "Play Now"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/economic-reports/",
+      "anchor_text": "Economic Reports"
+    },
+    {
+      "url": "https://experience.staratlas.com/assets/pdfs/white-paper.pdf",
+      "anchor_text": "White Paper • PDF Read Our Official White Paper!"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/governance-documentation",
+      "anchor_text": "Governance Documentation Learn how Star Atlas is governed and built by its community."
+    },
+    {
+      "url": "https://experience.staratlas.com/terms-of-service",
+      "anchor_text": "Terms of Service"
+    },
+    {
+      "url": "https://experience.staratlas.com/privacy-policy",
+      "anchor_text": "Privacy Policy"
+    },
+    {
+      "url": "https://experience.staratlas.com/promotional-terms-and-conditions",
+      "anchor_text": "Promotional Terms"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/news",
+      "anchor_text": "Back"
+    },
+    {
+      "url": "https://staratlas.com/?utm_medium=medium",
+      "anchor_text": "StarAtlas.com"
+    },
+    {
+      "url": "http://play.staratlas.com/?utm_medium=medium&utm_campaign=23dao1",
+      "anchor_text": "Play.StarAtlas.com"
+    },
+    {
+      "url": "https://play.staratlas.com/fleet/?utm_medium=medium&utm_campaign=ev1",
+      "anchor_text": "Faction Fleet"
+    },
+    {
+      "url": "https://play.staratlas.com/claims/?utm_medium=medium&utm_campaign=ev1",
+      "anchor_text": "Faction Claims"
+    },
+    {
+      "url": "https://sage.staratlas.com/?utm_medium=medium&utm_campaign=23dao1",
+      "anchor_text": "Escape Velocity"
+    },
+    {
+      "url": "https://govern.staratlas.com/?utm_medium=medium&utm_campaign=23dao1",
+      "anchor_text": "Star Atlas DAO"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/star-atlas-news/the-atlas-star-issue-19",
+      "anchor_text": "Prev The Atlas Star ✧ Issue #19"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/star-atlas-news/star-atlas-dao-lays-foundation-for-sustainable-governance-in-gaming",
+      "anchor_text": "Next Star Atlas DAO Lays Foundation for Sustainable Governance in Gaming *The inaugural on-chain POLIS Improvement Proposal (PIP-1) introduces the Star Atlas DAO on-chain governance mechanisms, the Star Atlas Constitution, and the real-world Star Atlas Foundation.*"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/star-atlas-news/star-atlas-and-hello-moon-partner-to-level-up-gaming-with-live-data",
+      "anchor_text": "Trailer"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://experience.staratlas.com/newsroom/star-atlas-news/star-atlas-and-hello-moon-partner-to-level-up-gaming-with-live-data",
+    "final_url": "https://experience.staratlas.com/newsroom/star-atlas-news/star-atlas-and-hello-moon-partner-to-level-up-gaming-with-live-data",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "response_size": 63353,
+    "retrieved_at": "2026-07-13T01:04:46.685523Z",
+    "elapsed_ms": 245
+  }
+}

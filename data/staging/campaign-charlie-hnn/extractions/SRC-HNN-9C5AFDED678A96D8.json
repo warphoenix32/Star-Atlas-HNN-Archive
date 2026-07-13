@@ -1,0 +1,313 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-9C5AFDED678A96D8",
+    "url_id": "URL-9C5AFDED678A96D8",
+    "url": "https://medium.com/the-hologram/polaris-fuel-proposes-alternative-to-pip-x-1aa5422e653",
+    "title": "Polaris Fuel Proposes Alternative to PIP-X",
+    "author": "Krigs",
+    "publisher": "The Hologram",
+    "publication_identity": "The Hologram (Medium publication)",
+    "published_at": "2023-06-14T15:07:48Z",
+    "updated_at": "2023-06-14T15:07:48Z",
+    "retrieved_at": "2026-07-13T00:09:10.142695Z",
+    "document_type": "ORIGINAL_REPORTING",
+    "source_role": "ORIGINAL_REPORTING",
+    "publication_role": "ORIGINAL_REPORTING",
+    "classification_rationale": "Publication reports a development without explicit interview, editorial, investigative, event, or reference framing."
+  },
+  "source_lineage": {
+    "publication": "The Hologram (Medium publication)",
+    "publication_role": "ORIGINAL_REPORTING",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [
+      {
+        "publication": "OPEC",
+        "author": "UNKNOWN",
+        "url": "https://www.opec.org/opec_web/en/press_room/7164.htm",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Podcast",
+        "author": "UNKNOWN",
+        "url": "https://open.spotify.com/show/2mxndrDW6yPfpS350ijzjt?si=ec7c717f998240d6",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "YouTube",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/channel/UCDa-YxgNG6A9xpH1qyP0OaQ",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://staratlas.com/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [
+      "Krigs"
+    ],
+    "attribution_chain": [
+      {
+        "from": "OPEC",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://www.opec.org/opec_web/en/press_room/7164.htm"
+      },
+      {
+        "from": "Podcast",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://open.spotify.com/show/2mxndrDW6yPfpS350ijzjt?si=ec7c717f998240d6"
+      },
+      {
+        "from": "YouTube",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://www.youtube.com/channel/UCDa-YxgNG6A9xpH1qyP0OaQ"
+      },
+      {
+        "from": "Star Atlas",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://staratlas.com/"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "This original reporting published by The Hologram on 2023-06-14 documents “Polaris Fuel Proposes Alternative to PIP-X.” Its surviving text addresses economy, game development, community, lore, technology. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "Star AtlasEconomics\nPolaris Fuel Proposes Alternative to PIP-X\nKrigs4 min read·Jun 14, 2023\n--\nListen\nShare\nJune 14, 2023 — In the wake of the publication of PIP-X, Polaris Fuel has accelerated its business model of providing stabilized R4 prices in Star Atlas. Akin to historical organizations like OPEC, Polaris Fuel is comprised of members that uniformly agree to economic condition under which to purchase and sell commodities such as Food, Fuel, Ammo, and Toolkits.\nPress enter or click to view image in full size\nPolaris Fuel Proposes Fixed Prices\nUnder the Polaris Fuel Model, members would agree to a fixed buy and sell prices of resources.\nPolaris Selling Price (PSP): The Polaris selling price will be the price determined by the community present in the project as the “fair price”, achieving a beneficial balance for both the producer and the final consumer. The launch price of the project will be the original selling price of Star Atlas until recently:\nFOOD: 0.0006144 Atlas\nFUEL: 0.0014336 Atlas\nAMMO: 0.0021504 Atlas\nTOOLS: 0.0017408 Atlas\nPolaris Purchase Price (PPP): We will use a pre-determined purchase price to acquire resources in the game. At the time of our launch the price will be calculated by subtracting 10% from the PSP (selling price). This 10% difference will go to cover the Star Atlas market fees, as well as Solana’s fees, while the rest will be added back to the liquidity to expand and strengthen it. The model does not aim at an economic profit as the main goal, but at a stabilization of the liquidity pool and a minimal surcharge on the original provider.\nPolaris Fuel Member Benefits\nSuch an economic operation model requires serious participation from members. To incentivize participation, Polaris Fuel has published the following member benefits.\nObtaining resources at preferential prices\nBy joining the Polaris Fuel Project, members will have priority access to resources at competitive prices thanks to the Polaris purchasing system. Organizations working in partnership with Polaris will receive priority in the sale of resources and preferential prices in the future.\nContribution to a fair economy\nMembers directly contribute to the expansion and strengthening of liquidity in Atlas and resources. This not only benefits all members of the cooperative, but also creates a stronger, more stable and fairer market for the Star Atlas community.\nDecision-making\nBoth the price of products and important decisions on the future of the company will be taken in consensus with its members. Discussion and voting channels will facilitate this system. Founding members and representatives of Polaris teams will always have a say in important decisions.\nIncentive Program: For its most committed members, Polaris Fuel will maintain a vibrant structure that will incentivize its members through a merit-based membership system consisting of3 levels:\nSilver: Basic level by registering as a Polaris supplier and supplying PSP with a minimum supply of 50k during the month.\nGold: Next level of efficiency for those members most involved, with a higher incentive system, access to dedicated channels and a greater say in decision making. Requirement: supply >100k bi-weekly.\nPlatinum: The highest level of production for those truly dedicated to this profession. To gain entry to this level members must provide 500K of resources per month, or remain at the Gold level for 3 consecutive months.\nPolaris Aims to Provide Economic Stability and Subsidization\nPolaris Fuel aims to revolutionize resource mining and trading in the vast Star Atlas universe. The cooperative is dedicated to mining, refining, buying and selling resources with the goal of creating stable and fair prices. Polaris Fuel is a clan-and-faction agnostic group and seeks to integrate any member of the community.\nAt launch, the Polaris Fuel system is intended to strengthen the economy, placing fairness over profits.\nTheir mission statement: “We believe that in the metaverse there is an opportunity to do things differently from traditional markets, and we believe that if we stay true to our ideals, we can grow in an organic way and become a successful and sustainable project.”\nAbout the Author\nKrigs is a pioneer in the world of Star Atlas, having founded The Hologram News Network — an independent meta-news organization that keeps players up to date on all developments regarding Star Atlas. An ardent supporter of emerging technologies, Krigs has been covering this game for over a year and believes passionately in their power to revolutionize our collective gaming experience.\nFollow on Social Media:\nPodcast | YouTube | Twitter | Instagram | Web\nAbout The Hologram\nThe Hologram is Star Atlas’ first and only independent news network. Our vision is to become the most trusted source of information about Star Atlas and a voice for the whole community. Readers can expect a high standard from our reporting and staff. Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.\nThe Hologram is not endorsed by the Star Atlas team. Any information published by The Hologram or its writers should be considered as informational in nature and does not constitute any financial advice.",
+  "content_hash": "afecfb5478aed96779898b83ab76e80c58907850dd040456f6c527ada944e719",
+  "major_topics": [
+    "economy",
+    "game development",
+    "community",
+    "lore",
+    "technology"
+  ],
+  "entities": [
+    "ATLAS",
+    "Krigs",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-9C5AFDED678A96D8-01",
+      "text": "Polaris Selling Price (PSP): The Polaris selling price will be the price determined by the community present in the project as the “fair price”, achieving a beneficial balance for both the producer and the final consumer.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-9C5AFDED678A96D8",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-9C5AFDED678A96D8-02",
+      "text": "The launch price of the project will be the original selling price of Star Atlas until recently: FOOD: 0.0006144 Atlas FUEL: 0.0014336 Atlas AMMO: 0.0021504 Atlas TOOLS: 0.0017408 Atlas Polaris Purchase Price (PPP): We will use a pre-determined purchase price to acquire resources in the game.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-9C5AFDED678A96D8",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-9C5AFDED678A96D8-03",
+      "text": "At the time of our launch the price will be calculated by subtracting 10% from the PSP (selling price).",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-9C5AFDED678A96D8",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-9C5AFDED678A96D8-04",
+      "text": "This 10% difference will go to cover the Star Atlas market fees, as well as Solana’s fees, while the rest will be added back to the liquidity to expand and strengthen it.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-9C5AFDED678A96D8",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-9C5AFDED678A96D8-05",
+      "text": "Obtaining resources at preferential prices By joining the Polaris Fuel Project, members will have priority access to resources at competitive prices thanks to the Polaris purchasing system.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-9C5AFDED678A96D8",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-9C5AFDED678A96D8-06",
+      "text": "Organizations working in partnership with Polaris will receive priority in the sale of resources and preferential prices in the future.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-9C5AFDED678A96D8",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-9C5AFDED678A96D8-07",
+      "text": "Decision-making Both the price of products and important decisions on the future of the company will be taken in consensus with its members.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-9C5AFDED678A96D8",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-9C5AFDED678A96D8-08",
+      "text": "Discussion and voting channels will facilitate this system.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-9C5AFDED678A96D8",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-9C5AFDED678A96D8-09",
+      "text": "Founding members and representatives of Polaris teams will always have a say in important decisions.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-9C5AFDED678A96D8",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-9C5AFDED678A96D8-10",
+      "text": "Incentive Program: For its most committed members, Polaris Fuel will maintain a vibrant structure that will incentivize its members through a merit-based membership system consisting of3 levels: Silver: Basic level by registering as a Polaris supplier and supplying PSP with a minimum supply of 50k during the month.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-9C5AFDED678A96D8",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-9C5AFDED678A96D8-11",
+      "text": "Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-9C5AFDED678A96D8",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Star Atlas",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [
+    "ONI"
+  ],
+  "actors": [
+    "Krigs"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://medium.com/@krigsfoniks?source=---byline--1aa5422e653---------------------------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fthe-hologram%2F1aa5422e653&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fpolaris-fuel-proposes-alternative-to-pip-x-1aa5422e653&user=Krigs&userId=41e0c5b141f1&source=---header_actions--1aa5422e653---------------------clap_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Frepost%2Fp%2F1aa5422e653&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fpolaris-fuel-proposes-alternative-to-pip-x-1aa5422e653&user=Krigs&userId=41e0c5b141f1&source=---header_actions--1aa5422e653---------------------repost_header------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F1aa5422e653&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fpolaris-fuel-proposes-alternative-to-pip-x-1aa5422e653&source=---header_actions--1aa5422e653---------------------bookmark_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2Fplans%3Fdimension%3Dpost_audio_button%26postId%3D1aa5422e653&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fpolaris-fuel-proposes-alternative-to-pip-x-1aa5422e653&source=---header_actions--1aa5422e653---------------------post_audio_button------------------",
+      "anchor_text": "Listen"
+    },
+    {
+      "url": "https://medium.com/the-hologram/the-first-star-atlas-community-polis-improvement-proposal-dao-owned-claim-stakes-12170ac5a125",
+      "anchor_text": "publication of PIP-X"
+    },
+    {
+      "url": "https://medium.com/u/5ed69ff9cfb0?source=---user_mention--1aa5422e653---------------------------------------",
+      "anchor_text": "Star Atlas"
+    },
+    {
+      "url": "https://www.opec.org/opec_web/en/press_room/7164.htm",
+      "anchor_text": "OPEC"
+    },
+    {
+      "url": "https://medium.com/u/41e0c5b141f1",
+      "anchor_text": "Krigs"
+    },
+    {
+      "url": "https://open.spotify.com/show/2mxndrDW6yPfpS350ijzjt?si=ec7c717f998240d6",
+      "anchor_text": "Podcast"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCDa-YxgNG6A9xpH1qyP0OaQ",
+      "anchor_text": "YouTube"
+    },
+    {
+      "url": "https://twitter.com/home",
+      "anchor_text": "Twitter"
+    },
+    {
+      "url": "https://thehologram.io/",
+      "anchor_text": "Web"
+    },
+    {
+      "url": "https://medium.com/the-hologram",
+      "anchor_text": "The Hologram"
+    },
+    {
+      "url": "https://staratlas.com/",
+      "anchor_text": "Star Atlas"
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "https://medium.com/the-hologram/polaris-fuel-proposes-alternative-to-pip-x-1aa5422e653",
+    "final_url": "https://medium.com/the-hologram/polaris-fuel-proposes-alternative-to-pip-x-1aa5422e653",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 273759,
+    "elapsed_ms": 665,
+    "retrieval_mode": "LIVE",
+    "archive_capture": null
+  }
+}

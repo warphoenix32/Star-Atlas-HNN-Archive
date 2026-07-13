@@ -1,0 +1,232 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-566C6B5E5258E7ED",
+    "url": "https://build.staratlas.com/dev-resources/apis-and-data",
+    "title": "Star Atlas Build",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Build / ATMTA",
+    "published_at": null,
+    "updated_at": "2026-04-16T16:32:35.000Z",
+    "original_date_text": "2026-04-16T16:32:35.000Z",
+    "document_type": "TECHNICAL_DOCUMENTATION",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Build / ATMTA",
+    "publication_role": "TECHNICAL_DOCUMENTATION",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Star Atlas Build / ATMTA"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official technical documentation titled “Star Atlas Build.” This record preserves what Star Atlas Build / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "APIs and Data | Star Atlas Build\nSkip to contentStar Atlas BuildSearchK\nAppearance\nMenuReturn to top\nAPIs and Data ​\nCrew: @staratlas/crew\nData Source: @staratlas/data-source\nSAGE: @staratlas/sage\nCargo: @staratlas/cargo\nCrafting: @staratlas/crafting\nProfile Faction: @staratlas/profile-faction\nPlayer Profile: @staratlas/player-profile\nAtlas Prime: @staratlas/atlas-prime\nClaim Stakes: @staratlas/claim-stake\nFactory: Typescript bindings and convenience methods for the Star Atlas ecosystem\nGalaxy API\nItems\nTokens\nShowroom\nGalactic Marketplace: @staratlas/galactic-marketplace\nFleet Rentals",
+  "content_hash": "07992c9cf543517157fe8d7195fd0fb68d0a5cec4b5fa55e13e1233a71db320e",
+  "entities": [
+    "ATLAS",
+    "Atlas Prime",
+    "Claim Stakes",
+    "Crew",
+    "Galactic Marketplace",
+    "SAGE",
+    "Showroom"
+  ],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "SAGE",
+    "Galactic Marketplace",
+    "Showroom",
+    "ATLAS",
+    "Atlas Prime",
+    "Claim Stakes",
+    "Crew"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data",
+      "anchor_text": "Skip to content"
+    },
+    {
+      "url": "https://build.staratlas.com/",
+      "anchor_text": "Star Atlas Build"
+    },
+    {
+      "url": "https://discord.com/invite/staratlas",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/crew",
+      "anchor_text": "Crew"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/data-source",
+      "anchor_text": "Data Source"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/sage",
+      "anchor_text": "SAGE"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/cargo",
+      "anchor_text": "Cargo"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/crafting",
+      "anchor_text": "Crafting"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/profile-faction",
+      "anchor_text": "Profile Faction"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/player-profile",
+      "anchor_text": "Player Profile"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/atlas-prime",
+      "anchor_text": "Atlas Prime"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/claim-stakes",
+      "anchor_text": "Claim Stakes"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/factory",
+      "anchor_text": "Factory"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/galaxy-api",
+      "anchor_text": "Galaxy API"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/galaxy-api/items",
+      "anchor_text": "Items"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/galaxy-api/tokens",
+      "anchor_text": "Tokens"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/galaxy-api/showroom",
+      "anchor_text": "Showroom"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/galactic-marketplace",
+      "anchor_text": "Galactic Marketplace"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/fleet-rentals",
+      "anchor_text": "Fleet Rentals"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data",
+      "anchor_text": "Skip to content"
+    },
+    {
+      "url": "https://build.staratlas.com/",
+      "anchor_text": "Star Atlas Build"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/crew",
+      "anchor_text": "Crew"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/data-source",
+      "anchor_text": "Data Source"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/sage",
+      "anchor_text": "SAGE"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/cargo",
+      "anchor_text": "Cargo"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/crafting",
+      "anchor_text": "Crafting"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/profile-faction",
+      "anchor_text": "Profile Faction"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/player-profile",
+      "anchor_text": "Player Profile"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/atlas-prime",
+      "anchor_text": "Atlas Prime"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/claim-stakes",
+      "anchor_text": "Claim Stakes"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/factory",
+      "anchor_text": "Factory"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/galaxy-api",
+      "anchor_text": "Galaxy API"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/galaxy-api/items",
+      "anchor_text": "Items"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/galaxy-api/tokens",
+      "anchor_text": "Tokens"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/galaxy-api/showroom",
+      "anchor_text": "Showroom"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/galactic-marketplace",
+      "anchor_text": "Galactic Marketplace"
+    },
+    {
+      "url": "https://build.staratlas.com/dev-resources/apis-and-data/fleet-rentals",
+      "anchor_text": "Fleet Rentals"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://build.staratlas.com/dev-resources/apis-and-data",
+    "final_url": "https://build.staratlas.com/dev-resources/apis-and-data",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 33055,
+    "retrieved_at": "2026-07-13T01:04:24.861189Z",
+    "elapsed_ms": 110
+  }
+}

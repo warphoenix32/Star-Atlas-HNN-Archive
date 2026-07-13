@@ -1,0 +1,179 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-0E22684F68D016E0",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47210126275347-What-is-the-Star-Atlas-UE5-Game",
+    "title": "What is the Star Atlas UE5 Game?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-08T20:25:29Z",
+    "updated_at": "2025-12-09T16:46:11Z",
+    "original_date_text": "2025-12-08T20:25:29Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://play.staratlas.com/market/crew/",
+        "anchor_text": "Browse Crew Packs"
+      },
+      {
+        "url": "https://www.tensor.trade/trade/staratlascrew",
+        "anchor_text": "Buy Crew on Tensor"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “What is the Star Atlas UE5 Game?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "The Star Atlas Showroom is the first playable product of Star Atlas built in Unreal Engine 5, allowing players to interact with the metaverse in full 3D with blockchain-integrated gameplay. It showcases cutting-edge visuals using Nanite and Lumen technologies, and serves as a development hub where new features and play modes are continuously introduced.\nChoose Your Character\nYou no longer play as a preset character. Instead, you can now choose any Crew Member you own to use as your avatar in the Showroom\nThere are two ways to get a Crew Member:\nBuy a Crew Pack from the Star Atlas Marketplace and open it to reveal one or more randomized crewBrowse Crew Packs\nBuy individual Crew directly on secondary marketplaces like TensorBuy Crew on Tensor\nOnce you own a Crew Member, you can select them in-game to represent you in the UE5 world\nMain Game Modes Available\n1. Galia (Open World)\nExplore the Showroom’s full galaxy experience:\nSummon your owned ships and fly freely\nNavigate to asteroids and mine resources\nDock and land at space stations\nDiscover new gameplay features added regularly\n2. Training Mode\nPractice and improve your gameplay in solo sessions:\nFlight Trainer – Race\nFlight Trainer – Dogfight\nGunplay Trainer\nOther foundational modes to learn the controls\n3. Fleet Command\nAccess the SAGE map from within the Showroom\nView the current state of SAGE v0\nSee fleets and shipsNote: You cannot yet perform SAGE actions from this interface\n4. Multiplayer Sessions\nJoin or host competitive or casual multiplayer matches with other players:\nSurge (Zone Control Gunplay) – Factions fight to control zones\nDeathmatch\nTeam Deathmatch\nGun Game\nZones\nRace\nExplore\nFeatures of the Showroom\nFully immersive Unreal Engine 5 environment using Nanite and Lumen\nBlockchain wallet integration (Solana-compatible)\nSummon your own NFTs — ships and crew — into the world\nUse a demo ship (Floyd Liner) if you don’t own one\nIntegrated photo mode for cinematic screenshots\nDynamic lighting, exploration, and easter eggs",
+  "content_hash": "ac83e6659fd80b8a5d838c8c8944bcc3ba9bca1edce52201d37390313fc819f9",
+  "entities": [
+    "ATLAS",
+    "Crew",
+    "Fleet Command",
+    "SAGE",
+    "Showroom",
+    "Solana"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-0E22684F68D016E0-01",
+      "text": "The Star Atlas Showroom is the first playable product of Star Atlas built in Unreal Engine 5, allowing players to interact with the metaverse in full 3D with blockchain-integrated gameplay.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0E22684F68D016E0",
+      "publication_date": "2025-12-08T20:25:29Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-0E22684F68D016E0-02",
+      "text": "It showcases cutting-edge visuals using Nanite and Lumen technologies, and serves as a development hub where new features and play modes are continuously introduced.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0E22684F68D016E0",
+      "publication_date": "2025-12-08T20:25:29Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-0E22684F68D016E0-03",
+      "text": "Choose Your Character You no longer play as a preset character.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0E22684F68D016E0",
+      "publication_date": "2025-12-08T20:25:29Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-0E22684F68D016E0-04",
+      "text": "Instead, you can now choose any Crew Member you own to use as your avatar in the Showroom There are two ways to get a Crew Member: Buy a Crew Pack from the Star Atlas Marketplace and open it to reveal one or more randomized crewBrowse Crew Packs Buy individual Crew directly on secondary marketplaces like TensorBuy Crew on Tensor Once you own a Crew Member, you can select them in-game to represent you in the UE5 world Main Game Modes Available 1.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0E22684F68D016E0",
+      "publication_date": "2025-12-08T20:25:29Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-0E22684F68D016E0-05",
+      "text": "Galia (Open World) Explore the Showroom’s full galaxy experience: Summon your owned ships and fly freely Navigate to asteroids and mine resources Dock and land at space stations Discover new gameplay features added regularly 2.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0E22684F68D016E0",
+      "publication_date": "2025-12-08T20:25:29Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-0E22684F68D016E0-06",
+      "text": "Training Mode Practice and improve your gameplay in solo sessions: Flight Trainer – Race Flight Trainer – Dogfight Gunplay Trainer Other foundational modes to learn the controls 3.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0E22684F68D016E0",
+      "publication_date": "2025-12-08T20:25:29Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-0E22684F68D016E0-07",
+      "text": "Fleet Command Access the SAGE map from within the Showroom View the current state of SAGE v0 See fleets and shipsNote: You cannot yet perform SAGE actions from this interface 4.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-0E22684F68D016E0",
+      "publication_date": "2025-12-08T20:25:29Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "SAGE",
+    "Showroom",
+    "ATLAS",
+    "Fleet Command",
+    "Crew"
+  ],
+  "governance_items": [],
+  "lore_items": [
+    "Galia"
+  ],
+  "actors": [],
+  "organizations": [
+    "Solana"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://play.staratlas.com/market/crew/",
+      "anchor_text": "Browse Crew Packs"
+    },
+    {
+      "url": "https://www.tensor.trade/trade/staratlascrew",
+      "anchor_text": "Buy Crew on Tensor"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://play.staratlas.com/market/crew/",
+      "anchor_text": "Browse Crew Packs"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47210126275347-What-is-the-Star-Atlas-UE5-Game",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.129878Z"
+  }
+}

@@ -1,0 +1,327 @@
+# Star Atlas Event Recap 80: Star Atlas Brew 203
+
+## Source metadata
+
+- Source ID: `SRC-IH-F842DD2290DC930C`
+- URL: https://intergalacticherald.com/star-atlas-recap/star-atlas-event-recap-80-star-atlas-brew-203/
+- Publisher: Intergalactic Herald
+- Published: 2026-05-07T09:00:00
+- Updated: 2026-05-07T08:30:13
+- Classification: `CURATED_SUMMARY`
+- Classification rationale: Event recap summarizes an externally originated event, broadcast, or discussion.
+- Extraction confidence: `HIGH`
+
+## Source Lineage
+
+**Publication Role:** `CURATED_SUMMARY`
+
+**Relationship:** `CURATED_SUMMARY_OF`
+
+**Primary Sources:**
+
+- **Atlas Brew 203** — Author: UNKNOWN; Organization: Star Atlas; URL: UNKNOWN
+
+**Original Creators:**
+
+- Star Atlas
+
+**Lineage Confidence:** `MEDIUM`
+
+## Neutral synopsis
+
+In this episode, hear an AI summary of the latest Star Atlas community event. Full video recordings can be found on the YouTube channel of Star Atlas TV at https://www.youtube.com/@staratlastv. Hi, this isn’t Matt with the Intergalactic Herald. I am an AI. Welcome to a Star Atlas Recap of the latest Atlas Brew from the Star Atlas Community Team. The following summary of the Atlas Brew was AI generated so no guarantee it is 100% accurate because I am an AI after all. If you want to listen to the entire recording, please check out the YouTube channel of Star Atlas TV. Enjoy the summary. Welcome back to another recap of the Atlas Brew! This week, we dove into episode number 203, and the energy…
+
+## Attribution and linked sources
+
+- [https://www.youtube.com/@staratlastv](https://www.youtube.com/@staratlastv)
+- [Listen on Apple Podcasts](https://podcasts.apple.com/us/podcast/star-atlas-week-in-review-podcast/id1678661043)
+- [Listen on Spotify](https://open.spotify.com/show/0aHDjCqFpy8Lzrkilv8n16)
+- [Intergalactic Gear](https://intergalacticgear.com/)
+- [Intergalactic Coalition](https://intergalacticcoalition.com/)
+
+## Temporal warning
+
+Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources.
+
+## Manual review
+
+- Verify which outbound links are primary sources and preserve creator attribution during promotion.
+
+## Extracted article text
+
+In this episode, hear an AI summary of the latest Star Atlas community event. Full video recordings can be found on the YouTube channel of Star Atlas TV at https://www.youtube.com/@staratlastv.
+Listen on Apple Podcasts
+Listen on Spotify
+https://www.youtube.com/watch?v=ry5NyqHD2Ew
+Star Atlas Event Summary
+Hi, this isn’t Matt with the Intergalactic Herald. I am an AI. Welcome to a Star Atlas Recap of the latest Atlas Brew from the Star Atlas Community Team. The following summary of the Atlas Brew was AI generated so no guarantee it is 100% accurate because I am an AI after all. If you want to listen to the entire recording, please check out the YouTube channel of Star Atlas TV. Enjoy the summary. Welcome back to another recap of the Atlas Brew! This week, we dove into episode number 203, and the energy was absolutely electric. Hosts JM and John kicked things off with a vibe of pure resilience, acknowledging that while the ecosystem has faced its share of hurdles, the grand vision for Star Atlas is finally starting to snap into focus. The headline act of the event was a deep-dive reveal of the new Claim Stake mechanics currently hitting the PTR. The community got a first look at the interface for colonizing planets, specifically watching a claim being laid in the Mud King sector. It’s not just about clicking a button; players saw how they’ll need to manage “central hubs” to provide energy and infrastructure for their operations. Whether you’re placing a Tier 2 stake on an ice giant or setting up extraction outposts for aluminum and dry water, the game is introducing real complexity. They even touched on how the physical distance between your energy source and your extractors—known as “hops”—will impact your efficiency. It was a massive “alpha” moment that showed how colonization is evolving into a deeply tactical experience. The conversation then shifted from gameplay to the cutting edge of tech news. The team discussed the massive announcement that Google DeepMind is partnering with the developers of Eve Online to explore AI agents in gaming. For the Star Atlas team, this felt like total validation. They’ve been building toward a real-world autonomous economy and AI-driven NPCs for years, and seeing a giant like Google move into this “sandbox” proves that the Star Atlas path is the right one. John highlighted how Star Atlas is already pushing these boundaries with HoloSim and the EOS faction, positioning the studio as a leader in the intersection of blockchain and AI. In other news from the event, we got a major update on the future of combat in HoloSim. After the success of the Super Phoenix event, the developers are getting aggressive about killing latency. They are moving away from “global cooldowns” and middleware, opting instead to read data directly from the RPC stream. This means real-time actions—when you click “warp” or “attack,” you’ll see it happen instantly without the frustrating seven-second lag. To spice up the battlefield, they also introduced “Drone” ships like the Opal Wamp and the Fimble Naga. These are zero-crew, high-buff ships that allow players to customize their fleet stats, like boosting shield regeneration or weapon fire rates, without adding more crew members. But the event wasn’t just about the code; it was about the stories the community is telling. The Star Atlas RPG campaign, Ember Coil, is officially going wild. Over 130 people have already voted for the participants, and the finalists are out there actively campaigning for their spots in the story. JM joked that as the Game Master, he’s looking forward to the “blessing” of potentially killing off community members’ characters live on stream, which definitely added a bit of high-stakes humor to the session. To wrap things up, the team issued a very important “no mercy” deadline: if you haven’t linked your mainnet wallet for the recent event prizes, you have until this Friday. After that, the prize pool will be redistributed to those who followed through, so don’t leave your loot on the table! The secret code for the day was “Resilience,” a fitting tribute to a community that continues to build through the stars. Stay tuned for more updates, keep an eye on the lore channels, and as always, we’ll see you in the deep space of the Galia Expanse.
+I am launching a Star Atlas merch store. Please check it out at Intergalactic Gear.
+I am also creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic Coalition.
+Star Atlas Weekly Recap Newsletter – Catch up on all the important videos and articles from the Star Atlas community in a weekly recap email newsletter. https://intergalacticherald.com/star-atlas-weekly-recap-newsletter/
+Star Atlas Week in Review Podcast – Audio podcast where I break down everything that happened in Star Atlas the past week plus my analysis on what it all means. https://intergalacticherald.com/podcast/
+Star Atlas Discord News Feed Newsletter – Star Atlas Discord announcements send directly to your email so you never miss out on updates from the Star Atlas team. https://intergalacticherald.com/star-atlas-discord-news-feed/
+If you would like to support my efforts, donations can be sent to intergalacticherald.sol
+Star Atlas Event Transcript
+GM GM JM can you guys? >> can hear you. >> Awesome.
+>> Everybody else can. >> They surely do. GMJ jump, how are you doing, my friend?
+I’m doing great. Doing great. How about you?
+>> All good. All good. All good.
+>> GM Defax AOTA Swift Sudo Val Phoenix Roberts Centering. How are you legends doing today? This fine Wednesday.
+see everyone’s healthy, fighting surviving. John, just saw one of the most wild news. At least think it’s wide news for our ecosystem right now.
+>> Talk to me. >> don’t think I’ve seen it yet. think think I’ll even I’ll even stop this this brew and make it like one of our main topics for today because think this shows that even though we have had our share of difficulties, the Star Atlas vision is spot on in terms of where the future is going today.
+Uh, well, first things first, let’s let’s wait. don’t want you to jump the gun. will send you on DMs because this literally just happened like two minutes before join.
+>> I’ll send you >> what what I’m talking about here so you can prepare for conversation. Uh meanwhile while we wait for everyone to join, I also want to to share little bit in terms of updates.
+So let me go real quick to this Twitter account because there is very cool video there want to share.
+Okay, found it. found it. Awesome.
+Uh, very cool, right, John? Did you see? >> Wild.
+Yeah, it is >> wild, right? >> Mhm. >> Yeah, it’s think it’s very good topic for us to talk about today, honestly.
+So, want to actually hear the community’s thoughts on this. And before we get started on anything, this is brew number 203.
+Yes, fun cracker, you are absolutely right. Uh, forgot to update it before going stage. My bad.
+But yeah, want to talk about Star Atlas RPG campaign. Joe, not sure you have time if you had the time to be following what’s going on the lore channel, but the Star Atlas RPG campaign is going wild. We had nothing less, nothing more than 131 forms filled voting for the participants of our RPG campaign.
+the the finalists are actually outright campaigning for their spots on the campaign. And am super excited. I’m super excited about how everyone is passionate about our universe IP or lore.
+don’t stop writing. can’t stop writing the story uh the encounters, the system uh that our players will face and I’m really excited. want to I’m humbled by the attention, the dedication of the guys involved and am pretty sure we’ll be we’ll have very good show in this podcast.
+I’m feeling I’m feeling hyped about this.
+Yes, exactly. Chat Roberts will go into the habit role.
+We are going to have fun exploring the universe of Star Atlas in this podcast format in this RPG tabletop format. I’m super excited about that. On another front, want to share something that the Status account shared today.
+Uh we as you guys know we are working hard on the C4 PTR and now that we are nearing uh release date uh can see lots of alpha pumping from their developers to our community. And today today we are going to showcase something that lots of you guys have been talking about asking us about.
+We are going to talk show you guys little bit on playing stakes.
+So let’s see if you guys can you guys can see my screen. >> Yeah, can see it.
+Yeah. >> Awesome. Check this out.
+Look at that. Holy [ __ ] So cool. Oh, hey.
+For those that aren’t following, this is uh this is like you played your your claim and now you’re attaching buildings and you’re upgrading. >> Exactly. I’ll we’ll go back we’ll go back.
+Let’s just lay this out and then we break this through.
+Yes guys, as John was explaining, this is the process of placing your claim taking in planet.
+So let’s go back all the way here. Here.
+So as you can see, he chose the the planet number three on the mud king sector. here and he’s going to place his claim stake tier two there. Oh, sorry there there was something important over there that wanted to highlight.
+Uh the stats of the claim stakes here.
+So as you can see every claim stake will have different number of slots. uh those lots are the capacity of things that you can add to that claim stake. Uh there there is so much alpha here that feel we need dedicated session to to go through everything.
+Uh you can see here the rent price for your claim stake once they are deployed in the planet. uh the timing of the rent uh the outputs that the claims take generated but yeah let’s go to the me to the juicy part okay so here this in this part of the of the claim stake interface as you guys can see it’s super intuitive super easy uh you are building the infrastructure of this claim stake and the claim stakes is nothing more nothing less theization of planet in Staratus.
+It’s like the central piece of infrastructure that you use to colonize planet. And every claim stake, it starts with central hub.
+This is what gives you the uh the necessary energy capacity, the necessary infrastructure capacity to build other stuff in your claim stick. And so here he added one core tier one hub.
+So the central hub now here you can see it hits ice giant central hub tier one.
+This is the hub used for this type of planet because this is ice giant planet.
+And then he’ll choose the infrastructure that he will place here to extract some of the minerals that are found in this planet.
+So here he has the major extraction hub and this extraction hub will have uh what’s the word I’m looking for here like outposts or attached mach machines like an extractor for for aluminum ores or an extractor for dry water. And this unit here is powered by the central hub. And those units here are powered for by the ice giant extraction hub tier one.
+So this is the how the structure works. The things that you go buy go building they are tied to major construction hub or something that will power them and allow the whole infrastructure to work. If one of the uh let’s say the the links here are broken, the structure stops working.
+Another interesting thing that you can see here is that there’s concept of hops or the distance between your extraction uh in the at the end of the operation and the hub that empowers it. wonder how this is going to play out. Here you can see some aspects of how the the layout of your operations uh impact the results of your overall activity in your claim stake.
+If you place something super far away from its energy source, it’s going to impact how things work.
+So first we had the extractors and now we have the processing network to use the resources that you collected and make them into uh refined goods and things like that. And when you go collect the the output will already be the the finalized refined resource.
+Something cool here you guys can also see the output per hour.
+You can see the power that this uh this infrastructure will use, how many crew you need, the construction cost for everything. And you can place like 10.
+You can just click here and increase how many you are placing.
+Yes. And and as you can see, this is design window, so you can close it and play with it before actually doing anything. And that’s it, John.
+>> Amazing. >> am super happy. I’m super happy that honestly it’s actually coming to life.
+>> Oh man, this is so fun. >> Isn’t it crazy? mean, >> yeah, it’s been it’s been hot minute uh putting all this together.
+So, >> yeah, it’s it’s insane. Like, the game is actually coming to life. Like, the grand vision of Star Atlas, the universe expansion, the the mining operations, the colonization of planets, etc.
+Everything is finally taking shape and and taking form. Like, it’s it’s it’s insane.
+It’s am super hyped about the work that we are doing right now. >> Yeah, >> see people uh does distance affect the speed from to B. Uh we’ll have more detailed Mr.
+Star uh brew or should say town hall about this topic. Uh and in this town hall we’ll be giving more uh details or talking about more about the concepts how everything will play out and etc.
+We are getting there.
+We are close.
+We are close. Don’t worry. Why it changed color to blue?
+Because it was working far like it had things working.
+Yeah, we deserve town hall. We we are started we are already internally started talking about town halls.
+No dates confirmed it but we are we are seeing so one forming in the horizon.
+We are excited about that as well and think this ties really well John with the news that shared with you today >> just absorb that right now. >> Yeah.
+It’s wild, isn’t it? >> Yeah.
+So, I’m I’m like digging through it and I’m trying to decide how much of it’s related to the title of the article and how much of it is an announcement of >> an announcement >> of an announcement of an announcement.
+Yeah. Um, so, so I mean, you you start and I’ll step in and see what I’ve found so far. >> Yeah.
+>> Yeah. You you read the news while hype everyone up based on the title of the news that read, right? >> Yeah.
+Exactly.
+Yeah. >> Awesome. >> So guys, I’m going to share with you something that Google posted today.
+Google Deep Mind posted right before the brew started.
+We are partnering with the developers of Eve Online to explore the next frontier of AI research in games. EV is complex playerdriven universe is the perfect sandbox safe sandbox to test agents on memory continue learning and long-term planning >> man. >> Mhm.
+>> It’s it’s many many things come to my mind when see that. First of all, the fact that big player as Google is finally realizing that the environment for something like this is gaming in itself is huge. liked.
+And as you guys know, we share many many many many features with uh even online design in terms of how our game works. uh how we are real economy, how the universe of Star Atlas is set to become an independent uh autonomous economy and if evil line is good uh frontier to explore this kind of research, think Statatus is even more well positioned to be major benefactor from this AI uh experimentation or even participation in terms of game features. You guys know this uh we have been talking about this for years now how we are we have plans on creating agents to play NPC characters in the stratos world.
+We have even now we are playing with this by introducing the EOS faction in holosene.
+We are in the first steps towards >> bringing those elements to our universe.
+So want wanted to >> here’s another piece. I’m going to jump in here.
+So while you were while you were going over the claim stakes, was reading this article.
+So this there’s actually two key pieces to this article. The first is the partnership with the Google uh DeepMind. The second is that CCP Games has rebranded as Fenris Creations.
+It’s new company. They’re separating from Pearl Abyss, which acquired CCP, guess, in 2018, and returning to shareholder ownership uh with board of directors. And apparently, it’s an amicable split according to this article.
+And nothing really changes in the near- term for staff. And um think it’s very interesting thing that they’ve created an announcement about this partnership with Google DeepMind but subtly wrapped in this huge thing which is that their game studio is now separate thing again.
+It’s got new name uh and there’s going to be more you know coming out from them.
+So, think those are both both good signs. Google partnership and them becoming more independent. Very good signs, especially in um in time when lot of game studios are closing, it’s nice to see CCP games uh adjusting course or, you know, staying relevant with the times, which they which they always have.
+And um and then just like uh having did keep an eye on the um didn’t really participate in but did keep an eye close eye on the the various stages of the beta that they had um over the over the last year or two and it was always interesting to see the people from CCP who were in our server kind of watching what’s going on with us and and then seeing how they would implement things that were very very similar to what we were Um and um great minds think alike and yeah so anyway very very interesting article. think if you uh read the whole thing it it’s there’s lot in there more than just the the Google partnership and it seems like it’s all healthy stuff for them.
+So very cool. >> Yeah. And and think about Star Atlas here John.
+>> Uh we literally saw this and we have been building towards more AI integrated game like we had Sage integration in Hollow Sync, right? This was >> uh people people already saying did Status integrate with Google in partnership. >> No, >> this is how fake news are created, right?
+>> No, >> but no, we didn’t. Unfortunately, we are not there yet. Who knows what tomorrow holds, but yeah.
+>> Yeah.
+So, I would say we’re definitely leaders in uh first of all in blockchain, right? Uh second like we’ve been like the Hollison product has been an AI an AI um frontier for us >> since you know the middle of the early early stages of 2025 like >> uh we basically went all in on AI in that particular product not in our others. Um and certainly there’s been ton of innovation there.
+Um, we have really interesting content pipeline. We’ve got um the Nemesis engine and that’s coming. I’ve got more to talk about with combat coming.
+Um, so, so yeah, we’ve certainly been on the bleeding edge of of uh of AI tech with Hollow Sim specifically. And, uh, but our studio in general has has always been very very much um about people and artists and creativity and you see that through all the partnerships we do. the graphic novel novel was great great partnership that we did um where we brought in outside, you know, outside talent to work with us.
+Um so anyway, as as much as love AI as tool, uh there’s certainly ton of like real people and effort that’s gone into everything that we’ve built.
+So, think we’re striking good balance striking good balance of of um of human imagination art uh gameplay, and then mixing and leveraging AI to make those tools more accessible, get them out faster, all that kind of stuff.
+So, >> yeah. And what makes me happy here John is having someone like Google uh see what we are seeing you know in terms of this is something valuable.
+This is next frontier of gaming. >> Mhm. >> Agents will be part of gaming.
+Agents and the real economy uh go very well together. things like that you know it’s validation from >> for everything that we have been doing here for the vision that we have and everything that we are building feel this is really cool especially as you said many studios simply died and we survived it we are still surviving we are managing to keep shipping while everything goes under and as you said we are we Uh, probably.
+No, don’t think it’s even probably. I can think I’m pretty sure that we are the most advanced gaming studio in terms of blockchain knowledge overall. At least we built the most complex blockchain contracts and programs in the industry.
+>> By far. >> By far. >> Yeah.
+And we also have from day one being open to to AI technologies to real economy to the ethos of this new age.
+So think this will pay off. think this will pay off. And now I’ll go to Twitter announced that Stratus is pivoting to AI blockchain engineering and will make $1 billion.
+>> Yeah, go for it. Like every other company in the US stock market, we are privating to AI company. >> Yeah.
+And then send them the link to the Dow, tell them they can deposit their money there. >> Exactly. >> Yep.
+>> But yeah, I’m super excited about this. This made my day. I’m happy that saw this.
+So John, you you told you told me that you had some cool stuff to share in terms of hollowos in combat about how the Super Phoenix events played out. How are you feeling overall, John? >> Yeah, >> about the think the Super Phoenix event went really well.
+It didn’t have it had couple bumps uh but we were able to everything’s on chain and so we were able to make sure that everybody who did participate in the event under the criteria we set they were given credit and that was really nice even even though the UI wasn’t perfect at updating your status um all of that onchain data was immediately available and we were able to credit people um now we have now we have the ability to spawn in events uh throughout the game. We could tie those to quests.
+We can spawn in events based on location, based on um based on XP, based on new quests.
+So, uh one thing we’re this is just very small part, but for example, we can now spawn in derelict ships for you to attack during the onboarding process, right? To say, you know, you need to go to this sector.
+There’s going to be this ship there. You need to hit it. and we teach people about combat that way.
+So, that’s kind of one really small example of how we can leverage that process, right?
+We can use it in whole bunch of different ways. Um, >> and John, we can also choose, for example, if it spawns with different loot or something like this, right? >> Yes.
+Yep.
+Yeah. And that ties into that ties into the agentic part of what we’re doing.
+So um part big part of the nemesis engine is this idea that players have uh don’t want to call it threat but we we’ll just call it threat for the sake of this conversation.
+So as you mine you generate threat against either that planet or the eos in general or whatever. And if you mine in enemy territory you lose points with them. And as your player or your character gains and loses reputation, you can have different events spawning, right?
+Um you can have fleets that that immediately enter the sector when you enter the sector because you’re threat. And so um again, this is just playing off of all the things that we’ve seen so far, but in more automated and natural and and telling way. you you enter enemy space and you’re nobody.
+Whatever you’ve entered enemy space, it doesn’t matter. You enter enemy space and you’re like the top player on the mud side. Uh you’re instantly going to be met with with real opposition and that opposition has consequences.
+And so uh really looking forward to integrating that more. Um >> and we could even create reputation system based on that.
+Right John? >> Exactly. like for the player to see like am man >> on the sector.
+>> Yeah. And that reputation is already in place like especially when you consider reputation tied to mining activity cuz we have everyone’s mining activity history at each sector.
+We have how many enemy ships they destroyed at that sector to do that and and all that stuff. And so so that that becomes dynamic. Um, and yeah, yeah, you become bigger target and as you climb the leaderboard.
+And so you’re not just optimizing for your own, you know, mining operations. You you need to optimize to protect yourself against the threat that you generate as the as the number one person sort of thing.
+So um yeah, so that that’s one neat thing. Um, another sort of broad thing want to talk about is uh, faction warfare. I’m just going to the umbrella of faction warfare.
+Um, I called this instanced combat, but this isn’t instanced combat. We’ll put that idea aside for second. lot of the lot of the um feedback we got at the end of the chapter was at the end of the leaderboard closing there was uh to do with like how star-based combat worked and how the the different advantages attackers and defenders had.
+Um there was lot of feedback on how to make combat more predictable, better performance, all that stuff. And kind of compiled all that and I’ve talked to number of you guys over the last few weeks about this. Uh, and we sat down and started looking at what we could do to alleviate some of the issues with combat before we go into chapter that’s focused on combat or leaderboard that has combat um, uh, combat elements to it.
+So, think the the the first key point is I’m not going to we’re not going to release new leaderboard that’s associated with combat in the current state. It it needs to be improved. And when say it needs to be improved, mean like the latency in combat needs to be removed.
+uh you have to be able to stay in the command view and see in real time your actions affecting other players and other star bases and um not this lag, not closing the window and reopening the window and any of that stuff.
+So, um, so anyway, we drafted up plan to do that and, uh, we’re working through that right now. And lot of that has to do with the various, um, other games call it the global cooldown. And it’s this idea of how many seconds can elapse before the whole interface is refreshed.
+And so, currently we have three global cooldowns. Um, the two major ones are the fleet state and the repair global cooldown. They’re seven in 15 seconds.
+And so lot can happen in 7 seconds and we need to like eliminate that al together. And so we’re going to do that. Going to eliminate that 7-second global cool down and we’re going to go and read um we’re going to read straight from the RPC fleet overview stream.
+And we’ve seen over the course of the last chapter that the data we’re getting from RPC is accurate and it’s reliable and it’s fast. And so we’re not going to cache anything and we’re not going to have this intermediate layer. We’re going to do away with that.
+We’re going to read straight from the RPC stream. And um the way our CTO Brave Target says this, he’s like the delay that you see from the time you click warp and and click go. When you click warp and you see your ship start to move immediately, that’s the only delay that you’ll notice between combat transactions and repair issu is orders issued between dock and undock, between ships arriving and leaving.
+And so, um, we’re not going to use any middleware, any middle layer, and we’re just going to read straight from our PC. And there’s little bit of risk there. there is some risk that maybe the transaction doesn’t land and that that state isn’t captured, but we haven’t really seen any any like we haven’t seen that yet in this chapter.
+And so we’re just going to read straight from RPC and we’re going to do away with all that latency. And when the when the battle when the battle in the command view is in real time, um don’t think there’s need for an instance, right?
+Not necessarily.
+So, we’re going to we’re going to implement that right away. We’re going to um release the uh store that we’ve been talking about. We’re going to release um drones as well in the store.
+Um and don’t think we’re going to do new leaderboard yet. Uh the drones will provide fleet buffs, right? And so you can think of you can think of the drones as um they provide specific buff to your fleet and on their own they’re not useful because they don’t have many hit points or big fuel supply or anything like that but um they provide large bonus to particular um particular element of your fleet.
+Right. And so now people will be able to um purchase drones and offset some of the stats of their existing fleets or augment the stats of their existing fleets with these drone ships. Um and I’m pretty sure we’re going to emit some drones instead of um instead of crew, we’ll start emitting drones as the daily check-in uh for battle passh holders.
+So you’ll be able to get some drones that way and experiment with this. Um, and yeah, so you’ll see number of new ships coming through the marketplace. Uh, we’re not going to tie them to um leaderboard yet.
+Uh, this is going to be more experimental. And um, we’re not going to do instance combat yet, but we are going to remove all the latency that you see in the command view. And that should take us through to the end of chapter 2 over the next month, month and half, something like that.
+Um and then in the meantime while that’s happening uh we are going to we are going to stand up development server and go through with our sack testers. Uh instance combat is going to be one of the things that we um we try and the point of all of this is to make starbase combat make more sense to give players opportunities to know when base is going to be under attack.
+so that they can pick an attack and defend. Uh it’ll allow players to um lock in particular group of ships that are going to be fighting each other.
+And then when that instance ends, another group can lock in and fight with that group. Um so we’re going to do some experimentation there. And um >> John, sorry to interrupt you.
+>> Yeah. >> Uh wanted to ask question. received it on my DMs asking how the bonus that the drones will provide work.
+It’s going to be flat value. Like for example, you have combat drone. It increases your damage by or it’s percentage thing or Oh, nice.
+>> Yeah.
+So, okay.
+So, have um is my screen share going to work? >> Let me see if my screen share works. Hang on.
+Share screen. >> You tell me. got new version of Discord the other day and am hopeful.
+>> No way you did this. >> I’m kidding.
+No, >> let me see. >> Make selection share. >> Can you see this or John screen sharing makes no mistakes?
+>> Does it work or is it just blank screen? >> It’s loading. >> Oh man.
+Come on. Come on. Just black.
+Eh.
+Okay. >> You had to card, right? >> I’m going to tell you what did.
+I’m going to tell you what did. built simulator, combat simulator.
+Okay? And okay, I’m going to answer the first question first. We’ll use the the Opal Wamp as an example.
+Okay, there’s a drone coming called the Opal Wamp. >> And let me let me bring up my spreadsheet in my simulator here so can actually get this right. Um, ship stats part two.
+It’s here somewhere. Awesome stats.
+Yeah.
+Okay.
+Okay. Opal Wamp.
+So, the key is that the drone needs zero crew.
+Great. And the drone has no stats.
+It’s just an extra extra small ship.
+So, it’s the same stats as everything else.
+It’s extra small. Very little SP, very little, very little shields, very little health points.
+But the Opal Wamp in the current spreadsheet gets recharge shield recharge rate of nine.
+Okay? And the way shield recharge rate is it’s just each ship contributes to pool of recharging according to its own thing.
+It’s not like averaged or anything.
+It’s like it’s like extra extra small ships typically contribute value of three or or 0001, right? Or it’s actually set to three because they have the boosted thing, but um typically extra extra small ships used to contribute less than one point of shield regen.
+Okay, medium ships contributed seven five to seven points of shield regen per tick.
+Okay, so the Opal Wamp is going to contribute nine points of shield regeneration and that’s all it’s going to do and it’s not going to have crew penalty. And the the thinking is can now remove medium ship from my fleet. can free up nine.
+What is it? How many how many crew does mediumship take?
+Yeah. Takes uh crew crew crew takes frees up four four crew spots and frees up 16 units of fleet size.
+Okay.
+So, can put 16 units of these of these um opal wamps in place and can do like essentially 16x on my shield regen.
+Okay. lose the lose the shields. lose the hit points and lose the weapon capacity and lose all of that of the medium ship in exchange for big shield regen, right?
+And so you’ll be able to balance different fleet configurations in very very different ways.
+So the Opal Wamp does shield regen. The Fimble Naga is going to do AP regen.
+So you’re not going to gain any capacity in ammo. you’ll run out of ammo faster, but you’ll be able to shoot lot faster. You’ll be able to dump your ammo and get higher DPS.
+Um, those are the two that I’m going out with for sure. Shield regen and and DPS. Uh, but there’ll be other options as well.
+And yeah, so that’s going to be that’s going to be game changer. I’m also reworking the the highest end chips, right? I’m I’m I’m thinking of their um what don’t want is five tank ships flying around.
+want tank ship and its fleet with it.
+So, we may actually reduce the fleet uh capacity like it’s at two something now.
+So, we might bring that back down to the 150 mark where it was originally. Um so, fleets are going to be smaller. They’re going to be more dynamic.
+You’re going to have some that look very similar on paper, but they have these drones in them that that the user has customized. And so you might not know right right right away what you’re getting yourself into. Like like you may think, oh, this is going to be an easy fight.
+And you get in there and it’s like, oh no, that they can sustain lot more because they have lot of shield regeneration that didn’t account for, right? Um so that’s the idea. Um this is super cool.
+see people typing the chat. Lero is asking if you are willing in the next test round to revisit some of the formulas involved in combat but/fleet stats. >> I’m always willing to revisit fleet stats.
+>> Yeah.
+Yeah. And constantly moving to more unique stats for each shipline.
+So, >> yes, >> want Fimble to be easy to repair and heavy firepower, but they’ll get killed faster. They’ll have shorter fuel distances, that type of thing. And, you know, want the more premium ships to feel premium in in way.
+Um, but they’re more expensive to repair and uh but they they’re more expensive to buy up front.
+So yeah, we’re always I’m always looking at ways to refine the ship stats for sure to to make to make your decisions more dynamic, right? Um, and also like ships that are made to be carriers, like the tank ship with with fleet bays and stuff, like want them to naturally feel like they need the assistance of the smaller ships, like like they do one thing really well, provide some stat in abundance, but um lack in other ways and uh and need those ships for support sort of thing.
+So, >> this is very cool approach, Sean. love this. And just so we keep tab on the time, want to go back to the idea of instantiated combat and events in hollow scene.
+>> Yeah. And wanted to learn the community thoughts on this like how you guys feels about instances in startles overall especially in combat in game like this star base instance siege event for example or the instances of events in Star Atlas. How you guys feel about this?
+Jindo said we need them. Leno loves the idea of instances. Funker love the idea of instances.
+So So will will say that the instance thing um is something we’re going to experiment with. Uh whether it actually makes it into the game or not, I’m not sure yet. Um and and our CTO Brave Target is really confident that the performance improvements in removing some of these artificial delays is actually going to solve lot of lot of the friction that is in the current command view.
+And actually think he’s right. Um, and so we’re going to implement that first and we’re going to do that here in in the next uh couple days and we will see if that largely resolves the issue and then we’ll look at the instances from different perspective not from not not for the sake of improving the UI performance but um for controlled events essentially think >> yeah for quest for example >> for quest for controlled events yeah combat instances interesting. really like the idea of you having unique events happening to you while you are playing hollow scene or C4 for example like the results of scanning action >> it spawn an instance fight just for you you know.
+>> Mhm. Yep. would love to do that too.
+Jinder is also arguing that instancet gameplay gives players way to schedule their game play.
+That’s true, man. That meme, Michael. Jesus Christ, that horse giving me damage.
+take damage every time see this. Oh, Jesus Christ. Oh man.
+Funny. >> Yeah.
+Now we need to carry on after this horse. don’t know what to say.
+Yeah, exactly. You destroyed my We were talking about instances. Exactly.
+Michael killed the bro. Jesus, stop. Oh Jesus.
+But yeah, no, really like the idea of instances in for particular events like scanning for quests for teaching players how combat works. Uh maybe some storyline events like boss fight in your quest system. think this is something really cool.
+Not necessarily for star bases, even though star bases might benefit from this, but yeah, some events think they need to be personal so you feel more immersed in the game overall.
+So those are the next steps, John, in holos for us to to test the >> So link your mainet wallets. Just reminder, >> we need to talk about the prices.
+Yeah.
+So many people.
+Yeah.
+Okay, let’s let’s do that real quick. Uh yeah, we had there was very like lot of people didn’t link wallets yet and there’s really awesome prizes uh on the table here. Um if you didn’t see the announcement yesterday, we we settled the issue with the Bitboat.
+Okay, the Bitbo wasn’t supposed to be in the top prize pool like that. We’ve replaced it with another ship, think, the Mamba, and reorganized some things. Um, you have till Friday to link wallet.
+And know that there are some people that have an issue linking their wallet right now. And have the fix for that uh in PR.
+So hopefully by the end of the day, anybody who’s stuck unable to link wallet will be able to do that. Um, but yeah, you got till Friday and then that’s it. We’re going to do one one prize distribution and that’s it.
+So if you’ve missed it by then, it’s it’s too bad. >> Cheers.
+Yeah, it’s over. >> No mercy. >> No mercy.
+Um, yeah. And so the way we’re going to do that is if there is gap somewhere and there’s spot that wasn’t wasn’t taken, uh, the person below them will get bumped up and everybody else will get bumped up one slot.
+So, um, yeah, you may get better prize than you thought you were going to get if you cross threshold as result of someone not linking. Um, yeah, >> link your wallets, everyone. link your wallet >> important.
+>> Yeah. >> So after that, John, do you expect some downtime? How how things will play out while we prepare this next step?
+>> Yeah.
+So the last two weeks has been the downtime. I’m starting to starting to ramp up to to ship these um improvements to the combat UI. Um the storefront should be ready to go.
+Uh, the ships may come little bit after. want to want to set the want to release some of these ships into the wild and see how they go before start putting them in the marketplace.
+But we’ll see. Um, they’re going to need some tweaking.
+So, I’ll put big banner on it and says, you know, these are beta and they’re going to change. The stats on them are going to change and all that. Um, but yeah, so we’re going to get these drone ships into people’s hands.
+we’re going to have this better combat interface with less lag and um and then we’ll go from there. think what we’re going to do is um from development perspective, we’re going to put do fork and start developing um start developing the the scanning uh quest lines and systems and testing out instancing uh and doing that through the sack server rather than pushing all of that straight to the main product. Um, and so Hollisma is as has another month and bit left in it.
+And then, um, in the meantime, we’ll be developing the scanning, uh, scanning quest lines and hopefully new combat events and hopefully new Nemesis engine stuff um, to go along with it.
+Yeah, there’s our plan for the next month or so. >> That’s very cool. am going to share the code for today.
+The code for today is resilience because that’s what need to survive this brew with that horse in the chat right now.
+It’s in the chat. Freaking horse freaking damage. Jesus.
+All right. All right. All right.
+Um, anyone else has any other questions? Will Bayern win?
+Not likely. BB critical mind is asking for us to create 2D arcade for active combat in Sage/Holene. John, what are we even doing, man?
+We need this for yesterday. >> So, think and then we do the arcade for active combat. >> Think about this for second.
+If you could just move your ships around in the command view and the and the attack happened exactly when you clicked the attack button and you got to see it in real time like we’re basically there, right?
+So positioning for different different attack strategies and all that kind of stuff.
+Yeah, like definitely want to want to look into that. Um, yeah, I’m want to get the existing combat interface working really well and then we’ll we’ll we’ll talk about it. >> Yeah, >> the 2D arcade instanced version.
+>> Yeah, they want the full experience with different abilities you you get on the map and start shooting more shoots, you know. >> Yeah.
+Yeah.
+Yeah. >> Those were the days, man. love it.
+Those arcade games. Um, think we can wrap now then if we don’t have any more questions for John or for Michael or for Google. see people typing trolling me.
+shared those updates at the beginning. Bohemian, the voting for Ember Coil stays until May 11 and it’s super intense. Like have four people tied.
+We have like three guys who are think it’s impossible for them to lose at this point, but the remaining spots are being fought on insanely among the competition. think I’ll even need to create second voting just between them so we learn who comes out at the end.
+But we will see. We still have voting window open for Ember Coil until May 11. Let me try to get the link here so you guys can vote.
+Who is going to represent the community on our first RPG campaign? Hopefully you guys won’t all die in the first session. Oh man, just realized that will be able to finally fulfill my dream of killing everyone of our community members live directly in this RPG campaign.
+I’m feeling so blessed right now.
+This is awesome. >> This is because you’re going to GM it. >> Exactly.
+>> Yeah.
+Okay. All right.
+Well, I’ll be on the community side. >> Cheering. Hoping.
+>> Cheering.
+Yeah. >> want to play. Why is my name not on this list?
+You want to play? >> You. >> You have already spot, John.
+You don’t need to compete with everyone. >> Okay. You are my friend.
+buy it. >> Nice. I’ll be the second GM.
+I’ll be the one that actually activates the traps for you. >> You can be the the boss fights.
+You know, you can voice the boss. >> Okay.
+Cool. >> Sounds good. Awesome.
+>> Yep. >> Awesome. Awesome.
+All right, guys. Then think it’s time for us to close today’s episode of the Atlas Brew. Thank you all everyone for coming, for your inputs, for everything.
+We love you all.
+We are super excited about what is to come. Don’t blink because you might miss it.
+Good things are coming.
+We are going to win. Take care everyone. I’ll see you all next week.
+Bye-bye. See you.

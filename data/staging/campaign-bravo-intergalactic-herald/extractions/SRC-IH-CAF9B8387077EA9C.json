@@ -1,0 +1,414 @@
+{
+  "source": {
+    "source_id": "SRC-IH-CAF9B8387077EA9C",
+    "url_id": "URL-CAF9B8387077EA9C",
+    "url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-60/",
+    "inventory_url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-60",
+    "title": "Star Atlas Weekly News Recap #60",
+    "author": "Intergalactic Herald",
+    "publisher": "Intergalactic Herald",
+    "published_at": "2023-05-14T17:00:24",
+    "updated_at": "2023-05-13T16:53:47",
+    "retrieved_at": "2026-07-12T22:07:55.787107Z",
+    "document_type": "NEWSLETTER",
+    "source_role": "CURATED_SUMMARY",
+    "source_classification": "CURATED_SUMMARY",
+    "classification_rationale": "Weekly newsletter/recap aggregates developments and linked sources.",
+    "wordpress_type": "posts"
+  },
+  "summary": {
+    "neutral_abstract": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week. We are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us. Atlas Theory posted a video about grinding your way to the top in Escape",
+    "historical_value": "Contemporary Intergalactic Herald publication preserved with role and attribution boundaries.",
+    "current_validity_warning": "Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources."
+  },
+  "article_text": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week.\nWe are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us.\nVSUS Ambwe Review!!! Star Atlas Showroom\nGladiator posted a video reviewing the Star Atlas VSUS Ambwe.\nMVN #93 Star Atlas Coordinated Treasure Hunt w/ Santi + DominicVain\nMetaverse Nomads posted a video of their weekly Star Atlas live stream.\nStar Atlas : Escape Velocity tips tricks and tutorial SAGE Prequal\nPockThePirate posted a video guide to Star Atlas SAGE: Escape Velocity.\nWEEKLY STAR ATLAS NEWSLETTER #78\nAephia published their latest Star Atlas newsletter.\nStar Atlas Escape Velocity data report\nStar Atlas published a direct link to data about Escape Velocity.\nSTAR ATLAS – Grind Your Way To The TOP from $0!! (Zero to Hero)\nAtlas Theory posted a video about grinding your way to the top in Escape Velocity.\nStar Atlas Escape Velocity News!!\nBeyond the Horizon 2620 posted a video about Escape Velocity news.\nPrelude — A Galaxy in Movement: The First Day\nStar Atlas published an article about a Star Atlas lore story.\nMASSIVE Star Atlas Never Alone Campaign – $2 Million in Prizes\nThe Hologram News Network posted a video about the Star Atlas Never Alone social campaign.\nNever Alone: A Shared Social Adventure Across the Star Atlas Galaxy\nStar Atlas published an article about their social campaign.\nStar Atlas News!\nBeyond The Horizon 2620 posted a video about some Star Atlas news.\nStar Atlas Never Alone Mission 1: Scraps and Spoils Lore\nThe Hologram published an article about info from the Star Atlas Never Alone Mission 1.\nSTAR ATLAS – Let’s talk about NEVER ALONE campaign.\nAtlas Theory posted a video about the Star Atlas Never Alone campaign.\n!! Surge !! Escape Velocity & Never Alone Star Atlas\nGladiator posted a video about Star Atlas news.\nStar Atlas Factions and Lore For New Players\nThe Hologram posted a video about Star Atlas lore.",
+  "content_hash": "42ca57b95f5f5be9b7ead3dd84144ddb3b4a6a7193aa06c3b9a5c7fa5e936e13",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [],
+  "external_sources": [
+    {
+      "url": "https://www.youtube.com/watch?v=M2dnmQ5f8uk",
+      "anchor_text": "Star Atlas VSUS Ambwe"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Rc-ReY1gsGY",
+      "anchor_text": "weekly Star Atlas live stream"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ryqZstNw5qU",
+      "anchor_text": "Star Atlas SAGE: Escape Velocity"
+    },
+    {
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-78/",
+      "anchor_text": "latest Star Atlas newsletter."
+    },
+    {
+      "url": "https://public.tableau.com/app/profile/cory.crider/viz/GoldenEra-EscapeVelocity/EscapeVelocity?publish=yes&fbclid=IwAR3JIybukdf4ri-FFa5Y4hywqydk5NfPxBPvOQXND9kyw-uijGczbhqJyzk",
+      "anchor_text": "direct link to data about Escape Velocity"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=73uxjbMKI8w",
+      "anchor_text": "grinding your way to the top in Escape Velocity"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=npwOPfkdUEU&t=3s",
+      "anchor_text": "Escape Velocity news"
+    },
+    {
+      "url": "https://medium.com/star-atlas/prelude-a-galaxy-in-movement-the-first-day-e3c716b1ecde",
+      "anchor_text": "Star Atlas lore story"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=rZYKJoVhcd8",
+      "anchor_text": "Star Atlas Never Alone social campaign"
+    },
+    {
+      "url": "https://medium.com/star-atlas/never-alone-a-shared-social-adventure-across-the-star-atlas-galaxy-89cd90627234",
+      "anchor_text": "their social campaign"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=1g9kVixol4Y",
+      "anchor_text": "Star Atlas news"
+    },
+    {
+      "url": "https://medium.com/the-hologram/star-atlas-never-mission-1-alone-scraps-and-spoils-lore-fffefc2ff92e",
+      "anchor_text": "Star Atlas Never Alone Mission 1"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=lOaI8cc57ac",
+      "anchor_text": "Star Atlas Never Alone campaign"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=a_wZlHSMaJQ",
+      "anchor_text": "Star Atlas news"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Ik4bkx6W_N8",
+      "anchor_text": "Star Atlas lore"
+    }
+  ],
+  "primary_source_relationships": [
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=M2dnmQ5f8uk",
+      "anchor_text": "Star Atlas VSUS Ambwe"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=Rc-ReY1gsGY",
+      "anchor_text": "weekly Star Atlas live stream"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=ryqZstNw5qU",
+      "anchor_text": "Star Atlas SAGE: Escape Velocity"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-78/",
+      "anchor_text": "latest Star Atlas newsletter."
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://public.tableau.com/app/profile/cory.crider/viz/GoldenEra-EscapeVelocity/EscapeVelocity?publish=yes&fbclid=IwAR3JIybukdf4ri-FFa5Y4hywqydk5NfPxBPvOQXND9kyw-uijGczbhqJyzk",
+      "anchor_text": "direct link to data about Escape Velocity"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=73uxjbMKI8w",
+      "anchor_text": "grinding your way to the top in Escape Velocity"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=npwOPfkdUEU&t=3s",
+      "anchor_text": "Escape Velocity news"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://medium.com/star-atlas/prelude-a-galaxy-in-movement-the-first-day-e3c716b1ecde",
+      "anchor_text": "Star Atlas lore story"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=rZYKJoVhcd8",
+      "anchor_text": "Star Atlas Never Alone social campaign"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://medium.com/star-atlas/never-alone-a-shared-social-adventure-across-the-star-atlas-galaxy-89cd90627234",
+      "anchor_text": "their social campaign"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=1g9kVixol4Y",
+      "anchor_text": "Star Atlas news"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://medium.com/the-hologram/star-atlas-never-mission-1-alone-scraps-and-spoils-lore-fffefc2ff92e",
+      "anchor_text": "Star Atlas Never Alone Mission 1"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=lOaI8cc57ac",
+      "anchor_text": "Star Atlas Never Alone campaign"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=a_wZlHSMaJQ",
+      "anchor_text": "Star Atlas news"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=Ik4bkx6W_N8",
+      "anchor_text": "Star Atlas lore"
+    }
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Verify which outbound links are primary sources and preserve creator attribution during promotion."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-60&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 7430,
+    "elapsed_ms": 1547,
+    "attempts": [
+      {
+        "endpoint": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-60&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "http_status": 200,
+        "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-60&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "content_type": "application/json; charset=UTF-8",
+        "response_size": 7430,
+        "elapsed_ms": 1547
+      }
+    ]
+  },
+  "source_lineage": {
+    "publication": "Intergalactic Herald",
+    "publication_role": "CURATED_SUMMARY",
+    "relationship": "CURATED_SUMMARY_OF",
+    "primary_sources": [
+      {
+        "publication": "Star Atlas VSUS Ambwe",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=M2dnmQ5f8uk",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas VSUS Ambwe"
+      },
+      {
+        "publication": "weekly Star Atlas live stream",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=Rc-ReY1gsGY",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: weekly Star Atlas live stream"
+      },
+      {
+        "publication": "Star Atlas SAGE: Escape Velocity",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=ryqZstNw5qU",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas SAGE: Escape Velocity"
+      },
+      {
+        "publication": "latest Star Atlas newsletter.",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-78/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest Star Atlas newsletter."
+      },
+      {
+        "publication": "direct link to data about Escape Velocity",
+        "author": "UNKNOWN",
+        "url": "https://public.tableau.com/app/profile/cory.crider/viz/GoldenEra-EscapeVelocity/EscapeVelocity?publish=yes&fbclid=IwAR3JIybukdf4ri-FFa5Y4hywqydk5NfPxBPvOQXND9kyw-uijGczbhqJyzk",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: direct link to data about Escape Velocity"
+      },
+      {
+        "publication": "grinding your way to the top in Escape Velocity",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=73uxjbMKI8w",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: grinding your way to the top in Escape Velocity"
+      },
+      {
+        "publication": "Escape Velocity news",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=npwOPfkdUEU&t=3s",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Escape Velocity news"
+      },
+      {
+        "publication": "Star Atlas lore story",
+        "author": "UNKNOWN",
+        "url": "https://medium.com/star-atlas/prelude-a-galaxy-in-movement-the-first-day-e3c716b1ecde",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas lore story"
+      },
+      {
+        "publication": "Star Atlas Never Alone social campaign",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=rZYKJoVhcd8",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas Never Alone social campaign"
+      },
+      {
+        "publication": "their social campaign",
+        "author": "UNKNOWN",
+        "url": "https://medium.com/star-atlas/never-alone-a-shared-social-adventure-across-the-star-atlas-galaxy-89cd90627234",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: their social campaign"
+      },
+      {
+        "publication": "Star Atlas news",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=1g9kVixol4Y",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas news"
+      },
+      {
+        "publication": "Star Atlas Never Alone Mission 1",
+        "author": "UNKNOWN",
+        "url": "https://medium.com/the-hologram/star-atlas-never-mission-1-alone-scraps-and-spoils-lore-fffefc2ff92e",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas Never Alone Mission 1"
+      },
+      {
+        "publication": "Star Atlas Never Alone campaign",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=lOaI8cc57ac",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas Never Alone campaign"
+      },
+      {
+        "publication": "Star Atlas news",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=a_wZlHSMaJQ",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas news"
+      },
+      {
+        "publication": "Star Atlas lore",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=Ik4bkx6W_N8",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas lore"
+      }
+    ],
+    "secondary_sources": [],
+    "original_creators": [
+      "Aephia"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Star Atlas VSUS Ambwe",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=M2dnmQ5f8uk"
+      },
+      {
+        "from": "weekly Star Atlas live stream",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=Rc-ReY1gsGY"
+      },
+      {
+        "from": "Star Atlas SAGE: Escape Velocity",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=ryqZstNw5qU"
+      },
+      {
+        "from": "latest Star Atlas newsletter.",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-78/"
+      },
+      {
+        "from": "direct link to data about Escape Velocity",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://public.tableau.com/app/profile/cory.crider/viz/GoldenEra-EscapeVelocity/EscapeVelocity?publish=yes&fbclid=IwAR3JIybukdf4ri-FFa5Y4hywqydk5NfPxBPvOQXND9kyw-uijGczbhqJyzk"
+      },
+      {
+        "from": "grinding your way to the top in Escape Velocity",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=73uxjbMKI8w"
+      },
+      {
+        "from": "Escape Velocity news",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=npwOPfkdUEU&t=3s"
+      },
+      {
+        "from": "Star Atlas lore story",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://medium.com/star-atlas/prelude-a-galaxy-in-movement-the-first-day-e3c716b1ecde"
+      },
+      {
+        "from": "Star Atlas Never Alone social campaign",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=rZYKJoVhcd8"
+      },
+      {
+        "from": "their social campaign",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://medium.com/star-atlas/never-alone-a-shared-social-adventure-across-the-star-atlas-galaxy-89cd90627234"
+      },
+      {
+        "from": "Star Atlas news",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=1g9kVixol4Y"
+      },
+      {
+        "from": "Star Atlas Never Alone Mission 1",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://medium.com/the-hologram/star-atlas-never-mission-1-alone-scraps-and-spoils-lore-fffefc2ff92e"
+      },
+      {
+        "from": "Star Atlas Never Alone campaign",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=lOaI8cc57ac"
+      },
+      {
+        "from": "Star Atlas news",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=a_wZlHSMaJQ"
+      },
+      {
+        "from": "Star Atlas lore",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=Ik4bkx6W_N8"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  }
+}

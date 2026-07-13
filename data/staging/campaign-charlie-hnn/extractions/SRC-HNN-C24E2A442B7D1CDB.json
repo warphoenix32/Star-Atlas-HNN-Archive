@@ -1,0 +1,343 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-C24E2A442B7D1CDB",
+    "url_id": "URL-C24E2A442B7D1CDB",
+    "url": "https://medium.com/the-hologram/star-atlas-town-hall-39-recap-massive-gameplay-updates-6a20630c7ec0",
+    "title": "Star Atlas Town Hall 39 Recap — Massive Gameplay Updates",
+    "author": "Krigs",
+    "publisher": "The Hologram",
+    "publication_identity": "The Hologram (Medium publication)",
+    "published_at": "2023-05-27T13:05:58Z",
+    "updated_at": "2023-05-27T13:05:58Z",
+    "retrieved_at": "2026-07-13T00:09:42.097209Z",
+    "document_type": "EVENT_COVERAGE",
+    "source_role": "EVENT_COVERAGE",
+    "publication_role": "EVENT_COVERAGE",
+    "classification_rationale": "Publication documents or recaps a named event."
+  },
+  "source_lineage": {
+    "publication": "The Hologram (Medium publication)",
+    "publication_role": "EVENT_COVERAGE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [
+      {
+        "publication": "Attending a TownHal",
+        "author": "UNKNOWN",
+        "url": "https://zealy.io/c/staratlas-never-alone/questboard",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Podcast",
+        "author": "UNKNOWN",
+        "url": "https://open.spotify.com/show/2mxndrDW6yPfpS350ijzjt?si=ec7c717f998240d6",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "YouTube",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/channel/UCDa-YxgNG6A9xpH1qyP0OaQ",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://staratlas.com/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [
+      "Krigs"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Attending a TownHal",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://zealy.io/c/staratlas-never-alone/questboard"
+      },
+      {
+        "from": "Podcast",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://open.spotify.com/show/2mxndrDW6yPfpS350ijzjt?si=ec7c717f998240d6"
+      },
+      {
+        "from": "YouTube",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://www.youtube.com/channel/UCDa-YxgNG6A9xpH1qyP0OaQ"
+      },
+      {
+        "from": "Star Atlas",
+        "to": "The Hologram (Medium publication)",
+        "relationship": "REPORTS_ON",
+        "url": "https://staratlas.com/"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "This event coverage published by The Hologram on 2023-05-27 documents “Star Atlas Town Hall 39 Recap — Massive Gameplay Updates.” Its surviving text addresses governance, economy, guilds and DACs, game development, community, lore, technology. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "Star Atlas Town Hall 39 Recap — Massive Gameplay Updates\nKrigs8 min read·May 27, 2023\n--\nListen\nShare\nMay 26th, 2023 — Star Atlas just held a short notice Town Hall filled with a massive amount of gameplay feature updates and Unreal Engine 5 footage. CEO Michael Wagner and CPO Danny Floyd announced that major features are coming within the next few weeks. If you missed the nearly 2 hour town hall, here’s the TL:DR.\nPress enter or click to view image in full size\nOverview\nNever Alone\nEscape Velocity\nSAGE — Extraction and Crafting\nShowroom 2.1 coming June 1st (New flyable ships, racing, jetpacks)!\nDAO voting soon thereafter\nNever Alone and Social Media Campaign\nPress enter or click to view image in full sizeStar Atlas Never Alone — A Social Media Engagement Questign Campaign\nEscape Velocity just crossed the 1 month mark and the metrics are staggering.\nWith over 3,700 (and rapidly approaching 4,000) unique questers, there is a total of more than 42,000 quests claimed. Throughout this past week, there were time limited quests to earn additional XP, including during the town hall.\nBe sure to claim your Never Alone XP in the “Attending a TownHall” Quest with the pass code: sipofwater426.\nThis code is only valid until 2:30 PM EST on May 27th, 2023.\nSocial Media Metrics\nStar Atlas Never Alone is, at its core, a gamified social media questing campaign, rewarding players for action both in-game and on social media. Since the launch of Never Alone, Star Atlas has reached new highs in social media engagement.\nMichael noted that social media engagement is at a 17 month high point, essentially the highest since January, 2022. The average daily mentions of Star Atlas has septupled (7x) in recent weeks.\nStar Atlas has seen a 3% growth in new users (unique wallets) connect to the Star Atlas Ecosystem.\nLastly, Michael shared that only 1% of Solana users have a Star Atlas asset. Despite that low metric, Michael sees this as confirmation that there is a larger markets share for Star Atlas to tap into.\nEscape Velocity\nPress enter or click to view image in full sizeStar Atlas Escape Velocity\nEscape Velocity just crossed the 1 month mark and the metrics are staggering. The first on-chain SAGE mechanic program hit the 20 million transactions mark from 7,500 unique wallets and 25 million loot scans.\nThis activity accounts for a daily average of 3% of total Solana transaction on the blockchain.\nDuring the last Escape Velocity Surge event, Star Atlas peaked at 8% of total Solana transactions for the day. On that note, Michael announced that two Surge events are planned for next week.\nEscape Velocity is just 1 of 8 on-chain programs and the team is expecting to reach 12 to 15 on-chain programs by the end of the year.\nGameplay Stability\nOver the past month, the team has been monitoring the backend infrastructure of Escape Velocity. Players have experienced stability and connectivity issues, but the development team was quick to address these. The result is a more stable experience in SAGE. Discovering these issues early is critical to the long-term development of Star Atlas in both the SAGE and Unreal Engine 5 environment.\nTo cage expectations, Michael reiterated that Escape Velocity is still a tech demo with gamified elements and that future fully-developed gameplay is on the way.\nThe success of Escape Velocity has attracted the attention of Solana Labs and the Solana Foundation, including other ecosystems developers, who are reaching out to Star Atlas and looking for support and collaboration opportunities.\nSAGE — Extracting and Crafting Loop\nMinor Change to Next Release\nThe next version of SAGE will use the fleet management program meaning that players will use their own ships in game instead of a spawned ship that players currently use in Escape Velocity.\nAdditionally, the next release of SAGE is not a mining loop meaning that players will not be using their claim stakes. Instead, players will use their ships to extract resources from asteroids while consuming ammunition. Players will then turn these resources into crafted R4 materials, in additoin to others, in exchange for loot. There will also be a new loot table released for this version of SAGE.\nOther things Michael noted:\nImproved SAGE UI\nThe ability to see other player’s ships in-game\nLoot will be more involved/difficult to obtain going forward\nDAO Proposal and Voting Launch Next\nPress enter or click to view image in full sizeOrder Flow of the Star Atlas DAO roll out\nAs if the previous updates weren’t enough, Michael announced that the Star Atlas DAO voting and proposals is the second to next release. (Keep reading to fid out what the next release is!).\nThe first version of the DAO and Polis Improvement Proposal #1\nThe first Polis Improvement Proposal that the community can vote on will be proposed by ATMTA. This very first and historic proposal will cover:\nThe Star Atlas Constitution — Framework for the DAO\nThe Star Atlas Foundation — Legal representation of the DAO\nMichael likened this moment to the signing of the Declaration of Independence (He likely meant United States Constitution). He urged strong community participation to ensure that this first proposal, to be released, is passed in agreement.\nThe passing of the first PIP will likely take some time which will involve discussion, live debates, and community input. Ultimately, voting will be based on a individuals Polis Voting Power (PVP).\nMichael noted that community submitted PIPs will not be included in this first version of the DAO and will online after the firs PIP is passed. This order of structure is required since the first PIP will essentially define how all future PIPs are passed.\nIn the hours after the announcement, the price of POLIS increased to $.18 before returning to $.155 levels at time of writing.\nShowroom 2.1 Coming June 1st\nPress enter or click to view image in full size\nThat’s right, the next version of the Star Atlas Showroom 2.1 is coming on June 1st (Next Thursday). Michael handed the microphone over to CPO Danny Floyd to make the official announcement.\nPress enter or click to view image in full sizevzus Ambwe flying in the UE5 Showroom Environment\nEvery ship will become flyable on June 1st in Showroom 2.1!\nThat’s right, all 49 ships available in the Star Atlas marketplace are now flyable and shootable in game. Not only will players be able to fly around the showroom in any ship, but players will also be able to take their ships and play a reworked PvE dogfighting game mode.Y ou can absolutely take your Commander class ship and crush some AI Ships!\nThe team wants to note that even though all ships are flyable, some ships remain in a clay model state.\nDanny shared how the team needed to build the underlying flight mechanics for Star Atlas. Now that’s complete, the team can make more ships flyable at a quicker pace. Note that many of the mechanics being developed for Star Atlas are being developed in house by ATMTA.\nPlayer Jetpacks!\nPress enter or click to view image in full size\nAlong with the reveal of showroom 2.1, Danny also revealed that a new player feature is coming — jetpacks.\nJetpacks will enable players to traverse the map more easily and reach their ships quicker. This basic version of the jetpack will be included for every player. Future improvements to the player jetpack system include:\nUpgradable hand and foot jetpack components\nCustomization\nGround Racing\nShowroom 2.1 will include a single-player racing environment and leaderboard. Ships in the X-Small and XX-Small will be able to participate on this very first racing course.\nPhotographer Career\nPlayers will take pictures in the showroom and upload them onto a community portal. The community can then vote for their favorite photos. The photos with the most votes will receive unique 1/1 NFTs of their photos from the Star Atlas team during each competition.\nOther Showroom Updates and Notes\nDanny also hinted that the Showroom Environment has gotten much larger.\nRevamped Volant Station Train. The new train animation better synchronizes player loading into the showroom, particularly for multiplayer environments.\nClosing Comments — Possible Runway Extension?\nBefore taking general community questions, Michael made a few key highlights. He expressed that it was unfortunate that there remains doubt on the viability of Star Atlas and that is has overshadowed some of the forward development that has occurred this year.\nHe continued by stating that nothing is slowing down within the studio and that he maintains a 100% confidence in the future of Star Atlas.\n“Let me reassure you that people recognize the value that is being created here. Star Atlas will be around…Star Atlas is not going away.” — Michael Wagner\nQuestion from Pock the Pirate\nQ: Is there a mechanic that accounts for Guild Sizes for the End of the Year loot table?\nA: Yes, guild size will be accounted for in different tiers for loot.\nQ: What methods is the team actively working on to acquire funding that isn’t from the player base?\nA: We continue to engage in conversations with multiple VC and offices. We are in, and have been, in advanced negotiations with one such partner, in addition to discussions with other participants on the Solana ecosystem. It remains the #1 priority in my mind — Michael Wagner\nQ: Are you planning on a next Galactic Offering Event?\nA: Yes, but details are intentionally vague.\nQ: Short notice events have plagued the community and team. Can the team work on an improved communication system?\nA: I disagree. I think we’ve done a fantastic job at making improvements and we are best in class.\nQuestion from Mandalorian\nQ: With the optimizations of [Showroom] 2.1, have you guys made optimizations to keybinds and settings?\nA: You can adjust keybinds but not gamepad, its not quite there.\nQuestion from Signal\nQ: Could you speak to some of the changes in mechanics for dogfighting NPC?\nA: The waves are actually much harder to balance against the different ships that are now flyable,\nAbout the Author\nKrigs is a pioneer in the world of Star Atlas, having founded The Hologram News Network — an independent meta-news organization that keeps players up to date on all developments regarding Star Atlas. An ardent supporter of emerging technologies, Krigs has been covering this game for over a year and believes passionately in their power to revolutionize our collective gaming experience.\nFollow on Social Media:\nPodcast | YouTube | Twitter | Instagram | Web\nAbout The Hologram\nThe Hologram is Star Atlas’ first and only independent news network. Our vision is to become the most trusted source of information about Star Atlas and a voice for the whole community. Readers can expect a high standard from our reporting and staff. Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.\nThe Hologram is not endorsed or paid by the Star Atlas team. Any information published by The Hologram nor its writers should be considered as informational in nature and does not constitute any financial advice.",
+  "content_hash": "1d0e355decb785d5a1edc4832cfc696009ba2fa52700db5867181645bc000254",
+  "major_topics": [
+    "governance",
+    "economy",
+    "guilds and DACs",
+    "game development",
+    "community",
+    "lore",
+    "technology"
+  ],
+  "entities": [
+    "ATLAS",
+    "Danny Floyd",
+    "Escape Velocity",
+    "Krigs",
+    "Michael Wagner",
+    "POLIS",
+    "SAGE",
+    "Showroom",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-C24E2A442B7D1CDB-01",
+      "text": "CEO Michael Wagner and CPO Danny Floyd announced that major features are coming within the next few weeks.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-C24E2A442B7D1CDB",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-C24E2A442B7D1CDB-02",
+      "text": "With over 3,700 (and rapidly approaching 4,000) unique questers, there is a total of more than 42,000 quests claimed.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-C24E2A442B7D1CDB",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-C24E2A442B7D1CDB-03",
+      "text": "On that note, Michael announced that two Surge events are planned for next week.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-C24E2A442B7D1CDB",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-C24E2A442B7D1CDB-04",
+      "text": "SAGE — Extracting and Crafting Loop Minor Change to Next Release The next version of SAGE will use the fleet management program meaning that players will use their own ships in game instead of a spawned ship that players currently use in Escape Velocity.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-C24E2A442B7D1CDB",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-C24E2A442B7D1CDB-05",
+      "text": "Additionally, the next release of SAGE is not a mining loop meaning that players will not be using their claim stakes.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-C24E2A442B7D1CDB",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-C24E2A442B7D1CDB-06",
+      "text": "Instead, players will use their ships to extract resources from asteroids while consuming ammunition.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-C24E2A442B7D1CDB",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-C24E2A442B7D1CDB-07",
+      "text": "Players will then turn these resources into crafted R4 materials, in additoin to others, in exchange for loot.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-C24E2A442B7D1CDB",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-C24E2A442B7D1CDB-08",
+      "text": "There will also be a new loot table released for this version of SAGE.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-C24E2A442B7D1CDB",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-C24E2A442B7D1CDB-09",
+      "text": "Other things Michael noted: Improved SAGE UI The ability to see other player’s ships in-game Loot will be more involved/difficult to obtain going forward DAO Proposal and Voting Launch Next Press enter or click to view image in full sizeOrder Flow of the Star Atlas DAO roll out As if the previous updates weren’t enough, Michael announced that the Star Atlas DAO voting and proposals is the second to next release.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-C24E2A442B7D1CDB",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-C24E2A442B7D1CDB-10",
+      "text": "The first version of the DAO and Polis Improvement Proposal #1 The first Polis Improvement Proposal that the community can vote on will be proposed by ATMTA.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-C24E2A442B7D1CDB",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-C24E2A442B7D1CDB-11",
+      "text": "This very first and historic proposal will cover: The Star Atlas Constitution — Framework for the DAO The Star Atlas Foundation — Legal representation of the DAO Michael likened this moment to the signing of the Declaration of Independence (He likely meant United States Constitution).",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-C24E2A442B7D1CDB",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-C24E2A442B7D1CDB-12",
+      "text": "He urged strong community participation to ensure that this first proposal, to be released, is passed in agreement.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-C24E2A442B7D1CDB",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "SAGE",
+    "Star Atlas",
+    "Escape Velocity",
+    "Showroom",
+    "POLIS",
+    "ATLAS"
+  ],
+  "governance_items": [
+    "Star Atlas governance / DAO"
+  ],
+  "lore_items": [
+    "ONI"
+  ],
+  "actors": [
+    "Michael Wagner",
+    "Krigs",
+    "Danny Floyd"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://medium.com/@krigsfoniks?source=---byline--6a20630c7ec0---------------------------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fvote%2Fthe-hologram%2F6a20630c7ec0&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fstar-atlas-town-hall-39-recap-massive-gameplay-updates-6a20630c7ec0&user=Krigs&userId=41e0c5b141f1&source=---header_actions--6a20630c7ec0---------------------clap_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Frepost%2Fp%2F6a20630c7ec0&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fstar-atlas-town-hall-39-recap-massive-gameplay-updates-6a20630c7ec0&user=Krigs&userId=41e0c5b141f1&source=---header_actions--6a20630c7ec0---------------------repost_header------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fbookmark%2Fp%2F6a20630c7ec0&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fstar-atlas-town-hall-39-recap-massive-gameplay-updates-6a20630c7ec0&source=---header_actions--6a20630c7ec0---------------------bookmark_footer------------------",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2Fplans%3Fdimension%3Dpost_audio_button%26postId%3D6a20630c7ec0&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fthe-hologram%2Fstar-atlas-town-hall-39-recap-massive-gameplay-updates-6a20630c7ec0&source=---header_actions--6a20630c7ec0---------------------post_audio_button------------------",
+      "anchor_text": "Listen"
+    },
+    {
+      "url": "https://medium.com/u/5ed69ff9cfb0?source=---user_mention--6a20630c7ec0---------------------------------------",
+      "anchor_text": "Star Atlas"
+    },
+    {
+      "url": "https://medium.com/u/2772803ea4c0?source=---user_mention--6a20630c7ec0---------------------------------------",
+      "anchor_text": "Michael"
+    },
+    {
+      "url": "https://zealy.io/c/staratlas-never-alone/questboard",
+      "anchor_text": "Attending a TownHal"
+    },
+    {
+      "url": "https://medium.com/u/af6a22150fa9?source=---user_mention--6a20630c7ec0---------------------------------------",
+      "anchor_text": "Solana"
+    },
+    {
+      "url": "https://medium.com/u/41e0c5b141f1",
+      "anchor_text": "Krigs"
+    },
+    {
+      "url": "https://open.spotify.com/show/2mxndrDW6yPfpS350ijzjt?si=ec7c717f998240d6",
+      "anchor_text": "Podcast"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCDa-YxgNG6A9xpH1qyP0OaQ",
+      "anchor_text": "YouTube"
+    },
+    {
+      "url": "https://twitter.com/home",
+      "anchor_text": "Twitter"
+    },
+    {
+      "url": "https://thehologram.io/",
+      "anchor_text": "Web"
+    },
+    {
+      "url": "https://medium.com/the-hologram",
+      "anchor_text": "The Hologram"
+    },
+    {
+      "url": "https://staratlas.com/",
+      "anchor_text": "Star Atlas"
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "https://medium.com/the-hologram/star-atlas-town-hall-39-recap-massive-gameplay-updates-6a20630c7ec0",
+    "final_url": "https://medium.com/the-hologram/star-atlas-town-hall-39-recap-massive-gameplay-updates-6a20630c7ec0",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 340279,
+    "elapsed_ms": 757,
+    "retrieval_mode": "LIVE",
+    "archive_capture": null
+  }
+}

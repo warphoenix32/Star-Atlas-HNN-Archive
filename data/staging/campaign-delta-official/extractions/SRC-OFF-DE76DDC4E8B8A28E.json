@@ -1,0 +1,251 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-DE76DDC4E8B8A28E",
+    "url": "https://support.staratlas.com/hc/en-us/articles/52251721868563-How-to-Create-and-Use-a-Fleet-in-C4-PTR",
+    "title": "How to Create and Use a Fleet in C4 PTR",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2026-06-02T19:53:18Z",
+    "updated_at": "2026-06-12T13:44:07Z",
+    "original_date_text": "2026-06-02T19:53:18Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “How to Create and Use a Fleet in C4 PTR.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "After importing your ships and resources into C4 PTR, you can create a fleet from your faction CSS and use it for actions such as movement, mining, scanning, and other fleet operations.\nThis guide explains how to create a fleet, add ships and resources, undock it, and access its available actions.\nBefore you start\nBefore creating a fleet, make sure you have imported your ships and resources into C4 PTR.\nIf you have not done this yet, check the How to Get Started in C4 PTR and How to Import Assets in C4 PTR guides first.\nOnce your assets are imported, go to your faction CSS and enter the Starbase.\nStep 1: Open the Hangar\nFrom the Starbase menu:\nClick Hangar.\nClick Form Fleet or Create a New Fleet.\nThis will open the fleet creation screen.\nStep 2: Add ships to your fleet\nIn the fleet creation screen, you can choose which ships you want to add to your new fleet.\nTo add ships:\nFind the ship you want to add from the list on the right.\nEnter the quantity you want to add, or click MAX.\nClick Add to Fleet.\nThe selected ships will be added to the fleet staging area.\nYou can repeat this process if you want to add more ships to the same fleet.\nStep 3: Add resources and supplies\nAfter adding ships, you can add resources and supplies to your fleet.\nYour fleet may require different resources depending on the actions you want to perform:\nSupply\nUsed for\nFuel Pod Fuel\nRequired for fleet movement, such as Warp and Subwarp\nAmmo Pod Ammunition\nRequired for combat and for mining with most ships\nFood\nRequired to mine raw resources\nRepair Kits\nRequired for scanning, fleet repairs, and Starbase repairs\nNote: Armstrong miners do not require ammo for mining.\nTo add resources or supplies:\nClick one of the fleet storage areas, such as Support Modules or Support Cargo Hold.\nThe list on the right will update and show available resources instead of ships.\nFind the resource you want to add.\nEnter a quantity or click MAX.\nClick Add to Fleet.\nBe careful when selecting fuel or ammunition. Some resources have different versions depending on where they are stored.\nFor example:\nFuel - Fuel Pod is used for fleet movement.\nFuel - Cargo Hold is stored as cargo and is not used the same way for flight.\nAmmunition - Ammo Pod is used for combat and mining with most ships.\nAmmunition - Cargo Hold is stored as cargo and is not used the same way for combat or mining.\nMake sure you add the correct version for the action you want your fleet to perform.\nImportant: choose the correct fuel and ammunition type\nSome resources may have different versions depending on where they are stored or how they are used.\nFor example:\nAmmunition - Ammo Pod can be used for combat.\nAmmunition - Cargo Hold is stored in the cargo hold and cannot be used for combat.\nFuel - Fuel Pod is used as fleet fuel.\nFuel - Cargo Hold is stored in the cargo hold and is not used the same way as Fuel Pod fuel.\nBe careful when adding fuel or ammunition to your fleet. If you place the wrong type in the wrong storage area, it may not be usable for the action you want to perform.\nStep 4: Form the fleet\nOnce you have selected the ships and resources you want to add:\nReview the fleet staging area.\nMake sure your ships, supplies, crew, and resources are correct.\nClick Form Fleet.\nYour fleet will now be created.\nStep 5: Undock your fleet\nAfter the fleet is created, it will appear in the Hangar view.\nTo start using it:\nSelect the fleet from the Hangar.\nClick Undock.\nWait for the fleet to undock.\nOnce the fleet is undocked, you can close the Starbase and Hangar menus.\nStep 6: Access your fleet from the map\nYou can access your fleet from the main map.\nTo find it:\nOpen the My Fleets menu from the top menu bar.\nSelect the fleet you want to use.\nThis will open the fleet view on the left side of the screen.\nFrom this view, you can see the fleet’s status, supplies, cargo, and available actions.\nStep 7: Use fleet actions\nOnce your fleet is selected, you can use the available fleet actions.\nDepending on the fleet and its current state, available actions may include:\nDock\nWarp\nSubwarp\nWarp Gate\nRepair Base\nRepair Fleet\nDestruct\nMine\nScan\nSummary\nTo create a fleet in C4 PTR:\nImport your ships and resources.\nGo to your faction CSS.\nEnter the Starbase.\nOpen Hangar.\nClick Form Fleet or Create a New Fleet.\nAdd ships to the fleet.\nAdd the resources or supplies you need.\nMake sure fuel and ammunition are added in the correct form.\nClick Form Fleet.",
+  "content_hash": "84e4e4e7d8406199619fbf24b7ea1dcc446d4ebbb59228a311edfb5269ce08a5",
+  "entities": [
+    "C4",
+    "Crew"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-DE76DDC4E8B8A28E-01",
+      "text": "After importing your ships and resources into C4 PTR, you can create a fleet from your faction CSS and use it for actions such as movement, mining, scanning, and other fleet operations.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-DE76DDC4E8B8A28E",
+      "publication_date": "2026-06-02T19:53:18Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-DE76DDC4E8B8A28E-02",
+      "text": "This guide explains how to create a fleet, add ships and resources, undock it, and access its available actions.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-DE76DDC4E8B8A28E",
+      "publication_date": "2026-06-02T19:53:18Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-DE76DDC4E8B8A28E-03",
+      "text": "Before you start Before creating a fleet, make sure you have imported your ships and resources into C4 PTR.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-DE76DDC4E8B8A28E",
+      "publication_date": "2026-06-02T19:53:18Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-DE76DDC4E8B8A28E-04",
+      "text": "If you have not done this yet, check the How to Get Started in C4 PTR and How to Import Assets in C4 PTR guides first.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-DE76DDC4E8B8A28E",
+      "publication_date": "2026-06-02T19:53:18Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-DE76DDC4E8B8A28E-05",
+      "text": "Once your assets are imported, go to your faction CSS and enter the Starbase.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-DE76DDC4E8B8A28E",
+      "publication_date": "2026-06-02T19:53:18Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-DE76DDC4E8B8A28E-06",
+      "text": "Step 1: Open the Hangar From the Starbase menu: Click Hangar.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-DE76DDC4E8B8A28E",
+      "publication_date": "2026-06-02T19:53:18Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-DE76DDC4E8B8A28E-07",
+      "text": "Step 2: Add ships to your fleet In the fleet creation screen, you can choose which ships you want to add to your new fleet.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-DE76DDC4E8B8A28E",
+      "publication_date": "2026-06-02T19:53:18Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-DE76DDC4E8B8A28E-08",
+      "text": "To add ships: Find the ship you want to add from the list on the right.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-DE76DDC4E8B8A28E",
+      "publication_date": "2026-06-02T19:53:18Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-DE76DDC4E8B8A28E-09",
+      "text": "Enter the quantity you want to add, or click MAX.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-DE76DDC4E8B8A28E",
+      "publication_date": "2026-06-02T19:53:18Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-DE76DDC4E8B8A28E-10",
+      "text": "The selected ships will be added to the fleet staging area.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-DE76DDC4E8B8A28E",
+      "publication_date": "2026-06-02T19:53:18Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-DE76DDC4E8B8A28E-11",
+      "text": "You can repeat this process if you want to add more ships to the same fleet.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-DE76DDC4E8B8A28E",
+      "publication_date": "2026-06-02T19:53:18Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-DE76DDC4E8B8A28E-12",
+      "text": "Step 3: Add resources and supplies After adding ships, you can add resources and supplies to your fleet.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-DE76DDC4E8B8A28E",
+      "publication_date": "2026-06-02T19:53:18Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-DE76DDC4E8B8A28E-13",
+      "text": "Your fleet may require different resources depending on the actions you want to perform: Supply Used for Fuel Pod Fuel Required for fleet movement, such as Warp and Subwarp Ammo Pod Ammunition Required for combat and for mining with most ships Food Required to mine raw resources Repair Kits Required for scanning, fleet repairs, and Starbase repairs Note: Armstrong miners do not require ammo for mining.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-DE76DDC4E8B8A28E",
+      "publication_date": "2026-06-02T19:53:18Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-DE76DDC4E8B8A28E-14",
+      "text": "To add resources or supplies: Click one of the fleet storage areas, such as Support Modules or Support Cargo Hold.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-DE76DDC4E8B8A28E",
+      "publication_date": "2026-06-02T19:53:18Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-DE76DDC4E8B8A28E-15",
+      "text": "The list on the right will update and show available resources instead of ships.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-DE76DDC4E8B8A28E",
+      "publication_date": "2026-06-02T19:53:18Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "C4",
+    "Crew"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/52243005225363",
+      "anchor_text": "How to Get Started in C4 PTR"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/52243667123603",
+      "anchor_text": "How to Import Assets in C4 PTR"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/52243005225363",
+      "anchor_text": "How to Get Started in C4 PTR"
+    },
+    {
+      "url": "https://support.staratlas.com/hc/en-us/articles/52243667123603",
+      "anchor_text": "How to Import Assets in C4 PTR"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/52251721868563-How-to-Create-and-Use-a-Fleet-in-C4-PTR",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.416686Z"
+  }
+}

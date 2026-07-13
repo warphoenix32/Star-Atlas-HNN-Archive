@@ -1,0 +1,223 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-B0DF140E00EB2196",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47053502502931-How-to-Import-Crew-Members-into-SAGE",
+    "title": "How to Import Crew Members into SAGE?",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-03T13:16:51Z",
+    "updated_at": "2025-12-08T18:23:57Z",
+    "original_date_text": "2025-12-03T13:16:51Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “How to Import Crew Members into SAGE?.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Importing your crew members into SAGE is an essential step to start using them for various operations, such as ship management or crafting. Follow the steps below to easily import your crew and make them available for gameplay.\nStep-by-Step Instructions to Import Crew Members:\nConnect to SAGE: Begin by logging into SAGE and navigating to your Port of Entry, which is located in the Central Space Station.\nAccess Your Wallet Inventory: Go to the Wallet Inventory section. Here, you'll find all the assets connected to your account.\nSelect the Crew Section: Click on the CREW tab in your wallet inventory. This will display all the crew members currently in your wallet but not yet imported into SAGE.\nChoose Crew Members to Import: Select the crew members you want to bring into SAGEby clicking on them.\nDeposit to Starbase Crew Quarters: After selecting the crew members, click on DEPOSIT TO STARBASE CREW QUARTERS. A prompt will appear, requesting confirmation of the transaction.\nConfirm the Transaction: Confirm the transaction in your connected wallet. Once the transaction is approved, your crew members will be deposited.\nWhat Happens Next?\nAfter completing these steps, your crew members will be available in the Central Space Station and ready to be used for any activities within SAGE, whether it's operating your fleet or managing crafting tasks.",
+  "content_hash": "c5781705a8ed978417d04e5bbfa4317b15ec736f62b19baa1c1ea4252b188829",
+  "entities": [
+    "Crew",
+    "SAGE"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-B0DF140E00EB2196-01",
+      "text": "Importing your crew members into SAGE is an essential step to start using them for various operations, such as ship management or crafting.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B0DF140E00EB2196",
+      "publication_date": "2025-12-03T13:16:51Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-B0DF140E00EB2196-02",
+      "text": "Follow the steps below to easily import your crew and make them available for gameplay.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B0DF140E00EB2196",
+      "publication_date": "2025-12-03T13:16:51Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-B0DF140E00EB2196-03",
+      "text": "Step-by-Step Instructions to Import Crew Members: Connect to SAGE: Begin by logging into SAGE and navigating to your Port of Entry, which is located in the Central Space Station.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B0DF140E00EB2196",
+      "publication_date": "2025-12-03T13:16:51Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-B0DF140E00EB2196-04",
+      "text": "Access Your Wallet Inventory: Go to the Wallet Inventory section.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B0DF140E00EB2196",
+      "publication_date": "2025-12-03T13:16:51Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-B0DF140E00EB2196-05",
+      "text": "Here, you'll find all the assets connected to your account.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B0DF140E00EB2196",
+      "publication_date": "2025-12-03T13:16:51Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-B0DF140E00EB2196-06",
+      "text": "Select the Crew Section: Click on the CREW tab in your wallet inventory.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B0DF140E00EB2196",
+      "publication_date": "2025-12-03T13:16:51Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-B0DF140E00EB2196-07",
+      "text": "This will display all the crew members currently in your wallet but not yet imported into SAGE.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B0DF140E00EB2196",
+      "publication_date": "2025-12-03T13:16:51Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-B0DF140E00EB2196-08",
+      "text": "Choose Crew Members to Import: Select the crew members you want to bring into SAGEby clicking on them.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B0DF140E00EB2196",
+      "publication_date": "2025-12-03T13:16:51Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-B0DF140E00EB2196-09",
+      "text": "Deposit to Starbase Crew Quarters: After selecting the crew members, click on DEPOSIT TO STARBASE CREW QUARTERS.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B0DF140E00EB2196",
+      "publication_date": "2025-12-03T13:16:51Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-B0DF140E00EB2196-10",
+      "text": "A prompt will appear, requesting confirmation of the transaction.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B0DF140E00EB2196",
+      "publication_date": "2025-12-03T13:16:51Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-B0DF140E00EB2196-11",
+      "text": "Confirm the Transaction: Confirm the transaction in your connected wallet.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B0DF140E00EB2196",
+      "publication_date": "2025-12-03T13:16:51Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-B0DF140E00EB2196-12",
+      "text": "Once the transaction is approved, your crew members will be deposited.",
+      "claim_type": "GOVERNANCE_APPROVAL",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B0DF140E00EB2196",
+      "publication_date": "2025-12-03T13:16:51Z",
+      "confidence": "MEDIUM",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-B0DF140E00EB2196-13",
+      "text": "After completing these steps, your crew members will be available in the Central Space Station and ready to be used for any activities within SAGE, whether it's operating your fleet or managing crafting tasks.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B0DF140E00EB2196",
+      "publication_date": "2025-12-03T13:16:51Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "SAGE",
+    "Crew"
+  ],
+  "governance_items": [
+    {
+      "claim_id": "CLM-B0DF140E00EB2196-12",
+      "text": "Once the transaction is approved, your crew members will be deposited.",
+      "claim_type": "GOVERNANCE_APPROVAL",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-B0DF140E00EB2196",
+      "publication_date": "2025-12-03T13:16:51Z",
+      "confidence": "MEDIUM",
+      "requires_follow_up": true
+    }
+  ],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47053502502931-How-to-Import-Crew-Members-into-SAGE",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.253859Z"
+  }
+}

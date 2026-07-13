@@ -1,0 +1,251 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-238F34DB897A6723",
+    "url_id": "URL-238F34DB897A6723",
+    "url": "https://thehologram.io/next-426-live-in-426-weeks-anonymous-source-confirms",
+    "title": "\"Next 426 Live in...426 Weeks\" - Anonymous Source Confirms » The Hologram",
+    "author": "The Hologram",
+    "publisher": "Hologram News Network (HNN)",
+    "publication_identity": "Archived HNN website (thehologram.io)",
+    "published_at": "2022-08-24T17:28:18+00:00",
+    "updated_at": "2022-08-24T19:03:14+00:00",
+    "retrieved_at": "2026-07-13T00:13:55.988316Z",
+    "document_type": "EVENT_COVERAGE",
+    "source_role": "EVENT_COVERAGE",
+    "publication_role": "EVENT_COVERAGE",
+    "classification_rationale": "Publication documents or recaps a named event."
+  },
+  "source_lineage": {
+    "publication": "Archived HNN website (thehologram.io)",
+    "publication_role": "EVENT_COVERAGE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [
+      {
+        "publication": "Star Atlas",
+        "author": "UNKNOWN",
+        "url": "http://www.staratlas.com",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://staratlas.com/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [
+      "The Hologram"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Star Atlas",
+        "to": "Archived HNN website (thehologram.io)",
+        "relationship": "REPORTS_ON",
+        "url": "http://www.staratlas.com"
+      },
+      {
+        "from": "Star Atlas",
+        "to": "Archived HNN website (thehologram.io)",
+        "relationship": "REPORTS_ON",
+        "url": "https://staratlas.com/"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "This event coverage published by Hologram News Network (HNN) on 2022-08-24 documents “\"Next 426 Live in...426 Weeks\" - Anonymous Source Confirms » The Hologram.” Its surviving text addresses governance, economy, game development, community. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "“Next 426 Live in…426 Weeks” – Anonymous Source Confirms\nPosted by The Hologram | Aug 24, 2022 | Community, Gameplay, Leaks\nAn anonymous tip indicates there will be a surprise major announcement during this week’s Star Atlas Town Hall. The source, who wished to remain anonymous, stated that Star Atlas will announce the date of the next 426 LIVE event at the Town Hall on Friday August 26th.\nThe Hologram was able to corroborate this information by reaching out to other news sources and content creators who confirmed receiving similar information.\nThe unnamed source also suggested that the Star Atlas showroom would be launched during the next 426 LIVE event. The Hologram is still attempting to verify this statement; however, it is unlikely confirmation will be made prior to any potential or official Star Atlas announcement.\nThe last 426 LIVE event occurred in July where multiple Star Atlas modules were released. The features included the Galactic Marketplace 2.0, StarPath program, and POLIS DAO Locker. Noticeably absent from these releases was the launch of the Star Atlas showroom.\nIf the Star Atlas Town Hall does contain a 426 Live announcement, it is likely that the planned event date will occur sometime between the second half of September and the beginning of October. This timeline matches previously communicated Star Atlas Showroom launch dates of mid-October. A mid-fall release would also continue the running inside joke of ‘426 Weeks’ in response to inquiries regarding timeline updates.\nWhat is noticeably different about the potential announcement this coming Friday is the lack of official promotion leading into Friday. During the run-up to the last 426 Live announcement, the communications team posted several messages hinting at a ‘big announcement’. As of writing, there has been no official indication of an announcement this Friday from the Star Atlas team.\nThe first 426 Live ‘announcement of an announcement’ received mixed reactions from the community. If the anonymous source’s information is confirmed by the Star Atlas team on Friday, it would add some certainty towards release timelines. Those timelines would likely be similar to what Star Atlas has communicated in the past and should not be drastically different.\nIf there indeed is an announcement this Friday, the reaction from the Star Atlas community will be one to watch.\nAbout The Hologram\nThe Hologram is Star Atlas’ first and only independent news network. Our vision is to become the most trusted source of information about Star Atlas and a voice for the whole community. Readers can expect a high standard from our reporting and staff. Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.\nThe Hologram is not endorsed or paid by the Star Atlas team. Any information published by The Hologram nor its writers should be considered as informational in nature and does not constitute any financial advice.\nShare:",
+  "content_hash": "33be42ce6f42dfc9fe12cac5a9a3945ec533b909364fc5c703bbecf82d29d410",
+  "major_topics": [
+    "governance",
+    "economy",
+    "game development",
+    "community"
+  ],
+  "entities": [
+    "ATLAS",
+    "POLIS",
+    "Showroom",
+    "Star Atlas",
+    "StarPath"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-238F34DB897A6723-01",
+      "text": "“Next 426 Live in…426 Weeks” – Anonymous Source Confirms Posted by The Hologram | Aug 24, 2022 | Community, Gameplay, Leaks An anonymous tip indicates there will be a surprise major announcement during this week’s Star Atlas Town Hall.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-238F34DB897A6723",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-238F34DB897A6723-02",
+      "text": "The source, who wished to remain anonymous, stated that Star Atlas will announce the date of the next 426 LIVE event at the Town Hall on Friday August 26th.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-238F34DB897A6723",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-238F34DB897A6723-03",
+      "text": "The unnamed source also suggested that the Star Atlas showroom would be launched during the next 426 LIVE event.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-238F34DB897A6723",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-238F34DB897A6723-04",
+      "text": "The Hologram is still attempting to verify this statement; however, it is unlikely confirmation will be made prior to any potential or official Star Atlas announcement.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-238F34DB897A6723",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-238F34DB897A6723-05",
+      "text": "The last 426 LIVE event occurred in July where multiple Star Atlas modules were released.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-238F34DB897A6723",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-238F34DB897A6723-06",
+      "text": "If the Star Atlas Town Hall does contain a 426 Live announcement, it is likely that the planned event date will occur sometime between the second half of September and the beginning of October.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-238F34DB897A6723",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-238F34DB897A6723-07",
+      "text": "If there indeed is an announcement this Friday, the reaction from the Star Atlas community will be one to watch.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-238F34DB897A6723",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-238F34DB897A6723-08",
+      "text": "Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-238F34DB897A6723",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Star Atlas",
+    "Showroom",
+    "POLIS",
+    "ATLAS",
+    "StarPath"
+  ],
+  "governance_items": [
+    "Star Atlas governance / DAO"
+  ],
+  "lore_items": [],
+  "actors": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://thehologram.io/author/the-hologram/",
+      "anchor_text": "The Hologram"
+    },
+    {
+      "url": "https://thehologram.io/category/community/",
+      "anchor_text": "Community"
+    },
+    {
+      "url": "https://thehologram.io/category/gameplay/",
+      "anchor_text": "Gameplay"
+    },
+    {
+      "url": "https://thehologram.io/category/leaks/",
+      "anchor_text": "Leaks"
+    },
+    {
+      "url": "http://www.thehologram.io",
+      "anchor_text": "The Hologram"
+    },
+    {
+      "url": "https://thehologram.io/major-star-atlas-releases-planned-for-july-21st/",
+      "anchor_text": "426 LIVE event"
+    },
+    {
+      "url": "http://www.staratlas.com",
+      "anchor_text": "Star Atlas"
+    },
+    {
+      "url": "https://thehologram.io/",
+      "anchor_text": "The Hologram"
+    },
+    {
+      "url": "https://staratlas.com/",
+      "anchor_text": "Star Atlas"
+    },
+    {
+      "url": "http://www.facebook.com/sharer.php?u=https://thehologram.io/next-426-live-in-426-weeks-anonymous-source-confirms/&t=%E2%80%9CNext%20426%20Live%20in%E2%80%A6426%20Weeks%E2%80%9D%20%E2%80%93%20Anonymous%20Source%20Confirms",
+      "anchor_text": ""
+    },
+    {
+      "url": "http://twitter.com/intent/tweet?text=%E2%80%9CNext%20426%20Live%20in%E2%80%A6426%20Weeks%E2%80%9D%20%E2%80%93%20Anonymous%20Source%20Confirms%20https://thehologram.io/next-426-live-in-426-weeks-anonymous-source-confirms/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://plus.google.com/share?url=https://thehologram.io/next-426-live-in-426-weeks-anonymous-source-confirms/&t=%E2%80%9CNext%20426%20Live%20in%E2%80%A6426%20Weeks%E2%80%9D%20%E2%80%93%20Anonymous%20Source%20Confirms",
+      "anchor_text": ""
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "https://web.archive.org/web/20220824190315id_/https://thehologram.io/next-426-live-in-426-weeks-anonymous-source-confirms/",
+    "final_url": "https://web.archive.org/web/20220824190315id_/https://thehologram.io/next-426-live-in-426-weeks-anonymous-source-confirms/",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "response_size": 172862,
+    "elapsed_ms": 638,
+    "retrieval_mode": "INTERNET_ARCHIVE",
+    "archive_capture": {
+      "timestamp": "20220824190315",
+      "original": "https://thehologram.io/next-426-live-in-426-weeks-anonymous-source-confirms/",
+      "digest": "33ZED33R2KDOSOT25YCANZ34E7JXNMPR"
+    }
+  }
+}

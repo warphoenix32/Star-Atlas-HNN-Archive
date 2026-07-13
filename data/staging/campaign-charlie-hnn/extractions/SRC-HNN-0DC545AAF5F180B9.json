@@ -1,0 +1,252 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-0DC545AAF5F180B9",
+    "url_id": "URL-0DC545AAF5F180B9",
+    "url": "https://hologramnews.com/explain-futarchy-governance-to-me-like-im-5",
+    "title": "Tension Rise as Factions and Guilds Prepare For SCREAM",
+    "author": "Krigs",
+    "publisher": "Hologram News Network (HNN)",
+    "publication_identity": "HNN website (hologramnews.com)",
+    "published_at": "2025-11-11T13:00:45+00:00",
+    "updated_at": "2025-11-11T13:00:45+00:00",
+    "retrieved_at": "2026-07-13T00:06:28.489495Z",
+    "document_type": "REFERENCE",
+    "source_role": "REFERENCE",
+    "publication_role": "REFERENCE",
+    "classification_rationale": "Publication is structured as a guide or reference."
+  },
+  "source_lineage": {
+    "publication": "HNN website (hologramnews.com)",
+    "publication_role": "REFERENCE",
+    "relationship": "REFERENCES",
+    "primary_sources": [],
+    "original_creators": [
+      "Krigs"
+    ],
+    "attribution_chain": [],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "This reference published by Hologram News Network (HNN) on 2025-11-11 documents “Tension Rise as Factions and Guilds Prepare For SCREAM.” Its surviving text addresses governance, economy, guilds and DACs, community, lore, technology. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "Explain Futarchy governance to me like I’m 5\nBy KrigsPublished On: 11 November 2025Tags: Star Atlas\nEver wonder if there’s a better way for groups—from online communities to entire countries—to make smarter decisions than just a simple vote? Enter Futarchy, a radical governance idea that aims to make better choices by putting money on the line! Imagine blending the fairness of a vote with the sharp, truth-seeking power of a betting market. This system lives by the catchy motto: “Vote on values, but bet on beliefs.” In this article, we’ll break down this complex system into simple terms, exploring how it uses prediction markets to identify the policies that are most likely to succeed at achieving an agreed-upon goal, and why some believe this could be the future of organizational and political decision-making.\n🎲 What is Futarchy? (Like I’m 5)\nFutarchy is a system with a simple rule: “Vote on what you want, but bet on how to get it.”1\nVote on what you want (Your Values): First, everyone gets to vote on what makes things better.2 For your toy box, you might vote on what you want to improve, like:\nOption A: “More organized toys!” (The value you choose)\nOption B: “More time to play with the toys!” (Another value)\nBet on how to get it (Your Beliefs): Once you pick a goal (like “More organized toys!”), a special kind of betting game starts about the rules (or “policies”) for achieving that goal.3 People who are good at guessing the future get to put real money (or points) on which rule will work best.\nRule 1: “Put all blocks on the top shelf.”\nRule 2: “Use a color-coded bin for each type of toy.”\nIf the people betting think “Rule 2” will make the toy box much more organized, that rule wins and becomes the new plan! The people who bet correctly and helped pick the best plan win a reward.\nThe main idea is that when people put money on the line with their guesses, they try much harder to be right, which leads to better decisions than just a regular vote.4\n💡 Where Did the Idea Come From?\nThe idea for Futarchy was first proposed by an economist named Robin Hanson back in the year 2000.5\nHe gave it that catchy slogan: “Vote on Values, But Bet on Beliefs.” He thought that the regular way governments make decisions is often bad because people vote based on what makes them feel good, not what they really know will work.6 He believed that using betting markets is the best way to figure out the truth about what policy will actually work.7\n🌐 How is it Applicable?\nBecause it’s a new and different way to govern, Futarchy is untried as a system for running a whole country.\nHowever, it is being tested and applied today, mostly in Decentralized Autonomous Organizations (DAOs), which are like clubs or companies run on the internet using blockchain technology.8\nIn DAOs: Instead of everyone just voting on a new feature for their online platform, the community first votes on what goal they want to achieve (e.g., “Increase the value of our coin”). Then, they use a Futarchy betting market to decide which new feature (Policy A or Policy B) is most likely to make their coin’s value go up.\nThe concept is appealing for these new digital organizations because it encourages people with good knowledge to share it by betting, which should lead to better outcomes.\nThat’s a very smart question, because the whole point of Futarchy is to make better decisions than a regular vote!\nTo explain the measuring and the consequences of being wrong, let’s stick with our tidying up the toy box example.\n📏 How Does Futarchy Measure Effective Governance?\nFutarchy measures effective governance by using a pre-agreed-upon, clear, and measurable goal. This goal is called the Welfare Measure or Key Performance Indicator (KPI).1\nThe Vote on Values (The Goal): This is where everyone democratically decides what “effective” means.\nExample: We all vote that the most important thing is that the “Average time to find a specific toy must be less than 15 seconds.” That time limit is our Welfare Measure (or KPI).\nThe Policy is Chosen (The Bet): The betting market (the prediction market) then picks the policy (Rule 1 or Rule 2) that it thinks will best achieve that goal.2\nThe winning policy gets implemented: “Use a color-coded bin for each type of toy.”\nThe Measurement (The Proof): After a set amount of time (say, two weeks), you actually measure the result.\nResult: You measure the time to find a specific toy and find the average is 12 seconds.\nSince 12 seconds is less than the 15-second goal, the policy is considered effective and the governance was successful!\nThe effectiveness is purely measured by whether the implemented policy actually improved the agreed-upon metric better than the alternative was predicted to.\n📉 What Happens If the People Who Bet, Bet Wrong?\nThis is where the magic (and the penalty) of the prediction market comes in.\nIf the policy fails to hit the agreed-upon goal, the people who bet on that policy to win will lose their money (or their points/crypto tokens, in a real-world Futarchy DAO).3\nThe Bet: People bet that the “Color-coded Bins” policy would get the find-time below 15 seconds.\nThe Bad Result: After two weeks, the average find-time is 25 seconds.\nThe Consequences for the Bettors:\nThe people who bet that “Color-coded Bins” would be the best policy lose their stake in that specific conditional market.\nThe people who bet on the other policy (the one that didn’t get chosen) or who bet that the chosen policy would fail would win the money that the wrong bettors lost.\nWhy This System is Supposed to Be Better:\nThe main power of Futarchy comes from this consequence:\nIt incentivizes expertise: People who actually know a lot about a subject (like a professional organizer who knows about toy storage) have a high incentive to bet their money because they are confident they will win.\nIt punishes ignorance: People who just have a random guess but don’t know much won’t risk their money, or they will quickly lose it and won’t be able to bet big in the future.4\nOver time, the system is supposed to put the decision-making power in the hands of the group’s best forecasters, not just the loudest or richest voters.\nThat’s an excellent follow-up! While the idea of Futarchy is exciting because it rewards being right, it also comes with several significant challenges that critics point out, especially when money is involved.\nThe main problems boil down to wealth concentration, measurement issues, and market complexity.\n💰 The Risk of Plutocracy (Rule by the Rich)\nThis is one of the most common criticisms of Futarchy.\nDisproportionate Influence: The basic rule of the prediction market is “bet on beliefs.” Since the person who bets the most money has the biggest influence on the final price (which determines the policy), wealthy individuals naturally have more power than less wealthy ones. Even though the poor still get to vote on the goals (values), the rich get to decide how those goals are met (beliefs). Critics argue this essentially trades a democratic vote for a plutocratic market (a system ruled by wealth).\nBuying the Policy (Manipulation): A very wealthy entity with a vested interest in a policy could theoretically spend a huge amount of money to buy all the “Yes” shares, artificially pushing the price up and forcing the policy to be adopted, even if it’s a bad idea. While market forces should incentivize other traders to correct this price for profit, the sheer scale of wealth needed to sustain the manipulation might be too high for others to counter.\n🎯 Problems with Measurement\nThe entire system depends on having a perfect, objective measure of success.\nGoodhart’s Law: This is a famous principle that says: “When a measure becomes a target, it ceases to be a good measure.” If you use something like “GDP growth” or “DAO token price” as your only success measure, people will find policies that cleverly boost that one number, even if it harms the community’s overall well-being (e.g., boosting a token price with a move that makes the platform unusable). The measure is “gamed.”\nDifficulty of Long-Term Goals: Prediction markets are best at forecasting things that will happen very soon. Policies, however, often have impacts that take years to appear (like education reform or climate policy). It becomes extremely difficult to accurately bet on the outcome of a policy 10 years in the future, making Futarchy strongly biased towards short-term policies.\n⚙️ Technical and Complexity Issues\nThe market mechanism itself has potential weaknesses that could lead to inaccurate results.\nThin Markets and Low Participation: If a policy is very niche or boring (like a technical upgrade to a specific piece of infrastructure), few people may bother to bet on it. A market with very few bettors (a “thin market”) is volatile and inaccurate, meaning the policy decision would be based on the best guess of only two or three people, defeating the purpose of aggregating collective knowledge.\nValues and Beliefs Aren’t Separate: Critics argue it’s impossible to perfectly separate what people value from what they believe. A person might bet for a policy they believe will work because they value that policy’s ideology, not because they did an objective analysis. The market is supposed to eliminate this, but human biases are powerful.\nHedging and Conflicting Interests: A large investor who knows a policy will harm their outside business might bet for the policy (to win money and offset their outside losses) even though they believe it will fail the overall goal. This is called hedging, and it can distort the market’s true belief about the policy’s outcome.\nConclusion\nUltimately, Futarchy stands as a provocative, yet unproven, concept at the intersection of democracy and market efficiency. By attempting to leverage the collective, self-interested expertise of market bettors—the ones willing to put their money where their mouth is—it offers a potential path to overcoming the biases and inefficiencies of traditional voting. While the core idea of achieving better, more measurable outcomes is highly appealing, the system must first overcome major criticisms regarding plutocracy, the risk of market manipulation, and the challenge of defining truly objective long-term success metrics. As Decentralized Autonomous Organizations (DAOs) continue to experiment, Futarchy remains one of the most intellectually fascinating, and perhaps most disruptive, experiments in modern governance.\nAbout the Author: Krigs\nAn ardent supporter of emerging technologies, Krigs has been covering blockchain games for over two years and believes passionately in their power to revolutionize our collective gaming experience.\nStar Atlas Discount\nSave 10% on Star Atlas with the Starpath Referral Program\nrelated\nGabss Strikes Again!!!\nUnveiling Star Atlas: Remarkable AR Experience with ReBirth and Iris\nnews via inbox\nGet news from the Hologram first\nLeave A Comment Cancel reply\nyou might also like\nDark Matter Calls On Interstellar Alliance For Transparency\nCategories: Star Atlas Politics\nDAOs, DACs, and Smart Contracts: Defining a Common Framework\nCategories: Star Atlas Politics\nTension Rise as Factions and Guilds Prepare For SCREAM\nCategories: Star Atlas Politics",
+  "content_hash": "878a6b361d9d28806aa69c30a0ccb213e98135b850bdbaac24495ca820c43a85",
+  "major_topics": [
+    "governance",
+    "economy",
+    "guilds and DACs",
+    "community",
+    "lore",
+    "technology"
+  ],
+  "entities": [
+    "ATLAS",
+    "Krigs",
+    "SCREAM",
+    "Star Atlas",
+    "StarPath"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-0DC545AAF5F180B9-01",
+      "text": "Rule 1: “Put all blocks on the top shelf.” Rule 2: “Use a color-coded bin for each type of toy.” If the people betting think “Rule 2” will make the toy box much more organized, that rule wins and becomes the new plan!",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-0DC545AAF5F180B9",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-0DC545AAF5F180B9-02",
+      "text": "The people who bet correctly and helped pick the best plan win a reward.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-0DC545AAF5F180B9",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-0DC545AAF5F180B9-03",
+      "text": "The idea for Futarchy was first proposed by an economist named Robin Hanson back in the year 2000.5 He gave it that catchy slogan: “Vote on Values, But Bet on Beliefs.” He thought that the regular way governments make decisions is often bad because people vote based on what makes them feel good, not what they really know will work.6 He believed that using betting markets is the best way to figure out the truth about what policy will actually work.7 🌐 How is it Applicable?",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-0DC545AAF5F180B9",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-0DC545AAF5F180B9-04",
+      "text": "The Policy is Chosen (The Bet): The betting market (the prediction market) then picks the policy (Rule 1 or Rule 2) that it thinks will best achieve that goal.2 The winning policy gets implemented: “Use a color-coded bin for each type of toy.” The Measurement (The Proof): After a set amount of time (say, two weeks), you actually measure the result.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-0DC545AAF5F180B9",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-0DC545AAF5F180B9-05",
+      "text": "If the policy fails to hit the agreed-upon goal, the people who bet on that policy to win will lose their money (or their points/crypto tokens, in a real-world Futarchy DAO).3 The Bet: People bet that the “Color-coded Bins” policy would get the find-time below 15 seconds.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-0DC545AAF5F180B9",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-0DC545AAF5F180B9-06",
+      "text": "Why This System is Supposed to Be Better: The main power of Futarchy comes from this consequence: It incentivizes expertise: People who actually know a lot about a subject (like a professional organizer who knows about toy storage) have a high incentive to bet their money because they are confident they will win.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-0DC545AAF5F180B9",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-0DC545AAF5F180B9-07",
+      "text": "It punishes ignorance: People who just have a random guess but don’t know much won’t risk their money, or they will quickly lose it and won’t be able to bet big in the future.4 Over time, the system is supposed to put the decision-making power in the hands of the group’s best forecasters, not just the loudest or richest voters.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-0DC545AAF5F180B9",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-0DC545AAF5F180B9-08",
+      "text": "Goodhart’s Law: This is a famous principle that says: “When a measure becomes a target, it ceases to be a good measure.” If you use something like “GDP growth” or “DAO token price” as your only success measure, people will find policies that cleverly boost that one number, even if it harms the community’s overall well-being (e.g., boosting a token price with a move that makes the platform unusable).",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-0DC545AAF5F180B9",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-0DC545AAF5F180B9-09",
+      "text": "The measure is “gamed.” Difficulty of Long-Term Goals: Prediction markets are best at forecasting things that will happen very soon.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-0DC545AAF5F180B9",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-0DC545AAF5F180B9-10",
+      "text": "A person might bet for a policy they believe will work because they value that policy’s ideology, not because they did an objective analysis.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-0DC545AAF5F180B9",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-0DC545AAF5F180B9-11",
+      "text": "Hedging and Conflicting Interests: A large investor who knows a policy will harm their outside business might bet for the policy (to win money and offset their outside losses) even though they believe it will fail the overall goal.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-0DC545AAF5F180B9",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Star Atlas",
+    "ATLAS",
+    "StarPath",
+    "SCREAM"
+  ],
+  "governance_items": [
+    "Star Atlas governance / DAO"
+  ],
+  "lore_items": [
+    "ONI"
+  ],
+  "actors": [
+    "Krigs"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://hologramnews.com/explain-futarchy-governance-to-me-like-im-5/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://hologramnews.com/author/krigs/",
+      "anchor_text": "Krigs"
+    },
+    {
+      "url": "https://hologramnews.com/tag/star-atlas/",
+      "anchor_text": "Star Atlas"
+    },
+    {
+      "url": "https://hologramnews.com/starpath-save-10-on-star-atlas/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://hologramnews.com/gabss-strikes-again/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://hologramnews.com/unveiling-star-atlas-remarkable-ar-experience-with-rebirth-and-iris/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://hologramnews.com/dark-matter-calls-on-interstellar-alliance-for-transparency/",
+      "anchor_text": "Dark Matter Calls On Interstellar Alliance For Transparency"
+    },
+    {
+      "url": "https://hologramnews.com/category/politics/",
+      "anchor_text": "Star Atlas Politics"
+    },
+    {
+      "url": "https://hologramnews.com/daos-dacs-and-smart-contracts-defining-a-common-framework/",
+      "anchor_text": "DAOs, DACs, and Smart Contracts: Defining a Common Framework"
+    },
+    {
+      "url": "https://hologramnews.com/tension-rise-as-factions-and-guilds-prepare-for-scream/",
+      "anchor_text": "Tension Rise as Factions and Guilds Prepare For SCREAM"
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "No explicit primary source was identifiable from preserved outbound links."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://web.archive.org/web/20251208165432id_/https://hologramnews.com/explain-futarchy-governance-to-me-like-im-5/",
+    "final_url": "https://web.archive.org/web/20251208165432id_/https://hologramnews.com/explain-futarchy-governance-to-me-like-im-5/",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "response_size": 201338,
+    "elapsed_ms": 1103,
+    "retrieval_mode": "INTERNET_ARCHIVE",
+    "archive_capture": {
+      "timestamp": "20251208165432",
+      "original": "https://hologramnews.com/explain-futarchy-governance-to-me-like-im-5/",
+      "digest": "PNZLZDKLV5SDOJOPD2BU3BHQVEJ5CMA5"
+    }
+  }
+}

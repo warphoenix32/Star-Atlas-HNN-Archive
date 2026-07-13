@@ -1,0 +1,229 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-FC05AB7E79389C52",
+    "url_id": "URL-FC05AB7E79389C52",
+    "url": "https://thehologram.io/quimeras-cem",
+    "title": "Business Convention in the Metaverse » The Hologram",
+    "author": "StacheAttack",
+    "publisher": "Hologram News Network (HNN)",
+    "publication_identity": "Archived HNN website (thehologram.io)",
+    "published_at": "2022-09-26T20:30:00+00:00",
+    "updated_at": "2022-09-26T20:31:56+00:00",
+    "retrieved_at": "2026-07-13T00:17:23.048363Z",
+    "document_type": "ORIGINAL_INTERVIEW",
+    "source_role": "ORIGINAL_INTERVIEW",
+    "publication_role": "ORIGINAL_INTERVIEW",
+    "classification_rationale": "Publication explicitly presents an interview or Q&A."
+  },
+  "source_lineage": {
+    "publication": "Archived HNN website (thehologram.io)",
+    "publication_role": "ORIGINAL_INTERVIEW",
+    "relationship": "INTERVIEWS",
+    "primary_sources": [
+      {
+        "publication": "Calexo",
+        "author": "UNKNOWN",
+        "url": "https://www.twitter.com/calexo_",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "click here",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=zxvtrbqqWx8",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://staratlas.com/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [
+      "StacheAttack"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Calexo",
+        "to": "Archived HNN website (thehologram.io)",
+        "relationship": "INTERVIEWS",
+        "url": "https://www.twitter.com/calexo_"
+      },
+      {
+        "from": "click here",
+        "to": "Archived HNN website (thehologram.io)",
+        "relationship": "INTERVIEWS",
+        "url": "https://www.youtube.com/watch?v=zxvtrbqqWx8"
+      },
+      {
+        "from": "Star Atlas",
+        "to": "Archived HNN website (thehologram.io)",
+        "relationship": "INTERVIEWS",
+        "url": "https://staratlas.com/"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "This original interview published by Hologram News Network (HNN) on 2022-09-26 documents “Business Convention in the Metaverse » The Hologram.” Its surviving text addresses governance, economy, guilds and DACs, community, lore. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "Business Convention in the Metaverse\nPosted by StacheAttack | Sep 26, 2022 | Community, Guilds\nOn September 21, on the eve of the new 426Live:NYK, the CEM (Convention of Enterprises in the Metaverse) was held, with KHal, leader of Quimera, and Hades “Star Atlas Spanish” as judge.\nFor the event, more than 15 ventures sent a form to Quimera, in which they were asked to describe the business model with which they would present at this edition of CEM. There would be no additional specific requirements, inside or outside the form.\nFrom the beginning, it was established that only six projects would be selected; according to Khal himself, the selection was difficult, as there were many outstanding projects suggesting the possibility of a second edition of this event. He also expressed how happy he was to find so much motivation to undertake and mobilize a little more from the Hispanic community.\nThe following is a summary of those fortunate enough to have had the opportunity to participate in the first edition of CEM, with five minutes of presentation and five minutes of Q&A from Hades:\n– Karonte, along with his sister, forged Real Time Solutions, which would eventually develop into a company focused on selling apparel for the different factions of Star Atlas.– Sir Trooper, exhibitor representative for La Mesa Redonda, proposing SOLVER, a bulletin board that provides the community with access to different services.– Miguel Matallana brings a project that offers an outsourcing company to recruit personnel of different ranks, in addition to proposing an academic company to certify knowledge.– Amarquez presented the already existing Hotel Kósmos, letting it be known that the Lore is of utmost importance to him. He explained that it is based on the hotel of the John Wick saga and knowing this, the purposes of this space is understood. In addition, he explained the functions of the exclusive bracelet for those who register at the hotel.– Drumcarlos, representing Polaris, approached the expansion of the vision of the Polaris Fuel project, the gas station of the Star Atlas metaverse. Greater “decentralized” energy organization in all factions. Counting on the 4 fundamental pillars: mining, refinery, transportation & security and gas stations with a franchise style business model.– Calexo presented the “Intermediate Guarantee System” or SGI. A project that will allow assets in the NON-digital world (tangible goods) to be digitally available through the web3; through financial derivation, public faith mechanics and smart contracts. These elements combined, cause the viability condition required for the project and even though the SGI was born to take advantage of the Star Atlas SDK, its protocol can be applied in any Digital Economic Jurisdiction (Metaverse).\nAfter the informative presentations, a vote took place, and Polaris Fuel was the winner.\nWe salute and congratulate the other participants for having been selected for these instances and for their formidable projects.\nThe winners said:\nThere is a long way to go before some businesses can realize the full potential within Star Atlas, but any help we give to other projects or that you give to us will make us grow until that time comes and we are ready to offer the entire Metaverse the work of months\nIf you want to read their acceptance letter in the original language click here.\nFrom The Hologram we congratulate the winner and his team.\nIf you want to see the full video of the CEM event (in Spanish), click here.\nOriginal Article Written by Morangø\nAbout The Hologram\nThe Hologram is Star Atlas’ first and only independent news network. Our vision is to become the most trusted source of information about Star Atlas and a voice for the whole community. Readers can expect a high standard from our reporting and staff. Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.\nThe Hologram is not endorsed or paid by the Star Atlas team. Any information published by The Hologram nor its writers should be considered as informational in nature and does not constitute any financial advice.\nShare:",
+  "content_hash": "a195cf9b368b3be5b5ecdcaf4af9304e1903a927ee82116da5fb35578f671afa",
+  "major_topics": [
+    "governance",
+    "economy",
+    "guilds and DACs",
+    "community",
+    "lore"
+  ],
+  "entities": [
+    "ATLAS",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-FC05AB7E79389C52-01",
+      "text": "A project that will allow assets in the NON-digital world (tangible goods) to be digitally available through the web3; through financial derivation, public faith mechanics and smart contracts.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-FC05AB7E79389C52",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-FC05AB7E79389C52-02",
+      "text": "The winners said: There is a long way to go before some businesses can realize the full potential within Star Atlas, but any help we give to other projects or that you give to us will make us grow until that time comes and we are ready to offer the entire Metaverse the work of months If you want to read their acceptance letter in the original language click here.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-FC05AB7E79389C52",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-FC05AB7E79389C52-03",
+      "text": "Our promise to you: we will not publish anything that hasn’t been thoroughly researched and based on the best facts available.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-FC05AB7E79389C52",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Star Atlas",
+    "ATLAS"
+  ],
+  "governance_items": [
+    "Star Atlas governance / DAO"
+  ],
+  "lore_items": [],
+  "actors": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://thehologram.io/author/stacheattack/",
+      "anchor_text": "StacheAttack"
+    },
+    {
+      "url": "https://thehologram.io/category/community/",
+      "anchor_text": "Community"
+    },
+    {
+      "url": "https://thehologram.io/category/community/guilds/",
+      "anchor_text": "Guilds"
+    },
+    {
+      "url": "https://twitter.com/whoiskhal",
+      "anchor_text": "KHal"
+    },
+    {
+      "url": "https://twitter.com/QuimeraSA_",
+      "anchor_text": "Quimera"
+    },
+    {
+      "url": "https://twitter.com/StarAtlasSpansh",
+      "anchor_text": "Hades"
+    },
+    {
+      "url": "https://twitter.com/LaMesa_Redonda_",
+      "anchor_text": "La Mesa Redonda"
+    },
+    {
+      "url": "https://twitter.com/TheKosmosHotel",
+      "anchor_text": "Hotel Kósmos"
+    },
+    {
+      "url": "https://twitter.com/PolarisFuel",
+      "anchor_text": "Polaris Fuel"
+    },
+    {
+      "url": "https://www.twitter.com/calexo_",
+      "anchor_text": "Calexo"
+    },
+    {
+      "url": "http://www.thehologram.io/polaris_fuel",
+      "anchor_text": "click here."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=zxvtrbqqWx8",
+      "anchor_text": "click here"
+    },
+    {
+      "url": "https://thehologram.io/wp-admin/edit.php?post_type=post&author=22",
+      "anchor_text": "Morangø"
+    },
+    {
+      "url": "https://thehologram.io/",
+      "anchor_text": "The Hologram"
+    },
+    {
+      "url": "https://staratlas.com/",
+      "anchor_text": "Star Atlas"
+    },
+    {
+      "url": "http://www.facebook.com/sharer.php?u=https://thehologram.io/quimeras-cem/&t=Business%20Convention%20in%20the%20Metaverse",
+      "anchor_text": ""
+    },
+    {
+      "url": "http://twitter.com/intent/tweet?text=Business%20Convention%20in%20the%20Metaverse%20https://thehologram.io/quimeras-cem/",
+      "anchor_text": ""
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "https://web.archive.org/web/20220926203159id_/https://thehologram.io/quimeras-cem/",
+    "final_url": "https://web.archive.org/web/20220926203159id_/https://thehologram.io/quimeras-cem/",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "response_size": 174131,
+    "elapsed_ms": 780,
+    "retrieval_mode": "INTERNET_ARCHIVE",
+    "archive_capture": {
+      "timestamp": "20220926203159",
+      "original": "https://thehologram.io/quimeras-cem/",
+      "digest": "5QY3FWAQIGP7H3ANUWT5XR3PG2YMMT5E"
+    }
+  }
+}

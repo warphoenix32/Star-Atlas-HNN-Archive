@@ -1,0 +1,284 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-7F94AF9A69E1B442",
+    "url_id": "URL-7F94AF9A69E1B442",
+    "url": "https://thehologram.io/bulk-multi-faction-logistics-dac",
+    "title": "Shipping it with Bulk, Multi-Faction Logistics DAC | The Hologram",
+    "author": "UNKNOWN",
+    "publisher": "Hologram News Network (HNN)",
+    "publication_identity": "Archived HNN website (thehologram.io)",
+    "published_at": "2022-06-15T18:05:50+00:00",
+    "updated_at": "2022-06-15T18:06:00+00:00",
+    "retrieved_at": "2026-07-13T00:08:28.095511Z",
+    "document_type": "ORIGINAL_INTERVIEW",
+    "source_role": "ORIGINAL_INTERVIEW",
+    "publication_role": "ORIGINAL_INTERVIEW",
+    "classification_rationale": "Publication explicitly presents an interview or Q&A."
+  },
+  "source_lineage": {
+    "publication": "Archived HNN website (thehologram.io)",
+    "publication_role": "ORIGINAL_INTERVIEW",
+    "relationship": "INTERVIEWS",
+    "primary_sources": [
+      {
+        "publication": "New Eden",
+        "author": "UNKNOWN",
+        "url": "https://universe.eveonline.com/lore/new-eden-cluster",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "history",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=D-_Hgp6VbFY",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Discord",
+        "author": "UNKNOWN",
+        "url": "https://t.co/gnMeb59mH6",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Axie Infinity",
+        "author": "UNKNOWN",
+        "url": "https://www.bloomberg.com/news/features/2022-06-10/axie-infinity-axs-crypto-game-promised-nft-riches-gave-ruin",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [],
+    "attribution_chain": [
+      {
+        "from": "New Eden",
+        "to": "Archived HNN website (thehologram.io)",
+        "relationship": "INTERVIEWS",
+        "url": "https://universe.eveonline.com/lore/new-eden-cluster"
+      },
+      {
+        "from": "history",
+        "to": "Archived HNN website (thehologram.io)",
+        "relationship": "INTERVIEWS",
+        "url": "https://www.youtube.com/watch?v=D-_Hgp6VbFY"
+      },
+      {
+        "from": "Discord",
+        "to": "Archived HNN website (thehologram.io)",
+        "relationship": "INTERVIEWS",
+        "url": "https://t.co/gnMeb59mH6"
+      },
+      {
+        "from": "Axie Infinity",
+        "to": "Archived HNN website (thehologram.io)",
+        "relationship": "INTERVIEWS",
+        "url": "https://www.bloomberg.com/news/features/2022-06-10/axie-infinity-axs-crypto-game-promised-nft-riches-gave-ruin"
+      }
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "This original interview published by Hologram News Network (HNN) on 2022-06-15 documents “Shipping it with Bulk, Multi-Faction Logistics DAC | The Hologram.” Its surviving text addresses governance, economy, guilds and DACs, game development, community, lore, technology. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "Shipping it with Bulk, Multi-Faction Logistics DAC\nPosted by Cpt. August Wulff | Jun 15, 2022 | Community, Guilds\nMiners. Bounty Hunters. Pirates. Data Runners. Every profession in Star Atlas depends on reliable supply chains to keep starbases stocked with food, ammo, and other necessities. BULK is at the forefront of the struggle to keep cargo circulating throughout the metaverse. DAC founder Eoganacht recently joined me for an interview about interstellar logistics, his spacefaring career in the New Eden Cluster, and the culture and structure of BULK.\nEoganacht Inspired by EVE: Online Corp Life, Vision of Decentralized Society\nWhen I asked Eoganacht what gave him the idea to form BULK, I was fascinated to hear a tale spanning across decades and universes:\n“I joined the Star Atlas server in the spring of 2021. Like many people I read the white paper, and then I read it again, and a third, fourth, fifth time – I was perhaps mildly obsessed with what was written. The reason for this goes back to 2007, in another world – New Eden, i.e. EVE: Online… An entirely player-driven economy hugely impacted by ongoing socio-political dynamics was fascinating and is what kept me coming back, the social gameplay. Participating in and leading fleets, creating corporations (guilds), alliance diplomacy and sovereignty warfare in Nullsec (HRZ), this is what made me dream of a life in space. That said, real life evolves, and one only has so much time for games — or so I thought. Discovering NFTs… changed my life. The ability to earn real-world value from assets you have complete ownership over is an incredible innovation, that I believe is going to change the fabric of human social and economic relationships. So, when I saw SA, I was infatuated. Like many others, something just clicked… This was the beginning of something.”\nAlthough I’m not an EVE player myself, I have been studying the history of New Eden to understand how player-driven space stories can unfold on a grand scale. I can say with certainty that experienced EVE players are among the best-prepared people for leadership roles in the Star Atlas metaverse. Eoganacht’s experience shows in everything he does, from the organization of the BULK Discord to his DAC’s strategically important role in the Interstellar Alliance. Speaking of the IA, Eoganacht continued:\n“Getting to know the community during the ReBirth event, I met KristianDragnel, Founder of the Interstellar Alliance. He talked to me about building a Decentralized Society… It really meshed well with what I felt could be possible in a place like EVE Online, yet all the more potent in every way because of the blockchain and NFTs… The concept of a decentralized Interstellar Stargate Network (ISN), in which different communities operate and have full ownership of stargates across the Star Atlas galaxy; this is a fabric of human potential, this is a network of social energy that can move Humanity forward, and quite possibly change how we think about real-life governance structures. We will all be experimenting with this in Star Atlas.”\nKeys to Unity: Dual Membership Structure, Shared Training, UMO Community-Building\nGiven BULK’s status as a multi-faction DAC, I asked Eoganacht how he’s planning to maintain unity at the DAC and alliance levels. Many guild leaders expect inter-faction tensions to rise with the competitive structure of SCREAM gameplay. One of his solutions is allowing Bulkers to hold memberships in BULK and another IA-affiliated DAC simultaneously. As Eoganacht explained, “By bringing people together from several guilds, we foster the kinds of relationships that can only be gained through rigorous training and facing the challenges of the void, together.” This type of dual-affiliation structure is not commonly seen in gaming guilds, whose leaders often demand the sole loyalty of their members. While dual-affiliated Bulkers will have to mange competing priorities, leveraging knowledge and resources from across the IA community could enable BULK to dominate the armed freight sector.\nRegarding multi-faction coordination, Eoganacht says: “UMO cooperation in content, community-building, and strategic goals is a focus of members.” He cited BULK’s participation in the launch of Atlessio’s Mob Machina NFTs as one example of UMO DAC community-building: “Thanks to our talented Councilbulkers, in this case Hardass, we began a discussion around Mob Machina and BULK that set the stage for our event on June 4, and beyond.” Hosting members of the Atlessio Family in BULK’s members-only Campfire voice channel, the two DACs discussed the NFT project, built relationships, and raffled off a whitelist spot. “Credit where it’s due, they have done a marvelous job” Eoganacht said, offering his congratulations to the Family on the success of their NFT launch.\nAll About the Bulkers\nTo get a better sense of Bulk’s culture, I asked Eoganacht what kind of people he’s looking for in his DAC. He replied, “BULK is a home away from home for people in the UMO Decentralized Society looking to pursue careers in armed freighting…. Training our hands-on skills is a foundational focus for us. We have highly experienced space simulation pilots and trainers, fleet commanders from EVE: Online and Elite Dangerous, strategy gamers, and broadly life-long gamers in the Bulker community. If this sounds like you, reach out!” BULK has no asset requirements to join, and players without an existing DAC affiliation can choose BULK as their home guild if they wish. The application form can be found in the Apply channel of the BULK Discord.\nAs for membership benefits, Eoganacht highlighted a governance token to be awarded to Bulkers for completing missions and training. He also waxed optimistic on the economic potential of BULK: “We also have the opportunity to build new careers… providing people the ability to liberate themselves from soul-crushing and grueling labor they may be doing in the real world…. This is about professional careers, in a new plane of human existence. And we will build it together, as a diverse multi-guild community.” If the Star Atlas play-to-earn experiment succeeds, leading the freight sector seems like a prudent strategy to make the most of it.\nOn the topic of fleet strength, Eoganacht didn’t disclose many details for opsec reasons, saying instead: “We have a sizable amount of assets for a community of 50 official members, in my opinion.” To help members without any assets contribute and earn, BULK “Will be exploring empowering asset lending systems, such as rent-to-own.” Many Star Atlas players look forward to renting out their ships, but a rent-to-own model could turn scholars into ship owners, something not commonly seen in other games that employ scholars such as Axie Infinity.\nAnd his final message for the Star Atlas community?\n“No matter the advancement, people are always the future. So here’s to a new realm, and may the void favor you.”\nABOUT THE HOLOGRAM\nThe Hologram is an independent news organization dedicated to covering the latest Star Atlas content from all sides. The Hologram was founded on the principle of uniting creators from across their diverse fields and showcasing their talent. The Hologram also recognizes the importance of our reader’s time and will always strive to give you what you need, when you need it.\nThe Hologram is not endorsed or paid by the Star Atlas team. Any information published by The Hologram or its writers should be considered as informational in nature and does not constitute any financial advice.\nShare:\nFeatured\nAll day\nCouncil of Peace Assembly (COPA)",
+  "content_hash": "ff94350041bca205aa5576bb96265637278123e5a21abee318723504244915f1",
+  "major_topics": [
+    "governance",
+    "economy",
+    "guilds and DACs",
+    "game development",
+    "community",
+    "lore",
+    "technology"
+  ],
+  "entities": [
+    "ATLAS",
+    "SCREAM",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-7F94AF9A69E1B442-01",
+      "text": "That said, real life evolves, and one only has so much time for games — or so I thought.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-7F94AF9A69E1B442",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-7F94AF9A69E1B442-02",
+      "text": "We will all be experimenting with this in Star Atlas.” Keys to Unity: Dual Membership Structure, Shared Training, UMO Community-Building Given BULK’s status as a multi-faction DAC, I asked Eoganacht how he’s planning to maintain unity at the DAC and alliance levels.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-7F94AF9A69E1B442",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-7F94AF9A69E1B442-03",
+      "text": "While dual-affiliated Bulkers will have to mange competing priorities, leveraging knowledge and resources from across the IA community could enable BULK to dominate the armed freight sector.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-7F94AF9A69E1B442",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-7F94AF9A69E1B442-04",
+      "text": "“Credit where it’s due, they have done a marvelous job” Eoganacht said, offering his congratulations to the Family on the success of their NFT launch.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-7F94AF9A69E1B442",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-7F94AF9A69E1B442-05",
+      "text": "And we will build it together, as a diverse multi-guild community.” If the Star Atlas play-to-earn experiment succeeds, leading the freight sector seems like a prudent strategy to make the most of it.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-7F94AF9A69E1B442",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-7F94AF9A69E1B442-06",
+      "text": "The Hologram also recognizes the importance of our reader’s time and will always strive to give you what you need, when you need it.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-7F94AF9A69E1B442",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Star Atlas",
+    "ATLAS",
+    "SCREAM"
+  ],
+  "governance_items": [
+    "Star Atlas governance / DAO"
+  ],
+  "lore_items": [],
+  "actors": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://thehologram.io/author/wulff/",
+      "anchor_text": "Cpt. August Wulff"
+    },
+    {
+      "url": "https://thehologram.io/category/community/",
+      "anchor_text": "Community"
+    },
+    {
+      "url": "https://thehologram.io/category/community/guilds/",
+      "anchor_text": "Guilds"
+    },
+    {
+      "url": "https://thehologram.io/2UjLARdtNHDDh7UhvhLKKmz7LsRYef5qTLE2vEqv5aUn",
+      "anchor_text": "BULK"
+    },
+    {
+      "url": "https://twitter.com/eoganacht",
+      "anchor_text": "Eoganacht"
+    },
+    {
+      "url": "https://universe.eveonline.com/lore/new-eden-cluster",
+      "anchor_text": "New Eden"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=D-_Hgp6VbFY",
+      "anchor_text": "history"
+    },
+    {
+      "url": "https://t.co/gnMeb59mH6",
+      "anchor_text": "Discord"
+    },
+    {
+      "url": "https://twitter.com/InterstellarDAC",
+      "anchor_text": "Interstellar Alliance"
+    },
+    {
+      "url": "https://thehologram.io/dacs-react-to-scream-wars-and-conflict-inevitable/",
+      "anchor_text": "inter-faction tensions"
+    },
+    {
+      "url": "https://thehologram.io/star-atlas-scream-gameplay-initial-reveal/",
+      "anchor_text": "SCREAM gameplay"
+    },
+    {
+      "url": "https://twitter.com/MobMachinaNFT",
+      "anchor_text": "Mob Machina"
+    },
+    {
+      "url": "https://twitter.com/Atlessio",
+      "anchor_text": "Atlessio Family"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/features/2022-06-10/axie-infinity-axs-crypto-game-promised-nft-riches-gave-ruin",
+      "anchor_text": "Axie Infinity"
+    },
+    {
+      "url": "https://thehologram.io/about-us/",
+      "anchor_text": "Hologram"
+    },
+    {
+      "url": "http://www.facebook.com/sharer.php?u=https://thehologram.io/bulk-multi-faction-logistics-dac/&t=Shipping%20it%20with%20Bulk%2C%20Multi-Faction%20Logistics%20DAC",
+      "anchor_text": ""
+    },
+    {
+      "url": "http://twitter.com/intent/tweet?text=Shipping%20it%20with%20Bulk%2C%20Multi-Faction%20Logistics%20DAC%20https://thehologram.io/bulk-multi-faction-logistics-dac/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://plus.google.com/share?url=https://thehologram.io/bulk-multi-faction-logistics-dac/&t=Shipping%20it%20with%20Bulk%2C%20Multi-Faction%20Logistics%20DAC",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://thehologram.io/event/council-of-peace-assembly-copa/",
+      "anchor_text": "Council of Peace Assembly (COPA)"
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "UNKNOWN",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Author is not explicit in the surviving publication metadata."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://web.archive.org/web/20220616003841id_/https://thehologram.io/bulk-multi-faction-logistics-dac/",
+    "final_url": "https://web.archive.org/web/20220616003841id_/https://thehologram.io/bulk-multi-faction-logistics-dac/",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "response_size": 137807,
+    "elapsed_ms": 3207,
+    "retrieval_mode": "INTERNET_ARCHIVE",
+    "archive_capture": {
+      "timestamp": "20220616003841",
+      "original": "https://thehologram.io/bulk-multi-faction-logistics-dac/",
+      "digest": "2U4LJS5DDRZJK7RGIOHA5ACQX2E3Z5FI"
+    }
+  }
+}

@@ -1,0 +1,362 @@
+{
+  "source": {
+    "source_id": "SRC-IH-6404945A129E46FA",
+    "url_id": "URL-6404945A129E46FA",
+    "url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-176/",
+    "inventory_url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-newsletter-176",
+    "title": "Star Atlas Weekly Newsletter #176",
+    "author": "Intergalactic Herald",
+    "publisher": "Intergalactic Herald",
+    "published_at": "2025-08-03T17:00:00",
+    "updated_at": "2025-08-03T13:44:24",
+    "retrieved_at": "2026-07-12T22:03:57.801839Z",
+    "document_type": "NEWSLETTER",
+    "source_role": "CURATED_SUMMARY",
+    "source_classification": "CURATED_SUMMARY",
+    "classification_rationale": "Weekly newsletter/recap aggregates developments and linked sources.",
+    "wordpress_type": "posts"
+  },
+  "summary": {
+    "neutral_abstract": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week. I am looking for guests to be on the podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact me. I am launching a Star Atlas merch store. Please check it out at Intergalactic",
+    "historical_value": "Contemporary Intergalactic Herald publication preserved with role and attribution boundaries.",
+    "current_validity_warning": "Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources."
+  },
+  "article_text": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week.\nAlso, check out my podcast and AI summary recaps.\nWeekly Star Atlas Newsletter #190\nAephia published their weekly Star Atlas newsletter.\nStar Atlas: Summer Preview Extravaganza!!\nBeyond the Horizon posted a preview of Star Atlas Summer.\nStar Atlas Community Week & Summer Kick-Off | July 28, 2025\nStar Atlas TV posted a video recording of the kickoff event of Community Week.\nGameplay Trailer – July Preseason Patch (New Shooter Mode)\nStar Atlas posted a shooter gameplay trailer.\nStar Atlas: Recap 7-28-25\nBeyond the Horizon posted a recap of Star Atlas updates.\nStar Atlas COPA 2025 – Guild Competition Showdown!\nStar Atlas TV posted a video recording of the guild competition.\nSTAR ATLAS #275 HUGE WEEK WITH REVEALS!\nMetaVerse Explorer posted a video of Star Atlas updates.\nStar Atlas Summer Town Hall — Part 1\nStar Atlas TV posted a video recording of the first Town Hall.\nStar Atlas Cinematic – July Major Preseason Patch\nStar Atlas posted a new cinematic video.\nTown Hall Report – July 30th, 2025\nAephia published a town hall report.\nThe Star Atlas Community JONI AWARDS 2625\nStar Atlas TV posted a video recording of the JONI awards.\nI am looking for guests to be on the podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact me.\nI am launching a Star Atlas merch store. Please check it out at Intergalactic Gear.\nI am also creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic Coalition.\nIf you would like to support my efforts, donations can be sent to intergalacticherald.sol\nLatest podcast\nPodcast 176: Star Atlas Weekly Reviewby MattJuly 5, 2026In this episode, I recap the latest news of Star Atlas from the past week. Listen on Apple Podcasts Listen on Spotify I am looking for guests to be on the podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in… Read more: Podcast 176: Star Atlas Weekly Review\nLatest recap\nStar Atlas Event Recap 91: Atlas Brew #211by MattJuly 2, 2026In this episode, hear an AI summary of the latest Star Atlas community event. Full video recordings can be found on the YouTube channel of Star Atlas TV at https://www.youtube.com/@staratlastv. Listen on Apple Podcasts Listen on Spotify Star Atlas Event Summary Hi, this isn’t Matt with the Intergalactic Herald. I… Read more: Star Atlas Event Recap 91: Atlas Brew #211",
+  "content_hash": "03aec5c2b63ae16bef5217dbeb702aed7a855bf6c45501307b4056d72813c08d",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [
+    "2025"
+  ],
+  "external_sources": [
+    {
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-190/",
+      "anchor_text": "Star Atlas newsletter"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=39SGaa2cVqw",
+      "anchor_text": "preview of Star Atlas Summer"
+    },
+    {
+      "url": "https://www.youtube.com/live/R1xDAK53Rec",
+      "anchor_text": "kickoff event"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=pwXaY3a_qxo",
+      "anchor_text": "shooter gameplay trailer"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=-Xx5KNCLYcE",
+      "anchor_text": "recap of Star Atlas updates"
+    },
+    {
+      "url": "https://www.youtube.com/live/AgpylrfPcNo",
+      "anchor_text": "guild competition"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=T3wF1J5ELSA",
+      "anchor_text": "Star Atlas updates"
+    },
+    {
+      "url": "https://www.youtube.com/live/ayks1J41_ok",
+      "anchor_text": "first Town Hall"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=7F911FuYX-g",
+      "anchor_text": "cinematic video"
+    },
+    {
+      "url": "https://aephia.com/star-atlas/town-hall-report-july-30th-2025/",
+      "anchor_text": "town hall report"
+    },
+    {
+      "url": "https://www.youtube.com/live/rRlt8XvmAAg",
+      "anchor_text": "JONI awards"
+    },
+    {
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    }
+  ],
+  "primary_source_relationships": [
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-190/",
+      "anchor_text": "Star Atlas newsletter"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=39SGaa2cVqw",
+      "anchor_text": "preview of Star Atlas Summer"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/live/R1xDAK53Rec",
+      "anchor_text": "kickoff event"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=pwXaY3a_qxo",
+      "anchor_text": "shooter gameplay trailer"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=-Xx5KNCLYcE",
+      "anchor_text": "recap of Star Atlas updates"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/live/AgpylrfPcNo",
+      "anchor_text": "guild competition"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=T3wF1J5ELSA",
+      "anchor_text": "Star Atlas updates"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/live/ayks1J41_ok",
+      "anchor_text": "first Town Hall"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=7F911FuYX-g",
+      "anchor_text": "cinematic video"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/town-hall-report-july-30th-2025/",
+      "anchor_text": "town hall report"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/live/rRlt8XvmAAg",
+      "anchor_text": "JONI awards"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    }
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Verify which outbound links are primary sources and preserve creator attribution during promotion."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-newsletter-176&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 11049,
+    "elapsed_ms": 1621,
+    "attempts": [
+      {
+        "endpoint": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-newsletter-176&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "http_status": 200,
+        "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-newsletter-176&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "content_type": "application/json; charset=UTF-8",
+        "response_size": 11049,
+        "elapsed_ms": 1621
+      }
+    ]
+  },
+  "source_lineage": {
+    "publication": "Intergalactic Herald",
+    "publication_role": "CURATED_SUMMARY",
+    "relationship": "CURATED_SUMMARY_OF",
+    "primary_sources": [
+      {
+        "publication": "Star Atlas newsletter",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-190/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas newsletter"
+      },
+      {
+        "publication": "preview of Star Atlas Summer",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=39SGaa2cVqw",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: preview of Star Atlas Summer"
+      },
+      {
+        "publication": "kickoff event",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/live/R1xDAK53Rec",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: kickoff event"
+      },
+      {
+        "publication": "shooter gameplay trailer",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=pwXaY3a_qxo",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: shooter gameplay trailer"
+      },
+      {
+        "publication": "recap of Star Atlas updates",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=-Xx5KNCLYcE",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: recap of Star Atlas updates"
+      },
+      {
+        "publication": "guild competition",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/live/AgpylrfPcNo",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: guild competition"
+      },
+      {
+        "publication": "Star Atlas updates",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=T3wF1J5ELSA",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas updates"
+      },
+      {
+        "publication": "first Town Hall",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/live/ayks1J41_ok",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: first Town Hall"
+      },
+      {
+        "publication": "cinematic video",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=7F911FuYX-g",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: cinematic video"
+      },
+      {
+        "publication": "town hall report",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/town-hall-report-july-30th-2025/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article with anchor text: town hall report"
+      },
+      {
+        "publication": "JONI awards",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/live/rRlt8XvmAAg",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: JONI awards"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "publication": "Intergalactic Gear",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticgear.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Intergalactic Coalition",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticcoalition.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      }
+    ],
+    "original_creators": [
+      "Aephia",
+      "Star Atlas"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Star Atlas newsletter",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-190/"
+      },
+      {
+        "from": "preview of Star Atlas Summer",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=39SGaa2cVqw"
+      },
+      {
+        "from": "kickoff event",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/live/R1xDAK53Rec"
+      },
+      {
+        "from": "shooter gameplay trailer",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=pwXaY3a_qxo"
+      },
+      {
+        "from": "recap of Star Atlas updates",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=-Xx5KNCLYcE"
+      },
+      {
+        "from": "guild competition",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/live/AgpylrfPcNo"
+      },
+      {
+        "from": "Star Atlas updates",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=T3wF1J5ELSA"
+      },
+      {
+        "from": "first Town Hall",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/live/ayks1J41_ok"
+      },
+      {
+        "from": "cinematic video",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=7F911FuYX-g"
+      },
+      {
+        "from": "town hall report",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/town-hall-report-july-30th-2025/"
+      },
+      {
+        "from": "JONI awards",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/live/rRlt8XvmAAg"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  }
+}

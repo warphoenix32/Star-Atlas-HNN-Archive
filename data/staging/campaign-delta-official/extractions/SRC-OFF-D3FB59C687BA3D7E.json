@@ -1,0 +1,204 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-D3FB59C687BA3D7E",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47053539377299-How-Council-Rank-XP-Works-in-Starbased",
+    "title": "How Council Rank XP Works in Starbased",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-03T13:17:11Z",
+    "updated_at": "2025-12-08T18:25:03Z",
+    "original_date_text": "2025-12-03T13:17:11Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://based.staratlas.com/",
+        "anchor_text": "Starbased"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “How Council Rank XP Works in Starbased.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "The Starbased update introduces Council Rank Experience Points (XP), a feature that significantly enhances the gameplay experience within the Star Atlas Golden Era (SAGE). This addition marks a pivotal evolution in how players engage with the game, emphasizing the depth of participation and contribution to the expansive universe.\nUnderstanding Council Rank XP: Council Rank XP serves as a dynamic measure of a player's involvement across various activities in Starbased. From upgrading starbases to exploration and crafting, XP accrues as players deepen their engagement with the game's ecosystem, signaling their growing influence and commitment.\nEarning Council Rank XP: Players earn XP through diverse activities that benefit their faction and the Star Atlas community at large. This includes, but is not limited to, contributions toward starbase upgrades and upkeep, travel, freighting, mining, crafting, and scanning. Such a wide array of contributory actions ensures that players’ efforts across the game's spectrum are recognized and rewarded.\nThe Future of XP: It's important to note that while the perks and systems associated with account progression through Council Rank XP will initially remain locked, players will retain the XP they accumulate. This stored XP will become instrumental once the progression system is fully implemented, rewarding early adopters and dedicated players with benefits reflective of their early efforts and achievements in Starbased.\nLooking Forward: As Starbased continues to unfold, the role of Council Rank XP in shaping player identity, progression, and influence within the Star Atlas universe will become increasingly pronounced. This system is designed to motivate players to explore new horizons, engage deeply with the game's economic and social fabric, and achieve recognition for their contributions and achievements.",
+  "content_hash": "bbe5cb1753bf9c9d8f685f3888a8d816ed48a792d2d7ca758142d6e2a07b06c3",
+  "entities": [
+    "ATLAS",
+    "SAGE"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-D3FB59C687BA3D7E-01",
+      "text": "The Starbased update introduces Council Rank Experience Points (XP), a feature that significantly enhances the gameplay experience within the Star Atlas Golden Era (SAGE).",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-D3FB59C687BA3D7E",
+      "publication_date": "2025-12-03T13:17:11Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-D3FB59C687BA3D7E-02",
+      "text": "This addition marks a pivotal evolution in how players engage with the game, emphasizing the depth of participation and contribution to the expansive universe.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-D3FB59C687BA3D7E",
+      "publication_date": "2025-12-03T13:17:11Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-D3FB59C687BA3D7E-03",
+      "text": "Understanding Council Rank XP: Council Rank XP serves as a dynamic measure of a player's involvement across various activities in Starbased.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-D3FB59C687BA3D7E",
+      "publication_date": "2025-12-03T13:17:11Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-D3FB59C687BA3D7E-04",
+      "text": "From upgrading starbases to exploration and crafting, XP accrues as players deepen their engagement with the game's ecosystem, signaling their growing influence and commitment.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-D3FB59C687BA3D7E",
+      "publication_date": "2025-12-03T13:17:11Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-D3FB59C687BA3D7E-05",
+      "text": "Earning Council Rank XP: Players earn XP through diverse activities that benefit their faction and the Star Atlas community at large.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-D3FB59C687BA3D7E",
+      "publication_date": "2025-12-03T13:17:11Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-D3FB59C687BA3D7E-06",
+      "text": "This includes, but is not limited to, contributions toward starbase upgrades and upkeep, travel, freighting, mining, crafting, and scanning.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-D3FB59C687BA3D7E",
+      "publication_date": "2025-12-03T13:17:11Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-D3FB59C687BA3D7E-07",
+      "text": "Such a wide array of contributory actions ensures that players’ efforts across the game's spectrum are recognized and rewarded.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-D3FB59C687BA3D7E",
+      "publication_date": "2025-12-03T13:17:11Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-D3FB59C687BA3D7E-08",
+      "text": "The Future of XP: It's important to note that while the perks and systems associated with account progression through Council Rank XP will initially remain locked, players will retain the XP they accumulate.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-D3FB59C687BA3D7E",
+      "publication_date": "2025-12-03T13:17:11Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-D3FB59C687BA3D7E-09",
+      "text": "This stored XP will become instrumental once the progression system is fully implemented, rewarding early adopters and dedicated players with benefits reflective of their early efforts and achievements in Starbased.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-D3FB59C687BA3D7E",
+      "publication_date": "2025-12-03T13:17:11Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-D3FB59C687BA3D7E-10",
+      "text": "Looking Forward: As Starbased continues to unfold, the role of Council Rank XP in shaping player identity, progression, and influence within the Star Atlas universe will become increasingly pronounced.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-D3FB59C687BA3D7E",
+      "publication_date": "2025-12-03T13:17:11Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-D3FB59C687BA3D7E-11",
+      "text": "This system is designed to motivate players to explore new horizons, engage deeply with the game's economic and social fabric, and achieve recognition for their contributions and achievements.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-D3FB59C687BA3D7E",
+      "publication_date": "2025-12-03T13:17:11Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "SAGE",
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://based.staratlas.com/",
+      "anchor_text": "Starbased"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://based.staratlas.com/",
+      "anchor_text": "Starbased"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47053539377299-How-Council-Rank-XP-Works-in-Starbased",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.451159Z"
+  }
+}

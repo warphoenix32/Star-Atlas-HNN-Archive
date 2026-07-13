@@ -1,0 +1,225 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-DBB7E3C43EC71782",
+    "url_id": "URL-DBB7E3C43EC71782",
+    "url": "https://thehologram.io/star-atlas-unveils-new-galactic-marketplace",
+    "title": "Star Atlas Unveils New Galactic Marketplace »",
+    "author": "Krigs",
+    "publisher": "Hologram News Network (HNN)",
+    "publication_identity": "Archived HNN website (thehologram.io)",
+    "published_at": "2022-07-22T04:47:36+00:00",
+    "updated_at": null,
+    "retrieved_at": "2026-07-13T00:15:54.168150Z",
+    "document_type": "FEATURE",
+    "source_role": "FEATURE",
+    "publication_role": "FEATURE",
+    "classification_rationale": "Publication provides feature-style background or profile coverage."
+  },
+  "source_lineage": {
+    "publication": "Archived HNN website (thehologram.io)",
+    "publication_role": "FEATURE",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Krigs"
+    ],
+    "attribution_chain": [],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "This feature published by Hologram News Network (HNN) on 2022-07-22 documents “Star Atlas Unveils New Galactic Marketplace ».” Its surviving text addresses governance, economy, game development, community, lore. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "Star Atlas Unveils New Galactic Marketplace\nPosted by Krigs | Jul 22, 2022 | Economics, Roadmap Updates\nOn Thursday, July 21st ATMTA unveiled its new Star Atlas Galactic Marketplace, a replacement to their original Serum based marketplace. The new marketplace is intended to streamline the user experience in the marketplace and simplify transactions between users. Ultimately, Star Atlas’ vision is to develop “an open, in-game market structure, creating opportunities and meaningful interactions within the Star Atlas metaverse.”\nFor players more familiar with traditional MMO style auction houses, the new galactic marketplace will make them feel at home.\nNew Star Atlas Galactic Marketplace\nNew Marketplace Features\nItems are now grouped by item category in an accordion style format. Item buy and sell information is more succinctly displayed, removing the old order book system in place with the original market. Participants can now easily navigate to all of their open buy and sell orders at the top of the page, a vast improvement over the old system. Previously, users would have to navigate to each individual item in order to find an existing order they had placed.\nUser’s no longer are required to claim items in their inventor after purchase. Buying an item from the marketplace is now completely seamless, items will automatically move to a player’s inventory.\nThe search function is now a more robust system and will auto complete queries. Finding the specific item you are looking for takes significantly less time.\nAnother quality of life improvement is the addition of bookmarks. This makes navigation to frequently bought and sold items a breeze. In our first test of the marketplace, we noted that it was very useful to have the R4 resources (food, ammunition, fuel, and toolkits) bookmarked since these will be used quite often. Surprisingly, R4 items are now able to be listed for sale in USDC. Previously, R4 was an ATLAS pair value only. This new listing pair will provide different and unique opportunities for market players to action.\nStar Atlas Ships Repriced\nOne of the more significant changes to come with the marketplace is the repricing of Star Atlas offered ships in their ATLAS pairing. This move was intentionally done in an attempt to closer align ship prices to their volume-weighted average price, or VWAP. The decline of ATLAS price over the past few months led to some extraordinary discounts on ships in the market. ATMTA CEO Michael Wagner acknowledged that this was intentionally allowed to occur given bearish market conditions; the low cost of ships was absorbed by the company itself.\nFor example, a Fimbul Airbike, which cost around 350 ATLAS prior to the change, now costs 2207 ATLAS. This change in ATLAS price for the Airbike puts it closer to its target VWAP of $16.50\nShip Buyers will know they are buying from the official Star Atlas offering if the select the light blue ‘Star Atlas’ account sell line as depicted in the image above.\nFuture Star Atlas Marketplace Integration\nToday’s unveiling of a new Star Atlas marketplace is only the beginning of a series of updates for this ecosystem. Future updates will expand the capability of the system, and will function as the hub of activity for the Star Atlas community.\nFrom Star Atlas’ announcement:\nUsers will be able to trade NFTs\nFactions and regional DAOs will be able to implement taxes and trade restrictions\nATLAS staking will unlock additional features like reduced marketplace fees\nOpen ended development for the integration of user smart contracts\nStar Path – a soon to be released player recruitment and reward system\nThese are but a few of the upcoming releases for the new Star Atlas Galactic Marketplace. One thing that would certainly make our job easier is the integration of automated payments between players for services. This new marketplace will provide the foundation for the future Star Atlas economic system.\nABOUT THE HOLOGRAM\nThe Hologram is an independent news organization dedicated to covering the latest Star Atlas content from all sides. The Hologram was founded on the principle of uniting creators from across their diverse fields and showcasing their talent. The Hologram also recognizes the importance of our reader’s time and will always strive to give you what you need, when you need it.\nThe Hologram is not endorsed or paid by the Star Atlas team. Any information published by The Hologram or its writers should be considered as informational in nature and does not constitute any financial advice.\nShare:",
+  "content_hash": "931151f10700f102984bf837b4c7266f98b32c99df66f9cbca6e0da6b550c2e0",
+  "major_topics": [
+    "governance",
+    "economy",
+    "game development",
+    "community",
+    "lore"
+  ],
+  "entities": [
+    "ATLAS",
+    "Krigs",
+    "Michael Wagner",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-DBB7E3C43EC71782-01",
+      "text": "Ultimately, Star Atlas’ vision is to develop “an open, in-game market structure, creating opportunities and meaningful interactions within the Star Atlas metaverse.” For players more familiar with traditional MMO style auction houses, the new galactic marketplace will make them feel at home.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-DBB7E3C43EC71782",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-DBB7E3C43EC71782-02",
+      "text": "Buying an item from the marketplace is now completely seamless, items will automatically move to a player’s inventory.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-DBB7E3C43EC71782",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-DBB7E3C43EC71782-03",
+      "text": "The search function is now a more robust system and will auto complete queries.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-DBB7E3C43EC71782",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-DBB7E3C43EC71782-04",
+      "text": "In our first test of the marketplace, we noted that it was very useful to have the R4 resources (food, ammunition, fuel, and toolkits) bookmarked since these will be used quite often.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-DBB7E3C43EC71782",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-DBB7E3C43EC71782-05",
+      "text": "This new listing pair will provide different and unique opportunities for market players to action.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-DBB7E3C43EC71782",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-DBB7E3C43EC71782-06",
+      "text": "This change in ATLAS price for the Airbike puts it closer to its target VWAP of $16.50 Ship Buyers will know they are buying from the official Star Atlas offering if the select the light blue ‘Star Atlas’ account sell line as depicted in the image above.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-DBB7E3C43EC71782",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-DBB7E3C43EC71782-07",
+      "text": "Future updates will expand the capability of the system, and will function as the hub of activity for the Star Atlas community.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-DBB7E3C43EC71782",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-DBB7E3C43EC71782-08",
+      "text": "From Star Atlas’ announcement: Users will be able to trade NFTs Factions and regional DAOs will be able to implement taxes and trade restrictions ATLAS staking will unlock additional features like reduced marketplace fees Open ended development for the integration of user smart contracts Star Path – a soon to be released player recruitment and reward system These are but a few of the upcoming releases for the new Star Atlas Galactic Marketplace.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-DBB7E3C43EC71782",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-DBB7E3C43EC71782-09",
+      "text": "This new marketplace will provide the foundation for the future Star Atlas economic system.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-DBB7E3C43EC71782",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-DBB7E3C43EC71782-10",
+      "text": "The Hologram also recognizes the importance of our reader’s time and will always strive to give you what you need, when you need it.",
+      "claim_type": "RETROSPECTIVE_CLAIM",
+      "speaker": "UNKNOWN",
+      "reported_by": "Hologram News Network (HNN)",
+      "source_id": "SRC-HNN-DBB7E3C43EC71782",
+      "confidence": "LOW",
+      "requires_follow_up": true
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Star Atlas",
+    "ATLAS"
+  ],
+  "governance_items": [
+    "Star Atlas governance / DAO"
+  ],
+  "lore_items": [],
+  "actors": [
+    "Michael Wagner",
+    "Krigs"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://thehologram.io/author/krigs/",
+      "anchor_text": "Krigs"
+    },
+    {
+      "url": "https://thehologram.io/category/economics/",
+      "anchor_text": "Economics"
+    },
+    {
+      "url": "https://thehologram.io/category/gameplay/roadmap-updates/",
+      "anchor_text": "Roadmap Updates"
+    },
+    {
+      "url": "https://medium.com/star-atlas/the-new-galactic-marketplace-a-small-step-for-trading-a-huge-leap-for-the-star-atlas-metaverse-a7c4a44ee7f8",
+      "anchor_text": "announcement"
+    },
+    {
+      "url": "http://www.facebook.com/sharer.php?u=https://thehologram.io/star-atlas-unveils-new-galactic-marketplace/&t=Star%20Atlas%20Unveils%20New%20Galactic%20Marketplace",
+      "anchor_text": ""
+    },
+    {
+      "url": "http://twitter.com/intent/tweet?text=Star%20Atlas%20Unveils%20New%20Galactic%20Marketplace%20https://thehologram.io/star-atlas-unveils-new-galactic-marketplace/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://plus.google.com/share?url=https://thehologram.io/star-atlas-unveils-new-galactic-marketplace/&t=Star%20Atlas%20Unveils%20New%20Galactic%20Marketplace",
+      "anchor_text": ""
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "No explicit primary source was identifiable from preserved outbound links."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://web.archive.org/web/20220722044737id_/https://thehologram.io/star-atlas-unveils-new-galactic-marketplace/",
+    "final_url": "https://web.archive.org/web/20220722044737id_/https://thehologram.io/star-atlas-unveils-new-galactic-marketplace/",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "response_size": 138076,
+    "elapsed_ms": 1362,
+    "retrieval_mode": "INTERNET_ARCHIVE",
+    "archive_capture": {
+      "timestamp": "20220722044737",
+      "original": "https://thehologram.io/star-atlas-unveils-new-galactic-marketplace/",
+      "digest": "OXL4UT5OLFB7ABATUQU3H7L54BHYVG2W"
+    }
+  }
+}

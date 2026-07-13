@@ -1,0 +1,14 @@
+{
+  "topic": "claims, crafting, record, remain, the, this, time, what",
+  "official_source_ids": [
+    "SRC-OFF-9181BEEEF9F2F96C"
+  ],
+  "community_source_ids": [
+    "SRC-HNN-FE2F30D6E8B18D21"
+  ],
+  "relationship": "OFFICIAL_SUPERSEDES_OLDER_GUIDE",
+  "finding": "Automated topic overlap on: claims, crafting, record, remain, the, this, time, what. Official authority is limited to the official wording; community context remains separately attributed.",
+  "confidence": "LOW",
+  "promotion_candidate": false,
+  "manual_review_required": true
+}

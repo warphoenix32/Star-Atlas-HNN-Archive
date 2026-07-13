@@ -1,0 +1,695 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-F9654AA6FF1D8010",
+    "url": "https://experience.staratlas.com/newsroom/the-atlassian-newsletter/the-atlas-star-issue-8",
+    "title": "The Atlas Star ✧ Issue #8\n | Star Atlas",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Newsroom / ATMTA",
+    "published_at": "2022-06-25",
+    "updated_at": null,
+    "original_date_text": "Jun 25, 2022",
+    "document_type": "LORE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Newsroom / ATMTA",
+    "publication_role": "ECONOMIC_REPORT",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://play.staratlas.com",
+        "anchor_text": "Play Now"
+      },
+      {
+        "url": "https://coinmarketcap.com/currencies/star-atlas/",
+        "anchor_text": "CMC"
+      },
+      {
+        "url": "https://www.coingecko.com/en/coins/star-atlas",
+        "anchor_text": "CoinGecko"
+      },
+      {
+        "url": "https://coinmarketcap.com/currencies/star-atlas-polis/",
+        "anchor_text": "CMC"
+      },
+      {
+        "url": "https://www.coingecko.com/en/coins/star-atlas-dao",
+        "anchor_text": "CoinGecko"
+      },
+      {
+        "url": "https://discord.gg/staratlas",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://t.me/staratlasgame",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://www.reddit.com/r/StarAtlas/",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://www.facebook.com/StarAtlasMMO",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://www.instagram.com/staratlasgame/",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://www.youtube.com/channel/UCt-y8Npwje5KDG5MSZ0a9Jw",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://www.twitch.tv/staratlasgame",
+        "anchor_text": ""
+      },
+      {
+        "url": "https://www.notion.so/staratlas/72cb710bbd894cd8819bde948e42ac31?v=6146a2da2c0a45b58e0c4fb1c0a2d845",
+        "anchor_text": "project developments"
+      },
+      {
+        "url": "https://medium.com/star-atlas/introducing-copa-a-festival-of-guilds-dc57df0f088d",
+        "anchor_text": "Medium articles"
+      },
+      {
+        "url": "https://medium.com/star-atlas/the-atlas-star-issue-5-60af7ed85101",
+        "anchor_text": "diamond at the center of our galaxy"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=vKZO3wVtYhQ",
+        "anchor_text": "https://www.youtube.com/watch?v=vKZO3wVtYhQ"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=sxs05bJoNHM",
+        "anchor_text": "https://www.youtube.com/watch?v=sxs05bJoNHM"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=Ewfv8z6mqcc",
+        "anchor_text": "https://www.youtube.com/watch?v=Ewfv8z6m qcc"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=U3KE4AAyQxY",
+        "anchor_text": "The Atlas Brew 16 feat. Zeskk & Santi"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=pJkcoA7k9O0",
+        "anchor_text": "The Atlas Brew #17"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=-kG4PHsA7tA",
+        "anchor_text": "https://www.youtube.com/watch?v=-kG4PHsA7tA"
+      },
+      {
+        "url": "https://medium.com/star-atlas/mierese-dance-in-the-blizzard-star-atlas-roadmap-scan-07-e4408dbb3114",
+        "anchor_text": "Mierese Dance in The Blizzard: Star Atlas Roadmap Scan #07"
+      },
+      {
+        "url": "https://medium.com/star-atlas/ustur-ceo-the-hidden-enemy-star-atlas-roadmap-scan-08-7d9573eb70aa",
+        "anchor_text": "Ustur CEO — The hidden enemy: Star Atlas Roadmap Scan #08"
+      },
+      {
+        "url": "https://medium.com/star-atlas/scenes-from-a-galaxy-in-movement-star-atlas-roadmap-scan-09-24995975940c",
+        "anchor_text": "Scenes from a galaxy in movement: Star Atlas Roadmap Scan #09"
+      },
+      {
+        "url": "https://medium.com/star-atlas/oni-dream-within-a-dream-part-i-star-atlas-roadmap-scan-10-4c67c97c80a0",
+        "anchor_text": "ONI Dream within a Dream — Part I: Star Atlas Roadmap Scan #10"
+      },
+      {
+        "url": "https://medium.com/star-atlas/star-atlas-partners-with-moonpay-to-provide-an-onramp-for-next-wave-of-metaverse-citizens-8e32b83b7203",
+        "anchor_text": "following article"
+      },
+      {
+        "url": "https://medium.com/star-atlas/star-atlas-and-ibuypower-partner-to-onboard-gamers-to-the-metaverse-635e32cf7a3a",
+        "anchor_text": "following article"
+      },
+      {
+        "url": "https://itsecuritywire.com/news/star-atlas-introduces-initiative-to-establish-web3-security-framework/",
+        "anchor_text": "following article"
+      },
+      {
+        "url": "https://play.staratlas.com/market/8kn57Qb8S9AiPV8isUNwk6oCYPMSLFAVPwuXbyCSkS6i",
+        "anchor_text": "Busan"
+      },
+      {
+        "url": "https://play.staratlas.com/market/rrmC29ABvCvx6FzqS3FPZLwLxkvYRtcMUTBrR21F2Y6",
+        "anchor_text": "Ogrika"
+      },
+      {
+        "url": "https://play.staratlas.com/market/9yTCzeiveufHJA4LiMaAaw5Rm9KrmeEY4LS16DNyLPQw",
+        "anchor_text": "Fimbul"
+      },
+      {
+        "url": "https://c212.net/c/link/?t=0&l=en&o=3518016-1&h=2748636143&u=https%3A%2F%2Fc212.net%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D3397231-1%26h%3D2982849003%26u%3Dhttp%253A%252F%252Fsolana.com%252F%26a%3DSolana&a=Solana",
+        "anchor_text": "Solana"
+      },
+      {
+        "url": "https://c212.net/c/link/?t=0&l=en&o=3518016-1&h=1530369193&u=https%3A%2F%2Fc212.net%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D3397231-1%26h%3D3652583731%26u%3Dhttps%253A%252F%252Fstaratlas.com%252F%26a%3DStarAtlas.com&a=StarAtlas.com",
+        "anchor_text": "StarAtlas.com"
+      },
+      {
+        "url": "https://c212.net/c/link/?t=0&l=en&o=3518016-1&h=3921988929&u=https%3A%2F%2Fc212.net%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D3397231-1%26h%3D445912205%26u%3Dhttp%253A%252F%252Fplay.staratlas.com%252F%26a%3DPlay.StarAtlas.com&a=Play.StarAtlas.com",
+        "anchor_text": "Play.StarAtlas.com"
+      },
+      {
+        "url": "https://www.reddit.com/r/StarAtlas",
+        "anchor_text": "Reddit"
+      },
+      {
+        "url": "https://www.linkedin.com/company/star-atlas",
+        "anchor_text": "Linkedin"
+      },
+      {
+        "url": "https://medium.com/star-atlas",
+        "anchor_text": "Medium"
+      },
+      {
+        "url": "https://www.tiktok.com/@staratlasmetaverse",
+        "anchor_text": "Tik Tok"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Newsroom / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official economic report titled “The Atlas Star ✧ Issue #8\n | Star Atlas.” This record preserves what Star Atlas Newsroom / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "The Atlas Star ✧ Issue #8\n| Star Atlas\nPlay Now\nEconomic Reports\nWhite Paper • PDF\nRead Our Official White Paper!\nEconomics Paper • PDF\nLearn the tokenomics of ATLAS and POLIS in the galactic economy.\nGovernance Documentation\nLearn how Star Atlas is governed and built by its community.\nATLAS\n(\nCMC\nCoinGecko\n)\nPOLIS\n(\nCMC\nCoinGecko\n)\nTerms of Service\nPrivacy Policy\nPromotional Terms\nPlay Now\nBack\nJun 25, 2022\nTag: The Atlas Star ✧ Newsletter\nThe Atlas Star ✧ Issue #8\nA tale about building a new world…\nBack to top\nAll the Factions reunited under the Council of Peace calling /// A Metaverse Festival /// WeAreStarAtlas\nHeed the Call of Summer, Space Explorers!\nFrom all across the galaxy, the people of the stars gathered together in the Council of Peace Assembly (COPA). MUDs, ONIs, and Usturs celebrated hope, union, and diversity in the longest Star Atlas metaverse to this day.\nCOPA was a full-day festival of uninterrupted content, made in collaboration with the fantastic DACs of the Star Atlas ecosystem, showcasing to the world the strength of our community and of the dream that binds it together, the ultimate decentralized gaming metaverse experience.\nAnother highlight of the current edition comes in detailing our CEO Michael Wagner’s speech regarding the launch of six different projects in the next 4–6 weeks. You will learn more about the new Galactic Marketplace, The Showroom program, Star Atlas DAO, The Prequel Graphic Novel, and the Referral Program.\nNot only that, in this issue of the Atlas Star ✧, the official Star Atlas newsletter wherein all things start and end, you will also learn of the latest details related to project developments, partnerships, contests, assets, and everything else that happened in the Star Atlas ecosystem in the last few weeks.\nSo, in order to best appreciate this issue, our Sogmian Maître d’ suggestion is to find yourself a suitable chair, together with a brew of your liking, and take your time savoring the many delectable morsels that we have prepared for you.\nWe hope you have an enjoyable experience.\nThe First Council of Peace Assembly Journey\nThe first-ever Council of Peace Assembly /// Triple-A Metaverse Work in Progress /// Immersive Unreal Engine 5 Experience\nThe first COPA celebration was made public for our community on 5/20/2022 through one of our Medium articles. There, a call was issued for all DACs of the Star Atlas ecosystem to come forward and present their vision, values and work regarding the Star Atlas Metaverse.\nNevertheless, before we get into the exciting journey of the DACs, it’s essential that we take a step back and share with you, dear explorer, a behind-the-scenes look at how the Star Atlas team developed COPA, as it might help us better understand the construction of the Star Atlas metaverse.\nThe first step on the road to COPA is acknowledging the purpose of this event. Everything in Star Atlas starts and ends with a deeper purpose. As the team grew to believe the project was mature enough to start another cycle of product releases, it became clear that we needed to mark the start of this new phase.\nIn a sense, the very nature of the Star Atlas decentralized dream led us directly to COPA. Reaching out as we did to the community, this second phase of development unleashed an outpouring of passion from the community and Star Atlas team members.\nTherefore, we needed something special that would celebrate those efforts, share awareness of what is coming, and, overall, let everyone experience a taste of their own Star Atlas dream.\nTwo points presented themselves as we brainstormed the fundamentals of COPA.\nThe festival should be all about the DACs of Star Atlas, as the major representation of our community.\nWe must make it a fun and engaging live event, similar in feel to our own company events, Town Halls, Twitter Spaces, and Atlas Brews.\nIt was quickly agreed that the main focus of COPA, from this first edition to the thousandth, should be on the DACs of Star Atlas, as they are the diamond at the center of our galaxy.\nWe also found priceless partners that jumped at the chance to accompany us on this adventure, sharing their knowledge and insights about our ecosystem here on Solana and Web3. Making appearances at COPA was:\nMatt Sorg - Chief Gaming Product and Technology of Solana Labs. Matt formerly worked at Riot Games and Unity Games.\nKing Perez - IBUYPOWER Marketing Executive Producer and Global Business Developer, representing one of our great partnerships and the lead sponsor of COPA. The company designed the first Star Atlas-branded PC, complete with the highest specs available on the market, which was given to one of our community members through a random raffle. Then King surprised the audience with the announcement of additional festival prizes: 5 eclipse HG10 wireless headsets with Bluetooth and 30-hour battery life.\nYGG - one of the OG Metaverse Guilds with thousands of scholars all around the globe sharing their experience in creating a guild and global brand.\nJustin Kan - A man who needs no introduction, co-founder of Twitch, creator of Fractal, and one of the biggest web3 gaming advocates, Justin shared his love for Star Atlas and our entire ecosystem, as well as giving his perspective on the crypto gaming industry.\nBut the real stars of the show were our DACs and the stellar presentations they shared. Their work portrayed the unique visions and values of our DACs, and the high level of commitment and effort that was put into them made every team member of Star Atlas proud to be part of this project.\nIn the next section, let’s take a deeper look at what the DACs of Star Atlas showed to the web3 world.\nThe DACs of COPA\nOur finalists /// Triple-A Metaverse Work in Progress /// Immersive Unreal Engine 5 Experience\nThe DACs journey toward COPA began on May 20, 2022, with the invitation of every single guild of Star Atlas to make a presentation for the Star Atlas team, their peers, and the whole community about themselves and the vision that they have for the Star Atlas Metaverse.\nAs per the invitation, those presentations would be judged, taking into consideration three different criteria:\nGrowth — Guild’s plan to expand in users, resources, and assets.\nProduct Development — Strategic outlook, business model, competitive advantages, gaming expansion, product build, community initiatives, etc.\nEcosystem Integration — Lore, community, inclusiveness, Guild culture, and Guild values.\nAs the Star Atlas team received their first applications, we had our first big surprise. Some of the applications deviated directly from the criteria specifically determined in the article. They were exceptionally well made but seemed to be deliberately missing the point of sharing the details of their plans, especially regarding the Product Development criteria.\nSome team members were concerned we weren’t clear enough with the directions, but others only smiled. As one explained: “This is Star Atlas, and some of those guilds decided that this is the best play in the political game. Now, they will have some degree of exposure, get a meeting with the team, while not disclosing anything to the other competing DACs.”\nAt this moment, everyone in the google meets call had chills running down their ancient MUD spines. You could see the thrill on everyone’s faces of seeing the strategy game of Star Atlas already taking shape at such an early stage.\nAfter this initial positive shock, the team delved deeper into the many quality applications — 39 to be exact - each one of them featuring a unique set of values, strategies, and a vision for a metaverse community. Unfortunately, considering the constraints of the event duration, we had to make a first cut, choosing fifteen guilds to represent the DACs and factions of Star Atlas before the judges of the Council of Peace.\nHere is the list of the chosen ones in alphabetical order:\nAephia Industries\nThe Atlessio Family\nBrazilian StarAtlas Alliance — BSA\nCOEXIST\nThe Club\nCy-Ops: Bounty Hunters\nDark Matter\nDEEP Profits\nFinal Frontier\nGargantua Industries\nHeimdall Industries\nInterstellar Alliance\nQuimera\nStar Atlas Italia (SAI)\nVnonymus-Star VYS\nEven though all submissions were high quality, the selected fifteen did the best job of meeting the criteria stipulated on the COPA invitation. Hence, they were picked to advance to the second phase.\nA lot was on the line. Aside from the meeting with the team that every submitting DAC was entitled to, they would be fighting for ship prizes: 1st place — $5k USDC worth of spaceships, 2nd place — $2.5k USDC worth of spaceships, and 3rd place — $1k USDC worth of spaceships. And perhaps even more importantly, the winner would earn the eternal glory of being the first COPA champion in the history of the Star Atlas Metaverse.\nWhen June 16 finally arrived, the Guilds each presented for ten minutes and then faced the judges: Enantel Artanis, the first judge of COPA, representing Humankind as the ambassador of the Manum Ultima Divina before the Council of Peace. Pac.Eldr, the second judge of COPA, rallying from the trenches of the Convergence War. He lived through the years of strife, and now, as one of the leading generals of the Ustur Faction fleet. Last but not least, the third judge was the Rev OPS CRO of Busan Industries, the legendary manufacturer who built the first Titan Ship: Mr. Elicnalu represented the ONI Consortium.\nThe judges explored the different DACs presentations, testing their conclusions and asking questions that needed clarification. The representatives from the DACs accepted the challenge and expanded on their vision for the future of their guilds and Star Atlas.\nAfter their presentations, with the thrill of the work finally completed, the guilds were invited to the Brew Tent, where Santiac and ZeSKK waited for them for a bit of relaxation and informal discussion. Members of the community from different DACs drank their own beverages, sharing stories and the experience of going to the stage before five hundred passionate people and a wild discord chat.\nAfter all the presentations were done, the judges had the difficult job of determining who were the champions of the very first edition of COPA. Finally, at the end of the festival day, our own Michael Wagner announced the winners:\nIn the First place — COEXIST\nIn the Second place — Dark Matter\nIn the Third place — The Club\nNeedless to say, your faithful reporters covering the event for the Atlas Star were blown away by the presentations, and the efforts of the guilds will resonate for years to come. The team was humbled by the dedication of the crowd, who stayed through an entire weekday with us, never dropping below 435 people on the main stage during the hardest bear market in years, especially the DACs for the fabulous work they put into COPA.\nNow it’s time to delve into the other news dropped by an experienced and savvy team at COPA.\nThe Alphas of COPA\nIris is awaiting. /// Triple-A Metaverse Work in Progress /// Immersive Unreal Engine 5 Experience\nThe guilds were not the only ones busy during the COPA day! Many Star Atlas team members hit the main stage and the Brew Tent to brighten the event!\nAshley, our galactic hostess, worked like a maestro for the whole day. She made sure that the symphony of our festival didn’t miss a single note while a giant crew worked backstage. The men and women behind the scenes coordinated the music, attractions, and recording, checked in the participants, and managed the thousands of other little details that made this day special. Here’s a huge shout-out to all of you — thank you!\nOn stage, we had directors and project managers from many different areas come to tell us about their exciting developments, like Luciano Castillo from our Galactic Market Place project; Estefan Ramirez, talking about the partnerships and the Star Atlas merchandise project; Anthony Mason announcing the referral program in the making; Mo Yazdani sharing the developments of SCREAM; and our Chief Revenue Officer Pablo Quiroga, who spoke with Justin Kan about the web3 ecosystem and Star Atlas’ leading position within it.\nThe final and tastiest cherry on top of the COPA cake was our CEO Michael Wagner’s closing remarks, weighted down with juicy alpha. Michael said that the community could expect — not one, not two, not 3 — but 6 different launches in the next 4 to 6 weeks!\nHere is the list:\nThe Showroom — The first Unreal Engine 5 experience of Star Atlas, the Showroom is the place in which players can connect their crypto wallets and load their NFT ships to view, engage and interact together with other players in the community. At launch, most of the ships will be available, and a part of them will be visible through blockout only. Full display of the entire Star Atlas fleet will be integrated in future versions of the Showroom.\nThe Galactic Marketplace — A huge update on the current marketplace of Star Atlas will take place this summer. We are transitioning into a game auction house structure that will enable players to easier acquire and sell their digital properties in a much more simplified and efficient structure. This will also serve as the basis for integrating other projects with the Marketplace structure in the future.\nThe Graphic Novel — For the first time, Star Atas announced the launch of its own graphic novel! Although elements of the plot were not revealed, we learned that the story will be based on the events that predate the treaty of peace, making it a prequel to the point where we are now. Michael also added in his speech that the book will be available in NFT and physical forms, and easter eggs of the comic book might be linked with the Showroom project, so keep your eyes open!\nThe Star Atlas Dao Framework and The Polis DAO Locker — The polis-related alpha was so big that it actually entails two different features for the community. This first version of the governance and staking mechanisms for the Star Atlas DAO is coming out in July, giving the members of our community the ability to stake their POLIS, view balances, voting weight, and eventually participate in governance within the Star Atlas ecosystem.\nThe Community Referral Program — Another highlight of COPA, it was with great enthusiasm that a referral program was announced to be coming soon. In conjunction with the new Marketplace, it will allow current players to be rewarded for bringing new players into the ecosystem in a multi-layered reward system.\nNow that we covered pretty much all the content regarding COPA, it’s time that we share the space with the most epic report of the galaxy, the Punaab Whisper, which has an exciting story to share on this edition of the Atlas Star.\n. . .\nThe Punaab Whisper — The Atlas Star Tabloid\nDear Readers! We are back for a new edition of the Punaab Whisper, and today your favorite Punaab is sharing the details of a very exclusive and exotic interview that we had with one of the longest-living rulers of the galaxy. I’m talking, of course, about the High Matron of the Oxir’s, Odette.\nThe High Matron received me in the Oxir embassy inside the Council of Peace. Even though you can see the wisdom of the ages in her countenance, I dare say that she moved with unnatural vigor, receiving me with a smile while standing to serve me a mixture of exotic brew leaves.\nThe room was surrounded by guards in exotic suits that reminded me of animals. Curiously enough, many of them were open on a particular point on their back, revealing a tattoo. After some research, I learned that the principal warriors of the tribe have a link with a legendary animal called Avatena, or maybe it’s a constellation. Honestly, I couldn’t find a reliable source for this.\nNevertheless, the curious part of the meeting was not the gaze I felt from the Avatena, but the smile and the reason the Oxir leader called me.\nAfter a surprisingly delicious cup of tea, she said that she was asked to deliver a package to me which was surprisingly heavy. As I opened it, an ancient, heavy stone tablet fell out of the box and nearly broke my paw.\nEven though I often practice my knowledge of ancient languages, I had a hard time deciphering some of the inscriptions, which the good Matron clarified for me. They read as the following:\nThe Seasons Tale\nIn the beginning, there was Time.\nTime was not created, but simply was before anything else was, and for eons, it traveled across the emptiness by itself, without purpose or aim. It just went forward, not even aware of its own existence.\nThen time met creation.\nCreation was a glorious statue in which nothing happened, and everything stood perfectly still. All possibilities, all dreams, and all hopes captured frozen, like a painting on a canvas.\nAs Time perceived Creation in the distance of emptiness, it discovered itself, by a burning feeling of desire, and he accelerated, with all his might, towards Creation.\nIn the beautiful instant that the grasp of Time finally touched creation, they fell in love, and everything made sense to them.\nTime’s kiss made Creation brim with life, colors, movement, and change. Creations embrace gave Time purpose to develop and bring forward the full potential of everything that was.\nAn instant after their joyful reunion, they learned about sorrow because time could not stop, and they both knew that the farther Time went away from Creation, the more they would return to their original states, an immovable statue, and a meaningless stream.\nCreation, then, had an idea. It took some of Time’s essence and nurtured it in its core, making Time part of Creation, so everything under creation would happen according to a particular time.\nThis gave birth to the sons and daughters of Time and Creation, the Seasons, which would rule the development and growth of everything that would happen under their parent’s love.\nSummer, Fall, Winter, and Spring, each one represents the essence of a particular moment when Time and Creation first touched. Legend says that they will rule the cosmos until Time and Creation manage to meet again.”\n. . .\nAs you can imagine, dear readers, this reporter was struck with many questions upon reading this… story? But the Matron said that she had completed her mission and that I should turn now to finish mine.\nAs a good journalist, I insisted on asking my questions to understand the meaning of all of this, but Odette just smiled and told me she had other things to do.\nAt that moment, two of the Avatena’s “escorted” me out of the room. I shouted my final question: “Who sent the package for me?” As I was pushed down the corridor, I could hear her voice, loud and clear, saying one name.\nIris.\nThis was my bizarre adventure with the Oxir tribe, dear readers, and even now, I keep trying to find more clues about the meaning of this story or who wanted the story to find itself in my hands.\nIf you have any information, please, do reach out to the Punaab Whisper’s staff.\nAs always, thank you for your support, and we hope you’ll be back for the next issue, where we, hopefully, will be able to bring the story that was initially programmed about the tale of the nearly extinct Mni flower. Keep your eyes open, and have a good weekend!\n. . .\nUpdates\nLet’s take a look at what the Star Atlas team has recently accomplished in terms of corporate infrastructure, development of projects, and community building.\nThe first stop is the Sapient Resources Department Report.\nSapient Resources Department Report\nAs the crusade for constructing our metaverse continues, the Sapient Resources Department continues to challenge all odds, acquiring new talents for the Star Atlas project. Let’s check on their progress in the last few weeks!\nCommunication\nThese have been epic weeks for the soldiers on the front lines of Star Atlas. The communications team supported many events while keeping the community up to date with the developments of various Star Atlas projects. Check out their work!\nThe Atlas Brew\nThe last episodes of the brew leaned heavily on COPA and Star Atlas Q3 overall. It’s worth checking how the different DACs of our ecosystem organized themselves and anticipate the effects of Star Atlas Summer!\nYou can watch/listen to the episodes on the YouTube channels offered by our community by clicking on the links below:\nEpisode # 13 — Mid-Risk Zone:\nhttps://www.youtube.com/watch?v=vKZO3wVtYhQ\nEpisode # 14 — SCREAM:\nhttps://www.youtube.com/watch?v=sxs05bJoNHM\nEpisode #15 — Star Atlas Q3 plans:\nhttps://www.youtube.com/watch?v=Ewfv8z6m qcc\nEpisode # 16 — The Guild Ecosystem and COPA:\nThe Atlas Brew 16 feat. Zeskk & Santi\nEpisode # 17 — Guild Recruitment and COPA Preparations:\nThe Atlas Brew #17\nEpisode #18 — COPA afterparty:\nhttps://www.youtube.com/watch?v=-kG4PHsA7tA\nRoadmap Lore Reports\nA dream within a dream /// Metaverse in Light Speed Expansion /// Immersive Blockchain-Powered UE5 Experience\nIt’s been lore season for the community of Star Atlas! The weekly report lore has progressed quite a bit since the last newsletter, and four whole new chapters were delivered to expand on the galaxy of Star Atlas. Among them is a very special COPA-focused episode, where we learn that most of the factions are preparing themselves for the uncertainties of the future.\nOur lore resumed on episode number seven, Mierese Dance in The Blizzard: Star Atlas Roadmap Scan #07, where Wenn, Yago, Fang, and Pawn are ambushed by the nightmarish creature Atoph. During the fight, Yago is exposed to the creature’s vile blood, and his life is hanging by a thread, while the rest of the group tries to retreat to the relative safety of the capital of Gerio.\nThe next issue, Ustur CEO — The hidden enemy: Star Atlas Roadmap Scan #08 takes us to the other side of the galaxy, where after a seeming fortuitous meeting approved the realization of the Council of Peace Assembly. This sudden political movement instilled suspicion in the old ustur, which starts looking into data and realizing the formation of old patterns, patterns that, one hundred years ago, ignited the galaxy in war.\nAfter that, we had our biggest episode up to this date, Scenes from a galaxy in movement: Star Atlas Roadmap Scan #09. In this episode, we have a collection of small stories, all sharing old and new character’s perspectives about the latest political development in the galaxy. All faction’s eyes are now on COPA, and everyone is looking forward to seeing what the different DACs and Guilds will show before the Council of Peace.\nFinally, in the last launched episode, ONI Dream within a Dream — Part I: Star Atlas Roadmap Scan #10. The plot returns to Yago’s battle for his life on the cold planet Gerio. As his consciousness swayed more and more into the darkness, the mierese is confronted with a past that he longed to forget.\nWe hope you guys are enjoying the unfolding Star Atlas Metaverse in our weekly lore. To succeed in the future it can help to know the past.\nEvent Updates\nIn the last few weeks, Star Atlas has managed to close many important partnerships that will directly benefit the community and ecosystem of our metaverse!\nStar Atlas and MoonPay partnership to onboard people into crypto gaming\nAs most of our crypto native community members already know, MoonPay is the leading global crypto payments infrastructure provider and will be responsible for facilitating fiat-to-crypto payments within the Star Atlas ecosystem.\nWe foresee that this partnership will foster our exposure to a much broader audience, enabling people that are still new to the web3 crypto world to interact with Star Atlas, especially those coming to us from our upcoming referral program.\nYou can check the details of this initiative in the following article.\nStar Atlas and IBUYPOWER partner to onboard gamers to the metaverse\nStar Atlas is all about triple-A quality. We strive to be the best and build the most compelling gaming metaverse experience possible, so it was only natural that we would find partners with the same ethos that could support this triple-A quality for our gaming community.\nHence, the synergy between Star Atlas and IBUYPOWER. Our community had the first taste of this awesome partnership during COPA, with the first-ever Star Atlas-branded PC, a monster in hardware form that defines the state of the art in the gaming industry. However, this is only the beginning, and the whole community will soon be amazed by what our two powerhouses can build together! Check out the details of this partnership in the following article.\nStar Atlas and Kudelski Security exclusive partnership to explore and develop security standards\nOur obsession for perfection comes in every single aspect of our project, and security is a major foundation of Star Atlas as we are dealing with our beloved community tokens and NFTs on a daily basis.\nThat’s why we needed to partner with the absolute best when it comes to security, and we found that ideal partner in Kudelski, the global leader in digital security and the leading provider of security solutions for large blockchain-based applications, and ecosystems.\nLearn everything about the terms of this partnership in the following article.\nProduct Development\nWe also want to share the latest on the various product fronts. Follow the updates of the GAO ship drop, Showroom, SCREAM, Galactic Marketplace, The Star Atlas Dao, and System Polishing.\nGAO Phase 2 Progress\nThe shipbuilding industries within Star Atlas don’t halt their production hardly ever, not even for COPA, and so shining new models have been continuing to hit the market. Check out the new models of the last few weeks!\nWhat is hidden in a maiden’s heart?\nBusan Maiden Heart\nWhen it comes to shipbuilding, Busan is poetry in form, but the new Maiden Heart — the first in the line of its manufacturer in terms of capital ships — is a love story all its own. With the stealth capabilities that are particular to the ONI builders combined with an arsenal capable of annihilating entire fleets, this Maiden’s heart is ready to defend itself and those she loves.\nBow down to the might of Ogrika\nOgrika Tursic\nOgrika is, by nature, synonymous with sophistication, and the Tursic is a paramount example of this manufacturer’s disposition of destroying their enemies with style. Made with pure gold and luxurious onboard accommodations, this ship offers a simple message for those daring to challenge the fleet of its owner: Know your place.\nA mission acquired is a mission complete\nFimbul Mamba\nThe Mamba manufacturer has the most precise piece of propaganda in the industry: “The Mamba has everything you need and nothing you don’t.” This ship is precisely what it’s meant to be, a machine of war dedicated to hunting its prey and locking them up for delivery. A warning is necessary though, and it comes in very small letters at the end of the contract: “Fimbul makes no express or implied warranty as to the condition of the brig or its fitness for the particular purpose of keeping bounties detained in the brig comfortable (or even alive).”\nProjects Report Weekly Update\nAs per our tradition, we let the characters of our metaverse have a break on Atlas Star weeks. Nevertheless, we still have weekly reports ready for you. Check them out!\nProject: Showroom Alpha — Weekly Update\nConcept Art: DONE /// Art: DONE /// UX/UI: DONE /// Game Design: DONE /// Blockchain: BUILDING /// Core Gameplay Development: BUILDING\nUpdates: Done for Release V0. /// Done. Bug-fix only. /// Done. Bug-fix only. /// Done. /// Wallet integration prep. in progress. /// Last tasks related to options/feedback, bug-fix.\nUpcoming activities: wallet integration. /// Bug-fix.\nProject: Ship Missions — SCREAM — Weekly Update\nGame Design: PROTOTYPING /// Blockchain: PROTOTYPING/// UX DESIGN: PROTOTYPING /// UI: PROTOTYPING /// Game Economics: R&D /// WEB: BUILDING\nUpdates: Continuing to define explicit requirements for core gameplay mechanics and game systems design, with a focus on combat and movement. Finished prototypes for starbase upgrading and planetary resource extraction. /// Continuing to build hangar program and cargo program. Redesigning star system program and movement program. /// Continuing low fidelity wireframes based on updated requirements. Continuing Information Architecture map. /// Continuing building SCREAM screens. Focused on Main Menu Screen and Settings Screen. /// Risk evaluation of gameplay mechanics. /// Changed Status from Prototyping to Building.\nUpcoming activities: Continue to define explicit requirements for core gameplay mechanics and incorporate feedback from SCREAM stakeholders. Validate gameplay loops playability with WebGL Proof of Concept. Assess the feasibility of game mechanics with blockchain program proof of concepts. Validate economic viability from internal Game Economics team. Guide UX/UI design based on game mechanics. /// Test and refine prototypes across all SCREAM teams and stakeholders. Build, peer review, and test programs on testnet, then audit — Review wireframes with Project Stakeholders. Continue to iterate until wireframes are approved. Hand over wireframes to the UI team. /// Continue to build out UI screens and elements. /// Determine game balancing tactics/ contingency + scenario planning. /// Build towards playtesting and validate gameplay loops that require higher fidelity game.\nProject: Galactic Marketplace — Weekly Update\nBlockchain: BUILDING /// UX/UI: BUILDING /// FRONT END: BUILDING /// MARKETING: BUILDING\nUpdates: Audit complete without issue. /// Support front-end team throughout final implementation of the new marketplace, added new designs for the home page to add links for showroom and scream. /// StarCOMM fully integrated with live data, UI 99% done, starting design reviews, filter sidebar done. /// Coordinate with the marketing team to prepare a knowledge base. Record videos on how-tos and prepare to campaign on the transition from the current market to the next one.\nUpcoming activities: Support to front-end team, ongoing design reviews. /// QA process, collecting internal feedback.\nProject: DAO — Weekly Update\nProduct Design: COMPLETED /// UX Design: COMPLETED /// FRONT END: BUILDING /// ECONOMICS: BUILDING\nUpdates: Building high fidelity components, integrating locker functions. /// Assisting ongoing audits and front end (web3) team.\nUpcoming activities: End-to-end testing and validation. /// ATLAS staking program to be submitted for audit.\nProject: System Polishing\nWith new and revamped products nearing launch, the Polish Team has joined the building effort and will return to polishing of newly released projects upon launch. Until then, polishing will receive no updates.\nABOUT STAR ATLAS\nStar Atlas is a next-gen gaming Metaverse emerging from the confluence of state of the art blockchain, real-time graphics, multiplayer video game, and decentralized financial technologies.\nReal-time graphics technology using Unreal Engine 5’s Nanite allows for cinematic quality video game visuals. Blockchain technology using the Solana protocol establishes a largely serverless and secured gameplay experience. Non-fungible tokens obtained and traded within Star Atlas create an economy that replicates the tangibility of real world assets and ownership. To learn more, visit StarAtlas.com, join a faction at Play.StarAtlas.com and send your spaceships on a deep space mission by enrolling them into a Faction Fleet.\nJOIN OUR COMMUNITY\nTwitter | Discord | Telegram | Youtube | Instagram | Reddit | Facebook | Linkedin | Medium | Tik Tok | Twitch\nDisclaimer\nThe updates in this report are provided for informational purposes only about the Star Atlas game and metaverse, for which ATMTA, Inc. is the lead developer. Except for statements of historical fact, the statements included herein are forward-looking statements that are based on the beliefs of ATMTA, Inc.’s management as well as assumptions made by and information currently available to ATMTA, Inc.’s management. Although ATMTA, Inc.’s management believes these forward-looking statements are based on reasonable assumptions, there can be no assurance that forward-looking statements will prove to be accurate, as actual results and future events could differ materially from those anticipated in such statements. ATMTA, Inc. undertakes no obligation to update forward-looking statements if circumstances or management’s estimates or opinions should change except as required under applicable law. These forward-looking statements are, by their nature, subject to significant risks and uncertainties and include, without limitation, statements about ATMTA, Inc.’s business prospects, future developments, industry and market trends and conditions, strategies, objectives, and goals. These statements are not guarantees of future performance and undue reliance should not be placed on them. No financial, tax, or legal advice is given or implied.\nPrev\nInaugural COPA Festival Winners Make History\nNext\nThe Star Atlas DAO — The Game of POLIS\nBy its very nature, Star Atlas is a political game as players, regions, and factions fight for the dominance of the galaxy and its scarce resources. With the Star Atlas DAO, our community will have the institutional infrastructure to determine the universe’s fate. Follow us and learn more about the most dangerous battlefront within Star Atlas.\nTrailer\nWe use cookies to enhance your experience and analyze our site usage.\nPlease see our Privacy Policy\nfor more information.\nAccept Cookies",
+  "content_hash": "8c13c8095a455359da74769e07996caeea972c5befacad701a42fa7d3b1b9f8a",
+  "entities": [
+    "ATLAS",
+    "ATMTA",
+    "Aephia",
+    "CORE",
+    "Crew",
+    "Dark Matter",
+    "Faction Fleet",
+    "Galactic Marketplace",
+    "Michael Wagner",
+    "MoonPay",
+    "POLIS",
+    "Pablo Quiroga",
+    "Quimera",
+    "SCREAM",
+    "Showroom",
+    "Solana",
+    "Star Atlas DAO",
+    "The Club",
+    "iBUYPOWER"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-F9654AA6FF1D8010-01",
+      "text": "The Atlas Star ✧ Issue #8 | Star Atlas Play Now Economic Reports White Paper • PDF Read Our Official White Paper!",
+      "claim_type": "LORE_STATEMENT",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F9654AA6FF1D8010",
+      "publication_date": "2022-06-25",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F9654AA6FF1D8010-02",
+      "text": "Another highlight of the current edition comes in detailing our CEO Michael Wagner’s speech regarding the launch of six different projects in the next 4–6 weeks.",
+      "claim_type": "LORE_STATEMENT",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F9654AA6FF1D8010",
+      "publication_date": "2022-06-25",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F9654AA6FF1D8010-03",
+      "text": "You will learn more about the new Galactic Marketplace, The Showroom program, Star Atlas DAO, The Prequel Graphic Novel, and the Referral Program.",
+      "claim_type": "LORE_STATEMENT",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F9654AA6FF1D8010",
+      "publication_date": "2022-06-25",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F9654AA6FF1D8010-04",
+      "text": "Not only that, in this issue of the Atlas Star ✧, the official Star Atlas newsletter wherein all things start and end, you will also learn of the latest details related to project developments, partnerships, contests, assets, and everything else that happened in the Star Atlas ecosystem in the last few weeks.",
+      "claim_type": "LORE_STATEMENT",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F9654AA6FF1D8010",
+      "publication_date": "2022-06-25",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F9654AA6FF1D8010-05",
+      "text": "As the team grew to believe the project was mature enough to start another cycle of product releases, it became clear that we needed to mark the start of this new phase.",
+      "claim_type": "LORE_STATEMENT",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F9654AA6FF1D8010",
+      "publication_date": "2022-06-25",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F9654AA6FF1D8010-06",
+      "text": "Reaching out as we did to the community, this second phase of development unleashed an outpouring of passion from the community and Star Atlas team members.",
+      "claim_type": "LORE_STATEMENT",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F9654AA6FF1D8010",
+      "publication_date": "2022-06-25",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F9654AA6FF1D8010-07",
+      "text": "We must make it a fun and engaging live event, similar in feel to our own company events, Town Halls, Twitter Spaces, and Atlas Brews.",
+      "claim_type": "LORE_STATEMENT",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F9654AA6FF1D8010",
+      "publication_date": "2022-06-25",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F9654AA6FF1D8010-08",
+      "text": "We also found priceless partners that jumped at the chance to accompany us on this adventure, sharing their knowledge and insights about our ecosystem here on Solana and Web3.",
+      "claim_type": "LORE_STATEMENT",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F9654AA6FF1D8010",
+      "publication_date": "2022-06-25",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F9654AA6FF1D8010-09",
+      "text": "King Perez - IBUYPOWER Marketing Executive Producer and Global Business Developer, representing one of our great partnerships and the lead sponsor of COPA.",
+      "claim_type": "LORE_STATEMENT",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F9654AA6FF1D8010",
+      "publication_date": "2022-06-25",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F9654AA6FF1D8010-10",
+      "text": "The company designed the first Star Atlas-branded PC, complete with the highest specs available on the market, which was given to one of our community members through a random raffle.",
+      "claim_type": "LORE_STATEMENT",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F9654AA6FF1D8010",
+      "publication_date": "2022-06-25",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F9654AA6FF1D8010-11",
+      "text": "Then King surprised the audience with the announcement of additional festival prizes: 5 eclipse HG10 wireless headsets with Bluetooth and 30-hour battery life.",
+      "claim_type": "LORE_STATEMENT",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F9654AA6FF1D8010",
+      "publication_date": "2022-06-25",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F9654AA6FF1D8010-12",
+      "text": "As per the invitation, those presentations would be judged, taking into consideration three different criteria: Growth — Guild’s plan to expand in users, resources, and assets.",
+      "claim_type": "LORE_STATEMENT",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F9654AA6FF1D8010",
+      "publication_date": "2022-06-25",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F9654AA6FF1D8010-13",
+      "text": "They were exceptionally well made but seemed to be deliberately missing the point of sharing the details of their plans, especially regarding the Product Development criteria.",
+      "claim_type": "LORE_STATEMENT",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F9654AA6FF1D8010",
+      "publication_date": "2022-06-25",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F9654AA6FF1D8010-14",
+      "text": "Now, they will have some degree of exposure, get a meeting with the team, while not disclosing anything to the other competing DACs.” At this moment, everyone in the google meets call had chills running down their ancient MUD spines.",
+      "claim_type": "LORE_STATEMENT",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F9654AA6FF1D8010",
+      "publication_date": "2022-06-25",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-F9654AA6FF1D8010-15",
+      "text": "He lived through the years of strife, and now, as one of the leading generals of the Ustur Faction fleet.",
+      "claim_type": "LORE_STATEMENT",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-F9654AA6FF1D8010",
+      "publication_date": "2022-06-25",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Faction Fleet",
+    "Galactic Marketplace",
+    "Showroom",
+    "CORE",
+    "POLIS",
+    "ATLAS",
+    "SCREAM",
+    "Crew"
+  ],
+  "governance_items": [],
+  "lore_items": [
+    "MUD",
+    "ONI",
+    "Ustur",
+    "Convergence War"
+  ],
+  "actors": [
+    "Michael Wagner",
+    "Pablo Quiroga"
+  ],
+  "organizations": [
+    "ATMTA",
+    "Star Atlas DAO",
+    "Solana",
+    "MoonPay",
+    "iBUYPOWER"
+  ],
+  "guilds": [
+    "Aephia",
+    "The Club",
+    "Quimera",
+    "Dark Matter"
+  ],
+  "external_sources": [
+    {
+      "url": "https://experience.staratlas.com/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://play.staratlas.com",
+      "anchor_text": "Play Now"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/economic-reports/",
+      "anchor_text": "Economic Reports"
+    },
+    {
+      "url": "https://experience.staratlas.com/assets/pdfs/white-paper.pdf",
+      "anchor_text": "White Paper • PDF Read Our Official White Paper!"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/governance-documentation",
+      "anchor_text": "Governance Documentation Learn how Star Atlas is governed and built by its community."
+    },
+    {
+      "url": "https://coinmarketcap.com/currencies/star-atlas/",
+      "anchor_text": "CMC"
+    },
+    {
+      "url": "https://www.coingecko.com/en/coins/star-atlas",
+      "anchor_text": "CoinGecko"
+    },
+    {
+      "url": "https://coinmarketcap.com/currencies/star-atlas-polis/",
+      "anchor_text": "CMC"
+    },
+    {
+      "url": "https://www.coingecko.com/en/coins/star-atlas-dao",
+      "anchor_text": "CoinGecko"
+    },
+    {
+      "url": "https://twitter.com/staratlas",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://discord.gg/staratlas",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://t.me/staratlasgame",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://www.reddit.com/r/StarAtlas/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://www.facebook.com/StarAtlasMMO",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://www.instagram.com/staratlasgame/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCt-y8Npwje5KDG5MSZ0a9Jw",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://www.twitch.tv/staratlasgame",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://experience.staratlas.com/terms-of-service",
+      "anchor_text": "Terms of Service"
+    },
+    {
+      "url": "https://experience.staratlas.com/privacy-policy",
+      "anchor_text": "Privacy Policy"
+    },
+    {
+      "url": "https://experience.staratlas.com/promotional-terms-and-conditions",
+      "anchor_text": "Promotional Terms"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/news",
+      "anchor_text": "Back"
+    },
+    {
+      "url": "https://www.notion.so/staratlas/72cb710bbd894cd8819bde948e42ac31?v=6146a2da2c0a45b58e0c4fb1c0a2d845",
+      "anchor_text": "project developments"
+    },
+    {
+      "url": "https://medium.com/star-atlas/introducing-copa-a-festival-of-guilds-dc57df0f088d",
+      "anchor_text": "Medium articles"
+    },
+    {
+      "url": "https://medium.com/star-atlas/the-atlas-star-issue-5-60af7ed85101",
+      "anchor_text": "diamond at the center of our galaxy"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=vKZO3wVtYhQ",
+      "anchor_text": "https://www.youtube.com/watch?v=vKZO3wVtYhQ"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=sxs05bJoNHM",
+      "anchor_text": "https://www.youtube.com/watch?v=sxs05bJoNHM"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Ewfv8z6mqcc",
+      "anchor_text": "https://www.youtube.com/watch?v=Ewfv8z6m qcc"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=U3KE4AAyQxY",
+      "anchor_text": "The Atlas Brew 16 feat. Zeskk & Santi"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=pJkcoA7k9O0",
+      "anchor_text": "The Atlas Brew #17"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=-kG4PHsA7tA",
+      "anchor_text": "https://www.youtube.com/watch?v=-kG4PHsA7tA"
+    },
+    {
+      "url": "https://medium.com/star-atlas/mierese-dance-in-the-blizzard-star-atlas-roadmap-scan-07-e4408dbb3114",
+      "anchor_text": "Mierese Dance in The Blizzard: Star Atlas Roadmap Scan #07"
+    },
+    {
+      "url": "https://medium.com/star-atlas/ustur-ceo-the-hidden-enemy-star-atlas-roadmap-scan-08-7d9573eb70aa",
+      "anchor_text": "Ustur CEO — The hidden enemy: Star Atlas Roadmap Scan #08"
+    },
+    {
+      "url": "https://medium.com/star-atlas/scenes-from-a-galaxy-in-movement-star-atlas-roadmap-scan-09-24995975940c",
+      "anchor_text": "Scenes from a galaxy in movement: Star Atlas Roadmap Scan #09"
+    },
+    {
+      "url": "https://medium.com/star-atlas/oni-dream-within-a-dream-part-i-star-atlas-roadmap-scan-10-4c67c97c80a0",
+      "anchor_text": "ONI Dream within a Dream — Part I: Star Atlas Roadmap Scan #10"
+    },
+    {
+      "url": "https://medium.com/star-atlas/star-atlas-partners-with-moonpay-to-provide-an-onramp-for-next-wave-of-metaverse-citizens-8e32b83b7203",
+      "anchor_text": "following article"
+    },
+    {
+      "url": "https://medium.com/star-atlas/star-atlas-and-ibuypower-partner-to-onboard-gamers-to-the-metaverse-635e32cf7a3a",
+      "anchor_text": "following article"
+    },
+    {
+      "url": "https://itsecuritywire.com/news/star-atlas-introduces-initiative-to-establish-web3-security-framework/",
+      "anchor_text": "following article"
+    },
+    {
+      "url": "https://play.staratlas.com/market/8kn57Qb8S9AiPV8isUNwk6oCYPMSLFAVPwuXbyCSkS6i",
+      "anchor_text": "Busan"
+    },
+    {
+      "url": "https://play.staratlas.com/market/rrmC29ABvCvx6FzqS3FPZLwLxkvYRtcMUTBrR21F2Y6",
+      "anchor_text": "Ogrika"
+    },
+    {
+      "url": "https://play.staratlas.com/market/9yTCzeiveufHJA4LiMaAaw5Rm9KrmeEY4LS16DNyLPQw",
+      "anchor_text": "Fimbul"
+    },
+    {
+      "url": "https://c212.net/c/link/?t=0&l=en&o=3518016-1&h=2748636143&u=https%3A%2F%2Fc212.net%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D3397231-1%26h%3D2982849003%26u%3Dhttp%253A%252F%252Fsolana.com%252F%26a%3DSolana&a=Solana",
+      "anchor_text": "Solana"
+    },
+    {
+      "url": "https://c212.net/c/link/?t=0&l=en&o=3518016-1&h=1530369193&u=https%3A%2F%2Fc212.net%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D3397231-1%26h%3D3652583731%26u%3Dhttps%253A%252F%252Fstaratlas.com%252F%26a%3DStarAtlas.com&a=StarAtlas.com",
+      "anchor_text": "StarAtlas.com"
+    },
+    {
+      "url": "https://c212.net/c/link/?t=0&l=en&o=3518016-1&h=3921988929&u=https%3A%2F%2Fc212.net%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D3397231-1%26h%3D445912205%26u%3Dhttp%253A%252F%252Fplay.staratlas.com%252F%26a%3DPlay.StarAtlas.com&a=Play.StarAtlas.com",
+      "anchor_text": "Play.StarAtlas.com"
+    },
+    {
+      "url": "https://www.reddit.com/r/StarAtlas",
+      "anchor_text": "Reddit"
+    },
+    {
+      "url": "https://www.linkedin.com/company/star-atlas",
+      "anchor_text": "Linkedin"
+    },
+    {
+      "url": "https://medium.com/star-atlas",
+      "anchor_text": "Medium"
+    },
+    {
+      "url": "https://www.tiktok.com/@staratlasmetaverse",
+      "anchor_text": "Tik Tok"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/the-atlassian-newsletter/inaugural-copa-festival-winners-make-history",
+      "anchor_text": "Prev Inaugural COPA Festival Winners Make History"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/the-atlassian-newsletter/the-star-atlas-dao-the-game-of-polis",
+      "anchor_text": "Next The Star Atlas DAO — The Game of POLIS By its very nature, Star Atlas is a political game as players, regions, and factions fight for the dominance of the galaxy and its scarce resources. With the Star Atlas DAO, our community will have the institutional infrastructure to determine the universe’s fate. Follow us and learn more about the most dangerous battlefront within Star Atlas."
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/the-atlassian-newsletter/the-atlas-star-issue-8",
+      "anchor_text": "Trailer"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://experience.staratlas.com/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://play.staratlas.com",
+      "anchor_text": "Play Now"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/economic-reports/",
+      "anchor_text": "Economic Reports"
+    },
+    {
+      "url": "https://experience.staratlas.com/assets/pdfs/white-paper.pdf",
+      "anchor_text": "White Paper • PDF Read Our Official White Paper!"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/governance-documentation",
+      "anchor_text": "Governance Documentation Learn how Star Atlas is governed and built by its community."
+    },
+    {
+      "url": "https://experience.staratlas.com/terms-of-service",
+      "anchor_text": "Terms of Service"
+    },
+    {
+      "url": "https://experience.staratlas.com/privacy-policy",
+      "anchor_text": "Privacy Policy"
+    },
+    {
+      "url": "https://experience.staratlas.com/promotional-terms-and-conditions",
+      "anchor_text": "Promotional Terms"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/news",
+      "anchor_text": "Back"
+    },
+    {
+      "url": "https://play.staratlas.com/market/8kn57Qb8S9AiPV8isUNwk6oCYPMSLFAVPwuXbyCSkS6i",
+      "anchor_text": "Busan"
+    },
+    {
+      "url": "https://play.staratlas.com/market/rrmC29ABvCvx6FzqS3FPZLwLxkvYRtcMUTBrR21F2Y6",
+      "anchor_text": "Ogrika"
+    },
+    {
+      "url": "https://play.staratlas.com/market/9yTCzeiveufHJA4LiMaAaw5Rm9KrmeEY4LS16DNyLPQw",
+      "anchor_text": "Fimbul"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/the-atlassian-newsletter/inaugural-copa-festival-winners-make-history",
+      "anchor_text": "Prev Inaugural COPA Festival Winners Make History"
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/the-atlassian-newsletter/the-star-atlas-dao-the-game-of-polis",
+      "anchor_text": "Next The Star Atlas DAO — The Game of POLIS By its very nature, Star Atlas is a political game as players, regions, and factions fight for the dominance of the galaxy and its scarce resources. With the Star Atlas DAO, our community will have the institutional infrastructure to determine the universe’s fate. Follow us and learn more about the most dangerous battlefront within Star Atlas."
+    },
+    {
+      "url": "https://experience.staratlas.com/newsroom/the-atlassian-newsletter/the-atlas-star-issue-8",
+      "anchor_text": "Trailer"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://experience.staratlas.com/newsroom/the-atlassian-newsletter/the-atlas-star-issue-8",
+    "final_url": "https://experience.staratlas.com/newsroom/the-atlassian-newsletter/the-atlas-star-issue-8",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "response_size": 124776,
+    "retrieved_at": "2026-07-13T01:05:01.101483Z",
+    "elapsed_ms": 266
+  }
+}

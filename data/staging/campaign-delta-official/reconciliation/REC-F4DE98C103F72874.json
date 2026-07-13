@@ -1,0 +1,14 @@
+{
+  "topic": "alpha, claims, economic, how, polis, record, remain, score",
+  "official_source_ids": [
+    "SRC-OFF-340128795CCA03A9"
+  ],
+  "community_source_ids": [
+    "SRC-HNN-DA685C478CE3FDA2"
+  ],
+  "relationship": "COMMUNITY_PRECEDES_OFFICIAL_ANNOUNCEMENT",
+  "finding": "Automated topic overlap on: alpha, claims, economic, how, polis, record, remain, score, the, this, time. Official authority is limited to the official wording; community context remains separately attributed.",
+  "confidence": "LOW",
+  "promotion_candidate": false,
+  "manual_review_required": true
+}

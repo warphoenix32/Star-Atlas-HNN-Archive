@@ -1,0 +1,405 @@
+{
+  "source": {
+    "source_id": "SRC-IH-4F98201A8D14A0A7",
+    "url_id": "URL-4F98201A8D14A0A7",
+    "url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-110/",
+    "inventory_url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-110",
+    "title": "Star Atlas Weekly News Recap #110",
+    "author": "Intergalactic Herald",
+    "publisher": "Intergalactic Herald",
+    "published_at": "2024-04-28T17:00:00",
+    "updated_at": "2024-04-27T18:38:35",
+    "retrieved_at": "2026-07-12T22:03:09.644022Z",
+    "document_type": "NEWSLETTER",
+    "source_role": "CURATED_SUMMARY",
+    "source_classification": "CURATED_SUMMARY",
+    "classification_rationale": "Weekly newsletter/recap aggregates developments and linked sources.",
+    "wordpress_type": "posts"
+  },
+  "summary": {
+    "neutral_abstract": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week. We are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us. We are launching a Star Atlas merch store. Please check it out at Intergalactic",
+    "historical_value": "Contemporary Intergalactic Herald publication preserved with role and attribution boundaries.",
+    "current_validity_warning": "Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources."
+  },
+  "article_text": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week.\nWe are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us.\nWe are launching a Star Atlas merch store. Please check it out at Intergalactic Gear.\nWe are creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic Coalition.\nIf you would like to support our efforts, donations can be sent to intergalacticherald.sol\nStar Atlas: Surge event rules!\nBeyond the Horizon posted a video about the Surge event.\nStar Atlas Surge Event 4/20 Part ONE\nBeyond the Horizon posted a video about him playing Star Atlas Surge.\nSTAR ATLAS SURGE [LIVE]\nMetaVerse Explorer posted a video about him playing Star Atlas Surge.\nMetaverse Nomads #143 Surge and ONI Secures First Tier 2 Starbase w/ @DominicVain\nMetaverse Nomads posted a video of their weekly Star Atlas livestream.\nA Metaverse in Expansion — Star Atlas Acquires Assets and Intellectual Property from Multichain Ventures, including the Tokes brand, and Introduces In-game Cultivation\nStar Atlas published an article about their acquisition of Multichain Ventures.\nWEEKLY STAR ATLAS NEWSLETTER #126\nAephia published their weekly Star Atlas newsletter.\nNoot ASMR lore keepers #1\nStar Atlas TV posted a video replay of the Star Atlas Lore Keepers.\nAtlas Brew #108\nStar Atlas TV posted a video reply of the latest Atlas Brew.\nMichael Wagner Addresses Star Atlas Community Blowback On Acquisition Of Multichain Ventures\nHologram News published an article about Michael Wagner addressing the acquisition of Multichain Ventures.\nSTARBASED – THE MISSING MANUAL!\nAephia updated their SAGE Starbased manual.\nStar Atlas: Cultivation Facilities w/ Tokes Token Integration\nBeyond the Horizon posted a video about Star Atlas cultivation facilities.\nAtlas Brew #108: Community Updates & SURGE TLDR\nBeth posted a video recap of the latest Atlas Brew.\nSTAR ATLAS #230 DRAMA in STAR ATLAS – Commentary On Mikes Message & Tokes Acquisition\nMetaVerse Explorer posted a video about his thoughts on the Tokes acquisition.",
+  "content_hash": "8af5d1550ff17f6b4664a7db8327b6eebb37bd76c8b72b95df7af83686c08712",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [],
+  "external_sources": [
+    {
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ZV7QOqUdesQ",
+      "anchor_text": "Surge event"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=TtCiFK8Uryg",
+      "anchor_text": "Star Atlas Surge"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=uDaUAJO9XXY",
+      "anchor_text": "Star Atlas Surge"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=InBbwglyrUs",
+      "anchor_text": "weekly Star Atlas livestream"
+    },
+    {
+      "url": "https://medium.com/star-atlas/a-metaverse-in-expansion-star-atlas-acquires-assets-and-intellectual-property-from-multichain-597c5f4d7f2c",
+      "anchor_text": "acquisition of Multichain Ventures"
+    },
+    {
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-126/",
+      "anchor_text": "weekly Star Atlas newsletter"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=JX-o55BScck",
+      "anchor_text": "Star Atlas Lore Keepers"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=aokr8QbVO8s",
+      "anchor_text": "latest Atlas Brew"
+    },
+    {
+      "url": "https://hologramnews.com/michael-wagner-addresses-star-atlas-community-blowback-on-acquisition-of-multichain-ventures/",
+      "anchor_text": "addressing the acquisition"
+    },
+    {
+      "url": "https://aephia.com/star-atlas/starbased-the-missing-manual/",
+      "anchor_text": "SAGE Starbased manual"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=zqqjn8ap11M",
+      "anchor_text": "Star Atlas cultivation facilities"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=vNIqIUVY1Ig",
+      "anchor_text": "latest Atlas Brew"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=UHXZVaAFoNo",
+      "anchor_text": "Tokes acquisition"
+    }
+  ],
+  "primary_source_relationships": [
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=ZV7QOqUdesQ",
+      "anchor_text": "Surge event"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=TtCiFK8Uryg",
+      "anchor_text": "Star Atlas Surge"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=uDaUAJO9XXY",
+      "anchor_text": "Star Atlas Surge"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=InBbwglyrUs",
+      "anchor_text": "weekly Star Atlas livestream"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://medium.com/star-atlas/a-metaverse-in-expansion-star-atlas-acquires-assets-and-intellectual-property-from-multichain-597c5f4d7f2c",
+      "anchor_text": "acquisition of Multichain Ventures"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-126/",
+      "anchor_text": "weekly Star Atlas newsletter"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=JX-o55BScck",
+      "anchor_text": "Star Atlas Lore Keepers"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=aokr8QbVO8s",
+      "anchor_text": "latest Atlas Brew"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://hologramnews.com/michael-wagner-addresses-star-atlas-community-blowback-on-acquisition-of-multichain-ventures/",
+      "anchor_text": "addressing the acquisition"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/starbased-the-missing-manual/",
+      "anchor_text": "SAGE Starbased manual"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=zqqjn8ap11M",
+      "anchor_text": "Star Atlas cultivation facilities"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=vNIqIUVY1Ig",
+      "anchor_text": "latest Atlas Brew"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=UHXZVaAFoNo",
+      "anchor_text": "Tokes acquisition"
+    }
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Verify which outbound links are primary sources and preserve creator attribution during promotion."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-110&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 7307,
+    "elapsed_ms": 1780,
+    "attempts": [
+      {
+        "endpoint": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-110&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "http_status": 200,
+        "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-110&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "content_type": "application/json; charset=UTF-8",
+        "response_size": 7307,
+        "elapsed_ms": 1780
+      }
+    ]
+  },
+  "source_lineage": {
+    "publication": "Intergalactic Herald",
+    "publication_role": "CURATED_SUMMARY",
+    "relationship": "CURATED_SUMMARY_OF",
+    "primary_sources": [
+      {
+        "publication": "Surge event",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=ZV7QOqUdesQ",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Surge event"
+      },
+      {
+        "publication": "Star Atlas Surge",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=TtCiFK8Uryg",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas Surge"
+      },
+      {
+        "publication": "Star Atlas Surge",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=uDaUAJO9XXY",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas Surge"
+      },
+      {
+        "publication": "weekly Star Atlas livestream",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=InBbwglyrUs",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: weekly Star Atlas livestream"
+      },
+      {
+        "publication": "acquisition of Multichain Ventures",
+        "author": "UNKNOWN",
+        "url": "https://medium.com/star-atlas/a-metaverse-in-expansion-star-atlas-acquires-assets-and-intellectual-property-from-multichain-597c5f4d7f2c",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: acquisition of Multichain Ventures"
+      },
+      {
+        "publication": "weekly Star Atlas newsletter",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-126/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article with anchor text: weekly Star Atlas newsletter"
+      },
+      {
+        "publication": "Star Atlas Lore Keepers",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=JX-o55BScck",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas Lore Keepers"
+      },
+      {
+        "publication": "latest Atlas Brew",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=aokr8QbVO8s",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest Atlas Brew"
+      },
+      {
+        "publication": "addressing the acquisition",
+        "author": "UNKNOWN",
+        "url": "https://hologramnews.com/michael-wagner-addresses-star-atlas-community-blowback-on-acquisition-of-multichain-ventures/",
+        "organization": "Hologram News Network (HNN)",
+        "evidence": "Direct outbound link preserved in article with anchor text: addressing the acquisition"
+      },
+      {
+        "publication": "SAGE Starbased manual",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/starbased-the-missing-manual/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article with anchor text: SAGE Starbased manual"
+      },
+      {
+        "publication": "Star Atlas cultivation facilities",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=zqqjn8ap11M",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas cultivation facilities"
+      },
+      {
+        "publication": "latest Atlas Brew",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=vNIqIUVY1Ig",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest Atlas Brew"
+      },
+      {
+        "publication": "Tokes acquisition",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=UHXZVaAFoNo",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Tokes acquisition"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "publication": "Intergalactic Gear",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticgear.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Intergalactic Coalition",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticcoalition.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      }
+    ],
+    "original_creators": [
+      "Aephia",
+      "Star Atlas",
+      "Hologram News Network (HNN)"
+    ],
+    "attribution_chain": [
+      {
+        "from": "Surge event",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=ZV7QOqUdesQ"
+      },
+      {
+        "from": "Star Atlas Surge",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=TtCiFK8Uryg"
+      },
+      {
+        "from": "Star Atlas Surge",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=uDaUAJO9XXY"
+      },
+      {
+        "from": "weekly Star Atlas livestream",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=InBbwglyrUs"
+      },
+      {
+        "from": "acquisition of Multichain Ventures",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://medium.com/star-atlas/a-metaverse-in-expansion-star-atlas-acquires-assets-and-intellectual-property-from-multichain-597c5f4d7f2c"
+      },
+      {
+        "from": "weekly Star Atlas newsletter",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-126/"
+      },
+      {
+        "from": "Star Atlas Lore Keepers",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=JX-o55BScck"
+      },
+      {
+        "from": "latest Atlas Brew",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=aokr8QbVO8s"
+      },
+      {
+        "from": "addressing the acquisition",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://hologramnews.com/michael-wagner-addresses-star-atlas-community-blowback-on-acquisition-of-multichain-ventures/"
+      },
+      {
+        "from": "SAGE Starbased manual",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/starbased-the-missing-manual/"
+      },
+      {
+        "from": "Star Atlas cultivation facilities",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=zqqjn8ap11M"
+      },
+      {
+        "from": "latest Atlas Brew",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=vNIqIUVY1Ig"
+      },
+      {
+        "from": "Tokes acquisition",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=UHXZVaAFoNo"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  }
+}

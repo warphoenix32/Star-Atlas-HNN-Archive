@@ -1,0 +1,340 @@
+{
+  "source": {
+    "source_id": "SRC-IH-C6A6044E16635A36",
+    "url_id": "URL-C6A6044E16635A36",
+    "url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-72/",
+    "inventory_url": "https://intergalacticherald.com/newsletter/star-atlas-weekly-news-recap-72",
+    "title": "Star Atlas Weekly News Recap #72",
+    "author": "Intergalactic Herald",
+    "publisher": "Intergalactic Herald",
+    "published_at": "2023-08-06T17:00:07",
+    "updated_at": "2023-08-06T18:54:39",
+    "retrieved_at": "2026-07-12T22:07:42.524496Z",
+    "document_type": "NEWSLETTER",
+    "source_role": "CURATED_SUMMARY",
+    "source_classification": "CURATED_SUMMARY",
+    "classification_rationale": "Weekly newsletter/recap aggregates developments and linked sources.",
+    "wordpress_type": "posts"
+  },
+  "summary": {
+    "neutral_abstract": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week. We are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us. We are launching a Star Atlas merch store. Please check it out at Intergalactic",
+    "historical_value": "Contemporary Intergalactic Herald publication preserved with role and attribution boundaries.",
+    "current_validity_warning": "Summaries, roadmaps, operational details, and attributed statements require reconciliation with primary and later sources."
+  },
+  "article_text": "Welcome to the Star Atlas weekly recap from the Intergalactic Herald. Below is what happened with Star Atlas this past week.\nWe are looking for guests to be on our podcast. The podcast is a discussion of the past week’s news about Star Atlas. If you are interested in being on the podcast, please contact us.\nWe are launching a Star Atlas merch store. Please check it out at Intergalactic Gear.\nWe are creating a “non-guild” guild. If you are interested in learning more, please go to Intergalactic Coalition.\nStar Atlas Chatter #7 – The LETTER & SAGE Labs – Week in Review 7/23 – 7/29 2023\nRahMega posted a video recapping the past week of Star Atlas news.\nStar Atlas Dogfight 2 0 with the Boys\nBeyond the Horizon posted a video using the dogfight trainer in the Star Atlas Showroom.\nStar Atlas Core Episode 4 Dramatized Reading\nOCG Thor posted a video reading episode 4 of the Star Atlas comic.\nMetaverse Nomads #105 ATMTA Major Operations Change\nMetaverse Nomads posted a video replay of their Star Atlas live stream.\nStar Atlas Chatter #7 — “The Letter” & SAGE Labs\nRahMega published an article recapping the past week of Star Atlas news.\nStar Atlas Runway and Company Financial UPDATE!\nThe Hologram News Network posted a video updating the Star Atlas runway.\nWEEKLY STAR ATLAS NEWSLETTER #90\nAephia published their latest Star Atlas newsletter.\nThe Atlas Brew #73\nStar Atlas TV posted a video replay of the Atlas Brew #73.\nStar Atlas Brew #73 REMIX Recap!\nBeyond The Horizon posted a video remixing the latest Atlas Brew.\nStar Atlas Calico Compakt Hero OUT FOR A RIP!\nBeyond the Horizon posted a video trying out the Calico Compakt Hero in the Star Atlas Showroom.",
+  "content_hash": "63863149323e55fef4353c1ce7626df261207f345849859e774beae1165b8581",
+  "entities": [],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [],
+  "governance_items": [],
+  "guilds": [],
+  "actors": [],
+  "lore_items": [],
+  "dates": [
+    "2023"
+  ],
+  "external_sources": [
+    {
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=kXUhQdbJMY4",
+      "anchor_text": "past week of Star Atlas news"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Yb7bs6JAPTk",
+      "anchor_text": "dogfight trainer in the Star Atlas Showroom"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ipPwVMmx02A",
+      "anchor_text": "Star Atlas comic"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=d8aIlqz0mHE",
+      "anchor_text": "Star Atlas live stream"
+    },
+    {
+      "url": "https://medium.com/@RahMega/star-atlas-chatter-7-the-letter-sage-labs-d5f4494f1f8f",
+      "anchor_text": "past week of Star Atlas news"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=iGhMaTpuMeA",
+      "anchor_text": "updating the Star Atlas runway"
+    },
+    {
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-90/",
+      "anchor_text": "latest Star Atlas newsletter"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=BVUXUbdqAEQ",
+      "anchor_text": "Atlas Brew #73"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=HsKHnE7vdVY",
+      "anchor_text": "remixing the latest Atlas Brew"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=2ve2rTj9UBE&feature=youtu.be",
+      "anchor_text": "Calico Compakt Hero in the Star Atlas Showroom"
+    }
+  ],
+  "primary_source_relationships": [
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticgear.com/",
+      "anchor_text": "Intergalactic Gear"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://intergalacticcoalition.com/",
+      "anchor_text": "Intergalactic Coalition"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=kXUhQdbJMY4",
+      "anchor_text": "past week of Star Atlas news"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=Yb7bs6JAPTk",
+      "anchor_text": "dogfight trainer in the Star Atlas Showroom"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=ipPwVMmx02A",
+      "anchor_text": "Star Atlas comic"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=d8aIlqz0mHE",
+      "anchor_text": "Star Atlas live stream"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://medium.com/@RahMega/star-atlas-chatter-7-the-letter-sage-labs-d5f4494f1f8f",
+      "anchor_text": "past week of Star Atlas news"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=iGhMaTpuMeA",
+      "anchor_text": "updating the Star Atlas runway"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-90/",
+      "anchor_text": "latest Star Atlas newsletter"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=BVUXUbdqAEQ",
+      "anchor_text": "Atlas Brew #73"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=HsKHnE7vdVY",
+      "anchor_text": "remixing the latest Atlas Brew"
+    },
+    {
+      "relationship": "LINKED_EXTERNAL_SOURCE",
+      "url": "https://www.youtube.com/watch?v=2ve2rTj9UBE&feature=youtu.be",
+      "anchor_text": "Calico Compakt Hero in the Star Atlas Showroom"
+    }
+  ],
+  "open_questions": [],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "MEDIUM",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Verify which outbound links are primary sources and preserve creator attribution during promotion."
+    ]
+  },
+  "retrieval": {
+    "http_status": 200,
+    "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-72&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+    "content_type": "application/json; charset=UTF-8",
+    "response_size": 5707,
+    "elapsed_ms": 1657,
+    "attempts": [
+      {
+        "endpoint": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-72&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "http_status": 200,
+        "final_url": "https://intergalacticherald.com/wp-json/wp/v2/posts?slug=star-atlas-weekly-news-recap-72&_fields=id%2Clink%2Cslug%2Cdate%2Cmodified%2Ctitle%2Ccontent%2Cexcerpt%2Cauthor",
+        "content_type": "application/json; charset=UTF-8",
+        "response_size": 5707,
+        "elapsed_ms": 1657
+      }
+    ]
+  },
+  "source_lineage": {
+    "publication": "Intergalactic Herald",
+    "publication_role": "CURATED_SUMMARY",
+    "relationship": "CURATED_SUMMARY_OF",
+    "primary_sources": [
+      {
+        "publication": "past week of Star Atlas news",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=kXUhQdbJMY4",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: past week of Star Atlas news"
+      },
+      {
+        "publication": "dogfight trainer in the Star Atlas Showroom",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=Yb7bs6JAPTk",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: dogfight trainer in the Star Atlas Showroom"
+      },
+      {
+        "publication": "Star Atlas comic",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=ipPwVMmx02A",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas comic"
+      },
+      {
+        "publication": "Star Atlas live stream",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=d8aIlqz0mHE",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Star Atlas live stream"
+      },
+      {
+        "publication": "past week of Star Atlas news",
+        "author": "UNKNOWN",
+        "url": "https://medium.com/@RahMega/star-atlas-chatter-7-the-letter-sage-labs-d5f4494f1f8f",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: past week of Star Atlas news"
+      },
+      {
+        "publication": "updating the Star Atlas runway",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=iGhMaTpuMeA",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: updating the Star Atlas runway"
+      },
+      {
+        "publication": "latest Star Atlas newsletter",
+        "author": "UNKNOWN",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-90/",
+        "organization": "Aephia",
+        "evidence": "Direct outbound link preserved in article with anchor text: latest Star Atlas newsletter"
+      },
+      {
+        "publication": "Atlas Brew #73",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=BVUXUbdqAEQ",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: Atlas Brew #73"
+      },
+      {
+        "publication": "remixing the latest Atlas Brew",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=HsKHnE7vdVY",
+        "organization": "Star Atlas",
+        "evidence": "Direct outbound link preserved in article with anchor text: remixing the latest Atlas Brew"
+      },
+      {
+        "publication": "Calico Compakt Hero in the Star Atlas Showroom",
+        "author": "UNKNOWN",
+        "url": "https://www.youtube.com/watch?v=2ve2rTj9UBE&feature=youtu.be",
+        "organization": "UNKNOWN",
+        "evidence": "Direct outbound link preserved in article with anchor text: Calico Compakt Hero in the Star Atlas Showroom"
+      }
+    ],
+    "secondary_sources": [
+      {
+        "publication": "Intergalactic Gear",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticgear.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      },
+      {
+        "publication": "Intergalactic Coalition",
+        "author": "UNKNOWN",
+        "url": "https://intergalacticcoalition.com/",
+        "organization": "UNKNOWN",
+        "relationship": "REFERENCES"
+      }
+    ],
+    "original_creators": [
+      "Aephia",
+      "Star Atlas"
+    ],
+    "attribution_chain": [
+      {
+        "from": "past week of Star Atlas news",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=kXUhQdbJMY4"
+      },
+      {
+        "from": "dogfight trainer in the Star Atlas Showroom",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=Yb7bs6JAPTk"
+      },
+      {
+        "from": "Star Atlas comic",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=ipPwVMmx02A"
+      },
+      {
+        "from": "Star Atlas live stream",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=d8aIlqz0mHE"
+      },
+      {
+        "from": "past week of Star Atlas news",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://medium.com/@RahMega/star-atlas-chatter-7-the-letter-sage-labs-d5f4494f1f8f"
+      },
+      {
+        "from": "updating the Star Atlas runway",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=iGhMaTpuMeA"
+      },
+      {
+        "from": "latest Star Atlas newsletter",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://aephia.com/star-atlas/weekly-star-atlas-newsletter-90/"
+      },
+      {
+        "from": "Atlas Brew #73",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=BVUXUbdqAEQ"
+      },
+      {
+        "from": "remixing the latest Atlas Brew",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=HsKHnE7vdVY"
+      },
+      {
+        "from": "Calico Compakt Hero in the Star Atlas Showroom",
+        "to": "Intergalactic Herald",
+        "relationship": "CURATED_SUMMARY_OF",
+        "url": "https://www.youtube.com/watch?v=2ve2rTj9UBE&feature=youtu.be"
+      }
+    ],
+    "lineage_confidence": "HIGH"
+  }
+}

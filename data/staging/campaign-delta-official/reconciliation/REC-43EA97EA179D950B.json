@@ -1,0 +1,14 @@
+{
+  "topic": "and, claims, first, meta, polis, record, remain, the",
+  "official_source_ids": [
+    "SRC-OFF-5D05309B045A6A76"
+  ],
+  "community_source_ids": [
+    "SRC-HNN-FE2F30D6E8B18D21"
+  ],
+  "relationship": "COMMUNITY_ADDS_CONTEXT",
+  "finding": "Automated topic overlap on: and, claims, first, meta, polis, record, remain, the, this, time, what. Official authority is limited to the official wording; community context remains separately attributed.",
+  "confidence": "LOW",
+  "promotion_candidate": false,
+  "manual_review_required": true
+}

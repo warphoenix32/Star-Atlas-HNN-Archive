@@ -1,0 +1,218 @@
+{
+  "source": {
+    "source_id": "SRC-HNN-E496A96E776EBE27",
+    "url_id": "URL-E496A96E776EBE27",
+    "url": "https://hologramnews.com/aephia-crowned-as-2024-star-atlas-copa-champions",
+    "title": "Aephia Crowned As 2024 Star Atlas COPA Champions - Hologram News Network 🦉",
+    "author": "UNKNOWN",
+    "publisher": "Hologram News Network (HNN)",
+    "publication_identity": "HNN website (hologramnews.com)",
+    "published_at": "2024-02-29T21:23:39+00:00",
+    "updated_at": "2024-02-29T21:23:39+00:00",
+    "retrieved_at": "2026-07-13T00:10:17.385109Z",
+    "document_type": "ORIGINAL_REPORTING",
+    "source_role": "ORIGINAL_REPORTING",
+    "publication_role": "ORIGINAL_REPORTING",
+    "classification_rationale": "Publication reports a development without explicit interview, editorial, investigative, event, or reference framing."
+  },
+  "source_lineage": {
+    "publication": "HNN website (hologramnews.com)",
+    "publication_role": "ORIGINAL_REPORTING",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [
+      {
+        "publication": "Star Atlas",
+        "author": "UNKNOWN",
+        "url": "https://staratlas.com/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      },
+      {
+        "publication": "Solaris",
+        "author": "UNKNOWN",
+        "url": "https://solaris-qtt.com/",
+        "organization": "UNKNOWN",
+        "evidence": "Directly linked and named in the publication."
+      }
+    ],
+    "original_creators": [],
+    "attribution_chain": [
+      {
+        "from": "Star Atlas",
+        "to": "HNN website (hologramnews.com)",
+        "relationship": "REPORTS_ON",
+        "url": "https://staratlas.com/"
+      },
+      {
+        "from": "Solaris",
+        "to": "HNN website (hologramnews.com)",
+        "relationship": "REPORTS_ON",
+        "url": "https://solaris-qtt.com/"
+      }
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "This original reporting published by Hologram News Network (HNN) on 2024-02-29 documents “Aephia Crowned As 2024 Star Atlas COPA Champions - Hologram News Network 🦉.” Its surviving text addresses governance, economy, guilds and DACs, game development, community, lore, technology. The record is preserved as contemporary evidence of how HNN presented the subject at publication time; factual and forward-looking claims remain attributed to the publication and require reconciliation with primary or later sources.",
+    "historical_value": "Preserves the HNN publication as contemporary community journalism and evidence of the network's editorial record.",
+    "current_validity_warning": "Claims reflect the publication date and may have been superseded, corrected, or disproven."
+  },
+  "article_text": "Aephia Crowned As 2024 Star Atlas COPA Champions\nBy KrigsPublished On: 29 February 2024Tags: Aephia, Bulk, copa, guild, heimdall industries, Rome, Shadow Loyal, Unseen\nThe second commencement of the 2024 Star Atlas Council of Peace Assembly has concluded and with it, Aephia has been crowned as the new champion of COPA.\nFor over three hours, 9 guilds from across the Star Atlas Metaverse competed via live presentations for the top spot in this year’s COPA matchup. Amongst the guild participants were”\nAephia\nThe Unseen\nSkull & Bones\nSolaris\nHeimdall Industries\nStar Atlas Italia\nROME\nShadow Loyal\nBULK\nEach guild was limited to a 10 minute presentation period followed by a 5 minute question and answer period from the panel of judges. Prominent members of the Star Atlas team were present including CEO Michael Wagner himself.\nWith over 400 community members in attendance, the Star Atlas team crowned a new champion for the Council of Peace Assembly.\nAephia Industries ultimately prevailed as the day’s champion with a presentation delivered by their Co-Founder Funcracker. Aephia’s presentation covered many of the tools and initiatives that Aephia has been developing over the past year and a half including Project Cataclysm, ALF, NANCY, and their Flipside Dashboard.\nFollowing behind Aephia was Rome, who took second place. As the largest Oni guild, Rome’s presentation was given by Witticus as he covered the detailed structure and organizational hierarchy of Rome. Most known for their Metaverse Nomads weekly podcast show, Rome has built a sizeable community alongside partners like YGG and Solien DAO\nRounding out the top three, The Shadow Loyal took home third place. As the smallest guild of the podium finishers, Shadow Loyal’s presentation was given by guild leader Groove. The Shadow Loyal are best known for their committment to open source development and knowledge sharing, providing the community with one of the most well used tool, Sly Labs Assistant.\nEach of the top 3 finishers took home a Tier 3, 2, and 1 Central Space Station habitat respectively, presumably of their preferred faction.\nAbout the Author: Krigs\nAn ardent supporter of emerging technologies, Krigs has been covering blockchain games for over two years and believes passionately in their power to revolutionize our collective gaming experience.\nlatest video\neditor's pick\nDiscover Star Atlas Alpha Content Pipelines at Solana Breakpoint 2022\nUnlocking Star Atlas Secrets: CEO Michael Wagner’s CoinDesk.TV Exclusive\nnews via inbox\nGet news from the Hologram first\nVisit Star Atlassian",
+  "content_hash": "7e113d9c381b73814067a50c90fca2e1db0e6ad883e361e660cb0b380ad34545",
+  "major_topics": [
+    "governance",
+    "economy",
+    "guilds and DACs",
+    "game development",
+    "community",
+    "lore",
+    "technology"
+  ],
+  "entities": [
+    "ATLAS",
+    "Krigs",
+    "Michael Wagner",
+    "Star Atlas"
+  ],
+  "events": [],
+  "claims": [],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Star Atlas",
+    "ATLAS"
+  ],
+  "governance_items": [
+    "Star Atlas governance / DAO"
+  ],
+  "lore_items": [
+    "ONI"
+  ],
+  "actors": [
+    "Michael Wagner",
+    "Krigs"
+  ],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://hologramnews.com/aephia-crowned-as-2024-star-atlas-copa-champions/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://hologramnews.com/author/krigs/",
+      "anchor_text": "Krigs"
+    },
+    {
+      "url": "https://hologramnews.com/tag/aephia/",
+      "anchor_text": "Aephia"
+    },
+    {
+      "url": "https://hologramnews.com/tag/bulk/",
+      "anchor_text": "Bulk"
+    },
+    {
+      "url": "https://hologramnews.com/tag/copa/",
+      "anchor_text": "copa"
+    },
+    {
+      "url": "https://hologramnews.com/tag/guild/",
+      "anchor_text": "guild"
+    },
+    {
+      "url": "https://hologramnews.com/tag/heimdall-industries/",
+      "anchor_text": "heimdall industries"
+    },
+    {
+      "url": "https://hologramnews.com/tag/rome/",
+      "anchor_text": "Rome"
+    },
+    {
+      "url": "https://hologramnews.com/tag/sly/",
+      "anchor_text": "Shadow Loyal"
+    },
+    {
+      "url": "https://hologramnews.com/tag/unseen/",
+      "anchor_text": "Unseen"
+    },
+    {
+      "url": "https://staratlas.com/",
+      "anchor_text": "Star Atlas"
+    },
+    {
+      "url": "https://hologramnews.com/aephia-industries/",
+      "anchor_text": "Aephia"
+    },
+    {
+      "url": "https://hologramnews.com/the-unseen/",
+      "anchor_text": "The Unseen"
+    },
+    {
+      "url": "https://hologramnews.com/skull-bones/",
+      "anchor_text": "Skull & Bones"
+    },
+    {
+      "url": "https://solaris-qtt.com/",
+      "anchor_text": "Solaris"
+    },
+    {
+      "url": "https://hologramnews.com/heimdall-industries-2/",
+      "anchor_text": "Heimdall Industries"
+    },
+    {
+      "url": "https://hologramnews.com/star-atlas-italia-sai/",
+      "anchor_text": "Star Atlas Italia"
+    },
+    {
+      "url": "https://hologramnews.com/rome/",
+      "anchor_text": "ROME"
+    },
+    {
+      "url": "https://hologramnews.com/shadow-loyal/",
+      "anchor_text": "Shadow Loyal"
+    },
+    {
+      "url": "https://hologramnews.com/bulk/",
+      "anchor_text": "BULK"
+    },
+    {
+      "url": "https://hologramnews.com/discover-star-atlas-alpha-content-pipelines-at-solana-breakpoint-2022/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://hologramnews.com/unlocking-star-atlas-secrets-ceo-michael-wagners-coindesk-tv-exclusive/",
+      "anchor_text": ""
+    },
+    {
+      "url": "https://hologramnews.com/star-atlassian/",
+      "anchor_text": "Visit Star Atlassian"
+    }
+  ],
+  "open_questions": [
+    "Which reported claims can be corroborated by primary or later sources?"
+  ],
+  "temporal_status": "HISTORICAL_SNAPSHOT",
+  "current_validity": "REQUIRES_RECONCILIATION",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "author_confidence": "UNKNOWN",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": [
+      "Author is not explicit in the surviving publication metadata."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://web.archive.org/web/20240417031817id_/https://hologramnews.com/aephia-crowned-as-2024-star-atlas-copa-champions/",
+    "final_url": "https://web.archive.org/web/20240417031817id_/https://hologramnews.com/aephia-crowned-as-2024-star-atlas-copa-champions/",
+    "http_status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "response_size": 206080,
+    "elapsed_ms": 1483,
+    "retrieval_mode": "INTERNET_ARCHIVE",
+    "archive_capture": {
+      "timestamp": "20240417031817",
+      "original": "https://hologramnews.com/aephia-crowned-as-2024-star-atlas-copa-champions/",
+      "digest": "L23TGRJJCMXWZDORZ3IHQG4WA6TXED7Z"
+    }
+  }
+}

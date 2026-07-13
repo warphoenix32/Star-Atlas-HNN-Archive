@@ -1,0 +1,239 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-A8666129E94E5181",
+    "url": "https://github.com/staratlasmeta/profile-key-management#readme",
+    "title": "profile-key-management README",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "staratlasmeta GitHub organization",
+    "published_at": "2025-11-21T19:10:17Z",
+    "updated_at": "2025-12-14T00:09:19Z",
+    "original_date_text": "2025-11-21T19:10:17Z",
+    "document_type": "TECHNICAL_DOCUMENTATION",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "staratlasmeta GitHub organization",
+    "publication_role": "TECHNICAL_DOCUMENTATION",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "staratlasmeta GitHub organization"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official technical documentation titled “profile-key-management README.” This record preserves what staratlasmeta GitHub organization publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "# Profile Key Manager\n\nA web application to view and manage Solana Player Profile keys. Built with React, TypeScript, Vite, Tailwind CSS, and the Star Atlas SDK.\n\n## Features\n\n- **Solana Wallet Connection:** Connect with Phantom, Solflare, and other standard Solana wallets\n- **Profile Discovery:** Automatically finds Player Profiles associated with the connected wallet\n- **Key Management:**\n  - View all keys on a profile (Auth, permissions, expiry)\n  - **Delete** non-auth keys\n  - **Transfer Authority:** Securely transfer the Auth (Master) key to a new address using a multi-step process that requires signatures from both the current and destination wallets\n- **RPC Configuration:** Custom RPC endpoint support to avoid rate limits (useful for Helius, QuickNode, Triton, etc.)\n- **Program ID Configuration:** Easily switch between different Player Profile program IDs\n\n## Tech Stack\n\n- **Frontend:** React 18 + TypeScript + Vite\n- **Styling:** Tailwind CSS\n- **Solana:** \n  - `@solana/wallet-adapter-react`\n  - `@solana/wallet-adapter-react-ui`\n  - `@solana/wallet-adapter-wallets`\n  - `@solana/web3.js`\n- **SDKs:** \n  - `@staratlas/player-profile`\n  - `@staratlas/anchor`\n  - `@staratlas/data-source`\n  - `@staratlas/crew`\n\n## Getting Started\n\n1. **Install Dependencies:**\n   ```bash\n   npm install\n   ```\n\n2. **Run Development Server:**\n   ```bash\n   npm run dev\n   ```\n\n3. **Build for Production:**\n   ```bash\n   npm run build\n   ```\n   The output will be in the `dist` directory.\n\n4. **Preview Production Build:**\n   ```bash\n   npm run preview\n   ```\n\n## Deployment to GitHub Pages\n\n1. Build the project: `npm run build`\n2. Commit the contents of the `dist` folder to a `gh-pages` branch, or configure GitHub Pages to serve from the `dist` folder (if using a workflow) or `docs` folder (if you rename dist to docs).\n\n## Configuration\n\n### Player Profile Program ID\n\nThe Player Profile Program ID is configured in `src/utils/constants.ts`.\n\n**Default Program ID:** `pprofELXjL5Kck7Jn5hCpwAL82DpTkSYBENzahVtbc9`\n\nThe application includes quick-select buttons for known program IDs:\n- `pprofELXjL5Kck7Jn5hCpwAL82DpTkSYBENzahVtbc9` (Current default)\n- `PprofUW1pURCnMW2si88GWPXEEK3Bvh9Tksy8WtnoYJ` (atlasnet)\n\nYou can also manually enter any program ID in the UI.\n\n### RPC Endpoint\n\nThe application defaults to the Solana mainnet RPC endpoint. You can configure a custom RPC endpoint via the RPC Settings button in the header to avoid rate limits or use premium RPC providers.\n\n## Transfer Authority Process\n\nThe transfer authority feature uses a secure multi-step process:\n\n1. **Enter Destination:** Provide the destination wallet address\n2. **Sign with Current Wallet:** The current auth wallet signs the transaction (partial signature)\n3. **Connect Destination Wallet:** Switch to and connect the destination wallet\n4. **Sign with Destination Wallet:** Complete the transfer by signing with the destination wallet\n\n**Important Notes:**\n- Both wallets must be owned by you\n- The transaction has a time limit (~42 seconds) to complete both signatures\n- A countdown timer shows remaining time during the process\n- If the transaction expires, you can restart the process without any changes to your profile\n\n## Project Structure\n\n```\nsrc/\n├── components/\n│   ├── ProfileManager.tsx    # Main profile management component\n│   ├── RpcSettings.tsx       # RPC endpoint configuration\n│   └── WalletContextProvider.tsx  # Wallet and RPC context\n├── utils/\n│   └── constants.ts          # Program IDs and configuration\n├── App.tsx                    # Main application component\n└── main.tsx                   # Application entry point\n```\n",
+  "content_hash": "05bdc2723b0bcb1d6230fc9064e388dab5d9168fa5ff77a4d7b89e57b3ceb075",
+  "entities": [
+    "ATLAS",
+    "Crew",
+    "Solana"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-A8666129E94E5181-01",
+      "text": "# Profile Key Manager  A web application to view and manage Solana Player Profile keys.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-A8666129E94E5181",
+      "publication_date": "2025-11-21T19:10:17Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-A8666129E94E5181-02",
+      "text": "Built with React, TypeScript, Vite, Tailwind CSS, and the Star Atlas SDK.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-A8666129E94E5181",
+      "publication_date": "2025-11-21T19:10:17Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-A8666129E94E5181-03",
+      "text": "**Install Dependencies:**    ```bash    npm install    ```  2.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-A8666129E94E5181",
+      "publication_date": "2025-11-21T19:10:17Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-A8666129E94E5181-04",
+      "text": "**Run Development Server:**    ```bash    npm run dev    ```  3.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-A8666129E94E5181",
+      "publication_date": "2025-11-21T19:10:17Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-A8666129E94E5181-05",
+      "text": "**Build for Production:**    ```bash    npm run build    ```    The output will be in the `dist` directory.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-A8666129E94E5181",
+      "publication_date": "2025-11-21T19:10:17Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-A8666129E94E5181-06",
+      "text": "**Preview Production Build:**    ```bash    npm run preview    ```  ## Deployment to GitHub Pages  1.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-A8666129E94E5181",
+      "publication_date": "2025-11-21T19:10:17Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-A8666129E94E5181-07",
+      "text": "Commit the contents of the `dist` folder to a `gh-pages` branch, or configure GitHub Pages to serve from the `dist` folder (if using a workflow) or `docs` folder (if you rename dist to docs).",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-A8666129E94E5181",
+      "publication_date": "2025-11-21T19:10:17Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-A8666129E94E5181-08",
+      "text": "## Configuration  ### Player Profile Program ID  The Player Profile Program ID is configured in `src/utils/constants.ts`.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-A8666129E94E5181",
+      "publication_date": "2025-11-21T19:10:17Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-A8666129E94E5181-09",
+      "text": "**Default Program ID:** `pprofELXjL5Kck7Jn5hCpwAL82DpTkSYBENzahVtbc9`  The application includes quick-select buttons for known program IDs: - `pprofELXjL5Kck7Jn5hCpwAL82DpTkSYBENzahVtbc9` (Current default) - `PprofUW1pURCnMW2si88GWPXEEK3Bvh9Tksy8WtnoYJ` (atlasnet)  You can also manually enter any program ID in the UI.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-A8666129E94E5181",
+      "publication_date": "2025-11-21T19:10:17Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-A8666129E94E5181-10",
+      "text": "### RPC Endpoint  The application defaults to the Solana mainnet RPC endpoint.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-A8666129E94E5181",
+      "publication_date": "2025-11-21T19:10:17Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-A8666129E94E5181-11",
+      "text": "You can configure a custom RPC endpoint via the RPC Settings button in the header to avoid rate limits or use premium RPC providers.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-A8666129E94E5181",
+      "publication_date": "2025-11-21T19:10:17Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-A8666129E94E5181-12",
+      "text": "## Transfer Authority Process  The transfer authority feature uses a secure multi-step process:  1.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-A8666129E94E5181",
+      "publication_date": "2025-11-21T19:10:17Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-A8666129E94E5181-13",
+      "text": "**Enter Destination:** Provide the destination wallet address 2.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-A8666129E94E5181",
+      "publication_date": "2025-11-21T19:10:17Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-A8666129E94E5181-14",
+      "text": "**Sign with Current Wallet:** The current auth wallet signs the transaction (partial signature) 3.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-A8666129E94E5181",
+      "publication_date": "2025-11-21T19:10:17Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-A8666129E94E5181-15",
+      "text": "**Connect Destination Wallet:** Switch to and connect the destination wallet 4.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-A8666129E94E5181",
+      "publication_date": "2025-11-21T19:10:17Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "ATLAS",
+    "Crew"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [
+    "Solana"
+  ],
+  "guilds": [],
+  "external_sources": [],
+  "official_cross_references": [],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "https://api.github.com/repos/staratlasmeta/profile-key-management/readme",
+    "final_url": "https://api.github.com/repos/staratlasmeta/profile-key-management/readme",
+    "http_status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "response_size": 5988,
+    "retrieved_at": "2026-07-13T01:05:09.412729Z",
+    "elapsed_ms": 343
+  }
+}

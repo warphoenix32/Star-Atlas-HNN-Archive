@@ -1,0 +1,258 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-55AABF6C02F3F53E",
+    "url": "https://build.staratlas.com/dev-resources/on-chain-game-systems/player-profile",
+    "title": "Star Atlas Build",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Build / ATMTA",
+    "published_at": null,
+    "updated_at": "2026-04-16T16:32:35.000Z",
+    "original_date_text": "2026-04-16T16:32:35.000Z",
+    "document_type": "TECHNICAL_DOCUMENTATION",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Build / ATMTA",
+    "publication_role": "TECHNICAL_DOCUMENTATION",
+    "relationship": "REPORTS_ON",
+    "primary_sources": [],
+    "original_creators": [
+      "Star Atlas Build / ATMTA"
+    ],
+    "lineage_confidence": "MEDIUM"
+  },
+  "summary": {
+    "archival_abstract": "Official technical documentation titled “Star Atlas Build.” This record preserves what Star Atlas Build / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Player Profile | Star Atlas Build\nSkip to contentStar Atlas BuildSearchK\nAppearance\nMenuReturn to top\nPlayer Profile ​\nStructure of a Player Profile ​\nA player profile is an account with a header and then a list of\nProfileKey\ns. The header contains meta-information such as the key-threshold (lite-multi-sig for auth keys) and the number of keys in the profile. Following this fixed size header are a number of\nProfileKey\ns. The same key may appear more than once in a given profile to allow for different scopes and permissions to be added to a given key.\nPermissionKey\nfields:\nField\nType\nDescription\nPurpose\nkey\nPubkey\nThe public key that can act as the profile.\nUsually a wallet key but can be a program. (ex. Multi-sig)\nscope\nPubkey\nWhere the\nkey\ncan act as the profile.\nBy convention the program id is the widest scope for a program and owned accounts can be used for lower permissions\nexpire_time\ni64\n(timestamp)\nWhen the key can no longer act as the profile.\nAllows keys to be ephemeral and act as session keys.\npermissions\n[u8; 8]\nWhat the key can do as the profile.\nBy convention a set of bitflags stating what the key can do. (ex. Can move fleets in a game but not trade resources)\nProfile Permissions ​\nThe permissions the player profile program defines for itself are as follows:\nPermission\nBitflag\nDescription\nAUTH\n1 << 0\nSuper-user authority over the profile.\nADD_KEYS\n1 << 1\nCan add keys that have at most its permissions (by bitflag).\nREMOVE_KEYS\n1 << 2\nCan remove non-\nAUTH\nkeys.\nCHANGE_NAME\n1 << 3\nCan change the profile's name.\nThe only valid scope for the player profile program is the program id.\nAUTH\n​\nAUTH\npermissions are the super-user of the player profile. There must always be at least\nkey_threshold\nAUTH\nkeys in the profile.\nAUTH\nkeys count as the super-set of all possible permissions. The only ways to add/remove auth keys is to call the\nadjust_auth\ninstruction. This instruction requires the signatures of at least\nkey_threshold\n(max of old and new)\nAUTH\nkeys. The key threshold is only used to determine the number of signatures required to change the auth keys. It is not used when an\nAUTH\nkey is signing a usage transaction, each auth key is a super-set on its own.\nADD_KEYS\n​\nADD_KEYS\npermissions allow a key to add new keys to the profile. The new keys must have at most the permissions of the key adding them. This is checked by bitflag comparison between another entry with the same key.\nREMOVE_KEYS\n​\nREMOVE_KEYS\npermissions allow a key to remove keys from the profile. This is only allowed for non-\nAUTH\nkeys.\nAUTH\nkeys can only be removed by the\nadjust_auth\ninstruction.\nCHANGE_NAME\n​\nPlayer profiles includes a profile name that is arbitrary bytes (intended for utf-8 bytes). This name can be changed by any key with\nCHANGE_NAME\npermissions. These names are non-unique and not even verfied for valid utf-8-ness.\nAdditional Overhead ​\nPlayer profiles adds 1 account to each transaction as well as 2 instruction bytes and ~2k compute to each instruction. Using player profiles requires direct implementation into your program (or into a middleware program). Player profiles is a wallet replacement so does not require major shifts in each instruction. Player profiles can also be supported alongside normal wallets in programs with a simple ownership check for the signing key.",
+  "content_hash": "991e7da5504deaf9bf59b51cc5bc23fafca138f2f3bcc03416f6d52e14e571db",
+  "entities": [
+    "ATLAS"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-55AABF6C02F3F53E-01",
+      "text": "Player Profile | Star Atlas Build Skip to contentStar Atlas BuildSearchK Appearance MenuReturn to top Player Profile ​ Structure of a Player Profile ​ A player profile is an account with a header and then a list of ProfileKey s.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-55AABF6C02F3F53E",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-55AABF6C02F3F53E-02",
+      "text": "The header contains meta-information such as the key-threshold (lite-multi-sig for auth keys) and the number of keys in the profile.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-55AABF6C02F3F53E",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-55AABF6C02F3F53E-03",
+      "text": "Following this fixed size header are a number of ProfileKey s.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-55AABF6C02F3F53E",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-55AABF6C02F3F53E-04",
+      "text": "The same key may appear more than once in a given profile to allow for different scopes and permissions to be added to a given key.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-55AABF6C02F3F53E",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-55AABF6C02F3F53E-05",
+      "text": "PermissionKey fields: Field Type Description Purpose key Pubkey The public key that can act as the profile.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-55AABF6C02F3F53E",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-55AABF6C02F3F53E-06",
+      "text": "Multi-sig) scope Pubkey Where the key can act as the profile.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-55AABF6C02F3F53E",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-55AABF6C02F3F53E-07",
+      "text": "By convention the program id is the widest scope for a program and owned accounts can be used for lower permissions expire_time i64 (timestamp) When the key can no longer act as the profile.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-55AABF6C02F3F53E",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-55AABF6C02F3F53E-08",
+      "text": "Allows keys to be ephemeral and act as session keys.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-55AABF6C02F3F53E",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-55AABF6C02F3F53E-09",
+      "text": "permissions [u8; 8] What the key can do as the profile.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-55AABF6C02F3F53E",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-55AABF6C02F3F53E-10",
+      "text": "By convention a set of bitflags stating what the key can do.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-55AABF6C02F3F53E",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-55AABF6C02F3F53E-11",
+      "text": "Can move fleets in a game but not trade resources) Profile Permissions ​ The permissions the player profile program defines for itself are as follows: Permission Bitflag Description AUTH 1 << 0 Super-user authority over the profile.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-55AABF6C02F3F53E",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-55AABF6C02F3F53E-12",
+      "text": "ADD_KEYS 1 << 1 Can add keys that have at most its permissions (by bitflag).",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-55AABF6C02F3F53E",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-55AABF6C02F3F53E-13",
+      "text": "REMOVE_KEYS 1 << 2 Can remove non- AUTH keys.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-55AABF6C02F3F53E",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-55AABF6C02F3F53E-14",
+      "text": "CHANGE_NAME 1 << 3 Can change the profile's name.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-55AABF6C02F3F53E",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-55AABF6C02F3F53E-15",
+      "text": "The only valid scope for the player profile program is the program id.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-55AABF6C02F3F53E",
+      "publication_date": null,
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "ATLAS"
+  ],
+  "governance_items": [],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://build.staratlas.com/dev-resources/on-chain-game-systems/player-profile",
+      "anchor_text": "Skip to content"
+    },
+    {
+      "url": "https://build.staratlas.com/",
+      "anchor_text": "Star Atlas Build"
+    },
+    {
+      "url": "https://discord.com/invite/staratlas",
+      "anchor_text": ""
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://build.staratlas.com/dev-resources/on-chain-game-systems/player-profile",
+      "anchor_text": "Skip to content"
+    },
+    {
+      "url": "https://build.staratlas.com/",
+      "anchor_text": "Star Atlas Build"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "MEDIUM",
+    "date_confidence": "HIGH",
+    "completeness": "REVIEW_REQUIRED",
+    "manual_review_reasons": [
+      "Date or extraction completeness requires review."
+    ]
+  },
+  "retrieval": {
+    "requested_url": "https://build.staratlas.com/dev-resources/on-chain-game-systems/player-profile",
+    "final_url": "https://build.staratlas.com/dev-resources/on-chain-game-systems/player-profile",
+    "http_status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "response_size": 36989,
+    "retrieved_at": "2026-07-13T01:04:30.056271Z",
+    "elapsed_ms": 133
+  }
+}

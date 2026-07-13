@@ -1,0 +1,272 @@
+{
+  "source": {
+    "source_id": "SRC-OFF-7D74702BDE1CE3DA",
+    "url": "https://support.staratlas.com/hc/en-us/articles/47057429296787-How-to-Enlist-a-Ship-in-Faction-Fleet",
+    "title": "How to Enlist a Ship in Faction Fleet",
+    "author": "ATMTA / Star Atlas official publisher",
+    "publisher": "Star Atlas Support / ATMTA",
+    "published_at": "2025-12-03T15:14:37Z",
+    "updated_at": "2025-12-08T18:23:46Z",
+    "original_date_text": "2025-12-03T15:14:37Z",
+    "document_type": "SUPPORT_ARTICLE",
+    "source_role": "OFFICIAL"
+  },
+  "source_lineage": {
+    "publication": "Star Atlas Support / ATMTA",
+    "publication_role": "SUPPORT_ARTICLE",
+    "relationship": "REFERENCES",
+    "primary_sources": [
+      {
+        "url": "https://play.staratlas.com/fleet/",
+        "anchor_text": "Faction Fleet"
+      },
+      {
+        "url": "https://play.staratlas.com/rentals/",
+        "anchor_text": "consider renting them out to other players on the marketplace"
+      }
+    ],
+    "original_creators": [
+      "Star Atlas Support / ATMTA"
+    ],
+    "lineage_confidence": "HIGH"
+  },
+  "summary": {
+    "archival_abstract": "Official support article titled “How to Enlist a Ship in Faction Fleet.” This record preserves what Star Atlas Support / ATMTA publicly stated at the recorded publication time; claims about delivery, economics, or outcomes remain limited to the wording of the source.",
+    "historical_value": "Official evidence baseline for later reconciliation with community reporting.",
+    "current_validity_warning": "Official publication does not independently prove successful execution, completeness, or continued current validity."
+  },
+  "article_text": "Faction Fleetfeature allows you to stake your ships to earn passive rewards. Enlisting a ship is quick and easy—and you can earn ATLAS while your assets are actively contributing to the Star Atlas economy.\nEnlisting a Ship for the First Time\nIf this is the first time you're enlisting a specific ship model, follow these steps:\n1. Go to the Faction Fleet\nVisit: https://play.staratlas.com/fleet/\n2. Click on “Ship Enlistment”\nYou'll find this tab near the top of the Faction Fleet page.\n3. Choose Your Ship\nScroll through the available ships in your wallet.Click the “Enlist Ship” button under the ship you want to stake.\n4. Set Enlistment Details\nA popup will appear where you can:\nSelect the quantity of ships to enlist\nAdd resources (Ammunition, Food, Fuel, Toolkits) as neededYou can choose how much of each to load into your fleet.\n5. Click “Enlist Ship”\nOnce your options are set, click the “Enlist Ship” button.\n6. Approve the Transaction\nConfirm the transaction in your wallet. Once approved, your ship(s) will be active in the Faction Fleet.\nEnlisting More of a Ship You Already Have in Faction Fleet\nIf you already have some ships of a specific model enlisted and want to add more to that existing fleet, follow these steps:\n1. Go to the Faction Fleet\nVisit: https://play.staratlas.com/fleet/\n2. Locate Your Existing Fleet\nFind the fleet containing the ship model you want to add more of.\n3. Click “Manage Fleet”\nThis will open the detailed view of your current fleet.\n4. Open the “Manage Ship” Tab\nClick on the Manage Ship tab within the fleet interface.\n5. Enlist More Ships\nUnder the “Enlist More Ships” section, enter the quantity of additional ships you’d like to add to this fleet.\n6. Click “Update”\nOnce you’ve set the quantity, click the Update button.\n7. Approve the Transaction\nConfirm the transaction in your wallet. Your additional ships will now be enlisted into the existing fleet.\n💡 Looking for a better way to earn with your fleet?\nFaction Fleet is a legacy feature and will eventually be phased out.If you're looking for a more sustainable way to earn passive income with your ships, consider renting them out to other players on the marketplace",
+  "content_hash": "128a611b07fd054e71e8a9434169bf3f7e3c27f5aa50825c1e548612fca6d423",
+  "entities": [
+    "ATLAS",
+    "Faction Fleet"
+  ],
+  "events": [],
+  "claims": [
+    {
+      "claim_id": "CLM-7D74702BDE1CE3DA-01",
+      "text": "Faction Fleetfeature allows you to stake your ships to earn passive rewards.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-7D74702BDE1CE3DA",
+      "publication_date": "2025-12-03T15:14:37Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-7D74702BDE1CE3DA-02",
+      "text": "Enlisting a ship is quick and easy—and you can earn ATLAS while your assets are actively contributing to the Star Atlas economy.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-7D74702BDE1CE3DA",
+      "publication_date": "2025-12-03T15:14:37Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-7D74702BDE1CE3DA-03",
+      "text": "Enlisting a Ship for the First Time If this is the first time you're enlisting a specific ship model, follow these steps: 1.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-7D74702BDE1CE3DA",
+      "publication_date": "2025-12-03T15:14:37Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-7D74702BDE1CE3DA-04",
+      "text": "Go to the Faction Fleet Visit: https://play.staratlas.com/fleet/ 2.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-7D74702BDE1CE3DA",
+      "publication_date": "2025-12-03T15:14:37Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-7D74702BDE1CE3DA-05",
+      "text": "Click on “Ship Enlistment” You'll find this tab near the top of the Faction Fleet page.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-7D74702BDE1CE3DA",
+      "publication_date": "2025-12-03T15:14:37Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-7D74702BDE1CE3DA-06",
+      "text": "Choose Your Ship Scroll through the available ships in your wallet.Click the “Enlist Ship” button under the ship you want to stake.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-7D74702BDE1CE3DA",
+      "publication_date": "2025-12-03T15:14:37Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-7D74702BDE1CE3DA-07",
+      "text": "Set Enlistment Details A popup will appear where you can: Select the quantity of ships to enlist Add resources (Ammunition, Food, Fuel, Toolkits) as neededYou can choose how much of each to load into your fleet.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-7D74702BDE1CE3DA",
+      "publication_date": "2025-12-03T15:14:37Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-7D74702BDE1CE3DA-08",
+      "text": "Click “Enlist Ship” Once your options are set, click the “Enlist Ship” button.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-7D74702BDE1CE3DA",
+      "publication_date": "2025-12-03T15:14:37Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-7D74702BDE1CE3DA-09",
+      "text": "Approve the Transaction Confirm the transaction in your wallet.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-7D74702BDE1CE3DA",
+      "publication_date": "2025-12-03T15:14:37Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-7D74702BDE1CE3DA-10",
+      "text": "Once approved, your ship(s) will be active in the Faction Fleet.",
+      "claim_type": "GOVERNANCE_APPROVAL",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-7D74702BDE1CE3DA",
+      "publication_date": "2025-12-03T15:14:37Z",
+      "confidence": "MEDIUM",
+      "requires_follow_up": true
+    },
+    {
+      "claim_id": "CLM-7D74702BDE1CE3DA-11",
+      "text": "Enlisting More of a Ship You Already Have in Faction Fleet If you already have some ships of a specific model enlisted and want to add more to that existing fleet, follow these steps: 1.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-7D74702BDE1CE3DA",
+      "publication_date": "2025-12-03T15:14:37Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-7D74702BDE1CE3DA-12",
+      "text": "Go to the Faction Fleet Visit: https://play.staratlas.com/fleet/ 2.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-7D74702BDE1CE3DA",
+      "publication_date": "2025-12-03T15:14:37Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-7D74702BDE1CE3DA-13",
+      "text": "Locate Your Existing Fleet Find the fleet containing the ship model you want to add more of.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-7D74702BDE1CE3DA",
+      "publication_date": "2025-12-03T15:14:37Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-7D74702BDE1CE3DA-14",
+      "text": "Click “Manage Fleet” This will open the detailed view of your current fleet.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-7D74702BDE1CE3DA",
+      "publication_date": "2025-12-03T15:14:37Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    },
+    {
+      "claim_id": "CLM-7D74702BDE1CE3DA-15",
+      "text": "Open the “Manage Ship” Tab Click on the Manage Ship tab within the fleet interface.",
+      "claim_type": "TECHNICAL_DESCRIPTION",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-7D74702BDE1CE3DA",
+      "publication_date": "2025-12-03T15:14:37Z",
+      "confidence": "HIGH",
+      "requires_follow_up": false
+    }
+  ],
+  "quotes": [],
+  "relationships": [],
+  "products": [
+    "Faction Fleet",
+    "ATLAS"
+  ],
+  "governance_items": [
+    {
+      "claim_id": "CLM-7D74702BDE1CE3DA-10",
+      "text": "Once approved, your ship(s) will be active in the Faction Fleet.",
+      "claim_type": "GOVERNANCE_APPROVAL",
+      "speaker": "OFFICIAL_SOURCE",
+      "reported_by": "Star Atlas official source",
+      "source_id": "SRC-OFF-7D74702BDE1CE3DA",
+      "publication_date": "2025-12-03T15:14:37Z",
+      "confidence": "MEDIUM",
+      "requires_follow_up": true
+    }
+  ],
+  "lore_items": [],
+  "actors": [],
+  "organizations": [],
+  "guilds": [],
+  "external_sources": [
+    {
+      "url": "https://play.staratlas.com/fleet/",
+      "anchor_text": "Faction Fleet"
+    },
+    {
+      "url": "https://play.staratlas.com/rentals/",
+      "anchor_text": "consider renting them out to other players on the marketplace"
+    }
+  ],
+  "official_cross_references": [
+    {
+      "url": "https://play.staratlas.com/fleet/",
+      "anchor_text": "Faction Fleet"
+    },
+    {
+      "url": "https://play.staratlas.com/rentals/",
+      "anchor_text": "consider renting them out to other players on the marketplace"
+    }
+  ],
+  "open_questions": [
+    "Which claims are independently corroborated or later superseded?"
+  ],
+  "temporal_status": "CURRENT_DOCUMENTATION",
+  "current_validity": "CURRENT_PAGE_NOT_HISTORICAL_PROOF",
+  "quality": {
+    "extraction_confidence": "HIGH",
+    "date_confidence": "HIGH",
+    "completeness": "COMPLETE",
+    "manual_review_reasons": []
+  },
+  "retrieval": {
+    "requested_url": "Zendesk API",
+    "final_url": "https://support.staratlas.com/hc/en-us/articles/47057429296787-How-to-Enlist-a-Ship-in-Faction-Fleet",
+    "http_status": 200,
+    "retrieved_at": "2026-07-13T01:05:06.230600Z"
+  }
+}

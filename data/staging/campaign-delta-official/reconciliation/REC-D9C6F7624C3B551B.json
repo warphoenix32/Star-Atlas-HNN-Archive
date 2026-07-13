@@ -1,0 +1,14 @@
+{
+  "topic": "are, article, atmta, game, remain, the, this, time",
+  "official_source_ids": [
+    "SRC-OFF-F2DB36AA8D69DDC8"
+  ],
+  "community_source_ids": [
+    "SRC-IH-0099D27AA2A64715"
+  ],
+  "relationship": "COMMUNITY_ADDS_CONTEXT",
+  "finding": "Automated topic overlap on: are, article, atmta, game, remain, the, this, time, what. Official authority is limited to the official wording; community context remains separately attributed.",
+  "confidence": "LOW",
+  "promotion_candidate": false,
+  "manual_review_required": true
+}
