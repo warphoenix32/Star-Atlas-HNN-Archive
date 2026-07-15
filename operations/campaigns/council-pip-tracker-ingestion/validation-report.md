@@ -12,4 +12,4 @@ Overall status: **PASS**
 - **PASS — five_sheets_preserved**: CSV and JSON for all five sheets
 - **PASS — manifest_reconciliation**: all bytes and checksums reconcile
 - **PASS — discord_not_duplicated**: no nested Discord ZIP archived
-- **PASS — git_diff_check**: no whitespace errors
+- **PASS — git_diff_check**: no whitespace errors; preserved-source trailing spaces are path-scoped without rewriting evidence

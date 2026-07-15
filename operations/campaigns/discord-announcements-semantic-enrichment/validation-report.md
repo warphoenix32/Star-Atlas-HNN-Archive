@@ -12,8 +12,8 @@ Overall status: **PASS**
 - **PASS — no_orphan_messages**: every semantic message has a source record
 - **PASS — duplicate_clusters**: clusters reference preserved evidence and a strongest member
 - **PASS — raw_export_checksum**: original Discord export byte-for-byte checksum
-- **PASS — json_utf8_parse**: parsed 1094 JSON/JSONL artifacts
+- **PASS — json_utf8_parse**: parsed 1095 JSON/JSONL artifacts
 - **PASS — manifest_reconciliation**: all recorded bytes and SHA-256 values match
 - **PASS — canonical_layers_unchanged**: knowledge, graph, and publication are untouched
 - **PASS — discord_not_duplicated**: nested Discord ZIP is not ingested
-- **PASS — git_diff_check**: no whitespace errors
+- **PASS — git_diff_check**: no whitespace errors; preserved-source trailing spaces are path-scoped in .gitattributes without rewriting evidence

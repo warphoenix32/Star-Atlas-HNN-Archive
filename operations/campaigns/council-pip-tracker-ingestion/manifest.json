@@ -3,6 +3,11 @@
   "status": "GENERATED",
   "preserved_inputs": [
     {
+      "path": "archive/normalized/governance/council-pip-tracker/.gitattributes",
+      "bytes": 45,
+      "sha256": "7a6581b5a677deaf1b0a5cfe82001b9f0811810dc9fcade4d02d9dc82902ac40"
+    },
+    {
       "path": "archive/normalized/governance/council-pip-tracker/accomplishment_numbers.csv",
       "bytes": 985,
       "sha256": "700a51ba000921790a5a1ff95821abfe8fbf4351b09585e37437572463c1273f"
@@ -721,8 +726,8 @@
     },
     {
       "path": "operations/campaigns/council-pip-tracker-ingestion/validate_campaign.py",
-      "bytes": 4539,
-      "sha256": "4d91276c23a608415912ae061b9a166e1beab3c336c7e43987bcf885f7fde417"
+      "bytes": 4721,
+      "sha256": "7ad216e26f2e9da429e58021a5980d42612d9480f7d2b4506f9f8a2b2d698ddb"
     }
   ]
 }

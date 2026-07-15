@@ -50,7 +50,7 @@
     },
     "git_diff_check": {
       "status": "PASS",
-      "detail": "no whitespace errors"
+      "detail": "no whitespace errors; preserved-source trailing spaces are path-scoped without rewriting evidence"
     }
   },
   "warnings": [
