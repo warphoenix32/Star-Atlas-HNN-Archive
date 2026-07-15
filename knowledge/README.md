@@ -1,9 +1,10 @@
 # Knowledge Overview
 
-This is the human-first canonical knowledge layer. Entries synthesize reviewed evidence while preserving citations, uncertainty, and conflicting accounts. Start with the [master timeline](timeline/README.md), the [entity and source indexes](index/README.md), or a topic below.
+This is the human-first canonical knowledge layer. Entries synthesize reviewed evidence while preserving citations, uncertainty, and conflicting accounts. Start with the [entity relationship map](Entity-Relationship-Map.md), the [master timeline](timeline/README.md), the [entity and source indexes](index/README.md), or a topic below.
 
 | Topic | Entry point |
 | --- | --- |
+| Ecosystem relationships | [Entity relationship map](Entity-Relationship-Map.md) |
 | Timeline | [Master timeline](timeline/README.md) |
 | People | [People index](people/README.md) |
 | Organizations | [Organizations index](organizations/README.md) |
