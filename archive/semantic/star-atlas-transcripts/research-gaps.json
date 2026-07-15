@@ -1,0 +1,404 @@
+{
+  "campaign_id": "star-atlas-transcripts-semantic-2026-07",
+  "schema_version": "1.0.0",
+  "generated_from": "archive/normalized/star-atlas-transcripts-ingestion-2026-07",
+  "gap_count": 36,
+  "gaps": [
+    {
+      "gap_id": "RESEARCH-GAP-SA-0001",
+      "source_id": "SRC-DAO-005092573D403B3E",
+      "gap_types": [
+        "SPEAKER_ATTRIBUTION_MISSING",
+        "ORIGINAL_URL_MISSING",
+        "PUBLICATION_DATE_PARTIAL_OR_FILENAME_DERIVED"
+      ],
+      "status": "OPEN",
+      "manual_review_required": true
+    },
+    {
+      "gap_id": "RESEARCH-GAP-SA-0002",
+      "source_id": "SRC-DAO-042BD1DEEF5A9727",
+      "gap_types": [
+        "SPEAKER_ATTRIBUTION_MISSING",
+        "ORIGINAL_URL_MISSING",
+        "PUBLICATION_DATE_MISSING"
+      ],
+      "status": "OPEN",
+      "manual_review_required": true
+    },
+    {
+      "gap_id": "RESEARCH-GAP-SA-0003",
+      "source_id": "SRC-DAO-095E2702036E90EE",
+      "gap_types": [
+        "SPEAKER_ATTRIBUTION_MISSING",
+        "ORIGINAL_URL_MISSING",
+        "PUBLICATION_DATE_MISSING"
+      ],
+      "status": "OPEN",
+      "manual_review_required": true
+    },
+    {
+      "gap_id": "RESEARCH-GAP-SA-0004",
+      "source_id": "SRC-DAO-0BDAF8426FDCAD51",
+      "gap_types": [
+        "SPEAKER_ATTRIBUTION_MISSING",
+        "ORIGINAL_URL_MISSING",
+        "PUBLICATION_DATE_PARTIAL_OR_FILENAME_DERIVED"
+      ],
+      "status": "OPEN",
+      "manual_review_required": true
+    },
+    {
+      "gap_id": "RESEARCH-GAP-SA-0005",
+      "source_id": "SRC-DAO-1335B91689A5B7E2",
+      "gap_types": [
+        "SPEAKER_ATTRIBUTION_MISSING",
+        "ORIGINAL_URL_MISSING",
+        "PUBLICATION_DATE_MISSING"
+      ],
+      "status": "OPEN",
+      "manual_review_required": true
+    },
+    {
+      "gap_id": "RESEARCH-GAP-SA-0006",
+      "source_id": "SRC-DAO-24AC378F245F78EF",
+      "gap_types": [
+        "SPEAKER_ATTRIBUTION_MISSING",
+        "ORIGINAL_URL_MISSING",
+        "PUBLICATION_DATE_MISSING"
+      ],
+      "status": "OPEN",
+      "manual_review_required": true
+    },
+    {
+      "gap_id": "RESEARCH-GAP-SA-0007",
+      "source_id": "SRC-DAO-32627F5FB9FADE39",
+      "gap_types": [
+        "SPEAKER_ATTRIBUTION_MISSING",
+        "ORIGINAL_URL_MISSING",
+        "PUBLICATION_DATE_MISSING"
+      ],
+      "status": "OPEN",
+      "manual_review_required": true
+    },
+    {
+      "gap_id": "RESEARCH-GAP-SA-0008",
+      "source_id": "SRC-DAO-6BCF7DC0DB9C9720",
+      "gap_types": [
+        "SPEAKER_ATTRIBUTION_MISSING",
+        "ORIGINAL_URL_MISSING",
+        "PUBLICATION_DATE_MISSING"
+      ],
+      "status": "OPEN",
+      "manual_review_required": true
+    },
+    {
+      "gap_id": "RESEARCH-GAP-SA-0009",
+      "source_id": "SRC-DAO-B31D1D3DC9276AA1",
+      "gap_types": [
+        "SPEAKER_ATTRIBUTION_MISSING",
+        "ORIGINAL_URL_MISSING",
+        "PUBLICATION_DATE_MISSING"
+      ],
+      "status": "OPEN",
+      "manual_review_required": true
+    },
+    {
+      "gap_id": "RESEARCH-GAP-SA-0010",
+      "source_id": "SRC-DAO-F42107614D29DBD4",
+      "gap_types": [
+        "SPEAKER_ATTRIBUTION_MISSING",
+        "ORIGINAL_URL_MISSING",
+        "PUBLICATION_DATE_MISSING"
+      ],
+      "status": "OPEN",
+      "manual_review_required": true
+    },
+    {
+      "gap_id": "RESEARCH-GAP-SA-0011",
+      "source_id": "SRC-DAO-FE10693BD2263236",
+      "gap_types": [
+        "SPEAKER_ATTRIBUTION_MISSING",
+        "ORIGINAL_URL_MISSING",
+        "PUBLICATION_DATE_PARTIAL_OR_FILENAME_DERIVED"
+      ],
+      "status": "OPEN",
+      "manual_review_required": true
+    },
+    {
+      "gap_id": "RESEARCH-GAP-SA-0012",
+      "source_id": "SRC-ECON-FORUM-04D03390B487E480",
+      "gap_types": [
+        "SPEAKER_ATTRIBUTION_MISSING",
+        "ORIGINAL_URL_MISSING",
+        "PUBLICATION_DATE_PARTIAL_OR_FILENAME_DERIVED"
+      ],
+      "status": "OPEN",
+      "manual_review_required": true
+    },
+    {
+      "gap_id": "RESEARCH-GAP-SA-0013",
+      "source_id": "SRC-ECON-FORUM-354A7F51B559ED47",
+      "gap_types": [
+        "SPEAKER_ATTRIBUTION_MISSING",
+        "ORIGINAL_URL_MISSING",
+        "PUBLICATION_DATE_PARTIAL_OR_FILENAME_DERIVED"
+      ],
+      "status": "OPEN",
+      "manual_review_required": true
+    },
+    {
+      "gap_id": "RESEARCH-GAP-SA-0014",
+      "source_id": "SRC-ECON-FORUM-7367D0DF38E859F4",
+      "gap_types": [
+        "SPEAKER_ATTRIBUTION_MISSING",
+        "ORIGINAL_URL_MISSING",
+        "PUBLICATION_DATE_PARTIAL_OR_FILENAME_DERIVED"
+      ],
+      "status": "OPEN",
+      "manual_review_required": true
+    },
+    {
+      "gap_id": "RESEARCH-GAP-SA-0015",
+      "source_id": "SRC-ECON-FORUM-8C1707C5C9C6EFEB",
+      "gap_types": [
+        "SPEAKER_ATTRIBUTION_MISSING",
+        "ORIGINAL_URL_MISSING",
+        "PUBLICATION_DATE_PARTIAL_OR_FILENAME_DERIVED"
+      ],
+      "status": "OPEN",
+      "manual_review_required": true
+    },
+    {
+      "gap_id": "RESEARCH-GAP-SA-0016",
+      "source_id": "SRC-ECON-FORUM-9AF39A87A80EDB8E",
+      "gap_types": [
+        "SPEAKER_ATTRIBUTION_MISSING",
+        "ORIGINAL_URL_MISSING",
+        "PUBLICATION_DATE_PARTIAL_OR_FILENAME_DERIVED"
+      ],
+      "status": "OPEN",
+      "manual_review_required": true
+    },
+    {
+      "gap_id": "RESEARCH-GAP-SA-0017",
+      "source_id": "SRC-ECON-FORUM-C53DD05B1A9D234D",
+      "gap_types": [
+        "SPEAKER_ATTRIBUTION_MISSING",
+        "ORIGINAL_URL_MISSING",
+        "PUBLICATION_DATE_PARTIAL_OR_FILENAME_DERIVED"
+      ],
+      "status": "OPEN",
+      "manual_review_required": true
+    },
+    {
+      "gap_id": "RESEARCH-GAP-SA-0018",
+      "source_id": "SRC-ECON-FORUM-C6A57BFABC570218",
+      "gap_types": [
+        "SPEAKER_ATTRIBUTION_MISSING",
+        "ORIGINAL_URL_MISSING",
+        "PUBLICATION_DATE_PARTIAL_OR_FILENAME_DERIVED"
+      ],
+      "status": "OPEN",
+      "manual_review_required": true
+    },
+    {
+      "gap_id": "RESEARCH-GAP-SA-0019",
+      "source_id": "SRC-ECON-FORUM-DA876A17CDB11E18",
+      "gap_types": [
+        "SPEAKER_ATTRIBUTION_MISSING",
+        "ORIGINAL_URL_MISSING",
+        "PUBLICATION_DATE_PARTIAL_OR_FILENAME_DERIVED"
+      ],
+      "status": "OPEN",
+      "manual_review_required": true
+    },
+    {
+      "gap_id": "RESEARCH-GAP-SA-0020",
+      "source_id": "SRC-ECON-FORUM-DDFDE4F3A1FDEF29",
+      "gap_types": [
+        "SPEAKER_ATTRIBUTION_MISSING",
+        "ORIGINAL_URL_MISSING",
+        "PUBLICATION_DATE_PARTIAL_OR_FILENAME_DERIVED"
+      ],
+      "status": "OPEN",
+      "manual_review_required": true
+    },
+    {
+      "gap_id": "RESEARCH-GAP-SA-0021",
+      "source_id": "SRC-ECON-FORUM-ECEE879933D7FEFE",
+      "gap_types": [
+        "SPEAKER_ATTRIBUTION_MISSING",
+        "ORIGINAL_URL_MISSING",
+        "PUBLICATION_DATE_PARTIAL_OR_FILENAME_DERIVED"
+      ],
+      "status": "OPEN",
+      "manual_review_required": true
+    },
+    {
+      "gap_id": "RESEARCH-GAP-SA-0022",
+      "source_id": "SRC-ECON-FORUM-F67474243EB194BE",
+      "gap_types": [
+        "SPEAKER_ATTRIBUTION_MISSING",
+        "ORIGINAL_URL_MISSING",
+        "PUBLICATION_DATE_PARTIAL_OR_FILENAME_DERIVED"
+      ],
+      "status": "OPEN",
+      "manual_review_required": true
+    },
+    {
+      "gap_id": "RESEARCH-GAP-SA-0023",
+      "source_id": "SRC-TOWNHALL-000B2F372F9AEDDD",
+      "gap_types": [
+        "SPEAKER_ATTRIBUTION_MISSING",
+        "ORIGINAL_URL_MISSING",
+        "PUBLICATION_DATE_MISSING"
+      ],
+      "status": "OPEN",
+      "manual_review_required": true
+    },
+    {
+      "gap_id": "RESEARCH-GAP-SA-0024",
+      "source_id": "SRC-TOWNHALL-114A7F2FE199FAD1",
+      "gap_types": [
+        "SPEAKER_ATTRIBUTION_MISSING",
+        "ORIGINAL_URL_MISSING",
+        "PUBLICATION_DATE_MISSING"
+      ],
+      "status": "OPEN",
+      "manual_review_required": true
+    },
+    {
+      "gap_id": "RESEARCH-GAP-SA-0025",
+      "source_id": "SRC-TOWNHALL-49B158AA5F9C993B",
+      "gap_types": [
+        "SPEAKER_ATTRIBUTION_MISSING",
+        "ORIGINAL_URL_MISSING",
+        "PUBLICATION_DATE_MISSING"
+      ],
+      "status": "OPEN",
+      "manual_review_required": true
+    },
+    {
+      "gap_id": "RESEARCH-GAP-SA-0026",
+      "source_id": "SRC-TOWNHALL-4DA964D308D5B294",
+      "gap_types": [
+        "SPEAKER_ATTRIBUTION_MISSING",
+        "ORIGINAL_URL_MISSING",
+        "PUBLICATION_DATE_MISSING"
+      ],
+      "status": "OPEN",
+      "manual_review_required": true
+    },
+    {
+      "gap_id": "RESEARCH-GAP-SA-0027",
+      "source_id": "SRC-TOWNHALL-5D5DDA7808DD80BE",
+      "gap_types": [
+        "SPEAKER_ATTRIBUTION_MISSING",
+        "ORIGINAL_URL_MISSING",
+        "PUBLICATION_DATE_MISSING"
+      ],
+      "status": "OPEN",
+      "manual_review_required": true
+    },
+    {
+      "gap_id": "RESEARCH-GAP-SA-0028",
+      "source_id": "SRC-TOWNHALL-5F69263457814B5C",
+      "gap_types": [
+        "SPEAKER_ATTRIBUTION_MISSING",
+        "ORIGINAL_URL_MISSING",
+        "PUBLICATION_DATE_MISSING"
+      ],
+      "status": "OPEN",
+      "manual_review_required": true
+    },
+    {
+      "gap_id": "RESEARCH-GAP-SA-0029",
+      "source_id": "SRC-TOWNHALL-731A3D5664AB3C72",
+      "gap_types": [
+        "SPEAKER_ATTRIBUTION_MISSING",
+        "ORIGINAL_URL_MISSING",
+        "PUBLICATION_DATE_PARTIAL_OR_FILENAME_DERIVED"
+      ],
+      "status": "OPEN",
+      "manual_review_required": true
+    },
+    {
+      "gap_id": "RESEARCH-GAP-SA-0030",
+      "source_id": "SRC-TOWNHALL-83FFB1A89990BFC6",
+      "gap_types": [
+        "SPEAKER_ATTRIBUTION_MISSING",
+        "ORIGINAL_URL_MISSING",
+        "PUBLICATION_DATE_MISSING"
+      ],
+      "status": "OPEN",
+      "manual_review_required": true
+    },
+    {
+      "gap_id": "RESEARCH-GAP-SA-0031",
+      "source_id": "SRC-TOWNHALL-8B81AF8298EC775C",
+      "gap_types": [
+        "SPEAKER_ATTRIBUTION_MISSING",
+        "ORIGINAL_URL_MISSING",
+        "PUBLICATION_DATE_MISSING"
+      ],
+      "status": "OPEN",
+      "manual_review_required": true
+    },
+    {
+      "gap_id": "RESEARCH-GAP-SA-0032",
+      "source_id": "SRC-TOWNHALL-A1103FA71FF764D1",
+      "gap_types": [
+        "SPEAKER_ATTRIBUTION_MISSING",
+        "ORIGINAL_URL_MISSING",
+        "PUBLICATION_DATE_MISSING"
+      ],
+      "status": "OPEN",
+      "manual_review_required": true
+    },
+    {
+      "gap_id": "RESEARCH-GAP-SA-0033",
+      "source_id": "SRC-TOWNHALL-B66F8586AA2FCB90",
+      "gap_types": [
+        "SPEAKER_ATTRIBUTION_MISSING",
+        "ORIGINAL_URL_MISSING",
+        "PUBLICATION_DATE_PARTIAL_OR_FILENAME_DERIVED"
+      ],
+      "status": "OPEN",
+      "manual_review_required": true
+    },
+    {
+      "gap_id": "RESEARCH-GAP-SA-0034",
+      "source_id": "SRC-TOWNHALL-C6E705CEC7F99DB8",
+      "gap_types": [
+        "SPEAKER_ATTRIBUTION_MISSING",
+        "ORIGINAL_URL_MISSING",
+        "PUBLICATION_DATE_MISSING"
+      ],
+      "status": "OPEN",
+      "manual_review_required": true
+    },
+    {
+      "gap_id": "RESEARCH-GAP-SA-0035",
+      "source_id": "SRC-TOWNHALL-D6CAD785061FF76C",
+      "gap_types": [
+        "SPEAKER_ATTRIBUTION_MISSING",
+        "ORIGINAL_URL_MISSING",
+        "PUBLICATION_DATE_MISSING"
+      ],
+      "status": "OPEN",
+      "manual_review_required": true
+    },
+    {
+      "gap_id": "RESEARCH-GAP-SA-0036",
+      "source_id": "SRC-TOWNHALL-E3A7BCDC12B3EFEE",
+      "gap_types": [
+        "SPEAKER_ATTRIBUTION_MISSING",
+        "ORIGINAL_URL_MISSING",
+        "PUBLICATION_DATE_PARTIAL_OR_FILENAME_DERIVED"
+      ],
+      "status": "OPEN",
+      "manual_review_required": true
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "campaign_id": "star-atlas-transcripts-semantic-2026-07",
+  "status": "READY_FOR_SEMANTIC_REVIEW",
+  "base_campaign_id": "star-atlas-transcripts-ingestion-2026-07",
+  "collections": 3,
+  "sources": 36,
+  "caption_lines": 78752,
+  "segments": 1910,
+  "canonical_entity_links": 1022,
+  "unresolved_entity_references": 334,
+  "key_quotes": 526,
+  "timeline_candidates": 1590,
+  "promotion_candidates": 1909,
+  "research_gaps": 36,
+  "exact_duplicate_segments": 0,
+  "semantic_artifacts": 11,
+  "semantic_artifact_bytes": 8967265,
+  "knowledge_promotions": 0,
+  "graph_modifications": 0,
+  "publication_modifications": 0
+}

@@ -1,0 +1,155 @@
+{
+  "campaign_id": "star-atlas-transcripts-semantic-2026-07",
+  "schema_version": "1.0.0",
+  "generated_from": "archive/normalized/star-atlas-transcripts-ingestion-2026-07",
+  "status": "READY_FOR_REVIEW",
+  "input_counts": {
+    "collections": 3,
+    "sources": 36,
+    "caption_lines": 78752
+  },
+  "output_counts": {
+    "segments": 1910,
+    "entity_link_records": 1910,
+    "canonical_entity_links": 1022,
+    "unresolved_entity_references": 334,
+    "key_quotes": 526,
+    "timeline_candidates": 1590,
+    "promotion_candidates": 1909,
+    "research_gaps": 36,
+    "exact_duplicate_segments": 0
+  },
+  "speaker_attribution_confidence": {
+    "UNKNOWN": 1910
+  },
+  "topic_counts": {
+    "PRODUCT": 585,
+    "GAMEPLAY": 795,
+    "GOVERNANCE": 596,
+    "ECONOMY": 493,
+    "TECHNOLOGY": 515,
+    "LORE": 222,
+    "CORPORATE": 520,
+    "PEOPLE": 66,
+    "COMMUNITY": 824,
+    "PARTNERSHIP": 88,
+    "GUILD": 40,
+    "EVENT": 471,
+    "MARKETING": 179,
+    "OPERATIONS": 340
+  },
+  "statement_counts": {
+    "ANNOUNCEMENT": 250,
+    "CLARIFICATION": 85,
+    "COMMUNITY_FEEDBACK": 143,
+    "CORRECTION": 10,
+    "DESIGN_INTENT": 389,
+    "DISCUSSION": 48,
+    "Q_AND_A": 329,
+    "RELEASE": 259,
+    "RETROSPECTIVE": 142,
+    "ROADMAP": 1287,
+    "SPECULATION": 1496,
+    "STATUS_UPDATE": 689,
+    "TECHNICAL_EXPLANATION": 284,
+    "THEORYCRAFTING": 11
+  },
+  "lifecycle_counts": {
+    "DEPRECATED": 12,
+    "IN_DEVELOPMENT": 86,
+    "LIVE": 41,
+    "PLANNED": 326,
+    "TESTING": 41,
+    "UNKNOWN": 89,
+    "UPDATED": 44
+  },
+  "evidence_counts": {
+    "CONTRADICTION": 10,
+    "ENTITY_UPDATE": 772,
+    "GRAPH_RELATIONSHIP": 274,
+    "LOW_VALUE": 1,
+    "RESEARCH_GAP": 1910,
+    "TIMELINE_EVENT": 1590
+  },
+  "validation": {
+    "all_json_parses": true,
+    "source_ids_unique": true,
+    "segment_ids_unique": true,
+    "source_ids_reconcile": true,
+    "every_segment_has_entity_link_record": true,
+    "every_segment_references_transcript": true,
+    "timestamps_non_decreasing": true,
+    "timestamps_within_source_bounds": true,
+    "caption_lines_reconcile": true,
+    "no_orphan_segments": true,
+    "controlled_topics_only": true,
+    "controlled_statements_only": true,
+    "controlled_evidence_only": true,
+    "canonical_layers_untouched": true
+  },
+  "manifest": {
+    "artifact_count_excluding_quality_report": 10,
+    "artifacts": [
+      {
+        "path": "archive/semantic/star-atlas-transcripts/collection-index.json",
+        "size_bytes": 2029,
+        "sha256": "2d9e2b36d8d7964dd93f19eb6f584f5451ffe41c30be3c08537609f01837273f"
+      },
+      {
+        "path": "archive/semantic/star-atlas-transcripts/concept-index.json",
+        "size_bytes": 30561,
+        "sha256": "67808fa23343fcdcfcf6ce0603f1fa091cfd5092f14b8ed734c742544e4d0d4c"
+      },
+      {
+        "path": "archive/semantic/star-atlas-transcripts/entity-links.json",
+        "size_bytes": 721619,
+        "sha256": "360f84dafb18da46867979a28fec705aa7a313eca64599d61c4b1ad80a49e701"
+      },
+      {
+        "path": "archive/semantic/star-atlas-transcripts/promotion-candidates.json",
+        "size_bytes": 1806742,
+        "sha256": "6f231abecde4a43726c5c1fa8d60952fe02c9aa10b1c95dcee5b8afdfc7283a3"
+      },
+      {
+        "path": "archive/semantic/star-atlas-transcripts/quote-index.json",
+        "size_bytes": 198570,
+        "sha256": "f4abddac1891ff90bfaa78da2aed2e67ff22360bea68c557969c662dcf7880b0"
+      },
+      {
+        "path": "archive/semantic/star-atlas-transcripts/research-gaps.json",
+        "size_bytes": 11793,
+        "sha256": "0b1ecc38d5a35c37762186bb4a2f06f6da04425707df2e1acfc2921e9ee1b59a"
+      },
+      {
+        "path": "archive/semantic/star-atlas-transcripts/segment-index.json",
+        "size_bytes": 4505173,
+        "sha256": "3c6bae24d74fcfb99e4a1439ef6923e75436bc05946de221104db7791e506b4e"
+      },
+      {
+        "path": "archive/semantic/star-atlas-transcripts/source-index.json",
+        "size_bytes": 143089,
+        "sha256": "0db104ce4ae74aabb817311ad59ea3ec533cf6768855f393a102f3e59836bfb7"
+      },
+      {
+        "path": "archive/semantic/star-atlas-transcripts/timeline-candidates.json",
+        "size_bytes": 1276822,
+        "sha256": "7ef2ff3e15dc238aabd6fcd1b48dd824f0142ae71928d6a24b39941e8c3b373b"
+      },
+      {
+        "path": "archive/semantic/star-atlas-transcripts/topic-index.json",
+        "size_bytes": 265350,
+        "sha256": "f7b423b6545e4b295bc991ae25c401d24c7ce4479c250e0368c29883ba6aed22"
+      }
+    ],
+    "note": "quality-report.json is the manifest container and is excluded from its own checksum list."
+  },
+  "limitations": [
+    "All normalized transcripts lack systematic speaker labels; UNKNOWN is preserved rather than inferred.",
+    "Original URLs are absent and publication dates are missing or partial for 33 sources.",
+    "Semantic tags are deterministic machine-assisted annotations and require human review before knowledge promotion.",
+    "Canonical entity links use only identifiers already present in repository registries; other references remain unresolved.",
+    "A lifecycle tag reflects wording in a segment and does not independently establish release, execution, or current status.",
+    "No FIRST_MENTION tag is assigned because corpus order and partial dates cannot establish historical priority.",
+    "Automated transcript text may contain recognition errors."
+  ]
+}

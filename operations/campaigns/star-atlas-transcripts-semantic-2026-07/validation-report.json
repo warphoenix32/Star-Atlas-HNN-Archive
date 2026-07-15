@@ -1,0 +1,32 @@
+{
+  "campaign_id": "star-atlas-transcripts-semantic-2026-07",
+  "status": "PASS",
+  "checks": {
+    "json_documents_parsed": 11,
+    "source_ids_reconciled": 36,
+    "source_ids_unique": true,
+    "segment_ids_reconciled": 1910,
+    "segment_ids_unique": true,
+    "caption_lines_covered": 78752,
+    "segment_line_ranges_valid": true,
+    "segment_timestamps_valid": true,
+    "segment_ranges_non_overlapping": true,
+    "entity_link_records_reconciled": 1910,
+    "canonical_entity_ids_registered": true,
+    "quotes_verbatim": 526,
+    "timeline_candidates_reconciled": 1590,
+    "promotion_candidates_reconciled": 1909,
+    "research_gap_sources_reconciled": 36,
+    "quality_manifest_checksums_match": true,
+    "generator_deterministic": true,
+    "python_sources_compile": true,
+    "canonical_layers_modified": false
+  },
+  "warnings": [
+    "All speaker attribution remains UNKNOWN.",
+    "Original URLs are absent and publication dates are incomplete for 33 sources.",
+    "Semantic and lifecycle tags require human review before knowledge promotion.",
+    "Automated transcript text may contain recognition errors.",
+    "Repository Wave 1.5 validation has a pre-existing fixed-count drift: 962 reconciliation records versus an expected 960."
+  ]
+}
