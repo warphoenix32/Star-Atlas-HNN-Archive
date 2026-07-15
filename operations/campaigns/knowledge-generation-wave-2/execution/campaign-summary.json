@@ -3,8 +3,9 @@
   "as_of": "2026-07-15",
   "branch": "knowledge/wave-2a-foundation-pages",
   "base": "origin/main",
-  "outputs": 18,
+  "outputs": 19,
   "created_pages": [
+    "knowledge/Entity-Relationship-Map.md",
     "knowledge/organizations/ATMTA.md",
     "knowledge/governance/Ecosystem-Fund.md",
     "knowledge/gameplay/Galactic-Marketplace.md",
@@ -18,6 +19,7 @@
     "knowledge/gameplay/UE5-Showroom.md"
   ],
   "expanded_pages": [
+    "knowledge/README.md",
     "knowledge/gameplay/README.md",
     "knowledge/governance/Governance-and-Economy-Overview.md",
     "knowledge/governance/README.md",
@@ -33,11 +35,11 @@
     },
     {
       "path": "knowledge/media/Official-X-Account-Profile.md",
-      "reason": "Deferred to remain within the 18-output ceiling"
+      "reason": "Deferred to a later source-profile wave"
     },
     {
       "path": "knowledge/events/README.md",
-      "reason": "Deferred to remain within the 18-output ceiling"
+      "reason": "Deferred to a later events wave"
     }
   ],
   "rejected": [
@@ -49,11 +51,11 @@
   "knowledge_status_distribution": {
     "CANONICAL": 6,
     "HISTORICAL": 1,
-    "QUALIFIED": 11
+    "QUALIFIED": 12
   },
   "risk_class_distribution": {
     "R1": 6,
-    "R2": 12
+    "R2": 13
   },
   "single_authority_class_pages": [
     {
@@ -104,5 +106,10 @@
   "unresolved_dependencies": [
     "PR #15 for Official Discord source-profile evidence"
   ],
-  "validation_result": "PASS"
+  "curator_adjustments": [
+    "Added knowledge/Entity-Relationship-Map.md as a curator-approved nineteenth output and human-readable ontology.",
+    "Linked the map from knowledge/README.md.",
+    "The 18-output implementation ceiling was exceeded by one through explicit curator authorization after semantic review."
+  ],
+  "validation_result": "PASS_WITH_CURATOR_APPROVED_SCOPE_EXTENSION"
 }
