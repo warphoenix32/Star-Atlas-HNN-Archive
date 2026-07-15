@@ -1,0 +1,17 @@
+{
+  "campaign_id": "discord-announcements-semantic-enrichment",
+  "record_count": 0,
+  "records": [],
+  "review_disposition": "WITHHELD_PENDING_SECOND_SOURCE_LINKAGE",
+  "reason": "The prior 148 records were single-source Discord promotion candidates. They are removed from the cross-source queue until each record identifies at least one additional source and a claim-level relationship.",
+  "required_fields_for_future_records": [
+    "discord_source_id",
+    "additional_source_ids",
+    "relationship",
+    "claim_or_event_identity",
+    "cross_source_basis",
+    "manual_review_required",
+    "canonical_promotion_status"
+  ],
+  "single_source_queue": "archive/semantic/discord-announcements/promotion-candidates.json"
+}

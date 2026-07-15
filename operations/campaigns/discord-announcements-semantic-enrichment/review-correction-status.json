@@ -1,0 +1,12 @@
+{
+  "status": "APPLIED",
+  "event_sequence_count": 0,
+  "event_sequence_disposition": "WITHHELD_PENDING_EVENT_IDENTITY_RECLUSTERING",
+  "cross_source_promotion_count": 0,
+  "cross_source_promotion_disposition": "WITHHELD_PENDING_SECOND_SOURCE_LINKAGE",
+  "automated_rule_conflict_count": 0,
+  "contradiction_review_status": "NOT_EXHAUSTIVELY_HUMAN_REVIEWED",
+  "single_source_discord_promotion_count_preserved": 148,
+  "timeline_candidate_count_preserved": 136,
+  "post_generation_correction_script": "apply_review_corrections.py"
+}

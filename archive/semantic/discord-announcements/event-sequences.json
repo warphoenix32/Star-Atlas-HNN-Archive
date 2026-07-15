@@ -1,0 +1,16 @@
+{
+  "campaign_id": "discord-announcements-semantic-enrichment",
+  "sequence_count": 0,
+  "sequences": [],
+  "review_disposition": "WITHHELD_PENDING_EVENT_IDENTITY_RECLUSTERING",
+  "reason": "The previous deterministic grouping joined records solely by broad event category and entity, including unrelated events separated by months or years. Those 24 groups are withdrawn rather than represented as coherent event sequences.",
+  "required_future_method": {
+    "minimum_identity_signals": [
+      "shared explicit event or incident identifier",
+      "shared PIP number, release name, transaction, outage, or program instance",
+      "bounded temporal adjacency appropriate to the event class"
+    ],
+    "prohibited_basis": "category-plus-entity alone"
+  },
+  "evidence_preservation": "All underlying announcement source records remain preserved and independently reviewable."
+}
