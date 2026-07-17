@@ -1,0 +1,32 @@
+{
+  "campaign_id": "knowledge-context-refresh-2026-07-17",
+  "validation_result": "PASS",
+  "evidence_packets": 14,
+  "campaign_json_files_parsed": 17,
+  "broken_internal_links": [],
+  "prohibited_path_changes": [],
+  "checks": {
+    "json_parses": true,
+    "front_matter_structural_parse": true,
+    "sources_resolve": true,
+    "links_resolve": true,
+    "archive_untouched": true,
+    "graph_untouched": true,
+    "publication_untouched": true,
+    "git_diff_check": true,
+    "untracked_scope_checked": true,
+    "ledger_reconciles": true,
+    "semantic_lifecycle_checks": {
+      "failed_pip_undeclared_state_absent": true,
+      "pip33_direct_treasury": true,
+      "pip33_payment_unverified": true,
+      "refills_remain_attributed": true,
+      "product_event_order": true,
+      "master_event_order": true
+    },
+    "deterministic_regeneration": true,
+    "repository_tests": "8 passed"
+  },
+  "errors": [],
+  "warnings": []
+}

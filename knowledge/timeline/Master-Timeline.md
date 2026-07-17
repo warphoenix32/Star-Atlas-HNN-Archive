@@ -2,8 +2,23 @@
 title: Star Atlas Master Timeline
 entry_type: chronology
 status: active
-updated: 2026-07-14
+updated: 2026-07-17
 publication_status: public
+knowledge_status: QUALIFIED
+as_of: 2026-07-17
+confidence: HIGH
+page_risk_score: 6
+page_risk_class: R2
+evidence_basis:
+  - "archive/source-records/"
+  - "archive/normalized/discord-announcements/messages/"
+  - "archive/normalized/social-governance-semantic-enrichment/social-media/staratlas-posts.jsonl"
+known_limitations:
+  - "The master timeline is selective and preserves source-specific uncertainty."
+  - "Official statements are not independent verification of outcomes."
+research_gaps:
+  - "Resolve primary corporate records, SAGE 3D timing, and independent PIP execution evidence."
+review_after: 2027-01-17
 ---
 
 # Star Atlas Master Timeline
@@ -88,15 +103,15 @@ This is the selective canonical chronology of the project's major product, gover
 
 **Description:** HNN reported major layoffs, founder pay cuts, and a priority shift toward SAGE and a mobile application. **Significance:** Major corporate and product-strategy turning point. **Affected entities:** ATMTA, employees, SAGE, Marketplace, DAO, Faction Fleet. **Sources:** [SRC-HNN-A0BE0ADE1E7A46D5](../../archive/source-records/campaign-charlie-hnn/SRC-HNN-A0BE0ADE1E7A46D5.md). **Confidence:** MEDIUM. **Notes:** Community reporting; exact headcount and runway remain unresolved. **Superseded:** No.
 
-### Estimated 2023-09 — SAGE Labs launched
+### 2023-09-21 — SAGE Labs launched
 
-**Description:** Aephia's later analysis places launch in late September, and HNN reported activity two weeks after launch. **Significance:** Established sustained on-chain mining, crafting, movement, and market gameplay. **Affected entities:** SAGE Labs, SAGE, Solana, ATLAS. **Sources:** [SRC-AEPHIA-3D6BA2ECA269970E](../../archive/source-records/campaign-alpha-aephia/SRC-AEPHIA-3D6BA2ECA269970E.md), [SRC-HNN-B7CADCEE3659B6AB](../../archive/source-records/campaign-charlie-hnn/SRC-HNN-B7CADCEE3659B6AB.md). **Confidence:** MEDIUM. **Notes:** Exact official launch date absent. **Superseded:** Partly; Starbased revised the economy.
+**Description:** Official Discord stated that SAGE Labs was live on September 21 after announcing that date six days earlier. Aephia and HNN add later community context. **Significance:** Established sustained on-chain mining, crafting, movement, and market gameplay. **Affected entities:** SAGE Labs, SAGE, Solana, ATLAS. **Sources:** [SA-DISCORD-ANN-A37A8B7B245E7776](../../archive/normalized/discord-announcements/messages/SA-DISCORD-ANN-A37A8B7B245E7776.json), [SRC-AEPHIA-3D6BA2ECA269970E](../../archive/source-records/campaign-alpha-aephia/SRC-AEPHIA-3D6BA2ECA269970E.md), [SRC-HNN-B7CADCEE3659B6AB](../../archive/source-records/campaign-charlie-hnn/SRC-HNN-B7CADCEE3659B6AB.md). **Confidence:** HIGH. **Notes:** Dated official release evidence. **Superseded:** Partly; Starbased revised the economy.
 
 ## 2024 — Starbased, acquisition controversy, and first proposal approvals
 
-### 2024-04-02 — Starbased economic phase began
+### 2024-04-04 — Starbased economic phase went live after delay
 
-**Description:** Aephia documented an April 2 transition toward Starbased and away from passive Faction Fleet and Faction Claims rewards. **Significance:** Reoriented ATLAS emissions toward active SAGE gameplay. **Affected entities:** Starbased, Faction Fleet, Faction Claims, ATLAS. **Sources:** [SRC-AEPHIA-3D6BA2ECA269970E](../../archive/source-records/campaign-alpha-aephia/SRC-AEPHIA-3D6BA2ECA269970E.md), [SRC-AEPHIA-BF39BD68F68A5FB2](../../archive/source-records/campaign-alpha-aephia/SRC-AEPHIA-BF39BD68F68A5FB2.md). **Confidence:** MEDIUM. **Notes:** Community-source execution evidence. **Superseded:** No.
+**Description:** Official Discord planned the transition for April 2, reported a delay, and stated on April 4 that Starbased was live. Aephia documented the associated move away from passive Faction Fleet and Faction Claims rewards. **Significance:** Reoriented ATLAS emissions toward active SAGE gameplay. **Affected entities:** Starbased, Faction Fleet, Faction Claims, ATLAS. **Sources:** [SA-DISCORD-ANN-76D9861DCB3FE798](../../archive/normalized/discord-announcements/messages/SA-DISCORD-ANN-76D9861DCB3FE798.json), [SA-DISCORD-ANN-CCF4600A4C08F697](../../archive/normalized/discord-announcements/messages/SA-DISCORD-ANN-CCF4600A4C08F697.json), [SRC-AEPHIA-BF39BD68F68A5FB2](../../archive/source-records/campaign-alpha-aephia/SRC-AEPHIA-BF39BD68F68A5FB2.md). **Confidence:** HIGH. **Notes:** April 2 was planned; April 4 is the supported live date. **Superseded:** No.
 
 ### 2024-04-24 — Multichain Ventures acquisition controversy documented
 
@@ -112,13 +127,17 @@ This is the selective canonical chronology of the project's major product, gover
 
 ## 2025 — Holosim, C4 public discussion, and expanded governance
 
+### 2025-06-04 — Holosim public test phase live
+
+**Description:** The official X account stated that the browser product's test phase was live and that Holosim was used to test features before mainnet. **Significance:** Earliest dated first-party lifecycle record in the merged archive. **Affected entities:** Holosim, fleets, mainnet. **Sources:** `SRC-X-STARATLAS-1930380671010385958` and `SRC-X-STARATLAS-1930380673174647013` in the [official X corpus](../../archive/normalized/social-governance-semantic-enrichment/social-media/staratlas-posts.jsonl). **Confidence:** HIGH. **Notes:** Test access is not mainnet deployment. **Superseded:** No.
+
 ### 2025-06-05 — C4 public discussion documented
 
 **Description:** Herald recaps documented C4-focused Economic Forum and Atlas Brew discussions. **Significance:** Establishes public product discussion a year before official PTR documentation. **Affected entities:** C4, SAGE, Atlas Brew, Economic Forum. **Sources:** [SRC-IH-0E70509CB73938D1](../../archive/source-records/campaign-bravo-intergalactic-herald/SRC-IH-0E70509CB73938D1.md), [SRC-IH-0BC8CB9C78AD008A](../../archive/source-records/campaign-bravo-intergalactic-herald/SRC-IH-0BC8CB9C78AD008A.md). **Confidence:** MEDIUM. **Notes:** Discussion, not release. **Superseded:** No.
 
-### 2025-07-23 — Holosim documented as playable
+### 2025-08-20 — Holosim Season 1, Chapter 1 live
 
-**Description:** Aephia published a comprehensive guide to the free-to-play browser strategy MMO. **Significance:** Earliest dated archived guide showing community access. **Affected entities:** Holosim, fleets, starbases, SAGE Starbased. **Sources:** [SRC-AEPHIA-A26222BF7C6B58DA](../../archive/source-records/campaign-alpha-aephia/SRC-AEPHIA-A26222BF7C6B58DA.md). **Confidence:** MEDIUM. **Notes:** Exact launch date unresolved. **Superseded:** No.
+**Description:** The official X account stated that Chapter 1 was live. **Significance:** Establishes a dated Holosim product update. **Affected entities:** Holosim. **Sources:** `SRC-X-STARATLAS-1958322079927079252` in the [official X corpus](../../archive/normalized/social-governance-semantic-enrichment/social-media/staratlas-posts.jsonl). **Confidence:** HIGH. **Notes:** Official release statement; outcomes remain unmeasured. **Superseded:** No.
 
 ### 2025-10-06 — PIP-19 through PIP-21 tracked together
 
@@ -134,6 +153,10 @@ This is the selective canonical chronology of the project's major product, gover
 
 ## 2026 — C4 PTR and unresolved treasury governance
 
+### 2026-03-10 — Holosim Chapter 2 live after delay
+
+**Description:** A February 19 plan was delayed, then official X and Discord records stated that Chapter 2 was live on March 10. **Significance:** Preserves plan, delay, and actual release separately. **Affected entities:** Holosim Chapter 2. **Sources:** `SRC-X-STARATLAS-2024197285215948920`, `SRC-X-STARATLAS-2031445052623606253` in the [official X corpus](../../archive/normalized/social-governance-semantic-enrichment/social-media/staratlas-posts.jsonl), [SA-DISCORD-ANN-D8337FA27E0A550A](../../archive/normalized/discord-announcements/messages/SA-DISCORD-ANN-D8337FA27E0A550A.json). **Confidence:** HIGH. **Notes:** February 19 was not a release. **Superseded:** No.
+
 ### 2026-04-27 — DAO Casters Brew series begins in archive
 
 **Description:** Herald published a recap of the first DAO Casters Brew. **Significance:** Marks a new community governance-communications format. **Affected entities:** DAO Casters, Star Atlas DAO, Atlas Brew. **Sources:** [SRC-IH-7713C1F275F0A220](../../archive/source-records/campaign-bravo-intergalactic-herald/SRC-IH-7713C1F275F0A220.md). **Confidence:** MEDIUM. **Notes:** Community program, not a governance action. **Superseded:** No.
@@ -144,12 +167,16 @@ This is the selective canonical chronology of the project's major product, gover
 
 ### 2026-07-06 — PIP-33 controversy enters archive
 
-**Description:** Aephia documented the PIP-33 treasury-reimbursement period. **Significance:** Preserves a major governance and institutional-finance dispute requiring separate proposal, vote, and execution records. **Affected entities:** PIP-33, DAO Treasury, ATMTA, POLIS voters. **Sources:** [SRC-AEPHIA-0E6B828A341EFBCC](../../archive/source-records/campaign-alpha-aephia/SRC-AEPHIA-0E6B828A341EFBCC.md). **Confidence:** MEDIUM. **Notes:** Outcome and execution remain unresolved. **Superseded:** No.
+**Description:** Aephia documented the PIP-33 treasury-reimbursement debate while voting was still in progress. **Significance:** Preserves contemporary community analysis without backdating the later result. **Affected entities:** PIP-33, DAO Treasury, ATMTA, POLIS voters. **Sources:** [SRC-AEPHIA-0E6B828A341EFBCC](../../archive/source-records/campaign-alpha-aephia/SRC-AEPHIA-0E6B828A341EFBCC.md). **Confidence:** MEDIUM. **Notes:** Coverage is not a vote result or payment record. **Superseded:** No.
+
+### 2026-07-10 — PIP-33 passed; payment remains unverified
+
+**Description:** The captured portal record establishes the passing result after voting ended; a July 12 official Discord post acknowledged passage. **Significance:** Separates the result from the earlier debate, scheduled tranches, and actual payment. **Affected entities:** PIP-33, DAO Treasury, ATMTA, POLIS voters. **Sources:** [PIP-33 knowledge record](../governance/PIP-33-ATMTA-Historic-Expense-Reimbursement.md), [SA-DISCORD-ANN-AA9B47413B9C587D](../../archive/normalized/discord-announcements/messages/SA-DISCORD-ANN-AA9B47413B9C587D.json). **Confidence:** HIGH for passage; LOW for execution. **Notes:** No populated payment evidence was identified as of 2026-07-17. **Superseded:** No.
 
 ## Remaining high-priority gaps
 
 - Evidence-backed 2020 founding and incorporation chronology.
-- Exact public launch dates for SAGE Labs, Starbased, SAGE 3D, and Holosim.
+- Exact public launch date for SAGE 3D.
 - Complete UE5 build history after Showroom R2.1.
 - Official vote and execution records for numbered PIPs.
 - Primary corporate records for layoffs, runway, acquisitions, and later financing.

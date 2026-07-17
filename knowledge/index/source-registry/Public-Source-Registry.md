@@ -2,7 +2,7 @@
 title: Star Atlas Public Source Registry
 entry_type: source-registry
 status: active
-updated: 2026-07-12
+updated: 2026-07-17
 publication_status: public
 ---
 
@@ -22,6 +22,9 @@ This registry records public source families and individual high-value sources d
 | SRC-OFF-PRESS-KIT | https://experience.staratlas.com/newsroom/press-kit | Founding date, white papers, economics paper, visual assets | Strong official index; linked documents require separate ingestion |
 | SRC-OFF-SUPPORT-TOKENS | https://support.staratlas.com/hc/en-us/articles/47061439814547-What-are-the-Star-Atlas-tokens | Current ATLAS and POLIS descriptions | Official support language; updated Dec. 8, 2025 |
 | SRC-OFF-EPIC-FAQ | https://store.epicgames.com/p/star-atlas-faq-fb116c | UE5 product description, iterative release strategy and historical feature snapshot | Official storefront content but may contain stale roadmap language |
+| SRC-OFF-DISCORD | Official Star Atlas Discord announcements | Dated operational announcements, launches, delays, governance notices, and corrections | [Qualified corpus profile](../../media/Official-Discord-Announcements-Profile.md); exported authors are inferred and attachments are incomplete |
+| SRC-OFF-X | https://x.com/staratlas | Dated official social statements and source discovery | [Qualified corpus profile](../../media/Official-X-Account-Profile.md); originals and retweets have different authority |
+| SRC-OFF-MEDIUM | https://medium.com/star-atlas | Official long-form publication surface | [Qualified source-family profile](../../media/Star-Atlas-Medium-Publication-Profile.md); complete article-level review not yet performed |
 
 ## Governance and economy
 
@@ -62,7 +65,7 @@ Additional approved source families requiring individual assessment:
 - Atlas Brew recordings
 - Guild websites, Discord announcements and public governance statements
 - Podcast directories and preserved RSS feeds
-- Reddit, X, Medium, YouTube, Facebook and Instagram archives
+- Reddit, YouTube, Facebook and Instagram archives
 - Solana explorers and independent analytics dashboards
 
 Community sources are especially valuable for chronology, reaction and institutional memory, but claims should be attributed and cross-checked where practical.
@@ -87,4 +90,5 @@ Community sources are especially valuable for chronology, reaction and instituti
 - Enumerate the complete Aephia weekly newsletter archive and preserve issue metadata.
 - Reconcile Aephia forecasts against later releases and official records.
 - Recover HNN article URLs, podcast feeds and video metadata.
-- Create source records for major Discord exports without publishing sensitive raw content.
+- Reconcile remaining Discord and X candidates against longer-form official and execution evidence.
+- Complete article-by-article preservation and review of the official Medium publication.

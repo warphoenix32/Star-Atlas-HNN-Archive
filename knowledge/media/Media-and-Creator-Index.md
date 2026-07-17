@@ -2,7 +2,7 @@
 title: Star Atlas Media and Creator Index
 entry_type: media-registry
 status: active
-updated: 2026-07-12
+updated: 2026-07-17
 publication_status: public
 ---
 
@@ -21,6 +21,12 @@ This index tracks independent publications, recurring shows, analysts and creato
 | MEDIA-GALIA-CRAFTERS | Galia Crafters | Gameplay and economic explainers | Profile pending |
 | MEDIA-METAVERSE-EXPLORER | MetaVerse Explorer | Long-running numbered video updates and Aephia-affiliated commentary | Profile pending |
 | MEDIA-ATLAS-BREW | Atlas Brew | Community broadcast and interview archive | Profile pending |
+
+Official publication surfaces are indexed separately because their authority and completeness boundaries differ from community media:
+
+- [Official Discord Announcements Profile](Official-Discord-Announcements-Profile.md)
+- [Official Star Atlas X Account Profile](Official-X-Account-Profile.md)
+- [Star Atlas Medium Publication Profile](Star-Atlas-Medium-Publication-Profile.md) — qualified; the article-by-article corpus is incomplete.
 
 ## Aephia Industries publications
 

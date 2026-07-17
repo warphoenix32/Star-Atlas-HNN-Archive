@@ -1,13 +1,15 @@
 ---
 title: "Star Atlas Ecosystem Fund"
 knowledge_status: QUALIFIED
-as_of: 2026-07-15
+as_of: 2026-07-17
 confidence: MEDIUM
 page_risk_score: 6
 page_risk_class: R2
 evidence_basis:
   - "archive/semantic/governance/pip-registry-semantic.json"
   - "archive/source-records/social-governance-semantic-enrichment/governance/SRC-PIP-23-0ECF2928.json"
+  - "archive/source-records/social-governance-semantic-enrichment/governance/SRC-PIP-33-397FEE39.json"
+  - "operations/campaigns/social-governance-semantic-enrichment/input-council-tracker/council-pip-tracker-semantic-records.jsonl"
 known_limitations:
   - "Current-state statements are date-bound."
   - "Absence of evidence is not evidence of non-occurrence."
@@ -27,6 +29,10 @@ PIP-23 allocates 20% of ATLAS and 20% of USDC above a $500,000 DAO-treasury rese
 
 The Council's specified duties are to review and steward eligible proposals, coordinate special approval where needed, implement passed PIPs, and track payments. The same text says the Council does not authorize legally binding contracts, execute fund-refill transactions, conduct KYC/KYB, or approve a PIP before voting. These are policy assignments, not proof that a particular transfer occurred.
 
+PIP-23 reports two fund-refill transactions in its own proposal text: 159,713,142 ATLAS on 2024-10-04 and 87,551,239 ATLAS on 2025-07-03. It includes transaction references for transfers into the fund wallet, but this campaign did not independently reconcile those transactions. The proposal therefore establishes an attributed refill report, not independently verified refills, recipient payments, or completed work.
+
+[PIP-33](PIP-33-ATMTA-Historic-Expense-Reimbursement.md) is outside this mechanism. Its proposal expressly requests a direct DAO Treasury measure exceeding the ordinary Ecosystem Fund limit, and the Council tracker semantic record marks `ecosystem_fund: NO`. It must not be used when calculating or describing Ecosystem Fund recipient activity. [Council tracker semantic records](../../operations/campaigns/social-governance-semantic-enrichment/input-council-tracker/council-pip-tracker-semantic-records.jsonl)
+
 ## Decision and payment boundaries
 
 An approved grant proposal authorizes an action under the applicable policy. It does not by itself establish that funds were transferred, milestones were accepted, or deliverables were completed. Council tracker fields are retained as attributed operational assessments:
@@ -39,7 +45,7 @@ independent_verification_status: UNKNOWN
 
 ## Current state
 
-As of 2026-07-15, PIP-23 is the supported superseding policy. Independent payment and deliverable verification remains incomplete for many funded PIPs.
+As of 2026-07-17, PIP-23 is the supported superseding policy. Its two reported refill references do not independently verify the refills, recipient payments, or deliverables, which remain incomplete for many funded PIPs.
 
 ## Evidence references
 
