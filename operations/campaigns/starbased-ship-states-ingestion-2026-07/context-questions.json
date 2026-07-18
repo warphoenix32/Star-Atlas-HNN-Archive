@@ -1,0 +1,71 @@
+{
+  "campaign_id": "starbased-ship-states-ingestion-2026-07",
+  "status": "AWAITING_OPERATOR_CONTEXT",
+  "blocking_question_count": 6,
+  "questions": [
+    {
+      "question_id": "Q01_SOURCE_AUTHORITY",
+      "topic": "source authority",
+      "question": "Who created and maintains this export, and does 'rydn' identify Ryden/Ryden Systems? Please provide the originating application, sheet, URL, or version if one exists.",
+      "blocking": true,
+      "answer": null,
+      "decision_status": "OPEN"
+    },
+    {
+      "question_id": "Q02_CURRENTLY_AVAILABLE",
+      "topic": "row scope",
+      "question": "What does 'currently available' mean here: minted NFTs, marketplace-listed ships, SAGE-playable ships, C4-planned ships, or another inclusion rule?",
+      "blocking": true,
+      "answer": null,
+      "decision_status": "OPEN"
+    },
+    {
+      "question_id": "Q03_GAME_MODULE_ASSIGNMENT",
+      "topic": "SAGE and C4 applicability",
+      "question": "Which columns are current SAGE values, which are planned C4 values, and which are shared? Are future C4 values provisional design targets?",
+      "blocking": true,
+      "answer": null,
+      "decision_status": "OPEN"
+    },
+    {
+      "question_id": "Q04_SHIP_CODE",
+      "topic": "blank first header",
+      "question": "Please confirm that the unnamed first column is the canonical ship code or asset symbol, and identify the system that defines codes such as PULSE, FBLAIR, and T1TAN.",
+      "blocking": true,
+      "answer": null,
+      "decision_status": "OPEN"
+    },
+    {
+      "question_id": "Q05_MARKETPLACE_LINKS",
+      "topic": "lost hyperlinks",
+      "question": "The 'NameLinks to Marketplace' column contains names but no URLs in CSV. Were spreadsheet hyperlinks stripped during export, and should marketplace URLs be recovered from the source sheet?",
+      "blocking": false,
+      "answer": null,
+      "decision_status": "OPEN"
+    },
+    {
+      "question_id": "Q06_IDENTICAL_METRICS",
+      "topic": "derived metric integrity",
+      "question": "Are the three always-identical pairs intentional: CargoCapacity vs USDC/Cargo Capacity, Mining Rate vs USDC/Mining Rate, and Fuel/AU Warp vs Cargo/Warp Fuel? If derived from price, what price field and timestamp should be used?",
+      "blocking": true,
+      "answer": null,
+      "decision_status": "OPEN"
+    },
+    {
+      "question_id": "Q07_UNITS_AND_SCALE",
+      "topic": "units and numeric scale",
+      "question": "Please confirm the native units and scale factors for capacities, fuel, food, ammo, SDU, and movement values. In particular, is Warp Speed = 100000 AU/sec literal or scaled?",
+      "blocking": true,
+      "answer": null,
+      "decision_status": "OPEN"
+    },
+    {
+      "question_id": "Q08_CANONICAL_NAMES",
+      "topic": "name normalization",
+      "question": "Should names and specialization labels be preserved exactly as game-facing canonical text, or corrected for capitalization/spelling (for example VZUS solos, Opal Jetjet, and Data runner)?",
+      "blocking": false,
+      "answer": null,
+      "decision_status": "OPEN"
+    }
+  ]
+}

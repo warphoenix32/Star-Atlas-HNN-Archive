@@ -1,0 +1,21 @@
+{
+  "artifact_id": "SRC-STARB-7B90513E578998B8",
+  "artifact_type": "tabular_ship_game_state_export",
+  "campaign_id": "starbased-ship-states-ingestion-2026-07",
+  "custody": {
+    "acquired_at": "2026-07-18",
+    "acquisition_method": "submitted directly by repository operator",
+    "original_filename": "rydn_starbased_ships_20260718.csv",
+    "preservation_policy": "byte-for-byte raw preservation",
+    "submitted_source_attribution": "RYDN / Ryden; exact authorship and export origin require operator confirmation"
+  },
+  "raw_artifact": {
+    "byte_length": 10296,
+    "encoding": "UTF-8 without BOM",
+    "line_endings": "CRLF",
+    "path": "archive/raw/starbased-ship-states/rydn_starbased_ships_20260718.csv",
+    "sha256": "7b90513e578998b8e763dd440984268000efed91c95feb047e81a19817a82dc9"
+  },
+  "scope_as_submitted": "Every currently available Star Atlas ship and associated game states for SAGE and the future C4 module.",
+  "status": "RAW_PRESERVED_SEMANTIC_CONTEXT_PENDING"
+}

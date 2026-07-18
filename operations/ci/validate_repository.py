@@ -162,8 +162,17 @@ def validate_forbidden_paths(changes: list[str]) -> str:
     )) for path in changes)
     knowledge_campaign = any(path.startswith(("knowledge/", "operations/campaigns/knowledge-narrative-depth-001/")) for path in changes)
     medium_campaign = any("star-atlas-medium" in path or path.startswith(("archive/raw/medium/", "archive/normalized/medium/", "archive/source-records/medium/")) for path in changes)
+    ship_campaign = any(path.startswith((
+        "archive/raw/starbased-ship-states/",
+        "archive/provenance/starbased-ship-states/",
+        "operations/campaigns/starbased-ship-states-ingestion-2026-07/",
+        "operations/tests/starbased_ship_states/",
+    )) for path in changes)
     common = (".github/workflows/", "operations/ci/")
-    if ledger_campaign and not medium_campaign:
+    selected = sum((ledger_campaign, knowledge_campaign and not ledger_campaign, medium_campaign, ship_campaign))
+    if selected != 1:
+        raise ValidationFailure("unable to select exactly one recognized campaign path contract")
+    if ledger_campaign:
         allowed = common + (
             "knowledge/governance/PIP-Registry.md",
             "knowledge/governance/PIP-Registry.json",
@@ -171,10 +180,10 @@ def validate_forbidden_paths(changes: list[str]) -> str:
             "operations/campaigns/canonical-pip-governance-ledger-2026-07/",
         )
         label = "canonical-pip-governance-ledger-2026-07"
-    elif knowledge_campaign and not medium_campaign:
+    elif knowledge_campaign:
         allowed = common + ("knowledge/", "operations/campaigns/knowledge-narrative-depth-001/")
         label = "knowledge-narrative-depth-001"
-    elif medium_campaign and not knowledge_campaign:
+    elif medium_campaign:
         allowed = common + (
             "archive/raw/medium/star-atlas/",
             "archive/normalized/medium/star-atlas/",
@@ -185,8 +194,14 @@ def validate_forbidden_paths(changes: list[str]) -> str:
             "operations/campaigns/star-atlas-medium-ingestion-2026-07/",
         )
         label = "star-atlas-medium-ingestion-2026-07"
-    else:
-        raise ValidationFailure("unable to select one recognized campaign path contract")
+    elif ship_campaign:
+        allowed = common + (
+            "archive/raw/starbased-ship-states/",
+            "archive/provenance/starbased-ship-states/",
+            "operations/campaigns/starbased-ship-states-ingestion-2026-07/",
+            "operations/tests/starbased_ship_states/",
+        )
+        label = "starbased-ship-states-ingestion-2026-07"
     forbidden = [path for path in changes if not path.startswith(allowed)]
     if forbidden:
         raise ValidationFailure(f"{label} forbidden-path changes:\n" + "\n".join(forbidden))
@@ -264,6 +279,26 @@ def validate_pip_ledger_campaign() -> None:
         raise ValidationFailure("PIP ledger generated artifacts do not reconcile with committed files:\n" + diff.stdout)
 
 
+def validate_starbased_ship_campaign() -> None:
+    campaign = ROOT / "operations/campaigns/starbased-ship-states-ingestion-2026-07"
+    command = [sys.executable, str(campaign / "validate_campaign.py")]
+    exclusions = {"build_campaign.py", "validate_campaign.py", "README.md"}
+    first = run_cycle(command, campaign, exclusions)
+    second = run_cycle(command, campaign, exclusions)
+    if first != second:
+        differing = sorted(path for path in set(first) | set(second) if first.get(path) != second.get(path))
+        raise ValidationFailure("Starbased ship campaign output is not deterministic: " + ", ".join(differing))
+    diff = run(
+        "git", "diff", "--exit-code", "--",
+        str(campaign.relative_to(ROOT)),
+        "archive/raw/starbased-ship-states",
+        "archive/provenance/starbased-ship-states",
+        "operations/tests/starbased_ship_states",
+    )
+    if diff.returncode:
+        raise ValidationFailure("Starbased ship campaign artifacts do not reconcile with committed files:\n" + diff.stdout)
+
+
 def repository_mode(base_ref: str) -> None:
     documents, records = parse_json_corpus()
     schemas = validate_declared_schemas()
@@ -286,6 +321,8 @@ def campaign_mode(base_ref: str) -> None:
         validate_medium_campaign()
     elif contract == "canonical-pip-governance-ledger-2026-07":
         validate_pip_ledger_campaign()
+    elif contract == "starbased-ship-states-ingestion-2026-07":
+        validate_starbased_ship_campaign()
     print(f"PASS campaign-contracts: {contract}")
 
 
