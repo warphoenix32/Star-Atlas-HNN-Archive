@@ -23,11 +23,25 @@
       "tag": "BULK"
     },
     {
-      "canonical_entity": "COEX",
-      "entity_type": "unresolved_tag",
-      "resolution_basis": "observed_display_tag_only",
-      "resolution_status": "HUMAN_REVIEW_REQUIRED",
+      "canonical_entity": "Coexist",
+      "entity_type": "guild",
+      "resolution_basis": "repository_operator_confirmation",
+      "resolution_status": "OPERATOR_CONFIRMED",
       "tag": "COEX"
+    },
+    {
+      "canonical_entity": "Deep Profits",
+      "entity_type": "guild",
+      "resolution_basis": "repository_operator_confirmation",
+      "resolution_status": "OPERATOR_CONFIRMED",
+      "tag": "DEEP"
+    },
+    {
+      "canonical_entity": "Eclypse",
+      "entity_type": "guild",
+      "resolution_basis": "repository_operator_confirmation",
+      "resolution_status": "OPERATOR_CONFIRMED",
+      "tag": "EC"
     },
     {
       "canonical_entity": "EMP",
@@ -45,9 +59,9 @@
     },
     {
       "canonical_entity": "Rome",
-      "entity_type": "unresolved_tag",
-      "resolution_basis": "observed_display_tag_only",
-      "resolution_status": "HUMAN_REVIEW_REQUIRED",
+      "entity_type": "guild",
+      "resolution_basis": "repository_operator_confirmation",
+      "resolution_status": "OPERATOR_CONFIRMED",
       "tag": "ROME"
     },
     {

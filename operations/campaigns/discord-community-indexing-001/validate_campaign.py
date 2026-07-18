@@ -21,7 +21,7 @@ JSON_FILES = (
     "conflict-report.json", "research-backlog.json", "tag-registry.json",
     "discord-channel-coverage.json", "discord-channel-gap-report.json",
     "discord-collection-backlog.json", "human-resolution-queue.json",
-    "validation-report.json",
+    "curator-decisions.json", "validation-report.json",
 )
 JSONL_FILES = (
     "identity-index.jsonl", "guild-index.jsonl", "organization-index.jsonl",

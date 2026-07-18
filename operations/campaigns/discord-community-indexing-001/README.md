@@ -47,7 +47,9 @@ Every archive-derived claim carries its Source ID, timestamp, available native i
 
 `observed_authorship` proves only that an export associates a display label with a message; it does not independently prove a legal identity. Fuzzy similarity never merges identities.
 
-Repository-operator confirmations are kept in a separate `operator_confirmation` evidence channel. Those records use `source_id: null`, `operator_assertion: true`, a review note, and no fabricated archive citation. A null Source ID is not permitted for archive evidence. Confirmed operator aliases include the reviewed identity families for King Bryan, Bodhi, Michael Wagner, and Jose. Unresolved names remain separate seeded records.
+Repository-operator confirmations are kept in a separate `operator_confirmation` evidence channel. Those records use `source_id: null`, `operator_assertion: true`, a review note, and no fabricated archive citation. A null Source ID is not permitted for archive evidence. `curator-decisions.json` preserves all 29 PR-review adjudications, including confirmations, deferrals, ignored candidates, the approved Funcracker promotion, and the non-person software classification. Unresolved names remain separate seeded records.
+
+Deleted-user identities and tags are excluded from the public identity and promotion views. Their source messages remain available only as contextual evidence for other public community subjects. Public handles and community roles are retained; private personal information is not added.
 
 ## Organizations, display tags, and roles
 
@@ -59,13 +61,14 @@ Organization types are controlled as:
 - `official_team`;
 - `informal_group`;
 - `community_meme`;
+- `software_agent`;
 - `unresolved_tag`.
 
-The operator-confirmed entities currently include Aephia (`AEP`, `Aephia Industries`) and BULK as guilds; Intergalactic Alliance (`IA`) as a guild alliance; Star Atlas Italia (`SAI`) as a community organization; and `426` as a community meme. BULK is never expanded into an invented long form.
+The operator-confirmed guilds now include Aephia (`AEP`, `Aephia Industries`), BULK, Rome, The Club Guild (`The Club`), Coexist (`COEX`), Eclypse (`EC`), and Deep Profits (`DEEP`). Intergalactic Alliance (`IA`) remains a guild alliance; Star Atlas Italia (`SAI`), Polaris Fuel, Star Atlas TV, and Ryden Systems/EveEye are community organizations; `426` is a community meme. The Star Atlas AI App is a software agent and is excluded from person promotion. BULK is never expanded into an invented long form.
 
 A display tag is association evidence, not membership proof. A leading confirmed guild tag may produce `possible_member_of` for human review. A pipe-separated guild component such as `[IA] Dodger | BULK` produces `associated_with_guild`, not membership. `IA` produces `associated_with_alliance`, `SAI` produces `associated_with_organization`, and `426` produces only `has_display_tag`. Unknown tags remain unresolved and enter the queue.
 
-Role dimensions remain separate. Guild founder, guild leader, guild officer, alliance leader, DAO Council service, official team membership, creator/builder activity, community organizing, and historical significance are not interchangeable. DAO Council service does not increase guild-leadership confidence. Operator-confirmed roles for Funcracker and Eoganacht remain visibly separate from archive-derived role evidence.
+Role dimensions remain separate. Guild founder, guild leader, guild officer, alliance leader, DAO Council service, official team membership, creator/builder activity, community organizing, and historical significance are not interchangeable. DAO Council service does not increase guild-leadership confidence. All operator-confirmed roles remain visibly separate from archive-derived role evidence. The available archive independently supports the 2025 Joni awards, MagicPuncher's gameplay-engineer attribution, Dom's event work, ZeSKK's lore activity, The Club's guild status, and several display-tag associations.
 
 Identity rows without a native author ID or confirmed alias are explicitly `observed_handle_cluster` records rather than silently asserted canonical people. Seeded unresolved identities remain `seeded_unresolved_identity` records.
 
@@ -75,9 +78,9 @@ Competition extraction is a dedicated typed pass. A placement record stores even
 
 ## Human review and promotion boundary
 
-`human-resolution-queue.json` is the durable operator workspace. It includes suspected duplicates, possible aliases, unknown tags, uncertain organization types, possible guild memberships, malformed competition rows, unresolved participants, missing channel identity, historical source gaps, and the required seeded unresolved names. Each item records observed values, candidate resolution, confidence, evidence, why review is required, allowed decisions, a null operator decision, and `OPEN` status.
+`human-resolution-queue.json` is the durable workspace for issues that remain open after adjudication. It includes suspected duplicates, possible aliases, unknown tags, uncertain organization types, possible guild memberships, malformed competition rows, unresolved participants, missing channel identity, historical source gaps, deferred identities, the Virtuwaal/Virtuwuul spelling conflict, and missing dates for Rome's succession history. Each item records observed values, candidate resolution, confidence, evidence, why review is required, allowed decisions, a null operator decision, and `OPEN` status.
 
-`promotion-candidates.json` is review-oriented only. It contains explicit score dimensions and controlled review statuses; it never emits a bare `promote` recommendation. Message volume alone has no authority, and machine confidence does not establish factual truth.
+`promotion-candidates.json` contains explicit score dimensions and controlled review statuses; it never emits a bare machine-generated `promote` recommendation. Funcracker is marked `OPERATOR_APPROVED_FOR_PROMOTION` based on the supplied human decision. Chri.z is deferred, Diego_Diaz08 and inti are omitted from promotion review, Shaddix remains deferred in the queue, and the software bot is not eligible. Message volume alone has no authority, and machine confidence does not establish factual truth.
 
 ## Commands
 
@@ -114,6 +117,7 @@ The build uses only the Python standard library. Validation also runs the reposi
 - `promotion-candidates.json`: review status and independent score dimensions without automatic promotion.
 - `conflict-report.json`: identity non-merge conflicts, duplicate-review candidates, and missing native identifiers.
 - `human-resolution-queue.json`: structured unresolved decisions with allowed operator actions.
+- `curator-decisions.json`: the complete 29-item human adjudication record applied by this revision.
 - `discord-channel-coverage.json`: export-scoped server/community/channel coverage and timestamp bounds.
 - `discord-channel-gap-report.json`: known temporal and identity gaps without false completeness claims.
 - `discord-collection-backlog.json`: prioritized acquisition targets and required artifacts.

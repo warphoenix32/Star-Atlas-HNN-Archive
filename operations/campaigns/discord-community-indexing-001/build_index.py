@@ -36,11 +36,12 @@ EVIDENCE_CLASSES = {
 }
 ORGANIZATION_TYPES = {
     "guild", "guild_alliance", "community_organization", "official_team",
-    "informal_group", "community_meme", "unresolved_tag",
+    "informal_group", "community_meme", "software_agent", "unresolved_tag",
 }
 REVIEW_STATUSES = {
     "READY_FOR_HUMAN_PROMOTION_REVIEW", "EVIDENCE_SUPPORTED_PROFILE_CANDIDATE",
     "REQUIRES_IDENTITY_RESOLUTION", "REQUIRES_ROLE_CORROBORATION", "DISCOVERY_ONLY", "DEFERRED",
+    "OPERATOR_APPROVED_FOR_PROMOTION",
 }
 COVERAGE_STATUSES = {
     "ACTIVE_PARTIAL", "ACTIVE_CURRENT_TO_LAST_CAPTURE", "HISTORICAL_PARTIAL",
@@ -52,22 +53,44 @@ CHANNEL_CATEGORIES = {
     "support", "uncategorized",
 }
 ENTITY_SEEDS = [
-    {"entity_type": "guild", "canonical_name": "Aephia", "aliases": ["AEP", "Aephia Industries"], "resolution_status": "OPERATOR_CONFIRMED"},
-    {"entity_type": "guild", "canonical_name": "BULK", "aliases": [], "resolution_status": "OPERATOR_CONFIRMED"},
+    {"entity_type": "guild", "canonical_name": "Aephia", "aliases": ["AEP", "Aephia Industries"], "resolution_status": "OPERATOR_CONFIRMED", "meaning": "Guild co-founded by Funcracker and Prometheus."},
+    {"entity_type": "guild", "canonical_name": "BULK", "aliases": ["Bulk"], "resolution_status": "OPERATOR_CONFIRMED", "meaning": "Specialized armed-freighting guild founded and led by Eoganacht."},
     {"entity_type": "community_organization", "canonical_name": "Star Atlas Italia", "aliases": ["SAI"], "resolution_status": "OPERATOR_CONFIRMED"},
     {"entity_type": "guild_alliance", "canonical_name": "Intergalactic Alliance", "aliases": ["IA"], "resolution_status": "OPERATOR_CONFIRMED"},
     {"entity_type": "community_meme", "canonical_name": "426", "aliases": [], "resolution_status": "OPERATOR_CONFIRMED", "meaning": "A community gag derived from ‘4 to 6 weeks,’ used in response to repeatedly missed product-delivery timelines."},
-    {"entity_type": "unresolved_tag", "canonical_name": "The Club Guild / The Club", "aliases": ["The Club Guild", "The Club"], "resolution_status": "HUMAN_REVIEW_REQUIRED"},
+    {"entity_type": "guild", "canonical_name": "The Club Guild", "aliases": ["The Club"], "resolution_status": "OPERATOR_CONFIRMED", "meaning": "One of the original Star Atlas guilds."},
     {"entity_type": "unresolved_tag", "canonical_name": "The Vanguard", "aliases": [], "resolution_status": "HUMAN_REVIEW_REQUIRED"},
-    {"entity_type": "unresolved_tag", "canonical_name": "Rome", "aliases": ["ROME"], "resolution_status": "HUMAN_REVIEW_REQUIRED"},
+    {"entity_type": "guild", "canonical_name": "Rome", "aliases": ["ROME"], "resolution_status": "OPERATOR_CONFIRMED", "meaning": "Guild founded by Witticus, ReyVeezy, and FancyHat; associated with the Metaverse Nomads Show."},
+    {"entity_type": "guild", "canonical_name": "Coexist", "aliases": ["COEX"], "resolution_status": "OPERATOR_CONFIRMED", "meaning": "Turkish-based guild."},
+    {"entity_type": "guild", "canonical_name": "Eclypse", "aliases": ["EC"], "resolution_status": "OPERATOR_CONFIRMED"},
+    {"entity_type": "guild", "canonical_name": "Deep Profits", "aliases": ["DEEP"], "resolution_status": "OPERATOR_CONFIRMED"},
+    {"entity_type": "community_organization", "canonical_name": "Polaris Fuel", "aliases": [], "resolution_status": "OPERATOR_CONFIRMED", "meaning": "Organization focused on reducing fuel prices in Star Atlas."},
+    {"entity_type": "community_organization", "canonical_name": "Star Atlas TV", "aliases": [], "resolution_status": "OPERATOR_CONFIRMED"},
+    {"entity_type": "community_organization", "canonical_name": "Ryden Systems", "aliases": ["EveEye", "Eveeye"], "resolution_status": "OPERATOR_CONFIRMED"},
+    {"entity_type": "software_agent", "canonical_name": "The Star Atlas AI App", "aliases": ["AIAPP", "Star Atlas AI App"], "resolution_status": "OPERATOR_CONFIRMED", "meaning": "In-Discord software bot; not a person and not eligible for promotion."},
 ]
 PERSON_SEEDS = [
     {"preferred_display_name": "King Bryan", "confirmed_aliases": ["King Bryan-Titan Analytics"]},
-    {"preferred_display_name": "Bodhi", "confirmed_aliases": ["Bodhitree", "BodhiTree"]},
+    {"preferred_display_name": "Bohdi", "confirmed_aliases": ["Bodhi", "Bodhitree", "BodhiTree"]},
     {"preferred_display_name": "Michael Wagner", "confirmed_aliases": ["Wagner", "SW4GNER", "SW4GN3R", "SW4GN3R [STAR]"]},
     {"preferred_display_name": "Jose", "confirmed_aliases": ["Zesk", "ZeSKK", "⪛⦿⫺ZeSKK [STAR]"]},
     {"preferred_display_name": "Funcracker", "confirmed_aliases": []},
     {"preferred_display_name": "Eoganacht", "confirmed_aliases": []},
+    {"preferred_display_name": "Santi", "confirmed_aliases": ["SantiMod"]},
+    {"preferred_display_name": "Dom", "confirmed_aliases": ["Dominic", "DominicVain", "DominicVainMod"]},
+    {"preferred_display_name": "Jindo", "confirmed_aliases": ["Jindo | Star Atlas Mod", "Jindo | Star Atlas Mod [STAR]"]},
+    {"preferred_display_name": "Suhail", "confirmed_aliases": ["SuhailDebar", "SuhailDebar | Star Atlas Mod", "SuhailDebar | Star Atlas ModMod"]},
+    {"preferred_display_name": "Prometheus", "confirmed_aliases": ["[AEP] Prometheus", "[AEP] Prometheus ⪛⦿⫺"]},
+    {"preferred_display_name": "Hakmer", "confirmed_aliases": ["[COEX] Hakmer"]},
+    {"preferred_display_name": "Lerinor", "confirmed_aliases": ["[AEP] Lerinor"]},
+    {"preferred_display_name": "Neo_AArmstrong", "confirmed_aliases": ["[Λ] Neo_AArmstrong [EC]"]},
+    {"preferred_display_name": "Atlas Theory", "confirmed_aliases": []},
+    {"preferred_display_name": "DrumCarlos", "confirmed_aliases": ["DRUMCARL05", "DRUMCARL05 | Polaris Fuel"]},
+    {"preferred_display_name": "Xcode", "confirmed_aliases": ["Xcode [STAR]"]},
+    {"preferred_display_name": "BTH 2620", "confirmed_aliases": ["beyondthehorizon2620"]},
+    {"preferred_display_name": "ODVB", "confirmed_aliases": ["odvb"]},
+    {"preferred_display_name": "Ryden", "confirmed_aliases": []},
+    {"preferred_display_name": "MagicPuncher", "confirmed_aliases": []},
     {"preferred_display_name": "Agent Solace", "confirmed_aliases": []},
     {"preferred_display_name": "Witticus", "confirmed_aliases": []},
     {"preferred_display_name": "ReyVeezy", "confirmed_aliases": []},
@@ -84,8 +107,22 @@ TAG_REGISTRY_SEEDS = [
     {"tag": "IA", "canonical_entity": "Intergalactic Alliance", "entity_type": "guild_alliance", "resolution_status": "OPERATOR_CONFIRMED", "resolution_basis": "repository_operator_confirmation"},
     {"tag": "SAI", "canonical_entity": "Star Atlas Italia", "entity_type": "community_organization", "resolution_status": "OPERATOR_CONFIRMED", "resolution_basis": "repository_operator_confirmation"},
     {"tag": "426", "canonical_entity": "426", "entity_type": "community_meme", "resolution_status": "OPERATOR_CONFIRMED", "resolution_basis": "repository_operator_confirmation"},
-    {"tag": "ROME", "canonical_entity": "Rome", "entity_type": "unresolved_tag", "resolution_status": "HUMAN_REVIEW_REQUIRED", "resolution_basis": "observed_display_tag_only"},
+    {"tag": "ROME", "canonical_entity": "Rome", "entity_type": "guild", "resolution_status": "OPERATOR_CONFIRMED", "resolution_basis": "repository_operator_confirmation"},
+    {"tag": "COEX", "canonical_entity": "Coexist", "entity_type": "guild", "resolution_status": "OPERATOR_CONFIRMED", "resolution_basis": "repository_operator_confirmation"},
+    {"tag": "EC", "canonical_entity": "Eclypse", "entity_type": "guild", "resolution_status": "OPERATOR_CONFIRMED", "resolution_basis": "repository_operator_confirmation"},
+    {"tag": "DEEP", "canonical_entity": "Deep Profits", "entity_type": "guild", "resolution_status": "OPERATOR_CONFIRMED", "resolution_basis": "repository_operator_confirmation"},
 ]
+PUBLICLY_EXCLUDED_HANDLES = {"deleteduser"}
+PROMOTION_IGNORED_HANDLES = {"diego", "diegodiaz08", "inti", "shaddix", "shaddix1", "shaddix1staratlasmod"}
+PROMOTION_DEFERRED_HANDLES = {"chriz"}
+NON_PERSON_HANDLES = {"aiapp", "thestaratlasaiapp", "staratlasaiapp"}
+PROMOTION_APPROVED_HANDLES = {"funcracker"}
+OPERATOR_CONFIRMED_PEOPLE = {
+    "kingbryan", "bohdi", "michaelwagner", "jose", "funcracker", "eoganacht",
+    "santi", "dom", "jindo", "suhail", "prometheus", "hakmer", "lerinor",
+    "neoaarmstrong", "atlastheory", "drumcarlos", "xcode", "bth2620", "odvb",
+    "ryden", "magicpuncher", "witticus", "reyveezy", "fancyhat",
+}
 GENERIC_MENTIONS = {
     "all", "atlas", "community", "communitymoderator", "deleted", "event",
     "everyone", "game", "governance", "here", "holosim", "metaverse", "mod",
@@ -642,6 +679,7 @@ def build_alias_registry(messages: list[Message]) -> tuple[dict[str, Any], list[
         })
     for seed in PERSON_SEEDS:
         canonical, aliases = seed["preferred_display_name"], seed["confirmed_aliases"]
+        operator_confirmed = normalized(canonical) in OPERATOR_CONFIRMED_PEOPLE
         terms = [canonical, *aliases]
         refs = []
         observed = set()
@@ -659,13 +697,13 @@ def build_alias_registry(messages: list[Message]) -> tuple[dict[str, Any], list[
             "entity_type": "person", "canonical_name": canonical,
             "preferred_display_name": canonical, "aliases": aliases,
             "observed_handles": sorted(observed, key=text_sort_key),
-            "confirmed_aliases": aliases, "alias_basis": "operator_confirmed" if aliases else None,
+            "confirmed_aliases": aliases, "alias_basis": "operator_confirmed" if aliases or operator_confirmed else None,
             "normalized_terms": sorted({normalized(term) for term in terms}),
             "registry_status": "operator_confirmed_with_archive_observations" if refs else "seeded_unresolved",
-            "resolution_status": "OPERATOR_CONFIRMED" if aliases or canonical in {"Funcracker", "Eoganacht"} else "HUMAN_REVIEW_REQUIRED",
-            "identity_merge_authorized": bool(aliases), "meaning": None,
+            "resolution_status": "OPERATOR_CONFIRMED" if operator_confirmed else "HUMAN_REVIEW_REQUIRED",
+            "identity_merge_authorized": operator_confirmed, "meaning": None,
             "evidence": refs[:25],
-            "operator_confirmation": operator_evidence("Confirmed by repository operator during PR review") if aliases else None,
+            "operator_confirmation": operator_evidence("Confirmed by repository operator during PR review") if operator_confirmed else None,
         })
     for term, owners in sorted(alias_owners.items()):
         if len(set(owners)) > 1:
@@ -758,7 +796,7 @@ def build_indexes(messages: list[Message], alias_registry: dict[str, Any]) -> tu
             identities[subject_id]["roles"].append(role)
 
     for message in messages:
-        if message.display_name:
+        if message.display_name and normalized(message.display_name) not in PUBLICLY_EXCLUDED_HANDLES | NON_PERSON_HANDLES:
             author_id = add_identity(
                 message.display_name, message, message.display_name,
                 "inferred_alias" if any("author inferred" in item.casefold() for item in message.metadata) else "observed_authorship",
@@ -771,7 +809,7 @@ def build_indexes(messages: list[Message], alias_registry: dict[str, Any]) -> tu
         mention_ids = {}
         for handle in mentions:
             person = person_name_from_handle(handle)
-            if not person or normalized(person) in GENERIC_MENTIONS:
+            if not person or normalized(person) in GENERIC_MENTIONS | PUBLICLY_EXCLUDED_HANDLES | NON_PERSON_HANDLES:
                 continue
             mention_ids[handle] = add_identity(person, message, handle, "explicit_third_party_attribution")
             observed_components: list[tuple[str, str]] = []
@@ -876,13 +914,64 @@ def build_indexes(messages: list[Message], alias_registry: dict[str, Any]) -> tu
     operator_roles = {
         "Funcracker": [
             ("co-founder of Aephia", "co_founder_of", "guild", "Aephia", "guild_founder", None),
-            ("current leader of Aephia", "leader_of", "guild", "Aephia", "guild_leader", AS_OF),
             ("community creator", "contributed_as", "role", "community creator", "creator_or_builder", None),
+        ],
+        "Prometheus": [
+            ("co-founder of Aephia", "co_founder_of", "guild", "Aephia", "guild_founder", None),
         ],
         "Eoganacht": [
             ("founder of BULK", "founder_of", "guild", "BULK", "guild_founder", None),
             ("leader of BULK", "leader_of", "guild", "BULK", "guild_leader", AS_OF),
         ],
+        "Santi": [
+            ("Head of Star Atlas Community", "served_as", "official_team", "Head of Star Atlas Community", "official_team_member", None),
+        ],
+        "Jose": [
+            ("creator and steward of Star Atlas lore", "contributed_as", "role", "Star Atlas lore creator", "creator_or_builder", None),
+        ],
+        "Dom": [
+            ("Star Atlas team member responsible for community events", "served_as", "role", "community events team member", "community_organizer", None),
+        ],
+        "Jindo": [
+            ("Star Atlas moderator", "served_as", "role", "Star Atlas moderator", "moderator", None),
+        ],
+        "Suhail": [
+            ("Star Atlas moderator", "served_as", "role", "Star Atlas moderator", "moderator", None),
+        ],
+        "Bohdi": [
+            ("member of Aephia", "member_of", "guild", "Aephia", "guild_member", None),
+            ("major Ustur player", "contributed_as", "role", "major Ustur player", "competitor", None),
+            ("mega-whale asset holder", "known_as", "role", "mega-whale", "historically_significant_member", None),
+        ],
+        "Witticus": [("co-founder of Rome", "co_founder_of", "guild", "Rome", "guild_founder", None)],
+        "ReyVeezy": [("co-founder of Rome", "co_founder_of", "guild", "Rome", "guild_founder", None)],
+        "FancyHat": [
+            ("co-founder of Rome", "co_founder_of", "guild", "Rome", "guild_founder", None),
+            ("former member of Rome", "former_member_of", "guild", "Rome", "guild_member", None),
+        ],
+        "King Bryan": [
+            ("member of Rome", "member_of", "guild", "Rome", "guild_member", None),
+            ("former member of Guardians of the Galaxy", "former_member_of", "guild", "Guardians of the Galaxy", "guild_member", None),
+        ],
+        "Hakmer": [("member of Coexist", "member_of", "guild", "Coexist", "guild_member", None)],
+        "Lerinor": [("member of Aephia", "member_of", "guild", "Aephia", "guild_member", None)],
+        "Atlas Theory": [("long-standing Star Atlas content creator", "contributed_as", "role", "Star Atlas content creator", "creator_or_builder", None)],
+        "DrumCarlos": [
+            ("member of Polaris Fuel", "affiliated_with", "community_organization", "Polaris Fuel", "community_organization_member", None),
+            ("Star Atlas DAO Council member", "served_as", "organization", "Star Atlas DAO Council", "dao_council_service", None),
+        ],
+        "Xcode": [
+            ("founder of Deep Profits", "founder_of", "guild", "Deep Profits", "guild_founder", None),
+            ("Star Atlas Lead Project Manager", "served_as", "official_team", "Lead Project Manager", "official_team_member", AS_OF),
+            ("Star Atlas developer", "contributed_as", "role", "developer", "creator_or_builder", AS_OF),
+        ],
+        "BTH 2620": [("Star Atlas YouTube content creator", "contributed_as", "role", "YouTube content creator", "creator_or_builder", None)],
+        "ODVB": [
+            ("creator of Star Atlas TV", "creator_of", "community_organization", "Star Atlas TV", "creator_or_builder", None),
+            ("recorder of Star Atlas community events", "contributed_as", "role", "community event recorder", "creator_or_builder", None),
+        ],
+        "Ryden": [("creator of EveEye, now Ryden Systems", "creator_of", "community_organization", "Ryden Systems", "creator_or_builder", None)],
+        "MagicPuncher": [("Star Atlas gameplay engineer", "served_as", "official_team", "Gameplay Engineer", "official_team_member", None)],
     }
     for preferred, roles in operator_roles.items():
         identity = next(record for record in identities.values() if normalized(record["canonical_handle"]) == normalized(preferred))
@@ -899,6 +988,79 @@ def build_indexes(messages: list[Message], alias_registry: dict[str, Any]) -> tu
                 "operator_confirmation": confirmation, "operator_assertion": True,
                 "review_note": f"Operator-confirmed role: {label}. Archive corroboration remains separate.",
             })
+
+    # Public community awards are archive-backed claims from the 2025 Joni
+    # announcement. They remain distinct from operator-confirmed context.
+    award_message = next((message for message in messages if message.source_id == "SA-DISCORD-ANN-7B4E108B64E5B830"), None)
+    award_claims = {
+        "Jindo": ("Community Helper of the Year", "Community Helper of the Year: @Jindo | Star Atlas Mod"),
+        "Neo_AArmstrong": ("Community Member of the Year", "COMMUNITY MEMBER OF THE YEAR: @[Λ] Neo_AArmstrong [EC]"),
+        "BTH 2620": ("Content Creator of the Year", "Content Creator of the Year: @beyondthehorizon2620"),
+        "Hakmer": ("Best Gunplay Player of the Year", "Best Gunplay Player of the Year @[COEX] Hakmer"),
+        "Lerinor": ("Most Knowledgeable Member of the Year", "Most Knowledgeable Member of the Year: @[AEP] Lerinor"),
+        "Ryden": ("Best Community Tool of the Year (EveEye)", "Best Community Tool of the Year: Eveeye ( @Ryden )"),
+        "ODVB": ("Star Atlas IP Project / Business of the Year (Star Atlas TV)", "Star Atlas IP Project / Business of the Year: Star Atlas TV ( @odvb )"),
+        "Atlas Theory": ("Most Entertaining Video of the Year (The Star Atlas Summit Experience)", "Most Entertaining Video of the Year: The Star Atlas Summit Experience ( @Atlas Theory @Shaddix1 | Star Atlas Mod )"),
+    }
+    if award_message:
+        for preferred, (award, quote) in award_claims.items():
+            identity = next(record for record in identities.values() if normalized(record["canonical_handle"]) == normalized(preferred))
+            relationships.append({
+                "relationship_id": stable_id("REL", f"{award_message.source_id}:{preferred}:{award}"),
+                "subject_id": identity["identity_id"], "subject_name": preferred,
+                "predicate": "received_award", "object_type": "community_award", "object_name": award,
+                "valid_at": award_message.timestamp, "confidence": "high",
+                "evidence_channel": "archive_evidence",
+                "evidence": [evidence(award_message, quote, "explicit_third_party_attribution")],
+            })
+
+    archive_context_claims = [
+        ("SA-DISCORD-ANN-4680CBB3330347DA", "Jose", "contributed_to", "creative_domain", "Star Atlas lore", "Our next episode of Atlas Brew will be about LORE!", "explicit_third_party_attribution", "medium", "creator_or_builder"),
+        ("SA-DISCORD-ANN-68752D6112C7FC1D", "Dom", "announced_event", "community_event", "Council of Peace Assembly (COPA)", "CALLING ALL GUILDS AND GUILD LEADERS", "observed_authorship", "medium", None),
+        ("SA-DISCORD-ANN-2380EB26CAD5D8DA", "MagicPuncher", "served_as", "official_team", "Gameplay Engineer", "gameplay engineer, @MagicPuncher", "explicit_third_party_attribution", "high", "official_team_member"),
+    ]
+    message_by_source = {message.source_id: message for message in messages}
+    for source_id, preferred, predicate, object_type, object_name, quote, attribution, confidence, role in archive_context_claims:
+        message = message_by_source.get(source_id)
+        if not message:
+            continue
+        identity = next(record for record in identities.values() if normalized(record["canonical_handle"]) == normalized(preferred))
+        relationships.append({
+            "relationship_id": stable_id("REL", f"{source_id}:{preferred}:{predicate}:{object_name}"),
+            "subject_id": identity["identity_id"], "subject_name": preferred,
+            "predicate": predicate, "object_type": object_type, "object_name": object_name,
+            "valid_at": message.timestamp, "confidence": confidence,
+            "evidence_channel": "archive_evidence", "evidence": [evidence(message, quote, attribution)],
+        })
+        if role and confidence == "high" and role not in identity["roles"]:
+            identity["roles"].append(role)
+
+    operator_context = [
+        ("Rome", "guild", "produced", "community_show", "Metaverse Nomads Show", "Rome produced the Metaverse Nomads Show."),
+        ("Rome", "guild", "had_dispute_over", "negotiation", "MUD Empire negotiations", "A disagreement over Rome negotiations with MUD Empire preceded deletion of the show and original Rome Discord."),
+        ("Rome", "guild", "succeeded_community_space_with", "community_space", "new Rome Discord", "A new Rome Discord succeeded the deleted original community space; exact dates remain unresolved."),
+        ("Bohdi", "person", "had_public_community_conflict_with", "guild", "Rome", "Operator-confirmed community conflict; archive corroboration and dates remain unresolved."),
+        ("Bohdi", "person", "had_public_community_conflict_with", "person", "King Bryan", "Operator-confirmed community conflict; archive corroboration and dates remain unresolved."),
+        ("Witticus", "person", "has_public_activity_status", "status", "out of the public eye", "Operator-reported current public activity status; no private information is added."),
+        ("ReyVeezy", "person", "has_public_activity_status", "status", "out of the public eye", "Operator-reported current public activity status; no private information is added."),
+        ("BTH 2620", "person", "has_activity_status", "status", "inactive", "Currently inactive; operator reports the creator's YouTube content was copyright restricted."),
+        ("Xcode", "person", "transitioned_from", "community_role", "Star Atlas community member", "Career progression context: community member and DEEP founder before joining the Star Atlas team."),
+    ]
+    for subject_name, subject_type, predicate, object_type, object_name, note in operator_context:
+        if subject_type == "person":
+            subject = next(record for record in identities.values() if normalized(record["canonical_handle"]) == normalized(subject_name))
+            subject_id = subject["identity_id"]
+        else:
+            subject_id = stable_id("ORG", normalized(subject_name))
+        relationships.append({
+            "relationship_id": stable_id("REL", f"operator:{subject_name}:{predicate}:{object_name}"),
+            "subject_id": subject_id, "subject_name": subject_name,
+            "predicate": predicate, "object_type": object_type, "object_name": object_name,
+            "valid_at": None, "confidence": "operator_confirmed",
+            "evidence_channel": "operator_confirmation", "evidence": [],
+            "operator_confirmation": operator_evidence("Confirmed by repository operator during PR review"),
+            "operator_assertion": True, "review_note": note,
+        })
 
     organizations = []
     for entry in alias_registry["entries"]:
@@ -945,6 +1107,9 @@ def promotion_candidates(identities: list[dict[str, Any]], organizations: list[d
     for relationship in relationships:
         rel_by_subject[relationship["subject_id"]].append(relationship)
     for identity in identities:
+        identity_key = normalized(identity["canonical_handle"])
+        if identity_key in PROMOTION_IGNORED_HANDLES | PUBLICLY_EXCLUDED_HANDLES | NON_PERSON_HANDLES:
+            continue
         refs = identity["evidence"]
         source_ids = {ref["source_id"] for ref in refs if ref.get("source_id")}
         authors = {ref.get("display_name") for ref in refs if ref.get("display_name")}
@@ -966,7 +1131,11 @@ def promotion_candidates(identities: list[dict[str, Any]], organizations: list[d
             "evidence_strength": 3 if any(ref["attribution_class"] == "direct_self_identification" for ref in refs) else (2 if len(authors) >= 2 else (1 if source_ids else 0)),
         }
         substantive = bool(role_set or rels)
-        if identity["identity_confidence"] == "seeded_unresolved":
+        if identity_key in PROMOTION_APPROVED_HANDLES:
+            status = "OPERATOR_APPROVED_FOR_PROMOTION"
+        elif identity_key in PROMOTION_DEFERRED_HANDLES:
+            status = "DEFERRED"
+        elif identity["identity_confidence"] == "seeded_unresolved":
             status = "REQUIRES_IDENTITY_RESOLUTION"
         elif substantive and (dimensions["evidence_strength"] >= 2 or operator_roles):
             status = "READY_FOR_HUMAN_PROMOTION_REVIEW"
@@ -980,11 +1149,14 @@ def promotion_candidates(identities: list[dict[str, Any]], organizations: list[d
             "entity_type": "person", "entity_id": identity["identity_id"], "name": identity["canonical_handle"],
             "review_status": status, "score_dimensions": dimensions,
             "archive_roles": sorted(archive_roles), "operator_confirmed_roles": sorted(operator_roles),
+            "operator_decision": "promotion_approved" if identity_key in PROMOTION_APPROVED_HANDLES else ("deferred_pending_identity_resolution" if identity_key in PROMOTION_DEFERRED_HANDLES else None),
             "independent_message_count": len(source_ids), "independent_author_count": len(authors),
             "council_service_excluded_from_guild_leadership": True,
             "evidence": refs[:25], "operator_confirmations": identity["operator_confirmations"],
         })
     for organization in organizations:
+        if organization["entity_type"] == "software_agent":
+            continue
         refs = organization["evidence"]
         source_ids = {ref["source_id"] for ref in refs if ref.get("source_id")}
         status = "EVIDENCE_SUPPORTED_PROFILE_CANDIDATE" if len(source_ids) >= 2 and organization["entity_type"] != "unresolved_tag" else ("REQUIRES_IDENTITY_RESOLUTION" if organization["entity_type"] == "unresolved_tag" else "DISCOVERY_ONLY")
@@ -1216,13 +1388,23 @@ def build_human_resolution_queue(duplicate_reviews: list[dict[str, Any]], alias_
     for organization in organizations:
         if organization["entity_type"] == "unresolved_tag":
             add("uncertain_organization_type", organization["canonical_name"], [organization["canonical_name"], *organization["aliases"]], None, "LOW", organization["evidence"][:5], "Organization type is not confirmed.", ["GUILD", "GUILD_ALLIANCE", "COMMUNITY_ORGANIZATION", "INFORMAL_GROUP", "NOT_AN_ORGANIZATION", "DEFER"])
+    confirmed_memberships = {
+        (normalized(relation["subject_name"]), normalized(relation["object_name"]))
+        for relation in relationships if relation["predicate"] == "member_of" and relation.get("evidence_channel") == "operator_confirmation"
+    }
     for relation in relationships:
         if relation["predicate"] == "possible_member_of":
+            if (normalized(relation["subject_name"]), normalized(relation["object_name"])) in confirmed_memberships:
+                continue
             add("possible_guild_membership", relation["subject_name"], [relation["object_name"]], relation["object_name"], "LOW", relation["evidence"], "Display-name tag is association evidence, not confirmed membership.", ["CONFIRM_MEMBERSHIP", "ASSOCIATION_ONLY", "REJECT", "DEFER"])
     for item in competition_reviews:
         add(item["review_type"], item["subject"], item["observed_values"], item["candidate_resolution"], item["confidence"], item["evidence"], item["reason_human_review_required"], item["allowed_decisions"])
-    for target in ["Agent Solace", "The Vanguard", "The Club Guild / The Club", "Rome", "Witticus", "ReyVeezy", "FancyHat", "Virtuwaal"]:
+    for target in ["Agent Solace", "The Vanguard", "Virtuwaal"]:
         add("seeded_unresolved_identity_or_organization", target, [target], None, "UNKNOWN", [], "Seeded by operator for the next resolution pass; no resolution is manufactured.", ["RESOLVE", "REJECT", "DEFER"])
+    add("deferred_identity_resolution", "Chri.z", ["Chri.z", "Chris"], None, "LOW", [], "Operator reported insufficient context; the economics-team identity hypothesis remains unresolved.", ["RESOLVE_WITH_EVIDENCE", "REJECT", "DEFER"])
+    add("deferred_promotion", "Shaddix", ["Shaddix1 | Star Atlas Mod"], None, "UNKNOWN", [], "Operator explicitly deferred this candidate.", ["RESOLVE", "REJECT", "DEFER"])
+    add("spelling_conflict", "Virtuwaal / Virtuwuul", ["Virtuwaal", "Virtuwuul"], None, "LOW", [], "The supplied Rome-conflict context used a spelling that differs from the seeded handle; no alias merge is made from similarity alone.", ["CONFIRM_ALIAS", "KEEP_DISTINCT", "DEFER"])
+    add("temporal_relationship_dates", "Rome guild history", ["original Discord deleted", "new Discord founded", "FancyHat left", "King Bryan joined"], None, "UNKNOWN", [], "Operator confirmed the sequence, but exact dates are not yet established from the available archive.", ["ADD_DATED_EVIDENCE", "ACCEPT_UNDATED_OPERATOR_CONTEXT", "DEFER"])
     if coverage["summary"]["unresolved_channel_exports"]:
         add("unresolved_channel_name", "Imported announcements export", coverage["channels"][0]["observed_channel_names"], "announcements", "MEDIUM", [], "Repository designation exists but native channel identity is absent.", ["CONFIRM_CANONICAL_CHANNEL", "RENAME", "DEFER"])
     add("source_gap", "Announcements historical lower bound", [coverage["summary"]["earliest_message_timestamp"]], None, "HIGH", [], "Acquisition runtime limit prevented complete historical backfill.", ["ACQUIRE_BACKFILL", "ACCEPT_PARTIAL", "DEFER"])
@@ -1333,6 +1515,52 @@ def serialize_jsonl(records: list[dict[str, Any]]) -> str:
     return "".join(json.dumps(record, ensure_ascii=False, sort_keys=True) + "\n" for record in records)
 
 
+def curator_decisions() -> dict[str, Any]:
+    """Return the durable human adjudications supplied for PR 21."""
+    decisions = [
+        (1, "Michael Wagner", "CONFIRMED", "SW4GNER/SW4GN3R variants resolve to Michael Wagner."),
+        (2, "Santi", "CONFIRMED", "Santi was Head of Star Atlas Community."),
+        (3, "Jose / ZeSKK", "CONFIRMED", "Jose, known as ZeSKK, created and expanded Star Atlas lore."),
+        (4, "Dom / DominicVain", "CONFIRMED", "Dom was a Star Atlas team member responsible for community events."),
+        (5, "Jindo", "CONFIRMED", "Star Atlas moderator; retain the archive-backed Community Helper of the Year award."),
+        (6, "Suhail", "CONFIRMED", "SuhailDebar handle variants resolve to Suhail."),
+        (7, "Funcracker", "PROMOTION_APPROVED", "Operator approved promotion."),
+        (8, "Aephia", "CONFIRMED", "Aephia and AEP are the same guild; Funcracker and Prometheus are co-founders."),
+        (9, "BULK", "CONFIRMED", "BULK is an armed-freighting guild founded and currently led by Eoganacht."),
+        (10, "Bohdi", "CONFIRMED", "Bodhi/Bodhitree resolve to Bohdi; AEP member, major Ustur player, and mega-whale. Community-conflict claims remain operator-sourced."),
+        (11, "Deleted User", "EXCLUDE_PUBLIC_ENTITY", "Exclude deleted-user tags and identity references; retain messages only as context for other public users."),
+        (12, "Rome", "CONFIRMED", "Guild founded by Witticus, ReyVeezy, and FancyHat; preserve supplied show, Discord succession, departure, and membership history as operator context pending dates."),
+        (13, "Hakmer / Coexist", "CONFIRMED", "Hakmer is associated with COEX, shorthand for the Turkish-based Coexist guild."),
+        (14, "Lerinor", "CONFIRMED", "Lerinor is an AEP member."),
+        (15, "Neo_AArmstrong / Eclypse", "CONFIRMED", "EC means Eclypse; retain the archive-backed Community Member of the Year award."),
+        (16, "Atlas Theory", "CONFIRMED", "Long-standing Star Atlas content creator; supplied identity and role details confirmed."),
+        (17, "Chri.z", "DEFERRED", "Insufficient context to resolve the possible Star Atlas economics-team identity."),
+        (18, "DrumCarlos / Polaris Fuel", "CONFIRMED", "Use DrumCarlos; Polaris Fuel seeks to reduce fuel prices; DAO Council service confirmed."),
+        (19, "The Club Guild", "CONFIRMED", "The Club is an alias for one of the original Star Atlas guilds."),
+        (20, "Diego_Diaz08", "IGNORE", "Exclude from promotion review."),
+        (21, "Prometheus", "CONFIRMED", "Co-founder of Aephia/AEP."),
+        (22, "inti", "IGNORE", "Exclude from promotion review."),
+        (23, "The Star Atlas AI App", "NOT_PROMOTABLE", "In-Discord software bot, not a person."),
+        (24, "Xcode", "CONFIRMED", "Founder of Deep Profits [DEEP]; later hired by Star Atlas and now Lead Project Manager and Developer."),
+        (25, "BTH 2620", "CONFIRMED_INACTIVE", "YouTube creator beyondthehorizon2620; Content Creator of the Year; currently inactive after copyright restrictions."),
+        (26, "ODVB", "CONFIRMED", "Creator of Star Atlas TV and recorder of events represented by repository transcripts."),
+        (27, "Ryden", "CONFIRMED", "Creator of EveEye, now Ryden Systems."),
+        (28, "Shaddix", "DEFERRED", "Skipped for now."),
+        (29, "MagicPuncher", "CONFIRMED", "Star Atlas gameplay engineer."),
+    ]
+    return {
+        "schema_version": SCHEMA_VERSION,
+        "campaign_id": CAMPAIGN_ID,
+        "decision_date": AS_OF,
+        "evidence_policy": "Operator decisions authorize identity resolution and review disposition but remain separate from archive evidence.",
+        "item_count": len(decisions),
+        "items": [
+            {"item": number, "subject": subject, "decision": decision, "operator_note": note}
+            for number, subject, decision, note in decisions
+        ],
+    }
+
+
 def build(repo_root: Path) -> dict[str, str]:
     messages, inventory, duplicate_reviews = load_messages(repo_root, include_duplicate_reviews=True)
     alias_registry, seed_conflicts = build_alias_registry(messages)
@@ -1411,6 +1639,7 @@ def build(repo_root: Path) -> dict[str, str]:
         "discord-channel-gap-report.json": serialize_json(gap_report),
         "discord-collection-backlog.json": serialize_json(collection_backlog),
         "human-resolution-queue.json": serialize_json(human_queue),
+        "curator-decisions.json": serialize_json(curator_decisions()),
         "validation-report.json": serialize_json(validation),
     }
 

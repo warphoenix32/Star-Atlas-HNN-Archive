@@ -49,15 +49,15 @@ def test_does_not_merge_fuzzy_names_without_evidence(tmp_path):
     base = root / "archive" / "normalized" / "discord-test"
     base.mkdir(parents=True)
     records = [
-        {"source_id": "a", "author": "Bohdi", "timestamp": "2025-01-01T00:00:00", "content": "hello"},
-        {"source_id": "b", "author": "Bodhi", "timestamp": "2025-01-02T00:00:00", "content": "hello"},
+        {"source_id": "a", "author": "Virtuwaal", "timestamp": "2025-01-01T00:00:00", "content": "hello"},
+        {"source_id": "b", "author": "Virtuwuul", "timestamp": "2025-01-02T00:00:00", "content": "hello"},
     ]
     (base / "messages.jsonl").write_text("".join(json.dumps(item) + "\n" for item in records), encoding="utf-8")
     messages, _ = indexer.load_messages(root)
     aliases, _ = indexer.build_alias_registry(messages)
     identities, _, _ = indexer.build_indexes(messages, aliases)
-    observed = {record["canonical_handle"] for record in identities if record["canonical_handle"] in {"Bohdi", "Bodhi"}}
-    assert observed == {"Bohdi", "Bodhi"}
+    observed = {record["canonical_handle"] for record in identities if record["canonical_handle"] in {"Virtuwaal", "Virtuwuul"}}
+    assert observed == {"Virtuwaal", "Virtuwuul"}
 
 
 def test_relationship_claims_resolve_and_are_dated(tmp_path):
@@ -236,8 +236,34 @@ def test_human_queue_retains_required_seeded_unresolved_items(tmp_path):
     coverage, _, _ = indexer.build_channel_coverage(messages, inventory)
     queue = indexer.build_human_resolution_queue(duplicate_reviews, conflicts, tags, organizations, relationships, [], coverage)
     subjects = {item["subject"] for item in queue["items"]}
-    assert {"Agent Solace", "The Vanguard", "The Club Guild / The Club", "Rome", "Witticus", "ReyVeezy", "FancyHat", "Virtuwaal"} <= subjects
+    assert {"Agent Solace", "The Vanguard", "Virtuwaal", "Chri.z", "Shaddix", "Rome guild history", "Virtuwaal / Virtuwuul"} <= subjects
     assert all(item["decision_status"] == "OPEN" and item["operator_decision"] is None for item in queue["items"])
+
+
+def test_curator_decisions_are_complete_and_explicit():
+    decisions = indexer.curator_decisions()
+    assert decisions["item_count"] == 29
+    by_number = {item["item"]: item for item in decisions["items"]}
+    assert by_number[7]["decision"] == "PROMOTION_APPROVED"
+    assert by_number[11]["decision"] == "EXCLUDE_PUBLIC_ENTITY"
+    assert by_number[23]["decision"] == "NOT_PROMOTABLE"
+    assert by_number[17]["decision"] == by_number[28]["decision"] == "DEFERRED"
+
+
+def test_deleted_users_and_software_bot_are_not_person_candidates(tmp_path):
+    write_jsonl(tmp_path, [
+        {"source_id": "privacy-1", "author": "Deleted User", "timestamp": "2025-01-01T00:00:00", "content": "Context mentioning @PublicPerson."},
+        {"source_id": "bot-1", "author": "Star Atlas AIAPP", "timestamp": "2025-01-02T00:00:00", "content": "Automated announcement."},
+    ])
+    messages, _ = indexer.load_messages(tmp_path)
+    aliases, _ = indexer.build_alias_registry(messages)
+    identities, organizations, relationships = indexer.build_indexes(messages, aliases)
+    names = {item["canonical_handle"] for item in identities}
+    assert "Deleted User" not in names
+    assert "Star Atlas AIAPP" not in names
+    assert "PublicPerson" in names
+    candidates = indexer.promotion_candidates(identities, organizations, relationships)
+    assert not {"Deleted User", "Star Atlas AIAPP"} & {item["name"] for item in candidates["candidates"]}
 
 
 def test_repository_corpus_reconciles_all_representations():

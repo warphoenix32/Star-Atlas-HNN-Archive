@@ -1,7 +1,46 @@
 {
   "campaign_id": "discord-community-indexing-001",
-  "item_count": 29,
+  "item_count": 22,
   "items": [
+    {
+      "allowed_decisions": [
+        "RESOLVE_WITH_EVIDENCE",
+        "REJECT",
+        "DEFER"
+      ],
+      "candidate_resolution": null,
+      "confidence": "LOW",
+      "decision_status": "OPEN",
+      "evidence": [],
+      "observed_values": [
+        "Chri.z",
+        "Chris"
+      ],
+      "operator_decision": null,
+      "reason_human_review_required": "Operator reported insufficient context; the economics-team identity hypothesis remains unresolved.",
+      "review_id": "REVIEW-61C0BDCC3FD0310C",
+      "review_type": "deferred_identity_resolution",
+      "subject": "Chri.z"
+    },
+    {
+      "allowed_decisions": [
+        "RESOLVE",
+        "REJECT",
+        "DEFER"
+      ],
+      "candidate_resolution": null,
+      "confidence": "UNKNOWN",
+      "decision_status": "OPEN",
+      "evidence": [],
+      "observed_values": [
+        "Shaddix1 | Star Atlas Mod"
+      ],
+      "operator_decision": null,
+      "reason_human_review_required": "Operator explicitly deferred this candidate.",
+      "review_id": "REVIEW-06B442F4F887DB67",
+      "review_type": "deferred_promotion",
+      "subject": "Shaddix"
+    },
     {
       "allowed_decisions": [
         "RESOLVE_PARTICIPANT",
@@ -232,45 +271,6 @@
           "attribution_class": "display_name_guild_tag",
           "author_id": null,
           "channel_id": null,
-          "display_name": "SW4GN3R [STAR]",
-          "evidence_channel": "archive_evidence",
-          "evidence_location": "message_content",
-          "message_id": null,
-          "operator_assertion": false,
-          "quoted_text": "[AEP] Lerinor",
-          "source_id": "SA-DISCORD-ANN-1EDD256BD7620642",
-          "source_paths": [
-            "archive/normalized/discord-announcements/messages.jsonl",
-            "archive/normalized/discord-announcements/messages/SA-DISCORD-ANN-1EDD256BD7620642.json",
-            "archive/raw/discord-announcements/star-atlas-discord-announcements.md"
-          ],
-          "timestamp": "2025-08-01T15:25:03"
-        }
-      ],
-      "observed_values": [
-        "Aephia"
-      ],
-      "operator_decision": null,
-      "reason_human_review_required": "Display-name tag is association evidence, not confirmed membership.",
-      "review_id": "REVIEW-A2C26B52E67C173B",
-      "review_type": "possible_guild_membership",
-      "subject": "Lerinor"
-    },
-    {
-      "allowed_decisions": [
-        "CONFIRM_MEMBERSHIP",
-        "ASSOCIATION_ONLY",
-        "REJECT",
-        "DEFER"
-      ],
-      "candidate_resolution": "Aephia",
-      "confidence": "LOW",
-      "decision_status": "OPEN",
-      "evidence": [
-        {
-          "attribution_class": "display_name_guild_tag",
-          "author_id": null,
-          "channel_id": null,
           "display_name": "DominicVainMod",
           "evidence_channel": "archive_evidence",
           "evidence_location": "message_content",
@@ -364,82 +364,6 @@
       "decision_status": "OPEN",
       "evidence": [],
       "observed_values": [
-        "FancyHat"
-      ],
-      "operator_decision": null,
-      "reason_human_review_required": "Seeded by operator for the next resolution pass; no resolution is manufactured.",
-      "review_id": "REVIEW-FF60ED2632AED0F0",
-      "review_type": "seeded_unresolved_identity_or_organization",
-      "subject": "FancyHat"
-    },
-    {
-      "allowed_decisions": [
-        "RESOLVE",
-        "REJECT",
-        "DEFER"
-      ],
-      "candidate_resolution": null,
-      "confidence": "UNKNOWN",
-      "decision_status": "OPEN",
-      "evidence": [],
-      "observed_values": [
-        "ReyVeezy"
-      ],
-      "operator_decision": null,
-      "reason_human_review_required": "Seeded by operator for the next resolution pass; no resolution is manufactured.",
-      "review_id": "REVIEW-3B37C89CBEE0BBF8",
-      "review_type": "seeded_unresolved_identity_or_organization",
-      "subject": "ReyVeezy"
-    },
-    {
-      "allowed_decisions": [
-        "RESOLVE",
-        "REJECT",
-        "DEFER"
-      ],
-      "candidate_resolution": null,
-      "confidence": "UNKNOWN",
-      "decision_status": "OPEN",
-      "evidence": [],
-      "observed_values": [
-        "Rome"
-      ],
-      "operator_decision": null,
-      "reason_human_review_required": "Seeded by operator for the next resolution pass; no resolution is manufactured.",
-      "review_id": "REVIEW-AFBE2A9E0C9F20E4",
-      "review_type": "seeded_unresolved_identity_or_organization",
-      "subject": "Rome"
-    },
-    {
-      "allowed_decisions": [
-        "RESOLVE",
-        "REJECT",
-        "DEFER"
-      ],
-      "candidate_resolution": null,
-      "confidence": "UNKNOWN",
-      "decision_status": "OPEN",
-      "evidence": [],
-      "observed_values": [
-        "The Club Guild / The Club"
-      ],
-      "operator_decision": null,
-      "reason_human_review_required": "Seeded by operator for the next resolution pass; no resolution is manufactured.",
-      "review_id": "REVIEW-5CF2678CE2F242CE",
-      "review_type": "seeded_unresolved_identity_or_organization",
-      "subject": "The Club Guild / The Club"
-    },
-    {
-      "allowed_decisions": [
-        "RESOLVE",
-        "REJECT",
-        "DEFER"
-      ],
-      "candidate_resolution": null,
-      "confidence": "UNKNOWN",
-      "decision_status": "OPEN",
-      "evidence": [],
-      "observed_values": [
         "The Vanguard"
       ],
       "operator_decision": null,
@@ -469,25 +393,6 @@
     },
     {
       "allowed_decisions": [
-        "RESOLVE",
-        "REJECT",
-        "DEFER"
-      ],
-      "candidate_resolution": null,
-      "confidence": "UNKNOWN",
-      "decision_status": "OPEN",
-      "evidence": [],
-      "observed_values": [
-        "Witticus"
-      ],
-      "operator_decision": null,
-      "reason_human_review_required": "Seeded by operator for the next resolution pass; no resolution is manufactured.",
-      "review_id": "REVIEW-993210FC8DC9B19E",
-      "review_type": "seeded_unresolved_identity_or_organization",
-      "subject": "Witticus"
-    },
-    {
-      "allowed_decisions": [
         "ACQUIRE_BACKFILL",
         "ACCEPT_PARTIAL",
         "DEFER"
@@ -507,178 +412,45 @@
     },
     {
       "allowed_decisions": [
-        "GUILD",
-        "GUILD_ALLIANCE",
-        "COMMUNITY_ORGANIZATION",
-        "INFORMAL_GROUP",
-        "NOT_AN_ORGANIZATION",
+        "CONFIRM_ALIAS",
+        "KEEP_DISTINCT",
         "DEFER"
       ],
       "candidate_resolution": null,
       "confidence": "LOW",
       "decision_status": "OPEN",
-      "evidence": [
-        {
-          "attribution_class": "explicit_third_party_attribution",
-          "author_id": null,
-          "channel_id": null,
-          "display_name": "DominicVainMod",
-          "evidence_channel": "archive_evidence",
-          "evidence_location": "message_content",
-          "message_id": null,
-          "operator_assertion": false,
-          "quoted_text": "Rome",
-          "source_id": "SA-DISCORD-ANN-FDD03373197A63F8",
-          "source_paths": [
-            "archive/normalized/discord-announcements/messages.jsonl",
-            "archive/normalized/discord-announcements/messages/SA-DISCORD-ANN-FDD03373197A63F8.json",
-            "archive/raw/discord-announcements/star-atlas-discord-announcements.md"
-          ],
-          "timestamp": "2024-02-21T16:25:12"
-        },
-        {
-          "attribution_class": "explicit_third_party_attribution",
-          "author_id": null,
-          "channel_id": null,
-          "display_name": "DominicVainMod",
-          "evidence_channel": "archive_evidence",
-          "evidence_location": "message_content",
-          "message_id": null,
-          "operator_assertion": false,
-          "quoted_text": "ROME",
-          "source_id": "SA-DISCORD-ANN-FDD03373197A63F8",
-          "source_paths": [
-            "archive/normalized/discord-announcements/messages.jsonl",
-            "archive/normalized/discord-announcements/messages/SA-DISCORD-ANN-FDD03373197A63F8.json",
-            "archive/raw/discord-announcements/star-atlas-discord-announcements.md"
-          ],
-          "timestamp": "2024-02-21T16:25:12"
-        },
-        {
-          "attribution_class": "explicit_third_party_attribution",
-          "author_id": null,
-          "channel_id": null,
-          "display_name": "DominicVainMod",
-          "evidence_channel": "archive_evidence",
-          "evidence_location": "message_content",
-          "message_id": null,
-          "operator_assertion": false,
-          "quoted_text": "Rome",
-          "source_id": "SA-DISCORD-ANN-17A149D561A1C7B8",
-          "source_paths": [
-            "archive/normalized/discord-announcements/messages.jsonl",
-            "archive/normalized/discord-announcements/messages/SA-DISCORD-ANN-17A149D561A1C7B8.json",
-            "archive/raw/discord-announcements/star-atlas-discord-announcements.md"
-          ],
-          "timestamp": "2024-02-29T11:34:00"
-        },
-        {
-          "attribution_class": "explicit_third_party_attribution",
-          "author_id": null,
-          "channel_id": null,
-          "display_name": "DominicVainMod",
-          "evidence_channel": "archive_evidence",
-          "evidence_location": "message_content",
-          "message_id": null,
-          "operator_assertion": false,
-          "quoted_text": "ROME",
-          "source_id": "SA-DISCORD-ANN-17A149D561A1C7B8",
-          "source_paths": [
-            "archive/normalized/discord-announcements/messages.jsonl",
-            "archive/normalized/discord-announcements/messages/SA-DISCORD-ANN-17A149D561A1C7B8.json",
-            "archive/raw/discord-announcements/star-atlas-discord-announcements.md"
-          ],
-          "timestamp": "2024-02-29T11:34:00"
-        },
-        {
-          "attribution_class": "explicit_third_party_attribution",
-          "author_id": null,
-          "channel_id": null,
-          "display_name": "DominicVainMod",
-          "evidence_channel": "archive_evidence",
-          "evidence_location": "message_content",
-          "message_id": null,
-          "operator_assertion": false,
-          "quoted_text": "Rome",
-          "source_id": "SA-DISCORD-ANN-86749FFBF0D1AB50",
-          "source_paths": [
-            "archive/normalized/discord-announcements/messages.jsonl",
-            "archive/normalized/discord-announcements/messages/SA-DISCORD-ANN-86749FFBF0D1AB50.json",
-            "archive/raw/discord-announcements/star-atlas-discord-announcements.md"
-          ],
-          "timestamp": "2025-03-14T12:09:18"
-        }
-      ],
+      "evidence": [],
       "observed_values": [
-        "Rome",
-        "ROME"
+        "Virtuwaal",
+        "Virtuwuul"
       ],
       "operator_decision": null,
-      "reason_human_review_required": "Organization type is not confirmed.",
-      "review_id": "REVIEW-19393023DA608551",
-      "review_type": "uncertain_organization_type",
-      "subject": "Rome"
+      "reason_human_review_required": "The supplied Rome-conflict context used a spelling that differs from the seeded handle; no alias merge is made from similarity alone.",
+      "review_id": "REVIEW-E04D7B61BDEC295D",
+      "review_type": "spelling_conflict",
+      "subject": "Virtuwaal / Virtuwuul"
     },
     {
       "allowed_decisions": [
-        "GUILD",
-        "GUILD_ALLIANCE",
-        "COMMUNITY_ORGANIZATION",
-        "INFORMAL_GROUP",
-        "NOT_AN_ORGANIZATION",
+        "ADD_DATED_EVIDENCE",
+        "ACCEPT_UNDATED_OPERATOR_CONTEXT",
         "DEFER"
       ],
       "candidate_resolution": null,
-      "confidence": "LOW",
+      "confidence": "UNKNOWN",
       "decision_status": "OPEN",
-      "evidence": [
-        {
-          "attribution_class": "explicit_third_party_attribution",
-          "author_id": null,
-          "channel_id": null,
-          "display_name": "SantiMod",
-          "evidence_channel": "archive_evidence",
-          "evidence_location": "message_content",
-          "message_id": null,
-          "operator_assertion": false,
-          "quoted_text": "The Club",
-          "source_id": "SA-DISCORD-ANN-AEA0A5B1BDC8EED8",
-          "source_paths": [
-            "archive/normalized/discord-announcements/messages.jsonl",
-            "archive/normalized/discord-announcements/messages/SA-DISCORD-ANN-AEA0A5B1BDC8EED8.json",
-            "archive/raw/discord-announcements/star-atlas-discord-announcements.md"
-          ],
-          "timestamp": "2022-05-14T15:38:47"
-        },
-        {
-          "attribution_class": "explicit_third_party_attribution",
-          "author_id": null,
-          "channel_id": null,
-          "display_name": "DominicVainMod",
-          "evidence_channel": "archive_evidence",
-          "evidence_location": "message_content",
-          "message_id": null,
-          "operator_assertion": false,
-          "quoted_text": "The Club",
-          "source_id": "SA-DISCORD-ANN-34920EEC55E65F73",
-          "source_paths": [
-            "archive/normalized/discord-announcements/messages.jsonl",
-            "archive/normalized/discord-announcements/messages/SA-DISCORD-ANN-34920EEC55E65F73.json",
-            "archive/raw/discord-announcements/star-atlas-discord-announcements.md"
-          ],
-          "timestamp": "2022-06-16T16:03:42"
-        }
-      ],
+      "evidence": [],
       "observed_values": [
-        "The Club Guild / The Club",
-        "The Club Guild",
-        "The Club"
+        "original Discord deleted",
+        "new Discord founded",
+        "FancyHat left",
+        "King Bryan joined"
       ],
       "operator_decision": null,
-      "reason_human_review_required": "Organization type is not confirmed.",
-      "review_id": "REVIEW-C42AEE9C97699C8E",
-      "review_type": "uncertain_organization_type",
-      "subject": "The Club Guild / The Club"
+      "reason_human_review_required": "Operator confirmed the sequence, but exact dates are not yet established from the available archive.",
+      "review_id": "REVIEW-C0FF1C771E096EDC",
+      "review_type": "temporal_relationship_dates",
+      "subject": "Rome guild history"
     },
     {
       "allowed_decisions": [
@@ -714,26 +486,6 @@
       "decision_status": "OPEN",
       "evidence": [],
       "observed_values": [
-        "COEX"
-      ],
-      "operator_decision": null,
-      "reason_human_review_required": "Display tag has no confirmed organization classification.",
-      "review_id": "REVIEW-E1DCDCBA89CD316D",
-      "review_type": "unknown_display_tag",
-      "subject": "COEX"
-    },
-    {
-      "allowed_decisions": [
-        "RESOLVE_TAG",
-        "MARK_INFORMAL",
-        "REJECT_ORGANIZATION",
-        "DEFER"
-      ],
-      "candidate_resolution": null,
-      "confidence": "LOW",
-      "decision_status": "OPEN",
-      "evidence": [],
-      "observed_values": [
         "EMP"
       ],
       "operator_decision": null,
@@ -741,26 +493,6 @@
       "review_id": "REVIEW-A2599BBFBEA526F5",
       "review_type": "unknown_display_tag",
       "subject": "EMP"
-    },
-    {
-      "allowed_decisions": [
-        "RESOLVE_TAG",
-        "MARK_INFORMAL",
-        "REJECT_ORGANIZATION",
-        "DEFER"
-      ],
-      "candidate_resolution": null,
-      "confidence": "LOW",
-      "decision_status": "OPEN",
-      "evidence": [],
-      "observed_values": [
-        "ROME"
-      ],
-      "operator_decision": null,
-      "reason_human_review_required": "Display tag has no confirmed organization classification.",
-      "review_id": "REVIEW-8FE41B45530657B4",
-      "review_type": "unknown_display_tag",
-      "subject": "ROME"
     },
     {
       "allowed_decisions": [
@@ -800,45 +532,6 @@
       "review_id": "REVIEW-E3EF629B46F3AC23",
       "review_type": "unresolved_channel_name",
       "subject": "Imported announcements export"
-    },
-    {
-      "allowed_decisions": [
-        "RESOLVE_PARTICIPANT",
-        "CLASSIFY_AS_PRIZE_OR_CATEGORY",
-        "REJECT_EXTRACTION",
-        "DEFER"
-      ],
-      "candidate_resolution": null,
-      "confidence": "LOW",
-      "decision_status": "OPEN",
-      "evidence": [
-        {
-          "attribution_class": "explicit_third_party_attribution",
-          "author_id": null,
-          "channel_id": null,
-          "display_name": "DominicVainMod",
-          "evidence_channel": "archive_evidence",
-          "evidence_location": "message_content",
-          "message_id": null,
-          "operator_assertion": false,
-          "quoted_text": "1st - COEXIST",
-          "source_id": "SA-DISCORD-ANN-34920EEC55E65F73",
-          "source_paths": [
-            "archive/normalized/discord-announcements/messages.jsonl",
-            "archive/normalized/discord-announcements/messages/SA-DISCORD-ANN-34920EEC55E65F73.json",
-            "archive/raw/discord-announcements/star-atlas-discord-announcements.md"
-          ],
-          "timestamp": "2022-06-16T16:03:42"
-        }
-      ],
-      "observed_values": [
-        "COEXIST"
-      ],
-      "operator_decision": null,
-      "reason_human_review_required": "Participant is not a resolved person or reviewed organization.",
-      "review_id": "REVIEW-DD885820909334EB",
-      "review_type": "unresolved_participant_type",
-      "subject": "COEXIST"
     },
     {
       "allowed_decisions": [
