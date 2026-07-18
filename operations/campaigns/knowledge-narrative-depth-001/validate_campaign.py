@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import json
+import os
 import re
 import subprocess
 import sys
@@ -58,15 +59,23 @@ def frontmatter(text: str) -> tuple[set[str], dict[str, str]]:
 
 
 def changed_paths() -> list[str]:
+    paths: set[str] = set()
+    base_name = os.environ.get("GITHUB_BASE_REF", "main")
+    for base in (f"origin/{base_name}", base_name):
+        if run("git", "rev-parse", "--verify", base).returncode != 0:
+            continue
+        committed = run("git", "diff", "--name-only", f"{base}...HEAD")
+        if committed.returncode == 0:
+            paths.update(line.strip().replace("\\", "/") for line in committed.stdout.splitlines() if line.strip())
+            break
     status = run("git", "status", "--porcelain=v1", "--untracked-files=all")
-    paths = []
     for line in status.stdout.splitlines():
         if len(line) >= 4:
             path = line[3:].replace("\\", "/")
             if " -> " in path:
                 path = path.split(" -> ", 1)[1]
-            paths.append(path)
-    return sorted(set(paths))
+            paths.add(path)
+    return sorted(paths)
 
 
 def link_errors(path: Path) -> list[str]:
@@ -195,6 +204,11 @@ def main() -> int:
         boundary_errors.append("SCORE execution overstated")
     if not re.search(r"independent(?:ly)? verif", treasury, re.IGNORECASE):
         boundary_errors.append("treasury independent-verification boundary missing")
+    pip33_terms = ["two displayed tranches", "234,756.76", "176,067.57", "58,689.19", "75% USDC", "25% ATLAS", "180 days", "reserve-conditional", "469,513.52", "469,513.53", "352,135.14", "352,135.15", "117,378.38", "one-cent discrepancies"]
+    if any(term.lower() not in treasury.lower() for term in pip33_terms):
+        boundary_errors.append("PIP-33 tranche composition, timing, condition, or one-cent discrepancy missing")
+    if "75% immediate and 25% deferred" in treasury:
+        boundary_errors.append("PIP-33 asset mix incorrectly encoded as payment timing")
     if "advancing" not in council.lower() or "final" not in council.lower():
         boundary_errors.append("Council election-stage distinction missing")
     if "PR #19" not in communications or "unmerged" not in communications.lower():
@@ -207,8 +221,6 @@ def main() -> int:
         diff_check.returncode == 0,
         "clean" if diff_check.returncode == 0 else (diff_check.stdout + "\n" + diff_check.stderr).strip(),
     )
-
-    import os
 
     env = os.environ.copy()
     env["PYTHONPATH"] = str(ROOT / "operations" / "pipeline" / "src")

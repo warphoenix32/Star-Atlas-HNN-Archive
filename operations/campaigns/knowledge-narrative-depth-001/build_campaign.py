@@ -29,7 +29,7 @@ SPECS = [
     {
         "id": "treasury-authorization-payment-ledger", "path": "knowledge/economy/Treasury-Authorization-and-Payment-Ledger.md", "action": "CREATE", "status": "QUALIFIED", "risk": (8, "R3"),
         "sources": ["archive/semantic/governance/pip-registry-semantic.json", "archive/semantic/governance/council-pip-tracker/council-pip-tracker-semantic-records.jsonl", "archive/source-records/social-governance-semantic-enrichment/governance/SRC-PIP-33-397FEE39.json"],
-        "claims": ["Proposal passage and Council-reported payment are separate evidence states.", "Mixed ATLAS and USDC tracker values cannot be summed without transaction reconciliation.", "PIP-33 is a direct DAO Treasury authorization whose payment remains unverified."],
+        "claims": ["Proposal passage and Council-reported payment are separate evidence states.", "Mixed ATLAS and USDC tracker values cannot be summed without transaction reconciliation.", "PIP-33 is a direct DAO Treasury authorization whose payment remains unverified.", "PIP-33 displays two approximately equal USD 234,756.76 tranches, each composed of USD 176,067.57 USDC (75%) and USD 58,689.19 in ATLAS-equivalent value (25%); tranche 2 is scheduled 180 days later and reserve-conditional. The two displayed tranche totals sum to USD 469,513.52 rather than the stated USD 469,513.53 total, and their USDC portions sum to USD 352,135.14 rather than the stated USD 352,135.15 USDC total."],
     },
     {
         "id": "ecosystem-fund-award-history", "path": "knowledge/governance/Ecosystem-Fund-Award-History.md", "action": "CREATE", "status": "QUALIFIED", "risk": (7, "R3"),

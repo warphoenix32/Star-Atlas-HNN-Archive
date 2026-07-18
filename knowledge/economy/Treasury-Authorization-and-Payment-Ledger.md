@@ -46,9 +46,11 @@ The [treasury architecture](DAO-Treasury-Architecture.md) contains multiple name
 | [PIP-2](../../archive/source-records/social-governance-semantic-enrichment/governance/SRC-PIP-02-1E2D7066.json) | Annual Foundation basic-operations budget capped at USD 100,000; excess requires separate approval | `PASSED` | Tracker USDC-paid value is `?`; no amount promoted. |
 | [PIP-5](../../archive/source-records/social-governance-semantic-enrichment/governance/SRC-PIP-05-C248D280.json) | Naabathon co-sponsorship | `PASSED` | Council reports 6,000,000 ATLAS; transaction unverified. |
 | [PIP-28](../../archive/source-records/social-governance-semantic-enrichment/governance/SRC-PIP-28-D0A5DC75.json) | Temporary lore, design, and community-function funding | `PASSED` | Tracker does not provide a reconciled payment amount in this campaign. |
-| [PIP-33](../../archive/source-records/social-governance-semantic-enrichment/governance/SRC-PIP-33-397FEE39.json) | USD 469,513.53 historic ATMTA expense reimbursement, 75% immediate and 25% deferred subject to conditions | `PASSED` | All tracker payment fields null; `PAYMENT_UNVERIFIED`. |
+| [PIP-33](../../archive/source-records/social-governance-semantic-enrichment/governance/SRC-PIP-33-397FEE39.json) | USD 469,513.53 historic ATMTA expense reimbursement in two displayed tranches of USD 234,756.76; each tranche is 75% USDC and 25% ATLAS; tranche 2 is scheduled 180 days later and reserve-conditional | `PASSED` | All tracker payment fields null; `PAYMENT_UNVERIFIED`. |
 
 PIP-33 must not be relabeled as an Ecosystem Fund award. Its primary text identifies a direct, extraordinary DAO Treasury measure exceeding the ordinary fund cap, and the Council tracker marks `ecosystem_fund: NO`. [PIP-33 case study](../governance/PIP-33-ATMTA-Historic-Expense-Reimbursement.md)
+
+Each displayed tranche decomposes into USD 176,067.57 USDC and USD 58,689.19 in ATLAS-equivalent value. The schedule contains two preserved one-cent discrepancies: the two tranche totals add to USD 469,513.52 rather than the stated USD 469,513.53 total, and the two displayed USDC portions add to USD 352,135.14 rather than the stated USD 352,135.15 USDC total. The ATLAS-equivalent portions reconcile at USD 117,378.38. These differences are not silently normalized. Neither the approved schedule nor the asset composition proves that either tranche was transferred.
 
 ## Ecosystem Fund authorization and reported-payment ledger
 

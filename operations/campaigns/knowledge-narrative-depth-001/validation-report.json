@@ -74,6 +74,7 @@
     "QUALIFIED": 16
   },
   "changed_paths": [
+    ".github/workflows/repository-consolidation.yml",
     "knowledge/README.md",
     "knowledge/economy/ATLAS-Token-History.md",
     "knowledge/economy/POLIS-Token-History.md",
@@ -135,7 +136,9 @@
     "operations/campaigns/knowledge-narrative-depth-001/risk-register.md",
     "operations/campaigns/knowledge-narrative-depth-001/validate_campaign.py",
     "operations/campaigns/knowledge-narrative-depth-001/validation-report.json",
-    "operations/campaigns/knowledge-narrative-depth-001/validation-report.md"
+    "operations/campaigns/knowledge-narrative-depth-001/validation-report.md",
+    "operations/ci/README.md",
+    "operations/ci/validate_repository.py"
   ],
   "errors": [],
   "warnings": []
