@@ -378,7 +378,7 @@ def main() -> int:
         "as_of": "2026-07-18",
         "artifact_count": len(manifest_paths),
         "artifact_normalization": "UTF8_TEXT_CRLF_NORMALIZED_TO_LF_BEFORE_SHA256_AND_SIZE",
-        "artifacts": [{"path": path.relative_to(ROOT).as_posix(), "sha256": manifest_digest(path), "size_bytes": manifest_size(path)} for path in sorted(manifest_paths)],
+        "artifacts": [{"path": path.relative_to(ROOT).as_posix(), "sha256": manifest_digest(path), "size_bytes": manifest_size(path)} for path in sorted(manifest_paths, key=lambda item: item.relative_to(ROOT).as_posix().casefold())],
     }
     write_json(HERE / "manifest.json", manifest)
 

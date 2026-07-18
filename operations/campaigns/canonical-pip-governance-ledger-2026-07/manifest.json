@@ -61,8 +61,8 @@
     },
     {
       "path": "operations/campaigns/canonical-pip-governance-ledger-2026-07/validate_ledger.py",
-      "sha256": "e51f6ae936bbaf6a6ed78700043259dbc96dcb046579ee02e53649c94da66057",
-      "size_bytes": 28241
+      "sha256": "12d8edd561470d84ae82f4cb5164f4b87d099e2b5c160534abd70b4e8262b648",
+      "size_bytes": 28304
     }
   ]
 }
