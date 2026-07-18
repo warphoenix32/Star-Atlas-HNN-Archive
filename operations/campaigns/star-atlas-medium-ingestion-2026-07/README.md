@@ -8,6 +8,7 @@ Run from the repository root:
 
 ```powershell
 python operations/campaigns/star-atlas-medium-ingestion-2026-07/medium_campaign.py discover
+python operations/campaigns/star-atlas-medium-ingestion-2026-07/medium_campaign.py adjudicate
 python operations/campaigns/star-atlas-medium-ingestion-2026-07/medium_campaign.py retrieve
 python operations/campaigns/star-atlas-medium-ingestion-2026-07/medium_campaign.py validate
 ```
@@ -23,6 +24,7 @@ The direct collector uses Beautiful Soup. Rendered discovery and retrieval fallb
 ## Command boundaries
 
 - `discover` queries every year from 2020 through the current UTC year, captures discovery surfaces, reconciles repository/social/archive leads, probes publication identity, and writes a frozen disposition manifest. It does not download article media or generate Source Records.
+- `adjudicate` resolves obvious assets, navigation, unrelated accounts, and duplicate URL variants from the frozen candidate set, while explicitly deferring genuine unresolved article leads with the exact artifact and action needed. It performs no network retrieval.
 - `retrieve` reads only the frozen manifest. Successful articles receive immutable HTML, normalized JSON and Markdown, paired Source Records, schema-v2.1 ingestion packages, and URL-only media manifests.
 - `validate` checks disposition completeness, stable IDs, artifact parity, provenance, checksums, relative links, UTF-8/JSON validity, deterministic normalized output, and prohibited-path scope.
 
@@ -56,6 +58,10 @@ The operator narrowed this campaign to text-only ingestion after the initial ret
 The selected tier and every attempted tier are retained. Evidence from different tiers is never silently merged.
 
 ## Completeness limits
+
+Ingestion is complete for the 173 confirmed official-publication articles in the frozen included set. Publication discovery remains incomplete: Medium's historical surfaces are non-exhaustive and the explicitly deferred leads still require later artifact acquisition. A bare corpus-level `COMPLETE` label is not used.
+
+The collector queried the 2020 publication surfaces. No 2020 Star Atlas publication article was confirmed or included; preserved coverage begins with the earliest confirmed 2021 article rather than implying 2020 article coverage.
 
 Medium RSS is recent-item oriented and is not the completeness authority. Current publication pages may omit deleted, moved, or unlisted stories. Repository Discord/X records and public web-archive indexes are therefore discovery sources, not independent proof of publication authorship or article publication dates.
 

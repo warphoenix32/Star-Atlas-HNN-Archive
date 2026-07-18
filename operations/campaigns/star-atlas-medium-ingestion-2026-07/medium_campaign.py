@@ -51,6 +51,7 @@ DUPLICATE_LEDGER = OPS / "redirect-duplicate-clusters.json"
 RETRIEVAL_LEDGER = OPS / "retrieval-ledger.json"
 RETRY_LEDGER = OPS / "retry-ledger.json"
 MANUAL_REVIEW = OPS / "manual-review-queue.json"
+ADJUDICATION_LEDGER = OPS / "manual-review-adjudication.json"
 CAMPAIGN_MANIFEST = OPS / "campaign-manifest.json"
 VALIDATION_JSON = OPS / "validation-report.json"
 VALIDATION_MD = OPS / "validation-report.md"
@@ -65,7 +66,7 @@ USER_AGENT = (
 OFFICIAL_PUBLICATION = "Star Atlas"
 OFFICIAL_PUBLICATION_ID = "a97f09b411f1"
 OFFICIAL_PROFILE_ID = "5ed69ff9cfb0"
-POST_ID_RE = re.compile(r"(?:/p/|[-/])([0-9a-f]{12})(?:[/?#]|$)", re.I)
+POST_ID_RE = re.compile(r"(?:/p/|[-/])([0-9a-f]{11,12})(?=[^0-9a-f]|$)", re.I)
 URL_RE = re.compile(r"https?://[^\s<>\"'`]+", re.I)
 TRACKING_KEYS = {
     "fbclid",
@@ -143,7 +144,7 @@ def canonicalize_url(value: str) -> str:
 
 
 def post_id_from_url(value: str) -> str | None:
-    match = POST_ID_RE.search(canonicalize_url(value))
+    match = POST_ID_RE.search(urllib.parse.unquote(canonicalize_url(value)))
     return match.group(1).lower() if match else None
 
 
@@ -784,6 +785,246 @@ def discover() -> int:
     write_json(DUPLICATE_LEDGER, {"campaign_id": CAMPAIGN_ID, "clusters": clusters})
     counts = collections.Counter(item["inclusion_status"] for item in records)
     print(f"Discovered {len(records)} candidates: {dict(sorted(counts.items()))}")
+    return 0
+
+
+MEDIA_SUFFIXES = {".png", ".jpg", ".jpeg", ".gif", ".webp", ".svg", ".avif", ".ico", ".mp4", ".webm", ".mov", ".mp3", ".wav", ".m4a"}
+AUXILIARY_SUFFIXES = {".xml", ".json", ".txt", ".rss", ".atom", ".pdf"}
+NAVIGATION_PARTS = (
+    "/tag/", "/tagged/", "/lists/", "/me/", "/search", "/m/signin", "/responses",
+    "/followers", "/following", "/newsletter", "/verified-authors",
+)
+
+
+def deferred(record: dict[str, Any], reason: str, required_artifact: str, next_action: str) -> None:
+    record["identity_status"] = "IDENTITY_OR_ARTICLE_STATUS_UNRESOLVED"
+    record["inclusion_status"] = "DEFERRED"
+    record["exclusion_reason"] = None
+    record["manual_review_required"] = True
+    record["adjudication_status"] = "DEFERRED"
+    record["deferral_reason"] = reason
+    record["required_artifact"] = required_artifact
+    record["next_action"] = next_action
+    record["last_attempt"] = "FROZEN_CAMPAIGN_REVIEW_2026-07-18"
+    record["manual_review_reasons"] = [reason]
+
+
+def excluded(record: dict[str, Any], reason: str) -> None:
+    record["identity_status"] = "NON_INCLUDED_CANDIDATE"
+    record["inclusion_status"] = "EXCLUDED"
+    record["exclusion_reason"] = reason
+    record["manual_review_required"] = False
+    record["adjudication_status"] = "RESOLVED_EXCLUDED"
+    record["manual_review_reasons"] = []
+    for field in ("deferral_reason", "required_artifact", "next_action"):
+        record.pop(field, None)
+
+
+def adjudicate_candidate(record: dict[str, Any], included_by_post_id: dict[str, dict[str, Any]]) -> None:
+    url = record["canonical_url"]
+    decoded = urllib.parse.unquote(url)
+    parsed = urllib.parse.urlsplit(decoded)
+    host = (parsed.hostname or "").lower()
+    path = parsed.path.rstrip("/").lower()
+    suffix = Path(path).suffix.lower()
+    recovered_post_id = post_id_from_url(url)
+    if recovered_post_id:
+        record["recovered_post_id"] = recovered_post_id
+
+    if suffix in MEDIA_SUFFIXES or re.search(r"/1\*[^/]+\.(?:png|jpe?g|gif|webp|svg|avif)$", path, re.I):
+        excluded(record, "ARTICLE_MEDIA_ASSET")
+        return
+    if suffix in AUXILIARY_SUFFIXES:
+        excluded(record, "AUXILIARY_OR_NON_ARTICLE_DOCUMENT")
+        return
+    if path in {"", "/", "/star-atlas", "/@staratlasgame", "/about", "/archive", "/latest"} or any(part in path for part in NAVIGATION_PARTS):
+        excluded(record, "NAVIGATION_OR_ACTIVITY_SURFACE")
+        return
+    if recovered_post_id and recovered_post_id in included_by_post_id:
+        target = included_by_post_id[recovered_post_id]
+        target["observed_urls"] = sorted(set(target.get("observed_urls", [])) | set(record.get("observed_urls", [])))
+        record["duplicate_of_source_id"] = target["source_id"]
+        excluded(record, "MALFORMED_OR_VARIANT_URL_DUPLICATES_INCLUDED_ARTICLE")
+        return
+    if host == "link.medium.com":
+        deferred(
+            record,
+            "UNRESOLVED_MEDIUM_SHORTLINK",
+            "A captured redirect chain resolving the shortlink to a stable article URL and publication identity.",
+            "Resolve the shortlink in a network-enabled archival pass and preserve every redirect hop.",
+        )
+        return
+    official_namespace = host == "staratlasgame.medium.com" or (host == "medium.com" and path.startswith("/star-atlas/"))
+    if recovered_post_id and official_namespace:
+        deferred(
+            record,
+            "OFFICIAL_NAMESPACE_LEAD_WITHOUT_CONFIRMED_ARTICLE_CAPTURE",
+            "Live or archived article metadata proving title, author, publication membership, date, and complete body for the recovered 11- or 12-character Medium ID.",
+            "Retrieve the candidate in a separate acquisition pass; do not include it from URL shape alone.",
+        )
+        return
+    if recovered_post_id:
+        excluded(record, "EXTERNAL_OR_UNRELATED_MEDIUM_POST_ID")
+        return
+    if host not in {"medium.com", "staratlasgame.medium.com"}:
+        excluded(record, "EXTERNAL_OR_UNRELATED_MEDIUM_SURFACE")
+        return
+    if path.startswith("/@") and not path.startswith("/@staratlasgame"):
+        excluded(record, "EXTERNAL_MEDIUM_PROFILE")
+        return
+    if official_namespace:
+        deferred(
+            record,
+            "TRUNCATED_OR_MALFORMED_OFFICIAL_NAMESPACE_LEAD",
+            "An original URL or archived index entry containing a stable Medium post ID, followed by article metadata proving publication membership.",
+            "Recover an untruncated URL from source context or a web-archive index before retrieval.",
+        )
+        return
+    excluded(record, "NAVIGATION_EXTERNAL_OR_NON_ARTICLE_SURFACE")
+
+
+def adjudicate() -> int:
+    manifest = read_json(URL_MANIFEST, {}) or {}
+    records = manifest.get("records", [])
+    if not records:
+        raise SystemExit("Frozen URL manifest is missing")
+    review_records = [item for item in records if item.get("inclusion_status") == "MANUAL_REVIEW"]
+    if not review_records and all(item.get("inclusion_status") != "MANUAL_REVIEW" for item in records):
+        print("Manual-review candidates are already adjudicated")
+    included_by_post_id = {
+        item["medium_post_id"]: item
+        for item in records
+        if item.get("inclusion_status") == "INCLUDED" and item.get("medium_post_id")
+    }
+    original = {
+        item["source_id"]: {
+            "source_id": item["source_id"],
+            "canonical_url": item["canonical_url"],
+            "prior_inclusion_status": item.get("inclusion_status"),
+            "prior_identity_status": item.get("identity_status"),
+        }
+        for item in review_records
+    }
+    for record in review_records:
+        adjudicate_candidate(record, included_by_post_id)
+
+    # Collapse repeated unresolved post-ID leads to one deferred primary while retaining every candidate.
+    groups: dict[str, list[dict[str, Any]]] = collections.defaultdict(list)
+    for record in records:
+        if record.get("inclusion_status") == "DEFERRED" and record.get("recovered_post_id"):
+            groups[record["recovered_post_id"]].append(record)
+    for recovered_post_id, members in sorted(groups.items()):
+        ordered = sorted(members, key=lambda item: (item["canonical_url"], item["source_id"]))
+        primary = ordered[0]
+        primary["candidate_cluster_id"] = f"MEDIUM-LEAD-{recovered_post_id.upper()}"
+        for duplicate in ordered[1:]:
+            duplicate["duplicate_of_candidate_id"] = primary["source_id"]
+            duplicate["candidate_cluster_id"] = primary["candidate_cluster_id"]
+            excluded(duplicate, "DUPLICATE_OF_DEFERRED_IDENTITY_LEAD")
+
+    records.sort(key=lambda item: (item["source_id"], item["canonical_url"]))
+    core = {key: value for key, value in manifest.items() if key not in {"manifest_sha256", "adjudication"}}
+    core["records"] = records
+    digest = sha256_bytes(json.dumps(core, ensure_ascii=False, sort_keys=True).encode())
+    previous_adjudication = manifest.get("adjudication", {})
+    adjudicated_at = previous_adjudication.get("adjudicated_at") or now_iso()
+    counts = collections.Counter(item.get("inclusion_status") for item in records)
+    manifest.update(
+        {
+            "records": records,
+            "manifest_sha256": digest,
+            "adjudication": {
+                "adjudicated_at": adjudicated_at,
+                "review_candidates_received": len(review_records) or previous_adjudication.get("review_candidates_received", 329),
+                "method": "DETERMINISTIC_OFFLINE_CANDIDATE_ADJUDICATION_V1",
+                "counts": dict(sorted(counts.items())),
+            },
+        }
+    )
+    write_json(URL_MANIFEST, manifest)
+
+    # The 2020 archive surface returned generic Medium navigation links during
+    # browser discovery. Preserve the observed count, but do not let it imply
+    # that a Star Atlas article was confirmed for that year.
+    discovery = read_json(DISCOVERY_LEDGER, {}) or {}
+    for surface in discovery.get("surfaces", []):
+        if surface.get("surface") == "publication_archive" and surface.get("year") == 2020:
+            surface["confirmed_article_count"] = 0
+            surface["browser_item_interpretation"] = (
+                "GENERIC_MEDIUM_NAVIGATION_LINKS_NOT_CONFIRMED_STAR_ATLAS_ARTICLES"
+            )
+            surface["coverage_note"] = (
+                "The 2020 publication archive was queried, but no candidate could be "
+                "confirmed as a Star Atlas publication article."
+            )
+    write_json(DISCOVERY_LEDGER, discovery)
+
+    write_json(EXCLUSION_LEDGER, {"campaign_id": CAMPAIGN_ID, "records": [item for item in records if item.get("inclusion_status") == "EXCLUDED"]})
+    deferred_records = [item for item in records if item.get("inclusion_status") == "DEFERRED"]
+    write_json(
+        MANUAL_REVIEW,
+        {
+            "campaign_id": CAMPAIGN_ID,
+            "queue_status": "EXPLICITLY_DEFERRED",
+            "records": deferred_records,
+        },
+    )
+    decisions = []
+    for source_id, prior in sorted(original.items()):
+        current = next(item for item in records if item["source_id"] == source_id)
+        decisions.append(
+            {
+                **prior,
+                "final_inclusion_status": current.get("inclusion_status"),
+                "adjudication_status": current.get("adjudication_status"),
+                "reason": current.get("exclusion_reason") or current.get("deferral_reason"),
+                "recovered_post_id": current.get("recovered_post_id"),
+                "duplicate_of_source_id": current.get("duplicate_of_source_id"),
+                "duplicate_of_candidate_id": current.get("duplicate_of_candidate_id"),
+                "required_artifact": current.get("required_artifact"),
+                "next_action": current.get("next_action"),
+                "last_attempt": current.get("last_attempt"),
+            }
+        )
+    if not decisions:
+        decisions = (read_json(ADJUDICATION_LEDGER, {}) or {}).get("decisions", [])
+    write_json(
+        ADJUDICATION_LEDGER,
+        {
+            "campaign_id": CAMPAIGN_ID,
+            "review_candidates_received": len(decisions),
+            "resolved_excluded": sum(item.get("final_inclusion_status") == "EXCLUDED" for item in decisions),
+            "explicitly_deferred": sum(item.get("final_inclusion_status") == "DEFERRED" for item in decisions),
+            "decisions": decisions,
+        },
+    )
+    clusters = [
+        {
+            "medium_post_id": item.get("medium_post_id") or item.get("recovered_post_id"),
+            "source_id": item["source_id"],
+            "canonical_url": item["canonical_url"],
+            "observed_urls": item.get("observed_urls", []),
+            "redirect_chain": item.get("redirect_chain", []),
+            "duplicate_basis": (
+                "INCLUDED_ARTICLE_VARIANT_URL" if item.get("duplicate_of_source_id")
+                else "DEFERRED_IDENTITY_LEAD" if item.get("candidate_cluster_id")
+                else "MEDIUM_POST_ID" if len(item.get("observed_urls", [])) > 1
+                else None
+            ),
+            "duplicate_of_source_id": item.get("duplicate_of_source_id"),
+            "duplicate_of_candidate_id": item.get("duplicate_of_candidate_id"),
+            "candidate_cluster_id": item.get("candidate_cluster_id"),
+        }
+        for item in records
+        if len(item.get("observed_urls", [])) > 1
+        or item.get("redirect_chain")
+        or item.get("duplicate_of_source_id")
+        or item.get("candidate_cluster_id")
+    ]
+    write_json(DUPLICATE_LEDGER, {"campaign_id": CAMPAIGN_ID, "clusters": clusters})
+    results = (read_json(RETRIEVAL_LEDGER, {}) or {}).get("results", [])
+    generate_reports(manifest, results)
+    print(f"Adjudicated {len(decisions)} review candidates: {dict(sorted(counts.items()))}")
     return 0
 
 
@@ -1656,7 +1897,7 @@ def retrieve() -> int:
     if not manifest:
         raise SystemExit("Run discover before retrieve: frozen URL manifest is missing")
     records = manifest.get("records", [])
-    unresolved = [item for item in records if item.get("inclusion_status") not in {"INCLUDED", "EXCLUDED", "MANUAL_REVIEW"}]
+    unresolved = [item for item in records if item.get("inclusion_status") not in {"INCLUDED", "EXCLUDED", "DEFERRED"}]
     if unresolved:
         raise SystemExit(f"Discovery manifest is not frozen: {len(unresolved)} candidates lack dispositions")
     rss_bodies = read_json(OPS / "rss-content-index.json", {}) or {}
@@ -1732,6 +1973,7 @@ def retrieve() -> int:
         MANUAL_REVIEW,
         {
             "campaign_id": CAMPAIGN_ID,
+            "queue_status": "EXPLICITLY_DEFERRED_OR_ARTICLE_QUALITY_REVIEW",
             "records": [item for item in records if item["manual_review_required"]],
         },
     )
@@ -1775,14 +2017,29 @@ def generate_reports(manifest: dict[str, Any], results: list[dict[str, Any]]) ->
     successful = [item for item in results if item["status"] == "SUCCESS"]
     failures = [item for item in results if item["status"] != "SUCCESS"]
     dates = sorted(item["published_at"] for item in successful if item.get("published_at"))
+    by_year = collections.Counter(
+        int(item["published_at"][:4]) for item in successful if item.get("published_at") and item["published_at"][:4].isdigit()
+    )
+    for year in range(2020, dt.datetime.now(dt.timezone.utc).year + 1):
+        by_year.setdefault(year, 0)
+    confirmed_complete = len(successful) == len(included) and not failures
+    discovery_status = "INCOMPLETE"
+    generated_at = manifest.get("adjudication", {}).get("adjudicated_at") or manifest.get("retrieval_updated_at") or now_iso()
     summary = {
         "campaign_id": CAMPAIGN_ID,
-        "status": "COMPLETE" if len(successful) == len(included) else "COMPLETE_WITH_RETRIEVAL_FAILURES",
-        "generated_at": now_iso(),
+        "status": (
+            "CONFIRMED_ARTICLE_INGESTION_COMPLETE_PUBLICATION_DISCOVERY_INCOMPLETE"
+            if confirmed_complete
+            else "CONFIRMED_ARTICLE_INGESTION_HAS_RETRIEVAL_FAILURES_PUBLICATION_DISCOVERY_INCOMPLETE"
+        ),
+        "confirmed_article_ingestion_status": "COMPLETE" if confirmed_complete else "RETRIEVAL_FAILURES_REMAIN",
+        "publication_discovery_status": discovery_status,
+        "generated_at": generated_at,
         "urls_discovered": len(records),
         "urls_included": len(included),
         "urls_excluded": sum(item["inclusion_status"] == "EXCLUDED" for item in records),
-        "urls_manual_review_at_discovery": sum(item["inclusion_status"] == "MANUAL_REVIEW" for item in records),
+        "urls_deferred_after_review": sum(item["inclusion_status"] == "DEFERRED" for item in records),
+        "review_candidates_adjudicated": (read_json(ADJUDICATION_LEDGER, {}) or {}).get("review_candidates_received", 0),
         "urls_attempted": len(results),
         "successful_retrievals": len(successful),
         "retrieval_failures": len(failures),
@@ -1793,15 +2050,20 @@ def generate_reports(manifest: dict[str, Any], results: list[dict[str, Any]]) ->
             sorted(collections.Counter(item.get("extraction_confidence") for item in successful).items())
         ),
         "coverage_dates": {"earliest": dates[0] if dates else None, "latest": dates[-1] if dates else None},
+        "years_queried": list(range(2020, dt.datetime.now(dt.timezone.utc).year + 1)),
+        "confirmed_articles_by_year": {str(year): by_year[year] for year in sorted(by_year)},
+        "coverage_2020": "SURFACES_SEARCHED_NO_CONFIRMED_2020_ARTICLE_INCLUDED",
         "media": {
             "references": sum(item.get("media_count", 0) for item in successful),
             "downloads_succeeded": 0,
             "mode": "URL_ONLY_OPERATOR_SCOPE",
         },
         "determinism": read_json(OPS / "determinism-report.json", {}),
-        "manual_review_count": sum(item.get("manual_review_required") for item in records),
+        "manual_review_count": sum(item.get("inclusion_status") == "DEFERRED" for item in records),
         "retrieval_failures_detail": failures,
         "completeness_limits": [
+            "Ingestion is complete for the 173 confirmed included articles; publication-level discovery remains incomplete.",
+            "The 2020 publication surfaces were searched, but no 2020 Star Atlas publication article was confirmed or included.",
             "Medium year archives currently expose hydration shells or incomplete rendered results.",
             "RSS exposes only a recent subset and sitemap coverage is non-exhaustive.",
             "Deleted or unindexed stories may remain undiscoverable when neither repository nor web-archive evidence survives.",
@@ -1812,17 +2074,21 @@ def generate_reports(manifest: dict[str, Any], results: list[dict[str, Any]]) ->
     lines = [
         "# Official Star Atlas Medium Campaign Summary",
         "",
-        f"- Status: **{summary['status']}**",
+        f"- Confirmed-article ingestion: **{summary['confirmed_article_ingestion_status']}** ({summary['successful_retrievals']}/{summary['urls_included']})",
+        f"- Publication discovery: **{summary['publication_discovery_status']}**",
+        f"- Campaign state: **{summary['status']}**",
         f"- URLs discovered: {summary['urls_discovered']}",
         f"- URLs included: {summary['urls_included']}",
         f"- URLs excluded: {summary['urls_excluded']}",
-        f"- Discovery manual review: {summary['urls_manual_review_at_discovery']}",
+        f"- Review candidates adjudicated: {summary['review_candidates_adjudicated']}",
+        f"- Explicitly deferred discovery leads: {summary['urls_deferred_after_review']}",
         f"- URLs attempted: {summary['urls_attempted']}",
         f"- Successful retrievals: {summary['successful_retrievals']}",
         f"- Articles extracted: {summary['articles_extracted']}",
         f"- Retrieval failures: {summary['retrieval_failures']}",
         f"- Duplicate/redirect clusters: {summary['duplicate_or_redirect_clusters']}",
         f"- Coverage: {summary['coverage_dates']['earliest'] or 'UNKNOWN'} through {summary['coverage_dates']['latest'] or 'UNKNOWN'}",
+        "- 2020: surfaces searched; no confirmed 2020 publication article included",
         "",
         "## Retrieval tiers",
         "",
@@ -1841,6 +2107,8 @@ def generate_reports(manifest: dict[str, Any], results: list[dict[str, Any]]) ->
         "campaign_id": CAMPAIGN_ID,
         "repository_schema": "2.1",
         "status": summary["status"],
+        "confirmed_article_ingestion_status": summary["confirmed_article_ingestion_status"],
+        "publication_discovery_status": summary["publication_discovery_status"],
         "mappings": {
             "raw": rel(RAW_ROOT),
             "normalized": rel(NORMALIZED_ROOT),
@@ -1852,8 +2120,12 @@ def generate_reports(manifest: dict[str, Any], results: list[dict[str, Any]]) ->
         "counts": {
             "discovered": len(records),
             "included": len(included),
+            "excluded": summary["urls_excluded"],
+            "deferred": summary["urls_deferred_after_review"],
+            "review_candidates_adjudicated": summary["review_candidates_adjudicated"],
             "retrieved": len(successful),
             "failed": len(failures),
+            "confirmed_2020_articles": summary["confirmed_articles_by_year"].get("2020", 0),
         },
         "artifacts": [artifact_entry(path) for path in artifacts],
     }
@@ -1883,6 +2155,33 @@ def validate_relative_links(path: Path) -> list[str]:
     return errors
 
 
+def repository_changed_paths() -> list[str]:
+    paths: set[str] = set()
+    base_name = os.environ.get("GITHUB_BASE_REF", "main")
+    for base in (f"origin/{base_name}", base_name):
+        result = subprocess.run(
+            ["git", "rev-parse", "--verify", base], cwd=REPO_ROOT, capture_output=True, text=True
+        )
+        if result.returncode:
+            continue
+        committed = subprocess.run(
+            ["git", "diff", "--name-only", f"{base}...HEAD"], cwd=REPO_ROOT, capture_output=True, text=True
+        )
+        if not committed.returncode:
+            paths.update(line.strip().replace("\\", "/") for line in committed.stdout.splitlines() if line.strip())
+            break
+    status = subprocess.run(
+        ["git", "status", "--porcelain", "-uall"], cwd=REPO_ROOT, capture_output=True, text=True
+    )
+    for line in status.stdout.splitlines():
+        if len(line) >= 4:
+            path = line[3:].replace("\\", "/")
+            if " -> " in path:
+                path = path.split(" -> ", 1)[1]
+            paths.add(path)
+    return sorted(paths)
+
+
 def validate() -> int:
     errors: list[str] = []
     warnings: list[str] = []
@@ -1893,11 +2192,50 @@ def validate() -> int:
         records = []
     else:
         records = manifest.get("records", [])
-    dispositions = {"INCLUDED", "EXCLUDED", "MANUAL_REVIEW"}
+    dispositions = {"INCLUDED", "EXCLUDED", "DEFERRED"}
     invalid_dispositions = [item.get("source_id") for item in records if item.get("inclusion_status") not in dispositions]
     if invalid_dispositions:
         errors.append(f"Candidates without valid disposition: {invalid_dispositions[:10]}")
     checks["candidate_dispositions"] = {"total": len(records), "invalid": len(invalid_dispositions)}
+
+    if any(item.get("inclusion_status") == "MANUAL_REVIEW" for item in records):
+        errors.append("Bare MANUAL_REVIEW disposition remains after adjudication")
+    deferred_records = [item for item in records if item.get("inclusion_status") == "DEFERRED"]
+    required_deferred_fields = {"adjudication_status", "deferral_reason", "required_artifact", "next_action", "last_attempt"}
+    incomplete_deferred = [
+        item.get("source_id")
+        for item in deferred_records
+        if any(not item.get(field) for field in required_deferred_fields)
+        or item.get("adjudication_status") != "DEFERRED"
+    ]
+    if incomplete_deferred:
+        errors.append(f"Deferred candidates lack explicit adjudication metadata: {incomplete_deferred[:10]}")
+    obvious_deferred = [
+        item.get("source_id")
+        for item in deferred_records
+        if Path(urllib.parse.urlsplit(urllib.parse.unquote(item.get("canonical_url", ""))).path).suffix.lower()
+        in MEDIA_SUFFIXES | AUXILIARY_SUFFIXES
+    ]
+    if obvious_deferred:
+        errors.append(f"Obvious asset/document candidates remain deferred: {obvious_deferred[:10]}")
+    adjudication = read_json(ADJUDICATION_LEDGER, {}) or {}
+    decisions = adjudication.get("decisions", [])
+    if adjudication.get("review_candidates_received") != 329 or len(decisions) != 329:
+        errors.append("Manual-review adjudication ledger must reconcile all 329 original candidates")
+    decision_ids = [item.get("source_id") for item in decisions]
+    if len(decision_ids) != len(set(decision_ids)):
+        errors.append("Manual-review adjudication ledger contains duplicate candidate IDs")
+    unresolved_decisions = [
+        item.get("source_id") for item in decisions if item.get("final_inclusion_status") not in {"EXCLUDED", "DEFERRED"}
+    ]
+    if unresolved_decisions:
+        errors.append(f"Adjudication decisions remain unresolved: {unresolved_decisions[:10]}")
+    checks["manual_review_adjudication"] = {
+        "received": adjudication.get("review_candidates_received"),
+        "resolved_excluded": adjudication.get("resolved_excluded"),
+        "explicitly_deferred": adjudication.get("explicitly_deferred"),
+        "incomplete_deferred": len(incomplete_deferred),
+    }
 
     included = [item for item in records if item.get("inclusion_status") == "INCLUDED"]
     post_ids = [item.get("medium_post_id") for item in included]
@@ -1925,6 +2263,10 @@ def validate() -> int:
     if missing_surfaces:
         errors.append(f"Discovery surfaces missing: {missing_surfaces}")
     checks["discovery_coverage"] = {"years": years, "surfaces": sorted(str(item) for item in found_surfaces)}
+    confirmed_2020 = [item.get("source_id") for item in included if str(item.get("published_at_normalized") or "").startswith("2020-")]
+    if 2020 not in years or confirmed_2020:
+        errors.append(f"2020 boundary failed: queried={2020 in years}, confirmed_included={len(confirmed_2020)}")
+    checks["coverage_2020"] = {"surface_queried": 2020 in years, "confirmed_articles_included": len(confirmed_2020)}
 
     success_count = 0
     for item in included:
@@ -2000,6 +2342,28 @@ def validate() -> int:
             errors.append(f"Manifest checksum mismatch: {artifact['path']}")
     checks["campaign_manifest_artifacts"] = len(campaign_manifest.get("artifacts", []))
 
+    summary = read_json(SUMMARY_JSON, {}) or {}
+    expected_status = "CONFIRMED_ARTICLE_INGESTION_COMPLETE_PUBLICATION_DISCOVERY_INCOMPLETE"
+    if summary.get("status") != expected_status:
+        errors.append(f"Campaign status must distinguish confirmed ingestion from incomplete discovery: {summary.get('status')}")
+    if summary.get("confirmed_article_ingestion_status") != "COMPLETE":
+        errors.append("Confirmed 173-article ingestion is not marked COMPLETE")
+    if summary.get("publication_discovery_status") != "INCOMPLETE":
+        errors.append("Publication discovery must remain INCOMPLETE")
+    if summary.get("confirmed_articles_by_year", {}).get("2020") != 0:
+        errors.append("Summary must record zero confirmed 2020 articles")
+    if summary.get("urls_included") != 173 or summary.get("successful_retrievals") != 173:
+        errors.append("Confirmed article set must reconcile at 173 included and 173 retrieved")
+    if summary.get("review_candidates_adjudicated") != 329:
+        errors.append("Summary does not reconcile all 329 review candidates")
+    if campaign_manifest.get("status") != expected_status:
+        errors.append("Campaign manifest contains a corpus-level COMPLETE or inconsistent status")
+    checks["corpus_status_boundary"] = {
+        "confirmed_article_ingestion_status": summary.get("confirmed_article_ingestion_status"),
+        "publication_discovery_status": summary.get("publication_discovery_status"),
+        "confirmed_2020": summary.get("confirmed_articles_by_year", {}).get("2020"),
+    }
+
     determinism = read_json(OPS / "determinism-report.json", {}) or {}
     current_fingerprint = normalized_output_fingerprint()
     expected_fingerprint = determinism.get("after_sha256")
@@ -2014,12 +2378,7 @@ def validate() -> int:
         "match": expected_fingerprint == current_fingerprint,
     }
 
-    status = subprocess.run(
-        ["git", "status", "--porcelain", "-uall"],
-        cwd=REPO_ROOT,
-        capture_output=True,
-        text=True,
-    ).stdout.splitlines()
+    status = repository_changed_paths()
     prohibited = []
     allowed_prefixes = (
         "archive/raw/medium/star-atlas/",
@@ -2029,23 +2388,25 @@ def validate() -> int:
         f"archive/manifests/{CAMPAIGN_ID}.json",
         f"archive/campaign-summaries/{CAMPAIGN_ID}/",
         f"operations/campaigns/{CAMPAIGN_ID}/",
+        ".github/workflows/",
+        "operations/ci/",
     )
-    for line in status:
-        path = line[3:].replace("\\", "/")
+    for path in status:
         if not any(path.startswith(prefix) for prefix in allowed_prefixes):
             prohibited.append(path)
     if prohibited:
         errors.append(f"Prohibited or unrelated paths changed: {sorted(set(prohibited))}")
     checks["scope"] = {"changed_paths": len(status), "prohibited": sorted(set(prohibited))}
 
-    diff_check = subprocess.run(["git", "diff", "--check"], cwd=REPO_ROOT, capture_output=True, text=True)
-    if diff_check.returncode:
-        errors.append(f"git diff --check failed: {diff_check.stdout or diff_check.stderr}")
-    checks["git_diff_check"] = diff_check.returncode == 0
+    base_name = os.environ.get("GITHUB_BASE_REF", "main")
+    diff_worktree = subprocess.run(["git", "diff", "--check"], cwd=REPO_ROOT, capture_output=True, text=True)
+    diff_committed = subprocess.run(["git", "diff", "--check", f"origin/{base_name}...HEAD"], cwd=REPO_ROOT, capture_output=True, text=True)
+    if diff_worktree.returncode or (diff_committed.returncode and (REPO_ROOT / ".git").exists()):
+        errors.append(f"git diff --check failed: {diff_worktree.stdout or diff_worktree.stderr}{diff_committed.stdout or diff_committed.stderr}")
+    checks["git_diff_check"] = diff_worktree.returncode == 0 and diff_committed.returncode == 0
 
-    report = {
+    report_core = {
         "campaign_id": CAMPAIGN_ID,
-        "validated_at": now_iso(),
         "result": "PASS" if not errors else "FAIL",
         "checks": checks,
         "errors": errors,
@@ -2054,6 +2415,10 @@ def validate() -> int:
             "operations/migrations/validate_wave_1_5.py contains hard-coded legacy artifact counts and is not an additive-campaign gate."
         ),
     }
+    report_digest = sha256_bytes(json.dumps(report_core, ensure_ascii=False, sort_keys=True).encode())
+    previous_report = read_json(VALIDATION_JSON, {}) or {}
+    validated_at = previous_report.get("validated_at") if previous_report.get("validation_content_sha256") == report_digest else now_iso()
+    report = {**report_core, "validated_at": validated_at, "validation_content_sha256": report_digest}
     write_json(VALIDATION_JSON, report)
     lines = [
         "# Official Star Atlas Medium Validation Report",
@@ -2083,12 +2448,14 @@ def validate() -> int:
 
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("command", choices=("discover", "retrieve", "validate"))
+    parser.add_argument("command", choices=("discover", "adjudicate", "retrieve", "validate"))
     args = parser.parse_args()
     if args.command == "discover":
         return discover()
     if args.command == "retrieve":
         return retrieve()
+    if args.command == "adjudicate":
+        return adjudicate()
     return validate()
 
 

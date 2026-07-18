@@ -3,8 +3,11 @@
   "surfaces": [
     {
       "browser_item_count": 4,
+      "browser_item_interpretation": "GENERIC_MEDIUM_NAVIGATION_LINKS_NOT_CONFIRMED_STAR_ATLAS_ARTICLES",
       "browser_scroll_passes": 3,
       "browser_sha256": "c3cf443bfb2f569e68688b42880d44d433a6a09e0f3b17c417b26bb166dbd2e4",
+      "confirmed_article_count": 0,
+      "coverage_note": "The 2020 publication archive was queried, but no candidate could be confirmed as a Star Atlas publication article.",
       "direct_sha256": "33162d3f7faadcd7b9450c38ce1fca2aaed1746518a7283ca70151d7571f4992",
       "final_url": "https://medium.com/star-atlas/all?year=2020",
       "http_status": 200,

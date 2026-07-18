@@ -2,13 +2,13 @@
   "artifacts": [
     {
       "path": "archive/campaign-summaries/star-atlas-medium-ingestion-2026-07/campaign-summary.json",
-      "sha256": "3741aae31c2c119857dcb3b4c0867925f23e3a4bb0df8558448d59de808d2cc9",
-      "size_bytes": 1913
+      "sha256": "bfcb479fd84940247f9f56beed978878a503b8b38d661aa57bda4eed08922094",
+      "size_bytes": 2665
     },
     {
       "path": "archive/campaign-summaries/star-atlas-medium-ingestion-2026-07/campaign-summary.md",
-      "sha256": "152bb67f61582de200d941bde0932e4b4f9e86d2c01f83f58caff85639c50a07",
-      "size_bytes": 921
+      "sha256": "5c1a0abc972af98623f0e1ef6161f5e088a4504e2dfbd1be5312c85030d72fc9",
+      "size_bytes": 1436
     },
     {
       "path": "archive/ingestion-packages/star-atlas-medium/.gitattributes",
@@ -6957,8 +6957,8 @@
     },
     {
       "path": "operations/campaigns/star-atlas-medium-ingestion-2026-07/README.md",
-      "sha256": "5bb3131bf0a4841eebb85145f3e37e05282245fcf425b2db41eb107567ef6f26",
-      "size_bytes": 3881
+      "sha256": "af20d6f910c43ab93f87c6af960078393976cbd1403c61ef7929228b616d8d16",
+      "size_bytes": 4792
     },
     {
       "path": "operations/campaigns/star-atlas-medium-ingestion-2026-07/determinism-report.json",
@@ -7257,13 +7257,13 @@
     },
     {
       "path": "operations/campaigns/star-atlas-medium-ingestion-2026-07/discovery-ledger.json",
-      "sha256": "7e81dab205e27abb5b2dcf37c96539595576d657ac7baeeb3ae7156845144110",
-      "size_bytes": 74532
+      "sha256": "0ae8668ac454f9b61ccf784cb0b6ae055088d13e183d91353473cc240f532881",
+      "size_bytes": 74815
     },
     {
       "path": "operations/campaigns/star-atlas-medium-ingestion-2026-07/exclusion-ledger.json",
-      "sha256": "d032f59f039ec4b562f2cf70fc37c43f107cf47f4519bb6296fcb420be39e383",
-      "size_bytes": 237171
+      "sha256": "176d621e6f9fbb2e76708bb105ea3f53c5aa5e2e4e36bc14ce08312165da1a24",
+      "size_bytes": 546824
     },
     {
       "path": "operations/campaigns/star-atlas-medium-ingestion-2026-07/identity-captures/SRC-MEDIUM-STARATLAS-2C28F0698A52.browser.html",
@@ -7776,9 +7776,14 @@
       "size_bytes": 1026
     },
     {
+      "path": "operations/campaigns/star-atlas-medium-ingestion-2026-07/manual-review-adjudication.json",
+      "sha256": "d89fc390342c2594a020e78d0c49dda7917fa376e1e5d34ddb367dc8cdfa4e85",
+      "size_bytes": 227004
+    },
+    {
       "path": "operations/campaigns/star-atlas-medium-ingestion-2026-07/manual-review-queue.json",
-      "sha256": "e0b8b27e544b795e34479a93121fc59be18a06461da4fe0cba624b4143201dce",
-      "size_bytes": 355118
+      "sha256": "cff3ab9604013dc4a0bebcff80dd98863f1837b46a6e22359544bd79cb61be41",
+      "size_bytes": 87774
     },
     {
       "path": "operations/campaigns/star-atlas-medium-ingestion-2026-07/medium_browser.js",
@@ -7787,13 +7792,13 @@
     },
     {
       "path": "operations/campaigns/star-atlas-medium-ingestion-2026-07/medium_campaign.py",
-      "sha256": "0630044b7d94923c83a21d63ff4a65ba14ace12af14d3625b8c106642043cffd",
-      "size_bytes": 92303
+      "sha256": "4ffe1f44a5d5d8eb2f87818ddea7393d366f789f0cd82924e8d99c91fd8bb245",
+      "size_bytes": 112618
     },
     {
       "path": "operations/campaigns/star-atlas-medium-ingestion-2026-07/redirect-duplicate-clusters.json",
-      "sha256": "f14e023ad1936be0afc1ea7f9090ecc95609e4fc15a85add8b109f13be89ae9e",
-      "size_bytes": 339960
+      "sha256": "c7c9d3f21ab30428e2b80f92a4ec22c15d8c7ed6cd152cd23585aa385abb9dfe",
+      "size_bytes": 440095
     },
     {
       "path": "operations/campaigns/star-atlas-medium-ingestion-2026-07/requirements.txt",
@@ -7822,16 +7827,21 @@
     },
     {
       "path": "operations/campaigns/star-atlas-medium-ingestion-2026-07/url-manifest.json",
-      "sha256": "a03c48170da936258937d8207ab191d818d1c510654d69715560afba1c6fcff7",
-      "size_bytes": 1222498
+      "sha256": "265d380d605f51269daf4c1fa3a4fbaf73be3f307a5eca78cc87e5749a2e481b",
+      "size_bytes": 1273556
     }
   ],
   "campaign_id": "star-atlas-medium-ingestion-2026-07",
+  "confirmed_article_ingestion_status": "COMPLETE",
   "counts": {
+    "confirmed_2020_articles": 0,
+    "deferred": 51,
     "discovered": 686,
+    "excluded": 462,
     "failed": 0,
     "included": 173,
-    "retrieved": 173
+    "retrieved": 173,
+    "review_candidates_adjudicated": 329
   },
   "mappings": {
     "ingestion_packages": "archive/ingestion-packages/star-atlas-medium",
@@ -7841,6 +7851,7 @@
     "source_records": "archive/source-records/medium/star-atlas",
     "summary": "archive/campaign-summaries/star-atlas-medium-ingestion-2026-07"
   },
+  "publication_discovery_status": "INCOMPLETE",
   "repository_schema": "2.1",
-  "status": "COMPLETE"
+  "status": "CONFIRMED_ARTICLE_INGESTION_COMPLETE_PUBLICATION_DISCOVERY_INCOMPLETE"
 }

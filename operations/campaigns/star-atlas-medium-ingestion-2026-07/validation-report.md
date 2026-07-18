@@ -15,10 +15,19 @@
     "included": 173,
     "validated_successes": 173
   },
-  "campaign_manifest_artifacts": 1565,
+  "campaign_manifest_artifacts": 1566,
   "candidate_dispositions": {
     "invalid": 0,
     "total": 686
+  },
+  "corpus_status_boundary": {
+    "confirmed_2020": 0,
+    "confirmed_article_ingestion_status": "COMPLETE",
+    "publication_discovery_status": "INCOMPLETE"
+  },
+  "coverage_2020": {
+    "confirmed_articles_included": 0,
+    "surface_queried": true
   },
   "deterministic_outputs": {
     "current_sha256": "655eaeb4ecbd57e05f6d6f8fdb97dca2ba49b93fd2077c7a156f7da0b1fd5915",
@@ -53,8 +62,14 @@
     "unique_post_ids": 173,
     "unique_source_ids": 173
   },
+  "manual_review_adjudication": {
+    "explicitly_deferred": 51,
+    "incomplete_deferred": 0,
+    "received": 329,
+    "resolved_excluded": 278
+  },
   "scope": {
-    "changed_paths": 1569,
+    "changed_paths": 1573,
     "prohibited": []
   }
 }
