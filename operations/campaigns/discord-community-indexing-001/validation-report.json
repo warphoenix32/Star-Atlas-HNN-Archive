@@ -112,15 +112,24 @@
           "operations/campaigns/discord-community-indexing-001/README.md",
           "operations/campaigns/discord-community-indexing-001/alias-registry.json",
           "operations/campaigns/discord-community-indexing-001/build_index.py",
+          "operations/campaigns/discord-community-indexing-001/competition-index.jsonl",
           "operations/campaigns/discord-community-indexing-001/conflict-report.json",
+          "operations/campaigns/discord-community-indexing-001/discord-channel-coverage.json",
+          "operations/campaigns/discord-community-indexing-001/discord-channel-gap-report.json",
+          "operations/campaigns/discord-community-indexing-001/discord-collection-backlog.json",
           "operations/campaigns/discord-community-indexing-001/guild-index.jsonl",
+          "operations/campaigns/discord-community-indexing-001/human-resolution-queue.json",
           "operations/campaigns/discord-community-indexing-001/identity-index.jsonl",
+          "operations/campaigns/discord-community-indexing-001/organization-index.jsonl",
           "operations/campaigns/discord-community-indexing-001/promotion-candidates.json",
           "operations/campaigns/discord-community-indexing-001/relationship-index.jsonl",
           "operations/campaigns/discord-community-indexing-001/research-backlog.json",
           "operations/campaigns/discord-community-indexing-001/source-inventory.json",
+          "operations/campaigns/discord-community-indexing-001/tag-registry.json",
           "operations/campaigns/discord-community-indexing-001/validate_campaign.py",
           "operations/campaigns/discord-community-indexing-001/validation-report.json",
+          "operations/ci/README.md",
+          "operations/ci/validate_repository.py",
           "operations/tests/discord_community_indexing/test_indexer.py"
         ],
         "forbidden_paths": [],
@@ -140,12 +149,12 @@
           "discord-collection-backlog.json": "6e701060d2b189bfef1ccb2290ef99aaeca29d9066e379fc35805c32bacb3f46",
           "guild-index.jsonl": "a2de0ce8a9c2ff708a34c65f7f0177e442ceff0fe78714c68776ae1b687d02d0",
           "human-resolution-queue.json": "e91b455bf19c751a7e76b247e502bef429ee073d06db3bfbd4fc7bb908a83c5b",
-          "identity-index.jsonl": "cf20740e2a9f254ae3b015d727d0b41c682dc558bd0cd335354897d3d9c53530",
+          "identity-index.jsonl": "8544e2969e6f6b9c6c6788a3171552f1d65e2ef830ce853825ab9ae6f1ef7be3",
           "organization-index.jsonl": "4317a71af78faae8453fec9bb0d655b463cf2cc438684cf3074eaf793dae97e4",
           "promotion-candidates.json": "7b30751c837f32e2da29464d45ec63db438485144677df87365a1d305fb10e13",
           "relationship-index.jsonl": "1827491c503d6029e3f75b44396bb489665479a2ac5a5bbc04583d8bc095768b",
           "research-backlog.json": "b899ca41d80a73e65f2778537fca74cff4292de70b6799c4ad30900d4980ae8a",
-          "source-inventory.json": "04a94109b90b84280237f0cd62db60a0de4c4b43616798727300eb90fbc93c67",
+          "source-inventory.json": "64e8bac5b8b299ed8bcaad3c24c0555dccd037a66a7693a1720cb8995ae780b5",
           "tag-registry.json": "562bc3874da90016df9747879af3c8c4fcbb97bfbba2aeba769656168a09fa4b"
         },
         "before": {
@@ -157,19 +166,19 @@
           "discord-collection-backlog.json": "6e701060d2b189bfef1ccb2290ef99aaeca29d9066e379fc35805c32bacb3f46",
           "guild-index.jsonl": "a2de0ce8a9c2ff708a34c65f7f0177e442ceff0fe78714c68776ae1b687d02d0",
           "human-resolution-queue.json": "e91b455bf19c751a7e76b247e502bef429ee073d06db3bfbd4fc7bb908a83c5b",
-          "identity-index.jsonl": "cf20740e2a9f254ae3b015d727d0b41c682dc558bd0cd335354897d3d9c53530",
+          "identity-index.jsonl": "8544e2969e6f6b9c6c6788a3171552f1d65e2ef830ce853825ab9ae6f1ef7be3",
           "organization-index.jsonl": "4317a71af78faae8453fec9bb0d655b463cf2cc438684cf3074eaf793dae97e4",
           "promotion-candidates.json": "7b30751c837f32e2da29464d45ec63db438485144677df87365a1d305fb10e13",
           "relationship-index.jsonl": "1827491c503d6029e3f75b44396bb489665479a2ac5a5bbc04583d8bc095768b",
           "research-backlog.json": "b899ca41d80a73e65f2778537fca74cff4292de70b6799c4ad30900d4980ae8a",
-          "source-inventory.json": "04a94109b90b84280237f0cd62db60a0de4c4b43616798727300eb90fbc93c67",
+          "source-inventory.json": "64e8bac5b8b299ed8bcaad3c24c0555dccd037a66a7693a1720cb8995ae780b5",
           "tag-registry.json": "562bc3874da90016df9747879af3c8c4fcbb97bfbba2aeba769656168a09fa4b"
         }
       },
       "passed": true
     },
     "git_diff_check": {
-      "details": "warning: in the working copy of 'operations/campaigns/discord-community-indexing-001/README.md', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'operations/campaigns/discord-community-indexing-001/alias-registry.json', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'operations/campaigns/discord-community-indexing-001/build_index.py', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'operations/campaigns/discord-community-indexing-001/conflict-report.json', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'operations/campaigns/discord-community-indexing-001/guild-index.jsonl', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'operations/campaigns/discord-community-indexing-001/identity-index.jsonl', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'operations/campaigns/discord-community-indexing-001/promotion-candidates.json', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'operations/campaigns/discord-community-indexing-001/relationship-index.jsonl', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'operations/campaigns/discord-community-indexing-001/research-backlog.json', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'operations/campaigns/discord-community-indexing-001/source-inventory.json', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'operations/campaigns/discord-community-indexing-001/validate_campaign.py', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'operations/campaigns/discord-community-indexing-001/validation-report.json', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'operations/tests/discord_community_indexing/test_indexer.py', LF will be replaced by CRLF the next time Git touches it",
+      "details": "",
       "passed": true
     },
     "json_jsonl_and_campaign_contracts": {
@@ -190,18 +199,18 @@
         "discord-collection-backlog.json": "6e701060d2b189bfef1ccb2290ef99aaeca29d9066e379fc35805c32bacb3f46",
         "guild-index.jsonl": "a2de0ce8a9c2ff708a34c65f7f0177e442ceff0fe78714c68776ae1b687d02d0",
         "human-resolution-queue.json": "e91b455bf19c751a7e76b247e502bef429ee073d06db3bfbd4fc7bb908a83c5b",
-        "identity-index.jsonl": "cf20740e2a9f254ae3b015d727d0b41c682dc558bd0cd335354897d3d9c53530",
+        "identity-index.jsonl": "8544e2969e6f6b9c6c6788a3171552f1d65e2ef830ce853825ab9ae6f1ef7be3",
         "organization-index.jsonl": "4317a71af78faae8453fec9bb0d655b463cf2cc438684cf3074eaf793dae97e4",
         "promotion-candidates.json": "7b30751c837f32e2da29464d45ec63db438485144677df87365a1d305fb10e13",
         "relationship-index.jsonl": "1827491c503d6029e3f75b44396bb489665479a2ac5a5bbc04583d8bc095768b",
         "research-backlog.json": "b899ca41d80a73e65f2778537fca74cff4292de70b6799c4ad30900d4980ae8a",
-        "source-inventory.json": "04a94109b90b84280237f0cd62db60a0de4c4b43616798727300eb90fbc93c67",
+        "source-inventory.json": "64e8bac5b8b299ed8bcaad3c24c0555dccd037a66a7693a1720cb8995ae780b5",
         "tag-registry.json": "562bc3874da90016df9747879af3c8c4fcbb97bfbba2aeba769656168a09fa4b"
       },
       "passed": true
     },
     "repository_tests": {
-      "details": ".......................                                                  [100%]\n23 passed in 1.69s",
+      "details": "........................                                                 [100%]\n24 passed in <elapsed>",
       "passed": true
     }
   },

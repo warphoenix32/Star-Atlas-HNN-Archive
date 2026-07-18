@@ -247,3 +247,12 @@ def test_repository_corpus_reconciles_all_representations():
     assert sum(item["parsed_message_occurrences"] for item in inventory if item["ingested"]) == 3213
     source_record_ids = {path.stem for path in (repo_root / "archive" / "source-records" / "discord-announcements").glob("*.json")}
     assert {message.source_id for message in messages} == source_record_ids
+
+
+def test_source_checksums_are_checkout_line_ending_independent(tmp_path):
+    lf = tmp_path / "lf.jsonl"
+    crlf = tmp_path / "crlf.jsonl"
+    lf.write_bytes(b'{"message":"one"}\n{"message":"two"}\n')
+    crlf.write_bytes(b'{"message":"one"}\r\n{"message":"two"}\r\n')
+    assert indexer.sha256_file(lf) == indexer.sha256_file(crlf)
+    assert indexer.canonical_text_bytes(lf) == indexer.canonical_text_bytes(crlf)

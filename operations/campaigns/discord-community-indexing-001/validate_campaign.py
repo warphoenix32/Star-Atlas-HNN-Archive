@@ -8,6 +8,7 @@ import hashlib
 import json
 import os
 from pathlib import Path
+import re
 import subprocess
 import sys
 import tempfile
@@ -155,7 +156,12 @@ def main() -> int:
     pipeline_src = str(repo_root / "operations" / "pipeline" / "src")
     test_env["PYTHONPATH"] = pipeline_src + (os.pathsep + test_env["PYTHONPATH"] if test_env.get("PYTHONPATH") else "")
     tests_ok, tests_detail = run([sys.executable, "-m", "pytest", "-q", "operations/tests"], repo_root, test_env)
+    tests_detail = re.sub(r"\bin\s+\d+(?:\.\d+)?s\b", "in <elapsed>", tests_detail)
     diff_ok, diff_detail = run(["git", "diff", "--check"], repo_root)
+    if diff_ok:
+        # Git's Windows line-ending notices are advisory stderr, not
+        # whitespace defects, and depend on checkout configuration.
+        diff_detail = ""
     scope_ok, scope_detail = validate_scope(repo_root, args.base_ref)
 
     report_path = campaign_dir / "validation-report.json"

@@ -102,12 +102,24 @@ def clean_handle(value: Any) -> str:
     return re.sub(r"\s+", " ", text)
 
 
+def text_sort_key(value: Any) -> tuple[str, str]:
+    text = str(value)
+    return text.casefold(), text
+
+
+def canonical_text_bytes(path: Path) -> bytes:
+    """Return repository-stable UTF-8 bytes for supported text evidence.
+
+    Git can materialize tracked JSON/JSONL/CSV text with platform-specific line
+    endings.  The discovery inventory therefore checksums an explicitly
+    declared LF-normalized UTF-8 view rather than making campaign output depend
+    on checkout configuration.  Source evidence itself is never rewritten.
+    """
+    return path.read_text(encoding="utf-8-sig", errors="replace").encode("utf-8")
+
+
 def sha256_file(path: Path) -> str:
-    digest = hashlib.sha256()
-    with path.open("rb") as stream:
-        for chunk in iter(lambda: stream.read(1024 * 1024), b""):
-            digest.update(chunk)
-    return digest.hexdigest()
+    return hashlib.sha256(canonical_text_bytes(path)).hexdigest()
 
 
 def first(mapping: dict[str, Any], names: Iterable[str]) -> Any:
@@ -464,8 +476,10 @@ def load_messages(repo_root: Path, include_duplicate_reviews: bool = False) -> t
             "path": rel,
             "classification": classification,
             "format": path.suffix.casefold().lstrip("."),
-            "bytes": path.stat().st_size,
+            "bytes": len(canonical_text_bytes(path)),
             "sha256": sha256_file(path),
+            "checksum_basis": "UTF8_TEXT_LF_NORMALIZED",
+            "byte_count_basis": "UTF8_TEXT_LF_NORMALIZED",
             "ingested": ingested,
             "representation_role": representation_role,
             "parsed_message_occurrences": len(parsed),
@@ -560,7 +574,7 @@ def extract_mentions(content: str) -> list[str]:
         handle = clean_handle(value)
         if handle and normalized(handle) not in GENERIC_MENTIONS and len(handle) <= 100:
             cleaned.append(handle)
-    return sorted(set(cleaned), key=str.casefold)
+    return sorted(set(cleaned), key=text_sort_key)
 
 
 def person_name_from_handle(handle: str) -> str:
@@ -606,7 +620,7 @@ def build_alias_registry(messages: list[Message]) -> tuple[dict[str, Any], list[
             "canonical_name": canonical,
             "aliases": aliases,
             "preferred_display_name": canonical,
-            "observed_handles": sorted({ref["quoted_text"] for ref in refs if ref.get("quoted_text")}, key=str.casefold),
+            "observed_handles": sorted({ref["quoted_text"] for ref in refs if ref.get("quoted_text")}, key=text_sort_key),
             "confirmed_aliases": aliases,
             "alias_basis": "operator_confirmed" if aliases else None,
             "normalized_terms": sorted(set(normalized(term) for term in terms)),
@@ -635,7 +649,7 @@ def build_alias_registry(messages: list[Message]) -> tuple[dict[str, Any], list[
         entries.append({
             "entity_type": "person", "canonical_name": canonical,
             "preferred_display_name": canonical, "aliases": aliases,
-            "observed_handles": sorted(observed, key=str.casefold),
+            "observed_handles": sorted(observed, key=text_sort_key),
             "confirmed_aliases": aliases, "alias_basis": "operator_confirmed" if aliases else None,
             "normalized_terms": sorted({normalized(term) for term in terms}),
             "registry_status": "operator_confirmed_with_archive_observations" if refs else "seeded_unresolved",
@@ -903,8 +917,8 @@ def build_indexes(messages: list[Message], alias_registry: dict[str, Any]) -> tu
 
     for record in identities.values():
         record["author_ids"].sort()
-        record["observed_handles"].sort(key=str.casefold)
-        record["confirmed_aliases"].sort(key=str.casefold)
+        record["observed_handles"].sort(key=text_sort_key)
+        record["confirmed_aliases"].sort(key=text_sort_key)
         record["roles"].sort()
         record["operator_confirmed_roles"].sort()
         seen_refs = {}
@@ -1087,7 +1101,7 @@ def build_channel_coverage(messages: list[Message], inventory: list[dict[str, An
     expected_months = month_range(represented_months[0], represented_months[-1]) if represented_months else []
     missing_months = sorted(set(expected_months) - set(represented_months))
     years = sorted({month[:4] for month in represented_months})
-    observed_names = sorted({message.observed_channel_name for message in messages if message.observed_channel_name}, key=str.casefold)
+    observed_names = sorted({message.observed_channel_name for message in messages if message.observed_channel_name}, key=text_sort_key)
     all_paths = sorted({path for message in messages for path in message.source_paths})
     anchor_paths = [path for path in all_paths if path.endswith("star-atlas-discord-announcements.md") or path.endswith("messages.jsonl")]
     anchor_paths.append("archive/normalized/discord-announcements/messages/")
