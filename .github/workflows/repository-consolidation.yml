@@ -19,8 +19,12 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-      - name: Install test dependency
-        run: python -m pip install pytest
+      - name: Install validation dependencies
+        run: |
+          python -m pip install pytest
+          if [ -f operations/campaigns/star-atlas-medium-ingestion-2026-07/requirements.txt ]; then
+            python -m pip install -r operations/campaigns/star-atlas-medium-ingestion-2026-07/requirements.txt
+          fi
       - name: Parse, reconcile, and validate repository
         env:
           CI_BASE_REF: ${{ github.event.pull_request.base.sha || github.event.before }}
@@ -43,8 +47,12 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-      - name: Install test dependency
-        run: python -m pip install pytest
+      - name: Install validation dependencies
+        run: |
+          python -m pip install pytest
+          if [ -f operations/campaigns/star-atlas-medium-ingestion-2026-07/requirements.txt ]; then
+            python -m pip install -r operations/campaigns/star-atlas-medium-ingestion-2026-07/requirements.txt
+          fi
       - name: Validate campaign contracts and determinism
         env:
           CI_BASE_REF: ${{ github.event.pull_request.base.sha || github.event.before }}
