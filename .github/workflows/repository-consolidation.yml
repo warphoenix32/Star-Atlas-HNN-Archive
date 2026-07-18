@@ -1,0 +1,52 @@
+name: Repository consolidation
+
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  repository-integrity:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install test dependency
+        run: python -m pip install pytest
+      - name: Parse, reconcile, and validate repository
+        env:
+          CI_BASE_REF: ${{ github.event.pull_request.base.sha || github.event.before }}
+        run: python operations/ci/validate_repository.py --mode repository --base-ref "$CI_BASE_REF"
+      - name: Run repository tests
+        env:
+          PYTHONPATH: operations/pipeline/src
+        run: python -m pytest operations/tests -q
+      - name: Check patch whitespace
+        env:
+          CI_BASE_REF: ${{ github.event.pull_request.base.sha || github.event.before }}
+        run: git diff --check "$CI_BASE_REF...HEAD"
+
+  campaign-contracts:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install test dependency
+        run: python -m pip install pytest
+      - name: Validate campaign contracts and determinism
+        env:
+          CI_BASE_REF: ${{ github.event.pull_request.base.sha || github.event.before }}
+          GITHUB_BASE_REF: ${{ github.base_ref }}
+        run: python operations/ci/validate_repository.py --mode campaign --base-ref "$CI_BASE_REF"
