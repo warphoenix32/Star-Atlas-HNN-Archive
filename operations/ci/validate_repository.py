@@ -170,8 +170,9 @@ def validate_forbidden_paths(changes: list[str]) -> str:
         "operations/tests/starbased_ship_states/",
     )) for path in changes)
     discord_campaign = any(path.startswith(("operations/campaigns/discord-community-indexing-001/", "operations/tests/discord_community_indexing/")) for path in changes)
+    library_frontend = any(path.startswith(("publication/site/", "operations/tests/library_frontend/")) or path == "publication/README.md" for path in changes)
     common = (".github/workflows/", "operations/ci/")
-    selected = sum((ledger_campaign, knowledge_campaign and not ledger_campaign, medium_campaign, ship_campaign, discord_campaign))
+    selected = sum((ledger_campaign, knowledge_campaign and not ledger_campaign, medium_campaign, ship_campaign, discord_campaign, library_frontend))
     if selected != 1:
         raise ValidationFailure("unable to select exactly one recognized campaign path contract")
     if ledger_campaign:
@@ -211,6 +212,13 @@ def validate_forbidden_paths(changes: list[str]) -> str:
             "operations/tests/discord_community_indexing/",
         )
         label = "discord-community-indexing-001"
+    elif library_frontend:
+        allowed = common + (
+            "publication/README.md",
+            "publication/site/",
+            "operations/tests/library_frontend/",
+        )
+        label = "star-atlas-library-frontend"
     forbidden = [path for path in changes if not path.startswith(allowed)]
     if forbidden:
         raise ValidationFailure(f"{label} forbidden-path changes:\n" + "\n".join(forbidden))
@@ -305,6 +313,19 @@ def validate_pip_ledger_campaign() -> None:
         raise ValidationFailure("PIP ledger generated artifacts do not reconcile with committed files:\n" + diff.stdout)
 
 
+def validate_library_frontend() -> None:
+    site = ROOT / "publication/site"
+    run("node", str(site / "scripts/build-search-index.mjs"), "--check", check=True)
+    run("node", str(site / "scripts/validate-site.mjs"), check=True)
+    before = sha_tree(site, set())
+    run("node", str(site / "scripts/build-search-index.mjs"), "--check", check=True)
+    run("node", str(site / "scripts/validate-site.mjs"), check=True)
+    after = sha_tree(site, set())
+    if before != after:
+        differing = sorted(path for path in set(before) | set(after) if before.get(path) != after.get(path))
+        raise ValidationFailure("library frontend validation is not deterministic: " + ", ".join(differing))
+
+
 def validate_starbased_ship_campaign() -> None:
     campaign = ROOT / "operations/campaigns/starbased-ship-states-ingestion-2026-07"
     command = [sys.executable, str(campaign / "validate_campaign.py")]
@@ -350,6 +371,8 @@ def campaign_mode(base_ref: str) -> None:
         validate_discord_campaign(base_ref)
     elif contract == "canonical-pip-governance-ledger-2026-07":
         validate_pip_ledger_campaign()
+    elif contract == "star-atlas-library-frontend":
+        validate_library_frontend()
     elif contract == "starbased-ship-states-ingestion-2026-07":
         validate_starbased_ship_campaign()
     print(f"PASS campaign-contracts: {contract}")
