@@ -1,0 +1,57 @@
+---
+source_id: SRC-LORE-REPO-FF42E351E0DC
+title: "Hopla Insurances Inc"
+publisher: "JoseEduardonoot/star-atlas-lore"
+source_type: lore_repository
+captured: 2026-07-19T15:26:28Z
+access: public
+authenticity: repository_commit_verified
+url: https://joseeduardonoot.github.io/star-atlas-lore/factions/hopla_insurances/
+---
+
+# Hopla Insurances Inc
+
+## Metadata
+
+- Source ID: `SRC-LORE-REPO-FF42E351E0DC`
+- Upstream Path: `canon/factions/hopla_insurances.md`
+- Upstream Commit: `22555f277eb1496e34c0839c8f1f382842bd1d2b`
+- Lore Type: `FACTION`
+- Repository Entity Type: `ORGANIZATION`
+- Preferred Name: Hopla Insurances Inc
+- Aliases: None captured
+- Published Mirror Status: `TEXT_IDENTICAL`
+- Extraction Confidence: `HIGH`
+
+## Source Lineage
+
+- Publication: `JoseEduardonoot/star-atlas-lore`
+- Publication Role: `OPERATOR_DESIGNATED_LORE_TAXONOMY_SOURCE`
+- Relationship: `PRESERVED_FROM_COMMIT`
+- Primary Source: `https://github.com/JoseEduardonoot/star-atlas-lore/blob/22555f277eb1496e34c0839c8f1f382842bd1d2b/canon/factions/hopla_insurances.md`
+- Original Creator: `JoseEduardonoot` (repository account; page-level authorship not independently established)
+- Lineage Confidence: `HIGH` for repository path and commit; `UNKNOWN` for underlying claim authorship
+
+## Archival Abstract
+
+This Source Record inventories one lore repository page and its normalized artifact chain. The page is authoritative within this Archive for operator-designated lore nomenclature and taxonomy. Its narrative claims remain source assertions unless independently supported elsewhere.
+
+## Provenance
+
+- Immutable snapshot: `archive/raw/lore-repository/star-atlas-lore-22555f277eb1496e34c0839c8f1f382842bd1d2b.zip`
+- Snapshot member: `canon/factions/hopla_insurances.md`
+- Raw member SHA-256: `14ab82eb801e4c23e6ef85770e4bb4c0b0eafa613746e7f12770d1739de4f726`
+- Normalized JSON: `archive/normalized/lore/pages/SRC-LORE-REPO-FF42E351E0DC.json`
+- Normalized Markdown: `archive/normalized/lore/pages/SRC-LORE-REPO-FF42E351E0DC.md`
+- Normalized text SHA-256: `14ab82eb801e4c23e6ef85770e4bb4c0b0eafa613746e7f12770d1739de4f726`
+
+## Limitations
+
+- Authority is limited to operator-designated lore taxonomy and preferred nomenclature; narrative claims are not independently verified by ingestion.
+- The upstream repository is publicly hosted but no repository license was declared at capture time.
+
+## Review Status
+
+- Canonical knowledge promoted: `NO`
+- Graph facts promoted: `NO`
+- Manual review required: `FALSE`

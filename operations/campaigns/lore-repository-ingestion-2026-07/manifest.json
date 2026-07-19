@@ -1,0 +1,4808 @@
+{
+  "campaign_id": "lore-repository-ingestion-2026-07",
+  "files": [
+    {
+      "byte_length": 4505582,
+      "path": "archive/ingestion-packages/lore-repository/lore-repository-corpus.json",
+      "role": "generated_artifact",
+      "sha256": "ef0fe9f94c454493653b147e50e5d459eeaf73fdc0cc3ce3cc1d4bff10ffdcda"
+    },
+    {
+      "byte_length": 5586,
+      "path": "archive/normalized/lore/alias-mappings.json",
+      "role": "generated_artifact",
+      "sha256": "529d14b6fdac81169d9dd9fbee9f1b2e5e5f6a4670f1a52e5f28095d3c4de346"
+    },
+    {
+      "byte_length": 2872599,
+      "path": "archive/normalized/lore/entities.jsonl",
+      "role": "generated_artifact",
+      "sha256": "78bf3eea47bfd377a78b92083ccfce7f619ccb4079f98570a5c4ab2013070652"
+    },
+    {
+      "byte_length": 731,
+      "path": "archive/normalized/lore/media.jsonl",
+      "role": "generated_artifact",
+      "sha256": "5f179051b948ad317c50fb0bba247a7754c2d8ea1d08e2798ed75a3345c878f9"
+    },
+    {
+      "byte_length": 69903,
+      "path": "archive/normalized/lore/navigation.json",
+      "role": "generated_artifact",
+      "sha256": "99fc509265d47de5042ab5d9b76d7591616cc3a8f7027ac098385a79796b1f6a"
+    },
+    {
+      "byte_length": 1934955,
+      "path": "archive/normalized/lore/pages.jsonl",
+      "role": "generated_artifact",
+      "sha256": "bc36454b67e5bb94b025d5371545ee640b5980a41627e4f0eded383047580acb"
+    },
+    {
+      "byte_length": 9577,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-01938FE85B71.json",
+      "role": "generated_artifact",
+      "sha256": "3f1cfa10af721bec554c866cde81922500192a10af9d749cdb4d3b0f06d3f65a"
+    },
+    {
+      "byte_length": 22898,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-01938FE85B71.md",
+      "role": "generated_artifact",
+      "sha256": "a8ee5f21d84cde45eccc29de1f1cc1e5a60b21b3c64046a01f9b9edf69c08fd0"
+    },
+    {
+      "byte_length": 11751,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-030D37D669C8.json",
+      "role": "generated_artifact",
+      "sha256": "07890d456cab9005433bd76b1489f00f0967bbbf942b80216368aead222c42d0"
+    },
+    {
+      "byte_length": 21629,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-030D37D669C8.md",
+      "role": "generated_artifact",
+      "sha256": "44040ebbd8708d61ae94c3f6bf433e3285d5e185e009deecec51ec3dfe64b226"
+    },
+    {
+      "byte_length": 11497,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-038593E857B7.json",
+      "role": "generated_artifact",
+      "sha256": "afb3df9578f82edf993c2f113d9577dbe5b70eed627bac1a48fd8f0a39ab0c90"
+    },
+    {
+      "byte_length": 25540,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-038593E857B7.md",
+      "role": "generated_artifact",
+      "sha256": "3793d693ec995e4741d2c392bc48980d201935893e880feb4fc5fa079887c60c"
+    },
+    {
+      "byte_length": 3862,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-04B17415732F.json",
+      "role": "generated_artifact",
+      "sha256": "4dc22145b67eb60312958dbe181c8a9877b420b203aa202e50638ae16e9fc195"
+    },
+    {
+      "byte_length": 9153,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-04B17415732F.md",
+      "role": "generated_artifact",
+      "sha256": "6a3c0a24a91514d99101743e13d145a4e422a07141475410a92a734a078f898c"
+    },
+    {
+      "byte_length": 2911,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-05A8C9425535.json",
+      "role": "generated_artifact",
+      "sha256": "e679b0745f9675a081bfc40daec021fde1822afd435d1bbe3553404ab2036fb9"
+    },
+    {
+      "byte_length": 53333,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-05A8C9425535.md",
+      "role": "generated_artifact",
+      "sha256": "cdfdd1125a3cd621d56c5466c526981b133b6fdd3cf0e7f66291ca32ea02880c"
+    },
+    {
+      "byte_length": 12785,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-073830CC078B.json",
+      "role": "generated_artifact",
+      "sha256": "259507b789dcb1ca8e73b9fbb283d246241aed9f43ded7918a9c964b8dc3aaf7"
+    },
+    {
+      "byte_length": 16268,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-073830CC078B.md",
+      "role": "generated_artifact",
+      "sha256": "9c6b8da2bbbbbf6766b085595d6d307e2f50c44301939fcd8b9dbb4f7df50e11"
+    },
+    {
+      "byte_length": 9921,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-07B485E62EF5.json",
+      "role": "generated_artifact",
+      "sha256": "bfa724ff4d40169ca51f433c45a2ff6c49b7e859085656a6041fcf35b1ee4931"
+    },
+    {
+      "byte_length": 16317,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-07B485E62EF5.md",
+      "role": "generated_artifact",
+      "sha256": "2c269d23b7e6c7800820bf7db58587899d27ca6b515f8177c003f6cee302cc0a"
+    },
+    {
+      "byte_length": 14524,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-08C1FCBAFBB3.json",
+      "role": "generated_artifact",
+      "sha256": "bbc6aa415c1095c43c7c72986d2ba60830a7f0e8fba801fa8df44d7183a74246"
+    },
+    {
+      "byte_length": 14274,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-08C1FCBAFBB3.md",
+      "role": "generated_artifact",
+      "sha256": "0b2eadb731f13d8d4540fcbc360bd9da0042963b6a100c1c762dc9dceb4ac626"
+    },
+    {
+      "byte_length": 3752,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-08EA9A47722D.json",
+      "role": "generated_artifact",
+      "sha256": "83b5cfc22c7d5372022ad2ac8b75f736527b528b91e98ceaec52f35d1e04a47f"
+    },
+    {
+      "byte_length": 7427,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-08EA9A47722D.md",
+      "role": "generated_artifact",
+      "sha256": "58971817c853e6a4cdb692c07350a566d63880b03c4d5be09b6b0a46bff29fb8"
+    },
+    {
+      "byte_length": 10259,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-0A9ECC166D0D.json",
+      "role": "generated_artifact",
+      "sha256": "0fbbdc3709ac30c0061bb3a1f3495d1273baeab6334bf9ee9c7e22fe6e71f126"
+    },
+    {
+      "byte_length": 20867,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-0A9ECC166D0D.md",
+      "role": "generated_artifact",
+      "sha256": "2b4a08c8786d6fca49faee3d3c1f902b2d6196fff10aaaddd51fe2db5be0bed7"
+    },
+    {
+      "byte_length": 10005,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-0B2FC2D4804C.json",
+      "role": "generated_artifact",
+      "sha256": "b9cc1878aec0ac89f1770ac67e246d458cde7f0559e22d253f67bca746f0ca64"
+    },
+    {
+      "byte_length": 38946,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-0B2FC2D4804C.md",
+      "role": "generated_artifact",
+      "sha256": "576a64050bed705a7a647ea0dd462704831d3012bf2d9a173cb744351c86f074"
+    },
+    {
+      "byte_length": 3285,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-0D3599CC402F.json",
+      "role": "generated_artifact",
+      "sha256": "c4ed0fcc199d7cc997bde5c8805b8c2aac9b9c34a3502f67bb7c4fed2b1f3e4f"
+    },
+    {
+      "byte_length": 5499,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-0D3599CC402F.md",
+      "role": "generated_artifact",
+      "sha256": "8583e3c79d88ec74617d0db75ee5f48aa6675dc68c5ffdcb4af5d0bcae68b5ca"
+    },
+    {
+      "byte_length": 4525,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-0D9B643E0BC7.json",
+      "role": "generated_artifact",
+      "sha256": "6f53ddd8adf84750781857d8e423da7d016b60cce0e99ac4c092a0b7f838c693"
+    },
+    {
+      "byte_length": 4021,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-0D9B643E0BC7.md",
+      "role": "generated_artifact",
+      "sha256": "fd30ce5f2334fffffd2dd889b7cb3a9d7da902a91da5feb334eee16d04a0af1a"
+    },
+    {
+      "byte_length": 10846,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-0F784770657C.json",
+      "role": "generated_artifact",
+      "sha256": "6f963edf26910064695843c0bea3ddfb81f25884ba71b2867f16ca1991d35b11"
+    },
+    {
+      "byte_length": 37940,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-0F784770657C.md",
+      "role": "generated_artifact",
+      "sha256": "5bd38e79fab0a8f6e17cadff0aa6fb98ede430639ef3548834aead57411b5805"
+    },
+    {
+      "byte_length": 17137,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-10C3AAD043B8.json",
+      "role": "generated_artifact",
+      "sha256": "301227c78f4dc7c86bcfdfbfdec2345e7d49eca59cdc6d00a731b00112879924"
+    },
+    {
+      "byte_length": 32980,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-10C3AAD043B8.md",
+      "role": "generated_artifact",
+      "sha256": "1bd972dd5903ad4574597bf6e3ce5fcffed05215cab57611f0966d2e0bab222a"
+    },
+    {
+      "byte_length": 6099,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-11CBC4C4E7E8.json",
+      "role": "generated_artifact",
+      "sha256": "bb9a2b0d3c00686b509f7de9cdabafa12502019edf7ca76d791e7e98b7273dc5"
+    },
+    {
+      "byte_length": 7544,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-11CBC4C4E7E8.md",
+      "role": "generated_artifact",
+      "sha256": "fd2f9d9b6392df31b19fa926b2ad5d17e5d45fc63c89689c5f0e44b30127d9c3"
+    },
+    {
+      "byte_length": 18442,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-12A5C90BF80C.json",
+      "role": "generated_artifact",
+      "sha256": "1c548fef53fa67fa361c6a5efebf6ea442b18d6848d341ada69d8baaa7ebe138"
+    },
+    {
+      "byte_length": 30677,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-12A5C90BF80C.md",
+      "role": "generated_artifact",
+      "sha256": "23d8e653829b7fe102697fff776198e0d4d3d2f6ba7ead1bdeb9c8b6b3648103"
+    },
+    {
+      "byte_length": 9428,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-1325ABD66572.json",
+      "role": "generated_artifact",
+      "sha256": "12a4c55efd1d57dd5466f830f45eb7b6b97bf3470ac14b9b08375be22623398b"
+    },
+    {
+      "byte_length": 34143,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-1325ABD66572.md",
+      "role": "generated_artifact",
+      "sha256": "1ce03ce5018e031ab70993519d29fdfde455d132cf9872a7eff5f1b0a9136e18"
+    },
+    {
+      "byte_length": 14880,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-15EABF8815FA.json",
+      "role": "generated_artifact",
+      "sha256": "2211270425708f1fb85ae87e3126a39ff4b57baae7e156700930835f9d45a95d"
+    },
+    {
+      "byte_length": 23914,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-15EABF8815FA.md",
+      "role": "generated_artifact",
+      "sha256": "37b2b2fa111efb91d93702f80369a5dbe6cbc13d08d1efa1383c0eb89d7df11b"
+    },
+    {
+      "byte_length": 8674,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-16208EA188E2.json",
+      "role": "generated_artifact",
+      "sha256": "946d346ef5e651445f0f4614739ebc5a2a595517f85e4f992a6ff6a16eca0614"
+    },
+    {
+      "byte_length": 10293,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-16208EA188E2.md",
+      "role": "generated_artifact",
+      "sha256": "8761cce11aaf62619a74cd9b1cce5bd91cafbd862684b0ead5cb54222592f974"
+    },
+    {
+      "byte_length": 2975,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-1D725EE82D21.json",
+      "role": "generated_artifact",
+      "sha256": "878caced2f56fb4add089abfed64e9feb1dd8849aa23a0039713fb9dce2e4fea"
+    },
+    {
+      "byte_length": 3469,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-1D725EE82D21.md",
+      "role": "generated_artifact",
+      "sha256": "158597cac67aa7bc5a6dca6fe4e7c50ac3a7c29924edc8d149420ba785e7877d"
+    },
+    {
+      "byte_length": 16305,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-1E533524DA92.json",
+      "role": "generated_artifact",
+      "sha256": "191f947ecb6134dc2d7a9b74d2c183db3e5226c894fb7e27ac9ea1ed54a9a0ce"
+    },
+    {
+      "byte_length": 29793,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-1E533524DA92.md",
+      "role": "generated_artifact",
+      "sha256": "acfc2d94109ebae22e99bda1d26f2f3a26cc3a3d90ff3133cd91af7131f9e167"
+    },
+    {
+      "byte_length": 3642,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-1E7C33094F6C.json",
+      "role": "generated_artifact",
+      "sha256": "8251540534f0d0d7a560c3a20c3939d4eb4242a7848601b7a39a03ea38afa631"
+    },
+    {
+      "byte_length": 7813,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-1E7C33094F6C.md",
+      "role": "generated_artifact",
+      "sha256": "4d31c7f26b64ea097a3a57bebd0ff11020bd4ab085191dff53ecd8ae3f85d470"
+    },
+    {
+      "byte_length": 17839,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-1F7884B11ECA.json",
+      "role": "generated_artifact",
+      "sha256": "08c4a03b3fc4934252d412c83a5b73cb59a40317a26120b86843e2534712c774"
+    },
+    {
+      "byte_length": 30787,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-1F7884B11ECA.md",
+      "role": "generated_artifact",
+      "sha256": "86525a106bc9f55aaa58dd2ca5d4a871336eb90983cf91683ced56090109cbc6"
+    },
+    {
+      "byte_length": 9226,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-22F5C9A99532.json",
+      "role": "generated_artifact",
+      "sha256": "1aa2810d6415ee406f8e821fcc60b0b46fc2cb310cb983ed2c872c44ac50932e"
+    },
+    {
+      "byte_length": 14006,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-22F5C9A99532.md",
+      "role": "generated_artifact",
+      "sha256": "4304f6c03d42674ffb219a6e9eb0d9f46b994a89cc88b0615c69806b116984ca"
+    },
+    {
+      "byte_length": 5402,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-2348155DB4FD.json",
+      "role": "generated_artifact",
+      "sha256": "0393e14c79375b3e62659e6400bb5b6be53a6dc30a0d23c218f07f0f24fc5e83"
+    },
+    {
+      "byte_length": 3655,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-2348155DB4FD.md",
+      "role": "generated_artifact",
+      "sha256": "d137f703c017fd1f1165d0c030ded2b82ef0a429f26858347f8088a5847e8dbf"
+    },
+    {
+      "byte_length": 15303,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-24F1D8E7E55C.json",
+      "role": "generated_artifact",
+      "sha256": "d0ee83dffc0a1fee118de4c9d985db9eb2754643c5e277cda6912e3a17160b36"
+    },
+    {
+      "byte_length": 16568,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-24F1D8E7E55C.md",
+      "role": "generated_artifact",
+      "sha256": "b1c4a2ada8ce9ac2ff2be1cdf536d918f4bfd220b69be7218d5c2107b2d54268"
+    },
+    {
+      "byte_length": 9164,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-256F5F5B6767.json",
+      "role": "generated_artifact",
+      "sha256": "0169afbda0b671f7ed5ddfbd638f5196c008b29173d3c37f246a8beb9721cb5e"
+    },
+    {
+      "byte_length": 13162,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-256F5F5B6767.md",
+      "role": "generated_artifact",
+      "sha256": "8e180beb55321d71f6eeefa0d0a4bbe09eecf9264e159ebd57473cc08bc08f0c"
+    },
+    {
+      "byte_length": 10921,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-26CFF1332013.json",
+      "role": "generated_artifact",
+      "sha256": "bcd5452f8b8c46d5406bfa1f21caaa02954fb7ba01f9e8c622f56533eedaf63a"
+    },
+    {
+      "byte_length": 26294,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-26CFF1332013.md",
+      "role": "generated_artifact",
+      "sha256": "1a7635c79529415f3d06778b3517f93d2555b4ebcdd767504f0b79129bfd01f3"
+    },
+    {
+      "byte_length": 7965,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-2888102D1A8F.json",
+      "role": "generated_artifact",
+      "sha256": "3b015d307775c283fc8d4c9a15be75f74534355824e8129840b38cd34e7348da"
+    },
+    {
+      "byte_length": 10268,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-2888102D1A8F.md",
+      "role": "generated_artifact",
+      "sha256": "c4f50d837854299ef525a098b306a1738cc8b502181a182cce4db1e5fefa5dfd"
+    },
+    {
+      "byte_length": 34166,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-28E01FEE2103.json",
+      "role": "generated_artifact",
+      "sha256": "43067a1688b4361c5f2ddf7546138b2937aa47ab5d39c354cf446bb0fd39b080"
+    },
+    {
+      "byte_length": 67094,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-28E01FEE2103.md",
+      "role": "generated_artifact",
+      "sha256": "824031fd71fb482ecb49e105c9e160ea1517320f1a89d2dec15db1cf8dc9f190"
+    },
+    {
+      "byte_length": 10942,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-29627C00CA6A.json",
+      "role": "generated_artifact",
+      "sha256": "ea4485f1f849482e93df7ee644145cb4a0b59260a7244bfd7ee8d8e6b4367cf5"
+    },
+    {
+      "byte_length": 19715,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-29627C00CA6A.md",
+      "role": "generated_artifact",
+      "sha256": "f235c77ebc97167a3841c2cdae1ec2d137888e8eae68dd18691d23fc30370b10"
+    },
+    {
+      "byte_length": 10506,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-2A8A512817B4.json",
+      "role": "generated_artifact",
+      "sha256": "9cacf26a7e2d3cdde23e07d84502d5156dd9a2ed2772472d89165e4d9ef5a1cd"
+    },
+    {
+      "byte_length": 14636,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-2A8A512817B4.md",
+      "role": "generated_artifact",
+      "sha256": "56742968de447330c868fa4ae594a1ea2b97795cf7892a6196022a71f4947a85"
+    },
+    {
+      "byte_length": 3405,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-2D4F22617405.json",
+      "role": "generated_artifact",
+      "sha256": "9e4507a66b7e31ea87ae885f50edd42eb719c5e4c5ca84a18c4ab7c637ee86d9"
+    },
+    {
+      "byte_length": 7864,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-2D4F22617405.md",
+      "role": "generated_artifact",
+      "sha256": "57d435652910d45e0254a25256a19de129a3a413bd9de315c5bd4fc6141f44d6"
+    },
+    {
+      "byte_length": 2928,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-3313E25B253B.json",
+      "role": "generated_artifact",
+      "sha256": "a84fac8a2a660e86cbd6955842e5609deb77ad12daf92a8e39d9dd7bc1033c6e"
+    },
+    {
+      "byte_length": 2684,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-3313E25B253B.md",
+      "role": "generated_artifact",
+      "sha256": "45b840eab10605db76ac73becbd06712c8a379f043e99836454e1c91789b0dea"
+    },
+    {
+      "byte_length": 10502,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-3373BCA8ADB7.json",
+      "role": "generated_artifact",
+      "sha256": "0120a12fcff5d56aa8e2bf2676eeb04d43f5eea0bcfa40c9658ce3955e65e767"
+    },
+    {
+      "byte_length": 12326,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-3373BCA8ADB7.md",
+      "role": "generated_artifact",
+      "sha256": "ad85fce34fe09d554067f2ab668b1de388d5be9fb179938ff07867306bf20c5f"
+    },
+    {
+      "byte_length": 6097,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-348E76A11EF3.json",
+      "role": "generated_artifact",
+      "sha256": "3185c46ec6e5a1cfef28ee4adf332827db0eaf7fcec9d57626ad50e29929adbf"
+    },
+    {
+      "byte_length": 12429,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-348E76A11EF3.md",
+      "role": "generated_artifact",
+      "sha256": "78309438620038a45757b391f7ec44edc4b5a6d5526560fa59d2ae4ea0b4e4df"
+    },
+    {
+      "byte_length": 6696,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-366FE7422342.json",
+      "role": "generated_artifact",
+      "sha256": "c49d225fc0f6fb388c86456b707427b759c84290aa0806eccd495a6048ceb691"
+    },
+    {
+      "byte_length": 5294,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-366FE7422342.md",
+      "role": "generated_artifact",
+      "sha256": "b42de0e1e556c16032c66fbce8b1d768266828a57c8a20461bfda4a1ea474afb"
+    },
+    {
+      "byte_length": 3229,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-36C72F785E8D.json",
+      "role": "generated_artifact",
+      "sha256": "f370f8c2bb5fc28d822db44a1e14edf9e5237dfa001d8f012123f3a183a06f98"
+    },
+    {
+      "byte_length": 4676,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-36C72F785E8D.md",
+      "role": "generated_artifact",
+      "sha256": "3f0861fb31a5b82bb3004a00310fee79f8b6f81a027d45b0773648a1e598e655"
+    },
+    {
+      "byte_length": 11323,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-38445BC96A65.json",
+      "role": "generated_artifact",
+      "sha256": "8d7a3ca18d99a61dfd7d046e807003744caa69ec14c93d50d54f37ba4d6b5b66"
+    },
+    {
+      "byte_length": 18349,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-38445BC96A65.md",
+      "role": "generated_artifact",
+      "sha256": "fc72cd424b87770de96ee03ba611bc05b9b25c1ab50f4da690e3c407439192a0"
+    },
+    {
+      "byte_length": 4284,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-3986CF7CD284.json",
+      "role": "generated_artifact",
+      "sha256": "92cc9e6da9bb3082deec3dc0c07d93727e729a7fcb0fdaeeda798f66ac0c0229"
+    },
+    {
+      "byte_length": 17579,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-3986CF7CD284.md",
+      "role": "generated_artifact",
+      "sha256": "0c40550354fe9e6d9080392e2a31b25d0984f756025f72cd02bbdc503ce931b2"
+    },
+    {
+      "byte_length": 9793,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-3B1FFA376D86.json",
+      "role": "generated_artifact",
+      "sha256": "966d9c6e6ca4b685d0043cda736dc37fe31a90c9c47d8e9c7dc268bd1c42f694"
+    },
+    {
+      "byte_length": 13906,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-3B1FFA376D86.md",
+      "role": "generated_artifact",
+      "sha256": "91c8274ce393cc979fec4f9ae90e251eacb0332f55e1344afb188f79448a6f6b"
+    },
+    {
+      "byte_length": 10531,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-3B7BF3E13181.json",
+      "role": "generated_artifact",
+      "sha256": "e08b85199e6ef672d9349f423e90c5961f16c02c090ee8b3035def42e70b1eda"
+    },
+    {
+      "byte_length": 16818,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-3B7BF3E13181.md",
+      "role": "generated_artifact",
+      "sha256": "b65d71153625ebb17db76c5f7a21c7836e33257c97b07c42168c89b532e6b45c"
+    },
+    {
+      "byte_length": 3089,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-3BF85498DE6E.json",
+      "role": "generated_artifact",
+      "sha256": "1f870f38ce9463f447ef76e4c614c248e35f9cc391168fa2b96b16facc7790f7"
+    },
+    {
+      "byte_length": 2767,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-3BF85498DE6E.md",
+      "role": "generated_artifact",
+      "sha256": "0ee5a117a66420734314fc5f4ffdd77eb326fa403f74f4559bb224a77f213ad8"
+    },
+    {
+      "byte_length": 8711,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-3E86CFBD5843.json",
+      "role": "generated_artifact",
+      "sha256": "b0e0cac8a5b52928ce423537c851c6c5714ae7042c9a6ff376810778260f728d"
+    },
+    {
+      "byte_length": 15029,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-3E86CFBD5843.md",
+      "role": "generated_artifact",
+      "sha256": "7913a41d550c586d1711ccfcce3614cbac3e708543a81b75090874067585d88e"
+    },
+    {
+      "byte_length": 2773,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-4200FBF761AE.json",
+      "role": "generated_artifact",
+      "sha256": "e73b89e20bd4fe310fdd2d2485ffdae40d1fea0bd371f44f7fe5ed56f732621e"
+    },
+    {
+      "byte_length": 4692,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-4200FBF761AE.md",
+      "role": "generated_artifact",
+      "sha256": "1f6e922892a2549226c3c54dfb0564ef18688778b6288fb0e476233ca1035043"
+    },
+    {
+      "byte_length": 2660,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-43153BCAAAB4.json",
+      "role": "generated_artifact",
+      "sha256": "a486d78aa5faf65b569a126b4306629c074e233ea3a394edfb2b8ed1793add3e"
+    },
+    {
+      "byte_length": 1891,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-43153BCAAAB4.md",
+      "role": "generated_artifact",
+      "sha256": "88011e02253df33157248dce3c9da8dcf59cac6b4a86f5bb714fa495bf63ed0e"
+    },
+    {
+      "byte_length": 9171,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-452D8EAF218C.json",
+      "role": "generated_artifact",
+      "sha256": "07d6a0100f72104d986baf60416c1870adc0164c1dfd01f31cdeb20d40a8c728"
+    },
+    {
+      "byte_length": 23551,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-452D8EAF218C.md",
+      "role": "generated_artifact",
+      "sha256": "e6d852c80c98e2efa044b9d83928c11443fbe50a0a82d652b6c674354f51254b"
+    },
+    {
+      "byte_length": 10640,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-488CEB19AEF4.json",
+      "role": "generated_artifact",
+      "sha256": "3d5ac3248db7e586c9ad097b8dab618eea675d5d2b41dcc22432a436c86ea0c6"
+    },
+    {
+      "byte_length": 12935,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-488CEB19AEF4.md",
+      "role": "generated_artifact",
+      "sha256": "46acb94f29ef5a64c4513511060c01a6bd475d9edc030b546a6215a0a23ab6dc"
+    },
+    {
+      "byte_length": 3449,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-48B185142F06.json",
+      "role": "generated_artifact",
+      "sha256": "093751711cfabd352a604909a3d42202028fbf986bfb60437fd8d08451e8c19a"
+    },
+    {
+      "byte_length": 5934,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-48B185142F06.md",
+      "role": "generated_artifact",
+      "sha256": "6b5144038d486e856a499a2cdf9b6200c267cbef2de6121f8fae706aa1e72f63"
+    },
+    {
+      "byte_length": 17792,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-49B94941D03A.json",
+      "role": "generated_artifact",
+      "sha256": "f8ee95dfaa8ca92c5a44408ece9c65564810fe9f9a2d478c3a818219290b23d5"
+    },
+    {
+      "byte_length": 23277,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-49B94941D03A.md",
+      "role": "generated_artifact",
+      "sha256": "eab52a3f25d21fea5db18306c8152318558adeeff843d47102ddb23c91fea313"
+    },
+    {
+      "byte_length": 3122,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-4A332C432AA6.json",
+      "role": "generated_artifact",
+      "sha256": "ba35e582c1e8938949ccd003a12c0a0b1bdcd7a0742d6d0d5ca832f04b74bff9"
+    },
+    {
+      "byte_length": 4065,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-4A332C432AA6.md",
+      "role": "generated_artifact",
+      "sha256": "5eb260acf43ee08e7359fb0706e42c7badce97c0d734be373065e9fe907f8309"
+    },
+    {
+      "byte_length": 12092,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-4BC052924998.json",
+      "role": "generated_artifact",
+      "sha256": "6573c5f2be0cb1c64d12a4ba2f5befe076a5399de4ba46f215cb5e8fd4aa2027"
+    },
+    {
+      "byte_length": 15946,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-4BC052924998.md",
+      "role": "generated_artifact",
+      "sha256": "d1191542b969f2f355ad20d9063c9831802c8909dab20202f53dad1fbd6dc9c3"
+    },
+    {
+      "byte_length": 3003,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-51A800151FD0.json",
+      "role": "generated_artifact",
+      "sha256": "f5e7b182f7eab286abff08206bcc7f784f6b77867a7eaaf77b7512d597a515b3"
+    },
+    {
+      "byte_length": 2411,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-51A800151FD0.md",
+      "role": "generated_artifact",
+      "sha256": "f0a17adbaa911c38c7829d073186e4bf0f336e5870795a623b2f9837393972a6"
+    },
+    {
+      "byte_length": 6218,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-52D76F0A669B.json",
+      "role": "generated_artifact",
+      "sha256": "49ee1643cc2c2f43ef71ad161f1f66e8fbb0edfdc2c4484e403dfe0ea987e831"
+    },
+    {
+      "byte_length": 4842,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-52D76F0A669B.md",
+      "role": "generated_artifact",
+      "sha256": "76444070027161b44a94ed57b7ff9770fccca951a065f957e48ab170ac475ce1"
+    },
+    {
+      "byte_length": 16742,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-55B2D7383C21.json",
+      "role": "generated_artifact",
+      "sha256": "e31e913859b00b1bf9098fe88d7f7dc1b523f397fb713717d0819c6f13b2c871"
+    },
+    {
+      "byte_length": 30476,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-55B2D7383C21.md",
+      "role": "generated_artifact",
+      "sha256": "5b2465092627f030c8ef6d243e260338b98cd9b94717160160a9e68c6a4c1f14"
+    },
+    {
+      "byte_length": 10717,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-5764519ABC6D.json",
+      "role": "generated_artifact",
+      "sha256": "ba8305970f770004886d156e35dbd897702521f4b349c354a6c46c7152c0b391"
+    },
+    {
+      "byte_length": 25097,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-5764519ABC6D.md",
+      "role": "generated_artifact",
+      "sha256": "a8f5b77cd2490d93dad51b67b5171b525344e806d26eaf03c11d33b2813e0a7b"
+    },
+    {
+      "byte_length": 6826,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-5880D9022BF8.json",
+      "role": "generated_artifact",
+      "sha256": "436de11f4dc36230c3136d5c5e1e7bf8b0fab5295573bd37d5af9df0ca67d26e"
+    },
+    {
+      "byte_length": 16058,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-5880D9022BF8.md",
+      "role": "generated_artifact",
+      "sha256": "3aa7637a665680e9829d79da7e98544da3fc0ea58ab88280ede5637dc85eeac4"
+    },
+    {
+      "byte_length": 3694,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-5977824B8773.json",
+      "role": "generated_artifact",
+      "sha256": "3af5ce9f295720fd63a0e0c20633f81fb86104b9e45ff8f4e658786aba287119"
+    },
+    {
+      "byte_length": 6458,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-5977824B8773.md",
+      "role": "generated_artifact",
+      "sha256": "09245fb95bd75c2364fd3f54614f701a6c5f568f406af9812f50472cfe2f8121"
+    },
+    {
+      "byte_length": 3630,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-5A9BDD5C0E6D.json",
+      "role": "generated_artifact",
+      "sha256": "60a5f40692cc580c0e6bbe0716fc8cf2f09db41ae26d84210f708f4db1c82aec"
+    },
+    {
+      "byte_length": 6687,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-5A9BDD5C0E6D.md",
+      "role": "generated_artifact",
+      "sha256": "c828402cc858a3cf2eaf77046ddc20c94f0e118738dbdeacb2151e0f6704a1a0"
+    },
+    {
+      "byte_length": 4505,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-5B3A0512D2DC.json",
+      "role": "generated_artifact",
+      "sha256": "ad5da1f44d3cf562fece532794962944fb24e0516e3f4d609de0cfbce320c251"
+    },
+    {
+      "byte_length": 16572,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-5B3A0512D2DC.md",
+      "role": "generated_artifact",
+      "sha256": "6f7d03cda923d098a8b757371aa64213eeb2d8770820a293ab39cc99ee31200f"
+    },
+    {
+      "byte_length": 8803,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-5C4AC4ABFA79.json",
+      "role": "generated_artifact",
+      "sha256": "0662527e193b699adbca96a2b5f6d7e78f2c8304acc84b3e0dfc9dceb088800d"
+    },
+    {
+      "byte_length": 16052,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-5C4AC4ABFA79.md",
+      "role": "generated_artifact",
+      "sha256": "2399528253fec8b1640153897fec6783f283eb7cab0c9de96a821241db2a2cad"
+    },
+    {
+      "byte_length": 12805,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-5D594CA94EE4.json",
+      "role": "generated_artifact",
+      "sha256": "0d26feb07e2c053fe7d588c227284bb9cb79754a40a05f76997db27866a3e5a0"
+    },
+    {
+      "byte_length": 24526,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-5D594CA94EE4.md",
+      "role": "generated_artifact",
+      "sha256": "e1c7981907c73bf69a68c4d7428ddece44f662aab8ea79e13f92414d74296c2d"
+    },
+    {
+      "byte_length": 2636,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-5D75710B645F.json",
+      "role": "generated_artifact",
+      "sha256": "ad4933f60c6fcac7f6b87f939141771204a46b7360f33febcaeaa7fa60bcb30d"
+    },
+    {
+      "byte_length": 2145,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-5D75710B645F.md",
+      "role": "generated_artifact",
+      "sha256": "b8e275725afb02ff4f1fb448b867f8afd61eccfaa176de8448f93713d7585d2c"
+    },
+    {
+      "byte_length": 8739,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-5E7EFB9AC325.json",
+      "role": "generated_artifact",
+      "sha256": "9392896e261aeff960bde345efa23e6309183742b75a7c1f7237f95339b9eba5"
+    },
+    {
+      "byte_length": 32252,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-5E7EFB9AC325.md",
+      "role": "generated_artifact",
+      "sha256": "001415c81082cffdfbc08da21169dd97c91747a6b1fc2821b80bdcfd5d4d25ac"
+    },
+    {
+      "byte_length": 12066,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-5EE88D8F5840.json",
+      "role": "generated_artifact",
+      "sha256": "28a868438d5a8b9d634967e255115582ea821773f60905c4a898c65da3e6a4a2"
+    },
+    {
+      "byte_length": 26270,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-5EE88D8F5840.md",
+      "role": "generated_artifact",
+      "sha256": "5de424157bf4640afd26a005f691e009ecf9f631391da520579f63e983baa7e0"
+    },
+    {
+      "byte_length": 11905,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-5F631BE163EF.json",
+      "role": "generated_artifact",
+      "sha256": "9e4eb5869bfe9e60ce582bfbd80a9aaa4bde35c50705e19a91c74983c462fe91"
+    },
+    {
+      "byte_length": 15901,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-5F631BE163EF.md",
+      "role": "generated_artifact",
+      "sha256": "dd10d9246a7f6639d94f3151689bfcabb852286160020736027c162af7863555"
+    },
+    {
+      "byte_length": 9564,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-60D34ABB4A6F.json",
+      "role": "generated_artifact",
+      "sha256": "366db1f610f4aeae65e28e080b07e1bc8dcd51aed2122493e1b42b0f8d30105e"
+    },
+    {
+      "byte_length": 17150,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-60D34ABB4A6F.md",
+      "role": "generated_artifact",
+      "sha256": "e1cff2842ccff3e415b0e4dc210cd1836e2e2fd4cf4c98abb37073e1668ca36c"
+    },
+    {
+      "byte_length": 4126,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-65666B5E2596.json",
+      "role": "generated_artifact",
+      "sha256": "046637270fb1087fb76649d090fa923eaf8333b63908721daf397eb66a6fdffb"
+    },
+    {
+      "byte_length": 8602,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-65666B5E2596.md",
+      "role": "generated_artifact",
+      "sha256": "ce4283eda8f7e9fed31b18701f8eac6255fc7fa0653bd0767edc703466f99beb"
+    },
+    {
+      "byte_length": 46876,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-6587916DA9A3.json",
+      "role": "generated_artifact",
+      "sha256": "c1fad3370d15c6d9a2656c6493f13b1e2d245079d1e54879dcf3f5126c62dbc1"
+    },
+    {
+      "byte_length": 68572,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-6587916DA9A3.md",
+      "role": "generated_artifact",
+      "sha256": "e5072e589229a147a4cc88f58d7d84c285f3f8e1ffce39d7b5bcdb41e3f635c2"
+    },
+    {
+      "byte_length": 14127,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-6601AA485376.json",
+      "role": "generated_artifact",
+      "sha256": "3715f88692f4db0dd8b44971139ae21169e206f27bfa45b0981ada921468bc83"
+    },
+    {
+      "byte_length": 15389,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-6601AA485376.md",
+      "role": "generated_artifact",
+      "sha256": "2e112ae671e25f0a91419d93e8e498456c3402bf0ded07cb4270f0c52b545541"
+    },
+    {
+      "byte_length": 2939,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-664DBBAAC19E.json",
+      "role": "generated_artifact",
+      "sha256": "cf4afc6bf0defe76ba2791b6751a09c971312c9f3cdd36600f8000452f997d36"
+    },
+    {
+      "byte_length": 3342,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-664DBBAAC19E.md",
+      "role": "generated_artifact",
+      "sha256": "23f6cf1af9381f0a3dce23063f3664e8128bd2d59fe114dcb7962e29888a3528"
+    },
+    {
+      "byte_length": 15420,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-69A71CA0AE62.json",
+      "role": "generated_artifact",
+      "sha256": "0a9bf9b3686cde807f17ef74e36f6bcedee930098a8c39c6c351a9cd2d80e165"
+    },
+    {
+      "byte_length": 3383,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-69A71CA0AE62.md",
+      "role": "generated_artifact",
+      "sha256": "324e29b53d71e7efb7eca294e29f5a46bb744514419d01403321681eec31e25a"
+    },
+    {
+      "byte_length": 13838,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-6BDEE5276BB2.json",
+      "role": "generated_artifact",
+      "sha256": "86d0165af6513639b5c8d6bd5b05a06b00695f8be0b81a7e9fd9e6354bec512e"
+    },
+    {
+      "byte_length": 14882,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-6BDEE5276BB2.md",
+      "role": "generated_artifact",
+      "sha256": "180cfb851d0b652600cd9a9b163c6b3735214b98b242b901d35d3427ba79b44c"
+    },
+    {
+      "byte_length": 6824,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-6EB4A44E51C3.json",
+      "role": "generated_artifact",
+      "sha256": "c0325137cf3da33c1a16e45be105695729a6ea30d54e2adaa6b3b893b42cb1b3"
+    },
+    {
+      "byte_length": 5049,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-6EB4A44E51C3.md",
+      "role": "generated_artifact",
+      "sha256": "86758ef64c173465c35784f9918952bb76c5d98819552760d265d0be1c19c6a7"
+    },
+    {
+      "byte_length": 13316,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-710AD0512376.json",
+      "role": "generated_artifact",
+      "sha256": "a45f8c44280e29a445d1ce979c21ab98d9fce9d61f7a4eb87259c65c8d654936"
+    },
+    {
+      "byte_length": 20975,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-710AD0512376.md",
+      "role": "generated_artifact",
+      "sha256": "e5f279a32594c996d8c1cfef9fd4329170ec313fc4c8f04ad55eb649c1ea00d2"
+    },
+    {
+      "byte_length": 15892,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-72354A193974.json",
+      "role": "generated_artifact",
+      "sha256": "dba12af96fec7a56e66c462e70af3220c10f09323f93b35b70458ebbb8cc7935"
+    },
+    {
+      "byte_length": 27088,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-72354A193974.md",
+      "role": "generated_artifact",
+      "sha256": "fbf6f480adfe81767254c6bc99c41c3bde9b428efaecf6400cafbc60b4676817"
+    },
+    {
+      "byte_length": 6255,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-73F80179B589.json",
+      "role": "generated_artifact",
+      "sha256": "def506046bb029570a5125a798b5fd525c2c3f99f2e42f848319d61340014d40"
+    },
+    {
+      "byte_length": 10443,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-73F80179B589.md",
+      "role": "generated_artifact",
+      "sha256": "5e4feab8a81fca6850478c9add59da19272480f6b62553cfb54ddbfe612f4cde"
+    },
+    {
+      "byte_length": 3212,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-74313BA8DA55.json",
+      "role": "generated_artifact",
+      "sha256": "6cd209db9ef5e6addccff2769567af218092a209b1b6b4d6a04d316125394414"
+    },
+    {
+      "byte_length": 4158,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-74313BA8DA55.md",
+      "role": "generated_artifact",
+      "sha256": "bee11a75952aa4102dad842a0b737f6acc65acc560ca8d4debb8354e10023318"
+    },
+    {
+      "byte_length": 2991,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-76187AEE8567.json",
+      "role": "generated_artifact",
+      "sha256": "5c352335d51a7c148d56a2c61f2d6275894a6d27f173e4fe8dbd92efcddf160d"
+    },
+    {
+      "byte_length": 7060,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-76187AEE8567.md",
+      "role": "generated_artifact",
+      "sha256": "db6f24f1201f9e519a46320dd6fe82e8808b94e6ca38533a81a259b84e73d702"
+    },
+    {
+      "byte_length": 3980,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-7710B020EB08.json",
+      "role": "generated_artifact",
+      "sha256": "714614b7a4625a1c7bdc07d8f7ddf9df81afb6c9b3ccf0ebf29508a1f585302a"
+    },
+    {
+      "byte_length": 12650,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-7710B020EB08.md",
+      "role": "generated_artifact",
+      "sha256": "36909f9e86cb50abf7aec08e56d4423b5f134235ce47d6daf2ae916060bcd976"
+    },
+    {
+      "byte_length": 2650,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-7754F49AEC24.json",
+      "role": "generated_artifact",
+      "sha256": "2adbc07949a12aff54b03693c42ce1014699fd9ea7dac321041815329fce0348"
+    },
+    {
+      "byte_length": 2601,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-7754F49AEC24.md",
+      "role": "generated_artifact",
+      "sha256": "4b6a35f05611d3cd59091c16da4607600f13898b4cea95d85368a2422c3b5e00"
+    },
+    {
+      "byte_length": 7816,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-7A6C9B99379B.json",
+      "role": "generated_artifact",
+      "sha256": "7dba62b479c65d3461f74f62a30f3ac07b282e3976ba4ebb2a73c2d52817a6cd"
+    },
+    {
+      "byte_length": 53657,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-7A6C9B99379B.md",
+      "role": "generated_artifact",
+      "sha256": "b94ea7b7bf615319455dd1e149f25c5015e911db0f73f203810523f32dd2f945"
+    },
+    {
+      "byte_length": 14236,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-7B9E78D159B8.json",
+      "role": "generated_artifact",
+      "sha256": "69ba45f54d9d98a7b018f76de00d7beb87ae396fe8a07bbb533c54395b97a8c7"
+    },
+    {
+      "byte_length": 16720,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-7B9E78D159B8.md",
+      "role": "generated_artifact",
+      "sha256": "40de829aa975af9bfa05a1711240585cd7f268f55fe7c0b3436f53683e679912"
+    },
+    {
+      "byte_length": 4069,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-7CFBEA0D5F6F.json",
+      "role": "generated_artifact",
+      "sha256": "1dc05e0984d0100bd8386f2b45a12db1ed121b8d45174ac0ad41cac5b5b41e96"
+    },
+    {
+      "byte_length": 10144,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-7CFBEA0D5F6F.md",
+      "role": "generated_artifact",
+      "sha256": "ec7f07676e16d55372588e1c4add67cdd4add91fd2d960aeeae548a0eb373e56"
+    },
+    {
+      "byte_length": 9186,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-7FF0175A34FA.json",
+      "role": "generated_artifact",
+      "sha256": "822310635751788b2781b050788c474fb63e9e93a26e2d4038b21e1993f030d2"
+    },
+    {
+      "byte_length": 18205,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-7FF0175A34FA.md",
+      "role": "generated_artifact",
+      "sha256": "298304794bb7b1eab223bcbae29aa500a422e09269de34db9b1dcb20c86a10b8"
+    },
+    {
+      "byte_length": 8965,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-8175A2146398.json",
+      "role": "generated_artifact",
+      "sha256": "7375a9954f17cdb47477f451c61f218e3c306eea84dc745e88f71534fa501418"
+    },
+    {
+      "byte_length": 7210,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-8175A2146398.md",
+      "role": "generated_artifact",
+      "sha256": "3f79dc7352d87f954041244fd7a864b13cd97b3de9454aeb815a14e88268d213"
+    },
+    {
+      "byte_length": 20406,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-8276E0E3CC40.json",
+      "role": "generated_artifact",
+      "sha256": "503a93dfb4bb926e43f86bd5ca9bb76c0ed67c8ac62a5c7a5f82e1ede8a95192"
+    },
+    {
+      "byte_length": 26678,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-8276E0E3CC40.md",
+      "role": "generated_artifact",
+      "sha256": "1de41314f985ee9eb2c6a75d370f03f8fba61c1bb6ac4bb7dcbd124628993a61"
+    },
+    {
+      "byte_length": 7791,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-82F7823D3376.json",
+      "role": "generated_artifact",
+      "sha256": "4b9593b871f589c3656852fe7699f3c25ba09f91d5e4b7bf149ef72ab3b48a9d"
+    },
+    {
+      "byte_length": 10710,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-82F7823D3376.md",
+      "role": "generated_artifact",
+      "sha256": "c251a4a20657e2c50d00b82d261e7a5a64c6a4e961ef7ec5d8d3b57eb965e769"
+    },
+    {
+      "byte_length": 3382,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-844EBE47D3D0.json",
+      "role": "generated_artifact",
+      "sha256": "557a80dca4fd858cf2ca5cced9fcc065e3c8b0523a1b643938158665a0b5171e"
+    },
+    {
+      "byte_length": 5536,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-844EBE47D3D0.md",
+      "role": "generated_artifact",
+      "sha256": "400915fcef560c96f3670c15687c718c0f02ac431a8cb58ab9f3c8fe91e11a2e"
+    },
+    {
+      "byte_length": 5073,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-848EE9C2D592.json",
+      "role": "generated_artifact",
+      "sha256": "eee95668ac3a831c23072daa14f705c63304c46c2c544aad3c8014174192c345"
+    },
+    {
+      "byte_length": 3649,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-848EE9C2D592.md",
+      "role": "generated_artifact",
+      "sha256": "69e3efd10dbc048a4b6618c3d159de8a32bbf26ef30983ac4eac165051f59c35"
+    },
+    {
+      "byte_length": 8742,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-8558DA047D6C.json",
+      "role": "generated_artifact",
+      "sha256": "aca63258d442e31ce0aff20e3aa2b48b105deecc4c152b40b28d6749e5d23e9b"
+    },
+    {
+      "byte_length": 103949,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-8558DA047D6C.md",
+      "role": "generated_artifact",
+      "sha256": "e840e2ff85c627b722d585b701c6e11e3e85fdbb1f73f617d50aa4739eb0499d"
+    },
+    {
+      "byte_length": 4337,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-856E215CC1D8.json",
+      "role": "generated_artifact",
+      "sha256": "bc698669d8ab129e5354f86adb8a557f5901a76803d806fd9255d8adaad967d9"
+    },
+    {
+      "byte_length": 8538,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-856E215CC1D8.md",
+      "role": "generated_artifact",
+      "sha256": "8ea0d07581f7be63935a90b0507f36bd227ca4abd4dfe77ee13814ca3af7432d"
+    },
+    {
+      "byte_length": 2862,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-85B759A29E0D.json",
+      "role": "generated_artifact",
+      "sha256": "2860805fdb85a146627c35aeb3263c60bfc33c42592ee4e035e4796daaa8c6fa"
+    },
+    {
+      "byte_length": 2980,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-85B759A29E0D.md",
+      "role": "generated_artifact",
+      "sha256": "5c225dd6568b82ca34a5b0cee1b96794ae328d4d852df5f5808f680ebbf30c5f"
+    },
+    {
+      "byte_length": 21223,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-86CBE1DB6618.json",
+      "role": "generated_artifact",
+      "sha256": "c1e7932e7d52a46a8ec2906879b6084cb8ad4dff3b2e345ce0ccdf2878e5b08d"
+    },
+    {
+      "byte_length": 36628,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-86CBE1DB6618.md",
+      "role": "generated_artifact",
+      "sha256": "d8476f94a03e353826324a8f0d708025efcb5d58b9b00f79f32709f085b4cbd0"
+    },
+    {
+      "byte_length": 2617,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-878DC11DDCFC.json",
+      "role": "generated_artifact",
+      "sha256": "147c1d3db70a25c0a1afd16349e6ba61ad8565ce26719723c441e1ea0444031f"
+    },
+    {
+      "byte_length": 2427,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-878DC11DDCFC.md",
+      "role": "generated_artifact",
+      "sha256": "2c2d6f3364e56baf36c35a4f8f49785ac0caf0cad7fd9b7811426f7cd4468da4"
+    },
+    {
+      "byte_length": 3032,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-8AEB99693040.json",
+      "role": "generated_artifact",
+      "sha256": "9d4039d9ba373db11afbb95a42917447bbdd5ff143af99c444a9832dbcb124d1"
+    },
+    {
+      "byte_length": 8823,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-8AEB99693040.md",
+      "role": "generated_artifact",
+      "sha256": "59cd278eeedc40b16afccd092f68b1858c527e8e0b7786af143a101d1e76c028"
+    },
+    {
+      "byte_length": 3667,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-8B5A7E42DC82.json",
+      "role": "generated_artifact",
+      "sha256": "9e87b68fbf982726ccc727b7316db85d9825c9de4a121a21dbcf9db656d920fa"
+    },
+    {
+      "byte_length": 8810,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-8B5A7E42DC82.md",
+      "role": "generated_artifact",
+      "sha256": "e96472315e89ac86c2efcec4dcd441d3b1d6271af2116db76c035564c17f6728"
+    },
+    {
+      "byte_length": 10291,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-8C3E0FE8F54B.json",
+      "role": "generated_artifact",
+      "sha256": "f2fd91f37cb5be2c7882ce0cf81dafaf05b56bd742e7feafe63f6fac2126a600"
+    },
+    {
+      "byte_length": 28245,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-8C3E0FE8F54B.md",
+      "role": "generated_artifact",
+      "sha256": "c6760967cd0c3b93c72e2fef5705b0aeac7c8109a30dc0f036e015a10cb4bdc1"
+    },
+    {
+      "byte_length": 4608,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-8DD7888FBCF1.json",
+      "role": "generated_artifact",
+      "sha256": "8e24f474ba138b6196536f9ee4647d2813e8322193ed9b37c6f47ce8e552b318"
+    },
+    {
+      "byte_length": 9968,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-8DD7888FBCF1.md",
+      "role": "generated_artifact",
+      "sha256": "ad00a578c176aeb779f0e1d887d2cd9c1e33dd190165f5fbe9475f8630d393d1"
+    },
+    {
+      "byte_length": 4861,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-903DDE6CC343.json",
+      "role": "generated_artifact",
+      "sha256": "1780f6b95f855d75897972c14dc4593d48eb8b2ccf6394fc939dadb7758b06b3"
+    },
+    {
+      "byte_length": 3976,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-903DDE6CC343.md",
+      "role": "generated_artifact",
+      "sha256": "a4f7092f43d68ac7b37c9d48f942da1730d12654d7a6a8669bce11c32d6272df"
+    },
+    {
+      "byte_length": 2293,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-913175FCE257.json",
+      "role": "generated_artifact",
+      "sha256": "4b9ddab4743fe838ac671429f108c8d4fef16adc365e138c08b858b3b1d85c5e"
+    },
+    {
+      "byte_length": 87630,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-913175FCE257.md",
+      "role": "generated_artifact",
+      "sha256": "d6fe04865329748934eb3a4f56406786a4be89484c2f9d8a09dd462f2216c790"
+    },
+    {
+      "byte_length": 11955,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-943D10FD066B.json",
+      "role": "generated_artifact",
+      "sha256": "eeafa9301e1f347c5946f0568fb07c31d49bf27df56f9ab53a61074c4015f805"
+    },
+    {
+      "byte_length": 16659,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-943D10FD066B.md",
+      "role": "generated_artifact",
+      "sha256": "d97110be4a190fce31a10d6cfa4459634df0725063f9e555c69511b4c50273e2"
+    },
+    {
+      "byte_length": 3286,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-945FE9D36802.json",
+      "role": "generated_artifact",
+      "sha256": "76e8a08d1fba53b270e99e6aeb85725046e197560e46fcd00de7b52f469a44fd"
+    },
+    {
+      "byte_length": 5203,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-945FE9D36802.md",
+      "role": "generated_artifact",
+      "sha256": "5979d9f3dacaf72578d74799fcc5bbaf244d4861650fda5e607afa6697a1cab6"
+    },
+    {
+      "byte_length": 10039,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-953F4BB63B9B.json",
+      "role": "generated_artifact",
+      "sha256": "bc702baafa96521e7fe48c4a2571a75daf42c72523ee241451b97847f319677b"
+    },
+    {
+      "byte_length": 16986,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-953F4BB63B9B.md",
+      "role": "generated_artifact",
+      "sha256": "d401ea8aebe6e1eb2b0b5618e7ad50dda8205ab22afe34d2f98da39082dff03f"
+    },
+    {
+      "byte_length": 6936,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-969E9BF2B61C.json",
+      "role": "generated_artifact",
+      "sha256": "8d73ccbedbe426b92260a2b4feada53861217687e135c3fafe2e3f8d2ec13e37"
+    },
+    {
+      "byte_length": 3899,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-969E9BF2B61C.md",
+      "role": "generated_artifact",
+      "sha256": "2c416956a88efc16d153180183aa4876e94c8211c722f0377dd8d1515a7db510"
+    },
+    {
+      "byte_length": 20504,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-983E376BF558.json",
+      "role": "generated_artifact",
+      "sha256": "a31abdb30c98a2966c8488457e65bcf7fb3250ee2ac6f5830c2bb642953be794"
+    },
+    {
+      "byte_length": 33891,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-983E376BF558.md",
+      "role": "generated_artifact",
+      "sha256": "bacf95d946d5f0ec6f6976c3748f539f4867560e197ac80a97b8f7fe8b772c53"
+    },
+    {
+      "byte_length": 2662,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-995DBA1751D3.json",
+      "role": "generated_artifact",
+      "sha256": "5e58721d071906749e9a0bb5f9d6ec31d2c8c2a124c5fe9d62972db7f38a98c9"
+    },
+    {
+      "byte_length": 2868,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-995DBA1751D3.md",
+      "role": "generated_artifact",
+      "sha256": "2bfdeedfd965db1b2a45ba4f368baf32c45a69bc090bc9c833a2797fd74d2d30"
+    },
+    {
+      "byte_length": 11157,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-99F2E2B31334.json",
+      "role": "generated_artifact",
+      "sha256": "0d1049b13b9c19235b11eb6438cd8ecde0a1d4d37d5a6c0fc11a5064f8d42702"
+    },
+    {
+      "byte_length": 18761,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-99F2E2B31334.md",
+      "role": "generated_artifact",
+      "sha256": "2d5f29e30541b4281a232ca79ed98b32938b893030dfb7323a9f79950fe89dea"
+    },
+    {
+      "byte_length": 4142,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-99F50493C3A6.json",
+      "role": "generated_artifact",
+      "sha256": "2e2f48893d2c37f3ef2df4c20642969ae3db8e9b7939677ff9834b007d1acc11"
+    },
+    {
+      "byte_length": 10230,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-99F50493C3A6.md",
+      "role": "generated_artifact",
+      "sha256": "bfa209d9413c0c26865f003c41b8477206ef70a864913f69acd47d5e4baa2309"
+    },
+    {
+      "byte_length": 3149,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-9A2489C393EE.json",
+      "role": "generated_artifact",
+      "sha256": "54a28bac877b46829d5f6babc9da7755f74f87c35aff58b11e5eb1b4739a8c54"
+    },
+    {
+      "byte_length": 4853,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-9A2489C393EE.md",
+      "role": "generated_artifact",
+      "sha256": "86e8bf6da27db49cc78574989e0d7940605d7bb9c35be1e75377c67f465d0189"
+    },
+    {
+      "byte_length": 3287,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-9D8DF1900466.json",
+      "role": "generated_artifact",
+      "sha256": "d91bf86275118548351bd0bd674529f74d9f6142ab924a95478e3c76e1eba000"
+    },
+    {
+      "byte_length": 4356,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-9D8DF1900466.md",
+      "role": "generated_artifact",
+      "sha256": "92b3cff94e0130a757610be6ebc997414facbd0b0095e06d296c5eeffc3c2386"
+    },
+    {
+      "byte_length": 6742,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-9FCB5FCF4695.json",
+      "role": "generated_artifact",
+      "sha256": "4fc1183c70028682a8d378688b438624dd572c4f0c012fae6914a678b0b619df"
+    },
+    {
+      "byte_length": 5265,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-9FCB5FCF4695.md",
+      "role": "generated_artifact",
+      "sha256": "de955e980ac662f1710576ec76887b1be24a9fea4d5ed7043050c9f5fdb13dc1"
+    },
+    {
+      "byte_length": 2800,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-9FCEB4919A4E.json",
+      "role": "generated_artifact",
+      "sha256": "721c459e7c2bfd4c6e9273b04676fa12f3f1d00ce01ecde530cf7842bc691e5c"
+    },
+    {
+      "byte_length": 3421,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-9FCEB4919A4E.md",
+      "role": "generated_artifact",
+      "sha256": "d117b18fdadd7f533735ae53ee1b5c3c174228ffc2795111178bfb00e7835333"
+    },
+    {
+      "byte_length": 3182,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-9FE1D43A80CC.json",
+      "role": "generated_artifact",
+      "sha256": "f37dbef902ff371b0abf00930fde474655ddedbfff134d58987cdd35194e9faa"
+    },
+    {
+      "byte_length": 8237,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-9FE1D43A80CC.md",
+      "role": "generated_artifact",
+      "sha256": "47ba28279df58a1a3497692c3d5a2a1dc3258ef4d89962d137fbb77cf94adddc"
+    },
+    {
+      "byte_length": 4858,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-A06936FF5B9D.json",
+      "role": "generated_artifact",
+      "sha256": "1df656e6b6b0ed85f27f53190359aa7b0c0a484cee8fbda6d876216e7b82e027"
+    },
+    {
+      "byte_length": 3154,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-A06936FF5B9D.md",
+      "role": "generated_artifact",
+      "sha256": "6778ec152376346d0078b09e3f767783d77a06dc75407737e3ec45cf7d5672eb"
+    },
+    {
+      "byte_length": 3169,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-A0845D10E05E.json",
+      "role": "generated_artifact",
+      "sha256": "3bbfac382adc0a898ab0ce5fed487c9359bc73f46525ac45a38aa5b5fff6ca90"
+    },
+    {
+      "byte_length": 3847,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-A0845D10E05E.md",
+      "role": "generated_artifact",
+      "sha256": "4e91e0dcf119f6ed3b6d7490203848abbd3e6dfa25bee9acd165c59e6fc46297"
+    },
+    {
+      "byte_length": 3344,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-A15B533717E6.json",
+      "role": "generated_artifact",
+      "sha256": "34dbc41e059bb004d6b9f50eede38a20c8cfbe2471cac54b8afed0ec7a71e708"
+    },
+    {
+      "byte_length": 5341,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-A15B533717E6.md",
+      "role": "generated_artifact",
+      "sha256": "980c0848f892c4afb6a2663c1078a3c63070a38353fb5c3e6ae30a06ef08236c"
+    },
+    {
+      "byte_length": 3129,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-A428C9C25129.json",
+      "role": "generated_artifact",
+      "sha256": "136bc0f9670baae3eb549b15eaa96923d69c162ed6ba35f867ec4b8b7c7ef34b"
+    },
+    {
+      "byte_length": 3648,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-A428C9C25129.md",
+      "role": "generated_artifact",
+      "sha256": "117249ac1bd5ee311c8d4e488748b2b3d92ffb7c1f3b898316dd0b6d39bee17f"
+    },
+    {
+      "byte_length": 5443,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-A68BBD3B7E33.json",
+      "role": "generated_artifact",
+      "sha256": "09a2f25b2f086cafd9635b86dad87f65db70b4efd66d1b26bf8bc9c92a8a46e7"
+    },
+    {
+      "byte_length": 12524,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-A68BBD3B7E33.md",
+      "role": "generated_artifact",
+      "sha256": "4ffa124909278613e5e157f7d8c76510ada025ca75d469031c3d2b98df8c9e43"
+    },
+    {
+      "byte_length": 3501,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-A7966C4848B4.json",
+      "role": "generated_artifact",
+      "sha256": "206cab7f2a1a5ecc4f94cef8fb018b1a6065cdbeec2deca1766b697595234a5f"
+    },
+    {
+      "byte_length": 5919,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-A7966C4848B4.md",
+      "role": "generated_artifact",
+      "sha256": "ff4974827080b35464beb9c2c429094dc5194b22ec49e12f7c5ee1ab36d8e15b"
+    },
+    {
+      "byte_length": 3356,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-A90644B7FD07.json",
+      "role": "generated_artifact",
+      "sha256": "328c73aa704c4447fbfc066a132bc0bfe86268350b6ac7d7838f8dced2facef8"
+    },
+    {
+      "byte_length": 5356,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-A90644B7FD07.md",
+      "role": "generated_artifact",
+      "sha256": "bcbfe81ddc149652e43d80190d42130d96988289c58c995dfdc91dac86f11c24"
+    },
+    {
+      "byte_length": 6914,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-A9214C438F16.json",
+      "role": "generated_artifact",
+      "sha256": "462da3f63c1072e58de60dc723d4b818ed5385ec49f2792603d5d19aebb41e1e"
+    },
+    {
+      "byte_length": 14843,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-A9214C438F16.md",
+      "role": "generated_artifact",
+      "sha256": "9b828fd550b3e826f1c94dbad1cfeb00ddf0101a47ec088ae80d4a2fbd63c0b5"
+    },
+    {
+      "byte_length": 3995,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-AA53534B07B9.json",
+      "role": "generated_artifact",
+      "sha256": "a7dc34333cbfbded1bed0559856b9fc0c104b4d208e76c6b0e5a4b42c83e560d"
+    },
+    {
+      "byte_length": 9960,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-AA53534B07B9.md",
+      "role": "generated_artifact",
+      "sha256": "67bad8a59768f9d5b6ece2ad87091401447fb0f77e84912a6a5b3f6eda1fb9cb"
+    },
+    {
+      "byte_length": 3718,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-AADDF0EE5282.json",
+      "role": "generated_artifact",
+      "sha256": "addab88ec4d9c0fb45635b3a53ccfb8000051d3d1df85d89b6cd6302519e2087"
+    },
+    {
+      "byte_length": 6927,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-AADDF0EE5282.md",
+      "role": "generated_artifact",
+      "sha256": "04c74485b5fe71d467c898dfddebb75e66c4b356108bbbd6a45c8304e4517c52"
+    },
+    {
+      "byte_length": 2940,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-AB2FD997D939.json",
+      "role": "generated_artifact",
+      "sha256": "90a2546b9cc0116012d027172fc9c0bc4343e189ceea6dc967b7a1094d9b2100"
+    },
+    {
+      "byte_length": 4648,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-AB2FD997D939.md",
+      "role": "generated_artifact",
+      "sha256": "bc0f9c427a7f64793bb0b15c155415c6cc2cbcedfde3be294fc0fb6d73fd15be"
+    },
+    {
+      "byte_length": 436182,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-AB5F61891ED2.json",
+      "role": "generated_artifact",
+      "sha256": "ba5cfc0cc5c6802dd656f0e63c8320935c656221e714ac2b6d4dfc2664a76d9c"
+    },
+    {
+      "byte_length": 1397956,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-AB5F61891ED2.md",
+      "role": "generated_artifact",
+      "sha256": "f96fa0ca38d36a8854958f6bc53eafe53f3ed89fc86b3ddce272bd62c0cfc41d"
+    },
+    {
+      "byte_length": 12263,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-AC245B0847A6.json",
+      "role": "generated_artifact",
+      "sha256": "003d02280f8a3105e12ffefd897f04bd929cf8c8214d9aa574c1fc3615287fb2"
+    },
+    {
+      "byte_length": 21480,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-AC245B0847A6.md",
+      "role": "generated_artifact",
+      "sha256": "23baccff6c06c8734690e499fa159616902cda8fe54d78d4ea81816f5a7f0cf0"
+    },
+    {
+      "byte_length": 7098,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-AC8DFE792FF8.json",
+      "role": "generated_artifact",
+      "sha256": "48665c180e4c814412b3df69ce189a741c123a9d2fc9677e3628872fca1906f4"
+    },
+    {
+      "byte_length": 6590,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-AC8DFE792FF8.md",
+      "role": "generated_artifact",
+      "sha256": "7aa00a48d9109465dc79ca0b2dcfbc29f4b130240d20298410f4e4b1afeeb66f"
+    },
+    {
+      "byte_length": 10022,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-ACFEC1267DBD.json",
+      "role": "generated_artifact",
+      "sha256": "6ae40d80fb2435fef1f77c023caa103fe5aa0ed310de444f068b3d9e0bddf91d"
+    },
+    {
+      "byte_length": 14874,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-ACFEC1267DBD.md",
+      "role": "generated_artifact",
+      "sha256": "8b57412849e0e5a0adf2ca84ae7b597376cf6caac2f95eec5a1d5607fce46495"
+    },
+    {
+      "byte_length": 12681,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-AED0E08C9EDD.json",
+      "role": "generated_artifact",
+      "sha256": "579beeec893cbfd611343aa77877f90bc4e2dd63604f28b65d664ee533f59bdb"
+    },
+    {
+      "byte_length": 13406,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-AED0E08C9EDD.md",
+      "role": "generated_artifact",
+      "sha256": "4094155b3f9cbebcb6fdd825537641deb529c5db137880d8a62608166c0e7eb7"
+    },
+    {
+      "byte_length": 3459,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-AEDDE1ED5CB4.json",
+      "role": "generated_artifact",
+      "sha256": "7e0491fc41b98f7ce25e6c9e11bc53f3684b0409d5d8ff56dc9466aed6552d20"
+    },
+    {
+      "byte_length": 7995,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-AEDDE1ED5CB4.md",
+      "role": "generated_artifact",
+      "sha256": "54220ff7427579c2baf2ed344443b4c02cc8fa96abc205bcbc5abc4139af78c4"
+    },
+    {
+      "byte_length": 21391,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-AF961E2908AE.json",
+      "role": "generated_artifact",
+      "sha256": "34e99a87a4a7d1d3f3cb073aa23263388e1985ab2ce8620d161f41961c93c7ce"
+    },
+    {
+      "byte_length": 34389,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-AF961E2908AE.md",
+      "role": "generated_artifact",
+      "sha256": "c50ebdfc645d2b137fb1cded059c1e189d16cf6ea5ea30678a7218ea180b6d16"
+    },
+    {
+      "byte_length": 8773,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-B11EDF412766.json",
+      "role": "generated_artifact",
+      "sha256": "becb79a8fb3a1d44c19406dbca7b66a31f8b93e9c09b60000acc443b9eafd18d"
+    },
+    {
+      "byte_length": 8150,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-B11EDF412766.md",
+      "role": "generated_artifact",
+      "sha256": "3e3c44986583bb53d8e0b127dded43574ee269b91823bc0548fd9e5c5b5e9c40"
+    },
+    {
+      "byte_length": 11860,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-B73D0D961F02.json",
+      "role": "generated_artifact",
+      "sha256": "42a140805e417a663d0c75f9a2ccc209f7a6e0c99361921134c25eb2c7e28f06"
+    },
+    {
+      "byte_length": 29501,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-B73D0D961F02.md",
+      "role": "generated_artifact",
+      "sha256": "98ac781f55f5ef1c199f82a4b66aa93b8dd71b03316340bd911d5e0a9d8526be"
+    },
+    {
+      "byte_length": 3409,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-B8065D8C58BF.json",
+      "role": "generated_artifact",
+      "sha256": "ffc071cc633695c3132e36542e84b0bd6ba55572255220af63a3d784550012f9"
+    },
+    {
+      "byte_length": 5516,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-B8065D8C58BF.md",
+      "role": "generated_artifact",
+      "sha256": "d811c95df053c42b8444509dfe8d5b054023e30f93f28a7a4748aad89176852b"
+    },
+    {
+      "byte_length": 4572,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-B84CF1EEE634.json",
+      "role": "generated_artifact",
+      "sha256": "889ce88771ab165a745b99520c78fcb8c1be43e40b2922580f0cbd1371aeecb8"
+    },
+    {
+      "byte_length": 8309,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-B84CF1EEE634.md",
+      "role": "generated_artifact",
+      "sha256": "89c16bff9c1d1e1efdd1f1e00cf29c869d3bba588430925f30815c5202452920"
+    },
+    {
+      "byte_length": 4352,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-BA1419F839E2.json",
+      "role": "generated_artifact",
+      "sha256": "88b15eb2fc477228c1946ee02e90d827d40d40fc61c25e823cef20685c65a53a"
+    },
+    {
+      "byte_length": 9055,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-BA1419F839E2.md",
+      "role": "generated_artifact",
+      "sha256": "ba631b1517f0c664e0063fc52f53bf745f189b428ea7f8620a4991d382e6868f"
+    },
+    {
+      "byte_length": 16507,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-BA2CF02ADDF6.json",
+      "role": "generated_artifact",
+      "sha256": "7b5e3d46a0740015049af46bbc33d17a951dbec5cb749b920b69636f71d765d1"
+    },
+    {
+      "byte_length": 24250,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-BA2CF02ADDF6.md",
+      "role": "generated_artifact",
+      "sha256": "eeb66e3894db36ad88b28331fc27ea0ef406c770fce90c5e152dfd981ef3d7ea"
+    },
+    {
+      "byte_length": 8130,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-BBE6DEA58542.json",
+      "role": "generated_artifact",
+      "sha256": "15b21ad3d8d5e1cc6e515948c311c9fc7831f4caf0049cfe70f91eaeefe2a608"
+    },
+    {
+      "byte_length": 12072,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-BBE6DEA58542.md",
+      "role": "generated_artifact",
+      "sha256": "49b800eda66c71813ed50b35396cdf05b5302527d5b32cfc671b0772e994bfff"
+    },
+    {
+      "byte_length": 10369,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-BC946225FC7A.json",
+      "role": "generated_artifact",
+      "sha256": "aaa6813e1eaf0deb4b9369ad14dd02efd7d97948230c851405a937c1bb6b12b4"
+    },
+    {
+      "byte_length": 32988,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-BC946225FC7A.md",
+      "role": "generated_artifact",
+      "sha256": "6a5f59d0553069ccbfae0a0ff0b9265bd4da101d04d6528120992ab271e85757"
+    },
+    {
+      "byte_length": 9997,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-BCCCB1B208C0.json",
+      "role": "generated_artifact",
+      "sha256": "6044ed01338faf5156b4c04a1ec5e1cf60a01b731b7ba090883688056001793b"
+    },
+    {
+      "byte_length": 47327,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-BCCCB1B208C0.md",
+      "role": "generated_artifact",
+      "sha256": "dc4323e37f920b76fe59dd8eb34439c4dd5568e9fa5c35af86491099d45b1725"
+    },
+    {
+      "byte_length": 10490,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-BD1B08161408.json",
+      "role": "generated_artifact",
+      "sha256": "5a736f58180079010391406aac246642a6da89e3f56be74a8b5a25548ea09891"
+    },
+    {
+      "byte_length": 17830,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-BD1B08161408.md",
+      "role": "generated_artifact",
+      "sha256": "66ebf7d2966accc9e00287f664bce4df4ce2f655a75b23201306db7389c312c2"
+    },
+    {
+      "byte_length": 4610,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-BD2B07EE2B1E.json",
+      "role": "generated_artifact",
+      "sha256": "2ce74c3b2c31f6f6942908d75e409e52fbfb0cc65122c1e61b4c7674a93af69c"
+    },
+    {
+      "byte_length": 9103,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-BD2B07EE2B1E.md",
+      "role": "generated_artifact",
+      "sha256": "b0842ce51708cab24be85c5fee64c694e8c40ea3c1354f58fe6728d91a684d23"
+    },
+    {
+      "byte_length": 3530,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-BDA1A33EED93.json",
+      "role": "generated_artifact",
+      "sha256": "5bee853df5ca56e3fde8ceb6f2ad6d002259ea038f37d1e2c7d68aacf1e56a05"
+    },
+    {
+      "byte_length": 5041,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-BDA1A33EED93.md",
+      "role": "generated_artifact",
+      "sha256": "dd137014310fc4a62d25c8785360c56bb093f5cc61910faa100ce977c9320050"
+    },
+    {
+      "byte_length": 4185,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-BEEB7199FF7A.json",
+      "role": "generated_artifact",
+      "sha256": "bad9969a9f931f9e0ce5269d0c8989477e72ab02fa48c90d0c6527985e28f9aa"
+    },
+    {
+      "byte_length": 13277,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-BEEB7199FF7A.md",
+      "role": "generated_artifact",
+      "sha256": "dcfeb6932283fca4dc37a34881b7a6e7dca78e9acb6f53095c31821c2ec2de5c"
+    },
+    {
+      "byte_length": 10407,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-C0AC3229BE0B.json",
+      "role": "generated_artifact",
+      "sha256": "712dbb03f5c1949b482a80291a6cc468f0c1b2177e4cf0d3be3c6abbe42c3bc7"
+    },
+    {
+      "byte_length": 10550,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-C0AC3229BE0B.md",
+      "role": "generated_artifact",
+      "sha256": "d86b20b0973acdef2c7e43a8c4e5f4a2c73496740c30188735b9a1b6ec93d728"
+    },
+    {
+      "byte_length": 3013,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-C0EADF31C579.json",
+      "role": "generated_artifact",
+      "sha256": "24b3031f1989a517b98ecbfcb15af3f2386a7f9eaa8e33d6a63906ee08473911"
+    },
+    {
+      "byte_length": 26960,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-C0EADF31C579.md",
+      "role": "generated_artifact",
+      "sha256": "5a1d0c58c2738961a9879cc78412daeb052e93daa5cafb33b4212e20f15b1398"
+    },
+    {
+      "byte_length": 3508,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-C0F1F2F53B8C.json",
+      "role": "generated_artifact",
+      "sha256": "4cea136385fa36d1606654adbe9f0b288c0a32c54f90feef049cbd08c5e1ac15"
+    },
+    {
+      "byte_length": 5364,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-C0F1F2F53B8C.md",
+      "role": "generated_artifact",
+      "sha256": "a5078f5fe0b40c85ace3f36c5929bdf1eb6da4b9eeeaf379e3fcb16ef90c35f3"
+    },
+    {
+      "byte_length": 2821,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-C19AA7B8912B.json",
+      "role": "generated_artifact",
+      "sha256": "3ffe727a809f48949eace52eee5b10d57837bd4db16db801d8536d433b57a436"
+    },
+    {
+      "byte_length": 3633,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-C19AA7B8912B.md",
+      "role": "generated_artifact",
+      "sha256": "dafa439a7b102edb63a5207518465174b7b0746153ca9b1895f8d40f58e5c26a"
+    },
+    {
+      "byte_length": 14311,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-C345AEBBD4A7.json",
+      "role": "generated_artifact",
+      "sha256": "04ee6d42dfc0f79208ef67bea304b39f8d2031c6661770561b229cc862b9214b"
+    },
+    {
+      "byte_length": 16643,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-C345AEBBD4A7.md",
+      "role": "generated_artifact",
+      "sha256": "98c99f729d348e7f0b348839bacf7ae3116b0aad893dc80cbcf5034cc0a4161f"
+    },
+    {
+      "byte_length": 12770,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-C4B33E06F94F.json",
+      "role": "generated_artifact",
+      "sha256": "04d4797dc10263bae40a28b3a2c36d4080534b0484bf6ea45a9fc1edc3f62d00"
+    },
+    {
+      "byte_length": 18986,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-C4B33E06F94F.md",
+      "role": "generated_artifact",
+      "sha256": "5bca0cc5de20fb950dda6d1eff38d50e7b5e19ce3f8dad96a1be4a8fde6c405a"
+    },
+    {
+      "byte_length": 2615,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-C57BAD3B0897.json",
+      "role": "generated_artifact",
+      "sha256": "de62bffac7e85cd44440c148f241dff1fa1d581f8cd90afc6e1980318332836a"
+    },
+    {
+      "byte_length": 2115,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-C57BAD3B0897.md",
+      "role": "generated_artifact",
+      "sha256": "4a44a196ff5cbb46bf8a3fee574c5f05a27c0fe82c6be85996879d0177e23e09"
+    },
+    {
+      "byte_length": 7689,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-C9035607C9CD.json",
+      "role": "generated_artifact",
+      "sha256": "3d5288b1d02029a4dedddca7f1a7f9cd7a6efddba7c75310c30aad3bea8cff07"
+    },
+    {
+      "byte_length": 12122,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-C9035607C9CD.md",
+      "role": "generated_artifact",
+      "sha256": "ede1e34ca5888969caa0dcc11d9fbd08f6bd4c8c455d4a100bc37b945a0de93e"
+    },
+    {
+      "byte_length": 43550,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-CA3BAB35CB94.json",
+      "role": "generated_artifact",
+      "sha256": "ce79fa4d55c02962752cb3ca2d60e313e3ed5bdde31213f302e9e1bb2ea9cbef"
+    },
+    {
+      "byte_length": 97497,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-CA3BAB35CB94.md",
+      "role": "generated_artifact",
+      "sha256": "bd78a66e836023d6bd04ebda6fd6381fe593a34192d0c322bdb9a68feffd6052"
+    },
+    {
+      "byte_length": 9048,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-CA9BC109DD66.json",
+      "role": "generated_artifact",
+      "sha256": "32eb45a2c8c612995df19cfe50305c047b5aa1fe722fae13a306beb0102b8c0f"
+    },
+    {
+      "byte_length": 6198,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-CA9BC109DD66.md",
+      "role": "generated_artifact",
+      "sha256": "0a62d05eb5b74de312ba8fcdf1058d26a0ae795dbf8418b741a6561595b29c0c"
+    },
+    {
+      "byte_length": 443967,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-CBF7E61496ED.json",
+      "role": "generated_artifact",
+      "sha256": "83dc3354aba8765b5b3514bb63c18873cb6b473f3ad943c73666df8093a9e7b7"
+    },
+    {
+      "byte_length": 2444077,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-CBF7E61496ED.md",
+      "role": "generated_artifact",
+      "sha256": "1796ff1bbc4788ebe73898eb9700b1a595214c57d199c71058e48122312638eb"
+    },
+    {
+      "byte_length": 4413,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-CD1BA5D2D2AC.json",
+      "role": "generated_artifact",
+      "sha256": "10a61d1d66939e8f11cbbc891faaf6781982ac5f7c7b18bccfc2f02c17c49d8f"
+    },
+    {
+      "byte_length": 15860,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-CD1BA5D2D2AC.md",
+      "role": "generated_artifact",
+      "sha256": "35f7f9ae81673ae20e05c5fce9e500b4e586d3cfc9112c1f71362345e84d767b"
+    },
+    {
+      "byte_length": 5668,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-CF5F8E58F167.json",
+      "role": "generated_artifact",
+      "sha256": "e795f09ddfe8e7c9b1119aebabe017a785b80260a6a5e6f4eeba9d9d12a84ca2"
+    },
+    {
+      "byte_length": 5488,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-CF5F8E58F167.md",
+      "role": "generated_artifact",
+      "sha256": "aea56d2bf0b1a8f55cc4af170031ad008f4fc0584421056841af9eaf24fa8645"
+    },
+    {
+      "byte_length": 7036,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-D13E72764083.json",
+      "role": "generated_artifact",
+      "sha256": "a1a917f2442b33366c2ca8ab1cd3b083aac3bca11ba4de8d261192b36a643fbf"
+    },
+    {
+      "byte_length": 8581,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-D13E72764083.md",
+      "role": "generated_artifact",
+      "sha256": "5fa579e1c4f81bce090359f6dae4c7cec1f28746d44b113bf1625ed8075b0740"
+    },
+    {
+      "byte_length": 3219,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-D3F301DA9FA7.json",
+      "role": "generated_artifact",
+      "sha256": "afe3e6389119bc3e9192caff24930aa46e55db7b5ddd8ac8d629d2675f84221c"
+    },
+    {
+      "byte_length": 5280,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-D3F301DA9FA7.md",
+      "role": "generated_artifact",
+      "sha256": "076fab1e6fcfdbd616c3e64a1254fab5e980b96d055505e1d29ab0116d6de601"
+    },
+    {
+      "byte_length": 30561,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-D530A59F4FDE.json",
+      "role": "generated_artifact",
+      "sha256": "79c8b2f1e174dfceb7add7270a1cdecffeb228b44757b812299136e53f52eeb7"
+    },
+    {
+      "byte_length": 41269,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-D530A59F4FDE.md",
+      "role": "generated_artifact",
+      "sha256": "2beafd926c013c567a49fdbc392f4d186ea90241cd2e096f97466be995857891"
+    },
+    {
+      "byte_length": 7745,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-D5911F01BF30.json",
+      "role": "generated_artifact",
+      "sha256": "e382085da4b8f869e19b0a5452ee137b1ea7e2a03a7c3951f66a05e6716f6d23"
+    },
+    {
+      "byte_length": 13933,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-D5911F01BF30.md",
+      "role": "generated_artifact",
+      "sha256": "7508024110223c0451d970fb8cecaf2759e998631b517d3dcd65ff4c573640bc"
+    },
+    {
+      "byte_length": 25614,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-D69EBD1F0250.json",
+      "role": "generated_artifact",
+      "sha256": "48182a13748a6273ec7223e262b1300ee2ae28214879a86ff683076ed612e044"
+    },
+    {
+      "byte_length": 35701,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-D69EBD1F0250.md",
+      "role": "generated_artifact",
+      "sha256": "cb1971dfd5c69c61b019b5d676a66d6d3e331e598549dea9560c6e517379f4c7"
+    },
+    {
+      "byte_length": 3730,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-D8D96F1961AF.json",
+      "role": "generated_artifact",
+      "sha256": "a3e266335be6d544ce101c5c4dea058b0c443ee03d9a915f17877717541905c2"
+    },
+    {
+      "byte_length": 7072,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-D8D96F1961AF.md",
+      "role": "generated_artifact",
+      "sha256": "ee356d2f8adecf5e396a52121efb5a83effb4fc1b6e9576c4515af44e8b612fd"
+    },
+    {
+      "byte_length": 6590,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-D954B959C4B6.json",
+      "role": "generated_artifact",
+      "sha256": "03ee0617831e6725d43d98711e688ba9ea6a0715c1782dd51fc199cdfedeb674"
+    },
+    {
+      "byte_length": 15606,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-D954B959C4B6.md",
+      "role": "generated_artifact",
+      "sha256": "b128503a777661472b839ad9784c10bad640eef40cf86fd10c9edd2613b68444"
+    },
+    {
+      "byte_length": 4326,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-DDFE1F08940B.json",
+      "role": "generated_artifact",
+      "sha256": "c852af5f6cba69786bbb32df874c9f5ab5dc64f10d3216346f6925392b0b6b07"
+    },
+    {
+      "byte_length": 10402,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-DDFE1F08940B.md",
+      "role": "generated_artifact",
+      "sha256": "8fee6d226feee731fa8c9f61554c4e31f87c81dee96607fa52c0aa69a03580b0"
+    },
+    {
+      "byte_length": 10841,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-DE08F2D6E1E2.json",
+      "role": "generated_artifact",
+      "sha256": "1abc5a5fb77bcaa5a571962ba8714faac54fc4c0cb64f056047b5c4cdf4d48cf"
+    },
+    {
+      "byte_length": 16876,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-DE08F2D6E1E2.md",
+      "role": "generated_artifact",
+      "sha256": "b2ca2b703835054f654c76f8209a1b0e59faffcd610425ed7173cd400f50b1aa"
+    },
+    {
+      "byte_length": 10461,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-DE73F7226F37.json",
+      "role": "generated_artifact",
+      "sha256": "2e301dea70451cf4ea0012deacf7a2ed6b09bc90ab2534bb3d4a3e5a09b40815"
+    },
+    {
+      "byte_length": 44714,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-DE73F7226F37.md",
+      "role": "generated_artifact",
+      "sha256": "aadecd3bb77868a8a0943850e61130311ded896aa263777e1d52a0f2c2bd81c2"
+    },
+    {
+      "byte_length": 18141,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-E0A438C9F1AE.json",
+      "role": "generated_artifact",
+      "sha256": "171bd985d2a637bbe5fda81917602d73cc2db35da20690c29176406c2afb87a4"
+    },
+    {
+      "byte_length": 46097,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-E0A438C9F1AE.md",
+      "role": "generated_artifact",
+      "sha256": "30cda745b8df81d4323038279124f2e675ad55809a74880cbad284e40451785a"
+    },
+    {
+      "byte_length": 10818,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-E2FE9E8BC718.json",
+      "role": "generated_artifact",
+      "sha256": "a3c5a9618d2f63fcadb986e5f77c13268f5005a796a9baaa54a3d28ab1384e8c"
+    },
+    {
+      "byte_length": 12175,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-E2FE9E8BC718.md",
+      "role": "generated_artifact",
+      "sha256": "9234800292b09e770995c6297977e72c0de78cb8cc9092fc681dbb6198c2a736"
+    },
+    {
+      "byte_length": 7397,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-E58A88F195CA.json",
+      "role": "generated_artifact",
+      "sha256": "dea507d8b87c03284b3cab14a60733d522d7997bfd33959f17cf6247c45eca54"
+    },
+    {
+      "byte_length": 9625,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-E58A88F195CA.md",
+      "role": "generated_artifact",
+      "sha256": "f81c6a0564baefe38cdea3ce3e9047898351548a9faf82772a22f3487d914969"
+    },
+    {
+      "byte_length": 3561,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-E75738A2439A.json",
+      "role": "generated_artifact",
+      "sha256": "912c640ca4bb596e73d0a9a438d3bb9946861c1b61346872a229c5f24336c1b8"
+    },
+    {
+      "byte_length": 5056,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-E75738A2439A.md",
+      "role": "generated_artifact",
+      "sha256": "03600a4a31864f409d7a59ebad7d01693b460245e421dc63b54d1e80183863db"
+    },
+    {
+      "byte_length": 3570,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-E7706F3FD610.json",
+      "role": "generated_artifact",
+      "sha256": "6e84db73439badc0e723331663632fd287ce7a45362f38a530bd54c36a8f001c"
+    },
+    {
+      "byte_length": 9872,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-E7706F3FD610.md",
+      "role": "generated_artifact",
+      "sha256": "1996f1f6e8d6802413b2f075e99525b62f675d92ed3e6296d17c8fff37b74684"
+    },
+    {
+      "byte_length": 11065,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-EB96C9C929EB.json",
+      "role": "generated_artifact",
+      "sha256": "04850585b9f10fc3f6fd0ab7fa46fb56f2fba83fe861aaa93cb503cae5575084"
+    },
+    {
+      "byte_length": 17381,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-EB96C9C929EB.md",
+      "role": "generated_artifact",
+      "sha256": "ea2bad562fcc71a50b7e2eb4335e6e730227a7d027a3ce4bebf4fe4c0da29abf"
+    },
+    {
+      "byte_length": 3725,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-EC8131E9C8AA.json",
+      "role": "generated_artifact",
+      "sha256": "5dbef71ace5208b00187936ab821ea92c36f6040a0d4d49d3b271146dea6ff6a"
+    },
+    {
+      "byte_length": 6759,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-EC8131E9C8AA.md",
+      "role": "generated_artifact",
+      "sha256": "7b8c628f7ea5b2509fc7c0e959744865236f8ae92a01f17104b20bf1e4ce8bb2"
+    },
+    {
+      "byte_length": 2765,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-EDFAE0F7576A.json",
+      "role": "generated_artifact",
+      "sha256": "b525f1c00ba38411f18f5f884ac47bafaa243f43900e26eac84eff52f1a595a5"
+    },
+    {
+      "byte_length": 3377,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-EDFAE0F7576A.md",
+      "role": "generated_artifact",
+      "sha256": "b067aa24ed9317c4e90427baf0e98dd21e3dcab44bdb7aa6c50e1eef1c4a1238"
+    },
+    {
+      "byte_length": 3902,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-EE05282014CE.json",
+      "role": "generated_artifact",
+      "sha256": "90a5bbdef0f1dd4f16673541cd234f9a3f8dd9ce767b7a9ac7de46b6cbbcf28a"
+    },
+    {
+      "byte_length": 7802,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-EE05282014CE.md",
+      "role": "generated_artifact",
+      "sha256": "f3094e329dc1c8fa016b1878cac4c45344b75b53010c8144ad13d841a2692fcb"
+    },
+    {
+      "byte_length": 3337,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-EE361C289F5D.json",
+      "role": "generated_artifact",
+      "sha256": "79ea73ed1bf1638369a3f3ea882c4b8ef948ef8a656a523c757b461e50564012"
+    },
+    {
+      "byte_length": 4989,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-EE361C289F5D.md",
+      "role": "generated_artifact",
+      "sha256": "ec41857fee1556149e8a39ae5c2828d5fe2e2841237f3576ec2bf8791d16c066"
+    },
+    {
+      "byte_length": 3057,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-EE696CAF0DDC.json",
+      "role": "generated_artifact",
+      "sha256": "a56c9835be9c286edb3d7b590921ef12c35a66d8ab29006450c2f1d3172e562b"
+    },
+    {
+      "byte_length": 3473,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-EE696CAF0DDC.md",
+      "role": "generated_artifact",
+      "sha256": "daae5ece3ffe5b9e4cf4a02095e219d441c763afc072fda3e1e98413cfe3dc8c"
+    },
+    {
+      "byte_length": 7015,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-F018802280F8.json",
+      "role": "generated_artifact",
+      "sha256": "6278e79dd0eeb3e16f57d8d6747ce6ef87153f64489ce76bf2dfd5afbc012789"
+    },
+    {
+      "byte_length": 15580,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-F018802280F8.md",
+      "role": "generated_artifact",
+      "sha256": "3d4a6b2bfe4792d930cf32e5ea42d206d2b84d67c8639df803404714d443bcd3"
+    },
+    {
+      "byte_length": 7978,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-F12726C017DC.json",
+      "role": "generated_artifact",
+      "sha256": "a76f9bf6699def35cbb885bd13ef62a391f679b9c3cad893cf67b1e3d48c4c4c"
+    },
+    {
+      "byte_length": 19121,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-F12726C017DC.md",
+      "role": "generated_artifact",
+      "sha256": "197c3e87e69b6ff943d31da6641f55e56e3e59ae81a53de5393f945ea8774fb0"
+    },
+    {
+      "byte_length": 16346,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-F310AA35C9ED.json",
+      "role": "generated_artifact",
+      "sha256": "e7427551cd76f08520dc8d8082790f42a1ff967d54eba7853a20104f28224c33"
+    },
+    {
+      "byte_length": 29407,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-F310AA35C9ED.md",
+      "role": "generated_artifact",
+      "sha256": "0a3356204e546b0dc8518b5c5b697bd57da67b235a4c8a44250a54978c10e6e8"
+    },
+    {
+      "byte_length": 2622,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-F407C35E2A5D.json",
+      "role": "generated_artifact",
+      "sha256": "e6313c3c060b4c42d8fb13b273266c06704bf9ccb65919024311fe27cb9d504c"
+    },
+    {
+      "byte_length": 2589,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-F407C35E2A5D.md",
+      "role": "generated_artifact",
+      "sha256": "950821ff6d03a667b60255225d3d06f4004a9b169fb1783851233ba0940431d8"
+    },
+    {
+      "byte_length": 3959,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-F62D2D10E8E3.json",
+      "role": "generated_artifact",
+      "sha256": "53c614df6abe16757f10cd810318dfffe1ab6ccab8e0c57434ca0abbbc29ea12"
+    },
+    {
+      "byte_length": 7132,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-F62D2D10E8E3.md",
+      "role": "generated_artifact",
+      "sha256": "a6bc17262b14d2d61568ebdd03f7d7172961f37247ef55a43ab93a32c72eca6b"
+    },
+    {
+      "byte_length": 2933,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-F71615EED48D.json",
+      "role": "generated_artifact",
+      "sha256": "9ded027a109e5ad2039731bc75db5a9d587058ebeeef2de1446269ffe17ac8bd"
+    },
+    {
+      "byte_length": 3487,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-F71615EED48D.md",
+      "role": "generated_artifact",
+      "sha256": "0925f96563fdd4d05c0d4e3e72df2c41b471fab635bd5e59e50bd5c1c15b5a72"
+    },
+    {
+      "byte_length": 3061,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-F782495A4C92.json",
+      "role": "generated_artifact",
+      "sha256": "130c2fa85fde2f869541387c75e280803a329ef4ed5857839a5f1e8f85edf224"
+    },
+    {
+      "byte_length": 5107,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-F782495A4C92.md",
+      "role": "generated_artifact",
+      "sha256": "72a903cfd0a380f2cc39cc5b3660ac1e6c994abf7bd9c8560909cdcdc4dbfdc0"
+    },
+    {
+      "byte_length": 7011,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-F901FB34D9E3.json",
+      "role": "generated_artifact",
+      "sha256": "7f7876df7e35d93086c0335cf18dd3ebafb0a08a9ca877e28ab65050141d5438"
+    },
+    {
+      "byte_length": 5093,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-F901FB34D9E3.md",
+      "role": "generated_artifact",
+      "sha256": "d062785459dc9ce563fa87bdc400a66144dcb603971c81c505f95441626d891e"
+    },
+    {
+      "byte_length": 6375,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-F987D12CCCBE.json",
+      "role": "generated_artifact",
+      "sha256": "7b2b024b2d0c37aa3642d3947b677a89da19ee311e65f754e1a1f0dd23341184"
+    },
+    {
+      "byte_length": 9684,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-F987D12CCCBE.md",
+      "role": "generated_artifact",
+      "sha256": "c108ebc2d10d3748e5f0cffecfce291bf0354e300d0fc41e03d67a44441ffb08"
+    },
+    {
+      "byte_length": 3401,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-FAF42ED7F9C8.json",
+      "role": "generated_artifact",
+      "sha256": "d84f1867a7c5e3ee3c4a55cb5c155991e3bde4a7eece647a59b98e654c2a1513"
+    },
+    {
+      "byte_length": 7464,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-FAF42ED7F9C8.md",
+      "role": "generated_artifact",
+      "sha256": "7a0550e361dc51832b286648d8e14997cd0fd693c9b897aee92dae51203e6aed"
+    },
+    {
+      "byte_length": 3469,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-FC2DD1FE2B4D.json",
+      "role": "generated_artifact",
+      "sha256": "7bc0e4a930abc053b642e33738fa2baab86d8d644524a42bcd3a7c7b639a8bce"
+    },
+    {
+      "byte_length": 6743,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-FC2DD1FE2B4D.md",
+      "role": "generated_artifact",
+      "sha256": "615edd8b3e69be5886f5313e249896f7bc246b7dcc15a3bad7d7bf81d1e083cc"
+    },
+    {
+      "byte_length": 8765,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-FF42E351E0DC.json",
+      "role": "generated_artifact",
+      "sha256": "317dec099198f5f5441b56eb33707fba936a61c71ef6e9b92984365b0a654647"
+    },
+    {
+      "byte_length": 11134,
+      "path": "archive/normalized/lore/pages/SRC-LORE-REPO-FF42E351E0DC.md",
+      "role": "generated_artifact",
+      "sha256": "3648afc6410adc840af81229ec53122ca957a38761f6147ce85d46a323a7d5bb"
+    },
+    {
+      "byte_length": 2277329,
+      "path": "archive/normalized/lore/relationships.jsonl",
+      "role": "generated_artifact",
+      "sha256": "749dbb0361283da2521d72768f768e64b16e19f84fd9ace27da69595ad3983a2"
+    },
+    {
+      "byte_length": 3841,
+      "path": "archive/normalized/lore/taxonomy.json",
+      "role": "generated_artifact",
+      "sha256": "90603d4ca531b94a972b35e12f3cf47416f577d5c60128d886ccb42b347c44b0"
+    },
+    {
+      "byte_length": 1288,
+      "path": "archive/provenance/lore-repository/authority-assessment.json",
+      "role": "generated_artifact",
+      "sha256": "691b32c9971ff72bf33cc07b12203c305ca3ce9ae5204b728f105af354750001"
+    },
+    {
+      "byte_length": 3344,
+      "path": "archive/provenance/lore-repository/upstream-snapshot.json",
+      "role": "generated_artifact",
+      "sha256": "0bc3b54bf4858de0c417975fe3b894bc2c6e1af1efc4120b2119c2b00b9e5ec6"
+    },
+    {
+      "byte_length": 39,
+      "path": "archive/raw/lore-repository/.gitattributes",
+      "role": "raw_path_attributes",
+      "sha256": "807c95f3df2078b03957e3d62457d307b909bc4d8898b3cbdc0bc86b602f62b2"
+    },
+    {
+      "byte_length": 62698,
+      "path": "archive/raw/lore-repository/live-site-home-2026-07-19.html",
+      "role": "raw_live_site_identity",
+      "sha256": "5bd2109fcb9c3875e8ff8084783e5e98b95e122f5973729a3d88bc4d49f227e0"
+    },
+    {
+      "byte_length": 31749,
+      "path": "archive/raw/lore-repository/live-site-sitemap-2026-07-19.xml",
+      "role": "raw_live_site_inventory",
+      "sha256": "401d62a7fdb8847e62aa1d88d472dbdb91e9c612b1d3512881754e1154d72efd"
+    },
+    {
+      "byte_length": 7149560,
+      "path": "archive/raw/lore-repository/media/canon/assets/tufa_concept_art.png",
+      "role": "generated_artifact",
+      "sha256": "9f041466d14ca3a0bc503889cfd44b46f77632da9cea946e77126dd915611986"
+    },
+    {
+      "byte_length": 11118506,
+      "path": "archive/raw/lore-repository/star-atlas-lore-22555f277eb1496e34c0839c8f1f382842bd1d2b.zip",
+      "role": "raw_commit_snapshot",
+      "sha256": "08061a661f47a8d55d233a79ba5cdadbbd98c471f50b171d2d56ea583f2a04a1"
+    },
+    {
+      "byte_length": 2713,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-01938FE85B71.json",
+      "role": "generated_artifact",
+      "sha256": "eac5f9f942798e0ff6d79c63c2fd3e8f818513fb0617a22ec117921d3ae0061f"
+    },
+    {
+      "byte_length": 2508,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-01938FE85B71.md",
+      "role": "generated_artifact",
+      "sha256": "b344eb32f057391225b827fb097fa090461af72a8b560cad1aa635ec2743bd61"
+    },
+    {
+      "byte_length": 2787,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-030D37D669C8.json",
+      "role": "generated_artifact",
+      "sha256": "99d9d7da266ae129d96dcb7491729660a9f7ae31c4074be86a2c03f84289e627"
+    },
+    {
+      "byte_length": 2559,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-030D37D669C8.md",
+      "role": "generated_artifact",
+      "sha256": "73993b280d61a6d77c5d03291ef17de2ea1f1c7e285b6252c0fff70c2da78e80"
+    },
+    {
+      "byte_length": 2812,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-038593E857B7.json",
+      "role": "generated_artifact",
+      "sha256": "0f4bad1a8ff8ceacbf69a79510370069d378d74ee1e8a8b92514e3947fdcc4a7"
+    },
+    {
+      "byte_length": 2594,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-038593E857B7.md",
+      "role": "generated_artifact",
+      "sha256": "ec9c4d1f5ae467db94348ee8a73414a1a3179c3db711b870634d645de99cce8c"
+    },
+    {
+      "byte_length": 2851,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-04B17415732F.json",
+      "role": "generated_artifact",
+      "sha256": "1c47c50084559284a89e365ec2b3ccdc0d7b60fc1127d98f507deb5c84b3359c"
+    },
+    {
+      "byte_length": 2608,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-04B17415732F.md",
+      "role": "generated_artifact",
+      "sha256": "6d3c28d5c6dd7cb500f6f02749020e5b92f7331cd79c02b598400b72da8cf7d8"
+    },
+    {
+      "byte_length": 2681,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-05A8C9425535.json",
+      "role": "generated_artifact",
+      "sha256": "1383b53d34baeb0fde80799f103878fb6180148d7f1f60ddb6cee9ee65767228"
+    },
+    {
+      "byte_length": 2453,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-05A8C9425535.md",
+      "role": "generated_artifact",
+      "sha256": "92d45ada7b76d2a0937fb3c27ec490f45bfeae10386cc4e947277696810aabad"
+    },
+    {
+      "byte_length": 2718,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-073830CC078B.json",
+      "role": "generated_artifact",
+      "sha256": "94695a971b9db311b892f1586cca91cff228f5cdf5b61ebceef538238d7904c8"
+    },
+    {
+      "byte_length": 2515,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-073830CC078B.md",
+      "role": "generated_artifact",
+      "sha256": "fbaf47bb36093dc4264a888656b7bc7db55b6668e9493bef5c4a2143bc504deb"
+    },
+    {
+      "byte_length": 2668,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-07B485E62EF5.json",
+      "role": "generated_artifact",
+      "sha256": "e4ac3def47de2b72c7bff4475aa657233c1b8f1c9771a2dca4e7c44b39e95121"
+    },
+    {
+      "byte_length": 2445,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-07B485E62EF5.md",
+      "role": "generated_artifact",
+      "sha256": "d3d209d92f256bfc6fcba4e057252b19ec692dac495475da6a11cde25ab8de47"
+    },
+    {
+      "byte_length": 2713,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-08C1FCBAFBB3.json",
+      "role": "generated_artifact",
+      "sha256": "6b5ba7506a504564a72a48a0ae5a9a576a021bd4bb9ae83df87e2178fff6a6ac"
+    },
+    {
+      "byte_length": 2508,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-08C1FCBAFBB3.md",
+      "role": "generated_artifact",
+      "sha256": "9ce7f723c6d79607847ddf59d2ad21f7a2eb2ef83f5266afc81f3ad0def18070"
+    },
+    {
+      "byte_length": 2851,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-08EA9A47722D.json",
+      "role": "generated_artifact",
+      "sha256": "a0eb1486c80f55bab4f98fd143e77a8a50fdcb4fcfe2785747ac5e319e76e118"
+    },
+    {
+      "byte_length": 2659,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-08EA9A47722D.md",
+      "role": "generated_artifact",
+      "sha256": "80d067f4081f1ba1b82b3c91f8d0b88378cf4b47a67883e6fd079739d8b19265"
+    },
+    {
+      "byte_length": 2797,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-0A9ECC166D0D.json",
+      "role": "generated_artifact",
+      "sha256": "8ec6e78347add3d09d48f457ae06606946d96c03ec887e542f19c18c9b7c34cf"
+    },
+    {
+      "byte_length": 2573,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-0A9ECC166D0D.md",
+      "role": "generated_artifact",
+      "sha256": "5b4deb18caaba41e80149347e184f7da033fe48a74deac1fed63dd5acb5fe958"
+    },
+    {
+      "byte_length": 2661,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-0B2FC2D4804C.json",
+      "role": "generated_artifact",
+      "sha256": "8024f80193c5ef1b29f161bee7122120a2b18794be9f3be6c90fe5dc277beea1"
+    },
+    {
+      "byte_length": 2436,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-0B2FC2D4804C.md",
+      "role": "generated_artifact",
+      "sha256": "068db2913839e230419b56002229e70a0af92aa9cf9c58f2a7f51508ee3692a9"
+    },
+    {
+      "byte_length": 2826,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-0D3599CC402F.json",
+      "role": "generated_artifact",
+      "sha256": "72b1239dfc1a4d9723591233e277944c2e6ee96bf9495d7a047c625352b0b893"
+    },
+    {
+      "byte_length": 2582,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-0D3599CC402F.md",
+      "role": "generated_artifact",
+      "sha256": "936cab3b28e6a17d50785a61d1fc96baba3e3bc08a2d41ab5d1f5dfa3c658a05"
+    },
+    {
+      "byte_length": 2955,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-0D9B643E0BC7.json",
+      "role": "generated_artifact",
+      "sha256": "37d28d258e8d3a2872cb96d5faa8607b8c4e54552675c6600ea2cd8ed45768f8"
+    },
+    {
+      "byte_length": 2714,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-0D9B643E0BC7.md",
+      "role": "generated_artifact",
+      "sha256": "1ab9c5873fc3689bd8f609ac0406ccb449b8c8135b08e24d03ae1def3416c2b3"
+    },
+    {
+      "byte_length": 2716,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-0F784770657C.json",
+      "role": "generated_artifact",
+      "sha256": "9ef3b7d5a847f9ddb26693379c860dc26fa42ef35f2d860a6bed103f5fda43c6"
+    },
+    {
+      "byte_length": 2513,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-0F784770657C.md",
+      "role": "generated_artifact",
+      "sha256": "00b218944be99e169551880b45dd74e0d95a88566fb8a6d2d45f13e1d4593854"
+    },
+    {
+      "byte_length": 2663,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-10C3AAD043B8.json",
+      "role": "generated_artifact",
+      "sha256": "bb4f34b60754704443d479394e029959851613dbc033642737447ab95fcd961d"
+    },
+    {
+      "byte_length": 2438,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-10C3AAD043B8.md",
+      "role": "generated_artifact",
+      "sha256": "b46457af20c81561134c01293c4f892eb357f67522bb24fb1870c945d5c9fb11"
+    },
+    {
+      "byte_length": 2912,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-11CBC4C4E7E8.json",
+      "role": "generated_artifact",
+      "sha256": "7d3b4bcd059a5c4c0e9c12f05ceee5e9d4d148f8d1c5af20d7204a68c7f624cd"
+    },
+    {
+      "byte_length": 2690,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-11CBC4C4E7E8.md",
+      "role": "generated_artifact",
+      "sha256": "2e4aa189f75b1f0615fc65c290f37f26da0e3a274b75a4447763737e92de2e4f"
+    },
+    {
+      "byte_length": 2673,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-12A5C90BF80C.json",
+      "role": "generated_artifact",
+      "sha256": "e15b9e73d1c788b8891e391ead6b3fe7f4adf2edfbaabc2dd239b0fd0e011a52"
+    },
+    {
+      "byte_length": 2452,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-12A5C90BF80C.md",
+      "role": "generated_artifact",
+      "sha256": "99ed0873d9acf48c3cce62659ae29de73ab8868ae910c18226d2c41212ae3f48"
+    },
+    {
+      "byte_length": 2696,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-1325ABD66572.json",
+      "role": "generated_artifact",
+      "sha256": "7fa10141210ac556f95cab3db0a3debb93c39bf667f2aefdaadc860b390f5f90"
+    },
+    {
+      "byte_length": 2485,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-1325ABD66572.md",
+      "role": "generated_artifact",
+      "sha256": "56723a58f971d58e325a03ec60c8e563808e63f01218d6385b52daf3b7cf58d8"
+    },
+    {
+      "byte_length": 2678,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-15EABF8815FA.json",
+      "role": "generated_artifact",
+      "sha256": "e279989620837e8b9741327b25409fd8fafa8432f90c01709a2725059b8953a0"
+    },
+    {
+      "byte_length": 2459,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-15EABF8815FA.md",
+      "role": "generated_artifact",
+      "sha256": "306642a1413ff0712b1b3708abba2af6dd82d5c1f8df8b9f526afb049da3eb33"
+    },
+    {
+      "byte_length": 2693,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-16208EA188E2.json",
+      "role": "generated_artifact",
+      "sha256": "ac68f9fc878435e640c73af106d1a58b4377ef48fa9ef34b08603f47b9f4dd8c"
+    },
+    {
+      "byte_length": 2480,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-16208EA188E2.md",
+      "role": "generated_artifact",
+      "sha256": "309f6607e98b589369f7adb8d09dbb615d9164d0e9ea4ddb45da5a7859ef6752"
+    },
+    {
+      "byte_length": 2842,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-1D725EE82D21.json",
+      "role": "generated_artifact",
+      "sha256": "939dab6c1914ca669ac521756eb8e07bdc92c703c63a97999ca437a560d03aea"
+    },
+    {
+      "byte_length": 2607,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-1D725EE82D21.md",
+      "role": "generated_artifact",
+      "sha256": "3dffaae3271fe981e01a626def112aa7fb141de9d2cae4c30c49d4ef354711a7"
+    },
+    {
+      "byte_length": 2638,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-1E533524DA92.json",
+      "role": "generated_artifact",
+      "sha256": "1918017abefd2913fc264149a290f277cb67d59a6e2693349744a74965600787"
+    },
+    {
+      "byte_length": 2403,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-1E533524DA92.md",
+      "role": "generated_artifact",
+      "sha256": "fcdb643d3b6f7168b62a943562b9b0b59c3032f762eae82552297cbfa0c238cf"
+    },
+    {
+      "byte_length": 2858,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-1E7C33094F6C.json",
+      "role": "generated_artifact",
+      "sha256": "f316e432114a3c9de52c12b5d53902ce801903aa4aff3ab8c1a11b15ab06ac13"
+    },
+    {
+      "byte_length": 2669,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-1E7C33094F6C.md",
+      "role": "generated_artifact",
+      "sha256": "2a01f0d6679fa3f37eb2a632a1bd3b8e05321a46820ba46485f0d82e1eb212f8"
+    },
+    {
+      "byte_length": 2802,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-1F7884B11ECA.json",
+      "role": "generated_artifact",
+      "sha256": "c4529112a439b54282c08f9b9be2b7661db8fb6aec4a1d0d7bd095dbdf0a91e6"
+    },
+    {
+      "byte_length": 2580,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-1F7884B11ECA.md",
+      "role": "generated_artifact",
+      "sha256": "cf1be10a0a60d4c7d715db3fb3c74efaea4c4efa78d980c19107b65ac9c9c1bd"
+    },
+    {
+      "byte_length": 2653,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-22F5C9A99532.json",
+      "role": "generated_artifact",
+      "sha256": "51deb5ced385b9a18a5bb884a901a14245838ade798b9bf3d6c7aa1ccde94068"
+    },
+    {
+      "byte_length": 2424,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-22F5C9A99532.md",
+      "role": "generated_artifact",
+      "sha256": "1f7a588156ebdd9218987ebebb06823665067ceb42e9773d1fe1af7145d344ff"
+    },
+    {
+      "byte_length": 2907,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-2348155DB4FD.json",
+      "role": "generated_artifact",
+      "sha256": "4fa700b56510f2d08f95846a690e0234fcbd933ede4c7e8720aaa9955ba7a5b6"
+    },
+    {
+      "byte_length": 2683,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-2348155DB4FD.md",
+      "role": "generated_artifact",
+      "sha256": "ba5612d791e2be4c14db8838dd56224047b2d2e1eb51417a09c4a0257635d861"
+    },
+    {
+      "byte_length": 2683,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-24F1D8E7E55C.json",
+      "role": "generated_artifact",
+      "sha256": "8a6553f0b733d1783f3f1d589054fbe23b5feed92ddf93debfaaf5d8131969f2"
+    },
+    {
+      "byte_length": 2466,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-24F1D8E7E55C.md",
+      "role": "generated_artifact",
+      "sha256": "a43ae414c140f2e2f6962e1ac49557514481a6c6f5d444dffd685c269f64f5ad"
+    },
+    {
+      "byte_length": 2718,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-256F5F5B6767.json",
+      "role": "generated_artifact",
+      "sha256": "4053b0f1d32fe22a047a41c6bb348a9c3e5b2591b5716343deefff85b8a98dc8"
+    },
+    {
+      "byte_length": 2517,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-256F5F5B6767.md",
+      "role": "generated_artifact",
+      "sha256": "25f5468e770d9bfa18dfbc9b19125cba14e93aaed749e4cb4e574d8d77434b6d"
+    },
+    {
+      "byte_length": 2792,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-26CFF1332013.json",
+      "role": "generated_artifact",
+      "sha256": "50b51232c8a02ec3abbf6d196d5c9c4f067c25e492d50e7962f499276b34f6bd"
+    },
+    {
+      "byte_length": 2566,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-26CFF1332013.md",
+      "role": "generated_artifact",
+      "sha256": "a7beff2e4bab4bf6b81f0feeef2764e38c3eedd091a7df8008e9b454278b98bb"
+    },
+    {
+      "byte_length": 2703,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-2888102D1A8F.json",
+      "role": "generated_artifact",
+      "sha256": "ddc4c83c162929144af4399eb4e883a58ecceb8caceaa60421ba7f63dbb458a5"
+    },
+    {
+      "byte_length": 2494,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-2888102D1A8F.md",
+      "role": "generated_artifact",
+      "sha256": "4d26bef2882fdca55f928794e7f80f85e0ac1c2170ff28fde7a4ac9590512be4"
+    },
+    {
+      "byte_length": 2684,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-28E01FEE2103.json",
+      "role": "generated_artifact",
+      "sha256": "296e59e17fc6e0bd4a7882a5eb461159fa7c341c620cfcdb14a1dabfce0ab9b2"
+    },
+    {
+      "byte_length": 2438,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-28E01FEE2103.md",
+      "role": "generated_artifact",
+      "sha256": "acdeaa4623eab2905cce17f33ec1769ec0a9bd472458b44142b15f3077ff9c78"
+    },
+    {
+      "byte_length": 2688,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-29627C00CA6A.json",
+      "role": "generated_artifact",
+      "sha256": "6c6e0c11f24c9237e104a2862f2db4a4e3caed80a460e981c825c672af6ed2c4"
+    },
+    {
+      "byte_length": 2473,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-29627C00CA6A.md",
+      "role": "generated_artifact",
+      "sha256": "71bb2103d5020ba77c727d4bb56c3efbc679a30749cb514cdd2b63d0c97ae7e0"
+    },
+    {
+      "byte_length": 2678,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-2A8A512817B4.json",
+      "role": "generated_artifact",
+      "sha256": "b69f11735f71b6de3c6478028c7c5e816dc2064fc7000a1ce44f856244541ea0"
+    },
+    {
+      "byte_length": 2459,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-2A8A512817B4.md",
+      "role": "generated_artifact",
+      "sha256": "4dba9c3128a301ec06137213dd614c7833ad33df3cdcc9422c75e4d65748bc2b"
+    },
+    {
+      "byte_length": 2796,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-2D4F22617405.json",
+      "role": "generated_artifact",
+      "sha256": "803452cfa2273087164d61497101bafb6866c0bab8c79574c72c9381394017bb"
+    },
+    {
+      "byte_length": 2621,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-2D4F22617405.md",
+      "role": "generated_artifact",
+      "sha256": "e1bdd991f130b1f00c3ad2243eca837a8c2cb268bf92e311afa82e3d8fd6edd9"
+    },
+    {
+      "byte_length": 2877,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-3313E25B253B.json",
+      "role": "generated_artifact",
+      "sha256": "4b62d5607f6fcdef1a0217509b51658108e0ad1fd6f34f9cebf4b54af0adbabf"
+    },
+    {
+      "byte_length": 2680,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-3313E25B253B.md",
+      "role": "generated_artifact",
+      "sha256": "74c0b05db54c6d37dd22f54b1193e812150982b7529084df8e80489cb3545136"
+    },
+    {
+      "byte_length": 2683,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-3373BCA8ADB7.json",
+      "role": "generated_artifact",
+      "sha256": "9a2b39524f2ba6284c9739eb79205ada86ec06b1da06982095b7e294866a2e10"
+    },
+    {
+      "byte_length": 2466,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-3373BCA8ADB7.md",
+      "role": "generated_artifact",
+      "sha256": "7173b1069c43bdcfdab87f26b8beb86ea8a498a01e39e53b77e65062926f0f34"
+    },
+    {
+      "byte_length": 2668,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-348E76A11EF3.json",
+      "role": "generated_artifact",
+      "sha256": "9a89b5e1ee5b7afd9cc307642533b244e447f8663fa62e9c8e8e5e91d17aa168"
+    },
+    {
+      "byte_length": 2445,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-348E76A11EF3.md",
+      "role": "generated_artifact",
+      "sha256": "7d84369bfd62a3fffd9e2d219e938e8436eeaf645285e2c4d0554c3bc4ebb06b"
+    },
+    {
+      "byte_length": 2935,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-366FE7422342.json",
+      "role": "generated_artifact",
+      "sha256": "4c59b962ad9477b568532c808eed60d8648fbbc3daa31e5987ad3beb72f62d56"
+    },
+    {
+      "byte_length": 2686,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-366FE7422342.md",
+      "role": "generated_artifact",
+      "sha256": "76f7f52bcc4641d340c6483b27b63891ce4525f5b90ad9686c3ce6a575667a60"
+    },
+    {
+      "byte_length": 2851,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-36C72F785E8D.json",
+      "role": "generated_artifact",
+      "sha256": "10cb993500eafbe3c28552f31ade189d0410117b81570de9f20cfb3219f69711"
+    },
+    {
+      "byte_length": 2617,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-36C72F785E8D.md",
+      "role": "generated_artifact",
+      "sha256": "017b23048933425437a23bf210370db0861d3fc2b2b8b62d5a26aaa90bb114ec"
+    },
+    {
+      "byte_length": 2812,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-38445BC96A65.json",
+      "role": "generated_artifact",
+      "sha256": "8d1e3b6d16b99061aabe8fb9da61eaf853c471bba74407858d2c18cc5720b324"
+    },
+    {
+      "byte_length": 2594,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-38445BC96A65.md",
+      "role": "generated_artifact",
+      "sha256": "6966660483a8a5c2a2d4882084aa2a8558c199bd952e16a0a978575d76a0de7b"
+    },
+    {
+      "byte_length": 2637,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-3986CF7CD284.json",
+      "role": "generated_artifact",
+      "sha256": "38e1da03e5b2d6559f1fb25f1119f13282206dec04cdab46a138604515e440fb"
+    },
+    {
+      "byte_length": 2403,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-3986CF7CD284.md",
+      "role": "generated_artifact",
+      "sha256": "d71457e38028550bfa0152324a2a913e55d2b9ed8988ea663b217cd8ef94a1bf"
+    },
+    {
+      "byte_length": 2663,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-3B1FFA376D86.json",
+      "role": "generated_artifact",
+      "sha256": "a563677e0cdebc843f4b41c652528822b2a8f8739a3520f178e1c7d1a96e08ea"
+    },
+    {
+      "byte_length": 2438,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-3B1FFA376D86.md",
+      "role": "generated_artifact",
+      "sha256": "522a90a7c9f15ef92a967ddf0f73ba65e46dbd81205e074716122b8c1a95dcb9"
+    },
+    {
+      "byte_length": 2728,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-3B7BF3E13181.json",
+      "role": "generated_artifact",
+      "sha256": "854d6a044fa28bfdc83c078d04b2f7648423ff1580f07fd5a28c9577dc550d14"
+    },
+    {
+      "byte_length": 2532,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-3B7BF3E13181.md",
+      "role": "generated_artifact",
+      "sha256": "86e5d8e60e776b27b70c14aa6cc9ae3e40833d9a339eacd6dd9b07e3125b790a"
+    },
+    {
+      "byte_length": 2865,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-3BF85498DE6E.json",
+      "role": "generated_artifact",
+      "sha256": "65fa6ba34e32e94e7e6905dae9568f4c9499c3f0d73861def855502cf24e3f26"
+    },
+    {
+      "byte_length": 2638,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-3BF85498DE6E.md",
+      "role": "generated_artifact",
+      "sha256": "8c1994d776232dc6a130b7fa04795d08e949038136ba976c6237735436b66cc3"
+    },
+    {
+      "byte_length": 2648,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-3E86CFBD5843.json",
+      "role": "generated_artifact",
+      "sha256": "f4e551cbbc429526bba96c26fbb7acbe0b223d45c938678030ff0c4c624ddcf8"
+    },
+    {
+      "byte_length": 2417,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-3E86CFBD5843.md",
+      "role": "generated_artifact",
+      "sha256": "d56f1de61bd3a17d58ba654f621f8b4aac3e134acf39ecaa784e97ce25e16da9"
+    },
+    {
+      "byte_length": 2816,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-4200FBF761AE.json",
+      "role": "generated_artifact",
+      "sha256": "a903acdb34fad8faee61e256f3f08821ccc495bcfa113f23c53713c400722a45"
+    },
+    {
+      "byte_length": 2568,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-4200FBF761AE.md",
+      "role": "generated_artifact",
+      "sha256": "5e7ceff0838dc317729a6dd0967d3c8efd77f4eda9a8b019f2544d71c6e07d6d"
+    },
+    {
+      "byte_length": 2736,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-43153BCAAAB4.json",
+      "role": "generated_artifact",
+      "sha256": "fda11f594604ced9e3a41bc0f185bcb4a3a5006efcc1dfd9e0162376fbdf9a1b"
+    },
+    {
+      "byte_length": 2489,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-43153BCAAAB4.md",
+      "role": "generated_artifact",
+      "sha256": "1c3f995135dbf1f11ae099a370fbbca0cbe4690dd1bc85674578a912e4b37e41"
+    },
+    {
+      "byte_length": 2748,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-452D8EAF218C.json",
+      "role": "generated_artifact",
+      "sha256": "1dccdd493814d22eb457b707392909c0a39207c4c9a56932f2c610d5ca2ecfea"
+    },
+    {
+      "byte_length": 2557,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-452D8EAF218C.md",
+      "role": "generated_artifact",
+      "sha256": "ead6833323d606a4213f601df34a1f943866173c6f20751ba6a310c33a4475d4"
+    },
+    {
+      "byte_length": 2653,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-488CEB19AEF4.json",
+      "role": "generated_artifact",
+      "sha256": "667cd4c74318064bee575cbe9ab1bad94978fb7791544d6e0e7f9d3e43f65a7e"
+    },
+    {
+      "byte_length": 2424,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-488CEB19AEF4.md",
+      "role": "generated_artifact",
+      "sha256": "0f4e6c9114159d16d972e9f6d8938a97cbbc8d162d2d8c5cdef5a9f972740575"
+    },
+    {
+      "byte_length": 2856,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-48B185142F06.json",
+      "role": "generated_artifact",
+      "sha256": "47b15178f0ff27ead4512f17017280c542a8a3df157ef7fa1f971818a8167e53"
+    },
+    {
+      "byte_length": 2624,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-48B185142F06.md",
+      "role": "generated_artifact",
+      "sha256": "e9cd5686f5acd7120bc99fe0143a6297fced27445ca66050ddd9bcd7361509d3"
+    },
+    {
+      "byte_length": 2770,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-49B94941D03A.json",
+      "role": "generated_artifact",
+      "sha256": "fe6bb138d82a97a878a1d1ec122be1eb047f6c6e5b0dfa7016c3fa3cbde7f909"
+    },
+    {
+      "byte_length": 2555,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-49B94941D03A.md",
+      "role": "generated_artifact",
+      "sha256": "403c7bf427182da672a188ec6e185b915c08df5faeaeff4184fbd5df41ead156"
+    },
+    {
+      "byte_length": 2769,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-4A332C432AA6.json",
+      "role": "generated_artifact",
+      "sha256": "748502789aeb0d76dc0b3bb2d7014590269be10304d2c0283f540fcf49ad7739"
+    },
+    {
+      "byte_length": 2591,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-4A332C432AA6.md",
+      "role": "generated_artifact",
+      "sha256": "b00e24ecc5bc3df3213ff25f35b638d6af64b2ffc20eb5bed6a4a970a985e1e6"
+    },
+    {
+      "byte_length": 2725,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-4BC052924998.json",
+      "role": "generated_artifact",
+      "sha256": "d3eb17b2cffae06241bd1e8f23d399cc7db1843f42163edd19024ef012922e04"
+    },
+    {
+      "byte_length": 2526,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-4BC052924998.md",
+      "role": "generated_artifact",
+      "sha256": "92178ce0da4b0e953aa3852ce1a74ac9f1e7067fc76e4758fdebcc9140a2d2ef"
+    },
+    {
+      "byte_length": 2756,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-51A800151FD0.json",
+      "role": "generated_artifact",
+      "sha256": "6c6372af3ff9cca3334e3bd6da202d46bcf6a401164fa5b77a4fa8a51458d151"
+    },
+    {
+      "byte_length": 2564,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-51A800151FD0.md",
+      "role": "generated_artifact",
+      "sha256": "05b2aac64b22201b5c68b1603c6bd796002b6d3bc49f867b72928a98ca4e7264"
+    },
+    {
+      "byte_length": 2937,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-52D76F0A669B.json",
+      "role": "generated_artifact",
+      "sha256": "e4a413a6f1284b5e85b46a85a6f4101a3e83b74e473bee27d76fc1ca2f3ae248"
+    },
+    {
+      "byte_length": 2725,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-52D76F0A669B.md",
+      "role": "generated_artifact",
+      "sha256": "4f0e2cc933e60c07246724d32363119c1a414431081b18d1bc928893e84e1233"
+    },
+    {
+      "byte_length": 2678,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-55B2D7383C21.json",
+      "role": "generated_artifact",
+      "sha256": "ee356b1273ec9dcdbe9e8d9139feccdf05ce4ce17c32834c614ce2a4f308c158"
+    },
+    {
+      "byte_length": 2459,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-55B2D7383C21.md",
+      "role": "generated_artifact",
+      "sha256": "793ac71c68d3c61707d90c80b5955ce19bd7262a627cab06fd3eed50483e13d8"
+    },
+    {
+      "byte_length": 2668,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-5764519ABC6D.json",
+      "role": "generated_artifact",
+      "sha256": "6bca859f808bce1f52247c7b26669bb22f4a148b1c34c8b667f6ef0a212147dd"
+    },
+    {
+      "byte_length": 2445,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-5764519ABC6D.md",
+      "role": "generated_artifact",
+      "sha256": "45f9151c8d5f7f792c197bbfccef681d7f08dde97b86ec2e7ee8f207da1fe3b7"
+    },
+    {
+      "byte_length": 2738,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-5880D9022BF8.json",
+      "role": "generated_artifact",
+      "sha256": "4bda21eb4b2f433024f5cdb48335cf15c982e37e226110686c34acbc6492052a"
+    },
+    {
+      "byte_length": 2543,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-5880D9022BF8.md",
+      "role": "generated_artifact",
+      "sha256": "6a8a5951c17a6022fb88ff55b327c0f9315f68b308783222e87f276abaa48216"
+    },
+    {
+      "byte_length": 2826,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-5977824B8773.json",
+      "role": "generated_artifact",
+      "sha256": "f2100056f670f8cb4f92aebd7c1547c2e56797ce6725c9a8a7bdeaa892e69817"
+    },
+    {
+      "byte_length": 2582,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-5977824B8773.md",
+      "role": "generated_artifact",
+      "sha256": "68053fa9c580b5cee0564262de6041b2c1d747c7ac7c4ed36704f8a4dcef9d88"
+    },
+    {
+      "byte_length": 2852,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-5A9BDD5C0E6D.json",
+      "role": "generated_artifact",
+      "sha256": "99b7649fadc26929b9729edb4f95baec0afd1d899d69884c881dbe6ee326bc91"
+    },
+    {
+      "byte_length": 2661,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-5A9BDD5C0E6D.md",
+      "role": "generated_artifact",
+      "sha256": "bbd0f5c04937b055c8f8604845e497369e9f0037b9e9c274bf6882440f0946b1"
+    },
+    {
+      "byte_length": 2836,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-5B3A0512D2DC.json",
+      "role": "generated_artifact",
+      "sha256": "ec05cd260ff57fdab5b4d5d9e05fbe1950425129459328ef93e650123d9d1f73"
+    },
+    {
+      "byte_length": 2596,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-5B3A0512D2DC.md",
+      "role": "generated_artifact",
+      "sha256": "10945ee784a8ac866c9e550bc287448430c4a3308df92bd2bd2ce0bbb8e2a9e5"
+    },
+    {
+      "byte_length": 2678,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-5C4AC4ABFA79.json",
+      "role": "generated_artifact",
+      "sha256": "f4dbf10174b40cd90c000243ef0c7c2ad786bd45372cf3835510a2587dd190d7"
+    },
+    {
+      "byte_length": 2459,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-5C4AC4ABFA79.md",
+      "role": "generated_artifact",
+      "sha256": "619b6bf0b5ea95f460e67de55511cc3a825b2e73fdb69a594c2e944396992535"
+    },
+    {
+      "byte_length": 2817,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-5D594CA94EE4.json",
+      "role": "generated_artifact",
+      "sha256": "6ce71df8b41647c7417671749b6ef779957492578803af2bdcab716eb9a239b5"
+    },
+    {
+      "byte_length": 2601,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-5D594CA94EE4.md",
+      "role": "generated_artifact",
+      "sha256": "9dfbe4ae3d49af3940ad7f4dc3d6b906d9f9546992e560196230af098ba931de"
+    },
+    {
+      "byte_length": 2788,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-5D75710B645F.json",
+      "role": "generated_artifact",
+      "sha256": "b20fb009cf59c16163fcb75050a77b5872ee81d646f1de01e7cd3f4b9e085713"
+    },
+    {
+      "byte_length": 2553,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-5D75710B645F.md",
+      "role": "generated_artifact",
+      "sha256": "1f4b347bc09c5d30a21c4469be416f974d263441685bd7cd544c04b5d5d58867"
+    },
+    {
+      "byte_length": 2678,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-5E7EFB9AC325.json",
+      "role": "generated_artifact",
+      "sha256": "6d46672d24b3ad0e27c0749c617e4a03c6df1008986483032e1dfaba1bd82480"
+    },
+    {
+      "byte_length": 2459,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-5E7EFB9AC325.md",
+      "role": "generated_artifact",
+      "sha256": "fad67cc581a0d3e1eb5ff8c04e248e4b7c4738fae219bce52ef9b490536773a0"
+    },
+    {
+      "byte_length": 2668,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-5EE88D8F5840.json",
+      "role": "generated_artifact",
+      "sha256": "ba07d46199ae18d33b94948e3566dc810774b3064cccc96cbd77e8475c813570"
+    },
+    {
+      "byte_length": 2445,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-5EE88D8F5840.md",
+      "role": "generated_artifact",
+      "sha256": "8e6405f69a51d511a94e7b92d61f293991b77ce0d9204dfcd4a05912d6c70237"
+    },
+    {
+      "byte_length": 2663,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-5F631BE163EF.json",
+      "role": "generated_artifact",
+      "sha256": "d0835d96d596c7594c47b1d4b0a87b147f10106ca0bc89c9a65a7c8638e50cf7"
+    },
+    {
+      "byte_length": 2438,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-5F631BE163EF.md",
+      "role": "generated_artifact",
+      "sha256": "8533799b5a3061e07851a6f34e75a412759f75f267a4b6f917eb689b3dcd7f23"
+    },
+    {
+      "byte_length": 2708,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-60D34ABB4A6F.json",
+      "role": "generated_artifact",
+      "sha256": "0d3cb49d43808c231170df756cc724fe0cc739b959bf6d555d38f25a7c1c90e5"
+    },
+    {
+      "byte_length": 2501,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-60D34ABB4A6F.md",
+      "role": "generated_artifact",
+      "sha256": "fb0ad3343d0a4753e6b702fc0d2ef211843c8a7b4d012042d18b3c4595c04830"
+    },
+    {
+      "byte_length": 2847,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-65666B5E2596.json",
+      "role": "generated_artifact",
+      "sha256": "66f6d5a8f489aa17ddab88a28f84877ae30b709c2e721b9747d792040aa22a6c"
+    },
+    {
+      "byte_length": 2638,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-65666B5E2596.md",
+      "role": "generated_artifact",
+      "sha256": "00b7449e222003457d5af6b3d07051b5d493ac256bdabb934dca1f48d47ce0c4"
+    },
+    {
+      "byte_length": 2645,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-6587916DA9A3.json",
+      "role": "generated_artifact",
+      "sha256": "e29bc7688b2c8380ae8eb43bb31e0375a60dfa937a36d9722cbc4e8b4c0208e4"
+    },
+    {
+      "byte_length": 2415,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-6587916DA9A3.md",
+      "role": "generated_artifact",
+      "sha256": "3dbf0c91ebd87172cb5be7d3e39a92ca16842e1344d06a0d52901f06531480ec"
+    },
+    {
+      "byte_length": 2663,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-6601AA485376.json",
+      "role": "generated_artifact",
+      "sha256": "0a42f9d272858cc3a5fd83b16479c375a80b9bc856ae61cc70e45fa36cfdfe25"
+    },
+    {
+      "byte_length": 2438,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-6601AA485376.md",
+      "role": "generated_artifact",
+      "sha256": "c6dfa11d19804ebdfec3ccbffbe1b725dc0e86d31b3296346a0d7183e259d0bb"
+    },
+    {
+      "byte_length": 2822,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-664DBBAAC19E.json",
+      "role": "generated_artifact",
+      "sha256": "7a73c4b0b8f8ce036f4949fd05111f177dfc35403ded9eb0b9183bb499e93eeb"
+    },
+    {
+      "byte_length": 2578,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-664DBBAAC19E.md",
+      "role": "generated_artifact",
+      "sha256": "c7cc8cd31c587acec1896f7a3ccd0ad9db72af195647e30be12528bff581aac5"
+    },
+    {
+      "byte_length": 2632,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-69A71CA0AE62.json",
+      "role": "generated_artifact",
+      "sha256": "d7f9e46ed223e660d255bb39f7c50d1cf91bf412a91599c739728d7d6a8ceeeb"
+    },
+    {
+      "byte_length": 2401,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-69A71CA0AE62.md",
+      "role": "generated_artifact",
+      "sha256": "395f00a4e934040d79dd91d5f8252d0125cb87304da30f5637cebe3f2786ae0d"
+    },
+    {
+      "byte_length": 2688,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-6BDEE5276BB2.json",
+      "role": "generated_artifact",
+      "sha256": "c6c8f1b1d584e73f7c99c8b9774a08c85f91e07953567e0fbe84d31111d95d80"
+    },
+    {
+      "byte_length": 2473,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-6BDEE5276BB2.md",
+      "role": "generated_artifact",
+      "sha256": "d2fedf8c2699265efc0048dfec4a68b519ca9f12c4dcd10ed79feadc6bfbb2d9"
+    },
+    {
+      "byte_length": 2916,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-6EB4A44E51C3.json",
+      "role": "generated_artifact",
+      "sha256": "fe1dff51f319e7050ebfaf84361a45ec3b2cf20b9669fbb8be875e1b1592a6b6"
+    },
+    {
+      "byte_length": 2696,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-6EB4A44E51C3.md",
+      "role": "generated_artifact",
+      "sha256": "7fe78875669ca2d565a2cedbf1b7aac9e921a37a670dc03d67532283324f0e37"
+    },
+    {
+      "byte_length": 2782,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-710AD0512376.json",
+      "role": "generated_artifact",
+      "sha256": "6262ad5853f48cb02e6232a3134289f539c97605632e3ac3dd56549e55c89373"
+    },
+    {
+      "byte_length": 2552,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-710AD0512376.md",
+      "role": "generated_artifact",
+      "sha256": "54d7f7cc5ed1cc2a1adae5bc5eb0824d5cd35ffe49e293372b4ffaa7b8dcf4d5"
+    },
+    {
+      "byte_length": 2837,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-72354A193974.json",
+      "role": "generated_artifact",
+      "sha256": "a5fc71e5cdc954e4d267bdae67447ac920fe58a0fb0e44e9cc06aeb64eccb6ba"
+    },
+    {
+      "byte_length": 2629,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-72354A193974.md",
+      "role": "generated_artifact",
+      "sha256": "973d34faa68f1a4f20f965985a615b015c5e901cb5656c3bdb97cb2244e3ea0c"
+    },
+    {
+      "byte_length": 2668,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-73F80179B589.json",
+      "role": "generated_artifact",
+      "sha256": "9e8c073b982ee1717077dbfa5fab331739584c109b412aee465e9513c2c6d302"
+    },
+    {
+      "byte_length": 2445,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-73F80179B589.md",
+      "role": "generated_artifact",
+      "sha256": "914b8768c44dd312bb56cdaad48c8c641c56e7c72dc610d76539d45124b687d9"
+    },
+    {
+      "byte_length": 2801,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-74313BA8DA55.json",
+      "role": "generated_artifact",
+      "sha256": "ae99099f058776a749129a74201218627f0926b9b89d6bbbff1163c408b13b95"
+    },
+    {
+      "byte_length": 2577,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-74313BA8DA55.md",
+      "role": "generated_artifact",
+      "sha256": "a5a36839047463b0afd9ad96a796b3a413d239e6e37f498ac5b19d9d3cc66a2a"
+    },
+    {
+      "byte_length": 2772,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-76187AEE8567.json",
+      "role": "generated_artifact",
+      "sha256": "29e729372d730b74660e0e90ccc1cf4dbed29668e5235556e5ddf84ccb19b329"
+    },
+    {
+      "byte_length": 2602,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-76187AEE8567.md",
+      "role": "generated_artifact",
+      "sha256": "665e9592a618574955aa219a86be4a6322294e86ca4aa316a9cc5411d7716117"
+    },
+    {
+      "byte_length": 2808,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-7710B020EB08.json",
+      "role": "generated_artifact",
+      "sha256": "fa552d84d98e02047c324bad58691b4e6b4d9d09a4b04430ecce11f3e54c33ba"
+    },
+    {
+      "byte_length": 2586,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-7710B020EB08.md",
+      "role": "generated_artifact",
+      "sha256": "627f5869adbbbad3084f3164c8d4646db332b351cccec9da0cc22d90c86f7fa1"
+    },
+    {
+      "byte_length": 2798,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-7754F49AEC24.json",
+      "role": "generated_artifact",
+      "sha256": "fe6ebf04234ad21516fceb89fe8231f92b14600bc07f6ec76eb6f5267af0d5cd"
+    },
+    {
+      "byte_length": 2567,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-7754F49AEC24.md",
+      "role": "generated_artifact",
+      "sha256": "6fc43319f3fdee9d850656c404f31aa29b50fa71a246e2bbf224407e0d36da06"
+    },
+    {
+      "byte_length": 2686,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-7A6C9B99379B.json",
+      "role": "generated_artifact",
+      "sha256": "8b5664feeb2a68c42ab525702898169c306fec6b9c7b4380498ac3a72fb237bb"
+    },
+    {
+      "byte_length": 2460,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-7A6C9B99379B.md",
+      "role": "generated_artifact",
+      "sha256": "e94614b1241cd4f69d7ff73eb3f03e65cb0b3d0207c28c4c5d62257e939a7530"
+    },
+    {
+      "byte_length": 2790,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-7B9E78D159B8.json",
+      "role": "generated_artifact",
+      "sha256": "7f72a693401d7751c89ce5e45ea85396ad742d04f9a6b1a66162e149832446f5"
+    },
+    {
+      "byte_length": 2583,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-7B9E78D159B8.md",
+      "role": "generated_artifact",
+      "sha256": "c81e68b7279122ad010149ef6477abbdb74e1d2a5da4bbd3845d4696697b281c"
+    },
+    {
+      "byte_length": 2841,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-7CFBEA0D5F6F.json",
+      "role": "generated_artifact",
+      "sha256": "50515437fd277e98deb450fd517b84d843ebc9ce3c73ed7d2686cc21b8a3865c"
+    },
+    {
+      "byte_length": 2603,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-7CFBEA0D5F6F.md",
+      "role": "generated_artifact",
+      "sha256": "0ef927436a97ed2660921b1a58dc5061f7af3103719aebe7c210def54df1b6e0"
+    },
+    {
+      "byte_length": 2703,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-7FF0175A34FA.json",
+      "role": "generated_artifact",
+      "sha256": "2274fdd778d61650d793d15091eedcdd76a5fcc78c7247ec895cd28a7d02274e"
+    },
+    {
+      "byte_length": 2494,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-7FF0175A34FA.md",
+      "role": "generated_artifact",
+      "sha256": "fa45859cd486432d72df5dcc6835bbcf59bbd7d7a08920369ca1e899e4ae1fa6"
+    },
+    {
+      "byte_length": 2919,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-8175A2146398.json",
+      "role": "generated_artifact",
+      "sha256": "2c457ec0654138cda3331731a07d11995d50231b84019afee5b54b73430e57e6"
+    },
+    {
+      "byte_length": 2701,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-8175A2146398.md",
+      "role": "generated_artifact",
+      "sha256": "ec31040ad06240c38f6b9a61530e2e20f3502929341575f2de0f09cff598ff1f"
+    },
+    {
+      "byte_length": 2696,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-8276E0E3CC40.json",
+      "role": "generated_artifact",
+      "sha256": "cfa321238cf65fb826f9c41dee8b0e0ebd4c674b0d432214243d1a44fd29c754"
+    },
+    {
+      "byte_length": 2485,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-8276E0E3CC40.md",
+      "role": "generated_artifact",
+      "sha256": "3ecb5770c505aaf9714ffd6c530833ebdbcc4e10ad3eff46e50caac6ed453d02"
+    },
+    {
+      "byte_length": 2715,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-82F7823D3376.json",
+      "role": "generated_artifact",
+      "sha256": "5cc2dbaece4cf7db7367501e71f4cba9a104e8da8022ab9a9e24c5ef98284b99"
+    },
+    {
+      "byte_length": 2513,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-82F7823D3376.md",
+      "role": "generated_artifact",
+      "sha256": "9e9d6535c3b21d0ae712213adca4bc508cb581e7d141eaef4056c30bc10c69b3"
+    },
+    {
+      "byte_length": 2846,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-844EBE47D3D0.json",
+      "role": "generated_artifact",
+      "sha256": "0b1db87856891e44fe4d3d3b116425ec7d67c6101e5eae13d5a1618fe92b7f52"
+    },
+    {
+      "byte_length": 2610,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-844EBE47D3D0.md",
+      "role": "generated_artifact",
+      "sha256": "29906bb0b20e87cca6f68b2a7d130a3bc96d5f1d87702a6d4c9baec09cb7aa1c"
+    },
+    {
+      "byte_length": 2912,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-848EE9C2D592.json",
+      "role": "generated_artifact",
+      "sha256": "f3483c36762906d81b97348dcf76870eb61ac5213aad8a700042419d3dab928c"
+    },
+    {
+      "byte_length": 2690,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-848EE9C2D592.md",
+      "role": "generated_artifact",
+      "sha256": "45569157806f71b05cc8be2f200fab20912ec3a7dffb9b771f1fdf50e157edb1"
+    },
+    {
+      "byte_length": 2828,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-8558DA047D6C.json",
+      "role": "generated_artifact",
+      "sha256": "dc5453f86f2381228314f81319248cef07ae072b43781ca30955b2a8e90a595d"
+    },
+    {
+      "byte_length": 2624,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-8558DA047D6C.md",
+      "role": "generated_artifact",
+      "sha256": "7af2e4262cd859d27ab9dda1d790660c22374649c47e23da4467f4e244426aac"
+    },
+    {
+      "byte_length": 2828,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-856E215CC1D8.json",
+      "role": "generated_artifact",
+      "sha256": "ee1f0a9ff13a17e4fb071257c2b040fa6025ebb8fd952fd97c904f5ab7f793b9"
+    },
+    {
+      "byte_length": 2619,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-856E215CC1D8.md",
+      "role": "generated_artifact",
+      "sha256": "49a3c976e3025edd4469e20929a2019edaa8e40b166fdb414d568be7f7091eae"
+    },
+    {
+      "byte_length": 2726,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-85B759A29E0D.json",
+      "role": "generated_artifact",
+      "sha256": "caf864de916c4302170b696424f0b806590683aae1fd7a8741030f8870c18b49"
+    },
+    {
+      "byte_length": 2496,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-85B759A29E0D.md",
+      "role": "generated_artifact",
+      "sha256": "5612edbd74116a36d6d945843109cb8a04d2a597e80441f651dcfa59fdad3458"
+    },
+    {
+      "byte_length": 2738,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-86CBE1DB6618.json",
+      "role": "generated_artifact",
+      "sha256": "f2c911a6fed2e6cde90edac2416a168a8d0493e843224b8200b1409753001580"
+    },
+    {
+      "byte_length": 2543,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-86CBE1DB6618.md",
+      "role": "generated_artifact",
+      "sha256": "9b9dfb1475356f17ddf1438084e9c3aa842db68e4a4334eb883a70626286ded4"
+    },
+    {
+      "byte_length": 2766,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-878DC11DDCFC.json",
+      "role": "generated_artifact",
+      "sha256": "d10d1a2b8332ee637864f473daee2fe22976bc3f7e85bfa39b3d1a776192002e"
+    },
+    {
+      "byte_length": 2533,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-878DC11DDCFC.md",
+      "role": "generated_artifact",
+      "sha256": "b4ccb2e625dc66138d5d52ee3467bd42e4fc9b9ac254a4f31e806c14ce8b9c5d"
+    },
+    {
+      "byte_length": 2755,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-8AEB99693040.json",
+      "role": "generated_artifact",
+      "sha256": "520c65a9865584952fb5208f8c3f816fb252f68a70cbe4a7fc63ca7d8d51ed83"
+    },
+    {
+      "byte_length": 2572,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-8AEB99693040.md",
+      "role": "generated_artifact",
+      "sha256": "e522a6e85d078178ad33198001340bd2c1036938e15a67aa6a9bfc3bf9c4081d"
+    },
+    {
+      "byte_length": 2841,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-8B5A7E42DC82.json",
+      "role": "generated_artifact",
+      "sha256": "9b939be399acd1a9d25f2e1a637bd284ead9719847e0d4dbafc95e34b61dbafc"
+    },
+    {
+      "byte_length": 2603,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-8B5A7E42DC82.md",
+      "role": "generated_artifact",
+      "sha256": "92545fa96fbeb25f56244bd9a8548c74414e8913755a432e2cebf7dafb9a38ab"
+    },
+    {
+      "byte_length": 2748,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-8C3E0FE8F54B.json",
+      "role": "generated_artifact",
+      "sha256": "8c875aa055ee80ed354eff80b604c2c1b9312cb98600d154be0b34b905165179"
+    },
+    {
+      "byte_length": 2555,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-8C3E0FE8F54B.md",
+      "role": "generated_artifact",
+      "sha256": "c32d5e1590925378619504ce044257c64d607e54191da296818c442d1f3b0bc5"
+    },
+    {
+      "byte_length": 2806,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-8DD7888FBCF1.json",
+      "role": "generated_artifact",
+      "sha256": "69b7d33820826debf8dfe60c2827209a935e3303654dea5d290920df1b39982d"
+    },
+    {
+      "byte_length": 2554,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-8DD7888FBCF1.md",
+      "role": "generated_artifact",
+      "sha256": "5653e8e93162a76736d4a6584b0cb8fa798e6ca2bc585d2eed8a7a4875b0a9aa"
+    },
+    {
+      "byte_length": 2901,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-903DDE6CC343.json",
+      "role": "generated_artifact",
+      "sha256": "68851f9b96c8da263e1b987e137c47473010610239807bd615b02abace5f90e6"
+    },
+    {
+      "byte_length": 2675,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-903DDE6CC343.md",
+      "role": "generated_artifact",
+      "sha256": "489dfd8ab7bde2719c6a6ed856e3c17280659cd6e50551eaf814e6070b624228"
+    },
+    {
+      "byte_length": 2731,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-913175FCE257.json",
+      "role": "generated_artifact",
+      "sha256": "1b6c8eb2275398f5249b8df61679c3e0f899e66720434ab2c0c86e1129480e15"
+    },
+    {
+      "byte_length": 2530,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-913175FCE257.md",
+      "role": "generated_artifact",
+      "sha256": "63d51ba738cb7b6bd8d31bd21448c0c500e87b36f4258a789143e0cb85ef034a"
+    },
+    {
+      "byte_length": 2742,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-943D10FD066B.json",
+      "role": "generated_artifact",
+      "sha256": "c7bed3a6ec9a0bdfb9a5a5af06121470a1d8506c5ad692108275f7bced1b254e"
+    },
+    {
+      "byte_length": 2517,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-943D10FD066B.md",
+      "role": "generated_artifact",
+      "sha256": "43d49f335a7337fd534277824e21106ed49cc2e82a4e0cb3bc4bc5c6421b19d8"
+    },
+    {
+      "byte_length": 2861,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-945FE9D36802.json",
+      "role": "generated_artifact",
+      "sha256": "8a2cfa116309b554b614b6fa1b49e00c444095bdab060c33fe5891b33ca52e42"
+    },
+    {
+      "byte_length": 2658,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-945FE9D36802.md",
+      "role": "generated_artifact",
+      "sha256": "11826679521ab3506fa05633e5c67cda5bbb24f376db244a769708be88fa065e"
+    },
+    {
+      "byte_length": 2678,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-953F4BB63B9B.json",
+      "role": "generated_artifact",
+      "sha256": "569babf53fde7cdd199a9a794b0f8b1e650851e9d151532662c5f7d42f1ca154"
+    },
+    {
+      "byte_length": 2459,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-953F4BB63B9B.md",
+      "role": "generated_artifact",
+      "sha256": "4d194b01d1220a6be038bc622fcb7813a4a33bc1846025cc5b48bd4a3ea62571"
+    },
+    {
+      "byte_length": 2902,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-969E9BF2B61C.json",
+      "role": "generated_artifact",
+      "sha256": "ac4274ed04f537e345895285be99b6bd854fe689910985ce034fa89951ec1bb9"
+    },
+    {
+      "byte_length": 2676,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-969E9BF2B61C.md",
+      "role": "generated_artifact",
+      "sha256": "ab66ad6ee882162f4a8f37042d316ad69097e6a3d88b21aa433ef6c269bcfe46"
+    },
+    {
+      "byte_length": 2683,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-983E376BF558.json",
+      "role": "generated_artifact",
+      "sha256": "041a47421faecfc28b5eb06957a172b002ab6812034bc117ad277647cdb0caf1"
+    },
+    {
+      "byte_length": 2466,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-983E376BF558.md",
+      "role": "generated_artifact",
+      "sha256": "bd36ad16858424e6429dde48372c7fe6980517081c6bdab49795269c9397b4e4"
+    },
+    {
+      "byte_length": 2789,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-995DBA1751D3.json",
+      "role": "generated_artifact",
+      "sha256": "52cd7ae909cd68c3f89835288f7eee0ded06966f4501d4f326b9051663a0015c"
+    },
+    {
+      "byte_length": 2559,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-995DBA1751D3.md",
+      "role": "generated_artifact",
+      "sha256": "4da4f08dbf38bd7aa728ca627a84bc9a94389864884b6d70a5fc0751f1824db0"
+    },
+    {
+      "byte_length": 2702,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-99F2E2B31334.json",
+      "role": "generated_artifact",
+      "sha256": "c26ee519841bd0a6ba3f360c6670a8dea1027f10589b7eb73c32475f44bcd365"
+    },
+    {
+      "byte_length": 2461,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-99F2E2B31334.md",
+      "role": "generated_artifact",
+      "sha256": "c75289540a20d96e4a86af6e05fd231b69306220cb7e3a9ece47573c9d86d99f"
+    },
+    {
+      "byte_length": 2811,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-99F50493C3A6.json",
+      "role": "generated_artifact",
+      "sha256": "cb81b5102c30c1ca9817fc68010578d427eb770f10d991bdb96c03c49360760a"
+    },
+    {
+      "byte_length": 2561,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-99F50493C3A6.md",
+      "role": "generated_artifact",
+      "sha256": "a93c790ce09b1852b0fcc2147a6b0df8ce312ffe9af02b65d90f52657a9a3ba3"
+    },
+    {
+      "byte_length": 2860,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-9A2489C393EE.json",
+      "role": "generated_artifact",
+      "sha256": "602406db97fb3e967bfa2ecaf636d7cbaf0c85bb6d544f6170b3feb32ad2936a"
+    },
+    {
+      "byte_length": 2651,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-9A2489C393EE.md",
+      "role": "generated_artifact",
+      "sha256": "67fff5bd503ece85dfeb7271b8c3460a159fbde9da673a2c7b032d7466fa7564"
+    },
+    {
+      "byte_length": 2827,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-9D8DF1900466.json",
+      "role": "generated_artifact",
+      "sha256": "43a8c818a8a25e30b1f082bf43d1f48409fc3b3f64b1fdaf5153122e59011b4f"
+    },
+    {
+      "byte_length": 2621,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-9D8DF1900466.md",
+      "role": "generated_artifact",
+      "sha256": "47b678d5c9d7eee14defac82a13e2fa59bafc5c6b10b55874c392e8ac163685d"
+    },
+    {
+      "byte_length": 2931,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-9FCB5FCF4695.json",
+      "role": "generated_artifact",
+      "sha256": "288fdb5ac3157506382cf3c081dbbf40a5209db3a3cb104918b8c04c2aa7879c"
+    },
+    {
+      "byte_length": 2717,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-9FCB5FCF4695.md",
+      "role": "generated_artifact",
+      "sha256": "4ab2dbff314a3e1682b69d8d5638038e6b89fc70bb3aedbe1686c8ba7dd40bd9"
+    },
+    {
+      "byte_length": 2724,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-9FCEB4919A4E.json",
+      "role": "generated_artifact",
+      "sha256": "d4af5760e6c486d2474fe0971b9e9910ab0ff6ef035d9ea5a8001ef10a3add56"
+    },
+    {
+      "byte_length": 2494,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-9FCEB4919A4E.md",
+      "role": "generated_artifact",
+      "sha256": "410b212d87f5f6227df3946f9641f45f3d2beb055c1b38da9b44d9187086ed2a"
+    },
+    {
+      "byte_length": 2736,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-9FE1D43A80CC.json",
+      "role": "generated_artifact",
+      "sha256": "0fb6b0c8b8af61081d5383e25886b8c1261bd33cdfa71a21cd978a9c0c274bcd"
+    },
+    {
+      "byte_length": 2489,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-9FE1D43A80CC.md",
+      "role": "generated_artifact",
+      "sha256": "752d6d9850e343d0254cdf89396efca3799cff142ddc3976c23245fd9fc76f96"
+    },
+    {
+      "byte_length": 2907,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-A06936FF5B9D.json",
+      "role": "generated_artifact",
+      "sha256": "c061d069e48d9833179083eb1ffd2365178baeb144bb7ed5f9c4588d0f0c0e70"
+    },
+    {
+      "byte_length": 2683,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-A06936FF5B9D.md",
+      "role": "generated_artifact",
+      "sha256": "66e6aece799434ee807d8a997985e93ef1bce335f7e66fe19c7065dc51236579"
+    },
+    {
+      "byte_length": 2855,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-A0845D10E05E.json",
+      "role": "generated_artifact",
+      "sha256": "d4663f57af10b55a91a849451d0b4cbc562c944e4506a377da868f12ae475d60"
+    },
+    {
+      "byte_length": 2624,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-A0845D10E05E.md",
+      "role": "generated_artifact",
+      "sha256": "66452aa076d6bcbe6f7d2c49dcef9c45cf9bd07bc6b4d5dddcde9de1096196ef"
+    },
+    {
+      "byte_length": 2841,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-A15B533717E6.json",
+      "role": "generated_artifact",
+      "sha256": "42956f3968da1cf4fa076c9edf3b6b3894efc155503df30b79567f2cebd24105"
+    },
+    {
+      "byte_length": 2603,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-A15B533717E6.md",
+      "role": "generated_artifact",
+      "sha256": "79b4354c422fa679627e25d0961c7f477978dff1303422cdd42b96cb8d56432f"
+    },
+    {
+      "byte_length": 2836,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-A428C9C25129.json",
+      "role": "generated_artifact",
+      "sha256": "65e5d0a7d8540f65a7701635ac8d207bea1580e6f092a7da5f7c809b9ab2b690"
+    },
+    {
+      "byte_length": 2596,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-A428C9C25129.md",
+      "role": "generated_artifact",
+      "sha256": "3da15dfaeafea006cbcbd13b178e13347f21c78eaece705faaddd611a86d40b6"
+    },
+    {
+      "byte_length": 2637,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-A68BBD3B7E33.json",
+      "role": "generated_artifact",
+      "sha256": "7a71c788c24338f6e2252bc8c7a5705329661ed6351c93d070167d53e11df82a"
+    },
+    {
+      "byte_length": 2403,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-A68BBD3B7E33.md",
+      "role": "generated_artifact",
+      "sha256": "d64a81ec7752b2998c3fa29b8de376e702cf8412974a57bbfb321e2cdab505d2"
+    },
+    {
+      "byte_length": 2846,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-A7966C4848B4.json",
+      "role": "generated_artifact",
+      "sha256": "b1d34d313f5864acde82c4c26e0a16baaa376318a250944a4f64f5318e670d20"
+    },
+    {
+      "byte_length": 2610,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-A7966C4848B4.md",
+      "role": "generated_artifact",
+      "sha256": "1ebda0b939c6d6cd687b0176ffb961ec2564d9fc5f14da912fcec329e4ae0c75"
+    },
+    {
+      "byte_length": 2806,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-A90644B7FD07.json",
+      "role": "generated_artifact",
+      "sha256": "dd5600127aadda62fad9dc2e32c14221f9d29b273cf88901308cdf978e5c9485"
+    },
+    {
+      "byte_length": 2554,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-A90644B7FD07.md",
+      "role": "generated_artifact",
+      "sha256": "78ed54fdacaaba86fa6e41f4bb1c80f49cf6c79afc1eb4b7b8628a718851f09b"
+    },
+    {
+      "byte_length": 2668,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-A9214C438F16.json",
+      "role": "generated_artifact",
+      "sha256": "13682ba74acca930ec8a12465ba1a55efed437aaf7b1ff2df94c87b1fe75f796"
+    },
+    {
+      "byte_length": 2445,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-A9214C438F16.md",
+      "role": "generated_artifact",
+      "sha256": "3205320de5ed68e2b8e1712f0bdc752eb2c72a0215290459df1b0030a9d71f8e"
+    },
+    {
+      "byte_length": 2632,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-AA53534B07B9.json",
+      "role": "generated_artifact",
+      "sha256": "9b902f1b3af86e114df1814b7d0d06000362238482c22f1a9bcbae87fe18087e"
+    },
+    {
+      "byte_length": 2396,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-AA53534B07B9.md",
+      "role": "generated_artifact",
+      "sha256": "0f6d145d3fe17d37515193a909b4773acad60cbc1f15af1330f4144f7b7827e2"
+    },
+    {
+      "byte_length": 2770,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-AADDF0EE5282.json",
+      "role": "generated_artifact",
+      "sha256": "de818bf9cc1495a47a203a89d845aa5247a750b130000eb1d146bc7a1d32e145"
+    },
+    {
+      "byte_length": 2504,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-AADDF0EE5282.md",
+      "role": "generated_artifact",
+      "sha256": "043687d35de248b971924ca80e70b743e125fc67dc58558fb61ee99bac837fbb"
+    },
+    {
+      "byte_length": 2818,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-AB2FD997D939.json",
+      "role": "generated_artifact",
+      "sha256": "ac5b24cd09beac103cdadd09b9ee5a752fb72fca7ac11935b0e97075f322d089"
+    },
+    {
+      "byte_length": 2573,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-AB2FD997D939.md",
+      "role": "generated_artifact",
+      "sha256": "45b4a74e05bae3d5087d5e1c8b452b7930e28f3782670d4bcb85a6b3c62dd9e1"
+    },
+    {
+      "byte_length": 2822,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-AB5F61891ED2.json",
+      "role": "generated_artifact",
+      "sha256": "03e15dbace5d3d035a7845a481d0d09d7c99c97cc54327fcd56f79daeb4688dd"
+    },
+    {
+      "byte_length": 2662,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-AB5F61891ED2.md",
+      "role": "generated_artifact",
+      "sha256": "2430ac4243cca9a28452f834048d9b0a70b7eee73b8e5b5e271f29520e04bafe"
+    },
+    {
+      "byte_length": 2688,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-AC245B0847A6.json",
+      "role": "generated_artifact",
+      "sha256": "2b81d73b14aa3cd0cb2bcd60f18b1a08983152286b5136aa0b179b1b6e4d9d2b"
+    },
+    {
+      "byte_length": 2473,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-AC245B0847A6.md",
+      "role": "generated_artifact",
+      "sha256": "0fb446c1d65b974a73d9c1f2f26d402d3786629aea4e848e109c5dcc0f53b375"
+    },
+    {
+      "byte_length": 2921,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-AC8DFE792FF8.json",
+      "role": "generated_artifact",
+      "sha256": "383640e0e760a7480c9438a115afadef5d0b5a72bd49228799965c716dc9afa2"
+    },
+    {
+      "byte_length": 2703,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-AC8DFE792FF8.md",
+      "role": "generated_artifact",
+      "sha256": "e97a1c089cdbe0ba8f70cc93cbd3e09550bb803576a93d593c84844ea3c44645"
+    },
+    {
+      "byte_length": 2658,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-ACFEC1267DBD.json",
+      "role": "generated_artifact",
+      "sha256": "5c49d59c2edb5a96162ede9800c18a462a743bcaede4ac55bcc5d1ebaaf8bf9a"
+    },
+    {
+      "byte_length": 2431,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-ACFEC1267DBD.md",
+      "role": "generated_artifact",
+      "sha256": "887dad12c68229245282359b1d61d68348c654797bb1740ee8ab96fc55cf527a"
+    },
+    {
+      "byte_length": 2663,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-AED0E08C9EDD.json",
+      "role": "generated_artifact",
+      "sha256": "5a96837dad2ea790ea84cbba9a152830f9253af24456eab78829086bd3559f46"
+    },
+    {
+      "byte_length": 2438,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-AED0E08C9EDD.md",
+      "role": "generated_artifact",
+      "sha256": "f06f539eab1db07ffde3c3531300c19588f6b6e4411ea298169fb8ac6c76e3fa"
+    },
+    {
+      "byte_length": 2751,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-AEDDE1ED5CB4.json",
+      "role": "generated_artifact",
+      "sha256": "20dcdaaab76cc87e0e41a457d461c1adefddd6c1854c470bc8acc63a5ef7f8e7"
+    },
+    {
+      "byte_length": 2563,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-AEDDE1ED5CB4.md",
+      "role": "generated_artifact",
+      "sha256": "4ed743f4eb0d00d8480994b2a6459f6093ae3e74c3fbabfdacf66e355729a55d"
+    },
+    {
+      "byte_length": 2663,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-AF961E2908AE.json",
+      "role": "generated_artifact",
+      "sha256": "3a6543a16e86403bbd551d977797126a8213af957099005144598d999a8a08cd"
+    },
+    {
+      "byte_length": 2438,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-AF961E2908AE.md",
+      "role": "generated_artifact",
+      "sha256": "64e930e309bcc8df63f0b56557dfe718155514b5a0aad0cc91d70375dd824d9d"
+    },
+    {
+      "byte_length": 2902,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-B11EDF412766.json",
+      "role": "generated_artifact",
+      "sha256": "02c46a0f1d780c99fc3b6f819e92875a09c4684f17ac8ef76dd46f022542e0b6"
+    },
+    {
+      "byte_length": 2676,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-B11EDF412766.md",
+      "role": "generated_artifact",
+      "sha256": "2fb9f0ca71409f66852ddebb783f8bac7e9e901eaa050eb367ddb2565761373f"
+    },
+    {
+      "byte_length": 2698,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-B73D0D961F02.json",
+      "role": "generated_artifact",
+      "sha256": "50761065f4c7b9cb0705bae72a90832f12f62d24d1b528781a9ef55cd46efd4e"
+    },
+    {
+      "byte_length": 2487,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-B73D0D961F02.md",
+      "role": "generated_artifact",
+      "sha256": "152e2e7f864c72486e07c0ee7f0d1c467bb8f74b94566b2dd2a72f1846280941"
+    },
+    {
+      "byte_length": 2779,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-B8065D8C58BF.json",
+      "role": "generated_artifact",
+      "sha256": "edbe8d6ff13c39b9d6752a48b1786d791dec3899be9df88b645419c1cc3977e1"
+    },
+    {
+      "byte_length": 2608,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-B8065D8C58BF.md",
+      "role": "generated_artifact",
+      "sha256": "c4147b8a40aa42ea116139572da693f2b22774ff3cc70a2bc7c63df664347ce8"
+    },
+    {
+      "byte_length": 2748,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-B84CF1EEE634.json",
+      "role": "generated_artifact",
+      "sha256": "bd39384a5c03815aaccb87c15cae40b60a3d33be19827e3cf6beaaa0e6c96573"
+    },
+    {
+      "byte_length": 2557,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-B84CF1EEE634.md",
+      "role": "generated_artifact",
+      "sha256": "ed988549f15dccb3065c256b7306c9f862a2d9d3c8efd0923ed98c0a9f9a5ce2"
+    },
+    {
+      "byte_length": 2728,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-BA1419F839E2.json",
+      "role": "generated_artifact",
+      "sha256": "b7c6304e9068023cb5169ae5e8d816c1c4d15dba137a55f55d9f7baa04fea70b"
+    },
+    {
+      "byte_length": 2529,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-BA1419F839E2.md",
+      "role": "generated_artifact",
+      "sha256": "f8624c82becea2de77ca4c24b789deb52a393475697410082102d4840a592d10"
+    },
+    {
+      "byte_length": 2797,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-BA2CF02ADDF6.json",
+      "role": "generated_artifact",
+      "sha256": "713bbd6c82f9c0c15bbe15b82148e6f20b7f3789ca7a2c6cf3294ebd762ed392"
+    },
+    {
+      "byte_length": 2573,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-BA2CF02ADDF6.md",
+      "role": "generated_artifact",
+      "sha256": "5bb13026ab8a5cfb011cd8286a884f77deebc998b4632755dbf7315e082d9336"
+    },
+    {
+      "byte_length": 2696,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-BBE6DEA58542.json",
+      "role": "generated_artifact",
+      "sha256": "57e8e57aa9d91341d9666ca45859b1e55d4756d2f592cc91c9f079f5185b0528"
+    },
+    {
+      "byte_length": 2485,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-BBE6DEA58542.md",
+      "role": "generated_artifact",
+      "sha256": "87009d99feca8dc1d0860468c988866846fad8464903d6c326c0d3fd69f4b58a"
+    },
+    {
+      "byte_length": 2663,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-BC946225FC7A.json",
+      "role": "generated_artifact",
+      "sha256": "10cf97d4ea85d5f6e5f0bfd0148f4d2f3c47cc319a89b92f46b4d85a4ea02b31"
+    },
+    {
+      "byte_length": 2438,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-BC946225FC7A.md",
+      "role": "generated_artifact",
+      "sha256": "7d9eebfe8ac8a340a670b57d027e86845089609a52865b421fb0d84f683fc731"
+    },
+    {
+      "byte_length": 2850,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-BCCCB1B208C0.json",
+      "role": "generated_artifact",
+      "sha256": "b350838706ac3efe37a9b13cc1bb2475ce375b0c07974eae0661269e7531a9c8"
+    },
+    {
+      "byte_length": 2647,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-BCCCB1B208C0.md",
+      "role": "generated_artifact",
+      "sha256": "31f9aef4079c030501faf8ccee880ec2d969f5f302f8d5cc76e6c84d167b888c"
+    },
+    {
+      "byte_length": 2633,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-BD1B08161408.json",
+      "role": "generated_artifact",
+      "sha256": "a7d6979d925234bf4143bab3c8338985b08775b41e63f17869e046ea66b17bd0"
+    },
+    {
+      "byte_length": 2396,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-BD1B08161408.md",
+      "role": "generated_artifact",
+      "sha256": "61535725d0257dacaa23fafe20710b32d5e9314ee9e1ff9b76f8bfd48763ee2e"
+    },
+    {
+      "byte_length": 2710,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-BD2B07EE2B1E.json",
+      "role": "generated_artifact",
+      "sha256": "355410db8431c4e54a0aab2b7ff81810b993bc5b309b64b787ca6f4791016cd6"
+    },
+    {
+      "byte_length": 2500,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-BD2B07EE2B1E.md",
+      "role": "generated_artifact",
+      "sha256": "cefc89f27d7202a889066fbf9246e7d40ebd9a0501e9ec91bfd8cf86ea4cc2e0"
+    },
+    {
+      "byte_length": 2821,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-BDA1A33EED93.json",
+      "role": "generated_artifact",
+      "sha256": "256d6e7493d8a14e3ef984300a8d75c660ce900c2fb47d6347057bc018e9b122"
+    },
+    {
+      "byte_length": 2575,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-BDA1A33EED93.md",
+      "role": "generated_artifact",
+      "sha256": "c68f9089aab013e7936de1d97210ca0acdd374f565f61aed874ef6bb19d693c8"
+    },
+    {
+      "byte_length": 2908,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-BEEB7199FF7A.json",
+      "role": "generated_artifact",
+      "sha256": "42aac8a0394d70081052ebae58a38c0a1c8fe02b4c77f5d55a756851189d5f3d"
+    },
+    {
+      "byte_length": 2729,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-BEEB7199FF7A.md",
+      "role": "generated_artifact",
+      "sha256": "b78bd98b7249cb2dd97eb7e3923eadb6d23783042658bb2a72abf7ab216ed1b2"
+    },
+    {
+      "byte_length": 2678,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-C0AC3229BE0B.json",
+      "role": "generated_artifact",
+      "sha256": "a06481e4a08c9faeae6304e28a46a3847d0512057c93ba93b77d7007f641634d"
+    },
+    {
+      "byte_length": 2459,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-C0AC3229BE0B.md",
+      "role": "generated_artifact",
+      "sha256": "fd5fe2670dc4a4b7de3ab7407c14666582c217f4ab9d23a031a84f932154e8cd"
+    },
+    {
+      "byte_length": 2777,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-C0EADF31C579.json",
+      "role": "generated_artifact",
+      "sha256": "e0b43717b80babce2d8b80bbcfcfec4374930cd0d925f27d52463777797c7d62"
+    },
+    {
+      "byte_length": 2596,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-C0EADF31C579.md",
+      "role": "generated_artifact",
+      "sha256": "64b5a54dd4b0aa371b4c8052dea817727441ad420887448e9e4aab15e3f11422"
+    },
+    {
+      "byte_length": 2831,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-C0F1F2F53B8C.json",
+      "role": "generated_artifact",
+      "sha256": "601cd7f66235db72b195c5db338936122f604161663b293cbb40e9215e50a8d1"
+    },
+    {
+      "byte_length": 2631,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-C0F1F2F53B8C.md",
+      "role": "generated_artifact",
+      "sha256": "9f70f4223249e3e56d90aacedb7a490c5e6b6e10afa8adfef1058f35b44f7542"
+    },
+    {
+      "byte_length": 2733,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-C19AA7B8912B.json",
+      "role": "generated_artifact",
+      "sha256": "1325aa2092da6fbe0bf4431dd0f03e779f4a9f34765683a72e594858b3ed2b84"
+    },
+    {
+      "byte_length": 2506,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-C19AA7B8912B.md",
+      "role": "generated_artifact",
+      "sha256": "9650f1c58d373cd1a737724c1014da474d2badbef52a57e653efa58dd2f9e56d"
+    },
+    {
+      "byte_length": 2757,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-C345AEBBD4A7.json",
+      "role": "generated_artifact",
+      "sha256": "af922fbffe312a06964057ad6c9ac81a33ad9146e16ea6a855cde03f583909fa"
+    },
+    {
+      "byte_length": 2537,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-C345AEBBD4A7.md",
+      "role": "generated_artifact",
+      "sha256": "b84b79278e043a926a96b3f20514bc36ae2819cb9d0e29fb1198dca4f72ce79f"
+    },
+    {
+      "byte_length": 2860,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-C4B33E06F94F.json",
+      "role": "generated_artifact",
+      "sha256": "78ed8c14c850da4248045ce4bd5cdaa7ea0dc4c125a144510c45d192c71e58e7"
+    },
+    {
+      "byte_length": 2655,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-C4B33E06F94F.md",
+      "role": "generated_artifact",
+      "sha256": "4919c445bd57237736b65a9a652a57216af8c6feba571f9f79b5f7e1f8a2a294"
+    },
+    {
+      "byte_length": 2766,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-C57BAD3B0897.json",
+      "role": "generated_artifact",
+      "sha256": "8fd834110c232c3fea095c351e9ce7a834b9b217eef02b1cc54428b094b3d3ae"
+    },
+    {
+      "byte_length": 2520,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-C57BAD3B0897.md",
+      "role": "generated_artifact",
+      "sha256": "ca16cff7ad52c56e8830f45ba3984520c62b0e06d78685d786e02b4350da065b"
+    },
+    {
+      "byte_length": 2718,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-C9035607C9CD.json",
+      "role": "generated_artifact",
+      "sha256": "5bff5f96ab16f4bc1e939ab43b81a807f7fe2f68711df846f9f7bb0805898309"
+    },
+    {
+      "byte_length": 2515,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-C9035607C9CD.md",
+      "role": "generated_artifact",
+      "sha256": "f732d65d1d8af48af54dd75b8d77ed7b2c5caa116f65027d8377c421e3186b65"
+    },
+    {
+      "byte_length": 2633,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-CA3BAB35CB94.json",
+      "role": "generated_artifact",
+      "sha256": "d1d8403ce5da53ff5de6784229b6be0c1fc54e662a8e5eb4f6de33bd398144cc"
+    },
+    {
+      "byte_length": 2396,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-CA3BAB35CB94.md",
+      "role": "generated_artifact",
+      "sha256": "8cd4c23c12973e7b352baa673a3d9d7f270079265cf810b70854c65b556eb8e7"
+    },
+    {
+      "byte_length": 2929,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-CA9BC109DD66.json",
+      "role": "generated_artifact",
+      "sha256": "ed35faa0c58ca46d7b5697e84cc7943a9e736e367c3d40741884a3e5db4b5e46"
+    },
+    {
+      "byte_length": 2680,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-CA9BC109DD66.md",
+      "role": "generated_artifact",
+      "sha256": "597ad55d018ddb0cdaac49fa03f9c8491fd23326f5de114347bfd1657f7a2394"
+    },
+    {
+      "byte_length": 2724,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-CBF7E61496ED.json",
+      "role": "generated_artifact",
+      "sha256": "89c9e4947e7bb6eebe31b8320c1ac2104dd65f28ae69e9da9d9522e3fd21090b"
+    },
+    {
+      "byte_length": 2520,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-CBF7E61496ED.md",
+      "role": "generated_artifact",
+      "sha256": "e33b26e71eadc17d6a4903610584b0a7476b72a98e72999c7c7548bce4e51d1d"
+    },
+    {
+      "byte_length": 2709,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-CD1BA5D2D2AC.json",
+      "role": "generated_artifact",
+      "sha256": "94590db919a00e56ccfda4d0c55f2b97f528ff27b3b50ca6fd04ec8937f7aabe"
+    },
+    {
+      "byte_length": 2504,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-CD1BA5D2D2AC.md",
+      "role": "generated_artifact",
+      "sha256": "44889c8839bab6640b07c71b3dcee4bb539d5d41deb01b549d142043e82f25fe"
+    },
+    {
+      "byte_length": 2926,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-CF5F8E58F167.json",
+      "role": "generated_artifact",
+      "sha256": "01bcf3ae11b0ea64f23f4895c261b5dec38401abe76a1a4182f99f6994dab6a8"
+    },
+    {
+      "byte_length": 2710,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-CF5F8E58F167.md",
+      "role": "generated_artifact",
+      "sha256": "4f64b5ce755f1c74f8a2be4c7db6b855c13241546b678f40497c3e3e9cfded53"
+    },
+    {
+      "byte_length": 2902,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-D13E72764083.json",
+      "role": "generated_artifact",
+      "sha256": "15a64f1e6dd84f5d3c7eff7d3c31062b4cb736fed72f53f946cc91a293782426"
+    },
+    {
+      "byte_length": 2676,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-D13E72764083.md",
+      "role": "generated_artifact",
+      "sha256": "944933775e559ef50052876a159fefe34bbe8609c5a7ad8fed8dfd7d8c22ffbd"
+    },
+    {
+      "byte_length": 2835,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-D3F301DA9FA7.json",
+      "role": "generated_artifact",
+      "sha256": "1afc7cbbf35424cd84b4cef5ef28c1d5852076cfecf4a73f3f46c95677a30514"
+    },
+    {
+      "byte_length": 2630,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-D3F301DA9FA7.md",
+      "role": "generated_artifact",
+      "sha256": "e2f2151ce265574b34209f00a2dc1097467a6e2145e308fac0b9b27803012962"
+    },
+    {
+      "byte_length": 2696,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-D530A59F4FDE.json",
+      "role": "generated_artifact",
+      "sha256": "0f1f390a9e2beff33d4549870500d976957b340192f35a3c3df83e6f4e65b214"
+    },
+    {
+      "byte_length": 2485,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-D530A59F4FDE.md",
+      "role": "generated_artifact",
+      "sha256": "c262257d28e8f948c31eb8bc3251ded4b88978e941cc33a857b1e31f630c8b14"
+    },
+    {
+      "byte_length": 2683,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-D5911F01BF30.json",
+      "role": "generated_artifact",
+      "sha256": "3bb818d9744934c21127bf796f0bfc7d22f88cd2dff7a5db12cf088a85cc4f07"
+    },
+    {
+      "byte_length": 2466,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-D5911F01BF30.md",
+      "role": "generated_artifact",
+      "sha256": "dc7f3193137bb0f332020981085374abcbe77271365dcfa21e8f3dc7e255bd53"
+    },
+    {
+      "byte_length": 2668,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-D69EBD1F0250.json",
+      "role": "generated_artifact",
+      "sha256": "c77e14b22d894610b27c2342c51f62c055585e6bd8e41c3a79a985803c4f232a"
+    },
+    {
+      "byte_length": 2445,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-D69EBD1F0250.md",
+      "role": "generated_artifact",
+      "sha256": "2cab8f46012f39af7346852094f935f1c9973d9f169962090ab07d6c7019714a"
+    },
+    {
+      "byte_length": 2844,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-D8D96F1961AF.json",
+      "role": "generated_artifact",
+      "sha256": "40ba58a503430d3897ddeb41c72aa2bd8d2dc14a62a7081d2e2c926a7805f9be"
+    },
+    {
+      "byte_length": 2649,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-D8D96F1961AF.md",
+      "role": "generated_artifact",
+      "sha256": "7b5066d669e4d2e4a9b22f0ce78b89a41175664bb912135e353462f853a06024"
+    },
+    {
+      "byte_length": 2643,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-D954B959C4B6.json",
+      "role": "generated_artifact",
+      "sha256": "bea18d6a2f41e9fbf62d423427993123f85ab535b4716234578362d13154f6aa"
+    },
+    {
+      "byte_length": 2410,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-D954B959C4B6.md",
+      "role": "generated_artifact",
+      "sha256": "d61ac2af5af22ebdaf429be614e70f99f9abab9c52a8eae64ff563622ddbbbe5"
+    },
+    {
+      "byte_length": 2678,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-DDFE1F08940B.json",
+      "role": "generated_artifact",
+      "sha256": "9d94c40b26ed5c3ff11382ecb6b2304d9a980bf5bfdf1ecc83194e82b812f863"
+    },
+    {
+      "byte_length": 2459,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-DDFE1F08940B.md",
+      "role": "generated_artifact",
+      "sha256": "d9353e919d4e42eacd3b5f8a5632ef2cacbfcf1c91fad3bb149cd556000dd3fb"
+    },
+    {
+      "byte_length": 2663,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-DE08F2D6E1E2.json",
+      "role": "generated_artifact",
+      "sha256": "788f9dc86524c2fe14026aecd23e2b2472ea416ccaad67d1e01af619f3aafaca"
+    },
+    {
+      "byte_length": 2438,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-DE08F2D6E1E2.md",
+      "role": "generated_artifact",
+      "sha256": "3d87d7b5bd1b16e5e8ea09b6cfa8a0793096754762c9fa78b7ba894bcb42f018"
+    },
+    {
+      "byte_length": 2692,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-DE73F7226F37.json",
+      "role": "generated_artifact",
+      "sha256": "3f6a7c9c56cea76b99251620966d29e67a7352fb2b1aed51fc537c6ef7eb2728"
+    },
+    {
+      "byte_length": 2482,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-DE73F7226F37.md",
+      "role": "generated_artifact",
+      "sha256": "bec818459c17e27655737304f3662eca4582d65eac1c30442c54679f83b81803"
+    },
+    {
+      "byte_length": 2805,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-E0A438C9F1AE.json",
+      "role": "generated_artifact",
+      "sha256": "bc78741004b95f278d8647f0271aaa7b14040dac9532edf113b5552275d62710"
+    },
+    {
+      "byte_length": 2601,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-E0A438C9F1AE.md",
+      "role": "generated_artifact",
+      "sha256": "b8ee906736d87837eaae3ad82b438926f98602bac8b1969dd9b4c7fd612743b8"
+    },
+    {
+      "byte_length": 2698,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-E2FE9E8BC718.json",
+      "role": "generated_artifact",
+      "sha256": "2ad6d32eeb7d7331eed828ed2a89522d136b8a5ce4125355c438fa8aa662fba4"
+    },
+    {
+      "byte_length": 2487,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-E2FE9E8BC718.md",
+      "role": "generated_artifact",
+      "sha256": "b51d885c4f57a9f4baef47aaf0511e05cc5b696bb5f26968c8dfe3e38064078f"
+    },
+    {
+      "byte_length": 2743,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-E58A88F195CA.json",
+      "role": "generated_artifact",
+      "sha256": "9023f1dc8fc5910d1645ef8c50e8bacfed940f5ff0beff2db5c3d4d282bfbd08"
+    },
+    {
+      "byte_length": 2550,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-E58A88F195CA.md",
+      "role": "generated_artifact",
+      "sha256": "da1d81c8d24c781897308e3342efbc6abe977825dd61daf6e1d3d32fab36f488"
+    },
+    {
+      "byte_length": 2826,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-E75738A2439A.json",
+      "role": "generated_artifact",
+      "sha256": "67c244b035c03d8933c3666a1e63d8fad10fa0172198890b57cb8ccd72a31a3a"
+    },
+    {
+      "byte_length": 2582,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-E75738A2439A.md",
+      "role": "generated_artifact",
+      "sha256": "eb649d9eb6d8705fe8b3e5803bcb5853ee5fb27e93bae23cd2c3ac36d79a4772"
+    },
+    {
+      "byte_length": 2827,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-E7706F3FD610.json",
+      "role": "generated_artifact",
+      "sha256": "296ce3302672059f61a41ef7d54c7e3fbc0437cd5034823cb1d3fae06699deaf"
+    },
+    {
+      "byte_length": 2585,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-E7706F3FD610.md",
+      "role": "generated_artifact",
+      "sha256": "2d0138ff575a8d1e82579461c65afa1d1fa438d5f9c2d897fcea8bc8c8fbcb95"
+    },
+    {
+      "byte_length": 2673,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-EB96C9C929EB.json",
+      "role": "generated_artifact",
+      "sha256": "d54cf7b0b47b5aca9a35c8b7e1910c2f538f352196c11ce32deca9392b6eb70c"
+    },
+    {
+      "byte_length": 2452,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-EB96C9C929EB.md",
+      "role": "generated_artifact",
+      "sha256": "4b9ac01e778195f2cdfdd4e8f7c0975e7527e188a4dab0cefb41d6f0b6c0bc7d"
+    },
+    {
+      "byte_length": 2837,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-EC8131E9C8AA.json",
+      "role": "generated_artifact",
+      "sha256": "a71bc33faff8eec5aed7dc16e092ec30d3476fd34a69f8f1a9b2c4e93b042c81"
+    },
+    {
+      "byte_length": 2639,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-EC8131E9C8AA.md",
+      "role": "generated_artifact",
+      "sha256": "9828eb2dadd9ddcb0b890584ad756c8dd93d1a4d18f4fbc8b2337397bd7ba2a7"
+    },
+    {
+      "byte_length": 2717,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-EDFAE0F7576A.json",
+      "role": "generated_artifact",
+      "sha256": "59c374d45f773ef28db02c3a434c90c95c9e539133eb255505e1cc8f73d253ed"
+    },
+    {
+      "byte_length": 2484,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-EDFAE0F7576A.md",
+      "role": "generated_artifact",
+      "sha256": "3ebebcdc7c118ebe2e137dc099f1f7d3b0fe95781059ad58f3fa22acac7b8991"
+    },
+    {
+      "byte_length": 2841,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-EE05282014CE.json",
+      "role": "generated_artifact",
+      "sha256": "df892952dbbc3ab359a195c2f6f06f07165b7abe6dbf9f6075f4545c74007e7c"
+    },
+    {
+      "byte_length": 2646,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-EE05282014CE.md",
+      "role": "generated_artifact",
+      "sha256": "ea7971a78819f3949329ecf9eb22090f03e2877c092d998d564055f304becaa9"
+    },
+    {
+      "byte_length": 2843,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-EE361C289F5D.json",
+      "role": "generated_artifact",
+      "sha256": "cedf25938f46dcd669dd12bf1fed2dec827527ebb9d51e2e45771f4774997abd"
+    },
+    {
+      "byte_length": 2598,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-EE361C289F5D.md",
+      "role": "generated_artifact",
+      "sha256": "5f4ae89e5159ffdae13acc24fd4dc938288867052fa1f8a821ee18da9ce64cde"
+    },
+    {
+      "byte_length": 2820,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-EE696CAF0DDC.json",
+      "role": "generated_artifact",
+      "sha256": "13939cc81008023395dd6bca8aa8ba0e34785a2d7ccb3d1d86fc88cd9ad73299"
+    },
+    {
+      "byte_length": 2576,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-EE696CAF0DDC.md",
+      "role": "generated_artifact",
+      "sha256": "a7dbe56703cd338d5d43bfe695408927db53462346f00df95c5a349f616cbea6"
+    },
+    {
+      "byte_length": 2668,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-F018802280F8.json",
+      "role": "generated_artifact",
+      "sha256": "1247ef3a3cf6bd8da9ca5735fc2993f993d201d4cecce4025c7d864c393ad18c"
+    },
+    {
+      "byte_length": 2445,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-F018802280F8.md",
+      "role": "generated_artifact",
+      "sha256": "8378d3d18822df9eee62594389ee401bda0d3ac345396f9a99f8a80f7385b8c5"
+    },
+    {
+      "byte_length": 2627,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-F12726C017DC.json",
+      "role": "generated_artifact",
+      "sha256": "90ae2e245a92d2d65461a6ce0d98e3437635d100ee725863622caf5c1b9e1f48"
+    },
+    {
+      "byte_length": 2389,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-F12726C017DC.md",
+      "role": "generated_artifact",
+      "sha256": "10acd8465651fcbde994d4a1edc59cd99dc6a393392b6f08621b4a3d79ea1f0e"
+    },
+    {
+      "byte_length": 2673,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-F310AA35C9ED.json",
+      "role": "generated_artifact",
+      "sha256": "c04a06dcacfae5dcc7fee802cafa567f19329390519dfa286eecaffb8c931276"
+    },
+    {
+      "byte_length": 2452,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-F310AA35C9ED.md",
+      "role": "generated_artifact",
+      "sha256": "d11d49172a9adfde7a7af96ecf56c75de89cebb9aced70eee69b1ecf7146d9bb"
+    },
+    {
+      "byte_length": 2675,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-F407C35E2A5D.json",
+      "role": "generated_artifact",
+      "sha256": "a85a04bf510ce4040829ee6551fceefb65f3e596a7aeac654de142ffbe8d6787"
+    },
+    {
+      "byte_length": 2458,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-F407C35E2A5D.md",
+      "role": "generated_artifact",
+      "sha256": "90ee853eefdb1ea4f0f76a0cfe217ca5019b9eb503b0123929451b502b0a0a79"
+    },
+    {
+      "byte_length": 2851,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-F62D2D10E8E3.json",
+      "role": "generated_artifact",
+      "sha256": "ce8ba1ef2bc755928671ea39ba0ecc6d6cbdfbc40b314e7fbccbe84a81ae890a"
+    },
+    {
+      "byte_length": 2617,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-F62D2D10E8E3.md",
+      "role": "generated_artifact",
+      "sha256": "1f10541cc3dc910fc891d2da2b9f34c6dc4c2a3f58eff6f97c706828ae95e34c"
+    },
+    {
+      "byte_length": 2885,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-F71615EED48D.json",
+      "role": "generated_artifact",
+      "sha256": "f5193cf01aaa46adffa337d6bcf92ef8b10ce01cb439c78bd33ad8d5b4c33b5a"
+    },
+    {
+      "byte_length": 2700,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-F71615EED48D.md",
+      "role": "generated_artifact",
+      "sha256": "f97a70475d611f4840fb2e90404f77acebe0293bb7cdfab886121510bdc0112d"
+    },
+    {
+      "byte_length": 2836,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-F782495A4C92.json",
+      "role": "generated_artifact",
+      "sha256": "257eb4bb79f2ada9b22aede2e1cfb3c338531e6bb4e02d8e58a4bc3c982d621a"
+    },
+    {
+      "byte_length": 2596,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-F782495A4C92.md",
+      "role": "generated_artifact",
+      "sha256": "f6eb1186d35a23f52e68d20fab5732c65fd302f9628d4ca0df4b8e9b7bca14ec"
+    },
+    {
+      "byte_length": 2922,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-F901FB34D9E3.json",
+      "role": "generated_artifact",
+      "sha256": "15771b9d9b9c3199076cd58466163af8f9e911cc17988867ddb740a12f6c79d9"
+    },
+    {
+      "byte_length": 2704,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-F901FB34D9E3.md",
+      "role": "generated_artifact",
+      "sha256": "7a2a68c5a98981df1f3fe223e535abb4e822b0cf35d13c09feb56cc61aa5220c"
+    },
+    {
+      "byte_length": 2693,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-F987D12CCCBE.json",
+      "role": "generated_artifact",
+      "sha256": "ad8a9c230dd0922277598b5778f4828515075f8009b472602823b950edcc0e03"
+    },
+    {
+      "byte_length": 2480,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-F987D12CCCBE.md",
+      "role": "generated_artifact",
+      "sha256": "534d65da3727fb2878946c0d17d7e8e50e03531e27774731cee6ab5881c981e7"
+    },
+    {
+      "byte_length": 2751,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-FAF42ED7F9C8.json",
+      "role": "generated_artifact",
+      "sha256": "a6d8f13ce72d6bf2deb7c268a512e46f680d13cad2cfec8d973cf3db70512564"
+    },
+    {
+      "byte_length": 2510,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-FAF42ED7F9C8.md",
+      "role": "generated_artifact",
+      "sha256": "8e1e23db51dc2e78daba78db585331c6cd64e24c4c63bf8b25d277f828a579af"
+    },
+    {
+      "byte_length": 2849,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-FC2DD1FE2B4D.json",
+      "role": "generated_artifact",
+      "sha256": "998f68bc10e02208e259d085d5d182dd0fd7cfc23a82492e72b1328a73ca084d"
+    },
+    {
+      "byte_length": 2615,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-FC2DD1FE2B4D.md",
+      "role": "generated_artifact",
+      "sha256": "19973327fed08656873c30f490c8893e1d2bde992b0b39088b977bed84fd4dc5"
+    },
+    {
+      "byte_length": 2696,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-FF42E351E0DC.json",
+      "role": "generated_artifact",
+      "sha256": "b1542710bafe0493e9f933b968877d42382c60896d1cce552685a4e3b417e15a"
+    },
+    {
+      "byte_length": 2485,
+      "path": "archive/source-records/lore-repository/SRC-LORE-REPO-FF42E351E0DC.md",
+      "role": "generated_artifact",
+      "sha256": "e73054edfe0f186114ba1c779e5947f3e6735f14b830473c7e6e6e7f300ded5a"
+    },
+    {
+      "byte_length": 3562,
+      "path": "operations/campaigns/lore-repository-ingestion-2026-07/README.md",
+      "role": "campaign_documentation",
+      "sha256": "197502b9fb4d9b520e63f8e6dd74d07026507b4130d3f3d1e637f3200d6250b4"
+    },
+    {
+      "byte_length": 66842,
+      "path": "operations/campaigns/lore-repository-ingestion-2026-07/build_campaign.py",
+      "role": "deterministic_generator",
+      "sha256": "7670bd1cbc760f08da3295a08715429020daeef3b31437345e2b8e199ea25ba1"
+    },
+    {
+      "byte_length": 909,
+      "path": "operations/campaigns/lore-repository-ingestion-2026-07/campaign-summary.json",
+      "role": "generated_artifact",
+      "sha256": "04ba7fd72b93d686c5cecb01ac0c242a456f82e43005f0906d93890c10de55f6"
+    },
+    {
+      "byte_length": 1123,
+      "path": "operations/campaigns/lore-repository-ingestion-2026-07/campaign-summary.md",
+      "role": "generated_artifact",
+      "sha256": "d67ee5a56d673b1c01ba4cd7ae0f3c3a2400ad8bde51edd4508859c805db12df"
+    },
+    {
+      "byte_length": 4190,
+      "path": "operations/campaigns/lore-repository-ingestion-2026-07/conflict-report.json",
+      "role": "generated_artifact",
+      "sha256": "f6cfbefd71c43dbdfec1b23ed3b48a17f9cc430ccc48e3be2f081e8fdcd770c8"
+    },
+    {
+      "byte_length": 3006,
+      "path": "operations/campaigns/lore-repository-ingestion-2026-07/conflict-report.md",
+      "role": "generated_artifact",
+      "sha256": "8d9280b9b0c3fd8c48e9019486c34d4e019d552ee778105c36e08370599addba"
+    },
+    {
+      "byte_length": 26792,
+      "path": "operations/campaigns/lore-repository-ingestion-2026-07/mirror-divergence-ledger.json",
+      "role": "generated_artifact",
+      "sha256": "952adb8b157a9cc90856b971085966797ec18208de1166aeffd60af31611ef3a"
+    },
+    {
+      "byte_length": 153901,
+      "path": "operations/campaigns/lore-repository-ingestion-2026-07/page-inventory.json",
+      "role": "generated_artifact",
+      "sha256": "b0d3cb9ade1341a85e6b38c56f715a919132011e38e1109181f9fa7042ef2c22"
+    },
+    {
+      "byte_length": 2022,
+      "path": "operations/campaigns/lore-repository-ingestion-2026-07/research-backlog.json",
+      "role": "generated_artifact",
+      "sha256": "61d7c842e05e945c3b717a6a7d2329375b98c20c8a01a326415567b5195a56f6"
+    },
+    {
+      "byte_length": 1001,
+      "path": "operations/campaigns/lore-repository-ingestion-2026-07/research-backlog.md",
+      "role": "generated_artifact",
+      "sha256": "280cf3954702a1448659612744363587b97c0282d225f20750b14b9e2b536ffa"
+    },
+    {
+      "byte_length": 215498,
+      "path": "operations/campaigns/lore-repository-ingestion-2026-07/source-inventory.json",
+      "role": "generated_artifact",
+      "sha256": "9a5edba5393bfd7d2eded89ea44553001a30b3369311dac78094155c88ce14b3"
+    },
+    {
+      "byte_length": 16853,
+      "path": "operations/campaigns/lore-repository-ingestion-2026-07/taxonomy-migration-report.json",
+      "role": "generated_artifact",
+      "sha256": "0f4d719912c3b36966f305d5b9b96291e8eabbeee8c68a8da8b76024d9fd8b04"
+    },
+    {
+      "byte_length": 1322,
+      "path": "operations/campaigns/lore-repository-ingestion-2026-07/taxonomy-migration-report.md",
+      "role": "generated_artifact",
+      "sha256": "e494edbc2e0e80219ac4be62d08fa89b01a9d88a4bd8c34f6635ac7f3334a3e5"
+    },
+    {
+      "byte_length": 170365,
+      "path": "operations/campaigns/lore-repository-ingestion-2026-07/unresolved-reference-ledger.json",
+      "role": "generated_artifact",
+      "sha256": "8702abf1edecb2e946b397bfed1e4b6c62699e6ee66cac165880eb342c43f4eb"
+    },
+    {
+      "byte_length": 17316,
+      "path": "operations/campaigns/lore-repository-ingestion-2026-07/validate_campaign.py",
+      "role": "campaign_validator",
+      "sha256": "81e1626073a4b74c16ec975b93ddb35152b02868b9e3c2d254fe21179a7ded4b"
+    },
+    {
+      "byte_length": 21549,
+      "path": "operations/ci/validate_repository.py",
+      "role": "repository_ci_integration",
+      "sha256": "1dd201680c25757a6028160f707e34dd05452dc4bbb15aea39d0df8af39a65e0"
+    },
+    {
+      "byte_length": 1189,
+      "path": "operations/tests/lore_repository/test_lore_repository_campaign.py",
+      "role": "campaign_test",
+      "sha256": "ef25f0001b28c65c3649296bf557cfbe6d10e56c292f4e6f7b112c9f8cf6cfe1"
+    }
+  ],
+  "generated_at": "2026-07-19T15:26:28Z",
+  "repository_schema": "2.1",
+  "upstream_commit": "22555f277eb1496e34c0839c8f1f382842bd1d2b"
+}
