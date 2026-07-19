@@ -162,10 +162,17 @@ def validate_forbidden_paths(changes: list[str]) -> str:
     )) for path in changes)
     knowledge_campaign = any(path.startswith(("knowledge/", "operations/campaigns/knowledge-narrative-depth-001/")) for path in changes)
     medium_campaign = any("star-atlas-medium" in path or path.startswith(("archive/raw/medium/", "archive/normalized/medium/", "archive/source-records/medium/")) for path in changes)
+    ship_campaign = any(path.startswith((
+        "archive/raw/starbased-ship-states/",
+        "archive/provenance/starbased-ship-states/",
+        "archive/normalized/starbased-ship-states/",
+        "operations/campaigns/starbased-ship-states-ingestion-2026-07/",
+        "operations/tests/starbased_ship_states/",
+    )) for path in changes)
     discord_campaign = any(path.startswith(("operations/campaigns/discord-community-indexing-001/", "operations/tests/discord_community_indexing/")) for path in changes)
     library_frontend = any(path.startswith(("publication/site/", "operations/tests/library_frontend/")) or path == "publication/README.md" for path in changes)
     common = (".github/workflows/", "operations/ci/")
-    selected = sum((ledger_campaign, knowledge_campaign and not ledger_campaign, medium_campaign, discord_campaign, library_frontend))
+    selected = sum((ledger_campaign, knowledge_campaign and not ledger_campaign, medium_campaign, ship_campaign, discord_campaign, library_frontend))
     if selected != 1:
         raise ValidationFailure("unable to select exactly one recognized campaign path contract")
     if ledger_campaign:
@@ -190,6 +197,15 @@ def validate_forbidden_paths(changes: list[str]) -> str:
             "operations/campaigns/star-atlas-medium-ingestion-2026-07/",
         )
         label = "star-atlas-medium-ingestion-2026-07"
+    elif ship_campaign:
+        allowed = common + (
+            "archive/raw/starbased-ship-states/",
+            "archive/provenance/starbased-ship-states/",
+            "archive/normalized/starbased-ship-states/",
+            "operations/campaigns/starbased-ship-states-ingestion-2026-07/",
+            "operations/tests/starbased_ship_states/",
+        )
+        label = "starbased-ship-states-ingestion-2026-07"
     elif discord_campaign:
         allowed = common + (
             "operations/campaigns/discord-community-indexing-001/",
@@ -310,6 +326,27 @@ def validate_library_frontend() -> None:
         raise ValidationFailure("library frontend validation is not deterministic: " + ", ".join(differing))
 
 
+def validate_starbased_ship_campaign() -> None:
+    campaign = ROOT / "operations/campaigns/starbased-ship-states-ingestion-2026-07"
+    command = [sys.executable, str(campaign / "validate_campaign.py")]
+    exclusions = {"build_campaign.py", "validate_campaign.py", "README.md"}
+    first = run_cycle(command, campaign, exclusions)
+    second = run_cycle(command, campaign, exclusions)
+    if first != second:
+        differing = sorted(path for path in set(first) | set(second) if first.get(path) != second.get(path))
+        raise ValidationFailure("Starbased ship campaign output is not deterministic: " + ", ".join(differing))
+    diff = run(
+        "git", "diff", "--exit-code", "--",
+        str(campaign.relative_to(ROOT)),
+        "archive/raw/starbased-ship-states",
+        "archive/provenance/starbased-ship-states",
+        "archive/normalized/starbased-ship-states",
+        "operations/tests/starbased_ship_states",
+    )
+    if diff.returncode:
+        raise ValidationFailure("Starbased ship campaign artifacts do not reconcile with committed files:\n" + diff.stdout)
+
+
 def repository_mode(base_ref: str) -> None:
     documents, records = parse_json_corpus()
     schemas = validate_declared_schemas()
@@ -336,6 +373,8 @@ def campaign_mode(base_ref: str) -> None:
         validate_pip_ledger_campaign()
     elif contract == "star-atlas-library-frontend":
         validate_library_frontend()
+    elif contract == "starbased-ship-states-ingestion-2026-07":
+        validate_starbased_ship_campaign()
     print(f"PASS campaign-contracts: {contract}")
 
 
