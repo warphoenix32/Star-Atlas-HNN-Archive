@@ -261,7 +261,8 @@ def validate() -> dict[str, Any]:
         capture_output=True,
         text=True,
     )
-    checks.append(check("git_diff_check", diff_check.returncode == 0, diff_check.stdout + diff_check.stderr))
+    diff_detail = "clean" if diff_check.returncode == 0 else diff_check.stdout + diff_check.stderr
+    checks.append(check("git_diff_check", diff_check.returncode == 0, diff_detail))
 
     status = "pass" if all(item["passed"] for item in checks) else "fail"
     return {

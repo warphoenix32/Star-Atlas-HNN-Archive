@@ -4784,10 +4784,10 @@
       "sha256": "8702abf1edecb2e946b397bfed1e4b6c62699e6ee66cac165880eb342c43f4eb"
     },
     {
-      "byte_length": 17316,
+      "byte_length": 17389,
       "path": "operations/campaigns/lore-repository-ingestion-2026-07/validate_campaign.py",
       "role": "campaign_validator",
-      "sha256": "81e1626073a4b74c16ec975b93ddb35152b02868b9e3c2d254fe21179a7ded4b"
+      "sha256": "9c414d5060f1714e36001a0857362d3760cebaa54a465345fa1a202eebdd3a12"
     },
     {
       "byte_length": 21549,
