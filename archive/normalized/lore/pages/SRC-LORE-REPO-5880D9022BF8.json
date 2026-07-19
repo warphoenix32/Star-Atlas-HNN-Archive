@@ -196,8 +196,7 @@
     }
   ],
   "limitations": [
-    "Authority is limited to operator-designated lore taxonomy and preferred nomenclature; narrative claims are not independently verified by ingestion.",
-    "The upstream repository is publicly hosted but no repository license was declared at capture time."
+    "Authority is limited to operator-designated lore taxonomy and preferred nomenclature; narrative claims are not independently verified by ingestion."
   ],
   "lore_type": "FACTION",
   "manual_review_required": false,

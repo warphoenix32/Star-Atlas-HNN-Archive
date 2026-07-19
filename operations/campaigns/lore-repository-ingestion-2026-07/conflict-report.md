@@ -7,13 +7,6 @@
 - Finding: Repository API/default-branch metadata describes a fan-created encyclopedia, while main-branch and deployed-site metadata use an Official Star Atlas Lore Encyclopedia description.
 - Disposition: PRESERVED; operator taxonomy authority applied without asserting ATMTA authorship.
 
-## LRC-002-LICENSE — Redistribution license
-
-- Severity: `HIGH`
-- Manual review: `TRUE`
-- Finding: No repository license was declared at capture time.
-- Disposition: PUBLIC_SOURCE_ARCHIVED_BY_OPERATOR_INSTRUCTION; publication rights review remains open.
-
 ## LRC-003-BRANCH-AUTHORITY — Default branch differs from active content branch
 
 - Severity: `MEDIUM`

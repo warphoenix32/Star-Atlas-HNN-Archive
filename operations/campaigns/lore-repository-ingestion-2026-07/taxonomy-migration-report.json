@@ -632,7 +632,6 @@
   "renamed_entities_note": "No rename was asserted solely from lexical similarity. Ambiguous candidates remain unresolved.",
   "unresolved_conflicts": [
     "LRC-001-AUTHORITY-LABEL",
-    "LRC-002-LICENSE",
     "LRC-004-DEPLOYMENT-STALE",
     "LRC-005-MIRROR-DIVERGENCE",
     "LRC-006-UPSTREAM-LINKS",

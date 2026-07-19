@@ -17,6 +17,7 @@ The campaign uses the immutable `main` commit `22555f277eb1496e34c0839c8f1f38284
 5. Preserve but exclude `c4-internal/**` working material from canonical lore normalization.
 6. Normalize page metadata, headings, links, media references, taxonomy, source-local entities, and evidence-bound reference relationships.
 7. Produce compatibility mappings for existing Archive lore IDs without rewriting historical evidence.
+8. Maintain a numbered human-review register with recommended and allowed dispositions, while keeping detailed mirror, link, and chronology evidence in their dedicated ledgers.
 
 Text normalization is deliberately mechanical: UTF-8 BOM removal, LF line endings, trailing line-whitespace removal, and one final newline. The immutable commit archive retains the upstream bytes and remains the authority for exact historical wording and formatting.
 
@@ -45,5 +46,6 @@ The builder reads only the preserved commit archive and the two preserved live-s
 
 - No `knowledge/`, `graph/`, or `publication/` file is changed.
 - No upstream wording is rewritten.
-- Broken upstream links, divergent publication mirrors, unresolved identity mappings, missing licensing metadata, and embedded workstation paths are documented rather than silently corrected.
+- Broken upstream links, divergent publication mirrors, unresolved identity mappings, and embedded workstation paths are documented rather than silently corrected.
+- Per operator directive, licensing status is outside this campaign's validation, restriction, and human-review scope.
 - This campaign is archival ingestion only. Claim-level semantic promotion requires a later reviewed campaign.

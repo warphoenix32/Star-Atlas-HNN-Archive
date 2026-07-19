@@ -1,11 +1,11 @@
 # Lore Repository Ingestion Validation
 
 - Result: `PASS`
-- Checks passed: 39 / 39
+- Checks passed: 40 / 40
 - Source pages: 192
 - Entities: 4632
 - Relationships: 3798
-- Documented upstream warning groups: 8
+- Documented upstream warning groups: 7
 
 ## Checks
 
@@ -39,8 +39,9 @@
 - [x] `existing_lore_ids_all_mapped_or_deferred`
 - [x] `historical_rewrites_prohibited`
 - [x] `provenance_branch_and_deployment_distinct`
-- [x] `license_uncertainty_preserved`
 - [x] `official_affiliation_not_inferred`
+- [x] `human_review_register_complete`
+- [x] `licensing_requirements_removed`
 - [x] `schema_v21_package_minimum`
 - [x] `ingestion_did_not_promote_knowledge_or_graph`
 - [x] `campaign_and_archive_manifests_match`
@@ -51,4 +52,4 @@
 
 ## Interpretation
 
-A passing result means the preserved snapshot, generated artifact chains, controlled taxonomy, identifiers, manifests, and repository boundaries reconcile. It does not resolve the documented upstream identity, license, mirror, chronology, link, or legacy-mapping warnings.
+A passing result means the preserved snapshot, generated artifact chains, controlled taxonomy, identifiers, manifests, and repository boundaries reconcile. It does not resolve the documented upstream identity, mirror, chronology, link, or legacy-mapping warnings.

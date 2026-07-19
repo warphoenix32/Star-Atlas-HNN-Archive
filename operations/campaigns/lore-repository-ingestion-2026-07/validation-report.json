@@ -23,7 +23,7 @@
     },
     {
       "detail": {
-        "generated": 793,
+        "generated": 795,
         "mismatched": [],
         "missing": []
       },
@@ -31,7 +31,7 @@
       "passed": true
     },
     {
-      "detail": 793,
+      "detail": 795,
       "name": "deterministic_build",
       "passed": true
     },
@@ -214,15 +214,6 @@
     },
     {
       "detail": {
-        "declared_spdx_id": null,
-        "manual_review_required": true,
-        "status": "NO_LICENSE_DECLARED_AT_CAPTURE"
-      },
-      "name": "license_uncertainty_preserved",
-      "passed": true
-    },
-    {
-      "detail": {
         "atmta_affiliation_independently_verified": false,
         "default_master_description": "Fan-created encyclopedia of Star Atlas lore — factions, species, history, and more",
         "main_branch_description": "Official Star Atlas Lore Encyclopedia — factions, species, history, and more (Alpha)",
@@ -230,6 +221,19 @@
         "repository_api_description": "Fan-created encyclopedia of Star Atlas lore — factions, species, history, and more"
       },
       "name": "official_affiliation_not_inferred",
+      "passed": true
+    },
+    {
+      "detail": {
+        "items": 14,
+        "unique": 14
+      },
+      "name": "human_review_register_complete",
+      "passed": true
+    },
+    {
+      "detail": [],
+      "name": "licensing_requirements_removed",
       "passed": true
     },
     {
@@ -243,7 +247,7 @@
       "passed": true
     },
     {
-      "detail": 800,
+      "detail": 802,
       "name": "campaign_and_archive_manifests_match",
       "passed": true
     },
@@ -270,11 +274,11 @@
   ],
   "status": "pass",
   "summary": {
-    "checks_passed": 39,
-    "checks_total": 39,
-    "documented_upstream_warnings": 8,
+    "checks_passed": 40,
+    "checks_total": 40,
+    "documented_upstream_warnings": 7,
     "entities": 4632,
-    "generated_artifacts": 793,
+    "generated_artifacts": 795,
     "relationships": 3798,
     "source_pages": 192
   }

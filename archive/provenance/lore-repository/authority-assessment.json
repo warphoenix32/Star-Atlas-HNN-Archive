@@ -12,11 +12,6 @@
     "operator_designation_applied": true,
     "repository_api_description": "Fan-created encyclopedia of Star Atlas lore — factions, species, history, and more"
   },
-  "license": {
-    "declared_spdx_id": null,
-    "manual_review_required": true,
-    "status": "NO_LICENSE_DECLARED_AT_CAPTURE"
-  },
   "precedence": [
     "STAR_ATLAS_LORE_REPOSITORY_FOR_LORE_TAXONOMY_AND_PREFERRED_NAMES",
     "OFFICIAL_STAR_ATLAS_PUBLICATIONS_FOR_NEWER_LORE_NOT_YET_REPRESENTED",

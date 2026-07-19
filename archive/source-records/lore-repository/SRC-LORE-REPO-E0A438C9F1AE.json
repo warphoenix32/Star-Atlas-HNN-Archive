@@ -20,7 +20,6 @@
     "snapshot_path": "archive/raw/lore-repository/star-atlas-lore-22555f277eb1496e34c0839c8f1f382842bd1d2b.zip",
     "snapshot_sha256": "08061a661f47a8d55d233a79ba5cdadbbd98c471f50b171d2d56ea583f2a04a1"
   },
-  "publication_restriction": "LICENSE_REVIEW_REQUIRED",
   "published_at_normalized": null,
   "published_at_original": null,
   "publisher": "JoseEduardonoot/star-atlas-lore",
@@ -28,7 +27,6 @@
     "extraction_confidence": "HIGH",
     "limitations": [
       "Authority is limited to operator-designated lore taxonomy and preferred nomenclature; narrative claims are not independently verified by ingestion.",
-      "The upstream repository is publicly hosted but no repository license was declared at capture time.",
       "No same-path published docs mirror exists in the captured repository."
     ],
     "manual_review_required": true

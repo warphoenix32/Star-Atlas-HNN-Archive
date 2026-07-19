@@ -221,8 +221,27 @@ def validate() -> dict[str, Any]:
         and provenance["custody"]["commit"] == UPSTREAM_COMMIT,
         provenance["custody"],
     ))
-    checks.append(check("license_uncertainty_preserved", provenance["license"]["status"] == "NO_LICENSE_DECLARED_AT_CAPTURE" and provenance["license"]["manual_review_required"], provenance["license"]))
     checks.append(check("official_affiliation_not_inferred", provenance["identity_observations"]["atmta_affiliation_independently_verified"] is False, provenance["identity_observations"]))
+
+    human_review = json.loads((CAMPAIGN_DIR / "human-review-items.json").read_text(encoding="utf-8"))
+    review_ids = [item["review_id"] for item in human_review["decision_items"]]
+    checks.append(check(
+        "human_review_register_complete",
+        len(review_ids) == 14 and len(review_ids) == len(set(review_ids)) and all(item["status"] == "OPEN" for item in human_review["decision_items"]),
+        {"items": len(review_ids), "unique": len(set(review_ids))},
+    ))
+
+    forbidden_license_tokens = ("LICENSE_REVIEW_REQUIRED", "LRC-002-LICENSE", "NO_LICENSE_DECLARED_AT_CAPTURE")
+    license_requirement_failures = []
+    for base in (CAMPAIGN_DIR, ROOT / "archive/provenance/lore-repository", ROOT / SOURCE_RECORDS_REL, ROOT / PACKAGE_REL):
+        for path in sorted(base.rglob("*")):
+            if path.name.startswith("validation-report."):
+                continue
+            if path.is_file() and path.suffix.lower() in {".json", ".jsonl", ".md"}:
+                text = path.read_text(encoding="utf-8")
+                if any(token in text for token in forbidden_license_tokens):
+                    license_requirement_failures.append(path.relative_to(ROOT).as_posix())
+    checks.append(check("licensing_requirements_removed", not license_requirement_failures, license_requirement_failures))
 
     package = json.loads((ROOT / PACKAGE_REL / "lore-repository-corpus.json").read_text(encoding="utf-8"))
     package_entity_failures = [item["entity_id"] for item in package["entities"] if item["entity_type"] not in SUPPORTED_REPOSITORY_TYPES or not item.get("canonical_name")]
@@ -306,7 +325,7 @@ def render_markdown(report: dict[str, Any]) -> str:
         "",
         "## Interpretation",
         "",
-        "A passing result means the preserved snapshot, generated artifact chains, controlled taxonomy, identifiers, manifests, and repository boundaries reconcile. It does not resolve the documented upstream identity, license, mirror, chronology, link, or legacy-mapping warnings.",
+        "A passing result means the preserved snapshot, generated artifact chains, controlled taxonomy, identifiers, manifests, and repository boundaries reconcile. It does not resolve the documented upstream identity, mirror, chronology, link, or legacy-mapping warnings.",
         "",
     ])
     return "\n".join(lines)

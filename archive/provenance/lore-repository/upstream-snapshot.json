@@ -46,11 +46,6 @@
     "historical_source_rewrites": 0,
     "raw_snapshot_modified": false
   },
-  "license": {
-    "declared_spdx_id": null,
-    "manual_review_required": true,
-    "status": "NO_LICENSE_DECLARED_AT_CAPTURE"
-  },
   "raw_artifacts": [
     {
       "byte_length": 11118506,

@@ -22,6 +22,6 @@ The public lore repository was preserved at immutable `main` commit `22555f277eb
 - Unresolved internal links: 252
 - Unresolved navigation targets: 0
 - Existing lore ID mappings requiring review: 5
-- Manual-review conflict groups: 8
+- Manual-review conflict groups: 7
 
-The upstream identity label, missing license, stale deployment, divergent mirrors, self-reported chronology conflicts, broken references, and ambiguous legacy mappings remain explicit. These do not alter the preserved source and do not become canonical claims through ingestion.
+The upstream identity label, stale deployment, divergent mirrors, self-reported chronology conflicts, broken references, and ambiguous legacy mappings remain explicit. These do not alter the preserved source and do not become canonical claims through ingestion.

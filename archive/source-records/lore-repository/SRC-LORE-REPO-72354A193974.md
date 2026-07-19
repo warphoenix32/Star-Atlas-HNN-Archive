@@ -48,7 +48,6 @@ This Source Record inventories one lore repository page and its normalized artif
 ## Limitations
 
 - Authority is limited to operator-designated lore taxonomy and preferred nomenclature; narrative claims are not independently verified by ingestion.
-- The upstream repository is publicly hosted but no repository license was declared at capture time.
 - The published docs mirror differs from the canon authoring page and requires source-level reconciliation.
 
 ## Review Status

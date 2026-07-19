@@ -10,14 +10,6 @@
       "topic": "Upstream identity and authority labeling"
     },
     {
-      "conflict_id": "LRC-002-LICENSE",
-      "disposition": "PUBLIC_SOURCE_ARCHIVED_BY_OPERATOR_INSTRUCTION; publication rights review remains open.",
-      "finding": "No repository license was declared at capture time.",
-      "manual_review_required": true,
-      "severity": "HIGH",
-      "topic": "Redistribution license"
-    },
-    {
       "conflict_id": "LRC-003-BRANCH-AUTHORITY",
       "disposition": "MAIN_COMMIT_SELECTED_AND_ALL_BRANCH_IDENTITIES_PRESERVED.",
       "finding": "Default branch master points to d138c60a210e2afc2d898806ecf9b032a4f8c3a1; current content and deployment workflow use main at 22555f277eb1496e34c0839c8f1f382842bd1d2b.",

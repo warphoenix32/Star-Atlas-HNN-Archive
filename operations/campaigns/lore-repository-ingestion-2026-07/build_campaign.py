@@ -566,7 +566,6 @@ def build() -> dict[str, bytes]:
             canonical_url = candidate_url if candidate_url in sitemap_urls else f"{UPSTREAM_REPOSITORY_URL}/blob/{UPSTREAM_COMMIT}/{path}"
         limitations = [
             "Authority is limited to operator-designated lore taxonomy and preferred nomenclature; narrative claims are not independently verified by ingestion.",
-            "The upstream repository is publicly hosted but no repository license was declared at capture time.",
         ]
         if mirror_status == "TEXT_DIVERGENT":
             limitations.append("The published docs mirror differs from the canon authoring page and requires source-level reconciliation.")
@@ -907,14 +906,6 @@ def build() -> dict[str, bytes]:
             "manual_review_required": True,
         },
         {
-            "conflict_id": "LRC-002-LICENSE",
-            "severity": "HIGH",
-            "topic": "Redistribution license",
-            "finding": "No repository license was declared at capture time.",
-            "disposition": "PUBLIC_SOURCE_ARCHIVED_BY_OPERATOR_INSTRUCTION; publication rights review remains open.",
-            "manual_review_required": True,
-        },
-        {
             "conflict_id": "LRC-003-BRANCH-AUTHORITY",
             "severity": "MEDIUM",
             "topic": "Default branch differs from active content branch",
@@ -1010,12 +1001,152 @@ def build() -> dict[str, bytes]:
         "campaign_id": CAMPAIGN_ID,
         "items": [
             {"priority": 1, "topic": "Authority identity", "required_artifact": "ATMTA or rights-holder statement establishing the repository's official status and page-level authorship.", "related_conflicts": ["LRC-001-AUTHORITY-LABEL"]},
-            {"priority": 2, "topic": "License and republication rights", "required_artifact": "Repository license or written permission covering archival redistribution.", "related_conflicts": ["LRC-002-LICENSE"]},
-            {"priority": 3, "topic": "Canon/docs reconciliation", "required_artifact": "Upstream-generated diff or maintainer adjudication for every divergent or presentation-only page.", "related_conflicts": ["LRC-005-MIRROR-DIVERGENCE"]},
-            {"priority": 4, "topic": "Existing lore ID mapping", "required_artifact": "Curator decisions for Galia, Council of Peace, Ustur, CORE, and Voice of Iris mappings.", "related_conflicts": []},
-            {"priority": 5, "topic": "Chronology and contradiction review", "required_artifact": "Primary official lore citations resolving each upstream self-reported chronology error and contradiction.", "related_conflicts": ["LRC-008-UPSTREAM-VERIFICATION"]},
-            {"priority": 6, "topic": "Broken upstream references", "required_artifact": "Replacement target paths or source pages for unresolved Markdown links and MkDocs navigation entries.", "related_conflicts": ["LRC-006-UPSTREAM-LINKS", "LRC-007-NAVIGATION"]},
-            {"priority": 7, "topic": "Live deployment freshness", "required_artifact": "A gh-pages deployment from the selected main commit or an upstream declaration that the older deployment is intentional.", "related_conflicts": ["LRC-004-DEPLOYMENT-STALE"]},
+            {"priority": 2, "topic": "Canon/docs reconciliation", "required_artifact": "Upstream-generated diff or maintainer adjudication for every divergent or presentation-only page.", "related_conflicts": ["LRC-005-MIRROR-DIVERGENCE"]},
+            {"priority": 3, "topic": "Existing lore ID mapping", "required_artifact": "Curator decisions for Galia, Council of Peace, Ustur, CORE, and Voice of Iris mappings.", "related_conflicts": []},
+            {"priority": 4, "topic": "Chronology and contradiction review", "required_artifact": "Primary official lore citations resolving each upstream self-reported chronology error and contradiction.", "related_conflicts": ["LRC-008-UPSTREAM-VERIFICATION"]},
+            {"priority": 5, "topic": "Broken upstream references", "required_artifact": "Replacement target paths or source pages for unresolved Markdown links and MkDocs navigation entries.", "related_conflicts": ["LRC-006-UPSTREAM-LINKS", "LRC-007-NAVIGATION"]},
+            {"priority": 6, "topic": "Live deployment freshness", "required_artifact": "A gh-pages deployment from the selected main commit or an upstream declaration that the older deployment is intentional.", "related_conflicts": ["LRC-004-DEPLOYMENT-STALE"]},
+        ],
+    }
+
+    human_review = {
+        "campaign_id": CAMPAIGN_ID,
+        "operator_directives_applied": [
+            "Licensing status is excluded from campaign requirements, restrictions, validation, conflicts, and review queues."
+        ],
+        "decision_items": [
+            {
+                "review_id": "LRH-001",
+                "topic": "Upstream identity label",
+                "decision_needed": "Choose how the Archive should describe the upstream repository without inferring ATMTA authorship.",
+                "recommended_disposition": "KEEP_OPERATOR_DESIGNATED_TAXONOMY_AUTHORITY_WITH_OFFICIAL_AFFILIATION_UNVERIFIED",
+                "allowed_dispositions": ["KEEP_OPERATOR_DESIGNATED_TAXONOMY_AUTHORITY_WITH_OFFICIAL_AFFILIATION_UNVERIFIED", "DESCRIBE_AS_OFFICIAL_STAR_ATLAS_SOURCE", "DESCRIBE_AS_FAN_CURATED_SOURCE"],
+                "evidence": ["LRC-001-AUTHORITY-LABEL", "archive/provenance/lore-repository/authority-assessment.json"],
+                "status": "OPEN",
+            },
+            {
+                "review_id": "LRH-002",
+                "topic": "Galia Expanse legacy mapping",
+                "decision_needed": "Map LORE-GALIA to the region, the atlas reference document, both, or neither.",
+                "recommended_disposition": "MAP_TO_REGION_AND_RETAIN_ATLAS_DOCUMENT_AS_REFERENCE",
+                "allowed_dispositions": ["MAP_TO_REGION_AND_RETAIN_ATLAS_DOCUMENT_AS_REFERENCE", "MAP_TO_ATLAS_DOCUMENT", "MAP_TO_BOTH", "DEFER"],
+                "evidence": ["canon/geography/galactic_regions.md", "canon/reference/atlas/galia_expanse_atlas.md"],
+                "status": "OPEN",
+            },
+            {
+                "review_id": "LRH-003",
+                "topic": "Council of Peace entity split",
+                "decision_needed": "Decide whether the institution and faction pages represent distinct canonical entities or two views of one entity.",
+                "recommended_disposition": "KEEP_DISTINCT_INSTITUTION_AND_FACTION_ENTITIES_WITH_SHARED_ALIAS",
+                "allowed_dispositions": ["KEEP_DISTINCT_INSTITUTION_AND_FACTION_ENTITIES_WITH_SHARED_ALIAS", "MERGE_AS_ONE_INSTITUTION", "MERGE_AS_ONE_FACTION", "DEFER"],
+                "evidence": ["canon/institutions/council_of_peace.md", "canon/factions/council_of_peace.md"],
+                "status": "OPEN",
+            },
+            {
+                "review_id": "LRH-004",
+                "topic": "Ustur entity split",
+                "decision_needed": "Decide whether Ustur species and Ustur faction remain distinct canonical entities.",
+                "recommended_disposition": "KEEP_DISTINCT_SPECIES_AND_FACTION_ENTITIES_WITH_SHARED_NAME",
+                "allowed_dispositions": ["KEEP_DISTINCT_SPECIES_AND_FACTION_ENTITIES_WITH_SHARED_NAME", "MAP_LEGACY_ID_TO_FACTION_ONLY", "MAP_LEGACY_ID_TO_SPECIES_ONLY", "DEFER"],
+                "evidence": ["canon/species/ustur.md", "canon/factions/ustur.md"],
+                "status": "OPEN",
+            },
+            {
+                "review_id": "LRH-005",
+                "topic": "Star Atlas: CORE legacy entity",
+                "decision_needed": "Choose whether to preserve the unmatched legacy entity or defer it until a direct upstream page is acquired.",
+                "recommended_disposition": "PRESERVE_LEGACY_ENTITY_AND_DEFER_NEW_MAPPING",
+                "allowed_dispositions": ["PRESERVE_LEGACY_ENTITY_AND_DEFER_NEW_MAPPING", "DEPRECATE_LEGACY_ENTITY", "RESEARCH_FOR_DIRECT_PAGE"],
+                "evidence": ["LORE-NARRATIVE-CORE", "operations/campaigns/lore-repository-ingestion-2026-07/taxonomy-migration-report.json"],
+                "status": "OPEN",
+            },
+            {
+                "review_id": "LRH-006",
+                "topic": "The Voice of Iris legacy entity",
+                "decision_needed": "Choose whether to preserve the unmatched legacy entity or defer it until a direct upstream page is acquired.",
+                "recommended_disposition": "PRESERVE_LEGACY_ENTITY_AND_DEFER_NEW_MAPPING",
+                "allowed_dispositions": ["PRESERVE_LEGACY_ENTITY_AND_DEFER_NEW_MAPPING", "DEPRECATE_LEGACY_ENTITY", "RESEARCH_FOR_DIRECT_PAGE"],
+                "evidence": ["LORE-VOICE-OF-IRIS", "operations/campaigns/lore-repository-ingestion-2026-07/taxonomy-migration-report.json"],
+                "status": "OPEN",
+            },
+            {
+                "review_id": "LRH-007",
+                "topic": "Source branch and live deployment",
+                "decision_needed": "Confirm whether current main remains the ingestion authority even though the live gh-pages deployment is older.",
+                "recommended_disposition": "KEEP_CURRENT_MAIN_AS_SOURCE_AND_PRESERVE_LIVE_SITE_AS_SEPARATE_SNAPSHOT",
+                "allowed_dispositions": ["KEEP_CURRENT_MAIN_AS_SOURCE_AND_PRESERVE_LIVE_SITE_AS_SEPARATE_SNAPSHOT", "USE_LIVE_DEPLOYMENT_TEXT", "WAIT_FOR_REDEPLOYMENT"],
+                "evidence": ["LRC-003-BRANCH-AUTHORITY", "LRC-004-DEPLOYMENT-STALE"],
+                "status": "OPEN",
+            },
+            {
+                "review_id": "LRH-008",
+                "topic": "Canon/docs mirror divergence policy",
+                "decision_needed": "Choose the standing rule for 86 divergent canon/docs page pairs.",
+                "recommended_disposition": "CANON_CONTROLS_TAXONOMY_AND_BOTH_TEXT_VARIANTS_REMAIN_PRESERVED",
+                "allowed_dispositions": ["CANON_CONTROLS_TAXONOMY_AND_BOTH_TEXT_VARIANTS_REMAIN_PRESERVED", "DOCS_CONTROLS_PUBLISHED_TEXT", "REQUIRE_PAGE_BY_PAGE_ADJUDICATION"],
+                "evidence": ["operations/campaigns/lore-repository-ingestion-2026-07/mirror-divergence-ledger.json"],
+                "evidence_count": len(mirror_divergences),
+                "status": "OPEN",
+            },
+            {
+                "review_id": "LRH-009",
+                "topic": "Unresolved upstream links",
+                "decision_needed": "Choose whether 252 broken source-local links remain preserved defects or receive a later repair campaign.",
+                "recommended_disposition": "PRESERVE_SOURCE_AND_STAGE_SEPARATE_LINK_REPAIR_CAMPAIGN",
+                "allowed_dispositions": ["PRESERVE_SOURCE_AND_STAGE_SEPARATE_LINK_REPAIR_CAMPAIGN", "LEAVE_PERMANENTLY_UNRESOLVED", "REPAIR_NORMALIZED_LINKS_NOW"],
+                "evidence": ["operations/campaigns/lore-repository-ingestion-2026-07/unresolved-reference-ledger.json"],
+                "evidence_count": len(unresolved_links),
+                "status": "OPEN",
+            },
+            {
+                "review_id": "LRH-010",
+                "topic": "Live sitemap-only ONI/CSS lore page",
+                "decision_needed": "Classify the live sitemap URL that is absent from current docs but present in the canon source tree.",
+                "recommended_disposition": "KEEP_AS_CANON_SOURCE_WITH_STALE_DEPLOYMENT_PROVENANCE",
+                "allowed_dispositions": ["KEEP_AS_CANON_SOURCE_WITH_STALE_DEPLOYMENT_PROVENANCE", "TREAT_AS_LIVE_SITE_ONLY", "DEFER"],
+                "evidence": ["canon/geography/oni_css_lore_layer.md", "https://joseeduardonoot.github.io/star-atlas-lore/geography/oni_css_lore_layer/"],
+                "status": "OPEN",
+            },
+            {
+                "review_id": "LRH-011",
+                "topic": "Self-reported chronology ordering errors",
+                "decision_needed": "Adjudicate or defer each of the 12 source-reported chronology ordering errors.",
+                "recommended_disposition": "DEFER_INDIVIDUAL_CORRECTIONS_UNTIL_OFFICIAL_PRIMARY_EVIDENCE_IS_ATTACHED",
+                "allowed_dispositions": ["DEFER_INDIVIDUAL_CORRECTIONS_UNTIL_OFFICIAL_PRIMARY_EVIDENCE_IS_ATTACHED", "ACCEPT_UPSTREAM_ORDER", "CORRECT_SELECTED_ITEMS_WITH_CITATIONS"],
+                "evidence": upstream_verification.get("chrono_errors", []),
+                "evidence_count": len(upstream_verification.get("chrono_errors", [])),
+                "status": "OPEN",
+            },
+            {
+                "review_id": "LRH-012",
+                "topic": "Possible contradiction clusters",
+                "decision_needed": "Adjudicate or dismiss each of the 20 machine-flagged lexical contradiction clusters.",
+                "recommended_disposition": "TREAT_AS_RESEARCH_CANDIDATES_NOT_CONFIRMED_CONTRADICTIONS",
+                "allowed_dispositions": ["TREAT_AS_RESEARCH_CANDIDATES_NOT_CONFIRMED_CONTRADICTIONS", "REVIEW_CLUSTER_BY_CLUSTER", "ACCEPT_AS_CONTRADICTIONS"],
+                "evidence": upstream_verification.get("contradictions", []),
+                "evidence_count": len(upstream_verification.get("contradictions", [])),
+                "status": "OPEN",
+            },
+            {
+                "review_id": "LRH-013",
+                "topic": "Orphaned timeline years",
+                "decision_needed": "Decide whether seven unindexed years require timeline additions or should remain source-local references.",
+                "recommended_disposition": "PRESERVE_AS_RESEARCH_GAPS_PENDING_TIMELINE_EVIDENCE_REVIEW",
+                "allowed_dispositions": ["PRESERVE_AS_RESEARCH_GAPS_PENDING_TIMELINE_EVIDENCE_REVIEW", "ADD_TO_LORE_TIMELINE_INDEX", "DISMISS_AS_NON_EVENT_REFERENCES"],
+                "evidence": upstream_verification.get("orphaned_years", []),
+                "evidence_count": len(upstream_verification.get("orphaned_years", [])),
+                "status": "OPEN",
+            },
+            {
+                "review_id": "LRH-014",
+                "topic": "Embedded workstation paths",
+                "decision_needed": "Choose whether normalized display copies should redact two upstream absolute workstation paths while raw evidence remains immutable.",
+                "recommended_disposition": "PRESERVE_RAW_AND_REDACT_ONLY_IN_FUTURE_PUBLICATION_OUTPUTS",
+                "allowed_dispositions": ["PRESERVE_RAW_AND_REDACT_ONLY_IN_FUTURE_PUBLICATION_OUTPUTS", "PRESERVE_EVERYWHERE", "REDACT_NORMALIZED_DISPLAY_COPIES"],
+                "evidence": embedded_local_paths,
+                "evidence_count": len(embedded_local_paths),
+                "status": "OPEN",
+            },
         ],
     }
 
@@ -1043,7 +1174,6 @@ def build() -> dict[str, bytes]:
             "captured_at": CAPTURED_AT,
             "access": "public",
             "authenticity": "repository_commit_verified",
-            "publication_restriction": "LICENSE_REVIEW_REQUIRED",
             "source_lineage": {
                 "publication": UPSTREAM_REPOSITORY,
                 "publication_role": "OPERATOR_DESIGNATED_LORE_TAXONOMY_SOURCE",
@@ -1162,7 +1292,6 @@ def build() -> dict[str, bytes]:
             "atmta_affiliation_independently_verified": False,
             "operator_designation_applied": True,
         },
-        "license": {"declared_spdx_id": None, "status": "NO_LICENSE_DECLARED_AT_CAPTURE", "manual_review_required": True},
         "immutability": {"historical_source_rewrites": 0, "raw_snapshot_modified": False},
     }
 
@@ -1253,11 +1382,24 @@ The public lore repository was preserved at immutable `main` commit `{UPSTREAM_C
 - Existing lore ID mappings requiring review: {summary['migration_mappings_requiring_review']}
 - Manual-review conflict groups: {summary['manual_review_conflicts']}
 
-The upstream identity label, missing license, stale deployment, divergent mirrors, self-reported chronology conflicts, broken references, and ambiguous legacy mappings remain explicit. These do not alter the preserved source and do not become canonical claims through ingestion.
+The upstream identity label, stale deployment, divergent mirrors, self-reported chronology conflicts, broken references, and ambiguous legacy mappings remain explicit. These do not alter the preserved source and do not become canonical claims through ingestion.
 """
     backlog_md = "# Lore Repository Research Backlog\n\n" + "\n".join(
         f"{item['priority']}. **{item['topic']}** — {item['required_artifact']}"
         for item in research_backlog["items"]
+    ) + "\n"
+    human_review_md = "# Lore Repository Human Review Items\n\n" + "\n\n".join(
+        "\n".join([
+            f"## {item['review_id']} — {item['topic']}",
+            "",
+            f"- Status: `{item['status']}`",
+            f"- Decision needed: {item['decision_needed']}",
+            f"- Recommended disposition: `{item['recommended_disposition']}`",
+            f"- Allowed dispositions: {', '.join(f'`{value}`' for value in item['allowed_dispositions'])}",
+            f"- Evidence: {', '.join(f'`{value}`' if isinstance(value, str) else 'embedded structured evidence' for value in item['evidence'][:5])}",
+            *([f"- Evidence count: {item['evidence_count']}"] if "evidence_count" in item else []),
+        ])
+        for item in human_review["decision_items"]
     ) + "\n"
 
     rendered: dict[str, bytes] = {}
@@ -1266,7 +1408,7 @@ The upstream identity label, missing license, stale deployment, divergent mirror
         rendered[Path(path).as_posix()] = content.encode("utf-8")
 
     add_text(PROVENANCE_REL / "upstream-snapshot.json", dump_json(provenance))
-    add_text(PROVENANCE_REL / "authority-assessment.json", dump_json(provenance["authority_assessment"] | {"identity_observations": provenance["identity_observations"], "license": provenance["license"]}))
+    add_text(PROVENANCE_REL / "authority-assessment.json", dump_json(provenance["authority_assessment"] | {"identity_observations": provenance["identity_observations"]}))
     add_text(NORMALIZED_REL / "pages.jsonl", dump_jsonl(sorted(pages, key=lambda item: item["source_id"])))
     add_text(NORMALIZED_REL / "entities.jsonl", dump_jsonl(entities))
     add_text(NORMALIZED_REL / "relationships.jsonl", dump_jsonl(relationships))
@@ -1293,6 +1435,8 @@ The upstream identity label, missing license, stale deployment, divergent mirror
     add_text(CAMPAIGN_REL / "conflict-report.md", conflict_md)
     add_text(CAMPAIGN_REL / "research-backlog.json", dump_json(research_backlog))
     add_text(CAMPAIGN_REL / "research-backlog.md", backlog_md)
+    add_text(CAMPAIGN_REL / "human-review-items.json", dump_json(human_review))
+    add_text(CAMPAIGN_REL / "human-review-items.md", human_review_md)
     add_text(CAMPAIGN_REL / "campaign-summary.json", dump_json(summary))
     add_text(CAMPAIGN_REL / "campaign-summary.md", summary_md)
 
