@@ -1,0 +1,60 @@
+{
+  "campaign_id": "starbased-ship-states-ingestion-2026-07",
+  "schema_version": "1.1.0",
+  "files": [
+    {
+      "path": "archive/normalized/starbased-ship-states/base-ships.jsonl",
+      "role": "qualified_normalized_records",
+      "sha256": "e4bb0d1ae899cc342fb25895bb0f05372b617cad7f207db22acb2ea78a0b8777",
+      "records": 63
+    },
+    {
+      "path": "archive/normalized/starbased-ship-states/metadata.json",
+      "role": "normalized_metadata",
+      "sha256": "0d225fcc3f967572d5a3c0260c8bd07f6ff3d1a30b6728bf14bf91b0619afb76",
+      "records": 1
+    },
+    {
+      "path": "archive/provenance/starbased-ship-states/rydn_starbased_ships_20260718.json",
+      "role": "provenance",
+      "sha256": "8ea38b21ae19ae12f3890b77966ede3777a02eec375d6246921a210d40983846",
+      "records": 1
+    },
+    {
+      "path": "archive/raw/starbased-ship-states/rydn_starbased_ships_20260718.csv",
+      "role": "raw_source",
+      "sha256": "7b90513e578998b8e763dd440984268000efed91c95feb047e81a19817a82dc9",
+      "records": 63
+    },
+    {
+      "path": "operations/campaigns/starbased-ship-states-ingestion-2026-07/campaign-summary.json",
+      "role": "campaign_derivative",
+      "sha256": "91fbd860282dcdc8f094f9a8024fe299f81c321a60aefc420f86526ca2287872",
+      "records": 1
+    },
+    {
+      "path": "operations/campaigns/starbased-ship-states-ingestion-2026-07/context-questions.json",
+      "role": "campaign_derivative",
+      "sha256": "2ffc1892da0214b732659dba66b24d4d1923d32e78209ead7a4828f182706ecc",
+      "records": 1
+    },
+    {
+      "path": "operations/campaigns/starbased-ship-states-ingestion-2026-07/normalization-map.json",
+      "role": "campaign_derivative",
+      "sha256": "61983bdbf92e9d10406466269c64f2a8810c2fb0daa5dc2bb2cbbb3e72d320dd",
+      "records": 1
+    },
+    {
+      "path": "operations/campaigns/starbased-ship-states-ingestion-2026-07/normalized-preview.jsonl",
+      "role": "campaign_derivative",
+      "sha256": "e4bb0d1ae899cc342fb25895bb0f05372b617cad7f207db22acb2ea78a0b8777",
+      "records": 63
+    },
+    {
+      "path": "operations/campaigns/starbased-ship-states-ingestion-2026-07/source-profile.json",
+      "role": "campaign_derivative",
+      "sha256": "a852754524bb301c4ce5a554e4876fd03abd60fd303f475049af91eaa0d3a7cc",
+      "records": 1
+    }
+  ]
+}

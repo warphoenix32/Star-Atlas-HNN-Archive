@@ -1,0 +1,286 @@
+{
+  "campaign_id": "starbased-ship-states-ingestion-2026-07",
+  "status": "pass",
+  "checks": [
+    {
+      "name": "raw_artifact_checksum",
+      "passed": true,
+      "detail": "7b90513e578998b8e763dd440984268000efed91c95feb047e81a19817a82dc9"
+    },
+    {
+      "name": "provenance_reconciles_to_raw",
+      "passed": true,
+      "detail": {
+        "byte_length": 10296,
+        "encoding": "UTF-8 without BOM",
+        "line_endings": "CRLF",
+        "path": "archive/raw/starbased-ship-states/rydn_starbased_ships_20260718.csv",
+        "sha256": "7b90513e578998b8e763dd440984268000efed91c95feb047e81a19817a82dc9"
+      }
+    },
+    {
+      "name": "qualified_lineage_is_nonassertive",
+      "passed": true,
+      "detail": {
+        "acquired_at": "2026-07-18",
+        "acquisition_method": "submitted directly by repository operator",
+        "original_filename": "rydn_starbased_ships_20260718.csv",
+        "preservation_policy": "byte-for-byte raw preservation",
+        "observed_distributor": "Ryden Systems",
+        "distributor_name_resolution": "RYDN means Ryden",
+        "asserted_upstream_authority": "Star Atlas",
+        "lineage_basis": "OPERATOR_SUPPLIED_CONTEXT",
+        "lineage_verification": "NOT_INDEPENDENTLY_VERIFIED",
+        "upstream_document_url": "UNKNOWN",
+        "upstream_document_version": "UNKNOWN"
+      }
+    },
+    {
+      "name": "provenance_excludes_local_personal_path",
+      "passed": true,
+      "detail": "rydn_starbased_ships_20260718.csv"
+    },
+    {
+      "name": "exact_header_contract",
+      "passed": true,
+      "detail": [
+        "",
+        "NameLinks to Marketplace",
+        "Spec",
+        "CargoCapacity",
+        "USDC /Cargo Capacity",
+        "FuelCapacity",
+        "AmmoCapacity",
+        "Food / sec(Mining)",
+        "Ammo / sec(Mining)",
+        "Mining Rate[Resource/sec]",
+        "USDC /Mining Rate",
+        "Subwarp Speed[AU/sec]",
+        "Warp Speed[AU/sec]",
+        "Max WarpDistance [AU]",
+        "Warp Cooldown[sec]",
+        "Fuel /AU Warp",
+        "Cargo /Warp Fuel",
+        "Fuel /AU Subwarp",
+        "Asteroid ExitFuel",
+        "Crew ",
+        "Passengers ",
+        "Respawn Time[sec]",
+        "Scan Cooldown[sec]",
+        "Food /Scan",
+        "SDU /Scan",
+        "Food /SDU"
+      ]
+    },
+    {
+      "name": "source_dimensions",
+      "passed": true,
+      "detail": {
+        "rows": 63,
+        "columns": 26
+      }
+    },
+    {
+      "name": "blank_first_header_only",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "complete_cells",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "unique_ship_codes",
+      "passed": true,
+      "detail": 63
+    },
+    {
+      "name": "unique_ship_names",
+      "passed": true,
+      "detail": 63
+    },
+    {
+      "name": "unique_complete_rows",
+      "passed": true,
+      "detail": 63
+    },
+    {
+      "name": "numeric_metric_cells",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "generated_operations_campaigns_starbased-ship-states-ingestion-2026-07_source-profile.json_fixed_point",
+      "passed": true,
+      "detail": "operations/campaigns/starbased-ship-states-ingestion-2026-07/source-profile.json"
+    },
+    {
+      "name": "generated_operations_campaigns_starbased-ship-states-ingestion-2026-07_normalization-map.json_fixed_point",
+      "passed": true,
+      "detail": "operations/campaigns/starbased-ship-states-ingestion-2026-07/normalization-map.json"
+    },
+    {
+      "name": "generated_operations_campaigns_starbased-ship-states-ingestion-2026-07_normalized-preview.jsonl_fixed_point",
+      "passed": true,
+      "detail": "operations/campaigns/starbased-ship-states-ingestion-2026-07/normalized-preview.jsonl"
+    },
+    {
+      "name": "generated_operations_campaigns_starbased-ship-states-ingestion-2026-07_context-questions.json_fixed_point",
+      "passed": true,
+      "detail": "operations/campaigns/starbased-ship-states-ingestion-2026-07/context-questions.json"
+    },
+    {
+      "name": "generated_operations_campaigns_starbased-ship-states-ingestion-2026-07_campaign-summary.json_fixed_point",
+      "passed": true,
+      "detail": "operations/campaigns/starbased-ship-states-ingestion-2026-07/campaign-summary.json"
+    },
+    {
+      "name": "generated_operations_campaigns_starbased-ship-states-ingestion-2026-07_manifest.json_fixed_point",
+      "passed": true,
+      "detail": "operations/campaigns/starbased-ship-states-ingestion-2026-07/manifest.json"
+    },
+    {
+      "name": "generated_archive_normalized_starbased-ship-states_base-ships.jsonl_fixed_point",
+      "passed": true,
+      "detail": "archive/normalized/starbased-ship-states/base-ships.jsonl"
+    },
+    {
+      "name": "generated_archive_normalized_starbased-ship-states_metadata.json_fixed_point",
+      "passed": true,
+      "detail": "archive/normalized/starbased-ship-states/metadata.json"
+    },
+    {
+      "name": "deterministic_build",
+      "passed": true,
+      "detail": [
+        "archive/normalized/starbased-ship-states/base-ships.jsonl",
+        "archive/normalized/starbased-ship-states/metadata.json",
+        "operations/campaigns/starbased-ship-states-ingestion-2026-07/campaign-summary.json",
+        "operations/campaigns/starbased-ship-states-ingestion-2026-07/context-questions.json",
+        "operations/campaigns/starbased-ship-states-ingestion-2026-07/manifest.json",
+        "operations/campaigns/starbased-ship-states-ingestion-2026-07/normalization-map.json",
+        "operations/campaigns/starbased-ship-states-ingestion-2026-07/normalized-preview.jsonl",
+        "operations/campaigns/starbased-ship-states-ingestion-2026-07/source-profile.json"
+      ]
+    },
+    {
+      "name": "preview_record_count",
+      "passed": true,
+      "detail": 63
+    },
+    {
+      "name": "normalized_record_count",
+      "passed": true,
+      "detail": 63
+    },
+    {
+      "name": "preview_exactly_reconciles_to_normalized",
+      "passed": true,
+      "detail": 63
+    },
+    {
+      "name": "normalized_record_ids_unique",
+      "passed": true,
+      "detail": 63
+    },
+    {
+      "name": "normalized_source_rows_resolve",
+      "passed": true,
+      "detail": {
+        "first": 2,
+        "last": 64
+      }
+    },
+    {
+      "name": "base_template_scope_and_module_qualifications",
+      "passed": true,
+      "detail": 63
+    },
+    {
+      "name": "manual_review_flags_retained",
+      "passed": true,
+      "detail": 4
+    },
+    {
+      "name": "captured_identity_text_preserved",
+      "passed": true,
+      "detail": 63
+    },
+    {
+      "name": "concise_metrics_and_omissions",
+      "passed": true,
+      "detail": {
+        "included_metrics": 20,
+        "omitted_metrics": [
+          "cargo_per_warp_fuel",
+          "usdc_per_cargo_capacity",
+          "usdc_per_mining_rate"
+        ]
+      }
+    },
+    {
+      "name": "literal_warp_speed_and_variable_cooldowns",
+      "passed": true,
+      "detail": {
+        "warp_speed": 100000,
+        "distinct_cooldowns": 8
+      }
+    },
+    {
+      "name": "mapping_is_complete_and_non_circular",
+      "passed": true,
+      "detail": 26
+    },
+    {
+      "name": "omitted_field_ledger_exact",
+      "passed": true,
+      "detail": [
+        "USDC /Cargo Capacity",
+        "USDC /Mining Rate",
+        "Cargo /Warp Fuel"
+      ]
+    },
+    {
+      "name": "curator_answers_complete",
+      "passed": true,
+      "detail": {
+        "answered": 8,
+        "blocking": 0
+      }
+    },
+    {
+      "name": "research_gaps_retained",
+      "passed": true,
+      "detail": [
+        "RG01_UPSTREAM_DOCUMENT",
+        "RG02_COLLECTION_COMPLETENESS",
+        "RG03_MARKETPLACE_IDENTITY",
+        "RG04_UNRESOLVED_UNITS"
+      ]
+    },
+    {
+      "name": "normalized_metadata_qualifies_scope",
+      "passed": true,
+      "detail": {
+        "records": 63,
+        "research_gaps": 4
+      }
+    },
+    {
+      "name": "manifest_checksums_resolve",
+      "passed": true,
+      "detail": []
+    }
+  ],
+  "summary": {
+    "checks_passed": 37,
+    "checks_total": 37,
+    "raw_artifacts": 1,
+    "preview_records": 63,
+    "normalized_records": 63,
+    "answered_context_questions": 8,
+    "blocking_context_questions": 0,
+    "remaining_research_gaps": 4
+  }
+}
