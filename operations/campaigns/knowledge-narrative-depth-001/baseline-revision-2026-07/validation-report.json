@@ -1,0 +1,14 @@
+{
+  "campaign_id": "knowledge-baseline-revision-2026-07",
+  "checks": {
+    "all_pages_assigned_to_wave": true,
+    "all_pages_have_revision_action": true,
+    "all_pages_indexed_once": true,
+    "deterministic": true,
+    "git_diff_check": true,
+    "knowledge_untouched": true,
+    "page_count_reconciles": true
+  },
+  "page_count": 80,
+  "status": "PASS"
+}
