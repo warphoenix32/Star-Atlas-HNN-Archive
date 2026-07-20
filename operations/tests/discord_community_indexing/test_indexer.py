@@ -44,7 +44,7 @@ def test_parses_markdown_text_and_html(tmp_path):
     assert (html_message.message_id, html_message.channel_id, html_message.author_id) == ("9", "8", "7")
 
 
-def test_does_not_merge_fuzzy_names_without_evidence(tmp_path):
+def test_operator_adjudication_resolves_virtuwul_legacy_spellings(tmp_path):
     root = tmp_path
     base = root / "archive" / "normalized" / "discord-test"
     base.mkdir(parents=True)
@@ -56,8 +56,10 @@ def test_does_not_merge_fuzzy_names_without_evidence(tmp_path):
     messages, _ = indexer.load_messages(root)
     aliases, _ = indexer.build_alias_registry(messages)
     identities, _, _ = indexer.build_indexes(messages, aliases)
-    observed = {record["canonical_handle"] for record in identities if record["canonical_handle"] in {"Virtuwaal", "Virtuwuul"}}
-    assert observed == {"Virtuwaal", "Virtuwuul"}
+    matched = [record for record in identities if record["canonical_handle"] == "Virtuwul"]
+    assert len(matched) == 1
+    assert set(matched[0]["confirmed_aliases"]) == {"Virtuwaal", "Virtuwuul"}
+    assert set(matched[0]["observed_handles"]) == {"Virtuwaal", "Virtuwuul"}
 
 
 def test_relationship_claims_resolve_and_are_dated(tmp_path):
@@ -178,9 +180,9 @@ def test_competition_parser_does_not_make_prize_text_a_participant(tmp_path):
     aliases, _ = indexer.build_alias_registry(messages)
     records, relationships, reviews = indexer.extract_competition_records(messages, aliases)
     assert any(item["participant"] == "Aephia" and item["resolution_status"] == "RESOLVED" for item in records)
-    assert any(item["resolution_status"] == "REVIEW_REQUIRED_PRIZE_OR_CATEGORY" for item in records)
+    assert any(item["resolution_status"] == "CLASSIFIED_AS_PRIZE_OR_CATEGORY" for item in records)
     assert not any("CSS Tier" in item["subject_name"] for item in relationships)
-    assert any(item["review_type"] == "malformed_competition_result" for item in reviews)
+    assert not any(item["review_type"] == "malformed_competition_result" for item in reviews)
 
 
 def test_council_service_is_not_guild_leadership(tmp_path):
@@ -220,15 +222,17 @@ def test_coverage_is_export_scoped_and_preserves_observed_header(tmp_path):
     assert coverage["summary"]["native_servers_identified"] == 0
     assert coverage["summary"]["canonical_native_channels_identified"] == 0
     assert coverage["channels"][0]["observed_channel_names"] == ["Compromised Discord Account of EX Team Member,"]
-    assert coverage["channels"][0]["coverage_status"] == "UNRESOLVED_CHANNEL"
+    assert coverage["channels"][0]["coverage_status"] == "ACTIVE_PARTIAL"
+    assert coverage["channels"][0]["observed_title_treatment"] == "COLLECTION_TOOL_FIRST_MESSAGE_TITLE_ARTIFACT_NOT_CHANNEL_NAME"
+    assert coverage["channels"][0]["canonical_community_beginning"]["value"] == "2021-03"
     assert set(coverage["supported_coverage_statuses"]) == indexer.COVERAGE_STATUSES
     assert set(coverage["supported_channel_categories"]) == indexer.CHANNEL_CATEGORIES
     assert gaps["gaps"][0]["zero_message_months"] == []
     assert any(item["target"] == "Foudnation Room" for item in backlog["items"])
 
 
-def test_human_queue_retains_required_seeded_unresolved_items(tmp_path):
-    write_jsonl(tmp_path, [{"source_id": "queue-1", "author": "Official", "timestamp": "2025-01-01T00:00:00", "content": "Hello."}])
+def test_human_queue_removes_resolved_seeded_items_but_retains_michael(tmp_path):
+    write_jsonl(tmp_path, [{"source_id": "queue-1", "author": "Michael", "timestamp": "2025-01-01T00:00:00", "content": "Hello."}])
     messages, inventory, duplicate_reviews = indexer.load_messages(tmp_path, include_duplicate_reviews=True)
     aliases, conflicts = indexer.build_alias_registry(messages)
     identities, organizations, relationships = indexer.build_indexes(messages, aliases)
@@ -236,18 +240,63 @@ def test_human_queue_retains_required_seeded_unresolved_items(tmp_path):
     coverage, _, _ = indexer.build_channel_coverage(messages, inventory)
     queue = indexer.build_human_resolution_queue(duplicate_reviews, conflicts, tags, organizations, relationships, [], coverage)
     subjects = {item["subject"] for item in queue["items"]}
-    assert {"Agent Solace", "The Vanguard", "Virtuwaal", "Chri.z", "Shaddix", "Rome guild history", "Virtuwaal / Virtuwuul"} <= subjects
+    assert "Michael" in subjects
+    assert not {"Agent Solace", "The Vanguard", "Virtuwaal", "Virtuwul", "Chri.z", "Shaddix", "Virtuwaal / Virtuwuul"} & subjects
     assert all(item["decision_status"] == "OPEN" and item["operator_decision"] is None for item in queue["items"])
 
 
 def test_curator_decisions_are_complete_and_explicit():
     decisions = indexer.curator_decisions()
-    assert decisions["item_count"] == 29
+    assert decisions["item_count"] == 41
     by_number = {item["item"]: item for item in decisions["items"]}
     assert by_number[7]["decision"] == "PROMOTION_APPROVED"
     assert by_number[11]["decision"] == "EXCLUDE_PUBLIC_ENTITY"
     assert by_number[23]["decision"] == "NOT_PROMOTABLE"
-    assert by_number[17]["decision"] == by_number[28]["decision"] == "DEFERRED"
+    assert by_number[17]["decision"] == by_number[28]["decision"] == "CONFIRMED"
+    assert by_number[30]["decision"] == by_number[31]["decision"] == by_number[33]["decision"] == "CONFIRMED"
+    assert by_number[32]["decision"] == "DEFERRED"
+    assert by_number[36]["decision"] == "DEFERRED"
+    assert by_number[37]["decision"] == "CONFIRMED_ASSOCIATION"
+    assert by_number[39]["decision"] == "RESOLVED_TOOL_ARTIFACT"
+    assert by_number[41]["decision"] == "CONFIRMED"
+
+
+def test_curator_authority_and_identity_resolutions_are_scoped(tmp_path):
+    write_jsonl(tmp_path, [{
+        "source_id": "econ-1", "author": "Official", "timestamp": "2025-01-01T00:00:00",
+        "content": "Head of Game Economy @Chri.z joined @Shaddix1. Mentions: @Chri.z, @Shaddix1",
+    }])
+    messages, _ = indexer.load_messages(tmp_path)
+    aliases, _ = indexer.build_alias_registry(messages)
+    identities, organizations, relationships = indexer.build_indexes(messages, aliases)
+    by_name = {record["canonical_handle"]: record for record in identities}
+    assert by_name["Chris Kaczmarczyk-Smith"]["authority_scope"] == "OFFICIAL_TEAM_GAME_ECONOMY_SUBJECT_MATTER_AUTHORITY"
+    assert by_name["Chris Kaczmarczyk-Smith"]["attributed_statement_treatment"] == "AUTHORITATIVE_CANONICAL_WITHIN_GAME_ECONOMY_SCOPE"
+    assert "official_team_member" in by_name["Chris Kaczmarczyk-Smith"]["operator_confirmed_roles"]
+    assert {"creator_or_builder", "moderator", "guild_member"} <= set(by_name["Shaddix"]["operator_confirmed_roles"])
+    vanguard = next(record for record in organizations if record["canonical_name"] == "The Vanguard")
+    assert vanguard["entity_type"] == "guild"
+    assert any(item["tag"] == "VΛ" and item["canonical_entity"] == "The Vanguard" for item in indexer.TAG_REGISTRY_SEEDS)
+    assert any(item["subject_name"] == "Virtuwul" and item["predicate"] == "owns" and item["object_name"] == "Rainbow Phi" for item in relationships)
+
+
+def test_agora_profile_and_leadership_preserve_association_boundary(tmp_path):
+    write_jsonl(tmp_path, [{
+        "source_id": "agora-1", "author": "Official", "timestamp": "2025-01-01T00:00:00",
+        "content": "Community update. Mentions: @[Λ] Visitor",
+    }])
+    messages, _ = indexer.load_messages(tmp_path)
+    aliases, _ = indexer.build_alias_registry(messages)
+    identities, organizations, relationships = indexer.build_indexes(messages, aliases)
+    agora = next(record for record in organizations if record["canonical_name"] == "Agora")
+    assert agora["aliases"] == ["Ágora"]
+    assert agora["operator_supplied_profile"]["confirmed_leaders"] == ["SAWYN", "Neo_AArmstrong"]
+    assert agora["operator_supplied_profile"]["discord_invite"] == "https://discord.gg/69HsqtZ22N"
+    simplified = {(item["subject_name"], item["predicate"], item["object_name"]) for item in relationships}
+    assert ("Visitor", "associated_with_guild", "Agora") in simplified
+    assert ("Visitor", "member_of", "Agora") not in simplified
+    assert ("SAWYN", "leader_of", "Agora") in simplified
+    assert ("Neo_AArmstrong", "leader_of", "Agora") in simplified
 
 
 def test_deleted_users_and_software_bot_are_not_person_candidates(tmp_path):

@@ -3,11 +3,17 @@
   "channels": [
     {
       "canonical_channel_name": null,
+      "canonical_community_beginning": {
+        "basis": "repository_operator_confirmation",
+        "first_captured_message_timestamp": "2021-03-16T14:34:21",
+        "precision": "MONTH",
+        "value": "2021-03"
+      },
       "channel_category": "announcements",
       "channel_identity_basis": "repository collection path plus raw export header; no native channel ID",
       "collection_complete": false,
       "coverage_id": "DISCORD-COVERAGE-919F0AB7195C9A5A",
-      "coverage_status": "UNRESOLVED_CHANNEL",
+      "coverage_status": "ACTIVE_PARTIAL",
       "earliest_message_source_id": "SA-DISCORD-ANN-D27B5214B5BAC6AA",
       "earliest_message_timestamp": "2021-03-16T14:34:21",
       "formats": [
@@ -15,7 +21,7 @@
         "jsonl",
         "md"
       ],
-      "historical_completeness": "PARTIAL_ACQUISITION_RUNTIME_LIMIT_REACHED",
+      "historical_completeness": "CANONICAL_BEGINNING_ESTABLISHED_COLLECTION_WITHIN_PERIOD_PARTIAL",
       "last_ingested_archive_message": {
         "source_id": "SA-DISCORD-ANN-CFA14CCE71C5FD1C",
         "timestamp": "2026-07-12T15:18:19"
@@ -103,6 +109,8 @@
       "observed_channel_names": [
         "Compromised Discord Account of EX Team Member,"
       ],
+      "observed_title_treatment": "COLLECTION_TOOL_FIRST_MESSAGE_TITLE_ARTIFACT_NOT_CHANNEL_NAME",
+      "preformation_history_status": "NONE_EXISTS_OPERATOR_CONFIRMED",
       "repository_designated_channel_name": "announcements",
       "server_identity_status": "REPOSITORY_DESIGNATED_NATIVE_IDENTITY_UNRESOLVED",
       "server_or_community_name": "Star Atlas Discord (repository-designated; native server unresolved)",
@@ -142,7 +150,7 @@
     },
     "source_files_inventoried": 1074,
     "unique_messages": 1071,
-    "unresolved_channel_exports": 1
+    "unresolved_channel_exports": 0
   },
   "supported_channel_categories": [
     "announcements",

@@ -13,6 +13,8 @@ from collections import Counter
 from pathlib import Path
 from urllib.parse import unquote
 
+from promotion_contract import validate_campaign_report
+
 
 ROOT = Path(__file__).resolve().parents[2]
 LINK_RE = re.compile(r"(?<!!)\[[^\]]*\]\(([^)]+)\)")
@@ -155,6 +157,24 @@ def validate_markdown_links() -> int:
     return checked
 
 
+def validate_simplified_promotion_reports() -> int:
+    """Validate campaign reports that explicitly adopt pipeline version 1.0."""
+    checked = 0
+    failures: list[str] = []
+    for path in tracked_files("campaign-report.json"):
+        if not path.relative_to(ROOT).as_posix().startswith("operations/campaigns/"):
+            continue
+        payload = json.loads(path.read_text(encoding="utf-8"))
+        if not isinstance(payload, dict) or payload.get("pipeline_version") != "1.0":
+            continue
+        checked += 1
+        for failure in validate_campaign_report(payload, root=ROOT):
+            failures.append(f"{path.relative_to(ROOT)}: {failure}")
+    if failures:
+        raise ValidationFailure("simplified promotion contract failures:\n" + "\n".join(failures))
+    return checked
+
+
 def validate_forbidden_paths(changes: list[str]) -> str:
     ledger_campaign = any(path.startswith((
         "operations/campaigns/canonical-pip-governance-ledger-2026-07/",
@@ -180,8 +200,22 @@ def validate_forbidden_paths(changes: list[str]) -> str:
         "operations/campaigns/lore-repository-ingestion-2026-07/",
         "operations/tests/lore_repository/",
     )) or path == "archive/manifests/lore-repository-ingestion-2026-07.json" for path in changes)
+    pipeline_framework = any(path in {
+        "operations/docs/SIMPLIFIED-PROMOTION-PIPELINE.md",
+        "operations/schema/PROMOTION-CAMPAIGN-v1.schema.json",
+        "operations/schema/examples/promotion-campaign-v1.json",
+        "operations/templates/simplified-campaign-report.json",
+        "operations/templates/simplified-campaign-report.md",
+    } or path.startswith("operations/tests/promotion_pipeline/") for path in changes)
+    agent_contracts = any(path.startswith((
+        "operations/agents/",
+        "operations/tests/agent_contracts/",
+    )) or path in {
+        "operations/docs/KNOWLEDGE-ARCHITECTURE.md",
+        "operations/templates/knowledge-entry-template.md",
+    } for path in changes)
     common = (".github/workflows/", "operations/ci/")
-    selected = sum((ledger_campaign, knowledge_campaign and not ledger_campaign, medium_campaign, ship_campaign, discord_campaign, library_frontend, lore_campaign))
+    selected = sum((ledger_campaign, knowledge_campaign and not ledger_campaign, medium_campaign, ship_campaign, discord_campaign, library_frontend, lore_campaign, pipeline_framework and not agent_contracts, agent_contracts))
     if selected != 1:
         raise ValidationFailure("unable to select exactly one recognized campaign path contract")
     if ledger_campaign:
@@ -240,6 +274,35 @@ def validate_forbidden_paths(changes: list[str]) -> str:
             "operations/tests/lore_repository/",
         )
         label = "lore-repository-ingestion-2026-07"
+    elif pipeline_framework and not agent_contracts:
+        allowed = common + (
+            "README.md",
+            "operations/README.md",
+            "operations/campaigns/README.md",
+            "operations/ci/README.md",
+            "operations/docs/README.md",
+            "operations/docs/SIMPLIFIED-PROMOTION-PIPELINE.md",
+            "operations/schema/README.md",
+            "operations/schema/PROMOTION-CAMPAIGN-v1.schema.json",
+            "operations/schema/examples/promotion-campaign-v1.json",
+            "operations/templates/README.md",
+            "operations/templates/simplified-campaign-report.json",
+            "operations/templates/simplified-campaign-report.md",
+            "operations/tests/README.md",
+            "operations/tests/promotion_pipeline/",
+        )
+        label = "simplified-knowledge-pipeline"
+    elif agent_contracts:
+        allowed = common + (
+            "operations/README.md",
+            "operations/agents/",
+            "operations/docs/KNOWLEDGE-ARCHITECTURE.md",
+            "operations/docs/SIMPLIFIED-PROMOTION-PIPELINE.md",
+            "operations/templates/knowledge-entry-template.md",
+            "operations/tests/README.md",
+            "operations/tests/agent_contracts/",
+        )
+        label = "repository-agent-contracts"
     forbidden = [path for path in changes if not path.startswith(allowed)]
     if forbidden:
         raise ValidationFailure(f"{label} forbidden-path changes:\n" + "\n".join(forbidden))
@@ -395,17 +458,26 @@ def validate_lore_repository_campaign() -> None:
         raise ValidationFailure("Lore repository campaign artifacts do not reconcile with committed files:\n" + diff.stdout)
 
 
+def validate_promotion_framework() -> None:
+    example = ROOT / "operations/schema/examples/promotion-campaign-v1.json"
+    payload = json.loads(example.read_text(encoding="utf-8"))
+    failures = validate_campaign_report(payload, root=ROOT)
+    if failures:
+        raise ValidationFailure("simplified promotion example is invalid:\n" + "\n".join(failures))
+
+
 def repository_mode(base_ref: str) -> None:
     documents, records = parse_json_corpus()
     schemas = validate_declared_schemas()
     extractions, markdown = validate_source_identity()
     links = validate_markdown_links()
+    promotion_reports = validate_simplified_promotion_reports()
     changes = changed_paths(base_ref)
     contract = validate_forbidden_paths(changes)
     diff = run("git", "diff", "--check", f"{base_ref}...HEAD")
     if diff.returncode:
         raise ValidationFailure("git diff --check failed:\n" + diff.stdout + diff.stderr)
-    print(f"PASS repository-integrity: {documents} JSON; {records} JSONL records; {schemas} schema packages; {extractions} unique extractions; {markdown} Markdown Source Records; {links} links; contract={contract}")
+    print(f"PASS repository-integrity: {documents} JSON; {records} JSONL records; {schemas} schema packages; {extractions} unique extractions; {markdown} Markdown Source Records; {links} links; {promotion_reports} simplified promotion reports; contract={contract}")
 
 
 def campaign_mode(base_ref: str) -> None:
@@ -425,6 +497,10 @@ def campaign_mode(base_ref: str) -> None:
         validate_starbased_ship_campaign()
     elif contract == "lore-repository-ingestion-2026-07":
         validate_lore_repository_campaign()
+    elif contract == "simplified-knowledge-pipeline":
+        validate_promotion_framework()
+    elif contract == "repository-agent-contracts":
+        run(sys.executable, "operations/agents/validate_contracts.py", check=True)
     print(f"PASS campaign-contracts: {contract}")
 
 
