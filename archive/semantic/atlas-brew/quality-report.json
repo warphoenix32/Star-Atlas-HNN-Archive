@@ -1,6 +1,6 @@
 {
-  "campaign_id": "atlas-brew-semantic-retagging-001",
-  "schema_version": "1.0.0",
+  "campaign_id": "atlas-brew-significance-review-2026-07",
+  "schema_version": "1.1.0",
   "generated_from": "archive/normalized/atlas-brew-combined/atlas-brew-combined-normalized.md",
   "authoritative_input_sha256": "d72a34b76fcb2e9876c3e3d34e570c272552b9241eb1acf4cde07bc5dd03ca85",
   "status": "READY_FOR_REVIEW",
@@ -10,142 +10,171 @@
   },
   "output_counts": {
     "segments": 4937,
-    "entity_link_records": 4937,
-    "canonical_entity_links": 3248,
-    "unresolved_entity_references": 1983,
-    "key_quotes": 1218,
-    "timeline_candidates": 1423,
-    "promotion_candidates": 3306,
-    "research_gaps": 148,
-    "exact_duplicate_segments": 0
+    "promotion_candidates_before": 3306,
+    "promotion_candidates_after": 659,
+    "timeline_candidates_before": 1423,
+    "timeline_candidates_after": 384,
+    "quote_candidates_before": 1218,
+    "quote_candidates_after": 193,
+    "promotion_exclusions": 4278,
+    "timeline_exclusions": 4553,
+    "duplicate_clusters": 0
   },
-  "speaker_attribution_confidence": {
-    "UNKNOWN": 4937
-  },
-  "topic_counts": {
-    "PRODUCT": 1830,
-    "GAMEPLAY": 2216,
-    "GOVERNANCE": 553,
-    "ECONOMY": 2052,
-    "TECHNOLOGY": 748,
-    "LORE": 844,
-    "CORPORATE": 643,
-    "PEOPLE": 229,
-    "COMMUNITY": 1918,
-    "PARTNERSHIP": 90,
-    "GUILD": 205,
-    "EVENT": 403,
-    "MARKETING": 270,
-    "OPERATIONS": 392
-  },
-  "statement_counts": {
+  "statement_counts_before": {
     "ANNOUNCEMENT": 297,
-    "STATUS_UPDATE": 1745,
-    "ROADMAP": 2131,
-    "RELEASE": 550,
-    "DESIGN_INTENT": 867,
-    "TECHNICAL_EXPLANATION": 361,
-    "Q_AND_A": 960,
-    "RETROSPECTIVE": 273,
     "CLARIFICATION": 102,
-    "CORRECTION": 20,
     "COMMUNITY_FEEDBACK": 319,
+    "CORRECTION": 20,
+    "DESIGN_INTENT": 867,
     "DISCUSSION": 1023,
+    "Q_AND_A": 960,
+    "RELEASE": 550,
+    "RETROSPECTIVE": 273,
+    "ROADMAP": 2131,
     "SPECULATION": 3514,
+    "STATUS_UPDATE": 1745,
+    "TECHNICAL_EXPLANATION": 361,
     "THEORYCRAFTING": 59
   },
-  "lifecycle_counts": {
-    "FIRST_MENTION": 9,
-    "PLANNED": 763,
-    "IN_DEVELOPMENT": 290,
-    "TESTING": 116,
-    "LIVE": 95,
-    "UPDATED": 266,
-    "SUPERSEDED": 0,
-    "DEPRECATED": 22,
-    "CANCELLED": 2,
-    "UNKNOWN": 492
+  "statement_counts_after": {
+    "ANNOUNCEMENT": 24,
+    "CLARIFICATION": 180,
+    "COMMUNITY_FEEDBACK": 25,
+    "CORRECTION": 29,
+    "DISCUSSION": 3541,
+    "RELEASE": 333,
+    "RETROSPECTIVE": 88,
+    "ROADMAP": 70,
+    "SPECULATION": 689,
+    "STATUS_UPDATE": 271,
+    "TECHNICAL_EXPLANATION": 163
   },
-  "evidence_counts": {
-    "CANONICAL_KNOWLEDGE": 0,
-    "TIMELINE_EVENT": 1423,
-    "ENTITY_UPDATE": 1073,
-    "GRAPH_RELATIONSHIP": 743,
-    "RESEARCH_GAP": 4937,
-    "CONTRADICTION": 20,
-    "LOW_VALUE": 154,
-    "DUPLICATE": 0
+  "lifecycle_counts_after": {
+    "CANCELLED": 7,
+    "DEPRECATED": 13,
+    "IN_DEVELOPMENT": 205,
+    "LIVE": 19,
+    "PLANNED": 67,
+    "SUPERSEDED": 1,
+    "TESTING": 9,
+    "UPDATED": 102
+  },
+  "content_significance": {
+    "CONTEXTUAL_DISCUSSION": 2220,
+    "DATEABLE_EVENT": 70,
+    "INSTITUTIONAL_CLAIM": 659,
+    "LOW_VALUE_OR_BACKGROUND": 1988
+  },
+  "speaker_dependency": {
+    "NONE": 1830,
+    "PARTIAL": 2220,
+    "REQUIRED": 887
+  },
+  "candidate_confidence": {
+    "promotion": {
+      "HIGH": 83,
+      "MEDIUM": 576
+    },
+    "timeline": {
+      "LOW": 116,
+      "MEDIUM": 268
+    },
+    "quotes": {
+      "MEDIUM": 193
+    }
+  },
+  "candidate_speaker_dependency": {
+    "promotion": {
+      "NONE": 602,
+      "PARTIAL": 20,
+      "REQUIRED": 37
+    },
+    "timeline": {
+      "NONE": 321,
+      "PARTIAL": 23,
+      "REQUIRED": 40
+    },
+    "quotes": {
+      "NONE": 144,
+      "PARTIAL": 23,
+      "REQUIRED": 26
+    }
   },
   "validation": {
-    "all_json_parses": true,
-    "video_ids_unique": true,
-    "segment_ids_unique": true,
+    "segments_preserved": true,
     "source_ids_reconcile": true,
-    "every_segment_has_entity_link_record": true,
-    "every_segment_references_transcript": true,
-    "transcript_line_references_valid": true,
-    "timestamps_non_decreasing": true,
-    "timestamps_within_source_bounds": true,
     "caption_lines_reconcile": true,
-    "no_orphan_segments": true,
-    "controlled_topics_only": true,
-    "controlled_statements_only": true,
-    "controlled_evidence_only": true,
-    "duplicate_detection_completed": true,
+    "all_promotion_candidates_have_support": true,
+    "all_timeline_candidates_have_support": true,
+    "all_exclusions_have_reasons": true,
+    "speaker_identity_not_inferred": true,
     "canonical_layers_untouched": true
   },
   "manifest": {
-    "artifact_count_excluding_quality_report": 8,
+    "artifact_count_excluding_quality_report": 11,
     "artifacts": [
       {
+        "path": "archive/semantic/atlas-brew/duplicate-clusters.json",
+        "size_bytes": 335,
+        "sha256": "83ca0944623e1876f53d88317ec73269bb8f7c9d246f74b40de056805b79dfab"
+      },
+      {
         "path": "archive/semantic/atlas-brew/entity-links.json",
-        "size_bytes": 1884326,
-        "sha256": "b615e9e1fd01748733388f3c8df395d0bfa39804ae11e78dba46c805f241756b"
+        "size_bytes": 1954528,
+        "sha256": "67a15900edb0e216efcfe1d1b825b30876dc37bd7770eb50541d430d9f06be47"
+      },
+      {
+        "path": "archive/semantic/atlas-brew/promotion-candidate-decisions.json",
+        "size_bytes": 4213747,
+        "sha256": "31bdbb885181117037db6cb80ac6dc9e477413e11e7093e5c684bb34ccdba0fa"
       },
       {
         "path": "archive/semantic/atlas-brew/promotion-candidates.json",
-        "size_bytes": 2548267,
-        "sha256": "955c1183b3991ee1964f3869bd020676896b73a9b6b8f5cebb5debc7554ca1c9"
+        "size_bytes": 1414157,
+        "sha256": "a185e01a796aa0bb1a869b645f4f9a8557abad730a1d62dfc13eb46d31ed70ed"
       },
       {
         "path": "archive/semantic/atlas-brew/quote-index.json",
-        "size_bytes": 761090,
-        "sha256": "a67e7b3f1c77120d0fa12d6050a20ec77685b0ba7311f77d7c21945ef24c77d4"
+        "size_bytes": 203851,
+        "sha256": "e44b4529c8c9b044bfadaef3a9d63e736e78a6bf1e25c88c67e4077d837abe8f"
       },
       {
         "path": "archive/semantic/atlas-brew/research-gaps.json",
-        "size_bytes": 315423,
-        "sha256": "3e3a5e09f5bc37db093570a3c8f443052dc9206b7c7e232363e593cb191f070c"
+        "size_bytes": 645360,
+        "sha256": "1dae37a8110539764b229ca40918b80ff87259e3351c6f2ef2f1cff6b0936100"
       },
       {
         "path": "archive/semantic/atlas-brew/segment-index.json",
-        "size_bytes": 10040963,
-        "sha256": "70bd432b1d34b4cfe92c58c117a99be7c6d9756a32f24c2dae16ba9ee75bd949"
+        "size_bytes": 15446055,
+        "sha256": "65438ff6f1358d9de30e33c1549af15cd8108edb28788dbfc8cca0efd4bd2def"
+      },
+      {
+        "path": "archive/semantic/atlas-brew/timeline-candidate-decisions.json",
+        "size_bytes": 4208998,
+        "sha256": "a584066dab67f16464e4e5d54b1eeff367edd9eb2cdeb463577ae7e435d1a6f4"
       },
       {
         "path": "archive/semantic/atlas-brew/timeline-candidates.json",
-        "size_bytes": 1680474,
-        "sha256": "cfef0b0dae0c486ff76e48b4f25b8a72097cd8175f42be4635464d98df117ca1"
+        "size_bytes": 658222,
+        "sha256": "cc6ac302599b7c26dfd2457c3c126e30b9c169416e386f28da5deb74d264bee8"
       },
       {
         "path": "archive/semantic/atlas-brew/topic-index.json",
-        "size_bytes": 511180,
-        "sha256": "1da4a4f30d5da09100fd75f1b2ff6ae9651a16caedda2e1c810aba71980bcf73"
+        "size_bytes": 525485,
+        "sha256": "7992bbd1920ae9a89d7f98c39b26c109828b527088d8d9bd7ed04c64babef5bc"
       },
       {
         "path": "archive/semantic/atlas-brew/video-index.json",
-        "size_bytes": 347674,
-        "sha256": "acb34783f66b252f0c427f896410260b00f23684e3bdb11b92f1141fa5cd10bd"
+        "size_bytes": 358652,
+        "sha256": "dc8700f46026c8d6478d7cf7f87e657ad8f9056209204934e2fe23d3ad3f4127"
       }
     ],
-    "note": "quality-report.json is the manifest container and is excluded from its own checksum list."
+    "note": "quality-report.json is excluded from its own checksum list."
   },
   "limitations": [
-    "The normalized transcript lacks systematic speaker labels; UNKNOWN is preserved rather than inferred.",
     "Publication dates and original URLs remain absent for the supplied combined transcript sources.",
-    "Semantic tags and candidates are machine-assisted archival annotations and require human review before knowledge promotion.",
-    "Canonical entity links are limited to identifiers already present in repository registries; other exact-name references remain unresolved.",
-    "A lifecycle tag reflects the wording of its segment and does not independently establish release, execution, or current status.",
-    "FIRST_MENTION denotes the first appearance in normalized-corpus order, not a verified historical first-publication date."
+    "Speaker identity remains UNKNOWN; dependency indicates when attribution matters to a claim.",
+    "Candidate confidence measures extraction quality, not factual truth.",
+    "Every candidate requires human review before knowledge promotion."
   ]
 }
