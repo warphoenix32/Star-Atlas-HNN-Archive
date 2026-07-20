@@ -1,5 +1,21 @@
 ---
 title: Community Publication Relationship Index
+seo_title: "Star Atlas Community Publication and Source Lineage Index"
+seo_description: "A relationship map for Star Atlas community publishers, creators, broadcasts, replays, curators, authors, and original sources."
+knowledge_status: QUALIFIED
+as_of: 2026-07-20
+confidence: HIGH
+page_risk_score: 4
+page_risk_class: R2
+evidence_basis:
+  - "archive/source-records/campaign-alpha-aephia/"
+  - "archive/source-records/campaign-bravo-intergalactic-herald/"
+  - "archive/source-records/campaign-charlie-hnn/"
+known_limitations:
+  - "Publisher relationships and ownership can change, and not every historical surface has a complete inventory."
+research_gaps:
+  - "Recover missing mastheads, ownership changes, bylines, mirrors, replay provenance, and original linked sources."
+review_after: 2027-01-20
 entry_type: media-relationship-registry
 status: active
 updated: 2026-07-12
@@ -39,3 +55,7 @@ The following are related but distinct archival identities:
 4. Krigs personal Medium publications.
 
 These identities may share ownership or authorship history but should not be collapsed into a single source record.
+
+## Review status
+
+`QUALIFIED`. The core identity separations are established; complete ownership, authorship, mirror, and replay histories remain incomplete.

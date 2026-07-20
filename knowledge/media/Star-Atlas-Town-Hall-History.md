@@ -1,13 +1,16 @@
 ---
 title: "Star Atlas Town Hall History"
+seo_title: "Star Atlas Town Hall History and Transcript Archive"
+seo_description: "An evidence-qualified history of Star Atlas Town Halls, the 14 preserved transcripts, episode and date gaps, selective semantic candidates, and speaker-attribution limits."
 knowledge_status: QUALIFIED
-as_of: 2026-07-17
+as_of: 2026-07-20
 confidence: MEDIUM
 page_risk_score: 7
 page_risk_class: R3
 evidence_basis:
   - "archive/source-records/star-atlas-transcripts-ingestion-2026-07/townhall/"
   - "archive/semantic/star-atlas-transcripts/source-index.json"
+  - "archive/semantic/star-atlas-transcripts/quality-report.json"
   - "archive/source-records/campaign-delta-official/SRC-OFF-DD9175EF794C1F8D.md"
 known_limitations:
   - "The 14 preserved transcripts are not a complete episode history."
@@ -30,7 +33,7 @@ Later official records schedule a July 16, 2021 Town Hall, place Town Halls in a
 
 ## Preserved transcript corpus
 
-The transcript package contains 14 sources and 38,744 captions. Eleven publication dates are unresolved, three have only partial date precision, all 14 original URLs are absent, and all semantic speaker labels remain `UNKNOWN`. The revised semantic layer contains 970 Town Hall segments; retained promotion and timeline candidates remain research aids, not automatically canonical claims.
+The transcript package contains 14 sources and 38,744 captions. Eleven publication dates are unresolved, three have only partial date precision, all 14 original URLs are absent, and all semantic speaker labels remain `UNKNOWN`. The revised semantic layer contains 970 Town Hall segments and selects 57 promotion candidates and 65 timeline candidates from this collection. These are research aids with exact caption support, not automatically canonical claims.
 
 | Source | Preserved identity clue | Date status | Use boundary |
 |---|---|---|---|
@@ -57,6 +60,12 @@ Aephia’s dated report identifies Community Week Town Hall #42 and names Santi,
 - A numbered label is not proof of a complete sequence.
 - Official event origin and later replay publisher must be recorded separately.
 - Material roadmap, release, governance, treasury, or personnel claims require claim-level corroboration.
+
+## Speaker attribution and research value
+
+Unknown speaker status does not make a timestamped discussion worthless. For product identity, community history, or locating a technical explanation, the source ID, recording identity, segment, timestamp, and exact captions can provide a durable evidence trail. Researchers can use that trail to recover and cue the original recording.
+
+Speaker identity becomes mandatory when interpretation depends on personal or institutional authority—for example, a named executive commitment, a Foundation position, or a quotation attributed to a particular guest. The semantic layer does not infer those identities. Within the complete 36-source transcript collection, 70 of 81 promotion candidates and 89 of 90 timeline candidates do not require a named speaker for their bounded informational use; person-specific claims remain more restrictive.
 
 ## Missing artifacts
 

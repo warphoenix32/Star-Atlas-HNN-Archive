@@ -1,5 +1,20 @@
 ---
 title: Aephia Site Crawl Ledger
+seo_title: "Aephia Archive Crawl Ledger and Coverage Gaps"
+seo_description: "A transparent ledger of Aephia site discovery, newsletter extraction, crawl coverage, retrieval failures, unresolved issues, and follow-up priorities."
+knowledge_status: QUALIFIED
+as_of: 2026-07-20
+confidence: MEDIUM
+page_risk_score: 5
+page_risk_class: R2
+evidence_basis:
+  - "archive/source-records/campaign-alpha-aephia/"
+  - "operations/campaigns/knowledge-narrative-depth-001/page-inventory.json"
+known_limitations:
+  - "This ledger predates a complete site-wide publication inventory and should not be read as corpus completeness."
+research_gaps:
+  - "Enumerate missing newsletter issues and recover pages that resolved without extractable article bodies."
+review_after: 2027-01-20
 entry_type: crawl-ledger
 status: active
 updated: 2026-07-12
@@ -114,3 +129,7 @@ For each forecast or planned feature, record:
 - A related-post synopsis is not a substitute for full article extraction.
 - A technical item described as completed by Aephia may still require deployed-program or official-release verification.
 - Old guides must not be presented as current instructions without a freshness check.
+
+## Review status
+
+`QUALIFIED`. The recorded passes and failures remain useful operational history; full Aephia publication discovery is unresolved.

@@ -1,85 +1,109 @@
 ---
 title: "Star Atlas Medium Publication Profile"
+seo_title: "Official Star Atlas Medium Archive and Publication History"
+seo_description: "A source-critical profile of the official Star Atlas Medium corpus: 173 confirmed articles, 2021–2025 coverage, retrieval provenance, deferred discovery leads, and completeness limits."
 knowledge_status: QUALIFIED
-as_of: 2026-07-17
-confidence: MEDIUM
-page_risk_score: 6
+as_of: 2026-07-20
+confidence: HIGH
+page_risk_score: 5
 page_risk_class: R2
 canonical_entity: SOURCE-STAR-ATLAS-MEDIUM
 aliases:
   - "Star Atlas Medium"
   - "Official Star Atlas Medium publication"
-first_seen: UNKNOWN
-last_reviewed: 2026-07-17
+first_seen: 2021-01-15
+last_reviewed: 2026-07-20
 source_priority:
   - A2
-  - C1
 related_entities:
   - Star Atlas
   - ATMTA
 depends_on:
-  - archive/semantic/discord-announcements/announcement-semantic-records.jsonl
+  - archive/campaign-summaries/star-atlas-medium-ingestion-2026-07/campaign-summary.json
+  - archive/source-records/medium/star-atlas/
 supersedes: []
 superseded_by: []
 evidence_basis:
-  - "archive/semantic/discord-announcements/announcement-semantic-records.jsonl"
-  - "knowledge/index/source-registry/Public-Source-Registry.md"
+  - "archive/campaign-summaries/star-atlas-medium-ingestion-2026-07/campaign-summary.json"
+  - "operations/campaigns/star-atlas-medium-ingestion-2026-07/campaign-manifest.json"
+  - "operations/campaigns/star-atlas-medium-ingestion-2026-07/manual-review-adjudication.json"
 known_limitations:
-  - "A complete article-by-article Medium corpus review has not been completed."
-  - "Indexed links do not prove that article text, authorship, dates, images, or outbound references were preserved."
-  - "Discovery links may include non-official Medium publications and require identity review."
+  - "Ingestion is complete for 173 confirmed included articles, but publication-level discovery remains incomplete."
+  - "Fifty-one discovery leads remain explicitly deferred after review."
+  - "Current live text may contain edits made after an article's original publication."
+  - "Article media is URL-referenced rather than downloaded."
 research_gaps:
-  - "Enumerate the official publication and capture every public article with metadata and full text."
-  - "Identify deleted, mirrored, corrected, and superseded articles."
-review_after: 2026-10-17
+  - "Resolve deferred shortlinks, malformed URLs, inaccessible records, deleted stories, and unindexed publication pages."
+  - "Reconcile article-level revisions and recover historical snapshots where current text may have changed."
+review_after: 2027-01-20
 ---
 
 # Star Atlas Medium Publication Profile
 
-Star Atlas has used Medium for longer-form publication, but the repository does not yet contain a complete, article-by-article review of the official publication. This profile records the source family's present archival status; it must not be read as an exhaustive publication index.
+The official Star Atlas Medium publication is one of the archive's most substantial first-party written corpora. The repository now preserves **173 confirmed articles** published from January 2021 through October 2025. All 173 included records were retrieved and extracted successfully. That achievement is complete ingestion of the confirmed set—not proof that every article ever published by Star Atlas on Medium has been discovered.
 
-## Scope and provenance status
+## What the campaign preserved
 
-The present evidence is primarily a discovery layer: official Discord messages and repository indexes contain links to Medium, including links associated with the Star Atlas publication. That is evidence that Medium was used as a publication surface and provides leads for recovery. It is not a preserved Medium corpus. This page intentionally reports no article total, first-publication date, last-publication date, author roster, or completeness percentage because those facts have not been established by an article-level inventory.
+The publication-native campaign separated URL discovery from retrieval. It discovered 686 candidate URLs, classified 173 as included, excluded 462, and explicitly deferred 51 after adjudicating 329 manual-review candidates. Every included article has a stable Source ID, raw capture, normalized record, Source Record, ingestion package, checksums, dates, author and publisher fields, links, and retrieval provenance.
 
-Medium publication identity must be resolved article by article. A `medium.com` URL can point to the Star Atlas publication, an individual account, another organization, a partner, or an independent community author. Link shorteners, redirects, publication moves, and mirrors may obscure the originating identity. The publisher, author byline, canonical URL, and any migration history must therefore be captured separately rather than inferred from the message that shared the link.
+| Retrieval path | Articles | Meaning |
+|---|---:|---|
+| Live direct HTML | 134 | Article body recovered from current public HTML |
+| Live browser DOM | 1 | Browser rendering was required to recover the article |
+| RSS content | 1 | Feed content was accepted only after completeness checks |
+| Web-archive snapshot | 37 | An archived snapshot preserved an unavailable or historical page |
 
-## Current archive status
+Extraction confidence is `HIGH` for 172 articles and `MEDIUM` for one. Media binaries were intentionally not downloaded; 239 article-body media references remain URL-preserved with placement metadata.
 
-Medium URLs appear throughout the official Discord export and other repository indexes. Those links are useful discovery evidence. A URL-only announcement does not preserve the linked article's claims, author, publication date, images, revisions, or later availability. The repository therefore cannot yet state how many official articles existed, that every article was captured, or that the publication history is complete.
+## Coverage by year
 
-An individually captured official Medium article can be treated as A2 evidence of what Star Atlas published at that time. An uncaptured URL is C1 for article-content claims because the referenced text has not been independently preserved and reviewed.
+| Year | Confirmed articles ingested |
+|---:|---:|
+| 2020 | 0 |
+| 2021 | 50 |
+| 2022 | 67 |
+| 2023 | 32 |
+| 2024 | 12 |
+| 2025 | 12 |
+| 2026 | 0 |
 
-Even for a captured article, publication history matters. Medium's displayed date, update state, canonical URL, byline, and current text should be preserved with a capture timestamp and checksum. A current page cannot by itself prove that the same wording was present on its original publication date. Archived snapshots or an explicit revision record are required to support historical-text comparisons.
+The 2020 publication and profile surfaces were searched, but no 2020 article belonging to the official Star Atlas publication was confirmed or included. This is a coverage finding, not proof that no such article ever existed.
+
+## Why discovery remains incomplete
+
+Medium's year archives can expose hydration shells or incomplete rendered results. RSS covers only a recent subset, and available sitemaps are not exhaustive. Deleted or unindexed stories may remain undiscoverable when no repository link or web-archive record survives. Shortlinks and truncated historical URLs can also lose the post ID needed for deterministic identity.
+
+The 51 deferred leads remain visible in the manual-review queue. They were not counted as failures or silently excluded. Each record states the deferral reason, next action, and artifact required to decide publication membership.
+
+## Publisher and author identity
+
+An article belongs to the official Star Atlas publication only when captured page evidence establishes that membership. The individual author remains a separate field. A Star Atlas profile URL and publication URL can point to the same Medium post ID; that is one article with multiple observed URLs, not two sources.
+
+Official sharing alone does not transform a partner or community article into Star Atlas-authored content. Reposts, responses, account activity, author profiles, and landing pages were excluded and ledgered rather than treated as publications.
 
 ## Authority and citation boundary
 
-- An official article is evidence of the claims Star Atlas published; it is not independent verification of economic performance, execution, delivery, or partnership outcomes.
-- A roadmap statement remains planned intent until a later source establishes testing, release, deployment, or completion.
-- An article shared by an official channel does not become official-authored merely through sharing.
-- A mirrored article should retain the original publisher and author, with the mirror recorded as preservation provenance.
-- A Discord or X post linking to Medium establishes link publication, not the article's full text or continued availability.
-- Marketing repetition across official surfaces is not independent corroboration.
+An official article is strong evidence of what Star Atlas published, the terminology it used, and the timing of that publication. It does not automatically prove delivery, execution, economic accuracy, partnership outcomes, or event occurrence.
 
-## Required corpus review
+- An announcement is not a release.
+- A roadmap date is not a delivery date.
+- A governance proposal is not passage or implementation.
+- A current article is not proof that identical wording appeared on the original date.
+- Repetition across Medium, Discord, and X may show dissemination without independent corroboration.
 
-The next archival campaign should:
+When an article quotes, summarizes, or republishes another source, its source lineage should preserve that original creator and relationship.
 
-1. enumerate the official publication and known mirrors;
-2. preserve full article text, canonical URL, title, author, publication and update dates, images, and outbound references;
-3. distinguish official Star Atlas articles from community Medium publications;
-4. record corrections, redirects, deletions, and superseding publications;
-5. preserve source lineage for quoted, summarized, or republished material;
-6. reconcile each article with Discord, X, newsroom, PIP, product, and timeline evidence; and
-7. document discovery coverage and unresolved gaps without treating inaccessible URLs as retrieved articles.
+## Research use
 
-Until that work is complete, Medium-derived claims should cite an actually preserved article or remain a research lead.
-
-## Research use before full ingestion
-
-Medium links can presently support discovery, sequence reconstruction, and recovery prioritization. When a knowledge page relies on Medium content, it should resolve to an archived article-level source record rather than to this profile or an uncaptured URL. Researchers should record the referring Discord or X source separately because it may establish when Star Atlas publicly circulated the article, which can differ from the article's displayed publication date.
+Researchers should cite the article-level Source Record rather than this profile. A durable citation includes the `SRC-MEDIUM-STARATLAS-*` identifier, canonical and observed URLs, author, publisher, original and normalized dates, retrieval tier, capture timestamp, and checksum. Historical-text comparisons should prefer archived snapshots or explicit revision evidence.
 
 ## Evidence references
 
-- [Discord semantic records](../../archive/semantic/discord-announcements/announcement-semantic-records.jsonl)
-- [Public Source Registry](../index/source-registry/Public-Source-Registry.md)
+- [Campaign summary](../../archive/campaign-summaries/star-atlas-medium-ingestion-2026-07/campaign-summary.md)
+- [Article Source Records](../../archive/source-records/medium/star-atlas/)
+- [Campaign manifest](../../operations/campaigns/star-atlas-medium-ingestion-2026-07/campaign-manifest.json)
+- [Deferred review queue](../../operations/campaigns/star-atlas-medium-ingestion-2026-07/manual-review-queue.json)
+
+## Review status
+
+`QUALIFIED`. The 173 confirmed included articles are completely ingested and validated. The historical publication inventory remains incomplete until deferred and undiscovered material can be resolved.
