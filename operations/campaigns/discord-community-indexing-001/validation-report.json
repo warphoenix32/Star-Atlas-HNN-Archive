@@ -110,27 +110,20 @@
     "unique_messages": 1071
   },
   "external_validation": {
+    "campaign_tests": {
+      "details": "......................                                                   [100%]\n22 passed in <elapsed>",
+      "passed": true
+    },
     "forbidden_path_and_evidence_immutability": {
       "details": {
         "base_resolution_error": null,
-        "base_sha": "75744705fd696ef1b829c0b8baac436fdc6c5fd5",
+        "base_sha": "852eaa01adc16e8ff4a1bbeee110f85185fa5ee4",
         "changed_paths": [
           "operations/campaigns/discord-community-indexing-001/README.md",
-          "operations/campaigns/discord-community-indexing-001/alias-registry.json",
           "operations/campaigns/discord-community-indexing-001/build_index.py",
-          "operations/campaigns/discord-community-indexing-001/competition-index.jsonl",
-          "operations/campaigns/discord-community-indexing-001/curator-decisions.json",
-          "operations/campaigns/discord-community-indexing-001/discord-channel-coverage.json",
-          "operations/campaigns/discord-community-indexing-001/discord-channel-gap-report.json",
-          "operations/campaigns/discord-community-indexing-001/discord-collection-backlog.json",
-          "operations/campaigns/discord-community-indexing-001/guild-index.jsonl",
-          "operations/campaigns/discord-community-indexing-001/human-resolution-queue.json",
-          "operations/campaigns/discord-community-indexing-001/identity-index.jsonl",
-          "operations/campaigns/discord-community-indexing-001/organization-index.jsonl",
-          "operations/campaigns/discord-community-indexing-001/promotion-candidates.json",
-          "operations/campaigns/discord-community-indexing-001/relationship-index.jsonl",
-          "operations/campaigns/discord-community-indexing-001/research-backlog.json",
-          "operations/campaigns/discord-community-indexing-001/tag-registry.json",
+          "operations/campaigns/discord-community-indexing-001/conversation-significance-assessment.json",
+          "operations/campaigns/discord-community-indexing-001/conversation-significance-policy.json",
+          "operations/campaigns/discord-community-indexing-001/validate_campaign.py",
           "operations/campaigns/discord-community-indexing-001/validation-report.json",
           "operations/tests/discord_community_indexing/test_indexer.py"
         ],
@@ -146,6 +139,8 @@
           "alias-registry.json": "4ebe52e51590d07301f8f6cbd50bf26cd0b79d2ae02214913b09a3a9c93dc1ac",
           "competition-index.jsonl": "506197dd43223a3dacfc435169c9e9b0763ed262ca7e66824887e4142d87a2b1",
           "conflict-report.json": "e5cc93322e4d0b7c9a7761807d9d437a76c9c2ba475e9fbc4a8215b3edd3f72f",
+          "conversation-significance-assessment.json": "5589a9682ba322e05508e60be6f98a1607ed662abe027e8d7bed8d3593bce388",
+          "conversation-significance-policy.json": "88cad26e683614f7091835212cde06dad2ab01f841750177f69115dc1e9fcbc9",
           "curator-decisions.json": "202e528397e6ad0547ee7f78f78d8d7530f8adb58f2a6a15f90d086f5608ffb3",
           "discord-channel-coverage.json": "a2677fb78f2c6412266f083660711ddb4f5e919e831f7fdf74142fb4fe056421",
           "discord-channel-gap-report.json": "04cce52a35c9dec8c535aebff0843d821297be29e798e809907b1420ca7c6644",
@@ -164,6 +159,8 @@
           "alias-registry.json": "4ebe52e51590d07301f8f6cbd50bf26cd0b79d2ae02214913b09a3a9c93dc1ac",
           "competition-index.jsonl": "506197dd43223a3dacfc435169c9e9b0763ed262ca7e66824887e4142d87a2b1",
           "conflict-report.json": "e5cc93322e4d0b7c9a7761807d9d437a76c9c2ba475e9fbc4a8215b3edd3f72f",
+          "conversation-significance-assessment.json": "5589a9682ba322e05508e60be6f98a1607ed662abe027e8d7bed8d3593bce388",
+          "conversation-significance-policy.json": "88cad26e683614f7091835212cde06dad2ab01f841750177f69115dc1e9fcbc9",
           "curator-decisions.json": "202e528397e6ad0547ee7f78f78d8d7530f8adb58f2a6a15f90d086f5608ffb3",
           "discord-channel-coverage.json": "a2677fb78f2c6412266f083660711ddb4f5e919e831f7fdf74142fb4fe056421",
           "discord-channel-gap-report.json": "04cce52a35c9dec8c535aebff0843d821297be29e798e809907b1420ca7c6644",
@@ -188,7 +185,7 @@
     "json_jsonl_and_campaign_contracts": {
       "details": {
         "errors": [],
-        "json_documents": 12,
+        "json_documents": 14,
         "jsonl_records": 217
       },
       "passed": true
@@ -198,6 +195,8 @@
         "alias-registry.json": "4ebe52e51590d07301f8f6cbd50bf26cd0b79d2ae02214913b09a3a9c93dc1ac",
         "competition-index.jsonl": "506197dd43223a3dacfc435169c9e9b0763ed262ca7e66824887e4142d87a2b1",
         "conflict-report.json": "e5cc93322e4d0b7c9a7761807d9d437a76c9c2ba475e9fbc4a8215b3edd3f72f",
+        "conversation-significance-assessment.json": "5589a9682ba322e05508e60be6f98a1607ed662abe027e8d7bed8d3593bce388",
+        "conversation-significance-policy.json": "88cad26e683614f7091835212cde06dad2ab01f841750177f69115dc1e9fcbc9",
         "curator-decisions.json": "202e528397e6ad0547ee7f78f78d8d7530f8adb58f2a6a15f90d086f5608ffb3",
         "discord-channel-coverage.json": "a2677fb78f2c6412266f083660711ddb4f5e919e831f7fdf74142fb4fe056421",
         "discord-channel-gap-report.json": "04cce52a35c9dec8c535aebff0843d821297be29e798e809907b1420ca7c6644",
@@ -212,10 +211,6 @@
         "source-inventory.json": "64e8bac5b8b299ed8bcaad3c24c0555dccd037a66a7693a1720cb8995ae780b5",
         "tag-registry.json": "c3b39a605e723f293a91a1689979f34cb43f9743c3defdd12556afe407362916"
       },
-      "passed": true
-    },
-    "repository_tests": {
-      "details": "..........................................                               [100%]\n42 passed in <elapsed>",
       "passed": true
     }
   },
