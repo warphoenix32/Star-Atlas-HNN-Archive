@@ -10,4 +10,4 @@ Engineering and archival operations live here, separate from historical evidence
 - [`tests/`](tests/README.md): compatibility and preservation validation
 - [`docs/`](docs/README.md): doctrine and implementation documentation
 
-Future ingestion follows `source -> archive/raw -> archive/normalized -> archive/source-records and archive/ingestion-packages -> proposed knowledge/graph updates -> human review`. Staging remains distinct from promotion.
+New campaigns should use the [Simplified Promotion Pipeline](docs/SIMPLIFIED-PROMOTION-PIPELINE.md): `PRESERVE -> DRAFT -> REVIEW -> PUBLISH`. The visible workflow is compact while risk-based checks retain stricter handling for consequential claims. Staging remains distinct from promotion, and automated approval never authorizes a merge to `main`.

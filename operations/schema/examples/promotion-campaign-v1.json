@@ -1,0 +1,77 @@
+{
+  "pipeline_version": "1.0",
+  "campaign_id": "example-low-risk-promotion",
+  "current_stage": "REVIEW",
+  "merge_authority": "HUMAN_OR_BRANCH_PROTECTION",
+  "stages": [
+    {"stage": "PRESERVE", "status": "COMPLETE"},
+    {"stage": "DRAFT", "status": "COMPLETE"},
+    {"stage": "REVIEW", "status": "COMPLETE"},
+    {"stage": "PUBLISH", "status": "PENDING"}
+  ],
+  "preservation": {
+    "source_ids": ["POLICY-OPERATING-DOCTRINE"],
+    "raw_immutable": true,
+    "provenance_complete": true,
+    "normalization_deterministic": true
+  },
+  "candidates": [
+    {
+      "candidate_id": "KC-EXAMPLE-001",
+      "risk_class": "R1",
+      "review_mode": "AUTOMATED",
+      "disposition": "AUTO_APPROVED",
+      "target_paths": ["knowledge/research/README.md"],
+      "automatic_eligibility": {
+        "direct_evidence": true,
+        "established_entity_ids": true,
+        "established_taxonomy": true,
+        "no_conflict": true,
+        "no_identity_resolution": true,
+        "no_financial_legal_reputational_claim": true,
+        "no_treasury_or_governance_execution_claim": true,
+        "no_sensitive_claim": true,
+        "no_lifecycle_inference": true,
+        "current_state_date_scoped": true,
+        "citations_resolve": true
+      },
+      "material_claims": [
+        {
+          "claim_id": "CLAIM-EXAMPLE-001",
+          "claim_text": "The repository requires unresolved evidence to remain visible.",
+          "claim_type": "REPOSITORY_POLICY",
+          "temporal_scope": "CURRENT_AS_OF_DATE",
+          "source_authority": "A3",
+          "contradiction_status": "NONE_IDENTIFIED",
+          "current_state": true,
+          "as_of": "2026-07-19",
+          "supporting_evidence": [
+            {
+              "source_id": "POLICY-OPERATING-DOCTRINE",
+              "repository_path": "operations/docs/OPERATING-DOCTRINE.md",
+              "evidence_location": "Research principles"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "human_review_queue": [],
+  "research_gaps": [],
+  "summary": {
+    "candidate_count": 1,
+    "risk_counts": {"R1": 1},
+    "review_mode_counts": {"AUTOMATED": 1},
+    "disposition_counts": {"AUTO_APPROVED": 1},
+    "open_human_decisions": 0,
+    "research_gap_count": 0
+  },
+  "validation": {
+    "status": "PASS",
+    "checks": [
+      {"name": "material_claims_cited", "passed": true},
+      {"name": "automated_candidate_eligible", "passed": true},
+      {"name": "merge_authority_preserved", "passed": true}
+    ]
+  }
+}
