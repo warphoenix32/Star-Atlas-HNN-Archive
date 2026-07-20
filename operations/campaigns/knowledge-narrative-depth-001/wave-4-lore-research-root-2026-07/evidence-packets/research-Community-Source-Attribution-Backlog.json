@@ -1,0 +1,39 @@
+{
+  "campaign_id": "knowledge-narrative-depth-wave-4-lore-research-root-2026-07",
+  "page_id": "KNOW-9D437B0BF4AB056E",
+  "proposed_path": "knowledge/research/Community-Source-Attribution-Backlog.md",
+  "page_action": "STRUCTURED_REWORK",
+  "proposed_knowledge_status": "QUALIFIED",
+  "page_risk_score": 5,
+  "page_risk_class": "R2",
+  "subject_entities": [],
+  "aliases": [],
+  "scope": "Publication, author, speaker, mirror, and lineage research.",
+  "material_claims": [
+    {
+      "claim_id": "KNOW-9D437B0BF4AB056E-C01",
+      "claim_text": "Publication, author, speaker, mirror, and lineage research.",
+      "claim_type": "KNOWLEDGE_BOUNDARY",
+      "temporal_scope": "AS_OF_2026-07-20",
+      "lifecycle_state": "UNKNOWN",
+      "supporting_sources": [
+        "operations/campaigns/canonical-pip-governance-ledger-2026-07/governance-research-backlog.md",
+        "operations/campaigns/discord-community-indexing-001/discord-channel-coverage.json"
+      ],
+      "source_authority": "MIXED_A2_A3_B2",
+      "corroboration_status": "QUALIFIED",
+      "contradiction_status": "PRESERVED_WHERE_IDENTIFIED",
+      "attribution_required": true,
+      "confidence": "HIGH",
+      "allowed_in_page": true
+    }
+  ],
+  "known_limitations": [
+    "The page describes the reviewed repository state as of 2026-07-20 and does not claim total source completeness."
+  ],
+  "research_gaps": [
+    "See page-specific limitations and missing-artifact requirements."
+  ],
+  "review_required": true,
+  "review_after": "2027-01-20"
+}

@@ -1,0 +1,24 @@
+{
+  "campaign_id": "knowledge-narrative-depth-wave-4-lore-research-root-2026-07",
+  "status": "READY_FOR_REVIEW",
+  "pages_revised": 8,
+  "pages_created": 0,
+  "risk_distribution": {
+    "R1": 4,
+    "R2": 3,
+    "R3": 1
+  },
+  "knowledge_status_distribution": {
+    "CANONICAL": 4,
+    "QUALIFIED": 4
+  },
+  "human_adjudication_incorporated": [
+    "LRH-001",
+    "LRH-010",
+    "LRH-014"
+  ],
+  "archive_evidence_rewritten": false,
+  "semantic_evidence_rewritten": false,
+  "graph_modified": false,
+  "publication_modified": false
+}

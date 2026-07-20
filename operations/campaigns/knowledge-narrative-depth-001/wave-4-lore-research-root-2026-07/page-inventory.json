@@ -1,0 +1,78 @@
+{
+  "campaign_id": "knowledge-narrative-depth-wave-4-lore-research-root-2026-07",
+  "page_count": 8,
+  "pages": [
+    {
+      "page_id": "KNOW-8770EE3A09F98C5E",
+      "path": "knowledge/README.md",
+      "action": "INDEX_REDESIGN",
+      "knowledge_status": "CANONICAL",
+      "risk_class": "R1",
+      "word_count": 519,
+      "sha256_utf8_lf": "b99a7099a55eab14c2bc56cdd3b5ce4d84f4c31048b89166a3bfc5f6721ac325"
+    },
+    {
+      "page_id": "KNOW-C1CA3AC83A53F835",
+      "path": "knowledge/Entity-Relationship-Map.md",
+      "action": "STRUCTURED_REWORK",
+      "knowledge_status": "QUALIFIED",
+      "risk_class": "R2",
+      "word_count": 964,
+      "sha256_utf8_lf": "f383adb2a861c4f1823fdc6b620a1c89871df0711e603b53997b6b2fe70419a1"
+    },
+    {
+      "page_id": "KNOW-FD2FBECF024DA936",
+      "path": "knowledge/controversies/README.md",
+      "action": "INDEX_REDESIGN",
+      "knowledge_status": "CANONICAL",
+      "risk_class": "R1",
+      "word_count": 624,
+      "sha256_utf8_lf": "6564c224eb679c0e61950b04030dfa80c3143f1061145dd448d536f7f5e1fcad"
+    },
+    {
+      "page_id": "KNOW-23A2A80A25CD1241",
+      "path": "knowledge/lore/README.md",
+      "action": "INDEX_REDESIGN",
+      "knowledge_status": "CANONICAL",
+      "risk_class": "R1",
+      "word_count": 428,
+      "sha256_utf8_lf": "56e4149a522c31c79206219e4c06e6621814d440a5650a7f498003a58b1b3c87"
+    },
+    {
+      "page_id": "KNOW-92767E932672EA98",
+      "path": "knowledge/lore/Canon-Registry.md",
+      "action": "STRUCTURED_REWORK",
+      "knowledge_status": "QUALIFIED",
+      "risk_class": "R3",
+      "word_count": 1174,
+      "sha256_utf8_lf": "ed20260e38c46994491ac94610c7cbc567c32da0ce2720c3e7b87a8eb572cfdd"
+    },
+    {
+      "page_id": "KNOW-32B616068BE28968",
+      "path": "knowledge/research/README.md",
+      "action": "INDEX_REDESIGN",
+      "knowledge_status": "CANONICAL",
+      "risk_class": "R1",
+      "word_count": 310,
+      "sha256_utf8_lf": "7d2f65c602d18b9208f87b232e28d944cec793e52e35ea3b56732bd02954cd60"
+    },
+    {
+      "page_id": "KNOW-9D437B0BF4AB056E",
+      "path": "knowledge/research/Community-Source-Attribution-Backlog.md",
+      "action": "STRUCTURED_REWORK",
+      "knowledge_status": "QUALIFIED",
+      "risk_class": "R2",
+      "word_count": 620,
+      "sha256_utf8_lf": "f430073ba577b87fb876a9b330873a8b4853fd519ca29e7956d8e78e7a0b946f"
+    },
+    {
+      "page_id": "KNOW-7A0A938020B7B8BD",
+      "path": "knowledge/research/Research-Backlog.md",
+      "action": "STRUCTURED_REWORK",
+      "knowledge_status": "QUALIFIED",
+      "risk_class": "R2",
+      "word_count": 1035,
+      "sha256_utf8_lf": "f5438c090f77dff2e1d92682a56ab02a8b1dfb64cd9e80d2baf10b31fb47955f"
+    }
+  ]
+}

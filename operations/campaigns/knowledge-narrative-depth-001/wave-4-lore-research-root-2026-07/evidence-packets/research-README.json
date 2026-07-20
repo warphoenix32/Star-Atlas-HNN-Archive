@@ -1,0 +1,39 @@
+{
+  "campaign_id": "knowledge-narrative-depth-wave-4-lore-research-root-2026-07",
+  "page_id": "KNOW-32B616068BE28968",
+  "proposed_path": "knowledge/research/README.md",
+  "page_action": "INDEX_REDESIGN",
+  "proposed_knowledge_status": "CANONICAL",
+  "page_risk_score": 2,
+  "page_risk_class": "R1",
+  "subject_entities": [],
+  "aliases": [],
+  "scope": "Research navigation and evidence-based gap closure.",
+  "material_claims": [
+    {
+      "claim_id": "KNOW-32B616068BE28968-C01",
+      "claim_text": "Research navigation and evidence-based gap closure.",
+      "claim_type": "KNOWLEDGE_BOUNDARY",
+      "temporal_scope": "AS_OF_2026-07-20",
+      "lifecycle_state": "UNKNOWN",
+      "supporting_sources": [
+        "operations/campaigns/canonical-pip-governance-ledger-2026-07/governance-research-backlog.md",
+        "operations/campaigns/discord-community-indexing-001/discord-channel-coverage.json"
+      ],
+      "source_authority": "MIXED_A2_A3_B2",
+      "corroboration_status": "CORROBORATED",
+      "contradiction_status": "PRESERVED_WHERE_IDENTIFIED",
+      "attribution_required": true,
+      "confidence": "HIGH",
+      "allowed_in_page": true
+    }
+  ],
+  "known_limitations": [
+    "The page describes the reviewed repository state as of 2026-07-20 and does not claim total source completeness."
+  ],
+  "research_gaps": [
+    "See page-specific limitations and missing-artifact requirements."
+  ],
+  "review_required": true,
+  "review_after": "2027-01-20"
+}
