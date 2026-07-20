@@ -1,0 +1,22 @@
+{
+  "campaign_id": "knowledge-narrative-depth-wave-3b-media-source-histories-2026-07",
+  "status": "READY_FOR_REVIEW",
+  "pages_revised": 13,
+  "pages_created": 0,
+  "risk_distribution": {
+    "R1": 1,
+    "R2": 9,
+    "R3": 3
+  },
+  "knowledge_status_distribution": {
+    "CANONICAL": 1,
+    "HISTORICAL": 1,
+    "QUALIFIED": 11
+  },
+  "medium_confirmed_articles": 173,
+  "atlas_brew_segments_preserved": 4937,
+  "archive_evidence_rewritten": false,
+  "semantic_evidence_rewritten": false,
+  "graph_modified": false,
+  "publication_modified": false
+}

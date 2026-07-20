@@ -1,0 +1,123 @@
+{
+  "campaign_id": "knowledge-narrative-depth-wave-3b-media-source-histories-2026-07",
+  "page_count": 13,
+  "pages": [
+    {
+      "page_id": "KNOW-948858A9B28198EC",
+      "path": "knowledge/media/Aephia-Crawl-Ledger.md",
+      "action": "STRUCTURED_REWORK",
+      "knowledge_status": "QUALIFIED",
+      "risk_class": "R2",
+      "word_count": 727,
+      "sha256_utf8_lf": "b6e28c287822a30b9a791f8f512aa07c0b82b67751adf04c56c7a75cf399bca7"
+    },
+    {
+      "page_id": "KNOW-FB2BD5104A5B30EB",
+      "path": "knowledge/media/Aephia-Source-Profile.md",
+      "action": "EXPAND_AND_STANDARDIZE",
+      "knowledge_status": "QUALIFIED",
+      "risk_class": "R2",
+      "word_count": 879,
+      "sha256_utf8_lf": "37243f7d0e3765c0d5680f0eb137c0b94f1f9fb61612e902efb615f736671cac"
+    },
+    {
+      "page_id": "KNOW-C9CF511EB6481889",
+      "path": "knowledge/media/Aephia-URL-Manifest-from-Community-Inventory.md",
+      "action": "STRUCTURED_REWORK",
+      "knowledge_status": "HISTORICAL",
+      "risk_class": "R2",
+      "word_count": 573,
+      "sha256_utf8_lf": "9910773e5bcf0605950aa30fb87179debcb46e799936d921490f8704774e7886"
+    },
+    {
+      "page_id": "KNOW-EBBB87D092A533C4",
+      "path": "knowledge/media/Aephia-Weekly-Newsletter-Index.md",
+      "action": "STRUCTURED_REWORK",
+      "knowledge_status": "QUALIFIED",
+      "risk_class": "R2",
+      "word_count": 1487,
+      "sha256_utf8_lf": "a669f6e58b6c973acd24c686110c7690319562413c99998fc5897595438799e2"
+    },
+    {
+      "page_id": "KNOW-91BB652EE824E051",
+      "path": "knowledge/media/Atlas-Brew-History.md",
+      "action": "EXPAND_AND_STANDARDIZE",
+      "knowledge_status": "QUALIFIED",
+      "risk_class": "R3",
+      "word_count": 906,
+      "sha256_utf8_lf": "52ca5ce7daef5fd07369547cc6b03879d0077e4e66214ee6e22f84e00de046b5"
+    },
+    {
+      "page_id": "KNOW-90A1B24C7FF92F37",
+      "path": "knowledge/media/Community-Publication-Relationship-Index.md",
+      "action": "STRUCTURED_REWORK",
+      "knowledge_status": "QUALIFIED",
+      "risk_class": "R2",
+      "word_count": 363,
+      "sha256_utf8_lf": "d2ee74ac99383dfbd3013e295d7625b0abbc1a720950930f529c2c6e92b042ee"
+    },
+    {
+      "page_id": "KNOW-0F4E85DD5AD7CB74",
+      "path": "knowledge/media/Media-and-Creator-Index.md",
+      "action": "STRUCTURED_REWORK",
+      "knowledge_status": "QUALIFIED",
+      "risk_class": "R2",
+      "word_count": 1102,
+      "sha256_utf8_lf": "a8400c1e5edee90d2164db02b8903fe5f1e2cde0fcef6d819a572d0cc64c14a3"
+    },
+    {
+      "page_id": "KNOW-F77EDE643F2FFFA5",
+      "path": "knowledge/media/Official-Discord-Announcements-Profile.md",
+      "action": "EXPAND_AND_STANDARDIZE",
+      "knowledge_status": "QUALIFIED",
+      "risk_class": "R2",
+      "word_count": 1031,
+      "sha256_utf8_lf": "e4d1e81f8a2da87f0733503ab294be4ef187453d911c81e32b3596695413ce9e"
+    },
+    {
+      "page_id": "KNOW-BB7502F74C890836",
+      "path": "knowledge/media/Official-X-Account-Profile.md",
+      "action": "EXPAND_AND_STANDARDIZE",
+      "knowledge_status": "QUALIFIED",
+      "risk_class": "R2",
+      "word_count": 959,
+      "sha256_utf8_lf": "fc9308328940f7bcfc79cd1fd92df0199a965fbdb571e067ce595d96f0ced326"
+    },
+    {
+      "page_id": "KNOW-87FF86CB2C582699",
+      "path": "knowledge/media/README.md",
+      "action": "INDEX_REDESIGN",
+      "knowledge_status": "CANONICAL",
+      "risk_class": "R1",
+      "word_count": 422,
+      "sha256_utf8_lf": "0ec1870c68ce21afbdfe9a5b8e80241b508b5a9c3b474ddb9ce5466ba857dd24"
+    },
+    {
+      "page_id": "KNOW-5DDD1F2C1B39319A",
+      "path": "knowledge/media/Star-Atlas-Medium-Publication-Profile.md",
+      "action": "EXPAND_AND_STANDARDIZE",
+      "knowledge_status": "QUALIFIED",
+      "risk_class": "R2",
+      "word_count": 817,
+      "sha256_utf8_lf": "bd9603784acb42c5493106a130d6469b0fc1d772c121318c710d6092578f6a09"
+    },
+    {
+      "page_id": "KNOW-8B48EDD09971B207",
+      "path": "knowledge/media/Star-Atlas-Town-Hall-History.md",
+      "action": "EXPAND_AND_STANDARDIZE",
+      "knowledge_status": "QUALIFIED",
+      "risk_class": "R3",
+      "word_count": 798,
+      "sha256_utf8_lf": "ee17db3eb0e0e11d6fa4da2d960987bb7f37fb5e2feaa96d3c0ef1982512c0fb"
+    },
+    {
+      "page_id": "KNOW-AF162E550FE45E3D",
+      "path": "knowledge/media/VBTV-Star-Atlas-TV-Recording-Index.md",
+      "action": "STRUCTURED_REWORK",
+      "knowledge_status": "QUALIFIED",
+      "risk_class": "R3",
+      "word_count": 700,
+      "sha256_utf8_lf": "234cfbeed69cc0b86d7e6ee9b207dc36bdd396ad82f549bda2fb04ffa41092e3"
+    }
+  ]
+}
