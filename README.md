@@ -31,18 +31,13 @@ publication/  Workspace for articles, briefs, reports, and datasets
 
 The [archive](archive/README.md) is the evidence layer. A record’s presence there means it was preserved; it does not mean every claim in it has been accepted as fact. The [knowledge](knowledge/README.md) layer contains reviewed synthesis and registries. Promotion from evidence to knowledge requires human review and does not erase older or conflicting evidence.
 
-## Ingestion and review flow
+## Preservation and promotion flow
 
 ```text
-source
-  -> archive/raw
-  -> archive/normalized
-  -> archive/source-records and archive/ingestion-packages
-  -> proposed knowledge updates
-  -> proposed graph updates
-  -> human review
-  -> knowledge/ and graph/
+PRESERVE -> DRAFT -> REVIEW -> PUBLISH
 ```
+
+`PRESERVE` includes raw capture, normalization, provenance, Source Records, and deterministic validation. `DRAFT` creates cited knowledge candidates. `REVIEW` uses risk-based automated, batch, or individual review. `PUBLISH` places approved work on a draft branch; merge authority remains human or branch-protection controlled. The detailed contract is the [Simplified Promotion Pipeline](operations/docs/SIMPLIFIED-PROMOTION-PIPELINE.md).
 
 Ingestion campaigns stop in the archive by default. They do not automatically update canonical knowledge or the relationship graph. Engineering instructions and commands live in [operations](operations/README.md); the active ingestion package schema is [Repository Schema v2.1](operations/schema/REPOSITORY-SCHEMA-v2.1.md).
 

@@ -1,0 +1,35 @@
+{
+  "pipeline_version": "1.0",
+  "campaign_id": "REPLACE_ME",
+  "current_stage": "PRESERVE",
+  "merge_authority": "HUMAN_OR_BRANCH_PROTECTION",
+  "stages": [
+    {"stage": "PRESERVE", "status": "IN_PROGRESS"},
+    {"stage": "DRAFT", "status": "PENDING"},
+    {"stage": "REVIEW", "status": "PENDING"},
+    {"stage": "PUBLISH", "status": "PENDING"}
+  ],
+  "preservation": {
+    "source_ids": [],
+    "raw_immutable": false,
+    "provenance_complete": false,
+    "normalization_deterministic": false
+  },
+  "candidates": [],
+  "human_review_queue": [],
+  "research_gaps": [],
+  "summary": {
+    "candidate_count": 0,
+    "risk_counts": {},
+    "review_mode_counts": {},
+    "disposition_counts": {},
+    "open_human_decisions": 0,
+    "research_gap_count": 0
+  },
+  "validation": {
+    "status": "PARTIAL",
+    "checks": [
+      {"name": "campaign_not_yet_validated", "passed": false}
+    ]
+  }
+}
