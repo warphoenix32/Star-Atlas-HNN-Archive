@@ -1,0 +1,19 @@
+{
+  "campaign_id": "knowledge-narrative-depth-wave-4-lore-research-root-2026-07",
+  "status": "PASS",
+  "checks": {
+    "deterministic_generation": true,
+    "page_count": true,
+    "required_metadata": true,
+    "review_sections": true,
+    "packet_count": true,
+    "lore_authority_boundary": true,
+    "discord_relevance_boundary": true,
+    "medium_boundary_current": true,
+    "research_specificity": true,
+    "internal_links": true,
+    "scope": true,
+    "git_diff_check": true
+  },
+  "errors": []
+}

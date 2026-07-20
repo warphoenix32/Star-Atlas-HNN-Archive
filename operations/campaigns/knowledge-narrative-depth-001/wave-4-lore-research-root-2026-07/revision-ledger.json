@@ -1,0 +1,65 @@
+{
+  "campaign_id": "knowledge-narrative-depth-wave-4-lore-research-root-2026-07",
+  "accepted": 8,
+  "deferred": 0,
+  "duplicate": 0,
+  "rejected": 0,
+  "records": [
+    {
+      "page_id": "KNOW-8770EE3A09F98C5E",
+      "path": "knowledge/README.md",
+      "disposition": "ACCEPTED",
+      "reason": "Human-first knowledge entry point and evidence boundaries.",
+      "human_review_required": false
+    },
+    {
+      "page_id": "KNOW-C1CA3AC83A53F835",
+      "path": "knowledge/Entity-Relationship-Map.md",
+      "disposition": "ACCEPTED",
+      "reason": "Cross-domain navigation without creating graph facts.",
+      "human_review_required": false
+    },
+    {
+      "page_id": "KNOW-FD2FBECF024DA936",
+      "path": "knowledge/controversies/README.md",
+      "disposition": "ACCEPTED",
+      "reason": "Evidence and review method for disputes, corrections, and trust events.",
+      "human_review_required": false
+    },
+    {
+      "page_id": "KNOW-23A2A80A25CD1241",
+      "path": "knowledge/lore/README.md",
+      "disposition": "ACCEPTED",
+      "reason": "Lore navigation and canonical vocabulary boundary.",
+      "human_review_required": false
+    },
+    {
+      "page_id": "KNOW-92767E932672EA98",
+      "path": "knowledge/lore/Canon-Registry.md",
+      "disposition": "ACCEPTED",
+      "reason": "Operator-confirmed lore authority, taxonomy, continuity, and historical-snapshot rules.",
+      "human_review_required": true
+    },
+    {
+      "page_id": "KNOW-32B616068BE28968",
+      "path": "knowledge/research/README.md",
+      "disposition": "ACCEPTED",
+      "reason": "Research navigation and evidence-based gap closure.",
+      "human_review_required": false
+    },
+    {
+      "page_id": "KNOW-9D437B0BF4AB056E",
+      "path": "knowledge/research/Community-Source-Attribution-Backlog.md",
+      "disposition": "ACCEPTED",
+      "reason": "Publication, author, speaker, mirror, and lineage research.",
+      "human_review_required": false
+    },
+    {
+      "page_id": "KNOW-7A0A938020B7B8BD",
+      "path": "knowledge/research/Research-Backlog.md",
+      "disposition": "ACCEPTED",
+      "reason": "Prioritized cross-domain acquisition targets and closure criteria.",
+      "human_review_required": false
+    }
+  ]
+}
