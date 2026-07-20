@@ -15,4 +15,3 @@ Wave 2A revises the gameplay and technology foundation. It updates existing page
 python operations/campaigns/knowledge-narrative-depth-001/wave-2a-products-technology-2026-07/build_wave.py
 python operations/campaigns/knowledge-narrative-depth-001/wave-2a-products-technology-2026-07/validate_wave.py
 ```
-
