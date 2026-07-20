@@ -180,9 +180,9 @@ def test_competition_parser_does_not_make_prize_text_a_participant(tmp_path):
     aliases, _ = indexer.build_alias_registry(messages)
     records, relationships, reviews = indexer.extract_competition_records(messages, aliases)
     assert any(item["participant"] == "Aephia" and item["resolution_status"] == "RESOLVED" for item in records)
-    assert any(item["resolution_status"] == "REVIEW_REQUIRED_PRIZE_OR_CATEGORY" for item in records)
+    assert any(item["resolution_status"] == "CLASSIFIED_AS_PRIZE_OR_CATEGORY" for item in records)
     assert not any("CSS Tier" in item["subject_name"] for item in relationships)
-    assert any(item["review_type"] == "malformed_competition_result" for item in reviews)
+    assert not any(item["review_type"] == "malformed_competition_result" for item in reviews)
 
 
 def test_council_service_is_not_guild_leadership(tmp_path):
@@ -222,7 +222,9 @@ def test_coverage_is_export_scoped_and_preserves_observed_header(tmp_path):
     assert coverage["summary"]["native_servers_identified"] == 0
     assert coverage["summary"]["canonical_native_channels_identified"] == 0
     assert coverage["channels"][0]["observed_channel_names"] == ["Compromised Discord Account of EX Team Member,"]
-    assert coverage["channels"][0]["coverage_status"] == "UNRESOLVED_CHANNEL"
+    assert coverage["channels"][0]["coverage_status"] == "ACTIVE_PARTIAL"
+    assert coverage["channels"][0]["observed_title_treatment"] == "COLLECTION_TOOL_FIRST_MESSAGE_TITLE_ARTIFACT_NOT_CHANNEL_NAME"
+    assert coverage["channels"][0]["canonical_community_beginning"]["value"] == "2021-03"
     assert set(coverage["supported_coverage_statuses"]) == indexer.COVERAGE_STATUSES
     assert set(coverage["supported_channel_categories"]) == indexer.CHANNEL_CATEGORIES
     assert gaps["gaps"][0]["zero_message_months"] == []
@@ -239,14 +241,13 @@ def test_human_queue_removes_resolved_seeded_items_but_retains_michael(tmp_path)
     queue = indexer.build_human_resolution_queue(duplicate_reviews, conflicts, tags, organizations, relationships, [], coverage)
     subjects = {item["subject"] for item in queue["items"]}
     assert "Michael" in subjects
-    assert "Rome guild history" in subjects
     assert not {"Agent Solace", "The Vanguard", "Virtuwaal", "Virtuwul", "Chri.z", "Shaddix", "Virtuwaal / Virtuwuul"} & subjects
     assert all(item["decision_status"] == "OPEN" and item["operator_decision"] is None for item in queue["items"])
 
 
 def test_curator_decisions_are_complete_and_explicit():
     decisions = indexer.curator_decisions()
-    assert decisions["item_count"] == 33
+    assert decisions["item_count"] == 41
     by_number = {item["item"]: item for item in decisions["items"]}
     assert by_number[7]["decision"] == "PROMOTION_APPROVED"
     assert by_number[11]["decision"] == "EXCLUDE_PUBLIC_ENTITY"
@@ -254,6 +255,10 @@ def test_curator_decisions_are_complete_and_explicit():
     assert by_number[17]["decision"] == by_number[28]["decision"] == "CONFIRMED"
     assert by_number[30]["decision"] == by_number[31]["decision"] == by_number[33]["decision"] == "CONFIRMED"
     assert by_number[32]["decision"] == "DEFERRED"
+    assert by_number[36]["decision"] == "DEFERRED"
+    assert by_number[37]["decision"] == "CONFIRMED_ASSOCIATION"
+    assert by_number[39]["decision"] == "RESOLVED_TOOL_ARTIFACT"
+    assert by_number[41]["decision"] == "CONFIRMED"
 
 
 def test_curator_authority_and_identity_resolutions_are_scoped(tmp_path):
@@ -273,6 +278,25 @@ def test_curator_authority_and_identity_resolutions_are_scoped(tmp_path):
     assert vanguard["entity_type"] == "guild"
     assert any(item["tag"] == "VΛ" and item["canonical_entity"] == "The Vanguard" for item in indexer.TAG_REGISTRY_SEEDS)
     assert any(item["subject_name"] == "Virtuwul" and item["predicate"] == "owns" and item["object_name"] == "Rainbow Phi" for item in relationships)
+
+
+def test_agora_profile_and_leadership_preserve_association_boundary(tmp_path):
+    write_jsonl(tmp_path, [{
+        "source_id": "agora-1", "author": "Official", "timestamp": "2025-01-01T00:00:00",
+        "content": "Community update. Mentions: @[Λ] Visitor",
+    }])
+    messages, _ = indexer.load_messages(tmp_path)
+    aliases, _ = indexer.build_alias_registry(messages)
+    identities, organizations, relationships = indexer.build_indexes(messages, aliases)
+    agora = next(record for record in organizations if record["canonical_name"] == "Agora")
+    assert agora["aliases"] == ["Ágora"]
+    assert agora["operator_supplied_profile"]["confirmed_leaders"] == ["SAWYN", "Neo_AArmstrong"]
+    assert agora["operator_supplied_profile"]["discord_invite"] == "https://discord.gg/69HsqtZ22N"
+    simplified = {(item["subject_name"], item["predicate"], item["object_name"]) for item in relationships}
+    assert ("Visitor", "associated_with_guild", "Agora") in simplified
+    assert ("Visitor", "member_of", "Agora") not in simplified
+    assert ("SAWYN", "leader_of", "Agora") in simplified
+    assert ("Neo_AArmstrong", "leader_of", "Agora") in simplified
 
 
 def test_deleted_users_and_software_bot_are_not_person_candidates(tmp_path):

@@ -2,7 +2,7 @@
   "campaign_id": "discord-community-indexing-001",
   "decision_date": "2026-07-19",
   "evidence_policy": "Operator decisions authorize identity resolution and review disposition but remain separate from archive evidence.",
-  "item_count": 33,
+  "item_count": 41,
   "items": [
     {
       "decision": "CONFIRMED",
@@ -201,6 +201,54 @@
       "item": 33,
       "operator_note": "Use Virtuwul as the preferred spelling; legacy Virtuwaal and Virtuwuul spellings resolve to the same person. Member of Rome and owner of the Titan-class Rainbow Phi.",
       "subject": "Virtuwul"
+    },
+    {
+      "decision": "CONFIRMED",
+      "item": 34,
+      "operator_note": "MetaVerse Explorer was a member of Aephia/AEP.",
+      "subject": "MetaVerse Explorer"
+    },
+    {
+      "decision": "CONFIRMED",
+      "item": 35,
+      "operator_note": "Dark Matter was a guild/DAC aligned with the Ustur faction.",
+      "subject": "Dark Matter"
+    },
+    {
+      "decision": "DEFERRED",
+      "item": 36,
+      "operator_note": "The EMP display tag remains unresolved.",
+      "subject": "EMP"
+    },
+    {
+      "decision": "CONFIRMED_ASSOCIATION",
+      "item": 37,
+      "operator_note": "A standalone uppercase Greek lambda attached to a handle usually indicates association with the Agora guild; it does not establish membership by itself.",
+      "subject": "Λ / Agora"
+    },
+    {
+      "decision": "DEFERRED_LOW_PRIORITY",
+      "item": 38,
+      "operator_note": "Exact dates are unknown and are low priority for archive ingestion; retain the undated sequence as operator context.",
+      "subject": "Rome guild chronology dates"
+    },
+    {
+      "decision": "RESOLVED_TOOL_ARTIFACT",
+      "item": 39,
+      "operator_note": "The collection tool was not configured for a Discord announcement channel, so the file title duplicated the first collected message title and is not a native channel name.",
+      "subject": "Imported announcements export title"
+    },
+    {
+      "decision": "CONFIRMED",
+      "item": 40,
+      "operator_note": "Treat March 2021 as the canonical beginning of the Star Atlas Discord; no history exists before its formation.",
+      "subject": "Star Atlas Discord beginning"
+    },
+    {
+      "decision": "CONFIRMED",
+      "item": 41,
+      "operator_note": "The operator-supplied Portuguese guild description is preserved as translated context. Agora is a collaborative Star Atlas guild led by SAWYN and Neo_AArmstrong; its supplied public invite is https://discord.gg/69HsqtZ22N.",
+      "subject": "Agora guild profile"
     }
   ],
   "schema_version": "2.0.0"

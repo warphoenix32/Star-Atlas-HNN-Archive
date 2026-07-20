@@ -368,6 +368,7 @@
         "source_paths": [],
         "timestamp": null
       },
+      "operator_supplied_profile": null,
       "preferred_display_name": "Aephia",
       "registry_status": "operator_confirmed_with_archive_observations",
       "resolution_status": "OPERATOR_CONFIRMED"
@@ -590,6 +591,7 @@
         "source_paths": [],
         "timestamp": null
       },
+      "operator_supplied_profile": null,
       "preferred_display_name": "BULK",
       "registry_status": "operator_confirmed_with_archive_observations",
       "resolution_status": "OPERATOR_CONFIRMED"
@@ -777,6 +779,7 @@
         "source_paths": [],
         "timestamp": null
       },
+      "operator_supplied_profile": null,
       "preferred_display_name": "Star Atlas Italia",
       "registry_status": "operator_confirmed_with_archive_observations",
       "resolution_status": "OPERATOR_CONFIRMED"
@@ -837,6 +840,7 @@
         "source_paths": [],
         "timestamp": null
       },
+      "operator_supplied_profile": null,
       "preferred_display_name": "Intergalactic Alliance",
       "registry_status": "operator_confirmed_with_archive_observations",
       "resolution_status": "OPERATOR_CONFIRMED"
@@ -964,6 +968,7 @@
         "source_paths": [],
         "timestamp": null
       },
+      "operator_supplied_profile": null,
       "preferred_display_name": "426",
       "registry_status": "operator_confirmed_with_archive_observations",
       "resolution_status": "OPERATOR_CONFIRMED"
@@ -1042,6 +1047,7 @@
         "source_paths": [],
         "timestamp": null
       },
+      "operator_supplied_profile": null,
       "preferred_display_name": "The Club Guild",
       "registry_status": "operator_confirmed_with_archive_observations",
       "resolution_status": "OPERATOR_CONFIRMED"
@@ -1078,8 +1084,121 @@
         "source_paths": [],
         "timestamp": null
       },
+      "operator_supplied_profile": null,
       "preferred_display_name": "The Vanguard",
       "registry_status": "operator_confirmed",
+      "resolution_status": "OPERATOR_CONFIRMED"
+    },
+    {
+      "alias_basis": "operator_confirmed",
+      "aliases": [
+        "Ágora"
+      ],
+      "canonical_name": "Agora",
+      "confirmed_aliases": [
+        "Ágora"
+      ],
+      "corroborating_repository_paths": [],
+      "display_tags": [
+        "Λ"
+      ],
+      "entity_type": "guild",
+      "evidence": [],
+      "identity_merge_authorized": true,
+      "meaning": "Collaborative Star Atlas guild focused on mutual growth, continuous learning, organized information, coordinated logistics and strategy, and a welcoming community.",
+      "normalized_terms": [
+        "agora",
+        "gora"
+      ],
+      "observed_handles": [],
+      "operator_confirmation": {
+        "attribution_class": "operator_confirmed_alias",
+        "author_id": null,
+        "channel_id": null,
+        "display_name": null,
+        "evidence_channel": "operator_confirmation",
+        "evidence_location": "operator_review_record",
+        "message_id": null,
+        "operator_assertion": true,
+        "quoted_text": null,
+        "review_note": "Confirmed by repository operator during PR review",
+        "source_id": null,
+        "source_paths": [],
+        "timestamp": null
+      },
+      "operator_supplied_profile": {
+        "confirmed_leaders": [
+          "SAWYN",
+          "Neo_AArmstrong"
+        ],
+        "discord_invite": "https://discord.gg/69HsqtZ22N",
+        "leader_display_forms": [
+          "[Λ] 🆂🅰🆆🆈🅽 [EC]",
+          "[Λ] Neo_AArmstrong [EC]"
+        ],
+        "provenance": "repository_operator_supplied_context",
+        "source_language": "pt",
+        "translated_description": "Agora is a collaborative Star Atlas guild where players work together to grow in a complex universe. It emphasizes continuous learning for new and veteran players, organized spreadsheets and current information, efficient group logistics and coordinated activity, and a welcoming community built around mutual support. The guild invites active, organized players committed to shared growth.",
+        "translation_status": "OPERATOR_CONTEXT_TRANSLATED_TO_ENGLISH"
+      },
+      "preferred_display_name": "Agora",
+      "registry_status": "operator_confirmed",
+      "resolution_status": "OPERATOR_CONFIRMED"
+    },
+    {
+      "alias_basis": null,
+      "aliases": [],
+      "canonical_name": "Dark Matter",
+      "confirmed_aliases": [],
+      "corroborating_repository_paths": [],
+      "display_tags": [],
+      "entity_type": "guild",
+      "evidence": [
+        {
+          "attribution_class": "explicit_third_party_attribution",
+          "author_id": null,
+          "channel_id": null,
+          "display_name": "DominicVainMod",
+          "evidence_channel": "archive_evidence",
+          "evidence_location": "message_content",
+          "message_id": null,
+          "operator_assertion": false,
+          "quoted_text": "Dark Matter",
+          "source_id": "SA-DISCORD-ANN-34920EEC55E65F73",
+          "source_paths": [
+            "archive/normalized/discord-announcements/messages.jsonl",
+            "archive/normalized/discord-announcements/messages/SA-DISCORD-ANN-34920EEC55E65F73.json",
+            "archive/raw/discord-announcements/star-atlas-discord-announcements.md"
+          ],
+          "timestamp": "2022-06-16T16:03:42"
+        }
+      ],
+      "identity_merge_authorized": true,
+      "meaning": "Star Atlas guild/DAC aligned with the Ustur faction.",
+      "normalized_terms": [
+        "darkmatter"
+      ],
+      "observed_handles": [
+        "Dark Matter"
+      ],
+      "operator_confirmation": {
+        "attribution_class": "operator_confirmed_alias",
+        "author_id": null,
+        "channel_id": null,
+        "display_name": null,
+        "evidence_channel": "operator_confirmation",
+        "evidence_location": "operator_review_record",
+        "message_id": null,
+        "operator_assertion": true,
+        "quoted_text": null,
+        "review_note": "Confirmed by repository operator during PR review",
+        "source_id": null,
+        "source_paths": [],
+        "timestamp": null
+      },
+      "operator_supplied_profile": null,
+      "preferred_display_name": "Dark Matter",
+      "registry_status": "operator_confirmed_with_archive_observations",
       "resolution_status": "OPERATOR_CONFIRMED"
     },
     {
@@ -1228,6 +1347,7 @@
         "source_paths": [],
         "timestamp": null
       },
+      "operator_supplied_profile": null,
       "preferred_display_name": "Rome",
       "registry_status": "operator_confirmed_with_archive_observations",
       "resolution_status": "OPERATOR_CONFIRMED"
@@ -1325,6 +1445,7 @@
         "source_paths": [],
         "timestamp": null
       },
+      "operator_supplied_profile": null,
       "preferred_display_name": "Coexist",
       "registry_status": "operator_confirmed_with_archive_observations",
       "resolution_status": "OPERATOR_CONFIRMED"
@@ -1403,6 +1524,7 @@
         "source_paths": [],
         "timestamp": null
       },
+      "operator_supplied_profile": null,
       "preferred_display_name": "Eclypse",
       "registry_status": "operator_confirmed_with_archive_observations",
       "resolution_status": "OPERATOR_CONFIRMED"
@@ -1823,6 +1945,7 @@
         "source_paths": [],
         "timestamp": null
       },
+      "operator_supplied_profile": null,
       "preferred_display_name": "Deep Profits",
       "registry_status": "operator_confirmed_with_archive_observations",
       "resolution_status": "OPERATOR_CONFIRMED"
@@ -1896,6 +2019,7 @@
         "source_paths": [],
         "timestamp": null
       },
+      "operator_supplied_profile": null,
       "preferred_display_name": "Polaris Fuel",
       "registry_status": "operator_confirmed_with_archive_observations",
       "resolution_status": "OPERATOR_CONFIRMED"
@@ -1969,6 +2093,7 @@
         "source_paths": [],
         "timestamp": null
       },
+      "operator_supplied_profile": null,
       "preferred_display_name": "Star Atlas TV",
       "registry_status": "operator_confirmed_with_archive_observations",
       "resolution_status": "OPERATOR_CONFIRMED"
@@ -2158,6 +2283,7 @@
         "source_paths": [],
         "timestamp": null
       },
+      "operator_supplied_profile": null,
       "preferred_display_name": "Ryden Systems",
       "registry_status": "operator_confirmed_with_archive_observations",
       "resolution_status": "OPERATOR_CONFIRMED"
@@ -2200,6 +2326,7 @@
         "source_paths": [],
         "timestamp": null
       },
+      "operator_supplied_profile": null,
       "preferred_display_name": "The Star Atlas AI App",
       "registry_status": "operator_confirmed",
       "resolution_status": "OPERATOR_CONFIRMED"
@@ -4881,6 +5008,42 @@
     },
     {
       "alias_basis": "operator_confirmed",
+      "aliases": [],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
+      "canonical_name": "SAWYN",
+      "canonicality_note": null,
+      "confirmed_aliases": [],
+      "corroborating_repository_paths": [],
+      "entity_type": "person",
+      "evidence": [],
+      "identity_merge_authorized": true,
+      "meaning": null,
+      "normalized_terms": [
+        "sawyn"
+      ],
+      "observed_handles": [],
+      "operator_confirmation": {
+        "attribution_class": "operator_confirmed_alias",
+        "author_id": null,
+        "channel_id": null,
+        "display_name": null,
+        "evidence_channel": "operator_confirmation",
+        "evidence_location": "operator_review_record",
+        "message_id": null,
+        "operator_assertion": true,
+        "quoted_text": null,
+        "review_note": "Confirmed by repository operator during PR review",
+        "source_id": null,
+        "source_paths": [],
+        "timestamp": null
+      },
+      "preferred_display_name": "SAWYN",
+      "registry_status": "seeded_unresolved",
+      "resolution_status": "OPERATOR_CONFIRMED"
+    },
+    {
+      "alias_basis": "operator_confirmed",
       "aliases": [
         "[Λ] Neo_AArmstrong [EC]"
       ],
@@ -5828,6 +5991,63 @@
         "timestamp": null
       },
       "preferred_display_name": "Shaddix",
+      "registry_status": "operator_confirmed_with_archive_observations",
+      "resolution_status": "OPERATOR_CONFIRMED"
+    },
+    {
+      "alias_basis": "operator_confirmed",
+      "aliases": [],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
+      "canonical_name": "MetaVerse Explorer",
+      "canonicality_note": null,
+      "confirmed_aliases": [],
+      "corroborating_repository_paths": [],
+      "entity_type": "person",
+      "evidence": [
+        {
+          "attribution_class": "explicit_third_party_attribution",
+          "author_id": null,
+          "channel_id": null,
+          "display_name": "DominicVainMod",
+          "evidence_channel": "archive_evidence",
+          "evidence_location": "message_content",
+          "message_id": null,
+          "operator_assertion": false,
+          "quoted_text": "[AEP] MetaVerse Explorer",
+          "source_id": "SA-DISCORD-ANN-3E355EAA4AEFC48C",
+          "source_paths": [
+            "archive/normalized/discord-announcements/messages.jsonl",
+            "archive/normalized/discord-announcements/messages/SA-DISCORD-ANN-3E355EAA4AEFC48C.json",
+            "archive/raw/discord-announcements/star-atlas-discord-announcements.md"
+          ],
+          "timestamp": "2022-09-01T16:35:37"
+        }
+      ],
+      "identity_merge_authorized": true,
+      "meaning": null,
+      "normalized_terms": [
+        "metaverseexplorer"
+      ],
+      "observed_handles": [
+        "[AEP] MetaVerse Explorer"
+      ],
+      "operator_confirmation": {
+        "attribution_class": "operator_confirmed_alias",
+        "author_id": null,
+        "channel_id": null,
+        "display_name": null,
+        "evidence_channel": "operator_confirmation",
+        "evidence_location": "operator_review_record",
+        "message_id": null,
+        "operator_assertion": true,
+        "quoted_text": null,
+        "review_note": "Confirmed by repository operator during PR review",
+        "source_id": null,
+        "source_paths": [],
+        "timestamp": null
+      },
+      "preferred_display_name": "MetaVerse Explorer",
       "registry_status": "operator_confirmed_with_archive_observations",
       "resolution_status": "OPERATOR_CONFIRMED"
     },

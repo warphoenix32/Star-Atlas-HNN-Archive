@@ -57,6 +57,81 @@
       }
     },
     {
+      "entity_id": "ORG-F7070D57BBE5496E",
+      "entity_type": "guild",
+      "evidence": [],
+      "independent_message_count": 0,
+      "name": "Agora",
+      "operator_confirmation": {
+        "attribution_class": "operator_confirmed_alias",
+        "author_id": null,
+        "channel_id": null,
+        "display_name": null,
+        "evidence_channel": "operator_confirmation",
+        "evidence_location": "operator_review_record",
+        "message_id": null,
+        "operator_assertion": true,
+        "quoted_text": null,
+        "review_note": "Confirmed by repository operator during PR review",
+        "source_id": null,
+        "source_paths": [],
+        "timestamp": null
+      },
+      "review_status": "DISCOVERY_ONLY",
+      "score_dimensions": {
+        "evidence_strength": 0,
+        "historical_significance": 5,
+        "identity_confidence": 3
+      }
+    },
+    {
+      "entity_id": "ORG-93DDD9B5AEA5E154",
+      "entity_type": "guild",
+      "evidence": [
+        {
+          "attribution_class": "explicit_third_party_attribution",
+          "author_id": null,
+          "channel_id": null,
+          "display_name": "DominicVainMod",
+          "evidence_channel": "archive_evidence",
+          "evidence_location": "message_content",
+          "message_id": null,
+          "operator_assertion": false,
+          "quoted_text": "Dark Matter",
+          "source_id": "SA-DISCORD-ANN-34920EEC55E65F73",
+          "source_paths": [
+            "archive/normalized/discord-announcements/messages.jsonl",
+            "archive/normalized/discord-announcements/messages/SA-DISCORD-ANN-34920EEC55E65F73.json",
+            "archive/raw/discord-announcements/star-atlas-discord-announcements.md"
+          ],
+          "timestamp": "2022-06-16T16:03:42"
+        }
+      ],
+      "independent_message_count": 1,
+      "name": "Dark Matter",
+      "operator_confirmation": {
+        "attribution_class": "operator_confirmed_alias",
+        "author_id": null,
+        "channel_id": null,
+        "display_name": null,
+        "evidence_channel": "operator_confirmation",
+        "evidence_location": "operator_review_record",
+        "message_id": null,
+        "operator_assertion": true,
+        "quoted_text": null,
+        "review_note": "Confirmed by repository operator during PR review",
+        "source_id": null,
+        "source_paths": [],
+        "timestamp": null
+      },
+      "review_status": "DISCOVERY_ONLY",
+      "score_dimensions": {
+        "evidence_strength": 1,
+        "historical_significance": 1,
+        "identity_confidence": 3
+      }
+    },
+    {
       "entity_id": "ORG-934155EBED3F895C",
       "entity_type": "guild_alliance",
       "evidence": [
@@ -5534,6 +5609,73 @@
       "authority_scope": null,
       "canonicality_note": null,
       "council_service_excluded_from_guild_leadership": true,
+      "entity_id": "PERSON-7DB514FF4DCF1449",
+      "entity_type": "person",
+      "evidence": [
+        {
+          "attribution_class": "explicit_third_party_attribution",
+          "author_id": null,
+          "channel_id": null,
+          "display_name": "DominicVainMod",
+          "evidence_channel": "archive_evidence",
+          "evidence_location": "message_content",
+          "message_id": null,
+          "operator_assertion": false,
+          "quoted_text": "[AEP] MetaVerse Explorer",
+          "source_id": "SA-DISCORD-ANN-3E355EAA4AEFC48C",
+          "source_paths": [
+            "archive/normalized/discord-announcements/messages.jsonl",
+            "archive/normalized/discord-announcements/messages/SA-DISCORD-ANN-3E355EAA4AEFC48C.json",
+            "archive/raw/discord-announcements/star-atlas-discord-announcements.md"
+          ],
+          "timestamp": "2022-09-01T16:35:37"
+        }
+      ],
+      "independent_author_count": 1,
+      "independent_message_count": 1,
+      "name": "MetaVerse Explorer",
+      "operator_confirmations": [
+        {
+          "attribution_class": "operator_confirmed_alias",
+          "author_id": null,
+          "channel_id": null,
+          "display_name": null,
+          "evidence_channel": "operator_confirmation",
+          "evidence_location": "operator_review_record",
+          "message_id": null,
+          "operator_assertion": true,
+          "quoted_text": null,
+          "review_note": "Confirmed by repository operator during PR review",
+          "source_id": null,
+          "source_paths": [],
+          "timestamp": null
+        }
+      ],
+      "operator_confirmed_roles": [
+        "guild_member"
+      ],
+      "operator_decision": null,
+      "review_status": "READY_FOR_HUMAN_PROMOTION_REVIEW",
+      "score_dimensions": {
+        "alliance_leader": 0,
+        "community_organizer": 0,
+        "creator_or_builder": 0,
+        "dao_council_service": 0,
+        "evidence_strength": 1,
+        "guild_founder": 0,
+        "guild_leader": 0,
+        "guild_officer": 0,
+        "historical_significance": 2,
+        "identity_confidence": 3,
+        "official_team_member": 0
+      }
+    },
+    {
+      "archive_roles": [],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
+      "canonicality_note": null,
+      "council_service_excluded_from_guild_leadership": true,
       "entity_id": "PERSON-E757E4BC0E0992E2",
       "entity_type": "person",
       "evidence": [
@@ -5594,7 +5736,10 @@
           "timestamp": null
         }
       ],
-      "operator_confirmed_roles": [],
+      "operator_confirmed_roles": [
+        "guild_leader",
+        "guild_member"
+      ],
       "operator_decision": null,
       "review_status": "READY_FOR_HUMAN_PROMOTION_REVIEW",
       "score_dimensions": {
@@ -5604,9 +5749,9 @@
         "dao_council_service": 0,
         "evidence_strength": 2,
         "guild_founder": 0,
-        "guild_leader": 0,
+        "guild_leader": 1,
         "guild_officer": 0,
-        "historical_significance": 3,
+        "historical_significance": 5,
         "identity_confidence": 3,
         "official_team_member": 0
       }
@@ -6419,6 +6564,55 @@
       "authority_scope": null,
       "canonicality_note": null,
       "council_service_excluded_from_guild_leadership": true,
+      "entity_id": "PERSON-BF9F203677DD6BF8",
+      "entity_type": "person",
+      "evidence": [],
+      "independent_author_count": 0,
+      "independent_message_count": 0,
+      "name": "SAWYN",
+      "operator_confirmations": [
+        {
+          "attribution_class": "operator_confirmed_alias",
+          "author_id": null,
+          "channel_id": null,
+          "display_name": null,
+          "evidence_channel": "operator_confirmation",
+          "evidence_location": "operator_review_record",
+          "message_id": null,
+          "operator_assertion": true,
+          "quoted_text": null,
+          "review_note": "Confirmed by repository operator during PR review",
+          "source_id": null,
+          "source_paths": [],
+          "timestamp": null
+        }
+      ],
+      "operator_confirmed_roles": [
+        "guild_leader",
+        "guild_member"
+      ],
+      "operator_decision": null,
+      "review_status": "READY_FOR_HUMAN_PROMOTION_REVIEW",
+      "score_dimensions": {
+        "alliance_leader": 0,
+        "community_organizer": 0,
+        "creator_or_builder": 0,
+        "dao_council_service": 0,
+        "evidence_strength": 0,
+        "guild_founder": 0,
+        "guild_leader": 1,
+        "guild_officer": 0,
+        "historical_significance": 2,
+        "identity_confidence": 3,
+        "official_team_member": 0
+      }
+    },
+    {
+      "archive_roles": [],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
+      "canonicality_note": null,
+      "council_service_excluded_from_guild_leadership": true,
       "entity_id": "PERSON-F71436D8B233FCEB",
       "entity_type": "person",
       "evidence": [
@@ -7181,55 +7375,6 @@
       "independent_author_count": 1,
       "independent_message_count": 1,
       "name": "MALACREANZA",
-      "operator_confirmations": [],
-      "operator_confirmed_roles": [],
-      "operator_decision": null,
-      "review_status": "REQUIRES_ROLE_CORROBORATION",
-      "score_dimensions": {
-        "alliance_leader": 0,
-        "community_organizer": 0,
-        "creator_or_builder": 0,
-        "dao_council_service": 0,
-        "evidence_strength": 1,
-        "guild_founder": 0,
-        "guild_leader": 0,
-        "guild_officer": 0,
-        "historical_significance": 1,
-        "identity_confidence": 1,
-        "official_team_member": 0
-      }
-    },
-    {
-      "archive_roles": [],
-      "attributed_statement_treatment": null,
-      "authority_scope": null,
-      "canonicality_note": null,
-      "council_service_excluded_from_guild_leadership": true,
-      "entity_id": "PERSON-133938065BE198E6",
-      "entity_type": "person",
-      "evidence": [
-        {
-          "attribution_class": "explicit_third_party_attribution",
-          "author_id": null,
-          "channel_id": null,
-          "display_name": "DominicVainMod",
-          "evidence_channel": "archive_evidence",
-          "evidence_location": "message_content",
-          "message_id": null,
-          "operator_assertion": false,
-          "quoted_text": "[AEP] MetaVerse Explorer",
-          "source_id": "SA-DISCORD-ANN-3E355EAA4AEFC48C",
-          "source_paths": [
-            "archive/normalized/discord-announcements/messages.jsonl",
-            "archive/normalized/discord-announcements/messages/SA-DISCORD-ANN-3E355EAA4AEFC48C.json",
-            "archive/raw/discord-announcements/star-atlas-discord-announcements.md"
-          ],
-          "timestamp": "2022-09-01T16:35:37"
-        }
-      ],
-      "independent_author_count": 1,
-      "independent_message_count": 1,
-      "name": "MetaVerse Explorer",
       "operator_confirmations": [],
       "operator_confirmed_roles": [],
       "operator_decision": null,
