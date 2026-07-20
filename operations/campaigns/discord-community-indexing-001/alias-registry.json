@@ -12,6 +12,8 @@
         "AEP",
         "Aephia Industries"
       ],
+      "corroborating_repository_paths": [],
+      "display_tags": [],
       "entity_type": "guild",
       "evidence": [
         {
@@ -366,6 +368,7 @@
         "source_paths": [],
         "timestamp": null
       },
+      "operator_supplied_profile": null,
       "preferred_display_name": "Aephia",
       "registry_status": "operator_confirmed_with_archive_observations",
       "resolution_status": "OPERATOR_CONFIRMED"
@@ -379,6 +382,8 @@
       "confirmed_aliases": [
         "Bulk"
       ],
+      "corroborating_repository_paths": [],
+      "display_tags": [],
       "entity_type": "guild",
       "evidence": [
         {
@@ -586,6 +591,7 @@
         "source_paths": [],
         "timestamp": null
       },
+      "operator_supplied_profile": null,
       "preferred_display_name": "BULK",
       "registry_status": "operator_confirmed_with_archive_observations",
       "resolution_status": "OPERATOR_CONFIRMED"
@@ -599,6 +605,8 @@
       "confirmed_aliases": [
         "SAI"
       ],
+      "corroborating_repository_paths": [],
+      "display_tags": [],
       "entity_type": "community_organization",
       "evidence": [
         {
@@ -771,6 +779,7 @@
         "source_paths": [],
         "timestamp": null
       },
+      "operator_supplied_profile": null,
       "preferred_display_name": "Star Atlas Italia",
       "registry_status": "operator_confirmed_with_archive_observations",
       "resolution_status": "OPERATOR_CONFIRMED"
@@ -784,6 +793,8 @@
       "confirmed_aliases": [
         "IA"
       ],
+      "corroborating_repository_paths": [],
+      "display_tags": [],
       "entity_type": "guild_alliance",
       "evidence": [
         {
@@ -829,6 +840,7 @@
         "source_paths": [],
         "timestamp": null
       },
+      "operator_supplied_profile": null,
       "preferred_display_name": "Intergalactic Alliance",
       "registry_status": "operator_confirmed_with_archive_observations",
       "resolution_status": "OPERATOR_CONFIRMED"
@@ -838,6 +850,8 @@
       "aliases": [],
       "canonical_name": "426",
       "confirmed_aliases": [],
+      "corroborating_repository_paths": [],
+      "display_tags": [],
       "entity_type": "community_meme",
       "evidence": [
         {
@@ -954,6 +968,7 @@
         "source_paths": [],
         "timestamp": null
       },
+      "operator_supplied_profile": null,
       "preferred_display_name": "426",
       "registry_status": "operator_confirmed_with_archive_observations",
       "resolution_status": "OPERATOR_CONFIRMED"
@@ -967,6 +982,8 @@
       "confirmed_aliases": [
         "The Club"
       ],
+      "corroborating_repository_paths": [],
+      "display_tags": [],
       "entity_type": "guild",
       "evidence": [
         {
@@ -1030,6 +1047,7 @@
         "source_paths": [],
         "timestamp": null
       },
+      "operator_supplied_profile": null,
       "preferred_display_name": "The Club Guild",
       "registry_status": "operator_confirmed_with_archive_observations",
       "resolution_status": "OPERATOR_CONFIRMED"
@@ -1039,10 +1057,14 @@
       "aliases": [],
       "canonical_name": "The Vanguard",
       "confirmed_aliases": [],
-      "entity_type": "unresolved_tag",
+      "corroborating_repository_paths": [],
+      "display_tags": [
+        "VΛ"
+      ],
+      "entity_type": "guild",
       "evidence": [],
       "identity_merge_authorized": true,
-      "meaning": null,
+      "meaning": "Guild whose operator-confirmed display tag is the Latin letter V followed by uppercase Greek lambda.",
       "normalized_terms": [
         "thevanguard"
       ],
@@ -1062,9 +1084,122 @@
         "source_paths": [],
         "timestamp": null
       },
+      "operator_supplied_profile": null,
       "preferred_display_name": "The Vanguard",
-      "registry_status": "human_review_required",
-      "resolution_status": "HUMAN_REVIEW_REQUIRED"
+      "registry_status": "operator_confirmed",
+      "resolution_status": "OPERATOR_CONFIRMED"
+    },
+    {
+      "alias_basis": "operator_confirmed",
+      "aliases": [
+        "Ágora"
+      ],
+      "canonical_name": "Agora",
+      "confirmed_aliases": [
+        "Ágora"
+      ],
+      "corroborating_repository_paths": [],
+      "display_tags": [
+        "Λ"
+      ],
+      "entity_type": "guild",
+      "evidence": [],
+      "identity_merge_authorized": true,
+      "meaning": "Collaborative Star Atlas guild focused on mutual growth, continuous learning, organized information, coordinated logistics and strategy, and a welcoming community.",
+      "normalized_terms": [
+        "agora",
+        "gora"
+      ],
+      "observed_handles": [],
+      "operator_confirmation": {
+        "attribution_class": "operator_confirmed_alias",
+        "author_id": null,
+        "channel_id": null,
+        "display_name": null,
+        "evidence_channel": "operator_confirmation",
+        "evidence_location": "operator_review_record",
+        "message_id": null,
+        "operator_assertion": true,
+        "quoted_text": null,
+        "review_note": "Confirmed by repository operator during PR review",
+        "source_id": null,
+        "source_paths": [],
+        "timestamp": null
+      },
+      "operator_supplied_profile": {
+        "confirmed_leaders": [
+          "SAWYN",
+          "Neo_AArmstrong"
+        ],
+        "discord_invite": "https://discord.gg/69HsqtZ22N",
+        "leader_display_forms": [
+          "[Λ] 🆂🅰🆆🆈🅽 [EC]",
+          "[Λ] Neo_AArmstrong [EC]"
+        ],
+        "provenance": "repository_operator_supplied_context",
+        "source_language": "pt",
+        "translated_description": "Agora is a collaborative Star Atlas guild where players work together to grow in a complex universe. It emphasizes continuous learning for new and veteran players, organized spreadsheets and current information, efficient group logistics and coordinated activity, and a welcoming community built around mutual support. The guild invites active, organized players committed to shared growth.",
+        "translation_status": "OPERATOR_CONTEXT_TRANSLATED_TO_ENGLISH"
+      },
+      "preferred_display_name": "Agora",
+      "registry_status": "operator_confirmed",
+      "resolution_status": "OPERATOR_CONFIRMED"
+    },
+    {
+      "alias_basis": null,
+      "aliases": [],
+      "canonical_name": "Dark Matter",
+      "confirmed_aliases": [],
+      "corroborating_repository_paths": [],
+      "display_tags": [],
+      "entity_type": "guild",
+      "evidence": [
+        {
+          "attribution_class": "explicit_third_party_attribution",
+          "author_id": null,
+          "channel_id": null,
+          "display_name": "DominicVainMod",
+          "evidence_channel": "archive_evidence",
+          "evidence_location": "message_content",
+          "message_id": null,
+          "operator_assertion": false,
+          "quoted_text": "Dark Matter",
+          "source_id": "SA-DISCORD-ANN-34920EEC55E65F73",
+          "source_paths": [
+            "archive/normalized/discord-announcements/messages.jsonl",
+            "archive/normalized/discord-announcements/messages/SA-DISCORD-ANN-34920EEC55E65F73.json",
+            "archive/raw/discord-announcements/star-atlas-discord-announcements.md"
+          ],
+          "timestamp": "2022-06-16T16:03:42"
+        }
+      ],
+      "identity_merge_authorized": true,
+      "meaning": "Star Atlas guild/DAC aligned with the Ustur faction.",
+      "normalized_terms": [
+        "darkmatter"
+      ],
+      "observed_handles": [
+        "Dark Matter"
+      ],
+      "operator_confirmation": {
+        "attribution_class": "operator_confirmed_alias",
+        "author_id": null,
+        "channel_id": null,
+        "display_name": null,
+        "evidence_channel": "operator_confirmation",
+        "evidence_location": "operator_review_record",
+        "message_id": null,
+        "operator_assertion": true,
+        "quoted_text": null,
+        "review_note": "Confirmed by repository operator during PR review",
+        "source_id": null,
+        "source_paths": [],
+        "timestamp": null
+      },
+      "operator_supplied_profile": null,
+      "preferred_display_name": "Dark Matter",
+      "registry_status": "operator_confirmed_with_archive_observations",
+      "resolution_status": "OPERATOR_CONFIRMED"
     },
     {
       "alias_basis": "operator_confirmed",
@@ -1075,6 +1210,8 @@
       "confirmed_aliases": [
         "ROME"
       ],
+      "corroborating_repository_paths": [],
+      "display_tags": [],
       "entity_type": "guild",
       "evidence": [
         {
@@ -1210,6 +1347,7 @@
         "source_paths": [],
         "timestamp": null
       },
+      "operator_supplied_profile": null,
       "preferred_display_name": "Rome",
       "registry_status": "operator_confirmed_with_archive_observations",
       "resolution_status": "OPERATOR_CONFIRMED"
@@ -1223,6 +1361,8 @@
       "confirmed_aliases": [
         "COEX"
       ],
+      "corroborating_repository_paths": [],
+      "display_tags": [],
       "entity_type": "guild",
       "evidence": [
         {
@@ -1305,6 +1445,7 @@
         "source_paths": [],
         "timestamp": null
       },
+      "operator_supplied_profile": null,
       "preferred_display_name": "Coexist",
       "registry_status": "operator_confirmed_with_archive_observations",
       "resolution_status": "OPERATOR_CONFIRMED"
@@ -1318,6 +1459,8 @@
       "confirmed_aliases": [
         "EC"
       ],
+      "corroborating_repository_paths": [],
+      "display_tags": [],
       "entity_type": "guild",
       "evidence": [
         {
@@ -1381,6 +1524,7 @@
         "source_paths": [],
         "timestamp": null
       },
+      "operator_supplied_profile": null,
       "preferred_display_name": "Eclypse",
       "registry_status": "operator_confirmed_with_archive_observations",
       "resolution_status": "OPERATOR_CONFIRMED"
@@ -1394,6 +1538,8 @@
       "confirmed_aliases": [
         "DEEP"
       ],
+      "corroborating_repository_paths": [],
+      "display_tags": [],
       "entity_type": "guild",
       "evidence": [
         {
@@ -1799,6 +1945,7 @@
         "source_paths": [],
         "timestamp": null
       },
+      "operator_supplied_profile": null,
       "preferred_display_name": "Deep Profits",
       "registry_status": "operator_confirmed_with_archive_observations",
       "resolution_status": "OPERATOR_CONFIRMED"
@@ -1808,6 +1955,8 @@
       "aliases": [],
       "canonical_name": "Polaris Fuel",
       "confirmed_aliases": [],
+      "corroborating_repository_paths": [],
+      "display_tags": [],
       "entity_type": "community_organization",
       "evidence": [
         {
@@ -1870,6 +2019,7 @@
         "source_paths": [],
         "timestamp": null
       },
+      "operator_supplied_profile": null,
       "preferred_display_name": "Polaris Fuel",
       "registry_status": "operator_confirmed_with_archive_observations",
       "resolution_status": "OPERATOR_CONFIRMED"
@@ -1879,6 +2029,8 @@
       "aliases": [],
       "canonical_name": "Star Atlas TV",
       "confirmed_aliases": [],
+      "corroborating_repository_paths": [],
+      "display_tags": [],
       "entity_type": "community_organization",
       "evidence": [
         {
@@ -1941,6 +2093,7 @@
         "source_paths": [],
         "timestamp": null
       },
+      "operator_supplied_profile": null,
       "preferred_display_name": "Star Atlas TV",
       "registry_status": "operator_confirmed_with_archive_observations",
       "resolution_status": "OPERATOR_CONFIRMED"
@@ -1956,6 +2109,8 @@
         "EveEye",
         "Eveeye"
       ],
+      "corroborating_repository_paths": [],
+      "display_tags": [],
       "entity_type": "community_organization",
       "evidence": [
         {
@@ -2128,6 +2283,7 @@
         "source_paths": [],
         "timestamp": null
       },
+      "operator_supplied_profile": null,
       "preferred_display_name": "Ryden Systems",
       "registry_status": "operator_confirmed_with_archive_observations",
       "resolution_status": "OPERATOR_CONFIRMED"
@@ -2143,6 +2299,8 @@
         "AIAPP",
         "Star Atlas AI App"
       ],
+      "corroborating_repository_paths": [],
+      "display_tags": [],
       "entity_type": "software_agent",
       "evidence": [],
       "identity_merge_authorized": true,
@@ -2168,6 +2326,7 @@
         "source_paths": [],
         "timestamp": null
       },
+      "operator_supplied_profile": null,
       "preferred_display_name": "The Star Atlas AI App",
       "registry_status": "operator_confirmed",
       "resolution_status": "OPERATOR_CONFIRMED"
@@ -2177,10 +2336,14 @@
       "aliases": [
         "King Bryan-Titan Analytics"
       ],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
       "canonical_name": "King Bryan",
+      "canonicality_note": null,
       "confirmed_aliases": [
         "King Bryan-Titan Analytics"
       ],
+      "corroborating_repository_paths": [],
       "entity_type": "person",
       "evidence": [
         {
@@ -2237,12 +2400,16 @@
         "Bodhitree",
         "BodhiTree"
       ],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
       "canonical_name": "Bohdi",
+      "canonicality_note": null,
       "confirmed_aliases": [
         "Bodhi",
         "Bodhitree",
         "BodhiTree"
       ],
+      "corroborating_repository_paths": [],
       "entity_type": "person",
       "evidence": [
         {
@@ -2319,13 +2486,17 @@
         "SW4GN3R",
         "SW4GN3R [STAR]"
       ],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
       "canonical_name": "Michael Wagner",
+      "canonicality_note": null,
       "confirmed_aliases": [
         "Wagner",
         "SW4GNER",
         "SW4GN3R",
         "SW4GN3R [STAR]"
       ],
+      "corroborating_repository_paths": [],
       "entity_type": "person",
       "evidence": [
         {
@@ -2818,12 +2989,16 @@
         "ZeSKK",
         "⪛⦿⫺ZeSKK [STAR]"
       ],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
       "canonical_name": "Jose",
+      "canonicality_note": null,
       "confirmed_aliases": [
         "Zesk",
         "ZeSKK",
         "⪛⦿⫺ZeSKK [STAR]"
       ],
+      "corroborating_repository_paths": [],
       "entity_type": "person",
       "evidence": [
         {
@@ -3077,8 +3252,12 @@
     {
       "alias_basis": "operator_confirmed",
       "aliases": [],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
       "canonical_name": "Funcracker",
+      "canonicality_note": null,
       "confirmed_aliases": [],
+      "corroborating_repository_paths": [],
       "entity_type": "person",
       "evidence": [
         {
@@ -3166,8 +3345,12 @@
     {
       "alias_basis": "operator_confirmed",
       "aliases": [],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
       "canonical_name": "Eoganacht",
+      "canonicality_note": null,
       "confirmed_aliases": [],
+      "corroborating_repository_paths": [],
       "entity_type": "person",
       "evidence": [
         {
@@ -3221,10 +3404,14 @@
       "aliases": [
         "SantiMod"
       ],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
       "canonical_name": "Santi",
+      "canonicality_note": null,
       "confirmed_aliases": [
         "SantiMod"
       ],
+      "corroborating_repository_paths": [],
       "entity_type": "person",
       "evidence": [
         {
@@ -3714,12 +3901,16 @@
         "DominicVain",
         "DominicVainMod"
       ],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
       "canonical_name": "Dom",
+      "canonicality_note": null,
       "confirmed_aliases": [
         "Dominic",
         "DominicVain",
         "DominicVainMod"
       ],
+      "corroborating_repository_paths": [],
       "entity_type": "person",
       "evidence": [
         {
@@ -4210,11 +4401,15 @@
         "Jindo | Star Atlas Mod",
         "Jindo | Star Atlas Mod [STAR]"
       ],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
       "canonical_name": "Jindo",
+      "canonicality_note": null,
       "confirmed_aliases": [
         "Jindo | Star Atlas Mod",
         "Jindo | Star Atlas Mod [STAR]"
       ],
+      "corroborating_repository_paths": [],
       "entity_type": "person",
       "evidence": [
         {
@@ -4345,12 +4540,16 @@
         "SuhailDebar | Star Atlas Mod",
         "SuhailDebar | Star Atlas ModMod"
       ],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
       "canonical_name": "Suhail",
+      "canonicality_note": null,
       "confirmed_aliases": [
         "SuhailDebar",
         "SuhailDebar | Star Atlas Mod",
         "SuhailDebar | Star Atlas ModMod"
       ],
+      "corroborating_repository_paths": [],
       "entity_type": "person",
       "evidence": [
         {
@@ -4571,11 +4770,15 @@
         "[AEP] Prometheus",
         "[AEP] Prometheus ⪛⦿⫺"
       ],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
       "canonical_name": "Prometheus",
+      "canonicality_note": null,
       "confirmed_aliases": [
         "[AEP] Prometheus",
         "[AEP] Prometheus ⪛⦿⫺"
       ],
+      "corroborating_repository_paths": [],
       "entity_type": "person",
       "evidence": [
         {
@@ -4648,10 +4851,14 @@
       "aliases": [
         "[COEX] Hakmer"
       ],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
       "canonical_name": "Hakmer",
+      "canonicality_note": null,
       "confirmed_aliases": [
         "[COEX] Hakmer"
       ],
+      "corroborating_repository_paths": [],
       "entity_type": "person",
       "evidence": [
         {
@@ -4724,10 +4931,14 @@
       "aliases": [
         "[AEP] Lerinor"
       ],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
       "canonical_name": "Lerinor",
+      "canonicality_note": null,
       "confirmed_aliases": [
         "[AEP] Lerinor"
       ],
+      "corroborating_repository_paths": [],
       "entity_type": "person",
       "evidence": [
         {
@@ -4797,13 +5008,53 @@
     },
     {
       "alias_basis": "operator_confirmed",
+      "aliases": [],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
+      "canonical_name": "SAWYN",
+      "canonicality_note": null,
+      "confirmed_aliases": [],
+      "corroborating_repository_paths": [],
+      "entity_type": "person",
+      "evidence": [],
+      "identity_merge_authorized": true,
+      "meaning": null,
+      "normalized_terms": [
+        "sawyn"
+      ],
+      "observed_handles": [],
+      "operator_confirmation": {
+        "attribution_class": "operator_confirmed_alias",
+        "author_id": null,
+        "channel_id": null,
+        "display_name": null,
+        "evidence_channel": "operator_confirmation",
+        "evidence_location": "operator_review_record",
+        "message_id": null,
+        "operator_assertion": true,
+        "quoted_text": null,
+        "review_note": "Confirmed by repository operator during PR review",
+        "source_id": null,
+        "source_paths": [],
+        "timestamp": null
+      },
+      "preferred_display_name": "SAWYN",
+      "registry_status": "seeded_unresolved",
+      "resolution_status": "OPERATOR_CONFIRMED"
+    },
+    {
+      "alias_basis": "operator_confirmed",
       "aliases": [
         "[Λ] Neo_AArmstrong [EC]"
       ],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
       "canonical_name": "Neo_AArmstrong",
+      "canonicality_note": null,
       "confirmed_aliases": [
         "[Λ] Neo_AArmstrong [EC]"
       ],
+      "corroborating_repository_paths": [],
       "entity_type": "person",
       "evidence": [
         {
@@ -4874,8 +5125,12 @@
     {
       "alias_basis": "operator_confirmed",
       "aliases": [],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
       "canonical_name": "Atlas Theory",
+      "canonicality_note": null,
       "confirmed_aliases": [],
+      "corroborating_repository_paths": [],
       "entity_type": "person",
       "evidence": [
         {
@@ -4966,11 +5221,15 @@
         "DRUMCARL05",
         "DRUMCARL05 | Polaris Fuel"
       ],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
       "canonical_name": "DrumCarlos",
+      "canonicality_note": null,
       "confirmed_aliases": [
         "DRUMCARL05",
         "DRUMCARL05 | Polaris Fuel"
       ],
+      "corroborating_repository_paths": [],
       "entity_type": "person",
       "evidence": [
         {
@@ -5044,10 +5303,14 @@
       "aliases": [
         "Xcode [STAR]"
       ],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
       "canonical_name": "Xcode",
+      "canonicality_note": null,
       "confirmed_aliases": [
         "Xcode [STAR]"
       ],
+      "corroborating_repository_paths": [],
       "entity_type": "person",
       "evidence": [
         {
@@ -5210,10 +5473,14 @@
       "aliases": [
         "beyondthehorizon2620"
       ],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
       "canonical_name": "BTH 2620",
+      "canonicality_note": null,
       "confirmed_aliases": [
         "beyondthehorizon2620"
       ],
+      "corroborating_repository_paths": [],
       "entity_type": "person",
       "evidence": [
         {
@@ -5286,10 +5553,14 @@
       "aliases": [
         "odvb"
       ],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
       "canonical_name": "ODVB",
+      "canonicality_note": null,
       "confirmed_aliases": [
         "odvb"
       ],
+      "corroborating_repository_paths": [],
       "entity_type": "person",
       "evidence": [
         {
@@ -5359,8 +5630,12 @@
     {
       "alias_basis": "operator_confirmed",
       "aliases": [],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
       "canonical_name": "Ryden",
+      "canonicality_note": null,
       "confirmed_aliases": [],
+      "corroborating_repository_paths": [],
       "entity_type": "person",
       "evidence": [
         {
@@ -5430,8 +5705,12 @@
     {
       "alias_basis": "operator_confirmed",
       "aliases": [],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
       "canonical_name": "MagicPuncher",
+      "canonicality_note": null,
       "confirmed_aliases": [],
+      "corroborating_repository_paths": [],
       "entity_type": "person",
       "evidence": [
         {
@@ -5499,28 +5778,330 @@
       "resolution_status": "OPERATOR_CONFIRMED"
     },
     {
-      "alias_basis": null,
+      "alias_basis": "operator_confirmed",
+      "aliases": [
+        "Chri.z"
+      ],
+      "attributed_statement_treatment": "AUTHORITATIVE_CANONICAL_WITHIN_GAME_ECONOMY_SCOPE",
+      "authority_scope": "OFFICIAL_TEAM_GAME_ECONOMY_SUBJECT_MATTER_AUTHORITY",
+      "canonical_name": "Chris Kaczmarczyk-Smith",
+      "canonicality_note": "Attributed game-economy statements are treated as authoritative first-party institutional evidence; statement state and temporal scope must still be preserved.",
+      "confirmed_aliases": [
+        "Chri.z"
+      ],
+      "corroborating_repository_paths": [],
+      "entity_type": "person",
+      "evidence": [
+        {
+          "attribution_class": "explicit_third_party_attribution",
+          "author_id": null,
+          "channel_id": null,
+          "display_name": "DominicVainMod",
+          "evidence_channel": "archive_evidence",
+          "evidence_location": "message_content",
+          "message_id": null,
+          "operator_assertion": false,
+          "quoted_text": "Chri.z",
+          "source_id": "SA-DISCORD-ANN-2AC9A06C8FF90D5A",
+          "source_paths": [
+            "archive/normalized/discord-announcements/messages.jsonl",
+            "archive/normalized/discord-announcements/messages/SA-DISCORD-ANN-2AC9A06C8FF90D5A.json",
+            "archive/raw/discord-announcements/star-atlas-discord-announcements.md"
+          ],
+          "timestamp": "2023-05-01T17:40:50"
+        },
+        {
+          "attribution_class": "explicit_third_party_attribution",
+          "author_id": null,
+          "channel_id": null,
+          "display_name": "DominicVainMod",
+          "evidence_channel": "archive_evidence",
+          "evidence_location": "message_content",
+          "message_id": null,
+          "operator_assertion": false,
+          "quoted_text": "Chri.z",
+          "source_id": "SA-DISCORD-ANN-42E4940748F661A2",
+          "source_paths": [
+            "archive/normalized/discord-announcements/messages.jsonl",
+            "archive/normalized/discord-announcements/messages/SA-DISCORD-ANN-42E4940748F661A2.json",
+            "archive/raw/discord-announcements/star-atlas-discord-announcements.md"
+          ],
+          "timestamp": "2023-08-01T15:24:28"
+        },
+        {
+          "attribution_class": "explicit_third_party_attribution",
+          "author_id": null,
+          "channel_id": null,
+          "display_name": "DominicVainMod",
+          "evidence_channel": "archive_evidence",
+          "evidence_location": "message_content",
+          "message_id": null,
+          "operator_assertion": false,
+          "quoted_text": "Chri.z",
+          "source_id": "SA-DISCORD-ANN-EA28D48D7B4B228D",
+          "source_paths": [
+            "archive/normalized/discord-announcements/messages.jsonl",
+            "archive/normalized/discord-announcements/messages/SA-DISCORD-ANN-EA28D48D7B4B228D.json",
+            "archive/raw/discord-announcements/star-atlas-discord-announcements.md"
+          ],
+          "timestamp": "2023-10-02T18:45:16"
+        },
+        {
+          "attribution_class": "explicit_third_party_attribution",
+          "author_id": null,
+          "channel_id": null,
+          "display_name": "DominicVainMod",
+          "evidence_channel": "archive_evidence",
+          "evidence_location": "message_content",
+          "message_id": null,
+          "operator_assertion": false,
+          "quoted_text": "Chri.z",
+          "source_id": "SA-DISCORD-ANN-1B120016F53120F9",
+          "source_paths": [
+            "archive/normalized/discord-announcements/messages.jsonl",
+            "archive/normalized/discord-announcements/messages/SA-DISCORD-ANN-1B120016F53120F9.json",
+            "archive/raw/discord-announcements/star-atlas-discord-announcements.md"
+          ],
+          "timestamp": "2024-05-08T11:58:22"
+        },
+        {
+          "attribution_class": "explicit_third_party_attribution",
+          "author_id": null,
+          "channel_id": null,
+          "display_name": "DominicVainMod",
+          "evidence_channel": "archive_evidence",
+          "evidence_location": "message_content",
+          "message_id": null,
+          "operator_assertion": false,
+          "quoted_text": "Chri.z",
+          "source_id": "SA-DISCORD-ANN-9CA0CA4D467F8816",
+          "source_paths": [
+            "archive/normalized/discord-announcements/messages.jsonl",
+            "archive/normalized/discord-announcements/messages/SA-DISCORD-ANN-9CA0CA4D467F8816.json",
+            "archive/raw/discord-announcements/star-atlas-discord-announcements.md"
+          ],
+          "timestamp": "2024-12-11T14:30:49"
+        }
+      ],
+      "identity_merge_authorized": true,
+      "meaning": null,
+      "normalized_terms": [
+        "chriskaczmarczyksmith",
+        "chriz"
+      ],
+      "observed_handles": [
+        "Chri.z"
+      ],
+      "operator_confirmation": {
+        "attribution_class": "operator_confirmed_alias",
+        "author_id": null,
+        "channel_id": null,
+        "display_name": null,
+        "evidence_channel": "operator_confirmation",
+        "evidence_location": "operator_review_record",
+        "message_id": null,
+        "operator_assertion": true,
+        "quoted_text": null,
+        "review_note": "Confirmed by repository operator during PR review",
+        "source_id": null,
+        "source_paths": [],
+        "timestamp": null
+      },
+      "preferred_display_name": "Chris Kaczmarczyk-Smith",
+      "registry_status": "operator_confirmed_with_archive_observations",
+      "resolution_status": "OPERATOR_CONFIRMED"
+    },
+    {
+      "alias_basis": "operator_confirmed",
+      "aliases": [
+        "Shaddix1"
+      ],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
+      "canonical_name": "Shaddix",
+      "canonicality_note": null,
+      "confirmed_aliases": [
+        "Shaddix1"
+      ],
+      "corroborating_repository_paths": [
+        "archive/normalized/manifests/normalized-urls.jsonl",
+        "archive/normalized/medium/star-atlas/SRC-MEDIUM-STARATLAS-F3E4D0E6134F.json"
+      ],
+      "entity_type": "person",
+      "evidence": [
+        {
+          "attribution_class": "explicit_third_party_attribution",
+          "author_id": null,
+          "channel_id": null,
+          "display_name": "DominicVainMod",
+          "evidence_channel": "archive_evidence",
+          "evidence_location": "message_content",
+          "message_id": null,
+          "operator_assertion": false,
+          "quoted_text": "Shaddix1 | Star Atlas Mod",
+          "source_id": "SA-DISCORD-ANN-7B4E108B64E5B830",
+          "source_paths": [
+            "archive/normalized/discord-announcements/messages.jsonl",
+            "archive/normalized/discord-announcements/messages/SA-DISCORD-ANN-7B4E108B64E5B830.json",
+            "archive/raw/discord-announcements/star-atlas-discord-announcements.md"
+          ],
+          "timestamp": "2025-08-01T15:20:46"
+        },
+        {
+          "attribution_class": "explicit_third_party_attribution",
+          "author_id": null,
+          "channel_id": null,
+          "display_name": "SW4GN3R [STAR]",
+          "evidence_channel": "archive_evidence",
+          "evidence_location": "message_content",
+          "message_id": null,
+          "operator_assertion": false,
+          "quoted_text": "Shaddix1 | Star Atlas Mod",
+          "source_id": "SA-DISCORD-ANN-1EDD256BD7620642",
+          "source_paths": [
+            "archive/normalized/discord-announcements/messages.jsonl",
+            "archive/normalized/discord-announcements/messages/SA-DISCORD-ANN-1EDD256BD7620642.json",
+            "archive/raw/discord-announcements/star-atlas-discord-announcements.md"
+          ],
+          "timestamp": "2025-08-01T15:25:03"
+        }
+      ],
+      "identity_merge_authorized": true,
+      "meaning": null,
+      "normalized_terms": [
+        "shaddix",
+        "shaddix1"
+      ],
+      "observed_handles": [
+        "Shaddix1 | Star Atlas Mod"
+      ],
+      "operator_confirmation": {
+        "attribution_class": "operator_confirmed_alias",
+        "author_id": null,
+        "channel_id": null,
+        "display_name": null,
+        "evidence_channel": "operator_confirmation",
+        "evidence_location": "operator_review_record",
+        "message_id": null,
+        "operator_assertion": true,
+        "quoted_text": null,
+        "review_note": "Confirmed by repository operator during PR review",
+        "source_id": null,
+        "source_paths": [],
+        "timestamp": null
+      },
+      "preferred_display_name": "Shaddix",
+      "registry_status": "operator_confirmed_with_archive_observations",
+      "resolution_status": "OPERATOR_CONFIRMED"
+    },
+    {
+      "alias_basis": "operator_confirmed",
       "aliases": [],
-      "canonical_name": "Agent Solace",
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
+      "canonical_name": "MetaVerse Explorer",
+      "canonicality_note": null,
       "confirmed_aliases": [],
+      "corroborating_repository_paths": [],
+      "entity_type": "person",
+      "evidence": [
+        {
+          "attribution_class": "explicit_third_party_attribution",
+          "author_id": null,
+          "channel_id": null,
+          "display_name": "DominicVainMod",
+          "evidence_channel": "archive_evidence",
+          "evidence_location": "message_content",
+          "message_id": null,
+          "operator_assertion": false,
+          "quoted_text": "[AEP] MetaVerse Explorer",
+          "source_id": "SA-DISCORD-ANN-3E355EAA4AEFC48C",
+          "source_paths": [
+            "archive/normalized/discord-announcements/messages.jsonl",
+            "archive/normalized/discord-announcements/messages/SA-DISCORD-ANN-3E355EAA4AEFC48C.json",
+            "archive/raw/discord-announcements/star-atlas-discord-announcements.md"
+          ],
+          "timestamp": "2022-09-01T16:35:37"
+        }
+      ],
+      "identity_merge_authorized": true,
+      "meaning": null,
+      "normalized_terms": [
+        "metaverseexplorer"
+      ],
+      "observed_handles": [
+        "[AEP] MetaVerse Explorer"
+      ],
+      "operator_confirmation": {
+        "attribution_class": "operator_confirmed_alias",
+        "author_id": null,
+        "channel_id": null,
+        "display_name": null,
+        "evidence_channel": "operator_confirmation",
+        "evidence_location": "operator_review_record",
+        "message_id": null,
+        "operator_assertion": true,
+        "quoted_text": null,
+        "review_note": "Confirmed by repository operator during PR review",
+        "source_id": null,
+        "source_paths": [],
+        "timestamp": null
+      },
+      "preferred_display_name": "MetaVerse Explorer",
+      "registry_status": "operator_confirmed_with_archive_observations",
+      "resolution_status": "OPERATOR_CONFIRMED"
+    },
+    {
+      "alias_basis": "operator_confirmed",
+      "aliases": [
+        "Agent_Solace"
+      ],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
+      "canonical_name": "Agent Solace",
+      "canonicality_note": null,
+      "confirmed_aliases": [
+        "Agent_Solace"
+      ],
+      "corroborating_repository_paths": [
+        "archive/normalized/manifests/normalized-urls.jsonl"
+      ],
       "entity_type": "person",
       "evidence": [],
-      "identity_merge_authorized": false,
+      "identity_merge_authorized": true,
       "meaning": null,
       "normalized_terms": [
         "agentsolace"
       ],
       "observed_handles": [],
-      "operator_confirmation": null,
+      "operator_confirmation": {
+        "attribution_class": "operator_confirmed_alias",
+        "author_id": null,
+        "channel_id": null,
+        "display_name": null,
+        "evidence_channel": "operator_confirmation",
+        "evidence_location": "operator_review_record",
+        "message_id": null,
+        "operator_assertion": true,
+        "quoted_text": null,
+        "review_note": "Confirmed by repository operator during PR review",
+        "source_id": null,
+        "source_paths": [],
+        "timestamp": null
+      },
       "preferred_display_name": "Agent Solace",
       "registry_status": "seeded_unresolved",
-      "resolution_status": "HUMAN_REVIEW_REQUIRED"
+      "resolution_status": "OPERATOR_CONFIRMED"
     },
     {
       "alias_basis": "operator_confirmed",
       "aliases": [],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
       "canonical_name": "Witticus",
+      "canonicality_note": null,
       "confirmed_aliases": [],
+      "corroborating_repository_paths": [],
       "entity_type": "person",
       "evidence": [],
       "identity_merge_authorized": true,
@@ -5551,8 +6132,12 @@
     {
       "alias_basis": "operator_confirmed",
       "aliases": [],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
       "canonical_name": "ReyVeezy",
+      "canonicality_note": null,
       "confirmed_aliases": [],
+      "corroborating_repository_paths": [],
       "entity_type": "person",
       "evidence": [],
       "identity_merge_authorized": true,
@@ -5583,8 +6168,12 @@
     {
       "alias_basis": "operator_confirmed",
       "aliases": [],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
       "canonical_name": "FancyHat",
+      "canonicality_note": null,
       "confirmed_aliases": [],
+      "corroborating_repository_paths": [],
       "entity_type": "person",
       "evidence": [],
       "identity_merge_authorized": true,
@@ -5613,22 +6202,52 @@
       "resolution_status": "OPERATOR_CONFIRMED"
     },
     {
-      "alias_basis": null,
-      "aliases": [],
-      "canonical_name": "Virtuwaal",
-      "confirmed_aliases": [],
+      "alias_basis": "operator_confirmed",
+      "aliases": [
+        "Virtuwaal",
+        "Virtuwuul"
+      ],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
+      "canonical_name": "Virtuwul",
+      "canonicality_note": null,
+      "confirmed_aliases": [
+        "Virtuwaal",
+        "Virtuwuul"
+      ],
+      "corroborating_repository_paths": [
+        "archive/normalized/manifests/normalized-urls.jsonl",
+        "archive/ingestion-packages/campaign-charlie-hnn/extractions/SRC-HNN-2448EC85C7F06346.json",
+        "archive/source-records/campaign-alpha-aephia/SRC-AEPHIA-C9AE050CD9C1886D.md"
+      ],
       "entity_type": "person",
       "evidence": [],
-      "identity_merge_authorized": false,
+      "identity_merge_authorized": true,
       "meaning": null,
       "normalized_terms": [
-        "virtuwaal"
+        "virtuwaal",
+        "virtuwul",
+        "virtuwuul"
       ],
       "observed_handles": [],
-      "operator_confirmation": null,
-      "preferred_display_name": "Virtuwaal",
+      "operator_confirmation": {
+        "attribution_class": "operator_confirmed_alias",
+        "author_id": null,
+        "channel_id": null,
+        "display_name": null,
+        "evidence_channel": "operator_confirmation",
+        "evidence_location": "operator_review_record",
+        "message_id": null,
+        "operator_assertion": true,
+        "quoted_text": null,
+        "review_note": "Confirmed by repository operator during PR review",
+        "source_id": null,
+        "source_paths": [],
+        "timestamp": null
+      },
+      "preferred_display_name": "Virtuwul",
       "registry_status": "seeded_unresolved",
-      "resolution_status": "HUMAN_REVIEW_REQUIRED"
+      "resolution_status": "OPERATOR_CONFIRMED"
     }
   ],
   "schema_version": "2.0.0"

@@ -2,16 +2,10 @@
   "campaign_id": "discord-community-indexing-001",
   "items": [
     {
-      "priority": "P0",
-      "required_artifact": "Completed history export reaching the requested start",
-      "target": "Imported announcements export before 2021-03-16",
-      "type": "historical_backfill"
-    },
-    {
-      "priority": "P0",
-      "required_artifact": "Native server/channel IDs and official channel-name export",
+      "priority": "P1",
+      "required_artifact": "Future export configured to preserve the native announcement-channel name and identifiers",
       "target": "Imported announcements export",
-      "type": "missing_channel_identification"
+      "type": "collection_tool_channel_configuration"
     },
     {
       "priority": "P1",

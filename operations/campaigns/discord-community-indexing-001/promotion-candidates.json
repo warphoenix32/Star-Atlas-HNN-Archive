@@ -12,9 +12,81 @@
   "candidates": [
     {
       "archive_roles": [],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
+      "canonicality_note": null,
       "council_service_excluded_from_guild_leadership": true,
-      "entity_id": "PERSON-DD9D5A88F3719AEC",
+      "entity_id": "PERSON-BA09AB277BA0C79A",
       "entity_type": "person",
+      "evidence": [],
+      "independent_author_count": 0,
+      "independent_message_count": 0,
+      "name": "Agent Solace",
+      "operator_confirmations": [
+        {
+          "attribution_class": "operator_confirmed_alias",
+          "author_id": null,
+          "channel_id": null,
+          "display_name": null,
+          "evidence_channel": "operator_confirmation",
+          "evidence_location": "operator_review_record",
+          "message_id": null,
+          "operator_assertion": true,
+          "quoted_text": null,
+          "review_note": "Confirmed by repository operator during PR review",
+          "source_id": null,
+          "source_paths": [],
+          "timestamp": null
+        }
+      ],
+      "operator_confirmed_roles": [],
+      "operator_decision": null,
+      "review_status": "DISCOVERY_ONLY",
+      "score_dimensions": {
+        "alliance_leader": 0,
+        "community_organizer": 0,
+        "creator_or_builder": 0,
+        "dao_council_service": 0,
+        "evidence_strength": 0,
+        "guild_founder": 0,
+        "guild_leader": 0,
+        "guild_officer": 0,
+        "historical_significance": 0,
+        "identity_confidence": 3,
+        "official_team_member": 0
+      }
+    },
+    {
+      "entity_id": "ORG-F7070D57BBE5496E",
+      "entity_type": "guild",
+      "evidence": [],
+      "independent_message_count": 0,
+      "name": "Agora",
+      "operator_confirmation": {
+        "attribution_class": "operator_confirmed_alias",
+        "author_id": null,
+        "channel_id": null,
+        "display_name": null,
+        "evidence_channel": "operator_confirmation",
+        "evidence_location": "operator_review_record",
+        "message_id": null,
+        "operator_assertion": true,
+        "quoted_text": null,
+        "review_note": "Confirmed by repository operator during PR review",
+        "source_id": null,
+        "source_paths": [],
+        "timestamp": null
+      },
+      "review_status": "DISCOVERY_ONLY",
+      "score_dimensions": {
+        "evidence_strength": 0,
+        "historical_significance": 5,
+        "identity_confidence": 3
+      }
+    },
+    {
+      "entity_id": "ORG-93DDD9B5AEA5E154",
+      "entity_type": "guild",
       "evidence": [
         {
           "attribution_class": "explicit_third_party_attribution",
@@ -25,107 +97,38 @@
           "evidence_location": "message_content",
           "message_id": null,
           "operator_assertion": false,
-          "quoted_text": "Chri.z",
-          "source_id": "SA-DISCORD-ANN-2AC9A06C8FF90D5A",
+          "quoted_text": "Dark Matter",
+          "source_id": "SA-DISCORD-ANN-34920EEC55E65F73",
           "source_paths": [
             "archive/normalized/discord-announcements/messages.jsonl",
-            "archive/normalized/discord-announcements/messages/SA-DISCORD-ANN-2AC9A06C8FF90D5A.json",
+            "archive/normalized/discord-announcements/messages/SA-DISCORD-ANN-34920EEC55E65F73.json",
             "archive/raw/discord-announcements/star-atlas-discord-announcements.md"
           ],
-          "timestamp": "2023-05-01T17:40:50"
-        },
-        {
-          "attribution_class": "explicit_third_party_attribution",
-          "author_id": null,
-          "channel_id": null,
-          "display_name": "DominicVainMod",
-          "evidence_channel": "archive_evidence",
-          "evidence_location": "message_content",
-          "message_id": null,
-          "operator_assertion": false,
-          "quoted_text": "Chri.z",
-          "source_id": "SA-DISCORD-ANN-42E4940748F661A2",
-          "source_paths": [
-            "archive/normalized/discord-announcements/messages.jsonl",
-            "archive/normalized/discord-announcements/messages/SA-DISCORD-ANN-42E4940748F661A2.json",
-            "archive/raw/discord-announcements/star-atlas-discord-announcements.md"
-          ],
-          "timestamp": "2023-08-01T15:24:28"
-        },
-        {
-          "attribution_class": "explicit_third_party_attribution",
-          "author_id": null,
-          "channel_id": null,
-          "display_name": "DominicVainMod",
-          "evidence_channel": "archive_evidence",
-          "evidence_location": "message_content",
-          "message_id": null,
-          "operator_assertion": false,
-          "quoted_text": "Chri.z",
-          "source_id": "SA-DISCORD-ANN-EA28D48D7B4B228D",
-          "source_paths": [
-            "archive/normalized/discord-announcements/messages.jsonl",
-            "archive/normalized/discord-announcements/messages/SA-DISCORD-ANN-EA28D48D7B4B228D.json",
-            "archive/raw/discord-announcements/star-atlas-discord-announcements.md"
-          ],
-          "timestamp": "2023-10-02T18:45:16"
-        },
-        {
-          "attribution_class": "explicit_third_party_attribution",
-          "author_id": null,
-          "channel_id": null,
-          "display_name": "DominicVainMod",
-          "evidence_channel": "archive_evidence",
-          "evidence_location": "message_content",
-          "message_id": null,
-          "operator_assertion": false,
-          "quoted_text": "Chri.z",
-          "source_id": "SA-DISCORD-ANN-1B120016F53120F9",
-          "source_paths": [
-            "archive/normalized/discord-announcements/messages.jsonl",
-            "archive/normalized/discord-announcements/messages/SA-DISCORD-ANN-1B120016F53120F9.json",
-            "archive/raw/discord-announcements/star-atlas-discord-announcements.md"
-          ],
-          "timestamp": "2024-05-08T11:58:22"
-        },
-        {
-          "attribution_class": "explicit_third_party_attribution",
-          "author_id": null,
-          "channel_id": null,
-          "display_name": "DominicVainMod",
-          "evidence_channel": "archive_evidence",
-          "evidence_location": "message_content",
-          "message_id": null,
-          "operator_assertion": false,
-          "quoted_text": "Chri.z",
-          "source_id": "SA-DISCORD-ANN-9CA0CA4D467F8816",
-          "source_paths": [
-            "archive/normalized/discord-announcements/messages.jsonl",
-            "archive/normalized/discord-announcements/messages/SA-DISCORD-ANN-9CA0CA4D467F8816.json",
-            "archive/raw/discord-announcements/star-atlas-discord-announcements.md"
-          ],
-          "timestamp": "2024-12-11T14:30:49"
+          "timestamp": "2022-06-16T16:03:42"
         }
       ],
-      "independent_author_count": 1,
-      "independent_message_count": 5,
-      "name": "Chri.z",
-      "operator_confirmations": [],
-      "operator_confirmed_roles": [],
-      "operator_decision": "deferred_pending_identity_resolution",
-      "review_status": "DEFERRED",
+      "independent_message_count": 1,
+      "name": "Dark Matter",
+      "operator_confirmation": {
+        "attribution_class": "operator_confirmed_alias",
+        "author_id": null,
+        "channel_id": null,
+        "display_name": null,
+        "evidence_channel": "operator_confirmation",
+        "evidence_location": "operator_review_record",
+        "message_id": null,
+        "operator_assertion": true,
+        "quoted_text": null,
+        "review_note": "Confirmed by repository operator during PR review",
+        "source_id": null,
+        "source_paths": [],
+        "timestamp": null
+      },
+      "review_status": "DISCOVERY_ONLY",
       "score_dimensions": {
-        "alliance_leader": 0,
-        "community_organizer": 0,
-        "creator_or_builder": 0,
-        "dao_council_service": 0,
         "evidence_strength": 1,
-        "guild_founder": 0,
-        "guild_leader": 0,
-        "guild_officer": 0,
-        "historical_significance": 0,
-        "identity_confidence": 1,
-        "official_team_member": 0
+        "historical_significance": 1,
+        "identity_confidence": 3
       }
     },
     {
@@ -172,6 +175,34 @@
       "score_dimensions": {
         "evidence_strength": 1,
         "historical_significance": 1,
+        "identity_confidence": 3
+      }
+    },
+    {
+      "entity_id": "ORG-94834CC2B815389F",
+      "entity_type": "guild",
+      "evidence": [],
+      "independent_message_count": 0,
+      "name": "The Vanguard",
+      "operator_confirmation": {
+        "attribution_class": "operator_confirmed_alias",
+        "author_id": null,
+        "channel_id": null,
+        "display_name": null,
+        "evidence_channel": "operator_confirmation",
+        "evidence_location": "operator_review_record",
+        "message_id": null,
+        "operator_assertion": true,
+        "quoted_text": null,
+        "review_note": "Confirmed by repository operator during PR review",
+        "source_id": null,
+        "source_paths": [],
+        "timestamp": null
+      },
+      "review_status": "DISCOVERY_ONLY",
+      "score_dimensions": {
+        "evidence_strength": 0,
+        "historical_significance": 0,
         "identity_confidence": 3
       }
     },
@@ -649,6 +680,9 @@
     },
     {
       "archive_roles": [],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
+      "canonicality_note": null,
       "council_service_excluded_from_guild_leadership": true,
       "entity_id": "PERSON-B301057533AC043E",
       "entity_type": "person",
@@ -695,6 +729,9 @@
     },
     {
       "archive_roles": [],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
+      "canonicality_note": null,
       "council_service_excluded_from_guild_leadership": true,
       "entity_id": "PERSON-1504FD2EE28F8992",
       "entity_type": "person",
@@ -741,6 +778,9 @@
     },
     {
       "archive_roles": [],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
+      "canonicality_note": null,
       "council_service_excluded_from_guild_leadership": true,
       "entity_id": "PERSON-0A758555162EF1A1",
       "entity_type": "person",
@@ -996,6 +1036,9 @@
     },
     {
       "archive_roles": [],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
+      "canonicality_note": null,
       "council_service_excluded_from_guild_leadership": true,
       "entity_id": "PERSON-01537AC216D9E8D6",
       "entity_type": "person",
@@ -1042,6 +1085,9 @@
     },
     {
       "archive_roles": [],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
+      "canonicality_note": null,
       "council_service_excluded_from_guild_leadership": true,
       "entity_id": "PERSON-E6ECF70879C43B05",
       "entity_type": "person",
@@ -1088,6 +1134,9 @@
     },
     {
       "archive_roles": [],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
+      "canonicality_note": null,
       "council_service_excluded_from_guild_leadership": true,
       "entity_id": "PERSON-3FA3421B1514D2E2",
       "entity_type": "person",
@@ -1217,6 +1266,9 @@
     },
     {
       "archive_roles": [],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
+      "canonicality_note": null,
       "council_service_excluded_from_guild_leadership": true,
       "entity_id": "PERSON-CBC2DAFE49C61865",
       "entity_type": "person",
@@ -1735,6 +1787,9 @@
     },
     {
       "archive_roles": [],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
+      "canonicality_note": null,
       "council_service_excluded_from_guild_leadership": true,
       "entity_id": "PERSON-8DD8F7312A2D93BD",
       "entity_type": "person",
@@ -1781,6 +1836,9 @@
     },
     {
       "archive_roles": [],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
+      "canonicality_note": null,
       "council_service_excluded_from_guild_leadership": true,
       "entity_id": "PERSON-D56F4005A3F8AB4C",
       "entity_type": "person",
@@ -1827,6 +1885,9 @@
     },
     {
       "archive_roles": [],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
+      "canonicality_note": null,
       "council_service_excluded_from_guild_leadership": true,
       "entity_id": "PERSON-D5689F4FFCD9B4B9",
       "entity_type": "person",
@@ -1873,6 +1934,9 @@
     },
     {
       "archive_roles": [],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
+      "canonicality_note": null,
       "council_service_excluded_from_guild_leadership": true,
       "entity_id": "PERSON-BA7404A513E1BF5B",
       "entity_type": "person",
@@ -1919,6 +1983,9 @@
     },
     {
       "archive_roles": [],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
+      "canonicality_note": null,
       "council_service_excluded_from_guild_leadership": true,
       "entity_id": "PERSON-255CE139A993DC68",
       "entity_type": "person",
@@ -2413,6 +2480,9 @@
     },
     {
       "archive_roles": [],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
+      "canonicality_note": null,
       "council_service_excluded_from_guild_leadership": true,
       "entity_id": "PERSON-9E3596B01DF814C7",
       "entity_type": "person",
@@ -2459,6 +2529,9 @@
     },
     {
       "archive_roles": [],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
+      "canonicality_note": null,
       "council_service_excluded_from_guild_leadership": true,
       "entity_id": "PERSON-DD77F56A632E7844",
       "entity_type": "person",
@@ -2707,6 +2780,9 @@
     },
     {
       "archive_roles": [],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
+      "canonicality_note": null,
       "council_service_excluded_from_guild_leadership": true,
       "entity_id": "PERSON-17E283E7FA93CB8F",
       "entity_type": "person",
@@ -2926,6 +3002,9 @@
     },
     {
       "archive_roles": [],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
+      "canonicality_note": null,
       "council_service_excluded_from_guild_leadership": true,
       "entity_id": "PERSON-17EF58AAAF78AD68",
       "entity_type": "person",
@@ -3210,6 +3289,9 @@
     },
     {
       "archive_roles": [],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
+      "canonicality_note": null,
       "council_service_excluded_from_guild_leadership": true,
       "entity_id": "PERSON-47705BDB326A711F",
       "entity_type": "person",
@@ -3321,6 +3403,9 @@
     },
     {
       "archive_roles": [],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
+      "canonicality_note": null,
       "council_service_excluded_from_guild_leadership": true,
       "entity_id": "PERSON-D71EE320D7877B65",
       "entity_type": "person",
@@ -3367,6 +3452,9 @@
     },
     {
       "archive_roles": [],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
+      "canonicality_note": null,
       "council_service_excluded_from_guild_leadership": true,
       "entity_id": "PERSON-93C5813F11690E70",
       "entity_type": "person",
@@ -3413,6 +3501,9 @@
     },
     {
       "archive_roles": [],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
+      "canonicality_note": null,
       "council_service_excluded_from_guild_leadership": true,
       "entity_id": "PERSON-B3EBA7B31D325801",
       "entity_type": "person",
@@ -3459,6 +3550,9 @@
     },
     {
       "archive_roles": [],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
+      "canonicality_note": null,
       "council_service_excluded_from_guild_leadership": true,
       "entity_id": "PERSON-67FCBF6732C1EC50",
       "entity_type": "person",
@@ -3505,6 +3599,9 @@
     },
     {
       "archive_roles": [],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
+      "canonicality_note": null,
       "council_service_excluded_from_guild_leadership": true,
       "entity_id": "PERSON-AFC80087CDCA2B33",
       "entity_type": "person",
@@ -3554,6 +3651,9 @@
         "creator_or_builder",
         "dao_council_service"
       ],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
+      "canonicality_note": null,
       "council_service_excluded_from_guild_leadership": true,
       "entity_id": "PERSON-B717F30EEF8FECEA",
       "entity_type": "person",
@@ -3655,6 +3755,9 @@
     },
     {
       "archive_roles": [],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
+      "canonicality_note": null,
       "council_service_excluded_from_guild_leadership": true,
       "entity_id": "PERSON-B93F2978B25D8122",
       "entity_type": "person",
@@ -3757,6 +3860,9 @@
       "archive_roles": [
         "dao_council_service"
       ],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
+      "canonicality_note": null,
       "council_service_excluded_from_guild_leadership": true,
       "entity_id": "PERSON-3A870305CC0F11BB",
       "entity_type": "person",
@@ -3841,6 +3947,9 @@
     },
     {
       "archive_roles": [],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
+      "canonicality_note": null,
       "council_service_excluded_from_guild_leadership": true,
       "entity_id": "PERSON-8988B105D5EFE849",
       "entity_type": "person",
@@ -3923,6 +4032,148 @@
     },
     {
       "archive_roles": [],
+      "attributed_statement_treatment": "AUTHORITATIVE_CANONICAL_WITHIN_GAME_ECONOMY_SCOPE",
+      "authority_scope": "OFFICIAL_TEAM_GAME_ECONOMY_SUBJECT_MATTER_AUTHORITY",
+      "canonicality_note": "Attributed game-economy statements are treated as authoritative first-party institutional evidence; statement state and temporal scope must still be preserved.",
+      "council_service_excluded_from_guild_leadership": true,
+      "entity_id": "PERSON-1DEB29E64FDEA994",
+      "entity_type": "person",
+      "evidence": [
+        {
+          "attribution_class": "explicit_third_party_attribution",
+          "author_id": null,
+          "channel_id": null,
+          "display_name": "DominicVainMod",
+          "evidence_channel": "archive_evidence",
+          "evidence_location": "message_content",
+          "message_id": null,
+          "operator_assertion": false,
+          "quoted_text": "Chri.z",
+          "source_id": "SA-DISCORD-ANN-2AC9A06C8FF90D5A",
+          "source_paths": [
+            "archive/normalized/discord-announcements/messages.jsonl",
+            "archive/normalized/discord-announcements/messages/SA-DISCORD-ANN-2AC9A06C8FF90D5A.json",
+            "archive/raw/discord-announcements/star-atlas-discord-announcements.md"
+          ],
+          "timestamp": "2023-05-01T17:40:50"
+        },
+        {
+          "attribution_class": "explicit_third_party_attribution",
+          "author_id": null,
+          "channel_id": null,
+          "display_name": "DominicVainMod",
+          "evidence_channel": "archive_evidence",
+          "evidence_location": "message_content",
+          "message_id": null,
+          "operator_assertion": false,
+          "quoted_text": "Chri.z",
+          "source_id": "SA-DISCORD-ANN-42E4940748F661A2",
+          "source_paths": [
+            "archive/normalized/discord-announcements/messages.jsonl",
+            "archive/normalized/discord-announcements/messages/SA-DISCORD-ANN-42E4940748F661A2.json",
+            "archive/raw/discord-announcements/star-atlas-discord-announcements.md"
+          ],
+          "timestamp": "2023-08-01T15:24:28"
+        },
+        {
+          "attribution_class": "explicit_third_party_attribution",
+          "author_id": null,
+          "channel_id": null,
+          "display_name": "DominicVainMod",
+          "evidence_channel": "archive_evidence",
+          "evidence_location": "message_content",
+          "message_id": null,
+          "operator_assertion": false,
+          "quoted_text": "Chri.z",
+          "source_id": "SA-DISCORD-ANN-EA28D48D7B4B228D",
+          "source_paths": [
+            "archive/normalized/discord-announcements/messages.jsonl",
+            "archive/normalized/discord-announcements/messages/SA-DISCORD-ANN-EA28D48D7B4B228D.json",
+            "archive/raw/discord-announcements/star-atlas-discord-announcements.md"
+          ],
+          "timestamp": "2023-10-02T18:45:16"
+        },
+        {
+          "attribution_class": "explicit_third_party_attribution",
+          "author_id": null,
+          "channel_id": null,
+          "display_name": "DominicVainMod",
+          "evidence_channel": "archive_evidence",
+          "evidence_location": "message_content",
+          "message_id": null,
+          "operator_assertion": false,
+          "quoted_text": "Chri.z",
+          "source_id": "SA-DISCORD-ANN-1B120016F53120F9",
+          "source_paths": [
+            "archive/normalized/discord-announcements/messages.jsonl",
+            "archive/normalized/discord-announcements/messages/SA-DISCORD-ANN-1B120016F53120F9.json",
+            "archive/raw/discord-announcements/star-atlas-discord-announcements.md"
+          ],
+          "timestamp": "2024-05-08T11:58:22"
+        },
+        {
+          "attribution_class": "explicit_third_party_attribution",
+          "author_id": null,
+          "channel_id": null,
+          "display_name": "DominicVainMod",
+          "evidence_channel": "archive_evidence",
+          "evidence_location": "message_content",
+          "message_id": null,
+          "operator_assertion": false,
+          "quoted_text": "Chri.z",
+          "source_id": "SA-DISCORD-ANN-9CA0CA4D467F8816",
+          "source_paths": [
+            "archive/normalized/discord-announcements/messages.jsonl",
+            "archive/normalized/discord-announcements/messages/SA-DISCORD-ANN-9CA0CA4D467F8816.json",
+            "archive/raw/discord-announcements/star-atlas-discord-announcements.md"
+          ],
+          "timestamp": "2024-12-11T14:30:49"
+        }
+      ],
+      "independent_author_count": 1,
+      "independent_message_count": 5,
+      "name": "Chris Kaczmarczyk-Smith",
+      "operator_confirmations": [
+        {
+          "attribution_class": "operator_confirmed_alias",
+          "author_id": null,
+          "channel_id": null,
+          "display_name": null,
+          "evidence_channel": "operator_confirmation",
+          "evidence_location": "operator_review_record",
+          "message_id": null,
+          "operator_assertion": true,
+          "quoted_text": null,
+          "review_note": "Confirmed by repository operator during PR review",
+          "source_id": null,
+          "source_paths": [],
+          "timestamp": null
+        }
+      ],
+      "operator_confirmed_roles": [
+        "official_team_member"
+      ],
+      "operator_decision": null,
+      "review_status": "READY_FOR_HUMAN_PROMOTION_REVIEW",
+      "score_dimensions": {
+        "alliance_leader": 0,
+        "community_organizer": 0,
+        "creator_or_builder": 0,
+        "dao_council_service": 0,
+        "evidence_strength": 1,
+        "guild_founder": 0,
+        "guild_leader": 0,
+        "guild_officer": 0,
+        "historical_significance": 1,
+        "identity_confidence": 3,
+        "official_team_member": 1
+      }
+    },
+    {
+      "archive_roles": [],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
+      "canonicality_note": null,
       "council_service_excluded_from_guild_leadership": true,
       "entity_id": "PERSON-252C3EED5C7A2863",
       "entity_type": "person",
@@ -4421,6 +4672,9 @@
       "archive_roles": [
         "dao_council_service"
       ],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
+      "canonicality_note": null,
       "council_service_excluded_from_guild_leadership": true,
       "entity_id": "PERSON-4BEDAF79C53B9932",
       "entity_type": "person",
@@ -4504,6 +4758,9 @@
     },
     {
       "archive_roles": [],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
+      "canonicality_note": null,
       "council_service_excluded_from_guild_leadership": true,
       "entity_id": "PERSON-C189076F1F96D77C",
       "entity_type": "person",
@@ -4569,6 +4826,9 @@
     },
     {
       "archive_roles": [],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
+      "canonicality_note": null,
       "council_service_excluded_from_guild_leadership": true,
       "entity_id": "PERSON-D73E9A1870FC8045",
       "entity_type": "person",
@@ -4615,6 +4875,9 @@
     },
     {
       "archive_roles": [],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
+      "canonicality_note": null,
       "council_service_excluded_from_guild_leadership": true,
       "entity_id": "PERSON-38B8B120B978F03E",
       "entity_type": "person",
@@ -4697,6 +4960,9 @@
     },
     {
       "archive_roles": [],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
+      "canonicality_note": null,
       "council_service_excluded_from_guild_leadership": true,
       "entity_id": "PERSON-0C789881692D20E8",
       "entity_type": "person",
@@ -4833,6 +5099,9 @@
     },
     {
       "archive_roles": [],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
+      "canonicality_note": null,
       "council_service_excluded_from_guild_leadership": true,
       "entity_id": "PERSON-3D24427D85DBD881",
       "entity_type": "person",
@@ -5097,6 +5366,9 @@
       "archive_roles": [
         "dao_council_service"
       ],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
+      "canonicality_note": null,
       "council_service_excluded_from_guild_leadership": true,
       "entity_id": "PERSON-414EF786EE1D087D",
       "entity_type": "person",
@@ -5161,6 +5433,9 @@
     },
     {
       "archive_roles": [],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
+      "canonicality_note": null,
       "council_service_excluded_from_guild_leadership": true,
       "entity_id": "PERSON-D0134E7583E3A68B",
       "entity_type": "person",
@@ -5245,6 +5520,9 @@
       "archive_roles": [
         "official_team_member"
       ],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
+      "canonicality_note": null,
       "council_service_excluded_from_guild_leadership": true,
       "entity_id": "PERSON-4CE5F6E95149A9B9",
       "entity_type": "person",
@@ -5327,6 +5605,76 @@
     },
     {
       "archive_roles": [],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
+      "canonicality_note": null,
+      "council_service_excluded_from_guild_leadership": true,
+      "entity_id": "PERSON-7DB514FF4DCF1449",
+      "entity_type": "person",
+      "evidence": [
+        {
+          "attribution_class": "explicit_third_party_attribution",
+          "author_id": null,
+          "channel_id": null,
+          "display_name": "DominicVainMod",
+          "evidence_channel": "archive_evidence",
+          "evidence_location": "message_content",
+          "message_id": null,
+          "operator_assertion": false,
+          "quoted_text": "[AEP] MetaVerse Explorer",
+          "source_id": "SA-DISCORD-ANN-3E355EAA4AEFC48C",
+          "source_paths": [
+            "archive/normalized/discord-announcements/messages.jsonl",
+            "archive/normalized/discord-announcements/messages/SA-DISCORD-ANN-3E355EAA4AEFC48C.json",
+            "archive/raw/discord-announcements/star-atlas-discord-announcements.md"
+          ],
+          "timestamp": "2022-09-01T16:35:37"
+        }
+      ],
+      "independent_author_count": 1,
+      "independent_message_count": 1,
+      "name": "MetaVerse Explorer",
+      "operator_confirmations": [
+        {
+          "attribution_class": "operator_confirmed_alias",
+          "author_id": null,
+          "channel_id": null,
+          "display_name": null,
+          "evidence_channel": "operator_confirmation",
+          "evidence_location": "operator_review_record",
+          "message_id": null,
+          "operator_assertion": true,
+          "quoted_text": null,
+          "review_note": "Confirmed by repository operator during PR review",
+          "source_id": null,
+          "source_paths": [],
+          "timestamp": null
+        }
+      ],
+      "operator_confirmed_roles": [
+        "guild_member"
+      ],
+      "operator_decision": null,
+      "review_status": "READY_FOR_HUMAN_PROMOTION_REVIEW",
+      "score_dimensions": {
+        "alliance_leader": 0,
+        "community_organizer": 0,
+        "creator_or_builder": 0,
+        "dao_council_service": 0,
+        "evidence_strength": 1,
+        "guild_founder": 0,
+        "guild_leader": 0,
+        "guild_officer": 0,
+        "historical_significance": 2,
+        "identity_confidence": 3,
+        "official_team_member": 0
+      }
+    },
+    {
+      "archive_roles": [],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
+      "canonicality_note": null,
       "council_service_excluded_from_guild_leadership": true,
       "entity_id": "PERSON-E757E4BC0E0992E2",
       "entity_type": "person",
@@ -5388,7 +5736,10 @@
           "timestamp": null
         }
       ],
-      "operator_confirmed_roles": [],
+      "operator_confirmed_roles": [
+        "guild_leader",
+        "guild_member"
+      ],
       "operator_decision": null,
       "review_status": "READY_FOR_HUMAN_PROMOTION_REVIEW",
       "score_dimensions": {
@@ -5398,15 +5749,18 @@
         "dao_council_service": 0,
         "evidence_strength": 2,
         "guild_founder": 0,
-        "guild_leader": 0,
+        "guild_leader": 1,
         "guild_officer": 0,
-        "historical_significance": 3,
+        "historical_significance": 5,
         "identity_confidence": 3,
         "official_team_member": 0
       }
     },
     {
       "archive_roles": [],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
+      "canonicality_note": null,
       "council_service_excluded_from_guild_leadership": true,
       "entity_id": "PERSON-DC0648EB967AB494",
       "entity_type": "person",
@@ -5489,6 +5843,9 @@
     },
     {
       "archive_roles": [],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
+      "canonicality_note": null,
       "council_service_excluded_from_guild_leadership": true,
       "entity_id": "PERSON-1CB30415BAF29597",
       "entity_type": "person",
@@ -5571,6 +5928,9 @@
     },
     {
       "archive_roles": [],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
+      "canonicality_note": null,
       "council_service_excluded_from_guild_leadership": true,
       "entity_id": "PERSON-6E2CD551B65D7274",
       "entity_type": "person",
@@ -5616,6 +5976,9 @@
     },
     {
       "archive_roles": [],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
+      "canonicality_note": null,
       "council_service_excluded_from_guild_leadership": true,
       "entity_id": "PERSON-F954CB78543B048D",
       "entity_type": "person",
@@ -5698,6 +6061,9 @@
     },
     {
       "archive_roles": [],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
+      "canonicality_note": null,
       "council_service_excluded_from_guild_leadership": true,
       "entity_id": "PERSON-FE713D9C46DA46E0",
       "entity_type": "person",
@@ -6194,6 +6560,145 @@
     },
     {
       "archive_roles": [],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
+      "canonicality_note": null,
+      "council_service_excluded_from_guild_leadership": true,
+      "entity_id": "PERSON-BF9F203677DD6BF8",
+      "entity_type": "person",
+      "evidence": [],
+      "independent_author_count": 0,
+      "independent_message_count": 0,
+      "name": "SAWYN",
+      "operator_confirmations": [
+        {
+          "attribution_class": "operator_confirmed_alias",
+          "author_id": null,
+          "channel_id": null,
+          "display_name": null,
+          "evidence_channel": "operator_confirmation",
+          "evidence_location": "operator_review_record",
+          "message_id": null,
+          "operator_assertion": true,
+          "quoted_text": null,
+          "review_note": "Confirmed by repository operator during PR review",
+          "source_id": null,
+          "source_paths": [],
+          "timestamp": null
+        }
+      ],
+      "operator_confirmed_roles": [
+        "guild_leader",
+        "guild_member"
+      ],
+      "operator_decision": null,
+      "review_status": "READY_FOR_HUMAN_PROMOTION_REVIEW",
+      "score_dimensions": {
+        "alliance_leader": 0,
+        "community_organizer": 0,
+        "creator_or_builder": 0,
+        "dao_council_service": 0,
+        "evidence_strength": 0,
+        "guild_founder": 0,
+        "guild_leader": 1,
+        "guild_officer": 0,
+        "historical_significance": 2,
+        "identity_confidence": 3,
+        "official_team_member": 0
+      }
+    },
+    {
+      "archive_roles": [],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
+      "canonicality_note": null,
+      "council_service_excluded_from_guild_leadership": true,
+      "entity_id": "PERSON-F71436D8B233FCEB",
+      "entity_type": "person",
+      "evidence": [
+        {
+          "attribution_class": "explicit_third_party_attribution",
+          "author_id": null,
+          "channel_id": null,
+          "display_name": "DominicVainMod",
+          "evidence_channel": "archive_evidence",
+          "evidence_location": "message_content",
+          "message_id": null,
+          "operator_assertion": false,
+          "quoted_text": "Shaddix1 | Star Atlas Mod",
+          "source_id": "SA-DISCORD-ANN-7B4E108B64E5B830",
+          "source_paths": [
+            "archive/normalized/discord-announcements/messages.jsonl",
+            "archive/normalized/discord-announcements/messages/SA-DISCORD-ANN-7B4E108B64E5B830.json",
+            "archive/raw/discord-announcements/star-atlas-discord-announcements.md"
+          ],
+          "timestamp": "2025-08-01T15:20:46"
+        },
+        {
+          "attribution_class": "explicit_third_party_attribution",
+          "author_id": null,
+          "channel_id": null,
+          "display_name": "SW4GN3R [STAR]",
+          "evidence_channel": "archive_evidence",
+          "evidence_location": "message_content",
+          "message_id": null,
+          "operator_assertion": false,
+          "quoted_text": "Shaddix1 | Star Atlas Mod",
+          "source_id": "SA-DISCORD-ANN-1EDD256BD7620642",
+          "source_paths": [
+            "archive/normalized/discord-announcements/messages.jsonl",
+            "archive/normalized/discord-announcements/messages/SA-DISCORD-ANN-1EDD256BD7620642.json",
+            "archive/raw/discord-announcements/star-atlas-discord-announcements.md"
+          ],
+          "timestamp": "2025-08-01T15:25:03"
+        }
+      ],
+      "independent_author_count": 2,
+      "independent_message_count": 2,
+      "name": "Shaddix",
+      "operator_confirmations": [
+        {
+          "attribution_class": "operator_confirmed_alias",
+          "author_id": null,
+          "channel_id": null,
+          "display_name": null,
+          "evidence_channel": "operator_confirmation",
+          "evidence_location": "operator_review_record",
+          "message_id": null,
+          "operator_assertion": true,
+          "quoted_text": null,
+          "review_note": "Confirmed by repository operator during PR review",
+          "source_id": null,
+          "source_paths": [],
+          "timestamp": null
+        }
+      ],
+      "operator_confirmed_roles": [
+        "creator_or_builder",
+        "guild_member",
+        "moderator"
+      ],
+      "operator_decision": null,
+      "review_status": "READY_FOR_HUMAN_PROMOTION_REVIEW",
+      "score_dimensions": {
+        "alliance_leader": 0,
+        "community_organizer": 0,
+        "creator_or_builder": 1,
+        "dao_council_service": 0,
+        "evidence_strength": 2,
+        "guild_founder": 0,
+        "guild_leader": 0,
+        "guild_officer": 0,
+        "historical_significance": 5,
+        "identity_confidence": 3,
+        "official_team_member": 0
+      }
+    },
+    {
+      "archive_roles": [],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
+      "canonicality_note": null,
       "council_service_excluded_from_guild_leadership": true,
       "entity_id": "PERSON-D9C48A488D8F0E2F",
       "entity_type": "person",
@@ -6420,6 +6925,58 @@
     },
     {
       "archive_roles": [],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
+      "canonicality_note": null,
+      "council_service_excluded_from_guild_leadership": true,
+      "entity_id": "PERSON-6BC6A74B778F75E4",
+      "entity_type": "person",
+      "evidence": [],
+      "independent_author_count": 0,
+      "independent_message_count": 0,
+      "name": "Virtuwul",
+      "operator_confirmations": [
+        {
+          "attribution_class": "operator_confirmed_alias",
+          "author_id": null,
+          "channel_id": null,
+          "display_name": null,
+          "evidence_channel": "operator_confirmation",
+          "evidence_location": "operator_review_record",
+          "message_id": null,
+          "operator_assertion": true,
+          "quoted_text": null,
+          "review_note": "Confirmed by repository operator during PR review",
+          "source_id": null,
+          "source_paths": [],
+          "timestamp": null
+        }
+      ],
+      "operator_confirmed_roles": [
+        "guild_member",
+        "historically_significant_member"
+      ],
+      "operator_decision": null,
+      "review_status": "READY_FOR_HUMAN_PROMOTION_REVIEW",
+      "score_dimensions": {
+        "alliance_leader": 0,
+        "community_organizer": 0,
+        "creator_or_builder": 0,
+        "dao_council_service": 0,
+        "evidence_strength": 0,
+        "guild_founder": 0,
+        "guild_leader": 0,
+        "guild_officer": 0,
+        "historical_significance": 2,
+        "identity_confidence": 3,
+        "official_team_member": 0
+      }
+    },
+    {
+      "archive_roles": [],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
+      "canonicality_note": null,
       "council_service_excluded_from_guild_leadership": true,
       "entity_id": "PERSON-B17E85B965FBDA0A",
       "entity_type": "person",
@@ -6465,6 +7022,9 @@
     },
     {
       "archive_roles": [],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
+      "canonicality_note": null,
       "council_service_excluded_from_guild_leadership": true,
       "entity_id": "PERSON-98ADF25674B212AC",
       "entity_type": "person",
@@ -6639,88 +7199,9 @@
     },
     {
       "archive_roles": [],
-      "council_service_excluded_from_guild_leadership": true,
-      "entity_id": "PERSON-9DBE553ECA38FF4B",
-      "entity_type": "person",
-      "evidence": [],
-      "independent_author_count": 0,
-      "independent_message_count": 0,
-      "name": "Agent Solace",
-      "operator_confirmations": [],
-      "operator_confirmed_roles": [],
-      "operator_decision": null,
-      "review_status": "REQUIRES_IDENTITY_RESOLUTION",
-      "score_dimensions": {
-        "alliance_leader": 0,
-        "community_organizer": 0,
-        "creator_or_builder": 0,
-        "dao_council_service": 0,
-        "evidence_strength": 0,
-        "guild_founder": 0,
-        "guild_leader": 0,
-        "guild_officer": 0,
-        "historical_significance": 0,
-        "identity_confidence": 1,
-        "official_team_member": 0
-      }
-    },
-    {
-      "entity_id": "ORG-94834CC2B815389F",
-      "entity_type": "unresolved_tag",
-      "evidence": [],
-      "independent_message_count": 0,
-      "name": "The Vanguard",
-      "operator_confirmation": {
-        "attribution_class": "operator_confirmed_alias",
-        "author_id": null,
-        "channel_id": null,
-        "display_name": null,
-        "evidence_channel": "operator_confirmation",
-        "evidence_location": "operator_review_record",
-        "message_id": null,
-        "operator_assertion": true,
-        "quoted_text": null,
-        "review_note": "Confirmed by repository operator during PR review",
-        "source_id": null,
-        "source_paths": [],
-        "timestamp": null
-      },
-      "review_status": "REQUIRES_IDENTITY_RESOLUTION",
-      "score_dimensions": {
-        "evidence_strength": 0,
-        "historical_significance": 0,
-        "identity_confidence": 3
-      }
-    },
-    {
-      "archive_roles": [],
-      "council_service_excluded_from_guild_leadership": true,
-      "entity_id": "PERSON-E3654DC366BCD422",
-      "entity_type": "person",
-      "evidence": [],
-      "independent_author_count": 0,
-      "independent_message_count": 0,
-      "name": "Virtuwaal",
-      "operator_confirmations": [],
-      "operator_confirmed_roles": [],
-      "operator_decision": null,
-      "review_status": "REQUIRES_IDENTITY_RESOLUTION",
-      "score_dimensions": {
-        "alliance_leader": 0,
-        "community_organizer": 0,
-        "creator_or_builder": 0,
-        "dao_council_service": 0,
-        "evidence_strength": 0,
-        "guild_founder": 0,
-        "guild_leader": 0,
-        "guild_officer": 0,
-        "historical_significance": 0,
-        "identity_confidence": 1,
-        "official_team_member": 0
-      }
-    },
-    {
-      "archive_roles": [],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
+      "canonicality_note": null,
       "council_service_excluded_from_guild_leadership": true,
       "entity_id": "PERSON-9C8DA17ECD89F777",
       "entity_type": "person",
@@ -6767,6 +7248,9 @@
     },
     {
       "archive_roles": [],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
+      "canonicality_note": null,
       "council_service_excluded_from_guild_leadership": true,
       "entity_id": "PERSON-30DE3F17E1769BFF",
       "entity_type": "person",
@@ -6813,6 +7297,9 @@
     },
     {
       "archive_roles": [],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
+      "canonicality_note": null,
       "council_service_excluded_from_guild_leadership": true,
       "entity_id": "PERSON-DA94D25907DF6976",
       "entity_type": "person",
@@ -6859,6 +7346,9 @@
     },
     {
       "archive_roles": [],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
+      "canonicality_note": null,
       "council_service_excluded_from_guild_leadership": true,
       "entity_id": "PERSON-6F485C42B3E1C9FE",
       "entity_type": "person",
@@ -6904,55 +7394,12 @@
       }
     },
     {
-      "archive_roles": [],
-      "council_service_excluded_from_guild_leadership": true,
-      "entity_id": "PERSON-133938065BE198E6",
-      "entity_type": "person",
-      "evidence": [
-        {
-          "attribution_class": "explicit_third_party_attribution",
-          "author_id": null,
-          "channel_id": null,
-          "display_name": "DominicVainMod",
-          "evidence_channel": "archive_evidence",
-          "evidence_location": "message_content",
-          "message_id": null,
-          "operator_assertion": false,
-          "quoted_text": "[AEP] MetaVerse Explorer",
-          "source_id": "SA-DISCORD-ANN-3E355EAA4AEFC48C",
-          "source_paths": [
-            "archive/normalized/discord-announcements/messages.jsonl",
-            "archive/normalized/discord-announcements/messages/SA-DISCORD-ANN-3E355EAA4AEFC48C.json",
-            "archive/raw/discord-announcements/star-atlas-discord-announcements.md"
-          ],
-          "timestamp": "2022-09-01T16:35:37"
-        }
-      ],
-      "independent_author_count": 1,
-      "independent_message_count": 1,
-      "name": "MetaVerse Explorer",
-      "operator_confirmations": [],
-      "operator_confirmed_roles": [],
-      "operator_decision": null,
-      "review_status": "REQUIRES_ROLE_CORROBORATION",
-      "score_dimensions": {
-        "alliance_leader": 0,
-        "community_organizer": 0,
-        "creator_or_builder": 0,
-        "dao_council_service": 0,
-        "evidence_strength": 1,
-        "guild_founder": 0,
-        "guild_leader": 0,
-        "guild_officer": 0,
-        "historical_significance": 1,
-        "identity_confidence": 1,
-        "official_team_member": 0
-      }
-    },
-    {
       "archive_roles": [
         "dao_council_service"
       ],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
+      "canonicality_note": null,
       "council_service_excluded_from_guild_leadership": true,
       "entity_id": "PERSON-F0465CF22F9F13FB",
       "entity_type": "person",
@@ -6999,6 +7446,9 @@
     },
     {
       "archive_roles": [],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
+      "canonicality_note": null,
       "council_service_excluded_from_guild_leadership": true,
       "entity_id": "PERSON-F5735BF0442C811E",
       "entity_type": "person",
@@ -7045,6 +7495,9 @@
     },
     {
       "archive_roles": [],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
+      "canonicality_note": null,
       "council_service_excluded_from_guild_leadership": true,
       "entity_id": "PERSON-4CF316E5BBEDD122",
       "entity_type": "person",
@@ -7091,6 +7544,9 @@
     },
     {
       "archive_roles": [],
+      "attributed_statement_treatment": null,
+      "authority_scope": null,
+      "canonicality_note": null,
       "council_service_excluded_from_guild_leadership": true,
       "entity_id": "PERSON-00F0CDD9A3F2EF96",
       "entity_type": "person",

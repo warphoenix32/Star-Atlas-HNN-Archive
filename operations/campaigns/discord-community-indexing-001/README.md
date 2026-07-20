@@ -8,7 +8,7 @@ It is not a canonical people registry, a guild registry, a completed Discord cor
 
 The present corpus contains one independently supplied conversation export represented three ways: one raw Markdown aggregate, one normalized JSONL aggregate, and 1,071 normalized per-message JSON records. The derived CSV index is inventoried but is not parsed as another message export. The three evidence representations reconcile to 1,071 unique Source IDs and 3,213 parsed occurrences.
 
-The imported messages run from `2021-03-16T14:34:21` through `2026-07-12T15:18:19`. Every month within those bounds has at least one preserved message, but this is not evidence that every message or channel was collected. The acquisition metadata states that collection was incomplete and that a 180-minute historical runtime limit prevented reaching the requested start. Native server, channel, message, and author IDs are absent. The raw export header is preserved as the observed channel label—`Compromised Discord Account of EX Team Member,`—without treating that label as a verified canonical Discord channel.
+The imported messages run from `2021-03-16T14:34:21` through `2026-07-12T15:18:19`. The repository operator establishes March 2021 as the canonical beginning of the Star Atlas Discord and confirms that no Discord history predates that formation. Every month within the captured bounds has at least one preserved message, but this is not evidence that every message within the period or every channel was collected. Native server, channel, message, and author IDs are absent. The observed export title—`Compromised Discord Account of EX Team Member,`—is preserved as a collection-tool artifact: because the collector was not configured for an announcement channel, it used the first collected message as the file title. It is not treated as a native channel name.
 
 The coverage ledger therefore reports:
 
@@ -16,8 +16,8 @@ The coverage ledger therefore reports:
 - one repository-designated Star Atlas community;
 - zero native Discord servers identified;
 - zero native Discord channels identified;
-- one unresolved channel export;
-- partial historical coverage through the last captured message.
+- one partially captured export whose native channel identity remains unavailable;
+- a canonical community beginning of March 2021, with partial collection coverage within the period through the last captured message.
 
 Mentioned but not imported channels and channel families remain in `discord-collection-backlog.json`, including `Foundation Room`, `Foundation Room Chat`, the operator-observed spelling `Foudnation Room`, `Atlas Amphitheater`, `Atlas Brew Lounge`, `dao-announcements`, and guild, faction, economics, governance, general, and support channels.
 
@@ -47,7 +47,9 @@ Every archive-derived claim carries its Source ID, timestamp, available native i
 
 `observed_authorship` proves only that an export associates a display label with a message; it does not independently prove a legal identity. Fuzzy similarity never merges identities.
 
-Repository-operator confirmations are kept in a separate `operator_confirmation` evidence channel. Those records use `source_id: null`, `operator_assertion: true`, a review note, and no fabricated archive citation. A null Source ID is not permitted for archive evidence. `curator-decisions.json` preserves all 29 PR-review adjudications, including confirmations, deferrals, ignored candidates, the approved Funcracker promotion, and the non-person software classification. Unresolved names remain separate seeded records.
+Repository-operator confirmations are kept in a separate `operator_confirmation` evidence channel. Those records use `source_id: null`, `operator_assertion: true`, a review note, and no fabricated archive citation. A null Source ID is not permitted for archive evidence. `curator-decisions.json` preserves all 41 adjudications through 2026-07-19, including confirmations, deferrals, ignored candidates, the approved Funcracker promotion, and the non-person software classification. Unresolved names remain separate records.
+
+The operator resolves `Chri.z` to **Chris Kaczmarczyk-Smith**, Head of Star Atlas Game Economy. Statements actually attributed to him within that subject-matter scope are classified as authoritative first-party institutional evidence. This authority classification does not erase the statement's date or wording and does not convert plans, estimates, testing, approvals, or announcements into release or execution evidence.
 
 Deleted-user identities and tags are excluded from the public identity and promotion views. Their source messages remain available only as contextual evidence for other public community subjects. Public handles and community roles are retained; private personal information is not added.
 
@@ -64,7 +66,9 @@ Organization types are controlled as:
 - `software_agent`;
 - `unresolved_tag`.
 
-The operator-confirmed guilds now include Aephia (`AEP`, `Aephia Industries`), BULK, Rome, The Club Guild (`The Club`), Coexist (`COEX`), Eclypse (`EC`), and Deep Profits (`DEEP`). Intergalactic Alliance (`IA`) remains a guild alliance; Star Atlas Italia (`SAI`), Polaris Fuel, Star Atlas TV, and Ryden Systems/EveEye are community organizations; `426` is a community meme. The Star Atlas AI App is a software agent and is excluded from person promotion. BULK is never expanded into an invented long form.
+The operator-confirmed guilds now include Aephia (`AEP`, `Aephia Industries`), Ágora/Agora, BULK, Dark Matter, Rome, The Club Guild (`The Club`), Coexist (`COEX`), Eclypse (`EC`), Deep Profits (`DEEP`), and The Vanguard. The Vanguard's display tag is `VΛ`: a Latin `V` followed by uppercase Greek lambda. The standalone `Λ` tag usually indicates association with Agora, but does not prove membership by itself. Dark Matter is classified as a guild/DAC aligned with the Ustur faction. Intergalactic Alliance (`IA`) remains a guild alliance; Star Atlas Italia (`SAI`), Polaris Fuel, Star Atlas TV, and Ryden Systems/EveEye are community organizations; `426` is a community meme. The Star Atlas AI App is a software agent and is excluded from person promotion. BULK is never expanded into an invented long form.
+
+The operator supplied Agora's Portuguese guild description and public invite. Its preserved English archival translation describes a collaborative Star Atlas guild centered on mutual growth, continuous learning, organized information, coordinated logistics and strategy, and a welcoming community. The description explicitly identifies **SAWYN** and **Neo_AArmstrong** as guild leaders and supplies `https://discord.gg/69HsqtZ22N`. Those two leadership and membership relationships are operator-confirmed; the general `Λ` tag remains association-only.
 
 A display tag is association evidence, not membership proof. A leading confirmed guild tag may produce `possible_member_of` for human review. A pipe-separated guild component such as `[IA] Dodger | BULK` produces `associated_with_guild`, not membership. `IA` produces `associated_with_alliance`, `SAI` produces `associated_with_organization`, and `426` produces only `has_display_tag`. Unknown tags remain unresolved and enter the queue.
 
@@ -74,13 +78,15 @@ Identity rows without a native author ID or confirmed alias are explicitly `obse
 
 ## Competition records
 
-Competition extraction is a dedicated typed pass. A placement record stores event, placement, participant, participant type, timestamp, Source ID, exact evidence, and resolution status. Only confirmed organizations or identities are resolved automatically. Unrecognized participants remain unresolved. Prize tiers, dollar amounts, category labels, and malformed lines are never created as guilds or people; they are retained as review records. Placement relationships are emitted only for resolved participants.
+Competition extraction is a dedicated typed pass. A placement record stores event, placement, participant, participant type, timestamp, Source ID, exact evidence, and resolution status. Only confirmed organizations or identities are resolved automatically. Unrecognized participants remain unresolved. Prize tiers, dollar amounts, and category labels are deterministically classified as non-participants rather than created as guilds or people; genuinely malformed or ambiguous lines remain review records. URL-slug ordinal collisions are excluded. Placement relationships are emitted only for resolved participants.
 
 ## Human review and promotion boundary
 
-`human-resolution-queue.json` is the durable workspace for issues that remain open after adjudication. It includes suspected duplicates, possible aliases, unknown tags, uncertain organization types, possible guild memberships, malformed competition rows, unresolved participants, missing channel identity, historical source gaps, deferred identities, the Virtuwaal/Virtuwuul spelling conflict, and missing dates for Rome's succession history. Each item records observed values, candidate resolution, confidence, evidence, why review is required, allowed decisions, a null operator decision, and `OPEN` status.
+`human-resolution-queue.json` is the durable workspace for issues that remain open after adjudication. Each item records observed values, candidate resolution, confidence, evidence, why review is required, allowed decisions, a null operator decision, and `OPEN` status. The observed `Michael` handle remains unresolved and is not merged with Michael Wagner. The `EMP` display tag also remains unresolved. Rome chronology dates are explicitly deferred as unknown and low priority, so the supplied undated sequence remains operator context rather than an active blocking review item.
 
-`promotion-candidates.json` contains explicit score dimensions and controlled review statuses; it never emits a bare machine-generated `promote` recommendation. Funcracker is marked `OPERATOR_APPROVED_FOR_PROMOTION` based on the supplied human decision. Chri.z is deferred, Diego_Diaz08 and inti are omitted from promotion review, Shaddix remains deferred in the queue, and the software bot is not eligible. Message volume alone has no authority, and machine confidence does not establish factual truth.
+The 2026-07-19 adjudication also resolves `Agent_Solace` to **Agent Solace**, and the legacy spellings `Virtuwaal` and `Virtuwuul` to the preferred **Virtuwul**. Virtuwul is operator-confirmed as a Rome member and Rainbow Phi owner; existing HNN, Aephia, and Discord-derived repository records are retained as corroborating artifacts rather than rewritten. Shaddix is operator-confirmed as a Star Atlas music content creator, former moderator, and Aephia/AEP member.
+
+`promotion-candidates.json` contains explicit score dimensions and controlled review statuses; it never emits a bare machine-generated `promote` recommendation. Funcracker is marked `OPERATOR_APPROVED_FOR_PROMOTION` based on the supplied human decision. Diego_Diaz08 and inti are omitted from promotion review, and the software bot is not eligible. Resolved identity and role metadata for Chris Kaczmarczyk-Smith, Shaddix, Agent Solace, The Vanguard, and Virtuwul remains subject to the repository's normal knowledge-promotion workflow. Message volume alone has no authority, and machine confidence does not establish factual truth.
 
 ## Commands
 
@@ -117,7 +123,7 @@ The build uses only the Python standard library. Validation also runs the reposi
 - `promotion-candidates.json`: review status and independent score dimensions without automatic promotion.
 - `conflict-report.json`: identity non-merge conflicts, duplicate-review candidates, and missing native identifiers.
 - `human-resolution-queue.json`: structured unresolved decisions with allowed operator actions.
-- `curator-decisions.json`: the complete 29-item human adjudication record applied by this revision.
+- `curator-decisions.json`: the complete 41-item human adjudication record applied by this revision.
 - `discord-channel-coverage.json`: export-scoped server/community/channel coverage and timestamp bounds.
 - `discord-channel-gap-report.json`: known temporal and identity gaps without false completeness claims.
 - `discord-collection-backlog.json`: prioritized acquisition targets and required artifacts.

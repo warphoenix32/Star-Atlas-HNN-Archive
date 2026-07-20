@@ -5,8 +5,8 @@
     {
       "coverage_id": "DISCORD-COVERAGE-919F0AB7195C9A5A",
       "findings": [
-        "Native channel and server identity are unresolved.",
-        "Historical acquisition reached its 180-minute limit before the requested start time.",
+        "The collection tool used the first captured message as the file title; that title is not a native channel name.",
+        "The repository operator establishes March 2021 as the canonical beginning of the Star Atlas Discord and reports that no preformation history exists.",
         "All native message, channel, and author IDs are absent.",
         "Message timestamps contain no captured timezone offset.",
         "14 no-text placeholders and attachment-only records require review."
@@ -21,5 +21,5 @@
     }
   ],
   "schema_version": "2.0.0",
-  "unresolved_channel_exports": 1
+  "unresolved_channel_exports": 0
 }

@@ -72,10 +72,18 @@
       "tag": "SAI"
     },
     {
-      "canonical_entity": "Λ",
-      "entity_type": "unresolved_tag",
-      "resolution_basis": "observed_display_tag_only",
-      "resolution_status": "HUMAN_REVIEW_REQUIRED",
+      "canonical_entity": "The Vanguard",
+      "entity_type": "guild",
+      "resolution_basis": "repository_operator_confirmation",
+      "resolution_status": "OPERATOR_CONFIRMED",
+      "tag": "VΛ"
+    },
+    {
+      "canonical_entity": "Agora",
+      "entity_type": "guild",
+      "relationship_semantics": "ASSOCIATION_ONLY",
+      "resolution_basis": "repository_operator_confirmation",
+      "resolution_status": "OPERATOR_CONFIRMED",
       "tag": "Λ"
     }
   ],
