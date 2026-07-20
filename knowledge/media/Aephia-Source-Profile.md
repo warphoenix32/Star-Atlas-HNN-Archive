@@ -1,5 +1,20 @@
 ---
 title: Aephia Industries Source Profile
+seo_title: "Aephia Industries: Star Atlas Guild and Publication Profile"
+seo_description: "A source-critical profile of Aephia Industries as a Star Atlas guild, weekly publisher, guide author, dashboard operator, and community evidence source."
+knowledge_status: QUALIFIED
+as_of: 2026-07-20
+confidence: HIGH
+page_risk_score: 5
+page_risk_class: R2
+evidence_basis:
+  - "archive/source-records/campaign-alpha-aephia/"
+  - "knowledge/media/Aephia-Weekly-Newsletter-Index.md"
+known_limitations:
+  - "Aephia is guild-affiliated, and the full site publication inventory remains incomplete."
+research_gaps:
+  - "Complete article discovery and independently reconcile self-promotional claims, forecasts, awards, and operational guides."
+review_after: 2027-01-20
 entry_type: media-source-profile
 status: active
 updated: 2026-07-12
@@ -114,3 +129,7 @@ When ingesting an article:
 - Aephia Industries guild profile, dated September 20, 2024.
 - Star Atlas Guides index, accessed July 12, 2026.
 - Weekly Star Atlas Newsletter issues #184, #235, and #236, plus visible metadata for #233, #234, and #237.
+
+## Review status
+
+`QUALIFIED`. Publication identity and the reviewed corpus are well established; completeness, current guide validity, and self-promotional claims require continued review.

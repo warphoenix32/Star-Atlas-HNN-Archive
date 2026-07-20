@@ -1,5 +1,20 @@
 ---
 title: Aephia Weekly Star Atlas Newsletter Index
+seo_title: "Aephia Weekly Star Atlas Newsletter Archive Index"
+seo_description: "An evidence-qualified index of Aephia's numbered Weekly Star Atlas Newsletter, issue coverage, dates, topics, extraction states, and archival gaps."
+knowledge_status: QUALIFIED
+as_of: 2026-07-20
+confidence: MEDIUM
+page_risk_score: 6
+page_risk_class: R2
+evidence_basis:
+  - "archive/source-records/campaign-alpha-aephia/"
+  - "knowledge/media/Aephia-Crawl-Ledger.md"
+known_limitations:
+  - "Issue numbering and selected captures do not prove an uninterrupted or complete series."
+research_gaps:
+  - "Recover missing issues, publication dates, article bodies, authorship, and linked primary sources."
+review_after: 2027-01-20
 entry_type: serial-publication-index
 status: active
 updated: 2026-07-12
@@ -152,3 +167,7 @@ For each issue:
 - https://aephia.com/star-atlas/weekly-star-atlas-newsletter-228/
 - https://aephia.com/star-atlas/weekly-star-atlas-newsletter-227/
 - https://aephia.com/star-atlas/weekly-star-atlas-newsletter-184/
+
+## Review status
+
+`QUALIFIED`. The indexed issues and their extraction states are reliable; the full numbered series, complete dating, and continuity remain unresolved.

@@ -1,11 +1,26 @@
 ---
 id: MEDIA-VBTV-RECORDING-INDEX
 title: VBTV / Star Atlas TV Recording Index
+seo_title: "VBTV and Star Atlas TV Recording Archive Index"
+seo_description: "A provenance-aware index for VBTV, formerly Star Atlas TV, its operator identity, rebrand history, recording inventory, replay lineage, and preservation gaps."
+knowledge_status: QUALIFIED
+as_of: 2026-07-20
 entry_type: video-archive-index
 status: active
 created: 2026-07-12
 updated: 2026-07-12
-confidence: medium
+confidence: MEDIUM
+page_risk_score: 7
+page_risk_class: R3
+evidence_basis:
+  - "knowledge/media/Media-and-Creator-Index.md"
+  - "archive/normalized/manifests/normalized-urls.jsonl"
+known_limitations:
+  - "The recording inventory could not be enumerated through the retrieval path used in the initial review."
+  - "The early July 2026 rebrand timing and operator identity are attributed firsthand context."
+research_gaps:
+  - "Acquire a complete channel upload and livestream export with stable video IDs, dates, descriptions, and captions."
+review_after: 2026-10-20
 source_class:
   - community
   - media
@@ -104,3 +119,7 @@ confidence: high | medium | low
 - Which recurring shows and weekly events are represented in the archive?
 - Are any recordings unlisted, private, deleted or duplicated on another channel?
 - Does the channel maintain original descriptions, chapters, guest lists or caption tracks for older broadcasts?
+
+## Review status
+
+`QUALIFIED`, risk class `R3`. Channel identity and historical names are supported by attributed context; the recording-level inventory remains pending direct enumeration.

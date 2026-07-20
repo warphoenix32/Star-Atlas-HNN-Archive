@@ -1,5 +1,7 @@
 ---
 title: "Official Discord Announcements Profile"
+seo_title: "Official Star Atlas Discord Announcements Archive"
+seo_description: "A provenance-rich profile of 1,071 preserved official Star Atlas Discord announcements, their coverage limits, semantic review, and citation boundaries."
 knowledge_status: QUALIFIED
 as_of: 2026-07-17
 confidence: HIGH
@@ -90,3 +92,7 @@ Discord may corroborate a newsroom, X, PIP, support, transaction, or product rec
 - [Semantic announcement records](../../archive/semantic/discord-announcements/announcement-semantic-records.jsonl)
 - [Promotion decisions](../../archive/semantic/discord-announcements/promotion-candidate-decisions.jsonl)
 - [Timeline decisions](../../archive/semantic/discord-announcements/timeline-candidate-decisions.jsonl)
+
+## Review status
+
+`QUALIFIED`. The complete supplied export is validated; the export itself reports incomplete historical collection, and message authorship remains export-derived.

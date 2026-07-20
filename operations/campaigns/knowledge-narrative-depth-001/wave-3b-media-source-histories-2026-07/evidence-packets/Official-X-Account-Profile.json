@@ -1,0 +1,38 @@
+{
+  "campaign_id": "knowledge-narrative-depth-wave-3b-media-source-histories-2026-07",
+  "page_id": "KNOW-BB7502F74C890836",
+  "proposed_path": "knowledge/media/Official-X-Account-Profile.md",
+  "page_action": "EXPAND_AND_STANDARDIZE",
+  "proposed_knowledge_status": "QUALIFIED",
+  "page_risk_score": 5,
+  "page_risk_class": "R2",
+  "subject_entities": [],
+  "aliases": [],
+  "scope": "Partial-period official post corpus and retweet provenance.",
+  "material_claims": [
+    {
+      "claim_id": "KNOW-BB7502F74C890836-C01",
+      "claim_text": "Partial-period official post corpus and retweet provenance.",
+      "claim_type": "SOURCE_PROFILE_OR_COVERAGE",
+      "temporal_scope": "AS_OF_2026-07-20",
+      "lifecycle_state": "UNKNOWN",
+      "supporting_sources": [
+        "operations/campaigns/social-governance-semantic-enrichment/campaign-summary.json"
+      ],
+      "source_authority": "MIXED_A2_B2",
+      "corroboration_status": "QUALIFIED",
+      "contradiction_status": "NONE_IDENTIFIED",
+      "attribution_required": true,
+      "confidence": "MEDIUM",
+      "allowed_in_page": true
+    }
+  ],
+  "known_limitations": [
+    "Coverage is limited to the corpus and discovery state stated on the page."
+  ],
+  "research_gaps": [
+    "See the page-specific acquisition, attribution, and completeness gaps."
+  ],
+  "review_required": true,
+  "review_after": "2027-01-20"
+}

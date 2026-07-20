@@ -1,0 +1,100 @@
+{
+  "campaign_id": "knowledge-narrative-depth-wave-3b-media-source-histories-2026-07",
+  "accepted": 13,
+  "deferred": 0,
+  "duplicate": 0,
+  "rejected": 0,
+  "records": [
+    {
+      "page_id": "KNOW-948858A9B28198EC",
+      "path": "knowledge/media/Aephia-Crawl-Ledger.md",
+      "disposition": "ACCEPTED",
+      "reason": "Aephia crawl coverage and retrieval gaps.",
+      "human_review_required": true
+    },
+    {
+      "page_id": "KNOW-FB2BD5104A5B30EB",
+      "path": "knowledge/media/Aephia-Source-Profile.md",
+      "disposition": "ACCEPTED",
+      "reason": "Guild-affiliated publication identity and source-critical use.",
+      "human_review_required": true
+    },
+    {
+      "page_id": "KNOW-C9CF511EB6481889",
+      "path": "knowledge/media/Aephia-URL-Manifest-from-Community-Inventory.md",
+      "disposition": "ACCEPTED",
+      "reason": "Historical URL snapshot without corpus-completeness claims.",
+      "human_review_required": true
+    },
+    {
+      "page_id": "KNOW-EBBB87D092A533C4",
+      "path": "knowledge/media/Aephia-Weekly-Newsletter-Index.md",
+      "disposition": "ACCEPTED",
+      "reason": "Newsletter issue coverage, extraction state, and chronology gaps.",
+      "human_review_required": true
+    },
+    {
+      "page_id": "KNOW-91BB652EE824E051",
+      "path": "knowledge/media/Atlas-Brew-History.md",
+      "disposition": "ACCEPTED",
+      "reason": "Atlas Brew institutional history and revised selective semantic evidence.",
+      "human_review_required": true
+    },
+    {
+      "page_id": "KNOW-90A1B24C7FF92F37",
+      "path": "knowledge/media/Community-Publication-Relationship-Index.md",
+      "disposition": "ACCEPTED",
+      "reason": "Publisher, author, curator, replay, and source-lineage distinctions.",
+      "human_review_required": true
+    },
+    {
+      "page_id": "KNOW-0F4E85DD5AD7CB74",
+      "path": "knowledge/media/Media-and-Creator-Index.md",
+      "disposition": "ACCEPTED",
+      "reason": "Cross-source media registry and preservation coverage.",
+      "human_review_required": true
+    },
+    {
+      "page_id": "KNOW-F77EDE643F2FFFA5",
+      "path": "knowledge/media/Official-Discord-Announcements-Profile.md",
+      "disposition": "ACCEPTED",
+      "reason": "Complete supplied export versus incomplete channel collection.",
+      "human_review_required": true
+    },
+    {
+      "page_id": "KNOW-BB7502F74C890836",
+      "path": "knowledge/media/Official-X-Account-Profile.md",
+      "disposition": "ACCEPTED",
+      "reason": "Partial-period official post corpus and retweet provenance.",
+      "human_review_required": true
+    },
+    {
+      "page_id": "KNOW-87FF86CB2C582699",
+      "path": "knowledge/media/README.md",
+      "disposition": "ACCEPTED",
+      "reason": "Human-first media-domain navigation.",
+      "human_review_required": true
+    },
+    {
+      "page_id": "KNOW-5DDD1F2C1B39319A",
+      "path": "knowledge/media/Star-Atlas-Medium-Publication-Profile.md",
+      "disposition": "ACCEPTED",
+      "reason": "Complete ingestion of 173 confirmed articles with incomplete discovery.",
+      "human_review_required": true
+    },
+    {
+      "page_id": "KNOW-8B48EDD09971B207",
+      "path": "knowledge/media/Star-Atlas-Town-Hall-History.md",
+      "disposition": "ACCEPTED",
+      "reason": "Town Hall format, partial transcript corpus, and attribution limits.",
+      "human_review_required": true
+    },
+    {
+      "page_id": "KNOW-AF162E550FE45E3D",
+      "path": "knowledge/media/VBTV-Star-Atlas-TV-Recording-Index.md",
+      "disposition": "ACCEPTED",
+      "reason": "Broadcaster identity and unenumerated recording archive.",
+      "human_review_required": true
+    }
+  ]
+}

@@ -1,5 +1,20 @@
 ---
 title: Star Atlas Media and Creator Index
+seo_title: "Star Atlas Media and Creator Archive Index"
+seo_description: "A research index of official communications, community journalism, guild publications, shows, creators, transcript archives, affiliations, and preservation gaps."
+knowledge_status: QUALIFIED
+as_of: 2026-07-20
+confidence: HIGH
+page_risk_score: 5
+page_risk_class: R2
+evidence_basis:
+  - "knowledge/media/Community-Publication-Relationship-Index.md"
+  - "knowledge/index/source-registry/Public-Source-Registry.md"
+known_limitations:
+  - "Several priority video and publication inventories remain incomplete."
+research_gaps:
+  - "Complete source-family inventories and recover original URLs, dates, speakers, authors, corrections, and ownership histories."
+review_after: 2027-01-20
 entry_type: media-registry
 status: active
 updated: 2026-07-17
@@ -30,7 +45,7 @@ Official publication surfaces are indexed separately because their authority and
 |---|---|---|---|
 | [Official Discord Announcements](Official-Discord-Announcements-Profile.md) | 1,071 messages, 2021-03-16 through 2026-07-12 | Qualified, validated supplied export | Export reports incomplete collection; author grouping is inferred |
 | [Official Star Atlas X Account](Official-X-Account-Profile.md) | 796 unique posts, 2024-11-05 through 2026-07-14 | Qualified, validated partial-period corpus | Retweets preserve resharing, not first-party authorship; linked media absent |
-| [Star Atlas Medium Publication](Star-Atlas-Medium-Publication-Profile.md) | Discovery links only; no article-level coverage claim | Qualified source-family profile | Complete article-by-article corpus review has not been performed |
+| [Star Atlas Medium Publication](Star-Atlas-Medium-Publication-Profile.md) | 173 confirmed articles, 2021-01-15 through 2025-10-10 | Confirmed set fully ingested; publication discovery incomplete | 51 discovery leads explicitly deferred; deleted or unindexed articles may remain unknown |
 
 The date ranges above describe preserved repository coverage, not the lifetime of each publication surface. Official publication proves what the institution stated at a given time; it does not automatically prove delivery, execution, economic accuracy, or event occurrence.
 
@@ -125,3 +140,7 @@ Every source-specific assertion should preserve, when available, a stable source
 - Deleted or inaccessible content may be described from reliable archives but should be labeled incomplete.
 - A creator's guild affiliation is relevant context when covering guild competition or governance.
 - Old guides and newsletters should be cited as evidence of contemporary knowledge, not assumed to describe the current game state.
+
+## Review status
+
+`QUALIFIED`. Major source families and authority boundaries are indexed; complete inventories for several community and video sources remain open research work.

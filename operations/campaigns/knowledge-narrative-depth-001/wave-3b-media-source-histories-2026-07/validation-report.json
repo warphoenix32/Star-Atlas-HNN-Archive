@@ -1,0 +1,19 @@
+{
+  "campaign_id": "knowledge-narrative-depth-wave-3b-media-source-histories-2026-07",
+  "status": "PASS",
+  "checks": {
+    "deterministic_generation": true,
+    "page_count": true,
+    "required_metadata": true,
+    "review_sections": true,
+    "packet_count": true,
+    "source_linked_packets": true,
+    "medium_completeness_boundary": true,
+    "atlas_brew_precision_counts": true,
+    "speaker_dependency_boundary": true,
+    "internal_links": true,
+    "scope": true,
+    "git_diff_check": true
+  },
+  "errors": []
+}

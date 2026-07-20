@@ -1,5 +1,19 @@
 ---
 title: Aephia URL Manifest from Community Inventory
+seo_title: "Aephia Historical URL Manifest"
+seo_description: "A categorized discovery manifest of Aephia newsletters, Town Hall reports, guides, institutional posts, and historical Star Atlas analysis links."
+knowledge_status: HISTORICAL
+as_of: 2026-07-20
+confidence: HIGH
+page_risk_score: 4
+page_risk_class: R2
+evidence_basis:
+  - "archive/normalized/manifests/normalized-urls.jsonl"
+known_limitations:
+  - "The manifest covers URLs found in the supplied community inventory, not every Aephia publication."
+research_gaps:
+  - "Reconcile every listed URL with current and archived page metadata, Source IDs, redirects, and extraction status."
+review_after: 2027-01-20
 entry_type: source-manifest
 status: discovery
 updated: 2026-07-12
@@ -107,3 +121,7 @@ These links were discovered through historical Discord posting activity. They ar
 ## Handling rule
 
 Aephia is treated as a high-value guild-affiliated community publication. Its articles are strong evidence of contemporaneous reporting and community understanding, but older operational descriptions, roadmaps and forecasts must be reconciled against later Aephia issues and official sources.
+
+## Review status
+
+`HISTORICAL`. Complete for the supplied inventory snapshot only; network and publication-level reconciliation remain incomplete.

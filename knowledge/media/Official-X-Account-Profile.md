@@ -1,5 +1,7 @@
 ---
 title: "Official Star Atlas X Account Profile"
+seo_title: "Official Star Atlas X Account Archive"
+seo_description: "A source-critical profile of 796 preserved @staratlas posts, original-post and retweet provenance, selective semantic candidates, and partial-period coverage."
 knowledge_status: QUALIFIED
 as_of: 2026-07-17
 confidence: HIGH
@@ -82,3 +84,7 @@ Where a claim concerns release, deployment, payment, execution, vote outcome, or
 - [Semantic post records](../../archive/semantic/social-media/staratlas-posts-semantic.jsonl)
 - [Promotion decisions](../../archive/semantic/social-media/promotion-candidate-decisions.jsonl)
 - [Timeline decisions](../../archive/semantic/social-media/timeline-candidate-decisions.jsonl)
+
+## Review status
+
+`QUALIFIED`. The supplied 2024–2026 corpus is validated and selectively enriched; it is not the account's complete lifetime history.
