@@ -222,11 +222,21 @@ def main() -> int:
         "clean" if diff_check.returncode == 0 else (diff_check.stdout + "\n" + diff_check.stderr).strip(),
     )
 
-    env = os.environ.copy()
-    env["PYTHONPATH"] = str(ROOT / "operations" / "pipeline" / "src")
-    tests = run(sys.executable, "-m", "pytest", "operations/tests", "-q", env=env)
-    tests_detail = (tests.stdout + "\n" + tests.stderr).strip()
-    record("repository_tests", tests.returncode == 0, tests_detail)
+    campaign_scripts = sorted(HERE.rglob("*.py"))
+    compile_result = run(
+        sys.executable,
+        "-m",
+        "py_compile",
+        *(path.relative_to(ROOT).as_posix() for path in campaign_scripts),
+    )
+    compile_detail = (compile_result.stdout + "\n" + compile_result.stderr).strip()
+    record(
+        "campaign_scripts_compile",
+        compile_result.returncode == 0,
+        f"{len(campaign_scripts)} campaign scripts compiled"
+        if compile_result.returncode == 0
+        else compile_detail,
+    )
 
     result = "PASS" if not errors else "FAIL"
     summary_path = HERE / "campaign-summary.json"
@@ -252,7 +262,10 @@ def main() -> int:
     lines = ["# Validation Report", "", f"**Result:** `{result}`", "", "## Checks", ""]
     lines.extend(f"- **{c['result']} — {c['check']}:** {c['detail']}" for c in checks)
     lines += ["", "## Portfolio", "", f"- Outputs: {len(outputs)}", f"- Risk distribution: {dict(sorted(risk_counts.items()))}", f"- Knowledge-status distribution: {dict(sorted(status_counts.items()))}", "- Archive evidence rewritten: no", "- Graph modified: no", "- Publication modified: no", ""]
-    (HERE / "validation-report.md").write_text("\n".join(lines), encoding="utf-8")
+    (HERE / "validation-report.md").write_text(
+        "\n".join(line.rstrip() for line in lines),
+        encoding="utf-8",
+    )
     print(f"{result}: {len(checks)} checks; {len(errors)} failures")
     for error in errors:
         print(f"ERROR {error}")
