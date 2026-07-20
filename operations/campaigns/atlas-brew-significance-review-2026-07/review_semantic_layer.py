@@ -85,7 +85,12 @@ def dump(path: Path, payload: object) -> None:
 
 
 def sha(path: Path) -> str:
-    return hashlib.sha256(path.read_bytes()).hexdigest()
+    return hashlib.sha256(canonical_text_bytes(path)).hexdigest()
+
+
+def canonical_text_bytes(path: Path) -> bytes:
+    """Hash generated text as UTF-8/LF so manifests are platform-neutral."""
+    return path.read_text(encoding="utf-8").replace("\r\n", "\n").encode("utf-8")
 
 
 def caption_map() -> dict[int, dict[str, object]]:
@@ -382,7 +387,7 @@ def main() -> None:
     artifacts = []
     for path in sorted(SEMANTIC.glob("*.json")):
         if path.name == "quality-report.json": continue
-        artifacts.append({"path": path.relative_to(ROOT).as_posix(), "size_bytes": path.stat().st_size, "sha256": sha(path)})
+        artifacts.append({"path": path.relative_to(ROOT).as_posix(), "size_bytes": len(canonical_text_bytes(path)), "hash_mode": "UTF8_LF", "sha256": sha(path)})
     statement_counts = Counter(tag for segment in segments for tag in segment["statement_classifications"])
     legacy_statement_counts = Counter(tag for segment in segments for tag in segment["legacy_statement_classifications"])
     lifecycle_counts = Counter(tag for segment in segments for tag in segment["product_lifecycle"])

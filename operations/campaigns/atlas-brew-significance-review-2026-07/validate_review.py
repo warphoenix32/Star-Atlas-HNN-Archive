@@ -16,7 +16,12 @@ GENERATOR = HERE / "review_semantic_layer.py"
 
 
 def sha(path: Path) -> str:
-    return hashlib.sha256(path.read_bytes()).hexdigest()
+    return hashlib.sha256(canonical_text_bytes(path)).hexdigest()
+
+
+def canonical_text_bytes(path: Path) -> bytes:
+    """Hash generated text as UTF-8/LF so checks agree on Windows and Linux."""
+    return path.read_text(encoding="utf-8").replace("\r\n", "\n").encode("utf-8")
 
 
 def run(*args: str) -> subprocess.CompletedProcess[str]:
@@ -68,7 +73,7 @@ def main() -> int:
     manifest_failures = []
     for item in quality["manifest"]["artifacts"]:
         path = ROOT / item["path"]
-        if not path.is_file() or path.stat().st_size != item["size_bytes"] or sha(path) != item["sha256"]:
+        if not path.is_file() or len(canonical_text_bytes(path)) != item["size_bytes"] or sha(path) != item["sha256"]:
             manifest_failures.append(item["path"])
     checks["manifest_reconciles"] = not manifest_failures
     if manifest_failures: errors.append("manifest mismatch: " + ", ".join(manifest_failures))

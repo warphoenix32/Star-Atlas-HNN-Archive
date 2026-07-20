@@ -115,58 +115,69 @@
     "artifacts": [
       {
         "path": "archive/semantic/atlas-brew/duplicate-clusters.json",
-        "size_bytes": 335,
-        "sha256": "83ca0944623e1876f53d88317ec73269bb8f7c9d246f74b40de056805b79dfab"
+        "size_bytes": 327,
+        "hash_mode": "UTF8_LF",
+        "sha256": "c4cb6aee420798dad6000cd7b3b762cb394bb4b07d4e56f7f57b1b108134432c"
       },
       {
         "path": "archive/semantic/atlas-brew/entity-links.json",
-        "size_bytes": 1954528,
-        "sha256": "67a15900edb0e216efcfe1d1b825b30876dc37bd7770eb50541d430d9f06be47"
+        "size_bytes": 1884326,
+        "hash_mode": "UTF8_LF",
+        "sha256": "b615e9e1fd01748733388f3c8df395d0bfa39804ae11e78dba46c805f241756b"
       },
       {
         "path": "archive/semantic/atlas-brew/promotion-candidate-decisions.json",
-        "size_bytes": 4213747,
-        "sha256": "31bdbb885181117037db6cb80ac6dc9e477413e11e7093e5c684bb34ccdba0fa"
+        "size_bytes": 4093769,
+        "hash_mode": "UTF8_LF",
+        "sha256": "7615ef46543cf1c54daa206d569dfa5f03d4023f2dd642c0848d67449afd7988"
       },
       {
         "path": "archive/semantic/atlas-brew/promotion-candidates.json",
-        "size_bytes": 1414157,
-        "sha256": "a185e01a796aa0bb1a869b645f4f9a8557abad730a1d62dfc13eb46d31ed70ed"
+        "size_bytes": 1373803,
+        "hash_mode": "UTF8_LF",
+        "sha256": "480ab033e7223b870db4d9baa9449ddc7d8cf31493127f89a801a6ad637944c1"
       },
       {
         "path": "archive/semantic/atlas-brew/quote-index.json",
-        "size_bytes": 203851,
-        "sha256": "e44b4529c8c9b044bfadaef3a9d63e736e78a6bf1e25c88c67e4077d837abe8f"
+        "size_bytes": 199403,
+        "hash_mode": "UTF8_LF",
+        "sha256": "e85fa3aed108fa7af118c90e834e9383aedfb22539e1623c206b9a4100aeba38"
       },
       {
         "path": "archive/semantic/atlas-brew/research-gaps.json",
-        "size_bytes": 645360,
-        "sha256": "1dae37a8110539764b229ca40918b80ff87259e3351c6f2ef2f1cff6b0936100"
+        "size_bytes": 628187,
+        "hash_mode": "UTF8_LF",
+        "sha256": "2129c7c85324a0eb99059e22fa477c8a859688da89a1a4214dbd1e8f5080ae6a"
       },
       {
         "path": "archive/semantic/atlas-brew/segment-index.json",
-        "size_bytes": 15446055,
-        "sha256": "65438ff6f1358d9de30e33c1549af15cd8108edb28788dbfc8cca0efd4bd2def"
+        "size_bytes": 15040669,
+        "hash_mode": "UTF8_LF",
+        "sha256": "bcf08b263875ce51ec3faee2193eaa6ed6eb42576f14d9bd43a982214c82d079"
       },
       {
         "path": "archive/semantic/atlas-brew/timeline-candidate-decisions.json",
-        "size_bytes": 4208998,
-        "sha256": "a584066dab67f16464e4e5d54b1eeff367edd9eb2cdeb463577ae7e435d1a6f4"
+        "size_bytes": 4086447,
+        "hash_mode": "UTF8_LF",
+        "sha256": "57d9c6883cd3e2abdaa963ca27a3b0fea47f8f1cd7029602b43babbc6aaeba6f"
       },
       {
         "path": "archive/semantic/atlas-brew/timeline-candidates.json",
-        "size_bytes": 658222,
-        "sha256": "cc6ac302599b7c26dfd2457c3c126e30b9c169416e386f28da5deb74d264bee8"
+        "size_bytes": 640967,
+        "hash_mode": "UTF8_LF",
+        "sha256": "bfd64ce0287edf5a957c5b330dc585f35cc88328252c693ef347aa82487a867d"
       },
       {
         "path": "archive/semantic/atlas-brew/topic-index.json",
-        "size_bytes": 525485,
-        "sha256": "7992bbd1920ae9a89d7f98c39b26c109828b527088d8d9bd7ed04c64babef5bc"
+        "size_bytes": 511180,
+        "hash_mode": "UTF8_LF",
+        "sha256": "1da4a4f30d5da09100fd75f1b2ff6ae9651a16caedda2e1c810aba71980bcf73"
       },
       {
         "path": "archive/semantic/atlas-brew/video-index.json",
-        "size_bytes": 358652,
-        "sha256": "dc8700f46026c8d6478d7cf7f87e657ad8f9056209204934e2fe23d3ad3f4127"
+        "size_bytes": 347674,
+        "hash_mode": "UTF8_LF",
+        "sha256": "acb34783f66b252f0c427f896410260b00f23684e3bdb11b92f1141fa5cd10bd"
       }
     ],
     "note": "quality-report.json is excluded from its own checksum list."
