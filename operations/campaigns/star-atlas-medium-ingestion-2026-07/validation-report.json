@@ -59,14 +59,14 @@
       "resolved_excluded": 216
     },
     "scope": {
-      "changed_paths": 456,
+      "changed_paths": 457,
       "prohibited": []
     }
   },
   "documented_external_warning": "operations/migrations/validate_wave_1_5.py contains hard-coded legacy artifact counts and is not an additive-campaign gate.",
   "errors": [],
   "result": "PASS",
-  "validated_at": "2026-07-21T22:35:57Z",
-  "validation_content_sha256": "ef5e39f1ae84b72912d1aa7df41eae0cb0db681c01101f8e96bb1310b9f02b28",
+  "validated_at": "2026-07-21T22:39:54Z",
+  "validation_content_sha256": "6d799f23eee7eebfb0939de9258c9255bdd45ef25b7360809f65ae82ae3ff874",
   "warnings": []
 }
