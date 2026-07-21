@@ -2462,6 +2462,8 @@ def validate() -> int:
         lines += ["", "## Warnings", ""] + [f"- {item}" for item in warnings]
     lines += ["", "## Preserved legacy warning", "", f"- {report['documented_external_warning']}"]
     write_text(VALIDATION_MD, "\n".join(lines))
+    for error in errors:
+        print(f"Validation error: {error}", file=sys.stderr)
     print(f"Validation {report['result']}: {len(errors)} errors, {len(warnings)} warnings")
     return 0 if not errors else 1
 

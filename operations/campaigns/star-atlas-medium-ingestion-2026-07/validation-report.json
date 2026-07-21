@@ -66,7 +66,7 @@
   "documented_external_warning": "operations/migrations/validate_wave_1_5.py contains hard-coded legacy artifact counts and is not an additive-campaign gate.",
   "errors": [],
   "result": "PASS",
-  "validated_at": "2026-07-21T22:39:54Z",
+  "validated_at": "2026-07-21T22:48:26Z",
   "validation_content_sha256": "6d799f23eee7eebfb0939de9258c9255bdd45ef25b7360809f65ae82ae3ff874",
   "warnings": []
 }
