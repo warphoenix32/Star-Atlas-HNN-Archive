@@ -22,11 +22,11 @@ First-party release artifacts, exact dates, build/version history, migration rec
 
 ## P1 — Atlas Brew and Town Hall provenance
 
-Original URLs/video IDs, dates, complete episode ledgers, hosts/guests, speaker diarization, and replay lineage.
+Original URLs/video IDs, dates, complete episode ledgers, hosts/guests, replay lineage, and targeted speaker review for authority-dependent or adverse claims.
 
-## P1 — Official Medium dependency
+## P1 — Official Medium discovery
 
-Review and merge the separate article-level ingestion campaign before knowledge promotion; reconcile revisions and redirects.
+Resolve the 51 explicitly deferred candidates, discover articles beyond the frozen 173-article manifest, and reconcile later revisions and redirects.
 
 ## P1 — ATLAS and POLIS ledgers
 

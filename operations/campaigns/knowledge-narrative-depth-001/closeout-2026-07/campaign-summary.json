@@ -1,0 +1,60 @@
+{
+  "campaign_id": "knowledge-narrative-depth-001-closeout-2026-07",
+  "status": "COMPLETE_PENDING_PR_MERGE",
+  "as_of": "2026-07-20",
+  "baseline_pages": 80,
+  "waves": [
+    {
+      "wave": "wave-1a-economy-2026-07",
+      "page_count": 7
+    },
+    {
+      "wave": "wave-1b-governance-2026-07",
+      "page_count": 14
+    },
+    {
+      "wave": "wave-2a-products-technology-2026-07",
+      "page_count": 11
+    },
+    {
+      "wave": "wave-2b-events-timelines-2026-07",
+      "page_count": 11
+    },
+    {
+      "wave": "wave-3a-institutions-people-guilds-2026-07",
+      "page_count": 9
+    },
+    {
+      "wave": "wave-3b-media-source-histories-2026-07",
+      "page_count": 13
+    },
+    {
+      "wave": "wave-3c-indexes-registries-2026-07",
+      "page_count": 7
+    },
+    {
+      "wave": "wave-4-lore-research-root-2026-07",
+      "page_count": 8
+    }
+  ],
+  "wave_assignments": 80,
+  "duplicate_wave_assignments": [],
+  "pages_with_required_metadata": 80,
+  "pages_with_review_status": 80,
+  "knowledge_status_distribution": {
+    "CANONICAL": 17,
+    "HISTORICAL": 5,
+    "PROVISIONAL": 1,
+    "QUALIFIED": 57
+  },
+  "risk_class_distribution": {
+    "R1": 18,
+    "R2": 52,
+    "R3": 10
+  },
+  "archive_evidence_rewritten": false,
+  "semantic_evidence_rewritten": false,
+  "graph_modified": false,
+  "publication_modified": false,
+  "human_adjudication_blockers": []
+}

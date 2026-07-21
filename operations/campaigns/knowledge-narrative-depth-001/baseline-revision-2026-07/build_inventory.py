@@ -17,6 +17,7 @@ AS_OF = "2026-07-20"
 REQUIRED_METADATA = (
     "title", "knowledge_status", "as_of", "confidence", "evidence_basis",
     "known_limitations", "research_gaps", "review_after", "seo_title", "seo_description",
+    "page_risk_score", "page_risk_class",
 )
 STRUCTURED_NAMES = ("registry", "index", "ledger", "catalog", "inventory", "timeline", "map", "backlog")
 

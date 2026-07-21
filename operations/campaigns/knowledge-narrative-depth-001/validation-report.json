@@ -16,7 +16,7 @@
     {
       "check": "campaign_json",
       "result": "PASS",
-      "detail": "136 files parsed"
+      "detail": "139 files parsed"
     },
     {
       "check": "required_metadata",
@@ -36,7 +36,7 @@
     {
       "check": "internal_links",
       "result": "PASS",
-      "detail": "8 changed knowledge files checked"
+      "detail": "20 changed knowledge files checked"
     },
     {
       "check": "risk_portfolio",
@@ -61,7 +61,7 @@
     {
       "check": "campaign_scripts_compile",
       "result": "PASS",
-      "detail": "20 campaign scripts compiled"
+      "detail": "22 campaign scripts compiled"
     }
   ],
   "output_count": 17,
@@ -74,34 +74,47 @@
     "QUALIFIED": 16
   },
   "changed_paths": [
-    "knowledge/Entity-Relationship-Map.md",
     "knowledge/README.md",
     "knowledge/controversies/README.md",
-    "knowledge/lore/Canon-Registry.md",
+    "knowledge/economy/DAO-Treasury-Architecture.md",
+    "knowledge/economy/Economic-Report-Catalog.md",
+    "knowledge/economy/PVP-Voting-Power.md",
+    "knowledge/economy/README.md",
+    "knowledge/governance/Ecosystem-Fund.md",
+    "knowledge/governance/Governance-Implementation-and-Evidence-States.md",
+    "knowledge/governance/Governance-and-Economy-Overview.md",
+    "knowledge/governance/PIP-33-ATMTA-Historic-Expense-Reimbursement.md",
+    "knowledge/governance/PIP-Lifecycle-and-Legislative-Process.md",
+    "knowledge/governance/PIP-Registry.md",
+    "knowledge/governance/README.md",
+    "knowledge/governance/Star-Atlas-Council.md",
+    "knowledge/governance/Star-Atlas-DAO.md",
+    "knowledge/governance/Star-Atlas-Foundation.md",
     "knowledge/lore/README.md",
     "knowledge/research/Community-Source-Attribution-Backlog.md",
     "knowledge/research/README.md",
     "knowledge/research/Research-Backlog.md",
+    "operations/campaigns/knowledge-narrative-depth-001/baseline-revision-2026-07/build_inventory.py",
+    "operations/campaigns/knowledge-narrative-depth-001/baseline-revision-2026-07/page-inventory.json",
+    "operations/campaigns/knowledge-narrative-depth-001/baseline-revision-2026-07/page-inventory.md",
+    "operations/campaigns/knowledge-narrative-depth-001/baseline-revision-2026-07/validation-report.json",
+    "operations/campaigns/knowledge-narrative-depth-001/build_campaign.py",
     "operations/campaigns/knowledge-narrative-depth-001/campaign-summary.json",
+    "operations/campaigns/knowledge-narrative-depth-001/campaign-summary.md",
+    "operations/campaigns/knowledge-narrative-depth-001/closeout-2026-07/README.md",
+    "operations/campaigns/knowledge-narrative-depth-001/closeout-2026-07/build_closeout.py",
+    "operations/campaigns/knowledge-narrative-depth-001/closeout-2026-07/campaign-summary.json",
+    "operations/campaigns/knowledge-narrative-depth-001/closeout-2026-07/campaign-summary.md",
+    "operations/campaigns/knowledge-narrative-depth-001/closeout-2026-07/page-review-ledger.json",
+    "operations/campaigns/knowledge-narrative-depth-001/closeout-2026-07/page-review-ledger.md",
+    "operations/campaigns/knowledge-narrative-depth-001/closeout-2026-07/validate_closeout.py",
+    "operations/campaigns/knowledge-narrative-depth-001/closeout-2026-07/validation-report.json",
+    "operations/campaigns/knowledge-narrative-depth-001/closeout-2026-07/validation-report.md",
+    "operations/campaigns/knowledge-narrative-depth-001/research-backlog.json",
+    "operations/campaigns/knowledge-narrative-depth-001/research-backlog.md",
+    "operations/campaigns/knowledge-narrative-depth-001/risk-register.md",
     "operations/campaigns/knowledge-narrative-depth-001/validation-report.json",
-    "operations/campaigns/knowledge-narrative-depth-001/validation-report.md",
-    "operations/campaigns/knowledge-narrative-depth-001/wave-4-lore-research-root-2026-07/README.md",
-    "operations/campaigns/knowledge-narrative-depth-001/wave-4-lore-research-root-2026-07/build_wave.py",
-    "operations/campaigns/knowledge-narrative-depth-001/wave-4-lore-research-root-2026-07/campaign-summary.json",
-    "operations/campaigns/knowledge-narrative-depth-001/wave-4-lore-research-root-2026-07/campaign-summary.md",
-    "operations/campaigns/knowledge-narrative-depth-001/wave-4-lore-research-root-2026-07/evidence-packets/Entity-Relationship-Map.json",
-    "operations/campaigns/knowledge-narrative-depth-001/wave-4-lore-research-root-2026-07/evidence-packets/README.json",
-    "operations/campaigns/knowledge-narrative-depth-001/wave-4-lore-research-root-2026-07/evidence-packets/controversies-README.json",
-    "operations/campaigns/knowledge-narrative-depth-001/wave-4-lore-research-root-2026-07/evidence-packets/lore-Canon-Registry.json",
-    "operations/campaigns/knowledge-narrative-depth-001/wave-4-lore-research-root-2026-07/evidence-packets/lore-README.json",
-    "operations/campaigns/knowledge-narrative-depth-001/wave-4-lore-research-root-2026-07/evidence-packets/research-Community-Source-Attribution-Backlog.json",
-    "operations/campaigns/knowledge-narrative-depth-001/wave-4-lore-research-root-2026-07/evidence-packets/research-README.json",
-    "operations/campaigns/knowledge-narrative-depth-001/wave-4-lore-research-root-2026-07/evidence-packets/research-Research-Backlog.json",
-    "operations/campaigns/knowledge-narrative-depth-001/wave-4-lore-research-root-2026-07/page-inventory.json",
-    "operations/campaigns/knowledge-narrative-depth-001/wave-4-lore-research-root-2026-07/revision-ledger.json",
-    "operations/campaigns/knowledge-narrative-depth-001/wave-4-lore-research-root-2026-07/validate_wave.py",
-    "operations/campaigns/knowledge-narrative-depth-001/wave-4-lore-research-root-2026-07/validation-report.json",
-    "operations/campaigns/knowledge-narrative-depth-001/wave-4-lore-research-root-2026-07/validation-report.md"
+    "operations/campaigns/knowledge-narrative-depth-001/validation-report.md"
   ],
   "errors": [],
   "warnings": []

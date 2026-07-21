@@ -22,7 +22,7 @@
   "graph_modified": false,
   "publication_modified": false,
   "unmerged_dependencies_used": false,
-  "excluded_dependency": "PR #19 Medium ingestion remains unmerged and was not used.",
+  "excluded_dependency": null,
   "validation_result": "PASS",
   "validation_checks": 12,
   "validation_failures": 0
