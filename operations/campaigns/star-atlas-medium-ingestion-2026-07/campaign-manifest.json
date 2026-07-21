@@ -7286,16 +7286,6 @@
       "size_bytes": 5692
     },
     {
-      "path": "operations/campaigns/star-atlas-medium-ingestion-2026-07/__pycache__/medium_campaign.cpython-314.pyc",
-      "sha256": "49d59057435bcfed29194288fff8c011710bb99edb64326ce207fa2f0bc80341",
-      "size_bytes": 159717
-    },
-    {
-      "path": "operations/campaigns/star-atlas-medium-ingestion-2026-07/__pycache__/medium_gate.cpython-314.pyc",
-      "sha256": "27bc4905ebbcb3c79c5fe85723a035b351c27ba3baa15e48636d1b4de5c5e70b",
-      "size_bytes": 39027
-    },
-    {
       "path": "operations/campaigns/star-atlas-medium-ingestion-2026-07/completion-gate-report.json",
       "sha256": "394411277e19fd808a12397c714e4746d674a3436a9b5bbe36311b9ecdd2a583",
       "size_bytes": 24671
@@ -8157,8 +8147,8 @@
     },
     {
       "path": "operations/campaigns/star-atlas-medium-ingestion-2026-07/medium_campaign.py",
-      "sha256": "c9dfbcfcf7cae368d901bc2ff343d1e46b05c268e7694e9d5d53520dac537a2b",
-      "size_bytes": 113974
+      "sha256": "d7f9035a8e44cfde381577ef11a23a49f08fc685f96ffd8e95362e282c0150f7",
+      "size_bytes": 114098
     },
     {
       "path": "operations/campaigns/star-atlas-medium-ingestion-2026-07/medium_gate.py",

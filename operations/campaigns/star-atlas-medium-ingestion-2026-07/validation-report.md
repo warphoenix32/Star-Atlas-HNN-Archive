@@ -15,7 +15,7 @@
     "included": 181,
     "validated_successes": 181
   },
-  "campaign_manifest_artifacts": 1641,
+  "campaign_manifest_artifacts": 1639,
   "candidate_dispositions": {
     "invalid": 0,
     "total": 588

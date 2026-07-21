@@ -2014,7 +2014,11 @@ def campaign_artifacts() -> list[Path]:
     files: list[Path] = []
     for root in roots:
         if root.exists():
-            files.extend(path for path in root.rglob("*") if path.is_file())
+            files.extend(
+                path
+                for path in root.rglob("*")
+                if path.is_file() and path.suffix != ".pyc" and "__pycache__" not in path.parts
+            )
     excluded = {CAMPAIGN_MANIFEST.resolve(), ARCHIVE_MANIFEST.resolve(), VALIDATION_JSON.resolve(), VALIDATION_MD.resolve()}
     return sorted((path for path in files if path.resolve() not in excluded), key=rel)
 
