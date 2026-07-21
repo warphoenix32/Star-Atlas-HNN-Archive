@@ -117,8 +117,8 @@ BACKLOG = [
     ("P0", "SCORE emissions execution", "Post-April-16 confirmation, final reward transaction/block, parameter-change transaction, current UI test, and program authority."),
     ("P0", "Program deployment and security", "Deployment/upgrade transactions, authorities, versioned IDLs, program-specific audit reports, findings, remediation, and deployed hashes."),
     ("P1", "SAGE 3D and SAGE Labs V2", "First-party release artifacts, exact dates, build/version history, migration records, and feature matrix."),
-    ("P1", "Atlas Brew and Town Hall provenance", "Original URLs/video IDs, dates, complete episode ledgers, hosts/guests, speaker diarization, and replay lineage."),
-    ("P1", "Official Medium dependency", "Review and merge the separate article-level ingestion campaign before knowledge promotion; reconcile revisions and redirects."),
+    ("P1", "Atlas Brew and Town Hall provenance", "Original URLs/video IDs, dates, complete episode ledgers, hosts/guests, replay lineage, and targeted speaker review for authority-dependent or adverse claims."),
+    ("P1", "Official Medium discovery", "Resolve the 51 explicitly deferred candidates, discover articles beyond the frozen 173-article manifest, and reconcile later revisions and redirects."),
     ("P1", "ATLAS and POLIS ledgers", "Economics paper, genesis/mint transactions, vesting, emissions, burns, holders, treasury balances, and sale settlement records."),
     ("P2", "Organization and role chronology", "Corporate filings, Foundation officers, current Council roster, staff appointments/departures, and delegation instruments."),
     ("P2", "Event occurrence and results", "Complete COPA, Community Week, 426LIVE, Gamescom, Town Hall, Atlas Brew, and Joni Awards evidence chains."),
@@ -279,16 +279,16 @@ def main() -> None:
         "outputs": len(SPECS), "created": sum(s["action"] == "CREATE" for s in SPECS), "expanded": sum(s["action"] == "EXPAND" for s in SPECS),
         "corrections": len(CORRECTIONS), "risk_distribution": risk_counts, "knowledge_status_distribution": status_counts,
         "evidence_packets": len(SPECS), "archive_evidence_modified": False, "graph_modified": False, "publication_modified": False,
-        "unmerged_dependencies_used": False, "excluded_dependency": "PR #19 Medium ingestion remains unmerged and was not used.",
+        "unmerged_dependencies_used": False, "excluded_dependency": None,
     }
     write_json(HERE / "campaign-summary.json", summary)
     (HERE / "campaign-summary.md").write_text(
         f"# Campaign Summary\n\nCreated {summary['created']} pages and substantively expanded {summary['expanded']} pages across governance, economy, products, communications, technology, organizations, events, and historical interpretation. Generated {summary['evidence_packets']} evidence packets and recorded {summary['corrections']} source-driven corrections.\n\n"
-        f"Risk distribution: {risk_counts}. Knowledge status distribution: {status_counts}. No archive, graph, or publication evidence was modified. PR #19 remains an excluded unmerged dependency.\n", encoding="utf-8")
+        f"Risk distribution: {risk_counts}. Knowledge status distribution: {status_counts}. No archive, graph, or publication evidence was modified. No unmerged dependency was used.\n", encoding="utf-8")
     (HERE / "risk-register.md").write_text(
         "# Risk Register\n\n- **R3 treasury and awards:** authorization is strong; payment and outcome verification is weak.\n"
         "- **R3 periodization:** boundaries are curator synthesis and require future revision.\n"
-        "- **R3 transcript histories:** dates, URLs, speakers, and episode completeness are unresolved.\n"
+        "- **R3 transcript histories:** dates, URLs, episode completeness, and authority-dependent speaker identities are unresolved.\n"
         "- **R2 product lifecycle:** SAGE 3D is community-dated; SCORE deprecation execution is unverified.\n"
         "- **R2 technology:** documentation and decoders do not prove deployment, audits, or authority.\n", encoding="utf-8")
 

@@ -1,0 +1,20 @@
+{
+  "campaign_id": "knowledge-narrative-depth-001-closeout-2026-07",
+  "status": "PASS",
+  "checks": {
+    "deterministic_generation": true,
+    "baseline_page_count": true,
+    "unique_pages": true,
+    "wave_assignment_complete": true,
+    "eight_revision_waves": true,
+    "required_metadata_complete": true,
+    "risk_class_complete": true,
+    "review_status_complete": true,
+    "review_dates_present": true,
+    "no_adjudication_blocker": true,
+    "internal_links": true,
+    "forbidden_paths_untouched": true,
+    "git_diff_check": true
+  },
+  "errors": []
+}

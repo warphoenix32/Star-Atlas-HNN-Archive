@@ -29,12 +29,12 @@
     {
       "priority": "P1",
       "research_area": "Atlas Brew and Town Hall provenance",
-      "required_artifacts": "Original URLs/video IDs, dates, complete episode ledgers, hosts/guests, speaker diarization, and replay lineage."
+      "required_artifacts": "Original URLs/video IDs, dates, complete episode ledgers, hosts/guests, replay lineage, and targeted speaker review for authority-dependent or adverse claims."
     },
     {
       "priority": "P1",
-      "research_area": "Official Medium dependency",
-      "required_artifacts": "Review and merge the separate article-level ingestion campaign before knowledge promotion; reconcile revisions and redirects."
+      "research_area": "Official Medium discovery",
+      "required_artifacts": "Resolve the 51 explicitly deferred candidates, discover articles beyond the frozen 173-article manifest, and reconcile later revisions and redirects."
     },
     {
       "priority": "P1",

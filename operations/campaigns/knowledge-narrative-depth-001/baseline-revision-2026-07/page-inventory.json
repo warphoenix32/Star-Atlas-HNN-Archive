@@ -1,8 +1,8 @@
 {
   "action_counts": {
-    "EXPAND_AND_STANDARDIZE": 28,
+    "EXPAND_AND_STANDARDIZE": 16,
     "INDEX_REDESIGN": 15,
-    "REWRITE": 8,
+    "NARRATIVE_REVIEW_AND_REFRESH": 20,
     "STRUCTURED_REWORK": 29
   },
   "as_of": "2026-07-20",
@@ -28,27 +28,29 @@
   "pages": [
     {
       "domain": "controversies",
-      "metadata_present": [],
-      "metrics": {
-        "archive_or_operations_links": 0,
-        "current_state_mentions": 0,
-        "h2_sections": 0,
-        "inline_machine_taxonomy_markers": 0,
-        "source_id_mentions": 0,
-        "word_count": 31
-      },
-      "missing_required_metadata": [
-        "title",
-        "knowledge_status",
+      "metadata_present": [
         "as_of",
         "confidence",
         "evidence_basis",
+        "knowledge_status",
         "known_limitations",
+        "page_risk_class",
+        "page_risk_score",
         "research_gaps",
         "review_after",
+        "seo_description",
         "seo_title",
-        "seo_description"
+        "title"
       ],
+      "metrics": {
+        "archive_or_operations_links": 0,
+        "current_state_mentions": 3,
+        "h2_sections": 5,
+        "inline_machine_taxonomy_markers": 0,
+        "source_id_mentions": 0,
+        "word_count": 528
+      },
+      "missing_required_metadata": [],
       "page_id": "FD2FBECF024DA936",
       "page_kind": "DOMAIN_INDEX",
       "path": "knowledge/controversies/README.md",
@@ -76,25 +78,24 @@
         "page_risk_score",
         "research_gaps",
         "review_after",
+        "seo_description",
+        "seo_title",
         "title"
       ],
       "metrics": {
         "archive_or_operations_links": 7,
-        "current_state_mentions": 6,
-        "h2_sections": 7,
+        "current_state_mentions": 7,
+        "h2_sections": 8,
         "inline_machine_taxonomy_markers": 10,
         "source_id_mentions": 7,
-        "word_count": 641
+        "word_count": 771
       },
-      "missing_required_metadata": [
-        "seo_title",
-        "seo_description"
-      ],
+      "missing_required_metadata": [],
       "page_id": "A4CDF9D3A54A8E9B",
       "page_kind": "NARRATIVE_ARTICLE",
       "path": "knowledge/economy/ATLAS-Token-History.md",
-      "priority": "MEDIUM",
-      "recommended_action": "EXPAND_AND_STANDARDIZE",
+      "priority": "NORMAL",
+      "recommended_action": "NARRATIVE_REVIEW_AND_REFRESH",
       "review_requirements": [
         "re-open underlying evidence before changing material claims",
         "preserve lifecycle and authority distinctions",
@@ -122,6 +123,8 @@
         "related_entities",
         "research_gaps",
         "review_after",
+        "seo_description",
+        "seo_title",
         "source_priority",
         "superseded_by",
         "supersedes",
@@ -129,21 +132,18 @@
       ],
       "metrics": {
         "archive_or_operations_links": 8,
-        "current_state_mentions": 5,
-        "h2_sections": 7,
+        "current_state_mentions": 6,
+        "h2_sections": 10,
         "inline_machine_taxonomy_markers": 1,
         "source_id_mentions": 5,
-        "word_count": 1064
+        "word_count": 1287
       },
-      "missing_required_metadata": [
-        "seo_title",
-        "seo_description"
-      ],
+      "missing_required_metadata": [],
       "page_id": "AA6ECB4B6A78DAF1",
       "page_kind": "NARRATIVE_ARTICLE",
       "path": "knowledge/economy/DAO-Treasury-Architecture.md",
-      "priority": "MEDIUM",
-      "recommended_action": "EXPAND_AND_STANDARDIZE",
+      "priority": "NORMAL",
+      "recommended_action": "NARRATIVE_REVIEW_AND_REFRESH",
       "review_requirements": [
         "re-open underlying evidence before changing material claims",
         "preserve lifecycle and authority distinctions",
@@ -155,35 +155,32 @@
     {
       "domain": "economy",
       "metadata_present": [
-        "entry_type",
-        "publication_status",
-        "status",
-        "title",
-        "updated"
-      ],
-      "metrics": {
-        "archive_or_operations_links": 2,
-        "current_state_mentions": 3,
-        "h2_sections": 6,
-        "inline_machine_taxonomy_markers": 0,
-        "source_id_mentions": 2,
-        "word_count": 512
-      },
-      "missing_required_metadata": [
-        "knowledge_status",
         "as_of",
         "confidence",
         "evidence_basis",
+        "knowledge_status",
         "known_limitations",
+        "page_risk_class",
+        "page_risk_score",
         "research_gaps",
         "review_after",
+        "seo_description",
         "seo_title",
-        "seo_description"
+        "title"
       ],
+      "metrics": {
+        "archive_or_operations_links": 2,
+        "current_state_mentions": 4,
+        "h2_sections": 9,
+        "inline_machine_taxonomy_markers": 0,
+        "source_id_mentions": 2,
+        "word_count": 788
+      },
+      "missing_required_metadata": [],
       "page_id": "29BF0CBCF7E8D9E2",
       "page_kind": "STRUCTURED_REFERENCE",
       "path": "knowledge/economy/Economic-Report-Catalog.md",
-      "priority": "MEDIUM",
+      "priority": "NORMAL",
       "recommended_action": "STRUCTURED_REWORK",
       "review_requirements": [
         "re-open underlying evidence before changing material claims",
@@ -207,24 +204,23 @@
         "page_risk_score",
         "research_gaps",
         "review_after",
+        "seo_description",
+        "seo_title",
         "title"
       ],
       "metrics": {
         "archive_or_operations_links": 8,
-        "current_state_mentions": 5,
-        "h2_sections": 7,
+        "current_state_mentions": 6,
+        "h2_sections": 8,
         "inline_machine_taxonomy_markers": 8,
         "source_id_mentions": 8,
-        "word_count": 533
+        "word_count": 648
       },
-      "missing_required_metadata": [
-        "seo_title",
-        "seo_description"
-      ],
+      "missing_required_metadata": [],
       "page_id": "02CD9279AABAB20C",
       "page_kind": "NARRATIVE_ARTICLE",
       "path": "knowledge/economy/POLIS-Token-History.md",
-      "priority": "MEDIUM",
+      "priority": "NORMAL",
       "recommended_action": "EXPAND_AND_STANDARDIZE",
       "review_requirements": [
         "re-open underlying evidence before changing material claims",
@@ -254,28 +250,27 @@
         "related_entities",
         "research_gaps",
         "review_after",
+        "seo_description",
+        "seo_title",
         "source_priority",
         "superseded_by",
         "supersedes",
         "title"
       ],
       "metrics": {
-        "archive_or_operations_links": 5,
-        "current_state_mentions": 3,
-        "h2_sections": 5,
+        "archive_or_operations_links": 6,
+        "current_state_mentions": 4,
+        "h2_sections": 6,
         "inline_machine_taxonomy_markers": 1,
-        "source_id_mentions": 4,
-        "word_count": 769
+        "source_id_mentions": 5,
+        "word_count": 939
       },
-      "missing_required_metadata": [
-        "seo_title",
-        "seo_description"
-      ],
+      "missing_required_metadata": [],
       "page_id": "5E47F19DA8DB629F",
       "page_kind": "NARRATIVE_ARTICLE",
       "path": "knowledge/economy/PVP-Voting-Power.md",
-      "priority": "MEDIUM",
-      "recommended_action": "EXPAND_AND_STANDARDIZE",
+      "priority": "NORMAL",
+      "recommended_action": "NARRATIVE_REVIEW_AND_REFRESH",
       "review_requirements": [
         "re-open underlying evidence before changing material claims",
         "preserve lifecycle and authority distinctions",
@@ -286,27 +281,29 @@
     },
     {
       "domain": "economy",
-      "metadata_present": [],
-      "metrics": {
-        "archive_or_operations_links": 0,
-        "current_state_mentions": 0,
-        "h2_sections": 0,
-        "inline_machine_taxonomy_markers": 0,
-        "source_id_mentions": 0,
-        "word_count": 77
-      },
-      "missing_required_metadata": [
-        "title",
-        "knowledge_status",
+      "metadata_present": [
         "as_of",
         "confidence",
         "evidence_basis",
+        "knowledge_status",
         "known_limitations",
+        "page_risk_class",
+        "page_risk_score",
         "research_gaps",
         "review_after",
+        "seo_description",
         "seo_title",
-        "seo_description"
+        "title"
       ],
+      "metrics": {
+        "archive_or_operations_links": 0,
+        "current_state_mentions": 5,
+        "h2_sections": 7,
+        "inline_machine_taxonomy_markers": 0,
+        "source_id_mentions": 2,
+        "word_count": 703
+      },
+      "missing_required_metadata": [],
       "page_id": "A7C6F1A2230D3CAC",
       "page_kind": "DOMAIN_INDEX",
       "path": "knowledge/economy/README.md",
@@ -332,20 +329,19 @@
         "page_risk_score",
         "research_gaps",
         "review_after",
+        "seo_description",
+        "seo_title",
         "title"
       ],
       "metrics": {
-        "archive_or_operations_links": 18,
+        "archive_or_operations_links": 19,
         "current_state_mentions": 2,
-        "h2_sections": 9,
-        "inline_machine_taxonomy_markers": 29,
-        "source_id_mentions": 18,
-        "word_count": 1000
+        "h2_sections": 10,
+        "inline_machine_taxonomy_markers": 30,
+        "source_id_mentions": 19,
+        "word_count": 1221
       },
-      "missing_required_metadata": [
-        "seo_title",
-        "seo_description"
-      ],
+      "missing_required_metadata": [],
       "page_id": "CF1BD022E898E4CC",
       "page_kind": "STRUCTURED_REFERENCE",
       "path": "knowledge/economy/Treasury-Authorization-and-Payment-Ledger.md",
@@ -377,6 +373,8 @@
         "related_entities",
         "research_gaps",
         "review_after",
+        "seo_description",
+        "seo_title",
         "source_priority",
         "superseded_by",
         "supersedes",
@@ -385,19 +383,16 @@
       "metrics": {
         "archive_or_operations_links": 0,
         "current_state_mentions": 0,
-        "h2_sections": 8,
+        "h2_sections": 9,
         "inline_machine_taxonomy_markers": 0,
         "source_id_mentions": 0,
-        "word_count": 720
+        "word_count": 777
       },
-      "missing_required_metadata": [
-        "seo_title",
-        "seo_description"
-      ],
+      "missing_required_metadata": [],
       "page_id": "C1CA3AC83A53F835",
       "page_kind": "STRUCTURED_REFERENCE",
       "path": "knowledge/Entity-Relationship-Map.md",
-      "priority": "MEDIUM",
+      "priority": "NORMAL",
       "recommended_action": "STRUCTURED_REWORK",
       "review_requirements": [
         "re-open underlying evidence before changing material claims",
@@ -419,6 +414,8 @@
         "page_risk_score",
         "research_gaps",
         "review_after",
+        "seo_description",
+        "seo_title",
         "title"
       ],
       "metrics": {
@@ -427,16 +424,13 @@
         "h2_sections": 5,
         "inline_machine_taxonomy_markers": 6,
         "source_id_mentions": 7,
-        "word_count": 371
+        "word_count": 401
       },
-      "missing_required_metadata": [
-        "seo_title",
-        "seo_description"
-      ],
+      "missing_required_metadata": [],
       "page_id": "236C89C5E44E7989",
       "page_kind": "STRUCTURED_REFERENCE",
       "path": "knowledge/events/Event-Evidence-Registry.md",
-      "priority": "MEDIUM",
+      "priority": "NORMAL",
       "recommended_action": "STRUCTURED_REWORK",
       "review_requirements": [
         "re-open underlying evidence before changing material claims",
@@ -448,27 +442,29 @@
     },
     {
       "domain": "events",
-      "metadata_present": [],
-      "metrics": {
-        "archive_or_operations_links": 0,
-        "current_state_mentions": 1,
-        "h2_sections": 0,
-        "inline_machine_taxonomy_markers": 0,
-        "source_id_mentions": 0,
-        "word_count": 51
-      },
-      "missing_required_metadata": [
-        "title",
-        "knowledge_status",
+      "metadata_present": [
         "as_of",
         "confidence",
         "evidence_basis",
+        "knowledge_status",
         "known_limitations",
+        "page_risk_class",
+        "page_risk_score",
         "research_gaps",
         "review_after",
+        "seo_description",
         "seo_title",
-        "seo_description"
+        "title"
       ],
+      "metrics": {
+        "archive_or_operations_links": 0,
+        "current_state_mentions": 1,
+        "h2_sections": 4,
+        "inline_machine_taxonomy_markers": 1,
+        "source_id_mentions": 0,
+        "word_count": 169
+      },
+      "missing_required_metadata": [],
       "page_id": "6D8926866115BA2E",
       "page_kind": "DOMAIN_INDEX",
       "path": "knowledge/events/README.md",
@@ -485,7 +481,9 @@
     {
       "domain": "gameplay",
       "metadata_present": [
+        "aliases",
         "as_of",
+        "canonical_entity",
         "confidence",
         "evidence_basis",
         "knowledge_status",
@@ -494,25 +492,24 @@
         "page_risk_score",
         "research_gaps",
         "review_after",
+        "seo_description",
+        "seo_title",
         "title"
       ],
       "metrics": {
-        "archive_or_operations_links": 0,
-        "current_state_mentions": 4,
-        "h2_sections": 4,
-        "inline_machine_taxonomy_markers": 0,
-        "source_id_mentions": 0,
-        "word_count": 194
+        "archive_or_operations_links": 4,
+        "current_state_mentions": 12,
+        "h2_sections": 7,
+        "inline_machine_taxonomy_markers": 6,
+        "source_id_mentions": 4,
+        "word_count": 719
       },
-      "missing_required_metadata": [
-        "seo_title",
-        "seo_description"
-      ],
+      "missing_required_metadata": [],
       "page_id": "0DB77D1CD40A0F90",
       "page_kind": "NARRATIVE_ARTICLE",
       "path": "knowledge/gameplay/Galactic-Marketplace.md",
-      "priority": "HIGH",
-      "recommended_action": "REWRITE",
+      "priority": "NORMAL",
+      "recommended_action": "NARRATIVE_REVIEW_AND_REFRESH",
       "review_requirements": [
         "re-open underlying evidence before changing material claims",
         "preserve lifecycle and authority distinctions",
@@ -539,6 +536,8 @@
         "related_entities",
         "research_gaps",
         "review_after",
+        "seo_description",
+        "seo_title",
         "source_priority",
         "superseded_by",
         "supersedes",
@@ -552,15 +551,12 @@
         "source_id_mentions": 22,
         "word_count": 1195
       },
-      "missing_required_metadata": [
-        "seo_title",
-        "seo_description"
-      ],
+      "missing_required_metadata": [],
       "page_id": "816B37143ADE9695",
       "page_kind": "NARRATIVE_ARTICLE",
       "path": "knowledge/gameplay/Holosim.md",
-      "priority": "MEDIUM",
-      "recommended_action": "EXPAND_AND_STANDARDIZE",
+      "priority": "NORMAL",
+      "recommended_action": "NARRATIVE_REVIEW_AND_REFRESH",
       "review_requirements": [
         "re-open underlying evidence before changing material claims",
         "preserve lifecycle and authority distinctions",
@@ -572,35 +568,32 @@
     {
       "domain": "gameplay",
       "metadata_present": [
-        "entry_type",
-        "publication_status",
-        "status",
-        "title",
-        "updated"
+        "as_of",
+        "confidence",
+        "evidence_basis",
+        "knowledge_status",
+        "known_limitations",
+        "page_risk_class",
+        "page_risk_score",
+        "research_gaps",
+        "review_after",
+        "seo_description",
+        "seo_title",
+        "title"
       ],
       "metrics": {
         "archive_or_operations_links": 0,
         "current_state_mentions": 5,
-        "h2_sections": 6,
-        "inline_machine_taxonomy_markers": 0,
-        "source_id_mentions": 1,
-        "word_count": 406
+        "h2_sections": 8,
+        "inline_machine_taxonomy_markers": 1,
+        "source_id_mentions": 0,
+        "word_count": 513
       },
-      "missing_required_metadata": [
-        "knowledge_status",
-        "as_of",
-        "confidence",
-        "evidence_basis",
-        "known_limitations",
-        "research_gaps",
-        "review_after",
-        "seo_title",
-        "seo_description"
-      ],
+      "missing_required_metadata": [],
       "page_id": "96A8EB2FDF70A86A",
       "page_kind": "NARRATIVE_ARTICLE",
       "path": "knowledge/gameplay/Official-Current-State-Snapshot-2026-07-12.md",
-      "priority": "MEDIUM",
+      "priority": "NORMAL",
       "recommended_action": "EXPAND_AND_STANDARDIZE",
       "review_requirements": [
         "re-open underlying evidence before changing material claims",
@@ -622,20 +615,19 @@
         "page_risk_score",
         "research_gaps",
         "review_after",
+        "seo_description",
+        "seo_title",
         "title"
       ],
       "metrics": {
         "archive_or_operations_links": 2,
         "current_state_mentions": 19,
-        "h2_sections": 6,
-        "inline_machine_taxonomy_markers": 24,
+        "h2_sections": 7,
+        "inline_machine_taxonomy_markers": 25,
         "source_id_mentions": 6,
-        "word_count": 977
+        "word_count": 1009
       },
-      "missing_required_metadata": [
-        "seo_title",
-        "seo_description"
-      ],
+      "missing_required_metadata": [],
       "page_id": "72347DD6F7CC1802",
       "page_kind": "STRUCTURED_REFERENCE",
       "path": "knowledge/gameplay/Product-Registry.md",
@@ -661,20 +653,19 @@
         "page_risk_score",
         "research_gaps",
         "review_after",
+        "seo_description",
+        "seo_title",
         "title"
       ],
       "metrics": {
         "archive_or_operations_links": 0,
-        "current_state_mentions": 3,
-        "h2_sections": 2,
-        "inline_machine_taxonomy_markers": 0,
+        "current_state_mentions": 4,
+        "h2_sections": 5,
+        "inline_machine_taxonomy_markers": 1,
         "source_id_mentions": 0,
-        "word_count": 101
+        "word_count": 444
       },
-      "missing_required_metadata": [
-        "seo_title",
-        "seo_description"
-      ],
+      "missing_required_metadata": [],
       "page_id": "872FFDEE06DA7747",
       "page_kind": "DOMAIN_INDEX",
       "path": "knowledge/gameplay/README.md",
@@ -706,21 +697,20 @@
         "related_products",
         "research_gaps",
         "review_after",
+        "seo_description",
+        "seo_title",
         "source_priority",
         "title"
       ],
       "metrics": {
         "archive_or_operations_links": 10,
-        "current_state_mentions": 9,
-        "h2_sections": 9,
-        "inline_machine_taxonomy_markers": 14,
+        "current_state_mentions": 10,
+        "h2_sections": 10,
+        "inline_machine_taxonomy_markers": 15,
         "source_id_mentions": 15,
-        "word_count": 1384
+        "word_count": 1420
       },
-      "missing_required_metadata": [
-        "seo_title",
-        "seo_description"
-      ],
+      "missing_required_metadata": [],
       "page_id": "C6742C0E159BCD35",
       "page_kind": "NARRATIVE_ARTICLE",
       "path": "knowledge/gameplay/SAGE.md",
@@ -746,6 +736,8 @@
         "page_risk_score",
         "research_gaps",
         "review_after",
+        "seo_description",
+        "seo_title",
         "title"
       ],
       "metrics": {
@@ -756,14 +748,11 @@
         "source_id_mentions": 9,
         "word_count": 579
       },
-      "missing_required_metadata": [
-        "seo_title",
-        "seo_description"
-      ],
+      "missing_required_metadata": [],
       "page_id": "7240E93AB37FD5CF",
       "page_kind": "NARRATIVE_ARTICLE",
       "path": "knowledge/gameplay/SCORE-and-Faction-Fleet.md",
-      "priority": "MEDIUM",
+      "priority": "NORMAL",
       "recommended_action": "EXPAND_AND_STANDARDIZE",
       "review_requirements": [
         "re-open underlying evidence before changing material claims",
@@ -776,7 +765,9 @@
     {
       "domain": "gameplay",
       "metadata_present": [
+        "aliases",
         "as_of",
+        "canonical_entity",
         "confidence",
         "evidence_basis",
         "knowledge_status",
@@ -785,25 +776,24 @@
         "page_risk_score",
         "research_gaps",
         "review_after",
+        "seo_description",
+        "seo_title",
         "title"
       ],
       "metrics": {
-        "archive_or_operations_links": 2,
-        "current_state_mentions": 7,
-        "h2_sections": 4,
-        "inline_machine_taxonomy_markers": 0,
-        "source_id_mentions": 0,
-        "word_count": 218
+        "archive_or_operations_links": 5,
+        "current_state_mentions": 11,
+        "h2_sections": 9,
+        "inline_machine_taxonomy_markers": 5,
+        "source_id_mentions": 4,
+        "word_count": 802
       },
-      "missing_required_metadata": [
-        "seo_title",
-        "seo_description"
-      ],
+      "missing_required_metadata": [],
       "page_id": "10C9276E8826BB0B",
       "page_kind": "NARRATIVE_ARTICLE",
       "path": "knowledge/gameplay/UE5-Showroom.md",
-      "priority": "HIGH",
-      "recommended_action": "REWRITE",
+      "priority": "NORMAL",
+      "recommended_action": "NARRATIVE_REVIEW_AND_REFRESH",
       "review_requirements": [
         "re-open underlying evidence before changing material claims",
         "preserve lifecycle and authority distinctions",
@@ -824,6 +814,8 @@
         "page_risk_score",
         "research_gaps",
         "review_after",
+        "seo_description",
+        "seo_title",
         "title"
       ],
       "metrics": {
@@ -832,16 +824,13 @@
         "h2_sections": 7,
         "inline_machine_taxonomy_markers": 1,
         "source_id_mentions": 7,
-        "word_count": 520
+        "word_count": 635
       },
-      "missing_required_metadata": [
-        "seo_title",
-        "seo_description"
-      ],
+      "missing_required_metadata": [],
       "page_id": "64CEC89C97D2B9E8",
       "page_kind": "NARRATIVE_ARTICLE",
       "path": "knowledge/governance/Council-Election-History.md",
-      "priority": "MEDIUM",
+      "priority": "NORMAL",
       "recommended_action": "EXPAND_AND_STANDARDIZE",
       "review_requirements": [
         "re-open underlying evidence before changing material claims",
@@ -863,6 +852,8 @@
         "page_risk_score",
         "research_gaps",
         "review_after",
+        "seo_description",
+        "seo_title",
         "title"
       ],
       "metrics": {
@@ -871,12 +862,9 @@
         "h2_sections": 7,
         "inline_machine_taxonomy_markers": 17,
         "source_id_mentions": 20,
-        "word_count": 671
+        "word_count": 753
       },
-      "missing_required_metadata": [
-        "seo_title",
-        "seo_description"
-      ],
+      "missing_required_metadata": [],
       "page_id": "3F01198435D0418D",
       "page_kind": "NARRATIVE_ARTICLE",
       "path": "knowledge/governance/Ecosystem-Fund-Award-History.md",
@@ -902,25 +890,24 @@
         "page_risk_score",
         "research_gaps",
         "review_after",
+        "seo_description",
+        "seo_title",
         "title"
       ],
       "metrics": {
         "archive_or_operations_links": 5,
         "current_state_mentions": 4,
-        "h2_sections": 8,
+        "h2_sections": 9,
         "inline_machine_taxonomy_markers": 0,
         "source_id_mentions": 3,
-        "word_count": 940
+        "word_count": 1027
       },
-      "missing_required_metadata": [
-        "seo_title",
-        "seo_description"
-      ],
+      "missing_required_metadata": [],
       "page_id": "5ABF537880D6D1CC",
       "page_kind": "NARRATIVE_ARTICLE",
       "path": "knowledge/governance/Ecosystem-Fund.md",
-      "priority": "MEDIUM",
-      "recommended_action": "EXPAND_AND_STANDARDIZE",
+      "priority": "NORMAL",
+      "recommended_action": "NARRATIVE_REVIEW_AND_REFRESH",
       "review_requirements": [
         "re-open underlying evidence before changing material claims",
         "preserve lifecycle and authority distinctions",
@@ -941,25 +928,24 @@
         "page_risk_score",
         "research_gaps",
         "review_after",
+        "seo_description",
+        "seo_title",
         "title"
       ],
       "metrics": {
         "archive_or_operations_links": 1,
         "current_state_mentions": 6,
-        "h2_sections": 7,
+        "h2_sections": 8,
         "inline_machine_taxonomy_markers": 1,
         "source_id_mentions": 0,
-        "word_count": 824
+        "word_count": 906
       },
-      "missing_required_metadata": [
-        "seo_title",
-        "seo_description"
-      ],
+      "missing_required_metadata": [],
       "page_id": "CC631874A3B5B4E4",
       "page_kind": "NARRATIVE_ARTICLE",
       "path": "knowledge/governance/Governance-and-Economy-Overview.md",
-      "priority": "MEDIUM",
-      "recommended_action": "EXPAND_AND_STANDARDIZE",
+      "priority": "NORMAL",
+      "recommended_action": "NARRATIVE_REVIEW_AND_REFRESH",
       "review_requirements": [
         "re-open underlying evidence before changing material claims",
         "preserve lifecycle and authority distinctions",
@@ -980,6 +966,8 @@
         "page_risk_score",
         "research_gaps",
         "review_after",
+        "seo_description",
+        "seo_title",
         "title"
       ],
       "metrics": {
@@ -988,17 +976,14 @@
         "h2_sections": 7,
         "inline_machine_taxonomy_markers": 5,
         "source_id_mentions": 12,
-        "word_count": 938
+        "word_count": 988
       },
-      "missing_required_metadata": [
-        "seo_title",
-        "seo_description"
-      ],
+      "missing_required_metadata": [],
       "page_id": "FCAE9495BA587679",
       "page_kind": "NARRATIVE_ARTICLE",
       "path": "knowledge/governance/Governance-Constitutional-History.md",
-      "priority": "MEDIUM",
-      "recommended_action": "EXPAND_AND_STANDARDIZE",
+      "priority": "NORMAL",
+      "recommended_action": "NARRATIVE_REVIEW_AND_REFRESH",
       "review_requirements": [
         "re-open underlying evidence before changing material claims",
         "preserve lifecycle and authority distinctions",
@@ -1019,6 +1004,8 @@
         "page_risk_score",
         "research_gaps",
         "review_after",
+        "seo_description",
+        "seo_title",
         "title"
       ],
       "metrics": {
@@ -1027,12 +1014,9 @@
         "h2_sections": 7,
         "inline_machine_taxonomy_markers": 13,
         "source_id_mentions": 7,
-        "word_count": 585
+        "word_count": 624
       },
-      "missing_required_metadata": [
-        "seo_title",
-        "seo_description"
-      ],
+      "missing_required_metadata": [],
       "page_id": "33A8E4E2F6479726",
       "page_kind": "NARRATIVE_ARTICLE",
       "path": "knowledge/governance/Governance-Failure-and-Termination-Casebook.md",
@@ -1058,25 +1042,24 @@
         "page_risk_score",
         "research_gaps",
         "review_after",
+        "seo_description",
+        "seo_title",
         "title"
       ],
       "metrics": {
-        "archive_or_operations_links": 1,
-        "current_state_mentions": 0,
-        "h2_sections": 4,
-        "inline_machine_taxonomy_markers": 0,
+        "archive_or_operations_links": 0,
+        "current_state_mentions": 1,
+        "h2_sections": 7,
+        "inline_machine_taxonomy_markers": 19,
         "source_id_mentions": 0,
-        "word_count": 241
+        "word_count": 712
       },
-      "missing_required_metadata": [
-        "seo_title",
-        "seo_description"
-      ],
+      "missing_required_metadata": [],
       "page_id": "A9255A499F680AE9",
       "page_kind": "NARRATIVE_ARTICLE",
       "path": "knowledge/governance/Governance-Implementation-and-Evidence-States.md",
-      "priority": "HIGH",
-      "recommended_action": "REWRITE",
+      "priority": "MEDIUM",
+      "recommended_action": "EXPAND_AND_STANDARDIZE",
       "review_requirements": [
         "re-open underlying evidence before changing material claims",
         "preserve lifecycle and authority distinctions",
@@ -1103,28 +1086,27 @@
         "related_entities",
         "research_gaps",
         "review_after",
+        "seo_description",
+        "seo_title",
         "source_priority",
         "superseded_by",
         "supersedes",
         "title"
       ],
       "metrics": {
-        "archive_or_operations_links": 3,
+        "archive_or_operations_links": 4,
         "current_state_mentions": 2,
-        "h2_sections": 7,
-        "inline_machine_taxonomy_markers": 4,
-        "source_id_mentions": 2,
-        "word_count": 1054
+        "h2_sections": 8,
+        "inline_machine_taxonomy_markers": 5,
+        "source_id_mentions": 3,
+        "word_count": 1173
       },
-      "missing_required_metadata": [
-        "seo_title",
-        "seo_description"
-      ],
+      "missing_required_metadata": [],
       "page_id": "D6E66AA855BC03CB",
       "page_kind": "NARRATIVE_ARTICLE",
       "path": "knowledge/governance/PIP-33-ATMTA-Historic-Expense-Reimbursement.md",
-      "priority": "MEDIUM",
-      "recommended_action": "EXPAND_AND_STANDARDIZE",
+      "priority": "NORMAL",
+      "recommended_action": "NARRATIVE_REVIEW_AND_REFRESH",
       "review_requirements": [
         "re-open underlying evidence before changing material claims",
         "preserve lifecycle and authority distinctions",
@@ -1145,25 +1127,24 @@
         "page_risk_score",
         "research_gaps",
         "review_after",
+        "seo_description",
+        "seo_title",
         "title"
       ],
       "metrics": {
-        "archive_or_operations_links": 2,
+        "archive_or_operations_links": 1,
         "current_state_mentions": 0,
-        "h2_sections": 4,
+        "h2_sections": 6,
         "inline_machine_taxonomy_markers": 0,
         "source_id_mentions": 1,
-        "word_count": 259
+        "word_count": 656
       },
-      "missing_required_metadata": [
-        "seo_title",
-        "seo_description"
-      ],
+      "missing_required_metadata": [],
       "page_id": "06EEAD006472301D",
       "page_kind": "NARRATIVE_ARTICLE",
       "path": "knowledge/governance/PIP-Lifecycle-and-Legislative-Process.md",
-      "priority": "MEDIUM",
-      "recommended_action": "EXPAND_AND_STANDARDIZE",
+      "priority": "NORMAL",
+      "recommended_action": "NARRATIVE_REVIEW_AND_REFRESH",
       "review_requirements": [
         "re-open underlying evidence before changing material claims",
         "preserve lifecycle and authority distinctions",
@@ -1186,20 +1167,19 @@
         "research_gaps",
         "review_after",
         "review_status",
+        "seo_description",
+        "seo_title",
         "title"
       ],
       "metrics": {
-        "archive_or_operations_links": 51,
+        "archive_or_operations_links": 52,
         "current_state_mentions": 0,
         "h2_sections": 8,
-        "inline_machine_taxonomy_markers": 29,
-        "source_id_mentions": 6,
-        "word_count": 4498
+        "inline_machine_taxonomy_markers": 30,
+        "source_id_mentions": 7,
+        "word_count": 4616
       },
-      "missing_required_metadata": [
-        "seo_title",
-        "seo_description"
-      ],
+      "missing_required_metadata": [],
       "page_id": "1F291D0037138580",
       "page_kind": "STRUCTURED_REFERENCE",
       "path": "knowledge/governance/PIP-Registry.md",
@@ -1225,20 +1205,19 @@
         "page_risk_score",
         "research_gaps",
         "review_after",
+        "seo_description",
+        "seo_title",
         "title"
       ],
       "metrics": {
         "archive_or_operations_links": 0,
         "current_state_mentions": 1,
-        "h2_sections": 2,
+        "h2_sections": 6,
         "inline_machine_taxonomy_markers": 0,
         "source_id_mentions": 0,
-        "word_count": 242
+        "word_count": 630
       },
-      "missing_required_metadata": [
-        "seo_title",
-        "seo_description"
-      ],
+      "missing_required_metadata": [],
       "page_id": "D9843FA939B55FDD",
       "page_kind": "DOMAIN_INDEX",
       "path": "knowledge/governance/README.md",
@@ -1264,63 +1243,23 @@
         "page_risk_score",
         "research_gaps",
         "review_after",
+        "seo_description",
+        "seo_title",
         "title"
       ],
       "metrics": {
-        "archive_or_operations_links": 3,
+        "archive_or_operations_links": 1,
         "current_state_mentions": 3,
-        "h2_sections": 4,
+        "h2_sections": 6,
         "inline_machine_taxonomy_markers": 0,
         "source_id_mentions": 1,
-        "word_count": 224
+        "word_count": 611
       },
-      "missing_required_metadata": [
-        "seo_title",
-        "seo_description"
-      ],
+      "missing_required_metadata": [],
       "page_id": "BB30EA4FDBA12718",
       "page_kind": "NARRATIVE_ARTICLE",
       "path": "knowledge/governance/Star-Atlas-Council.md",
-      "priority": "HIGH",
-      "recommended_action": "REWRITE",
-      "review_requirements": [
-        "re-open underlying evidence before changing material claims",
-        "preserve lifecycle and authority distinctions",
-        "consolidate reader-facing taxonomy",
-        "validate links, dates, limitations, and research gaps"
-      ],
-      "revision_wave": 1
-    },
-    {
-      "domain": "governance",
-      "metadata_present": [
-        "as_of",
-        "confidence",
-        "evidence_basis",
-        "knowledge_status",
-        "known_limitations",
-        "page_risk_class",
-        "page_risk_score",
-        "research_gaps",
-        "review_after",
-        "title"
-      ],
-      "metrics": {
-        "archive_or_operations_links": 3,
-        "current_state_mentions": 2,
-        "h2_sections": 4,
-        "inline_machine_taxonomy_markers": 0,
-        "source_id_mentions": 1,
-        "word_count": 267
-      },
-      "missing_required_metadata": [
-        "seo_title",
-        "seo_description"
-      ],
-      "page_id": "E26C1F5B4EE5A74E",
-      "page_kind": "NARRATIVE_ARTICLE",
-      "path": "knowledge/governance/Star-Atlas-DAO.md",
-      "priority": "MEDIUM",
+      "priority": "NORMAL",
       "recommended_action": "EXPAND_AND_STANDARDIZE",
       "review_requirements": [
         "re-open underlying evidence before changing material claims",
@@ -1342,25 +1281,62 @@
         "page_risk_score",
         "research_gaps",
         "review_after",
+        "seo_description",
+        "seo_title",
         "title"
       ],
       "metrics": {
-        "archive_or_operations_links": 4,
-        "current_state_mentions": 2,
-        "h2_sections": 4,
+        "archive_or_operations_links": 1,
+        "current_state_mentions": 3,
+        "h2_sections": 6,
+        "inline_machine_taxonomy_markers": 0,
+        "source_id_mentions": 1,
+        "word_count": 695
+      },
+      "missing_required_metadata": [],
+      "page_id": "E26C1F5B4EE5A74E",
+      "page_kind": "NARRATIVE_ARTICLE",
+      "path": "knowledge/governance/Star-Atlas-DAO.md",
+      "priority": "NORMAL",
+      "recommended_action": "NARRATIVE_REVIEW_AND_REFRESH",
+      "review_requirements": [
+        "re-open underlying evidence before changing material claims",
+        "preserve lifecycle and authority distinctions",
+        "consolidate reader-facing taxonomy",
+        "validate links, dates, limitations, and research gaps"
+      ],
+      "revision_wave": 1
+    },
+    {
+      "domain": "governance",
+      "metadata_present": [
+        "as_of",
+        "confidence",
+        "evidence_basis",
+        "knowledge_status",
+        "known_limitations",
+        "page_risk_class",
+        "page_risk_score",
+        "research_gaps",
+        "review_after",
+        "seo_description",
+        "seo_title",
+        "title"
+      ],
+      "metrics": {
+        "archive_or_operations_links": 2,
+        "current_state_mentions": 4,
+        "h2_sections": 7,
         "inline_machine_taxonomy_markers": 0,
         "source_id_mentions": 2,
-        "word_count": 232
+        "word_count": 639
       },
-      "missing_required_metadata": [
-        "seo_title",
-        "seo_description"
-      ],
+      "missing_required_metadata": [],
       "page_id": "E4E8F747A5844A74",
       "page_kind": "NARRATIVE_ARTICLE",
       "path": "knowledge/governance/Star-Atlas-Foundation.md",
-      "priority": "HIGH",
-      "recommended_action": "REWRITE",
+      "priority": "NORMAL",
+      "recommended_action": "EXPAND_AND_STANDARDIZE",
       "review_requirements": [
         "re-open underlying evidence before changing material claims",
         "preserve lifecycle and authority distinctions",
@@ -1372,35 +1348,32 @@
     {
       "domain": "guilds",
       "metadata_present": [
-        "entry_type",
-        "publication_status",
-        "status",
-        "title",
-        "updated"
+        "as_of",
+        "confidence",
+        "evidence_basis",
+        "knowledge_status",
+        "known_limitations",
+        "page_risk_class",
+        "page_risk_score",
+        "research_gaps",
+        "review_after",
+        "seo_description",
+        "seo_title",
+        "title"
       ],
       "metrics": {
         "archive_or_operations_links": 0,
         "current_state_mentions": 4,
-        "h2_sections": 7,
-        "inline_machine_taxonomy_markers": 0,
+        "h2_sections": 8,
+        "inline_machine_taxonomy_markers": 1,
         "source_id_mentions": 0,
-        "word_count": 575
+        "word_count": 699
       },
-      "missing_required_metadata": [
-        "knowledge_status",
-        "as_of",
-        "confidence",
-        "evidence_basis",
-        "known_limitations",
-        "research_gaps",
-        "review_after",
-        "seo_title",
-        "seo_description"
-      ],
+      "missing_required_metadata": [],
       "page_id": "BB110A51AF464872",
       "page_kind": "STRUCTURED_REFERENCE",
       "path": "knowledge/guilds/Guild-Master-Index.md",
-      "priority": "MEDIUM",
+      "priority": "NORMAL",
       "recommended_action": "STRUCTURED_REWORK",
       "review_requirements": [
         "re-open underlying evidence before changing material claims",
@@ -1412,27 +1385,29 @@
     },
     {
       "domain": "guilds",
-      "metadata_present": [],
-      "metrics": {
-        "archive_or_operations_links": 0,
-        "current_state_mentions": 0,
-        "h2_sections": 0,
-        "inline_machine_taxonomy_markers": 0,
-        "source_id_mentions": 0,
-        "word_count": 16
-      },
-      "missing_required_metadata": [
-        "title",
-        "knowledge_status",
+      "metadata_present": [
         "as_of",
         "confidence",
         "evidence_basis",
+        "knowledge_status",
         "known_limitations",
+        "page_risk_class",
+        "page_risk_score",
         "research_gaps",
         "review_after",
+        "seo_description",
         "seo_title",
-        "seo_description"
+        "title"
       ],
+      "metrics": {
+        "archive_or_operations_links": 0,
+        "current_state_mentions": 1,
+        "h2_sections": 2,
+        "inline_machine_taxonomy_markers": 1,
+        "source_id_mentions": 0,
+        "word_count": 131
+      },
+      "missing_required_metadata": [],
       "page_id": "326AAFBBF8D4D032",
       "page_kind": "DOMAIN_INDEX",
       "path": "knowledge/guilds/README.md",
@@ -1449,35 +1424,32 @@
     {
       "domain": "index",
       "metadata_present": [
-        "entry_type",
-        "publication_status",
-        "status",
-        "title",
-        "updated"
-      ],
-      "metrics": {
-        "archive_or_operations_links": 0,
-        "current_state_mentions": 16,
-        "h2_sections": 6,
-        "inline_machine_taxonomy_markers": 0,
-        "source_id_mentions": 0,
-        "word_count": 362
-      },
-      "missing_required_metadata": [
-        "knowledge_status",
         "as_of",
         "confidence",
         "evidence_basis",
+        "knowledge_status",
         "known_limitations",
+        "page_risk_class",
+        "page_risk_score",
         "research_gaps",
         "review_after",
+        "seo_description",
         "seo_title",
-        "seo_description"
+        "title"
       ],
+      "metrics": {
+        "archive_or_operations_links": 0,
+        "current_state_mentions": 7,
+        "h2_sections": 7,
+        "inline_machine_taxonomy_markers": 1,
+        "source_id_mentions": 0,
+        "word_count": 665
+      },
+      "missing_required_metadata": [],
       "page_id": "0CA033E571F5E1CA",
       "page_kind": "STRUCTURED_REFERENCE",
       "path": "knowledge/index/Entity-Registry.md",
-      "priority": "MEDIUM",
+      "priority": "NORMAL",
       "recommended_action": "STRUCTURED_REWORK",
       "review_requirements": [
         "re-open underlying evidence before changing material claims",
@@ -1489,27 +1461,29 @@
     },
     {
       "domain": "index",
-      "metadata_present": [],
-      "metrics": {
-        "archive_or_operations_links": 0,
-        "current_state_mentions": 0,
-        "h2_sections": 0,
-        "inline_machine_taxonomy_markers": 0,
-        "source_id_mentions": 0,
-        "word_count": 29
-      },
-      "missing_required_metadata": [
-        "title",
-        "knowledge_status",
+      "metadata_present": [
         "as_of",
         "confidence",
         "evidence_basis",
+        "knowledge_status",
         "known_limitations",
+        "page_risk_class",
+        "page_risk_score",
         "research_gaps",
         "review_after",
+        "seo_description",
         "seo_title",
-        "seo_description"
+        "title"
       ],
+      "metrics": {
+        "archive_or_operations_links": 0,
+        "current_state_mentions": 0,
+        "h2_sections": 4,
+        "inline_machine_taxonomy_markers": 1,
+        "source_id_mentions": 0,
+        "word_count": 185
+      },
+      "missing_required_metadata": [],
       "page_id": "C192B14468A84F57",
       "page_kind": "DOMAIN_INDEX",
       "path": "knowledge/index/README.md",
@@ -1526,9 +1500,20 @@
     {
       "domain": "index",
       "metadata_present": [
+        "as_of",
+        "confidence",
         "entry_type",
+        "evidence_basis",
+        "knowledge_status",
+        "known_limitations",
+        "page_risk_class",
+        "page_risk_score",
         "promotion_wave",
         "publication_status",
+        "research_gaps",
+        "review_after",
+        "seo_description",
+        "seo_title",
         "status",
         "title",
         "updated"
@@ -1536,26 +1521,16 @@
       "metrics": {
         "archive_or_operations_links": 0,
         "current_state_mentions": 0,
-        "h2_sections": 6,
-        "inline_machine_taxonomy_markers": 0,
+        "h2_sections": 7,
+        "inline_machine_taxonomy_markers": 1,
         "source_id_mentions": 0,
-        "word_count": 519
+        "word_count": 539
       },
-      "missing_required_metadata": [
-        "knowledge_status",
-        "as_of",
-        "confidence",
-        "evidence_basis",
-        "known_limitations",
-        "research_gaps",
-        "review_after",
-        "seo_title",
-        "seo_description"
-      ],
+      "missing_required_metadata": [],
       "page_id": "5BB0309E2211D244",
       "page_kind": "SOURCE_OR_ENTITY_PROFILE",
       "path": "knowledge/index/source-registry/Audited-Community-Source-Profiles.md",
-      "priority": "MEDIUM",
+      "priority": "NORMAL",
       "recommended_action": "EXPAND_AND_STANDARDIZE",
       "review_requirements": [
         "re-open underlying evidence before changing material claims",
@@ -1568,8 +1543,19 @@
     {
       "domain": "index",
       "metadata_present": [
+        "as_of",
+        "confidence",
         "entry_type",
+        "evidence_basis",
+        "knowledge_status",
+        "known_limitations",
+        "page_risk_class",
+        "page_risk_score",
         "publication_status",
+        "research_gaps",
+        "review_after",
+        "seo_description",
+        "seo_title",
         "source_date_range",
         "status",
         "title",
@@ -1577,27 +1563,17 @@
       ],
       "metrics": {
         "archive_or_operations_links": 0,
-        "current_state_mentions": 0,
-        "h2_sections": 6,
-        "inline_machine_taxonomy_markers": 2,
+        "current_state_mentions": 1,
+        "h2_sections": 7,
+        "inline_machine_taxonomy_markers": 3,
         "source_id_mentions": 0,
-        "word_count": 437
+        "word_count": 455
       },
-      "missing_required_metadata": [
-        "knowledge_status",
-        "as_of",
-        "confidence",
-        "evidence_basis",
-        "known_limitations",
-        "research_gaps",
-        "review_after",
-        "seo_title",
-        "seo_description"
-      ],
+      "missing_required_metadata": [],
       "page_id": "85634A6228E64EA5",
       "page_kind": "STRUCTURED_REFERENCE",
       "path": "knowledge/index/source-registry/Community-Content-URL-Inventory-2026-07-12.md",
-      "priority": "MEDIUM",
+      "priority": "NORMAL",
       "recommended_action": "STRUCTURED_REWORK",
       "review_requirements": [
         "re-open underlying evidence before changing material claims",
@@ -1610,8 +1586,19 @@
     {
       "domain": "index",
       "metadata_present": [
+        "as_of",
+        "confidence",
         "entry_type",
+        "evidence_basis",
+        "knowledge_status",
+        "known_limitations",
+        "page_risk_class",
+        "page_risk_score",
         "publication_status",
+        "research_gaps",
+        "review_after",
+        "seo_description",
+        "seo_title",
         "source_family",
         "status",
         "title",
@@ -1620,26 +1607,16 @@
       "metrics": {
         "archive_or_operations_links": 0,
         "current_state_mentions": 2,
-        "h2_sections": 4,
-        "inline_machine_taxonomy_markers": 0,
+        "h2_sections": 5,
+        "inline_machine_taxonomy_markers": 1,
         "source_id_mentions": 2,
-        "word_count": 534
+        "word_count": 552
       },
-      "missing_required_metadata": [
-        "knowledge_status",
-        "as_of",
-        "confidence",
-        "evidence_basis",
-        "known_limitations",
-        "research_gaps",
-        "review_after",
-        "seo_title",
-        "seo_description"
-      ],
+      "missing_required_metadata": [],
       "page_id": "E7B0A794445DCED0",
       "page_kind": "NARRATIVE_ARTICLE",
       "path": "knowledge/index/source-registry/Official-Newsroom-Extraction-Batch-001.md",
-      "priority": "MEDIUM",
+      "priority": "NORMAL",
       "recommended_action": "EXPAND_AND_STANDARDIZE",
       "review_requirements": [
         "re-open underlying evidence before changing material claims",
@@ -1652,8 +1629,19 @@
     {
       "domain": "index",
       "metadata_present": [
+        "as_of",
+        "confidence",
         "entry_type",
+        "evidence_basis",
+        "knowledge_status",
+        "known_limitations",
+        "page_risk_class",
+        "page_risk_score",
         "publication_status",
+        "research_gaps",
+        "review_after",
+        "seo_description",
+        "seo_title",
         "status",
         "title",
         "updated"
@@ -1661,26 +1649,16 @@
       "metrics": {
         "archive_or_operations_links": 0,
         "current_state_mentions": 0,
-        "h2_sections": 3,
-        "inline_machine_taxonomy_markers": 0,
+        "h2_sections": 4,
+        "inline_machine_taxonomy_markers": 1,
         "source_id_mentions": 1,
-        "word_count": 905
+        "word_count": 925
       },
-      "missing_required_metadata": [
-        "knowledge_status",
-        "as_of",
-        "confidence",
-        "evidence_basis",
-        "known_limitations",
-        "research_gaps",
-        "review_after",
-        "seo_title",
-        "seo_description"
-      ],
+      "missing_required_metadata": [],
       "page_id": "FCAA7517DAFD62DF",
       "page_kind": "STRUCTURED_REFERENCE",
       "path": "knowledge/index/source-registry/Official-Newsroom-Index.md",
-      "priority": "MEDIUM",
+      "priority": "NORMAL",
       "recommended_action": "STRUCTURED_REWORK",
       "review_requirements": [
         "re-open underlying evidence before changing material claims",
@@ -1693,8 +1671,19 @@
     {
       "domain": "index",
       "metadata_present": [
+        "as_of",
+        "confidence",
         "entry_type",
+        "evidence_basis",
+        "knowledge_status",
+        "known_limitations",
+        "page_risk_class",
+        "page_risk_score",
         "publication_status",
+        "research_gaps",
+        "review_after",
+        "seo_description",
+        "seo_title",
         "status",
         "title",
         "updated"
@@ -1702,26 +1691,16 @@
       "metrics": {
         "archive_or_operations_links": 0,
         "current_state_mentions": 13,
-        "h2_sections": 8,
-        "inline_machine_taxonomy_markers": 0,
+        "h2_sections": 9,
+        "inline_machine_taxonomy_markers": 1,
         "source_id_mentions": 25,
-        "word_count": 1026
+        "word_count": 1056
       },
-      "missing_required_metadata": [
-        "knowledge_status",
-        "as_of",
-        "confidence",
-        "evidence_basis",
-        "known_limitations",
-        "research_gaps",
-        "review_after",
-        "seo_title",
-        "seo_description"
-      ],
+      "missing_required_metadata": [],
       "page_id": "D6B23580D8568223",
       "page_kind": "STRUCTURED_REFERENCE",
       "path": "knowledge/index/source-registry/Public-Source-Registry.md",
-      "priority": "MEDIUM",
+      "priority": "NORMAL",
       "recommended_action": "STRUCTURED_REWORK",
       "review_requirements": [
         "re-open underlying evidence before changing material claims",
@@ -1734,31 +1713,30 @@
     {
       "domain": "lore",
       "metadata_present": [
-        "entry_type",
-        "publication_status",
-        "status",
-        "title",
-        "updated"
-      ],
-      "metrics": {
-        "archive_or_operations_links": 0,
-        "current_state_mentions": 7,
-        "h2_sections": 5,
-        "inline_machine_taxonomy_markers": 0,
-        "source_id_mentions": 0,
-        "word_count": 682
-      },
-      "missing_required_metadata": [
-        "knowledge_status",
+        "aliases",
         "as_of",
+        "canonical_entity",
         "confidence",
         "evidence_basis",
+        "knowledge_status",
         "known_limitations",
+        "page_risk_class",
+        "page_risk_score",
         "research_gaps",
         "review_after",
+        "seo_description",
         "seo_title",
-        "seo_description"
+        "title"
       ],
+      "metrics": {
+        "archive_or_operations_links": 4,
+        "current_state_mentions": 3,
+        "h2_sections": 9,
+        "inline_machine_taxonomy_markers": 19,
+        "source_id_mentions": 0,
+        "word_count": 1016
+      },
+      "missing_required_metadata": [],
       "page_id": "92767E932672EA98",
       "page_kind": "STRUCTURED_REFERENCE",
       "path": "knowledge/lore/Canon-Registry.md",
@@ -1774,27 +1752,29 @@
     },
     {
       "domain": "lore",
-      "metadata_present": [],
-      "metrics": {
-        "archive_or_operations_links": 0,
-        "current_state_mentions": 0,
-        "h2_sections": 0,
-        "inline_machine_taxonomy_markers": 0,
-        "source_id_mentions": 0,
-        "word_count": 22
-      },
-      "missing_required_metadata": [
-        "title",
-        "knowledge_status",
+      "metadata_present": [
         "as_of",
         "confidence",
         "evidence_basis",
+        "knowledge_status",
         "known_limitations",
+        "page_risk_class",
+        "page_risk_score",
         "research_gaps",
         "review_after",
+        "seo_description",
         "seo_title",
-        "seo_description"
+        "title"
       ],
+      "metrics": {
+        "archive_or_operations_links": 0,
+        "current_state_mentions": 2,
+        "h2_sections": 4,
+        "inline_machine_taxonomy_markers": 0,
+        "source_id_mentions": 0,
+        "word_count": 330
+      },
+      "missing_required_metadata": [],
       "page_id": "23A2A80A25CD1241",
       "page_kind": "DOMAIN_INDEX",
       "path": "knowledge/lore/README.md",
@@ -1811,8 +1791,19 @@
     {
       "domain": "media",
       "metadata_present": [
+        "as_of",
+        "confidence",
         "entry_type",
+        "evidence_basis",
+        "knowledge_status",
+        "known_limitations",
+        "page_risk_class",
+        "page_risk_score",
         "publication_status",
+        "research_gaps",
+        "review_after",
+        "seo_description",
+        "seo_title",
         "source_entity",
         "status",
         "title",
@@ -1821,26 +1812,16 @@
       "metrics": {
         "archive_or_operations_links": 0,
         "current_state_mentions": 3,
-        "h2_sections": 8,
-        "inline_machine_taxonomy_markers": 0,
+        "h2_sections": 9,
+        "inline_machine_taxonomy_markers": 1,
         "source_id_mentions": 0,
-        "word_count": 615
+        "word_count": 633
       },
-      "missing_required_metadata": [
-        "knowledge_status",
-        "as_of",
-        "confidence",
-        "evidence_basis",
-        "known_limitations",
-        "research_gaps",
-        "review_after",
-        "seo_title",
-        "seo_description"
-      ],
+      "missing_required_metadata": [],
       "page_id": "948858A9B28198EC",
       "page_kind": "STRUCTURED_REFERENCE",
       "path": "knowledge/media/Aephia-Crawl-Ledger.md",
-      "priority": "MEDIUM",
+      "priority": "NORMAL",
       "recommended_action": "STRUCTURED_REWORK",
       "review_requirements": [
         "re-open underlying evidence before changing material claims",
@@ -1853,38 +1834,39 @@
     {
       "domain": "media",
       "metadata_present": [
+        "as_of",
+        "confidence",
         "entity_id",
         "entry_type",
+        "evidence_basis",
+        "knowledge_status",
+        "known_limitations",
+        "page_risk_class",
+        "page_risk_score",
         "publication_status",
         "related_entities",
+        "research_gaps",
+        "review_after",
+        "seo_description",
+        "seo_title",
         "status",
         "title",
         "updated"
       ],
       "metrics": {
         "archive_or_operations_links": 0,
-        "current_state_mentions": 2,
-        "h2_sections": 10,
-        "inline_machine_taxonomy_markers": 0,
+        "current_state_mentions": 3,
+        "h2_sections": 11,
+        "inline_machine_taxonomy_markers": 1,
         "source_id_mentions": 3,
-        "word_count": 762
+        "word_count": 784
       },
-      "missing_required_metadata": [
-        "knowledge_status",
-        "as_of",
-        "confidence",
-        "evidence_basis",
-        "known_limitations",
-        "research_gaps",
-        "review_after",
-        "seo_title",
-        "seo_description"
-      ],
+      "missing_required_metadata": [],
       "page_id": "FB2BD5104A5B30EB",
       "page_kind": "SOURCE_OR_ENTITY_PROFILE",
       "path": "knowledge/media/Aephia-Source-Profile.md",
-      "priority": "MEDIUM",
-      "recommended_action": "EXPAND_AND_STANDARDIZE",
+      "priority": "NORMAL",
+      "recommended_action": "NARRATIVE_REVIEW_AND_REFRESH",
       "review_requirements": [
         "re-open underlying evidence before changing material claims",
         "preserve lifecycle and authority distinctions",
@@ -1896,8 +1878,19 @@
     {
       "domain": "media",
       "metadata_present": [
+        "as_of",
+        "confidence",
         "entry_type",
+        "evidence_basis",
+        "knowledge_status",
+        "known_limitations",
+        "page_risk_class",
+        "page_risk_score",
         "publication_status",
+        "research_gaps",
+        "review_after",
+        "seo_description",
+        "seo_title",
         "source_entity",
         "status",
         "title",
@@ -1906,26 +1899,16 @@
       "metrics": {
         "archive_or_operations_links": 0,
         "current_state_mentions": 0,
-        "h2_sections": 8,
-        "inline_machine_taxonomy_markers": 0,
+        "h2_sections": 9,
+        "inline_machine_taxonomy_markers": 1,
         "source_id_mentions": 0,
-        "word_count": 465
+        "word_count": 481
       },
-      "missing_required_metadata": [
-        "knowledge_status",
-        "as_of",
-        "confidence",
-        "evidence_basis",
-        "known_limitations",
-        "research_gaps",
-        "review_after",
-        "seo_title",
-        "seo_description"
-      ],
+      "missing_required_metadata": [],
       "page_id": "C9CF511EB6481889",
       "page_kind": "STRUCTURED_REFERENCE",
       "path": "knowledge/media/Aephia-URL-Manifest-from-Community-Inventory.md",
-      "priority": "MEDIUM",
+      "priority": "NORMAL",
       "recommended_action": "STRUCTURED_REWORK",
       "review_requirements": [
         "re-open underlying evidence before changing material claims",
@@ -1938,8 +1921,19 @@
     {
       "domain": "media",
       "metadata_present": [
+        "as_of",
+        "confidence",
         "entry_type",
+        "evidence_basis",
+        "knowledge_status",
+        "known_limitations",
+        "page_risk_class",
+        "page_risk_score",
         "publication_status",
+        "research_gaps",
+        "review_after",
+        "seo_description",
+        "seo_title",
         "source_entity",
         "status",
         "title",
@@ -1948,26 +1942,16 @@
       "metrics": {
         "archive_or_operations_links": 0,
         "current_state_mentions": 11,
-        "h2_sections": 6,
-        "inline_machine_taxonomy_markers": 0,
+        "h2_sections": 7,
+        "inline_machine_taxonomy_markers": 1,
         "source_id_mentions": 0,
-        "word_count": 1373
+        "word_count": 1395
       },
-      "missing_required_metadata": [
-        "knowledge_status",
-        "as_of",
-        "confidence",
-        "evidence_basis",
-        "known_limitations",
-        "research_gaps",
-        "review_after",
-        "seo_title",
-        "seo_description"
-      ],
+      "missing_required_metadata": [],
       "page_id": "EBBB87D092A533C4",
       "page_kind": "STRUCTURED_REFERENCE",
       "path": "knowledge/media/Aephia-Weekly-Newsletter-Index.md",
-      "priority": "MEDIUM",
+      "priority": "NORMAL",
       "recommended_action": "STRUCTURED_REWORK",
       "review_requirements": [
         "re-open underlying evidence before changing material claims",
@@ -1989,25 +1973,24 @@
         "page_risk_score",
         "research_gaps",
         "review_after",
+        "seo_description",
+        "seo_title",
         "title"
       ],
       "metrics": {
-        "archive_or_operations_links": 6,
-        "current_state_mentions": 0,
+        "archive_or_operations_links": 7,
+        "current_state_mentions": 1,
         "h2_sections": 8,
-        "inline_machine_taxonomy_markers": 3,
+        "inline_machine_taxonomy_markers": 6,
         "source_id_mentions": 8,
-        "word_count": 612
+        "word_count": 782
       },
-      "missing_required_metadata": [
-        "seo_title",
-        "seo_description"
-      ],
+      "missing_required_metadata": [],
       "page_id": "91BB652EE824E051",
       "page_kind": "NARRATIVE_ARTICLE",
       "path": "knowledge/media/Atlas-Brew-History.md",
-      "priority": "MEDIUM",
-      "recommended_action": "EXPAND_AND_STANDARDIZE",
+      "priority": "NORMAL",
+      "recommended_action": "NARRATIVE_REVIEW_AND_REFRESH",
       "review_requirements": [
         "re-open underlying evidence before changing material claims",
         "preserve lifecycle and authority distinctions",
@@ -2019,9 +2002,20 @@
     {
       "domain": "media",
       "metadata_present": [
+        "as_of",
+        "confidence",
         "entry_type",
+        "evidence_basis",
+        "knowledge_status",
+        "known_limitations",
+        "page_risk_class",
+        "page_risk_score",
         "promotion_wave",
         "publication_status",
+        "research_gaps",
+        "review_after",
+        "seo_description",
+        "seo_title",
         "status",
         "title",
         "updated"
@@ -2029,26 +2023,16 @@
       "metrics": {
         "archive_or_operations_links": 0,
         "current_state_mentions": 0,
-        "h2_sections": 2,
-        "inline_machine_taxonomy_markers": 0,
+        "h2_sections": 3,
+        "inline_machine_taxonomy_markers": 1,
         "source_id_mentions": 0,
-        "word_count": 252
+        "word_count": 270
       },
-      "missing_required_metadata": [
-        "knowledge_status",
-        "as_of",
-        "confidence",
-        "evidence_basis",
-        "known_limitations",
-        "research_gaps",
-        "review_after",
-        "seo_title",
-        "seo_description"
-      ],
+      "missing_required_metadata": [],
       "page_id": "90A1B24C7FF92F37",
       "page_kind": "STRUCTURED_REFERENCE",
       "path": "knowledge/media/Community-Publication-Relationship-Index.md",
-      "priority": "MEDIUM",
+      "priority": "NORMAL",
       "recommended_action": "STRUCTURED_REWORK",
       "review_requirements": [
         "re-open underlying evidence before changing material claims",
@@ -2061,8 +2045,19 @@
     {
       "domain": "media",
       "metadata_present": [
+        "as_of",
+        "confidence",
         "entry_type",
+        "evidence_basis",
+        "knowledge_status",
+        "known_limitations",
+        "page_risk_class",
+        "page_risk_score",
         "publication_status",
+        "research_gaps",
+        "review_after",
+        "seo_description",
+        "seo_title",
         "status",
         "title",
         "updated"
@@ -2070,26 +2065,16 @@
       "metrics": {
         "archive_or_operations_links": 0,
         "current_state_mentions": 5,
-        "h2_sections": 7,
-        "inline_machine_taxonomy_markers": 0,
+        "h2_sections": 8,
+        "inline_machine_taxonomy_markers": 1,
         "source_id_mentions": 4,
-        "word_count": 984
+        "word_count": 1014
       },
-      "missing_required_metadata": [
-        "knowledge_status",
-        "as_of",
-        "confidence",
-        "evidence_basis",
-        "known_limitations",
-        "research_gaps",
-        "review_after",
-        "seo_title",
-        "seo_description"
-      ],
+      "missing_required_metadata": [],
       "page_id": "0F4E85DD5AD7CB74",
       "page_kind": "STRUCTURED_REFERENCE",
       "path": "knowledge/media/Media-and-Creator-Index.md",
-      "priority": "MEDIUM",
+      "priority": "NORMAL",
       "recommended_action": "STRUCTURED_REWORK",
       "review_requirements": [
         "re-open underlying evidence before changing material claims",
@@ -2117,6 +2102,8 @@
         "related_entities",
         "research_gaps",
         "review_after",
+        "seo_description",
+        "seo_title",
         "source_priority",
         "superseded_by",
         "supersedes",
@@ -2125,20 +2112,17 @@
       "metrics": {
         "archive_or_operations_links": 8,
         "current_state_mentions": 0,
-        "h2_sections": 7,
-        "inline_machine_taxonomy_markers": 0,
+        "h2_sections": 8,
+        "inline_machine_taxonomy_markers": 1,
         "source_id_mentions": 1,
-        "word_count": 849
+        "word_count": 870
       },
-      "missing_required_metadata": [
-        "seo_title",
-        "seo_description"
-      ],
+      "missing_required_metadata": [],
       "page_id": "F77EDE643F2FFFA5",
       "page_kind": "SOURCE_OR_ENTITY_PROFILE",
       "path": "knowledge/media/Official-Discord-Announcements-Profile.md",
-      "priority": "MEDIUM",
-      "recommended_action": "EXPAND_AND_STANDARDIZE",
+      "priority": "NORMAL",
+      "recommended_action": "NARRATIVE_REVIEW_AND_REFRESH",
       "review_requirements": [
         "re-open underlying evidence before changing material claims",
         "preserve lifecycle and authority distinctions",
@@ -2165,6 +2149,8 @@
         "related_entities",
         "research_gaps",
         "review_after",
+        "seo_description",
+        "seo_title",
         "source_priority",
         "superseded_by",
         "supersedes",
@@ -2173,20 +2159,17 @@
       "metrics": {
         "archive_or_operations_links": 6,
         "current_state_mentions": 0,
-        "h2_sections": 6,
-        "inline_machine_taxonomy_markers": 2,
+        "h2_sections": 7,
+        "inline_machine_taxonomy_markers": 3,
         "source_id_mentions": 1,
-        "word_count": 792
+        "word_count": 813
       },
-      "missing_required_metadata": [
-        "seo_title",
-        "seo_description"
-      ],
+      "missing_required_metadata": [],
       "page_id": "BB7502F74C890836",
       "page_kind": "SOURCE_OR_ENTITY_PROFILE",
       "path": "knowledge/media/Official-X-Account-Profile.md",
-      "priority": "MEDIUM",
-      "recommended_action": "EXPAND_AND_STANDARDIZE",
+      "priority": "NORMAL",
+      "recommended_action": "NARRATIVE_REVIEW_AND_REFRESH",
       "review_requirements": [
         "re-open underlying evidence before changing material claims",
         "preserve lifecycle and authority distinctions",
@@ -2197,27 +2180,29 @@
     },
     {
       "domain": "media",
-      "metadata_present": [],
-      "metrics": {
-        "archive_or_operations_links": 0,
-        "current_state_mentions": 0,
-        "h2_sections": 4,
-        "inline_machine_taxonomy_markers": 0,
-        "source_id_mentions": 0,
-        "word_count": 258
-      },
-      "missing_required_metadata": [
-        "title",
-        "knowledge_status",
+      "metadata_present": [
         "as_of",
         "confidence",
         "evidence_basis",
+        "knowledge_status",
         "known_limitations",
+        "page_risk_class",
+        "page_risk_score",
         "research_gaps",
         "review_after",
+        "seo_description",
         "seo_title",
-        "seo_description"
+        "title"
       ],
+      "metrics": {
+        "archive_or_operations_links": 0,
+        "current_state_mentions": 0,
+        "h2_sections": 6,
+        "inline_machine_taxonomy_markers": 1,
+        "source_id_mentions": 0,
+        "word_count": 342
+      },
+      "missing_required_metadata": [],
       "page_id": "87FF86CB2C582699",
       "page_kind": "DOMAIN_INDEX",
       "path": "knowledge/media/README.md",
@@ -2249,27 +2234,26 @@
         "related_entities",
         "research_gaps",
         "review_after",
+        "seo_description",
+        "seo_title",
         "source_priority",
         "superseded_by",
         "supersedes",
         "title"
       ],
       "metrics": {
-        "archive_or_operations_links": 1,
-        "current_state_mentions": 3,
-        "h2_sections": 6,
-        "inline_machine_taxonomy_markers": 0,
-        "source_id_mentions": 0,
-        "word_count": 655
+        "archive_or_operations_links": 4,
+        "current_state_mentions": 2,
+        "h2_sections": 8,
+        "inline_machine_taxonomy_markers": 3,
+        "source_id_mentions": 1,
+        "word_count": 648
       },
-      "missing_required_metadata": [
-        "seo_title",
-        "seo_description"
-      ],
+      "missing_required_metadata": [],
       "page_id": "5DDD1F2C1B39319A",
       "page_kind": "SOURCE_OR_ENTITY_PROFILE",
       "path": "knowledge/media/Star-Atlas-Medium-Publication-Profile.md",
-      "priority": "MEDIUM",
+      "priority": "NORMAL",
       "recommended_action": "EXPAND_AND_STANDARDIZE",
       "review_requirements": [
         "re-open underlying evidence before changing material claims",
@@ -2291,25 +2275,24 @@
         "page_risk_score",
         "research_gaps",
         "review_after",
+        "seo_description",
+        "seo_title",
         "title"
       ],
       "metrics": {
         "archive_or_operations_links": 4,
         "current_state_mentions": 0,
-        "h2_sections": 6,
+        "h2_sections": 7,
         "inline_machine_taxonomy_markers": 3,
         "source_id_mentions": 12,
-        "word_count": 550
+        "word_count": 685
       },
-      "missing_required_metadata": [
-        "seo_title",
-        "seo_description"
-      ],
+      "missing_required_metadata": [],
       "page_id": "8B48EDD09971B207",
       "page_kind": "NARRATIVE_ARTICLE",
       "path": "knowledge/media/Star-Atlas-Town-Hall-History.md",
-      "priority": "MEDIUM",
-      "recommended_action": "EXPAND_AND_STANDARDIZE",
+      "priority": "NORMAL",
+      "recommended_action": "NARRATIVE_REVIEW_AND_REFRESH",
       "review_requirements": [
         "re-open underlying evidence before changing material claims",
         "preserve lifecycle and authority distinctions",
@@ -2322,12 +2305,22 @@
       "domain": "media",
       "metadata_present": [
         "aliases",
+        "as_of",
         "confidence",
         "created",
         "entry_type",
+        "evidence_basis",
         "id",
+        "knowledge_status",
+        "known_limitations",
+        "page_risk_class",
+        "page_risk_score",
         "publication_status",
         "related_entities",
+        "research_gaps",
+        "review_after",
+        "seo_description",
+        "seo_title",
         "source_class",
         "status",
         "tags",
@@ -2337,25 +2330,16 @@
       "metrics": {
         "archive_or_operations_links": 0,
         "current_state_mentions": 4,
-        "h2_sections": 7,
-        "inline_machine_taxonomy_markers": 0,
+        "h2_sections": 8,
+        "inline_machine_taxonomy_markers": 2,
         "source_id_mentions": 3,
-        "word_count": 541
+        "word_count": 564
       },
-      "missing_required_metadata": [
-        "knowledge_status",
-        "as_of",
-        "evidence_basis",
-        "known_limitations",
-        "research_gaps",
-        "review_after",
-        "seo_title",
-        "seo_description"
-      ],
+      "missing_required_metadata": [],
       "page_id": "AF162E550FE45E3D",
       "page_kind": "STRUCTURED_REFERENCE",
       "path": "knowledge/media/VBTV-Star-Atlas-TV-Recording-Index.md",
-      "priority": "MEDIUM",
+      "priority": "NORMAL",
       "recommended_action": "STRUCTURED_REWORK",
       "review_requirements": [
         "re-open underlying evidence before changing material claims",
@@ -2377,102 +2361,99 @@
         "page_risk_score",
         "research_gaps",
         "review_after",
-        "title"
-      ],
-      "metrics": {
-        "archive_or_operations_links": 1,
-        "current_state_mentions": 6,
-        "h2_sections": 4,
-        "inline_machine_taxonomy_markers": 0,
-        "source_id_mentions": 0,
-        "word_count": 222
-      },
-      "missing_required_metadata": [
+        "seo_description",
         "seo_title",
-        "seo_description"
-      ],
-      "page_id": "2FD0BD076B4AB513",
-      "page_kind": "NARRATIVE_ARTICLE",
-      "path": "knowledge/organizations/ATMTA.md",
-      "priority": "HIGH",
-      "recommended_action": "REWRITE",
-      "review_requirements": [
-        "re-open underlying evidence before changing material claims",
-        "preserve lifecycle and authority distinctions",
-        "consolidate reader-facing taxonomy",
-        "validate links, dates, limitations, and research gaps"
-      ],
-      "revision_wave": 3
-    },
-    {
-      "domain": "organizations",
-      "metadata_present": [
-        "as_of",
-        "confidence",
-        "evidence_basis",
-        "knowledge_status",
-        "known_limitations",
-        "page_risk_class",
-        "page_risk_score",
-        "research_gaps",
-        "review_after",
-        "title"
-      ],
-      "metrics": {
-        "archive_or_operations_links": 2,
-        "current_state_mentions": 3,
-        "h2_sections": 4,
-        "inline_machine_taxonomy_markers": 0,
-        "source_id_mentions": 0,
-        "word_count": 223
-      },
-      "missing_required_metadata": [
-        "seo_title",
-        "seo_description"
-      ],
-      "page_id": "0EE186AA6A9B9042",
-      "page_kind": "NARRATIVE_ARTICLE",
-      "path": "knowledge/organizations/Institutional-Overview.md",
-      "priority": "HIGH",
-      "recommended_action": "REWRITE",
-      "review_requirements": [
-        "re-open underlying evidence before changing material claims",
-        "preserve lifecycle and authority distinctions",
-        "consolidate reader-facing taxonomy",
-        "validate links, dates, limitations, and research gaps"
-      ],
-      "revision_wave": 3
-    },
-    {
-      "domain": "organizations",
-      "metadata_present": [
-        "as_of",
-        "confidence",
-        "evidence_basis",
-        "knowledge_status",
-        "known_limitations",
-        "page_risk_class",
-        "page_risk_score",
-        "research_gaps",
-        "review_after",
         "title"
       ],
       "metrics": {
         "archive_or_operations_links": 0,
-        "current_state_mentions": 9,
+        "current_state_mentions": 6,
+        "h2_sections": 6,
+        "inline_machine_taxonomy_markers": 1,
+        "source_id_mentions": 0,
+        "word_count": 481
+      },
+      "missing_required_metadata": [],
+      "page_id": "2FD0BD076B4AB513",
+      "page_kind": "NARRATIVE_ARTICLE",
+      "path": "knowledge/organizations/ATMTA.md",
+      "priority": "NORMAL",
+      "recommended_action": "EXPAND_AND_STANDARDIZE",
+      "review_requirements": [
+        "re-open underlying evidence before changing material claims",
+        "preserve lifecycle and authority distinctions",
+        "consolidate reader-facing taxonomy",
+        "validate links, dates, limitations, and research gaps"
+      ],
+      "revision_wave": 3
+    },
+    {
+      "domain": "organizations",
+      "metadata_present": [
+        "as_of",
+        "confidence",
+        "evidence_basis",
+        "knowledge_status",
+        "known_limitations",
+        "page_risk_class",
+        "page_risk_score",
+        "research_gaps",
+        "review_after",
+        "seo_description",
+        "seo_title",
+        "title"
+      ],
+      "metrics": {
+        "archive_or_operations_links": 0,
+        "current_state_mentions": 4,
         "h2_sections": 7,
+        "inline_machine_taxonomy_markers": 1,
+        "source_id_mentions": 0,
+        "word_count": 530
+      },
+      "missing_required_metadata": [],
+      "page_id": "0EE186AA6A9B9042",
+      "page_kind": "NARRATIVE_ARTICLE",
+      "path": "knowledge/organizations/Institutional-Overview.md",
+      "priority": "NORMAL",
+      "recommended_action": "EXPAND_AND_STANDARDIZE",
+      "review_requirements": [
+        "re-open underlying evidence before changing material claims",
+        "preserve lifecycle and authority distinctions",
+        "consolidate reader-facing taxonomy",
+        "validate links, dates, limitations, and research gaps"
+      ],
+      "revision_wave": 3
+    },
+    {
+      "domain": "organizations",
+      "metadata_present": [
+        "as_of",
+        "confidence",
+        "evidence_basis",
+        "knowledge_status",
+        "known_limitations",
+        "page_risk_class",
+        "page_risk_score",
+        "research_gaps",
+        "review_after",
+        "seo_description",
+        "seo_title",
+        "title"
+      ],
+      "metrics": {
+        "archive_or_operations_links": 0,
+        "current_state_mentions": 8,
+        "h2_sections": 9,
         "inline_machine_taxonomy_markers": 5,
         "source_id_mentions": 3,
-        "word_count": 643
+        "word_count": 769
       },
-      "missing_required_metadata": [
-        "seo_title",
-        "seo_description"
-      ],
+      "missing_required_metadata": [],
       "page_id": "CF0E68178484973E",
       "page_kind": "STRUCTURED_REFERENCE",
       "path": "knowledge/organizations/Organization-and-Role-Registry.md",
-      "priority": "MEDIUM",
+      "priority": "NORMAL",
       "recommended_action": "STRUCTURED_REWORK",
       "review_requirements": [
         "re-open underlying evidence before changing material claims",
@@ -2494,20 +2475,19 @@
         "page_risk_score",
         "research_gaps",
         "review_after",
+        "seo_description",
+        "seo_title",
         "title"
       ],
       "metrics": {
         "archive_or_operations_links": 0,
         "current_state_mentions": 0,
-        "h2_sections": 2,
-        "inline_machine_taxonomy_markers": 0,
+        "h2_sections": 3,
+        "inline_machine_taxonomy_markers": 1,
         "source_id_mentions": 0,
-        "word_count": 92
+        "word_count": 158
       },
-      "missing_required_metadata": [
-        "seo_title",
-        "seo_description"
-      ],
+      "missing_required_metadata": [],
       "page_id": "D1E0E1D735EBE9CD",
       "page_kind": "DOMAIN_INDEX",
       "path": "knowledge/organizations/README.md",
@@ -2524,35 +2504,32 @@
     {
       "domain": "people",
       "metadata_present": [
-        "entry_type",
-        "publication_status",
-        "status",
-        "title",
-        "updated"
-      ],
-      "metrics": {
-        "archive_or_operations_links": 1,
-        "current_state_mentions": 1,
-        "h2_sections": 6,
-        "inline_machine_taxonomy_markers": 1,
-        "source_id_mentions": 2,
-        "word_count": 449
-      },
-      "missing_required_metadata": [
-        "knowledge_status",
         "as_of",
         "confidence",
         "evidence_basis",
+        "knowledge_status",
         "known_limitations",
+        "page_risk_class",
+        "page_risk_score",
         "research_gaps",
         "review_after",
+        "seo_description",
         "seo_title",
-        "seo_description"
+        "title"
       ],
+      "metrics": {
+        "archive_or_operations_links": 0,
+        "current_state_mentions": 3,
+        "h2_sections": 8,
+        "inline_machine_taxonomy_markers": 2,
+        "source_id_mentions": 0,
+        "word_count": 642
+      },
+      "missing_required_metadata": [],
       "page_id": "7DCDE6DBFC22BF13",
       "page_kind": "STRUCTURED_REFERENCE",
       "path": "knowledge/people/Actor-Master-Index.md",
-      "priority": "MEDIUM",
+      "priority": "NORMAL",
       "recommended_action": "STRUCTURED_REWORK",
       "review_requirements": [
         "re-open underlying evidence before changing material claims",
@@ -2565,38 +2542,34 @@
     {
       "domain": "people",
       "metadata_present": [
+        "as_of",
+        "confidence",
         "entity_id",
-        "entry_type",
-        "promotion_wave",
-        "publication_status",
-        "status",
-        "title",
-        "updated"
+        "evidence_basis",
+        "knowledge_status",
+        "known_limitations",
+        "page_risk_class",
+        "page_risk_score",
+        "research_gaps",
+        "review_after",
+        "seo_description",
+        "seo_title",
+        "title"
       ],
       "metrics": {
         "archive_or_operations_links": 0,
         "current_state_mentions": 0,
-        "h2_sections": 3,
-        "inline_machine_taxonomy_markers": 0,
+        "h2_sections": 6,
+        "inline_machine_taxonomy_markers": 1,
         "source_id_mentions": 0,
-        "word_count": 137
+        "word_count": 467
       },
-      "missing_required_metadata": [
-        "knowledge_status",
-        "as_of",
-        "confidence",
-        "evidence_basis",
-        "known_limitations",
-        "research_gaps",
-        "review_after",
-        "seo_title",
-        "seo_description"
-      ],
+      "missing_required_metadata": [],
       "page_id": "9766198FE139CA41",
       "page_kind": "SOURCE_OR_ENTITY_PROFILE",
       "path": "knowledge/people/Krigs-Source-Profile.md",
-      "priority": "HIGH",
-      "recommended_action": "REWRITE",
+      "priority": "NORMAL",
+      "recommended_action": "EXPAND_AND_STANDARDIZE",
       "review_requirements": [
         "re-open underlying evidence before changing material claims",
         "preserve lifecycle and authority distinctions",
@@ -2607,27 +2580,29 @@
     },
     {
       "domain": "people",
-      "metadata_present": [],
-      "metrics": {
-        "archive_or_operations_links": 0,
-        "current_state_mentions": 0,
-        "h2_sections": 0,
-        "inline_machine_taxonomy_markers": 0,
-        "source_id_mentions": 0,
-        "word_count": 11
-      },
-      "missing_required_metadata": [
-        "title",
-        "knowledge_status",
+      "metadata_present": [
         "as_of",
         "confidence",
         "evidence_basis",
+        "knowledge_status",
         "known_limitations",
+        "page_risk_class",
+        "page_risk_score",
         "research_gaps",
         "review_after",
+        "seo_description",
         "seo_title",
-        "seo_description"
+        "title"
       ],
+      "metrics": {
+        "archive_or_operations_links": 0,
+        "current_state_mentions": 0,
+        "h2_sections": 2,
+        "inline_machine_taxonomy_markers": 1,
+        "source_id_mentions": 0,
+        "word_count": 119
+      },
+      "missing_required_metadata": [],
       "page_id": "832036AC153B9B9B",
       "page_kind": "DOMAIN_INDEX",
       "path": "knowledge/people/README.md",
@@ -2643,27 +2618,29 @@
     },
     {
       "domain": "knowledge",
-      "metadata_present": [],
-      "metrics": {
-        "archive_or_operations_links": 4,
-        "current_state_mentions": 0,
-        "h2_sections": 1,
-        "inline_machine_taxonomy_markers": 0,
-        "source_id_mentions": 0,
-        "word_count": 202
-      },
-      "missing_required_metadata": [
-        "title",
-        "knowledge_status",
+      "metadata_present": [
         "as_of",
         "confidence",
         "evidence_basis",
+        "knowledge_status",
         "known_limitations",
+        "page_risk_class",
+        "page_risk_score",
         "research_gaps",
         "review_after",
+        "seo_description",
         "seo_title",
-        "seo_description"
+        "title"
       ],
+      "metrics": {
+        "archive_or_operations_links": 1,
+        "current_state_mentions": 0,
+        "h2_sections": 4,
+        "inline_machine_taxonomy_markers": 4,
+        "source_id_mentions": 0,
+        "word_count": 430
+      },
+      "missing_required_metadata": [],
       "page_id": "8770EE3A09F98C5E",
       "page_kind": "DOMAIN_INDEX",
       "path": "knowledge/README.md",
@@ -2680,36 +2657,32 @@
     {
       "domain": "research",
       "metadata_present": [
-        "entry_type",
-        "promotion_wave",
-        "publication_status",
-        "status",
-        "title",
-        "updated"
-      ],
-      "metrics": {
-        "archive_or_operations_links": 0,
-        "current_state_mentions": 1,
-        "h2_sections": 5,
-        "inline_machine_taxonomy_markers": 0,
-        "source_id_mentions": 0,
-        "word_count": 234
-      },
-      "missing_required_metadata": [
-        "knowledge_status",
         "as_of",
         "confidence",
         "evidence_basis",
+        "knowledge_status",
         "known_limitations",
+        "page_risk_class",
+        "page_risk_score",
         "research_gaps",
         "review_after",
+        "seo_description",
         "seo_title",
-        "seo_description"
+        "title"
       ],
+      "metrics": {
+        "archive_or_operations_links": 0,
+        "current_state_mentions": 3,
+        "h2_sections": 4,
+        "inline_machine_taxonomy_markers": 0,
+        "source_id_mentions": 0,
+        "word_count": 519
+      },
+      "missing_required_metadata": [],
       "page_id": "9D437B0BF4AB056E",
       "page_kind": "STRUCTURED_REFERENCE",
       "path": "knowledge/research/Community-Source-Attribution-Backlog.md",
-      "priority": "HIGH",
+      "priority": "NORMAL",
       "recommended_action": "STRUCTURED_REWORK",
       "review_requirements": [
         "re-open underlying evidence before changing material claims",
@@ -2721,27 +2694,29 @@
     },
     {
       "domain": "research",
-      "metadata_present": [],
-      "metrics": {
-        "archive_or_operations_links": 1,
-        "current_state_mentions": 0,
-        "h2_sections": 0,
-        "inline_machine_taxonomy_markers": 0,
-        "source_id_mentions": 0,
-        "word_count": 36
-      },
-      "missing_required_metadata": [
-        "title",
-        "knowledge_status",
+      "metadata_present": [
         "as_of",
         "confidence",
         "evidence_basis",
+        "knowledge_status",
         "known_limitations",
+        "page_risk_class",
+        "page_risk_score",
         "research_gaps",
         "review_after",
+        "seo_description",
         "seo_title",
-        "seo_description"
+        "title"
       ],
+      "metrics": {
+        "archive_or_operations_links": 3,
+        "current_state_mentions": 0,
+        "h2_sections": 2,
+        "inline_machine_taxonomy_markers": 0,
+        "source_id_mentions": 0,
+        "word_count": 218
+      },
+      "missing_required_metadata": [],
       "page_id": "32B616068BE28968",
       "page_kind": "DOMAIN_INDEX",
       "path": "knowledge/research/README.md",
@@ -2758,31 +2733,28 @@
     {
       "domain": "research",
       "metadata_present": [
-        "entry_type",
-        "publication_status",
-        "status",
-        "title",
-        "updated"
+        "as_of",
+        "confidence",
+        "evidence_basis",
+        "knowledge_status",
+        "known_limitations",
+        "page_risk_class",
+        "page_risk_score",
+        "research_gaps",
+        "review_after",
+        "seo_description",
+        "seo_title",
+        "title"
       ],
       "metrics": {
         "archive_or_operations_links": 0,
         "current_state_mentions": 1,
-        "h2_sections": 8,
-        "inline_machine_taxonomy_markers": 0,
+        "h2_sections": 5,
+        "inline_machine_taxonomy_markers": 15,
         "source_id_mentions": 0,
-        "word_count": 311
+        "word_count": 933
       },
-      "missing_required_metadata": [
-        "knowledge_status",
-        "as_of",
-        "confidence",
-        "evidence_basis",
-        "known_limitations",
-        "research_gaps",
-        "review_after",
-        "seo_title",
-        "seo_description"
-      ],
+      "missing_required_metadata": [],
       "page_id": "7A0A938020B7B8BD",
       "page_kind": "STRUCTURED_REFERENCE",
       "path": "knowledge/research/Research-Backlog.md",
@@ -2808,6 +2780,8 @@
         "page_risk_score",
         "research_gaps",
         "review_after",
+        "seo_description",
+        "seo_title",
         "title"
       ],
       "metrics": {
@@ -2815,13 +2789,10 @@
         "current_state_mentions": 14,
         "h2_sections": 11,
         "inline_machine_taxonomy_markers": 31,
-        "source_id_mentions": 4,
-        "word_count": 1189
+        "source_id_mentions": 3,
+        "word_count": 1202
       },
-      "missing_required_metadata": [
-        "seo_title",
-        "seo_description"
-      ],
+      "missing_required_metadata": [],
       "page_id": "9448F380C0AF8667",
       "page_kind": "STRUCTURED_REFERENCE",
       "path": "knowledge/technology/Official-Technical-Surface-Inventory.md",
@@ -2837,27 +2808,29 @@
     },
     {
       "domain": "technology",
-      "metadata_present": [],
-      "metrics": {
-        "archive_or_operations_links": 0,
-        "current_state_mentions": 0,
-        "h2_sections": 0,
-        "inline_machine_taxonomy_markers": 0,
-        "source_id_mentions": 0,
-        "word_count": 26
-      },
-      "missing_required_metadata": [
-        "title",
-        "knowledge_status",
+      "metadata_present": [
         "as_of",
         "confidence",
         "evidence_basis",
+        "knowledge_status",
         "known_limitations",
+        "page_risk_class",
+        "page_risk_score",
         "research_gaps",
         "review_after",
+        "seo_description",
         "seo_title",
-        "seo_description"
+        "title"
       ],
+      "metrics": {
+        "archive_or_operations_links": 0,
+        "current_state_mentions": 0,
+        "h2_sections": 4,
+        "inline_machine_taxonomy_markers": 1,
+        "source_id_mentions": 0,
+        "word_count": 171
+      },
+      "missing_required_metadata": [],
       "page_id": "09B0C9644A23F37C",
       "page_kind": "DOMAIN_INDEX",
       "path": "knowledge/technology/README.md",
@@ -2874,36 +2847,33 @@
     {
       "domain": "technology",
       "metadata_present": [
-        "entry_type",
-        "publication_status",
-        "status",
-        "title",
-        "updated"
-      ],
-      "metrics": {
-        "archive_or_operations_links": 4,
-        "current_state_mentions": 3,
-        "h2_sections": 5,
-        "inline_machine_taxonomy_markers": 0,
-        "source_id_mentions": 3,
-        "word_count": 494
-      },
-      "missing_required_metadata": [
-        "knowledge_status",
         "as_of",
         "confidence",
         "evidence_basis",
+        "knowledge_status",
         "known_limitations",
+        "page_risk_class",
+        "page_risk_score",
         "research_gaps",
         "review_after",
+        "seo_description",
         "seo_title",
-        "seo_description"
+        "title"
       ],
+      "metrics": {
+        "archive_or_operations_links": 4,
+        "current_state_mentions": 8,
+        "h2_sections": 8,
+        "inline_machine_taxonomy_markers": 2,
+        "source_id_mentions": 5,
+        "word_count": 1050
+      },
+      "missing_required_metadata": [],
       "page_id": "DE426156D9B34E29",
       "page_kind": "NARRATIVE_ARTICLE",
       "path": "knowledge/technology/Technical-Platform.md",
-      "priority": "MEDIUM",
-      "recommended_action": "EXPAND_AND_STANDARDIZE",
+      "priority": "NORMAL",
+      "recommended_action": "NARRATIVE_REVIEW_AND_REFRESH",
       "review_requirements": [
         "re-open underlying evidence before changing material claims",
         "preserve lifecycle and authority distinctions",
@@ -2915,8 +2885,19 @@
     {
       "domain": "timeline",
       "metadata_present": [
+        "as_of",
+        "confidence",
         "entry_type",
+        "evidence_basis",
+        "knowledge_status",
+        "known_limitations",
+        "page_risk_class",
+        "page_risk_score",
         "publication_status",
+        "research_gaps",
+        "review_after",
+        "seo_description",
+        "seo_title",
         "status",
         "title",
         "updated"
@@ -2924,26 +2905,16 @@
       "metrics": {
         "archive_or_operations_links": 23,
         "current_state_mentions": 0,
-        "h2_sections": 6,
-        "inline_machine_taxonomy_markers": 0,
+        "h2_sections": 7,
+        "inline_machine_taxonomy_markers": 1,
         "source_id_mentions": 22,
-        "word_count": 1336
+        "word_count": 1360
       },
-      "missing_required_metadata": [
-        "knowledge_status",
-        "as_of",
-        "confidence",
-        "evidence_basis",
-        "known_limitations",
-        "research_gaps",
-        "review_after",
-        "seo_title",
-        "seo_description"
-      ],
+      "missing_required_metadata": [],
       "page_id": "88ED6118D569DDA8",
       "page_kind": "STRUCTURED_REFERENCE",
       "path": "knowledge/timeline/Community-Timeline.md",
-      "priority": "MEDIUM",
+      "priority": "NORMAL",
       "recommended_action": "STRUCTURED_REWORK",
       "review_requirements": [
         "re-open underlying evidence before changing material claims",
@@ -2956,8 +2927,19 @@
     {
       "domain": "timeline",
       "metadata_present": [
+        "as_of",
+        "confidence",
         "entry_type",
+        "evidence_basis",
+        "knowledge_status",
+        "known_limitations",
+        "page_risk_class",
+        "page_risk_score",
         "publication_status",
+        "research_gaps",
+        "review_after",
+        "seo_description",
+        "seo_title",
         "status",
         "title",
         "updated"
@@ -2965,26 +2947,16 @@
       "metrics": {
         "archive_or_operations_links": 11,
         "current_state_mentions": 2,
-        "h2_sections": 5,
-        "inline_machine_taxonomy_markers": 0,
+        "h2_sections": 6,
+        "inline_machine_taxonomy_markers": 2,
         "source_id_mentions": 11,
-        "word_count": 811
+        "word_count": 841
       },
-      "missing_required_metadata": [
-        "knowledge_status",
-        "as_of",
-        "confidence",
-        "evidence_basis",
-        "known_limitations",
-        "research_gaps",
-        "review_after",
-        "seo_title",
-        "seo_description"
-      ],
+      "missing_required_metadata": [],
       "page_id": "82B266ED34C66C77",
       "page_kind": "STRUCTURED_REFERENCE",
       "path": "knowledge/timeline/Corporate-Timeline.md",
-      "priority": "MEDIUM",
+      "priority": "NORMAL",
       "recommended_action": "STRUCTURED_REWORK",
       "review_requirements": [
         "re-open underlying evidence before changing material claims",
@@ -2997,8 +2969,19 @@
     {
       "domain": "timeline",
       "metadata_present": [
+        "as_of",
+        "confidence",
         "entry_type",
+        "evidence_basis",
+        "knowledge_status",
+        "known_limitations",
+        "page_risk_class",
+        "page_risk_score",
         "publication_status",
+        "research_gaps",
+        "review_after",
+        "seo_description",
+        "seo_title",
         "status",
         "title",
         "updated"
@@ -3006,67 +2989,16 @@
       "metrics": {
         "archive_or_operations_links": 22,
         "current_state_mentions": 1,
-        "h2_sections": 7,
-        "inline_machine_taxonomy_markers": 0,
+        "h2_sections": 8,
+        "inline_machine_taxonomy_markers": 1,
         "source_id_mentions": 22,
-        "word_count": 1133
+        "word_count": 1154
       },
-      "missing_required_metadata": [
-        "knowledge_status",
-        "as_of",
-        "confidence",
-        "evidence_basis",
-        "known_limitations",
-        "research_gaps",
-        "review_after",
-        "seo_title",
-        "seo_description"
-      ],
+      "missing_required_metadata": [],
       "page_id": "4D914CF536227094",
       "page_kind": "STRUCTURED_REFERENCE",
       "path": "knowledge/timeline/Governance-Timeline.md",
-      "priority": "MEDIUM",
-      "recommended_action": "STRUCTURED_REWORK",
-      "review_requirements": [
-        "re-open underlying evidence before changing material claims",
-        "preserve lifecycle and authority distinctions",
-        "consolidate reader-facing taxonomy",
-        "validate links, dates, limitations, and research gaps"
-      ],
-      "revision_wave": 2
-    },
-    {
-      "domain": "timeline",
-      "metadata_present": [
-        "entry_type",
-        "publication_status",
-        "status",
-        "title",
-        "updated"
-      ],
-      "metrics": {
-        "archive_or_operations_links": 28,
-        "current_state_mentions": 0,
-        "h2_sections": 4,
-        "inline_machine_taxonomy_markers": 0,
-        "source_id_mentions": 28,
-        "word_count": 1308
-      },
-      "missing_required_metadata": [
-        "knowledge_status",
-        "as_of",
-        "confidence",
-        "evidence_basis",
-        "known_limitations",
-        "research_gaps",
-        "review_after",
-        "seo_title",
-        "seo_description"
-      ],
-      "page_id": "A45761E9A5AE7E32",
-      "page_kind": "STRUCTURED_REFERENCE",
-      "path": "knowledge/timeline/Lore-Timeline.md",
-      "priority": "MEDIUM",
+      "priority": "NORMAL",
       "recommended_action": "STRUCTURED_REWORK",
       "review_requirements": [
         "re-open underlying evidence before changing material claims",
@@ -3090,6 +3022,50 @@
         "publication_status",
         "research_gaps",
         "review_after",
+        "seo_description",
+        "seo_title",
+        "status",
+        "title",
+        "updated"
+      ],
+      "metrics": {
+        "archive_or_operations_links": 28,
+        "current_state_mentions": 1,
+        "h2_sections": 5,
+        "inline_machine_taxonomy_markers": 1,
+        "source_id_mentions": 28,
+        "word_count": 1327
+      },
+      "missing_required_metadata": [],
+      "page_id": "A45761E9A5AE7E32",
+      "page_kind": "STRUCTURED_REFERENCE",
+      "path": "knowledge/timeline/Lore-Timeline.md",
+      "priority": "NORMAL",
+      "recommended_action": "STRUCTURED_REWORK",
+      "review_requirements": [
+        "re-open underlying evidence before changing material claims",
+        "preserve lifecycle and authority distinctions",
+        "consolidate reader-facing taxonomy",
+        "validate links, dates, limitations, and research gaps"
+      ],
+      "revision_wave": 2
+    },
+    {
+      "domain": "timeline",
+      "metadata_present": [
+        "as_of",
+        "confidence",
+        "entry_type",
+        "evidence_basis",
+        "knowledge_status",
+        "known_limitations",
+        "page_risk_class",
+        "page_risk_score",
+        "publication_status",
+        "research_gaps",
+        "review_after",
+        "seo_description",
+        "seo_title",
         "status",
         "title",
         "updated"
@@ -3097,19 +3073,16 @@
       "metrics": {
         "archive_or_operations_links": 56,
         "current_state_mentions": 3,
-        "h2_sections": 8,
-        "inline_machine_taxonomy_markers": 0,
+        "h2_sections": 9,
+        "inline_machine_taxonomy_markers": 1,
         "source_id_mentions": 58,
-        "word_count": 2465
+        "word_count": 2484
       },
-      "missing_required_metadata": [
-        "seo_title",
-        "seo_description"
-      ],
+      "missing_required_metadata": [],
       "page_id": "B2985F2E24946E9B",
       "page_kind": "STRUCTURED_REFERENCE",
       "path": "knowledge/timeline/Master-Timeline.md",
-      "priority": "MEDIUM",
+      "priority": "NORMAL",
       "recommended_action": "STRUCTURED_REWORK",
       "review_requirements": [
         "re-open underlying evidence before changing material claims",
@@ -3131,6 +3104,8 @@
         "page_risk_score",
         "research_gaps",
         "review_after",
+        "seo_description",
+        "seo_title",
         "title"
       ],
       "metrics": {
@@ -3141,15 +3116,12 @@
         "source_id_mentions": 6,
         "word_count": 909
       },
-      "missing_required_metadata": [
-        "seo_title",
-        "seo_description"
-      ],
+      "missing_required_metadata": [],
       "page_id": "556C0906ACBA2A11",
       "page_kind": "NARRATIVE_ARTICLE",
       "path": "knowledge/timeline/Official-Communications-Chronology.md",
-      "priority": "MEDIUM",
-      "recommended_action": "EXPAND_AND_STANDARDIZE",
+      "priority": "NORMAL",
+      "recommended_action": "NARRATIVE_REVIEW_AND_REFRESH",
       "review_requirements": [
         "re-open underlying evidence before changing material claims",
         "preserve lifecycle and authority distinctions",
@@ -3172,6 +3144,8 @@
         "publication_status",
         "research_gaps",
         "review_after",
+        "seo_description",
+        "seo_title",
         "status",
         "title",
         "updated"
@@ -3179,19 +3153,16 @@
       "metrics": {
         "archive_or_operations_links": 49,
         "current_state_mentions": 6,
-        "h2_sections": 7,
-        "inline_machine_taxonomy_markers": 0,
+        "h2_sections": 8,
+        "inline_machine_taxonomy_markers": 1,
         "source_id_mentions": 51,
-        "word_count": 2429
+        "word_count": 2449
       },
-      "missing_required_metadata": [
-        "seo_title",
-        "seo_description"
-      ],
+      "missing_required_metadata": [],
       "page_id": "D3DBA44C8EF7B02A",
       "page_kind": "STRUCTURED_REFERENCE",
       "path": "knowledge/timeline/Product-Timeline.md",
-      "priority": "MEDIUM",
+      "priority": "NORMAL",
       "recommended_action": "STRUCTURED_REWORK",
       "review_requirements": [
         "re-open underlying evidence before changing material claims",
@@ -3203,27 +3174,29 @@
     },
     {
       "domain": "timeline",
-      "metadata_present": [],
-      "metrics": {
-        "archive_or_operations_links": 0,
-        "current_state_mentions": 1,
-        "h2_sections": 0,
-        "inline_machine_taxonomy_markers": 0,
-        "source_id_mentions": 0,
-        "word_count": 86
-      },
-      "missing_required_metadata": [
-        "title",
-        "knowledge_status",
+      "metadata_present": [
         "as_of",
         "confidence",
         "evidence_basis",
+        "knowledge_status",
         "known_limitations",
+        "page_risk_class",
+        "page_risk_score",
         "research_gaps",
         "review_after",
+        "seo_description",
         "seo_title",
-        "seo_description"
+        "title"
       ],
+      "metrics": {
+        "archive_or_operations_links": 0,
+        "current_state_mentions": 0,
+        "h2_sections": 3,
+        "inline_machine_taxonomy_markers": 1,
+        "source_id_mentions": 0,
+        "word_count": 252
+      },
+      "missing_required_metadata": [],
       "page_id": "E69DA650105C4B90",
       "page_kind": "DOMAIN_INDEX",
       "path": "knowledge/timeline/README.md",
@@ -3249,6 +3222,8 @@
         "page_risk_score",
         "research_gaps",
         "review_after",
+        "seo_description",
+        "seo_title",
         "title"
       ],
       "metrics": {
@@ -3259,15 +3234,12 @@
         "source_id_mentions": 0,
         "word_count": 725
       },
-      "missing_required_metadata": [
-        "seo_title",
-        "seo_description"
-      ],
+      "missing_required_metadata": [],
       "page_id": "582A179D1F06269D",
       "page_kind": "NARRATIVE_ARTICLE",
       "path": "knowledge/timeline/Star-Atlas-Historical-Periodization.md",
-      "priority": "MEDIUM",
-      "recommended_action": "EXPAND_AND_STANDARDIZE",
+      "priority": "NORMAL",
+      "recommended_action": "NARRATIVE_REVIEW_AND_REFRESH",
       "review_requirements": [
         "re-open underlying evidence before changing material claims",
         "preserve lifecycle and authority distinctions",
