@@ -343,6 +343,7 @@ def validate_forbidden_paths(changes: list[str]) -> str:
             "archive/manifests/",
             "archive/campaign-summaries/star-atlas-medium-ingestion-2026-07/",
             "operations/campaigns/star-atlas-medium-ingestion-2026-07/",
+            "operations/tests/star_atlas_medium/",
         )
         label = "star-atlas-medium-ingestion-2026-07"
     elif ship_campaign:
