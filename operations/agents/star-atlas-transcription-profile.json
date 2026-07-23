@@ -1,0 +1,130 @@
+{
+  "schema_version": "1.0",
+  "profile_id": "STAR_ATLAS_TRANSCRIPTION_V1",
+  "scope": "ALL_FUTURE_STAR_ATLAS_TRANSCRIPTION_CAMPAIGNS",
+  "language": "en",
+  "profiles": {
+    "CPU_ARCHIVAL_BASELINE": {
+      "model": "small.en",
+      "device": "cpu",
+      "compute_type": "int8",
+      "cpu_thread_policy": {
+        "rule": "PHYSICAL_CORES_MINUS_2",
+        "minimum": 4,
+        "record_resolved_value": true
+      },
+      "num_workers": 1,
+      "beam_size": 5,
+      "temperature": 0.0,
+      "word_timestamps": true,
+      "vad_filter": true,
+      "vad_parameters": {
+        "min_silence_duration_ms": 1000
+      },
+      "condition_on_previous_text": true
+    },
+    "GPU_ARCHIVAL_QUALITY": {
+      "model": "large-v3-turbo",
+      "device": "cuda",
+      "compute_type_preferred": "float16",
+      "compute_type_fallback": "int8_float16",
+      "beam_size": 5,
+      "temperature": 0.0,
+      "word_timestamps": true,
+      "vad_filter": true,
+      "vad_parameters": {
+        "min_silence_duration_ms": 1000
+      },
+      "condition_on_previous_text": true
+    }
+  },
+  "controlled_hotwords": [
+    "Star Atlas",
+    "Atlas Brew",
+    "ATLAS",
+    "POLIS",
+    "SAGE",
+    "SCREAM",
+    "SCORE",
+    "Starbased",
+    "Holosim",
+    "Fleet Command",
+    "DAOcaster",
+    "Star Atlas TV",
+    "ATMTA",
+    "metaverse",
+    "Jose",
+    "Dominic",
+    "Santi",
+    "Michael Wagner"
+  ],
+  "quality_review": {
+    "two_pass_required": true,
+    "flag_signals": [
+      "LOW_AVERAGE_LOG_PROBABILITY",
+      "HIGH_COMPRESSION_OR_REPETITION",
+      "SUSPICIOUS_NO_SPEECH_PROBABILITY",
+      "MALFORMED_DOMAIN_TERMINOLOGY",
+      "TIMESTAMP_ANOMALY",
+      "CONTEXT_DISCONTINUITY",
+      "ATTRIBUTION_DEPENDENT_STATEMENT"
+    ],
+    "second_pass_preserves_disagreement": true
+  },
+  "speaker_policy": {
+    "default_attribution": "UNKNOWN",
+    "candidate_roster_is_attribution_evidence": false,
+    "atlas_brew_operator_supplied_candidates": [
+      {
+        "display_name": "Jose",
+        "usual_role": "RECURRING_SPEAKER",
+        "attribution_status": "UNASSIGNED_CANDIDATE"
+      },
+      {
+        "display_name": "Dominic",
+        "usual_role": "RECURRING_SPEAKER",
+        "attribution_status": "UNASSIGNED_CANDIDATE"
+      },
+      {
+        "display_name": "Santi",
+        "usual_role": "RECURRING_SPEAKER",
+        "attribution_status": "UNASSIGNED_CANDIDATE"
+      },
+      {
+        "display_name": "Michael Wagner",
+        "usual_role": "OCCASIONAL_GUEST",
+        "attribution_status": "UNASSIGNED_CANDIDATE"
+      }
+    ],
+    "allowed_assignment_bases": [
+      "SOURCE_VISIBLE_LABEL",
+      "SPOKEN_SELF_IDENTIFICATION",
+      "RELIABLE_EPISODE_METADATA",
+      "HUMAN_ADJUDICATION"
+    ],
+    "prohibited_assignment_bases": [
+      "TOPIC_MATCH",
+      "VOCABULARY_MATCH",
+      "VOICE_SIMILARITY_WITHOUT_REVIEW",
+      "SPEAKING_ORDER",
+      "CANDIDATE_ROSTER_ALONE"
+    ]
+  },
+  "required_layers": [
+    "SOURCE_CAPTURE_RECORD",
+    "IMMUTABLE_RAW_ASR",
+    "NORMALIZED_TRANSCRIPT",
+    "CORRECTION_LEDGER",
+    "MANUAL_REVIEW_QUEUE"
+  ],
+  "required_provenance": [
+    "SOURCE_CHECKSUM",
+    "ASR_OUTPUT_CHECKSUM",
+    "MODEL_AND_REVISION",
+    "ENGINE_AND_VERSION",
+    "INFERENCE_SETTINGS",
+    "HARDWARE_AND_DRIVER",
+    "MEDIA_DURATION",
+    "NATIVE_CAPTION_STATUS"
+  ]
+}
