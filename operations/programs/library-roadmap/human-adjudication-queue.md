@@ -2,7 +2,11 @@
 
 ## Blocking decisions
 
-None. Phase 4 is closed and Phase 5 may begin editorial drafting without a blocking adjudication.
+- `REVIEW-PHASE5-FOUNDATIONAL-PORTFOLIO`: Review eleven draft articles for
+  narrative accuracy, emphasis, comprehensiveness, SEO language, material
+  evidence boundaries, and public suitability. Entries must remain `DRAFT`
+  until individually approved. The community article is a bounded overview,
+  not an exhaustive roster or biography collection.
 
 ## Closed decisions
 

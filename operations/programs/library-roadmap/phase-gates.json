@@ -34,9 +34,11 @@
       "phase": 5,
       "name": "Publication layer",
       "status": "IN_PROGRESS",
-      "percent_complete": 20,
+      "percent_complete": 70,
       "remaining_gate_items": [
-        "Initial ten-article portfolio"
+        "Human semantic review of eleven draft articles",
+        "Approve or revise publication entries",
+        "Publish only explicitly approved entries"
       ]
     },
     {

@@ -123,6 +123,12 @@
       "note": "All ten selected dossiers have reviewed evidence packets and narrative routes; seven lore foundations and one reader guide were added without changing protected layers."
     },
     {
+      "campaign_id": "phase-5-foundational-publication-portfolio-2026-07",
+      "status": "DRAFT_PORTFOLIO_COMPLETE_AWAITING_HUMAN_SEMANTIC_REVIEW",
+      "status_evidence": "operations/campaigns/phase-5-foundational-publication-portfolio-2026-07/campaign-summary.json",
+      "note": "Eleven human-first articles are drafted and excluded from the public build; the community extension is bounded by a supplemental evidence assessment."
+    },
+    {
       "campaign_id": "pip-33-onchain-vote-reconciliation-2026-07",
       "status": "PASS_WITH_RAW_EXPORT_GAP",
       "status_evidence": "operations/campaigns/pip-33-onchain-vote-reconciliation-2026-07/campaign-summary.json",

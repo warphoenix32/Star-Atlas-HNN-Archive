@@ -1,6 +1,6 @@
 # Star Atlas Library Roadmap Status
 
-Current phase: **Phase 5 — Publication layer, in progress (20%)**. Phase 4 closed on 2026-07-23 with ten consolidated dossiers and no evidence rewrite.
+Current phase: **Phase 5 — Publication layer, in progress (70%)**. Eleven human-first drafts now await human semantic review; none is in the public build.
 
 This report must be refreshed at every campaign closeout. Any deviation from phase order, product boundaries, or completion gates must be stated explicitly.
 
@@ -12,7 +12,7 @@ This report must be refreshed at every campaign closeout. Any deviation from pha
 | 2. Priority ingestion | COMPLETE | 100% |  |
 | 3. Targeted architecture refinement | COMPLETE | 100% |  |
 | 4. Knowledge consolidation | COMPLETE | 100% |  |
-| 5. Publication layer | IN_PROGRESS | 20% | Initial ten-article portfolio |
+| 5. Publication layer | IN_PROGRESS | 70% | Human semantic review; entry approval; explicit publication |
 | 6. Vercel implementation | NOT_STARTED | 0% | Publication layer approved; Read-only Vercel connection test |
 | 7. Preview, validation, and deployment | NOT_STARTED | 0% | Cross-repository preview; Launch acceptance |
 
@@ -60,9 +60,19 @@ file changed.
 Phase 4 is complete. The stable publication contract satisfies the first Phase
 5 prerequisite.
 
+## Phase 5 drafting gate
+
+Eleven reader-facing articles have been drafted from reviewed Knowledge. The
+operator-approved extension adds a bounded history of players, guilds, creators,
+journalists, and community memory. A supplemental evidence assessment found the
+current Knowledge sufficient for an overview but not for exhaustive biographies,
+guild rosters, or rivalry case studies.
+
+Every entry remains `DRAFT`. Internal workflow and taxonomy are hidden, the site
+is unchanged, and no draft is eligible for the public build.
+
 ## Current recommendation
 
-Draft the initial ten-article publication portfolio from the consolidated
-dossiers under the validated publication contract. Do not ingest the ten
-freshness candidates as part of publication work, and do not expose internal
-workflow or taxonomy mechanics in reader-facing prose.
+Conduct human semantic review of all eleven drafts. Approve or request revisions
+article by article, then explicitly publish only approved entries. Do not begin
+Vercel implementation until the Phase 5 publication gate closes.

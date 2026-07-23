@@ -36,9 +36,11 @@
       "phase": 5,
       "name": "Publication layer",
       "status": "IN_PROGRESS",
-      "percent_complete": 20,
+      "percent_complete": 70,
       "remaining_gate_items": [
-        "Initial ten-article portfolio"
+        "Human semantic review of eleven draft articles",
+        "Approve or revise publication entries",
+        "Publish only explicitly approved entries"
       ]
     },
     {
@@ -83,10 +85,13 @@
     "operations/campaigns/phase-4-knowledge-consolidation-2026-07/consolidation-results.json",
     "operations/campaigns/phase-4-knowledge-consolidation-2026-07/campaign-summary.json"
   ],
-  "phase_5_progress_basis": "The publication contract and manifest schema are stable, and ten consolidated knowledge dossiers are ready for editorial drafting. No public article has yet been created.",
+  "phase_5_progress_basis": "Eleven human-first articles have been drafted from reviewed Knowledge, including an operator-approved community-and-people history supported by a supplemental evidence assessment. Every manifest entry remains DRAFT and excluded from the public build pending human semantic review.",
   "phase_5_progress_evidence": [
     "publication/PUBLICATION-CONTRACT.md",
-    "operations/campaigns/phase-4-knowledge-consolidation-2026-07/consolidation-results.json"
+    "operations/campaigns/phase-4-knowledge-consolidation-2026-07/consolidation-results.json",
+    "operations/campaigns/phase-5-foundational-publication-portfolio-2026-07/portfolio.json",
+    "operations/campaigns/phase-5-foundational-publication-portfolio-2026-07/campaign-summary.json",
+    "publication/manifests/publication-manifest.json"
   ],
   "roadmap_deviation_policy": "Advise the operator before work changes phase order, product boundaries, or completion gates.",
   "campaign_closeout_rule": "Every campaign closeout updates this status, coverage, campaign registry, backlog, and human-review queue when affected.",
