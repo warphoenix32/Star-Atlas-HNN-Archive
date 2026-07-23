@@ -27,10 +27,12 @@ python operations/campaigns/phase-5-foundational-publication-portfolio-2026-07/v
 python -m unittest discover operations/tests/phase5_publication_portfolio
 ```
 
-`build_campaign.py` recalculates content checksums, the internal publication
-manifest and campaign summary. `validate_campaign.py` checks article structure,
-front matter, knowledge inputs, local evidence links, manifest state,
-visibility policy, community evidence limits and protected paths.
+`build_campaign.py` recalculates canonical UTF-8/LF content checksums, the
+internal publication manifest and campaign summary. Line-ending normalization
+keeps article identities deterministic across Windows and Linux checkouts.
+`validate_campaign.py` checks article structure, front matter, knowledge inputs,
+local evidence links, manifest state, visibility policy, community evidence
+limits and protected paths.
 
 ## Stop gate
 
