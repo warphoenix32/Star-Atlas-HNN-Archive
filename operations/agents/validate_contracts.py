@@ -47,6 +47,46 @@ def main() -> int:
         "reputationally adverse interpretation",
     ):
         assert phrase in significance_text
+
+    transcription_standard = ROOT / payload["transcription_standard"]
+    transcription_text = transcription_standard.read_text(encoding="utf-8")
+    for phrase in (
+        "Raw ASR output",
+        "Correction ledger",
+        "Two-pass quality policy",
+        "candidate roster alone",
+        "Michael Wagner",
+    ):
+        assert phrase in transcription_text
+
+    transcription_profile = json.loads(
+        (ROOT / payload["transcription_profile"]).read_text(encoding="utf-8")
+    )
+    assert transcription_profile["profile_id"] == "STAR_ATLAS_TRANSCRIPTION_V1"
+    assert transcription_profile["scope"] == (
+        "ALL_FUTURE_STAR_ATLAS_TRANSCRIPTION_CAMPAIGNS"
+    )
+    profiles = transcription_profile["profiles"]
+    cpu = profiles["CPU_ARCHIVAL_BASELINE"]
+    gpu = profiles["GPU_ARCHIVAL_QUALITY"]
+    assert cpu["model"] == "small.en"
+    assert cpu["compute_type"] == "int8"
+    assert cpu["num_workers"] == 1
+    assert cpu["beam_size"] == 5
+    assert cpu["word_timestamps"] is True
+    assert gpu["model"] == "large-v3-turbo"
+    assert gpu["compute_type_preferred"] == "float16"
+    assert gpu["word_timestamps"] is True
+    assert transcription_profile["quality_review"]["two_pass_required"] is True
+    speakers = transcription_profile["speaker_policy"]
+    assert speakers["candidate_roster_is_attribution_evidence"] is False
+    assert [item["display_name"] for item in speakers["atlas_brew_operator_supplied_candidates"]] == [
+        "Jose",
+        "Dominic",
+        "Santi",
+        "Michael Wagner",
+    ]
+    assert "CANDIDATE_ROSTER_ALONE" in speakers["prohibited_assignment_bases"]
     for specialist_contract in payload.get("specialist_contracts", []):
         text = (ROOT / specialist_contract).read_text(encoding="utf-8")
         assert "## Mission" in text
@@ -66,7 +106,10 @@ def main() -> int:
     assert "Hide YAML front matter" in publisher
     assert "paragraph-level machine-taxonomy clutter" in publisher
 
-    print(f"PASS agent-contracts: {len(roles)} core roles; four-stage boundary; human-first knowledge standard")
+    print(
+        f"PASS agent-contracts: {len(roles)} core roles; four-stage boundary; "
+        "human-first knowledge and Star Atlas transcription standards"
+    )
     return 0
 
 
