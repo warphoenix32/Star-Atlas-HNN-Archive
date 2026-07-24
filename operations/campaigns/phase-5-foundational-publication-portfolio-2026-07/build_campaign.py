@@ -332,7 +332,7 @@ def write_planning_reports(
         requirements = "\n".join(f"- {value}" for value in item["required_work"])
         backlog_sections.append(
             f"## {item['rank']}. {item['working_title']} ({item['candidate_id']})\n\n"
-            f"Readiness: `{item['readiness']}`  \n"
+            f"Readiness: `{item['readiness']}`\n\n"
             f"Risk: `{item['risk_class']}`\n\n"
             f"{requirements}"
         )

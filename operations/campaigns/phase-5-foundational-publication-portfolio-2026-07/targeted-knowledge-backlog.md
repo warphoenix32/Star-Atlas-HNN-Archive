@@ -4,7 +4,8 @@ This backlog contains only work required to support the planned public portfolio
 
 ## 1. What Is Star Atlas? (PLAN-001)
 
-Readiness: `KNOWLEDGE_PROMOTION_REQUIRED`  
+Readiness: `KNOWLEDGE_PROMOTION_REQUIRED`
+
 Risk: `R2`
 
 - Create a concise cross-domain identity packet that separates game, universe, company, community and governance ecosystem.
@@ -12,7 +13,8 @@ Risk: `R2`
 
 ## 2. The Turning Points That Shaped Star Atlas (PLAN-004)
 
-Readiness: `KNOWLEDGE_PROMOTION_REQUIRED`  
+Readiness: `KNOWLEDGE_PROMOTION_REQUIRED`
+
 Risk: `R3`
 
 - Promote event-level evidence packets for corporate contraction, FTX exposure, major product transitions and community responses.
@@ -20,7 +22,8 @@ Risk: `R3`
 
 ## 3. The Ships of Star Atlas (PLAN-018)
 
-Readiness: `KNOWLEDGE_PROMOTION_REQUIRED`  
+Readiness: `KNOWLEDGE_PROMOTION_REQUIRED`
+
 Risk: `R3`
 
 - Promote a canonical ship and manufacturer registry from the curated 63-ship campaign.
@@ -28,7 +31,8 @@ Risk: `R3`
 
 ## 4. How the Star Atlas Player Economy Developed (PLAN-020)
 
-Readiness: `KNOWLEDGE_PROMOTION_REQUIRED`  
+Readiness: `KNOWLEDGE_PROMOTION_REQUIRED`
+
 Risk: `R3`
 
 - Create a cross-product economic lifecycle packet covering SCORE emissions, SAGE resources, crafting, marketplace changes and economic reports.
@@ -36,7 +40,8 @@ Risk: `R3`
 
 ## 5. A History of Star Atlas Guilds and DACs (PLAN-024)
 
-Readiness: `KNOWLEDGE_PROMOTION_REQUIRED`  
+Readiness: `KNOWLEDGE_PROMOTION_REQUIRED`
+
 Risk: `R3`
 
 - Create dated guild evidence packets for Aephia, Agora, Dark Matter, Rome, The Vanguard and other well-supported organizations.
@@ -44,7 +49,8 @@ Risk: `R3`
 
 ## 6. Escape Velocity and the First On-Chain Experiments (PLAN-016)
 
-Readiness: `KNOWLEDGE_PROMOTION_REQUIRED`  
+Readiness: `KNOWLEDGE_PROMOTION_REQUIRED`
+
 Risk: `R3`
 
 - Create a dedicated Escape Velocity lifecycle and incident history.
@@ -52,7 +58,8 @@ Risk: `R3`
 
 ## 7. Resources, Mining, Crafting and Trade (PLAN-021)
 
-Readiness: `KNOWLEDGE_PROMOTION_REQUIRED`  
+Readiness: `KNOWLEDGE_PROMOTION_REQUIRED`
+
 Risk: `R3`
 
 - Promote separate current and historical mechanics for mining, crafting, R4 and trade.
@@ -60,7 +67,8 @@ Risk: `R3`
 
 ## 8. Powers and Organizations of Galia (PLAN-010)
 
-Readiness: `KNOWLEDGE_PROMOTION_REQUIRED`  
+Readiness: `KNOWLEDGE_PROMOTION_REQUIRED`
+
 Risk: `R3`
 
 - Promote the highest-value lore corporations, organizations and institutions from normalized entities into reviewed Knowledge.
@@ -68,7 +76,8 @@ Risk: `R3`
 
 ## 9. Events, Competitions and Community Traditions (PLAN-027)
 
-Readiness: `KNOWLEDGE_PROMOTION_REQUIRED`  
+Readiness: `KNOWLEDGE_PROMOTION_REQUIRED`
+
 Risk: `R3`
 
 - Promote occurrence evidence, dates, organizers, results and surviving media for selected events.
@@ -76,7 +85,8 @@ Risk: `R3`
 
 ## 10. Ships, Assets and Ownership (PLAN-022)
 
-Readiness: `KNOWLEDGE_PROMOTION_REQUIRED`  
+Readiness: `KNOWLEDGE_PROMOTION_REQUIRED`
+
 Risk: `R3`
 
 - Create a reviewed asset-identity and utility history.
@@ -84,7 +94,8 @@ Risk: `R3`
 
 ## 11. How Star Atlas Lore and Canon Evolved (PLAN-011)
 
-Readiness: `KNOWLEDGE_PROMOTION_REQUIRED`  
+Readiness: `KNOWLEDGE_PROMOTION_REQUIRED`
+
 Risk: `R3`
 
 - Create a narrative canon-publication chronology.
@@ -92,7 +103,8 @@ Risk: `R3`
 
 ## 12. How Proposals Changed the Star Atlas Ecosystem (PLAN-029)
 
-Readiness: `KNOWLEDGE_PROMOTION_REQUIRED`  
+Readiness: `KNOWLEDGE_PROMOTION_REQUIRED`
+
 Risk: `R3`
 
 - Create a significance-ranked proposal case-study packet.
@@ -101,7 +113,8 @@ Risk: `R3`
 
 ## 13. The Technology Behind Star Atlas (PLAN-030)
 
-Readiness: `KNOWLEDGE_PROMOTION_REQUIRED`  
+Readiness: `KNOWLEDGE_PROMOTION_REQUIRED`
+
 Risk: `R3`
 
 - Create a reader-level architecture packet that separates product surfaces, programs, game IDs, APIs and developer tools.
