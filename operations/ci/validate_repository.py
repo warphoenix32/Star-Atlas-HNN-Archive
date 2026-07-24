@@ -292,7 +292,10 @@ def validate_forbidden_paths(changes: list[str]) -> str:
         "archive/provenance/governance/council-pip-tracker/snapshots/2026-07-23.json",
         "archive/manifests/foundation-room-council-evidence-ingestion-2026-07.json",
     } for path in changes)
-    discord_campaign = any(path.startswith(("operations/campaigns/discord-community-indexing-001/", "operations/tests/discord_community_indexing/")) for path in changes)
+    discord_campaign = not foundation_council_campaign and any(
+        path.startswith(("operations/campaigns/discord-community-indexing-001/", "operations/tests/discord_community_indexing/"))
+        for path in changes
+    )
     library_frontend = not (
         publication_contract_campaign or phase4_knowledge_consolidation
     ) and any(
