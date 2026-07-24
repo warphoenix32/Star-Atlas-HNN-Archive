@@ -124,9 +124,9 @@
     },
     {
       "campaign_id": "phase-5-foundational-publication-portfolio-2026-07",
-      "status": "DRAFT_PORTFOLIO_COMPLETE_AWAITING_HUMAN_SEMANTIC_REVIEW",
+      "status": "PORTFOLIO_MAP_COMPLETE_AWAITING_HUMAN_SCOPE_REVIEW",
       "status_evidence": "operations/campaigns/phase-5-foundational-publication-portfolio-2026-07/campaign-summary.json",
-      "note": "Eleven human-first articles are drafted and excluded from the public build; the community extension is bounded by a supplemental evidence assessment."
+      "note": "Eight reader gateways and thirty foundational narratives are planned; seventeen are ready to draft and thirteen require targeted Knowledge development. Eleven prototypes remain excluded from the public build."
     },
     {
       "campaign_id": "pip-33-onchain-vote-reconciliation-2026-07",

@@ -2,11 +2,12 @@
 
 ## Blocking decisions
 
-- `REVIEW-PHASE5-FOUNDATIONAL-PORTFOLIO`: Review eleven draft articles for
-  narrative accuracy, emphasis, comprehensiveness, SEO language, material
-  evidence boundaries, and public suitability. Entries must remain `DRAFT`
-  until individually approved. The community article is a bounded overview,
-  not an exhaustive roster or biography collection.
+- `REVIEW-PHASE5-FOUNDATIONAL-PORTFOLIO-MAP`: Review the eight reader
+  gateways, thirty foundational narrative candidates, eleven prototype
+  dispositions, and HNN-influenced editorial house style. Confirm or revise the
+  page scope before the thirteen targeted Knowledge development items and
+  reader-first rewrites proceed. All prototypes remain `DRAFT` and excluded
+  from the public build.
 
 ## Closed decisions
 
@@ -30,4 +31,5 @@
 - Whether to retire `operations/migrations/validate_wave_1_5.py` or preserve it in a clearly historical location.
 - Whether source-like campaign captures should move from `operations/` into `archive/raw/`; any move requires manifest and checksum migration.
 
-These decisions do not block Phase 4. No deletion or relocation is performed by this closeout.
+These cleanup decisions do not block Phase 5. No deletion or relocation is
+performed by this campaign.

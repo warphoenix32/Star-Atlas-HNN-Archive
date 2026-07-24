@@ -5,12 +5,18 @@ Result: **PASS**
 | Check | Status |
 | --- | --- |
 | portfolio_json | PASS |
+| publication_plan_json | PASS |
+| prototype_dispositions_json | PASS |
 | manifest_json | PASS |
 | campaign_summary_json | PASS |
+| knowledge_readiness_json | PASS |
+| targeted_knowledge_backlog_json | PASS |
 | community_evidence_json | PASS |
 | publication_manifest | PASS |
 | article_structure_and_links | PASS |
 | community_evidence_boundary | PASS |
+| publication_plan_and_readiness | PASS |
+| reader_first_public_presentation | PASS |
 | repository_scope | PASS |
 
 ## Metrics

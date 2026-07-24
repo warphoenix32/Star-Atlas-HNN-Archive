@@ -36,10 +36,12 @@
       "phase": 5,
       "name": "Publication layer",
       "status": "IN_PROGRESS",
-      "percent_complete": 70,
+      "percent_complete": 45,
       "remaining_gate_items": [
-        "Human semantic review of eleven draft articles",
-        "Approve or revise publication entries",
+        "Human review of eight reader gateways and thirty-page foundational map",
+        "Approve or revise eleven prototype dispositions and editorial house style",
+        "Complete thirteen targeted Knowledge development items",
+        "Rewrite and review the selected reader-first narratives",
         "Publish only explicitly approved entries"
       ]
     },
@@ -85,11 +87,13 @@
     "operations/campaigns/phase-4-knowledge-consolidation-2026-07/consolidation-results.json",
     "operations/campaigns/phase-4-knowledge-consolidation-2026-07/campaign-summary.json"
   ],
-  "phase_5_progress_basis": "Eleven human-first articles have been drafted from reviewed Knowledge, including an operator-approved community-and-people history supported by a supplemental evidence assessment. Every manifest entry remains DRAFT and excluded from the public build pending human semantic review.",
+  "phase_5_progress_basis": "Eleven unpublished prototypes were assessed and retained. The approved redesign defines eight reader gateways, thirty foundational narratives, seventeen pages ready to draft, thirteen targeted Knowledge development items, deterministic prototype dispositions, and an HNN-influenced house style. Top-of-page machine metadata was removed from the public Knowledge reader. No prototype is eligible for the public build.",
   "phase_5_progress_evidence": [
     "publication/PUBLICATION-CONTRACT.md",
     "operations/campaigns/phase-4-knowledge-consolidation-2026-07/consolidation-results.json",
     "operations/campaigns/phase-5-foundational-publication-portfolio-2026-07/portfolio.json",
+    "operations/campaigns/phase-5-foundational-publication-portfolio-2026-07/publication-plan.json",
+    "operations/campaigns/phase-5-foundational-publication-portfolio-2026-07/knowledge-readiness-audit.json",
     "operations/campaigns/phase-5-foundational-publication-portfolio-2026-07/campaign-summary.json",
     "publication/manifests/publication-manifest.json"
   ],

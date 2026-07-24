@@ -1,6 +1,6 @@
 # Star Atlas Library Roadmap Status
 
-Current phase: **Phase 5 — Publication layer, in progress (70%)**. Eleven human-first drafts now await human semantic review; none is in the public build.
+Current phase: **Phase 5 — Publication layer, in progress (45%)**. The reader-first portfolio map and Knowledge-readiness audit are complete; eleven prototypes remain unpublished.
 
 This report must be refreshed at every campaign closeout. Any deviation from phase order, product boundaries, or completion gates must be stated explicitly.
 
@@ -12,7 +12,7 @@ This report must be refreshed at every campaign closeout. Any deviation from pha
 | 2. Priority ingestion | COMPLETE | 100% |  |
 | 3. Targeted architecture refinement | COMPLETE | 100% |  |
 | 4. Knowledge consolidation | COMPLETE | 100% |  |
-| 5. Publication layer | IN_PROGRESS | 70% | Human semantic review; entry approval; explicit publication |
+| 5. Publication layer | IN_PROGRESS | 45% | Portfolio-map review; targeted Knowledge development; narrative rewrite; explicit publication |
 | 6. Vercel implementation | NOT_STARTED | 0% | Publication layer approved; Read-only Vercel connection test |
 | 7. Preview, validation, and deployment | NOT_STARTED | 0% | Cross-repository preview; Launch acceptance |
 
@@ -60,19 +60,22 @@ file changed.
 Phase 4 is complete. The stable publication contract satisfies the first Phase
 5 prerequisite.
 
-## Phase 5 drafting gate
+## Phase 5 portfolio-design gate
 
-Eleven reader-facing articles have been drafted from reviewed Knowledge. The
-operator-approved extension adds a bounded history of players, guilds, creators,
-journalists, and community memory. A supplemental evidence assessment found the
-current Knowledge sufficient for an overview but not for exhaustive biographies,
-guild rosters, or rivalry case studies.
+The original eleven articles are retained as unpublished editorial prototypes.
+The redesigned plan defines eight reader gateways and thirty foundational
+narratives across orientation, history, lore, products, economy, community,
+institutions, and technology. Seventeen are supported by reviewed Knowledge;
+thirteen require targeted Knowledge development before drafting.
 
-Every entry remains `DRAFT`. Internal workflow and taxonomy are hidden, the site
-is unchanged, and no draft is eligible for the public build.
+The public Knowledge reader no longer displays workflow status, confidence, or
+taxonomy boxes at the top of a page. Internal front matter remains available for
+search and validation. No draft is eligible for the public build.
 
 ## Current recommendation
 
-Conduct human semantic review of all eleven drafts. Approve or request revisions
-article by article, then explicitly publish only approved entries. Do not begin
-Vercel implementation until the Phase 5 publication gate closes.
+Review the eight gateways, thirty-page portfolio, eleven prototype dispositions,
+and HNN-influenced house style. After approval, complete only the thirteen
+targeted Knowledge items needed by the portfolio and rewrite articles in
+reader-sized editorial waves. Do not begin Vercel implementation until the
+Phase 5 publication gate closes.

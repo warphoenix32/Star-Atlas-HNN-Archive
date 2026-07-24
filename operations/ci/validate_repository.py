@@ -317,8 +317,13 @@ def validate_forbidden_paths(changes: list[str]) -> str:
         allowed = common + (
             "publication/articles/",
             "publication/manifests/publication-manifest.json",
+            "publication/site/article.css",
+            "publication/site/article.html",
+            "publication/site/article.js",
+            "publication/site/scripts/validate-site.mjs",
             "operations/campaigns/phase-5-foundational-publication-portfolio-2026-07/",
             "operations/tests/phase5_publication_portfolio/",
+            "operations/tests/phase4_knowledge_consolidation/test_phase4_knowledge_consolidation.py",
             "operations/programs/library-roadmap/",
             "operations/coverage/campaign-status-register.json",
             "operations/coverage/campaign-status-register.md",

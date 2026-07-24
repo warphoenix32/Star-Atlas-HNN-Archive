@@ -34,10 +34,12 @@
       "phase": 5,
       "name": "Publication layer",
       "status": "IN_PROGRESS",
-      "percent_complete": 70,
+      "percent_complete": 45,
       "remaining_gate_items": [
-        "Human semantic review of eleven draft articles",
-        "Approve or revise publication entries",
+        "Human review of eight reader gateways and thirty-page foundational map",
+        "Approve or revise eleven prototype dispositions and editorial house style",
+        "Complete thirteen targeted Knowledge development items",
+        "Rewrite and review the selected reader-first narratives",
         "Publish only explicitly approved entries"
       ]
     },

@@ -20,6 +20,9 @@ SPEC.loader.exec_module(VALIDATOR)
 class Phase5PublicationPortfolioTests(unittest.TestCase):
     def setUp(self) -> None:
         self.portfolio = VALIDATOR.load_json(VALIDATOR.PORTFOLIO_PATH)
+        self.plan = VALIDATOR.load_json(VALIDATOR.PUBLICATION_PLAN_PATH)
+        self.readiness = VALIDATOR.load_json(VALIDATOR.READINESS_PATH)
+        self.backlog = VALIDATOR.load_json(VALIDATOR.BACKLOG_PATH)
         self.manifest = VALIDATOR.load_json(VALIDATOR.MANIFEST_PATH)
 
     def test_eleven_drafts_and_no_published_entries(self) -> None:
@@ -48,6 +51,21 @@ class Phase5PublicationPortfolioTests(unittest.TestCase):
         self.assertTrue(
             all(entry["status"] == "DRAFT" for entry in self.manifest["entries"])
         )
+
+    def test_complete_reader_first_portfolio_map(self) -> None:
+        failures, metrics = VALIDATOR.validate_publication_plan(
+            self.portfolio,
+            self.plan,
+            self.readiness,
+            self.backlog,
+        )
+        self.assertEqual([], failures)
+        self.assertEqual(8, metrics["reader_gateways"])
+        self.assertEqual(30, metrics["foundational_pages_planned"])
+        self.assertEqual(11, metrics["prototype_dispositions"])
+
+    def test_public_reader_hides_machine_metadata(self) -> None:
+        self.assertEqual([], VALIDATOR.validate_public_presentation())
 
 
 if __name__ == "__main__":

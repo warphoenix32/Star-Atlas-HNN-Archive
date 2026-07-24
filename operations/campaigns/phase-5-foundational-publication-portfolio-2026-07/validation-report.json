@@ -8,11 +8,27 @@
       "status": "PASS"
     },
     {
+      "check": "publication_plan_json",
+      "status": "PASS"
+    },
+    {
+      "check": "prototype_dispositions_json",
+      "status": "PASS"
+    },
+    {
       "check": "manifest_json",
       "status": "PASS"
     },
     {
       "check": "campaign_summary_json",
+      "status": "PASS"
+    },
+    {
+      "check": "knowledge_readiness_json",
+      "status": "PASS"
+    },
+    {
+      "check": "targeted_knowledge_backlog_json",
       "status": "PASS"
     },
     {
@@ -29,6 +45,14 @@
     },
     {
       "check": "community_evidence_boundary",
+      "status": "PASS"
+    },
+    {
+      "check": "publication_plan_and_readiness",
+      "status": "PASS"
+    },
+    {
+      "check": "reader_first_public_presentation",
       "status": "PASS"
     },
     {
@@ -55,7 +79,15 @@
     },
     "total_words": 9933,
     "links_checked": 58,
-    "changed_paths": 31,
+    "reader_gateways": 8,
+    "foundational_pages_planned": 30,
+    "readiness_counts": {
+      "KNOWLEDGE_PROMOTION_REQUIRED": 13,
+      "READY_TO_DRAFT": 17
+    },
+    "knowledge_backlog_items": 13,
+    "prototype_dispositions": 11,
+    "changed_paths": 45,
     "prohibited_path_changes": 0,
     "risk_class_counts": {
       "R2": 4,
@@ -64,5 +96,5 @@
   },
   "failures": [],
   "human_adjudication_required": true,
-  "next_gate": "Human semantic review of all eleven draft articles"
+  "next_gate": "Human review of the complete portfolio map and readiness audit"
 }
