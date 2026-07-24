@@ -548,6 +548,7 @@ def validate_forbidden_paths(changes: list[str]) -> str:
             "archive/source-records/governance/council-pip-tracker/snapshots/2026-07-23/",
             "archive/manifests/foundation-room-council-evidence-ingestion-2026-07.json",
             "operations/campaigns/foundation-room-council-evidence-ingestion-2026-07/",
+            "operations/campaigns/discord-community-indexing-001/build_index.py",
         )
         label = "foundation-room-council-evidence-ingestion-2026-07"
     elif discord_campaign:

@@ -686,9 +686,9 @@
       "sha256": "d3f0dc95123d5a9f0d7f8fcaa0e5c74ec26d0dbef533fa9d4dd8e4d135120e57"
     },
     {
-      "bytes": 1900,
+      "bytes": 2261,
       "path": "operations/campaigns/foundation-room-council-evidence-ingestion-2026-07/README.md",
-      "sha256": "9335f6967e3656caa50c4bb0d0d2b7b6123d2d2a484bb7beaa1ba7fa82bdf4d9"
+      "sha256": "05fe5f384dfa9b61075009785ac58035eeb6d4e4aed0f39c9152ff151c868c1e"
     }
   ],
   "preserved_inputs": [

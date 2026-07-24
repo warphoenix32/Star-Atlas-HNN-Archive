@@ -35,3 +35,9 @@ python operations/campaigns/foundation-room-council-evidence-ingestion-2026-07/v
 ```
 
 No files under `knowledge/`, `graph/`, or `publication/` are generated or changed.
+
+The older `discord-community-indexing-001` derived index remains scoped to its
+1,071-message announcement corpus. It does not auto-ingest these native-ID
+multi-channel records because its coverage model assumes a single announcement
+channel. A future channel-aware indexing revision may consume this normalized
+corpus without rewriting the preserved evidence.

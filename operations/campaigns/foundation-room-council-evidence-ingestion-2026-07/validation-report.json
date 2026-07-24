@@ -696,7 +696,7 @@
       "status": "PASS"
     },
     "git_diff_check": {
-      "detail": "",
+      "detail": "warning: in the working copy of 'operations/campaigns/discord-community-indexing-001/build_index.py', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'operations/ci/validate_repository.py', LF will be replaced by CRLF the next time Git touches it\n",
       "status": "PASS"
     },
     "github_file_size_limit": {

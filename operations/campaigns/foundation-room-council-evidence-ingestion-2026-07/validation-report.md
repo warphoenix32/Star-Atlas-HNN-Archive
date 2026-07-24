@@ -103,7 +103,7 @@ Overall status: **PASS**
 - **PASS — manual_review_queue**: {"open_count": 5}
 - **PASS — manifest_reconciliation**: {"entries": 136}
 - **PASS — github_file_size_limit**: {"oversized_files": []}
-- **PASS — git_diff_check**: ""
+- **PASS — git_diff_check**: "warning: in the working copy of 'operations/campaigns/discord-community-indexing-001/build_index.py', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'operations/ci/validate_repository.py', LF will be replaced by CRLF the next time Git touches it\n"
 - **PASS — canonical_and_publication_paths_untouched**: {"prohibited": []}
 
 ## Warnings
