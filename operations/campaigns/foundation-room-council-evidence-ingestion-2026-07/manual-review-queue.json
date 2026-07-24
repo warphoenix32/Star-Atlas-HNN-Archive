@@ -1,30 +1,34 @@
 {
   "campaign_id": "foundation-room-council-evidence-ingestion-2026-07",
+  "deferred_count": 5,
   "items": [
     {
       "defer_allowed": true,
+      "disposition": "ACCEPTED_AS_DOCUMENTED_GAP",
       "finding": "Collector stopped at the no-progress limit; requested 2021 start was not reached.",
       "recommendation": "Preserve as partial. A future resumable export should target messages before 2025-01-22.",
       "review_id": "FRC-001",
-      "status": "OPEN",
+      "status": "DEFERRED",
       "subject": "foundation-room",
       "type": "DISCORD_TEMPORAL_COVERAGE"
     },
     {
       "defer_allowed": true,
+      "disposition": "ACCEPTED_AS_DOCUMENTED_GAP",
       "finding": "Collector stopped at the no-progress limit; requested 2021 start was not reached.",
       "recommendation": "Preserve as partial. A future resumable export should target messages before 2022-01-25.",
       "review_id": "FRC-002",
-      "status": "OPEN",
+      "status": "DEFERRED",
       "subject": "fr-chat",
       "type": "DISCORD_TEMPORAL_COVERAGE"
     },
     {
       "defer_allowed": true,
+      "disposition": "PRESERVED_AS_FUTURE_DATED_UNVERIFIED",
       "finding": "One or more tracker dates occur after the supplied snapshot date.",
-      "recommendation": "Retain original text and normalized date; determine whether each value is a planned date or a data-entry error.",
+      "recommendation": "Retain original text and normalized date without deciding whether each value is a planned date or a data-entry error until corroborating evidence is supplied.",
       "review_id": "FRC-003",
-      "status": "OPEN",
+      "status": "DEFERRED",
       "subject": [
         {
           "field": "vote_ended",
@@ -51,10 +55,11 @@
     },
     {
       "defer_allowed": true,
+      "disposition": "PRESERVED_AS_UNVERIFIED",
       "finding": "The Council snapshot uses question marks for unresolved payment or milestone values.",
       "recommendation": "Keep UNVERIFIED until Council documentation or transaction-level evidence is supplied.",
       "review_id": "FRC-004",
-      "status": "OPEN",
+      "status": "DEFERRED",
       "subject": [
         {
           "payment": {
@@ -205,10 +210,11 @@
     },
     {
       "defer_allowed": true,
+      "disposition": "PRESERVED_WITHOUT_ASSIGNED_PIP_ID",
       "finding": "Six substantive tracker rows have titles but no PIP number.",
       "recommendation": "Do not assign PIP identifiers without an authoritative source.",
       "review_id": "FRC-005",
-      "status": "OPEN",
+      "status": "DEFERRED",
       "subject": [
         {
           "phase": "Closed",
@@ -244,5 +250,5 @@
       "type": "COUNCIL_UNNUMBERED_PIPELINE_ITEMS"
     }
   ],
-  "open_count": 5
+  "open_count": 0
 }

@@ -696,7 +696,7 @@
       "status": "PASS"
     },
     "git_diff_check": {
-      "detail": "warning: in the working copy of 'operations/campaigns/discord-community-indexing-001/build_index.py', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'operations/ci/validate_repository.py', LF will be replaced by CRLF the next time Git touches it\n",
+      "detail": "/governance-votes/pip-01-32/SRC-SOLANA-PIP-25-91578B5AE7B5.json', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'archive/source-records/governance-votes/pip-01-32/SRC-SOLANA-PIP-25-91578B5AE7B5.md', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'archive/source-records/governance-votes/pip-01-32/SRC-SOLANA-PIP-26-C0FC0EE557F5.json', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'archive/source-records/governance-votes/pip-01-32/SRC-SOLANA-PIP-26-C0FC0EE557F5.md', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'archive/source-records/governance-votes/pip-01-32/SRC-SOLANA-PIP-27-49DF9F3AF0AB.json', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'archive/source-records/governance-votes/pip-01-32/SRC-SOLANA-PIP-27-49DF9F3AF0AB.md', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'archive/source-records/governance-votes/pip-01-32/SRC-SOLANA-PIP-28-9B2F3691EF54.json', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'archive/source-records/governance-votes/pip-01-32/SRC-SOLANA-PIP-28-9B2F3691EF54.md', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'archive/source-records/governance-votes/pip-01-32/SRC-SOLANA-PIP-29-C778D893ED20.json', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'archive/source-records/governance-votes/pip-01-32/SRC-SOLANA-PIP-29-C778D893ED20.md', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'archive/source-records/governance-votes/pip-01-32/SRC-SOLANA-PIP-30-7039577B4BA8.json', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'archive/source-records/governance-votes/pip-01-32/SRC-SOLANA-PIP-30-7039577B4BA8.md', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'archive/source-records/governance-votes/pip-01-32/SRC-SOLANA-PIP-31-3A1F6B36C190.json', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'archive/source-records/governance-votes/pip-01-32/SRC-SOLANA-PIP-31-3A1F6B36C190.md', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'archive/source-records/governance-votes/pip-01-32/SRC-SOLANA-PIP-32-F64A5CFF07FF.json', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'archive/source-records/governance-votes/pip-01-32/SRC-SOLANA-PIP-32-F64A5CFF07FF.md', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'operations/campaigns/dao-pip-vote-evidence-ingestion-2026-07/campaign-summary.json', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'operations/campaigns/dao-pip-vote-evidence-ingestion-2026-07/campaign-summary.md', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'operations/campaigns/dao-pip-vote-evidence-ingestion-2026-07/manifest.json', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'operations/campaigns/dao-pip-vote-evidence-ingestion-2026-07/reconciliation-report.json', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'operations/campaigns/dao-pip-vote-evidence-ingestion-2026-07/reconciliation-report.md', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'operations/campaigns/dao-pip-vote-evidence-ingestion-2026-07/validation-report.json', LF will be replaced by CRLF the next time Git touches it\nwarning: in the working copy of 'operations/campaigns/dao-pip-vote-evidence-ingestion-2026-07/validation-report.md', LF will be replaced by CRLF the next time Git touches it\n",
       "status": "PASS"
     },
     "github_file_size_limit": {
@@ -713,7 +713,8 @@
     },
     "manual_review_queue": {
       "detail": {
-        "open_count": 5
+        "deferred_count": 5,
+        "open_count": 0
       },
       "status": "PASS"
     },
@@ -731,7 +732,8 @@
     "discord_channels": 2,
     "discord_messages": 190894,
     "discord_participant_records": 649,
-    "manual_review_items": 5
+    "manual_review_deferred_items": 5,
+    "manual_review_open_items": 0
   },
   "failures": [],
   "status": "PASS",

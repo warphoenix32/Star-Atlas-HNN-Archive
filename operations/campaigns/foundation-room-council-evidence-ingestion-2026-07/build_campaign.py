@@ -668,7 +668,8 @@ def main() -> None:
             "review_id": "FRC-001",
             "type": "DISCORD_TEMPORAL_COVERAGE",
             "subject": "foundation-room",
-            "status": "OPEN",
+            "status": "DEFERRED",
+            "disposition": "ACCEPTED_AS_DOCUMENTED_GAP",
             "finding": "Collector stopped at the no-progress limit; requested 2021 start was not reached.",
             "recommendation": "Preserve as partial. A future resumable export should target messages before 2025-01-22.",
             "defer_allowed": True,
@@ -677,7 +678,8 @@ def main() -> None:
             "review_id": "FRC-002",
             "type": "DISCORD_TEMPORAL_COVERAGE",
             "subject": "fr-chat",
-            "status": "OPEN",
+            "status": "DEFERRED",
+            "disposition": "ACCEPTED_AS_DOCUMENTED_GAP",
             "finding": "Collector stopped at the no-progress limit; requested 2021 start was not reached.",
             "recommendation": "Preserve as partial. A future resumable export should target messages before 2022-01-25.",
             "defer_allowed": True,
@@ -686,16 +688,29 @@ def main() -> None:
             "review_id": "FRC-003",
             "type": "COUNCIL_FUTURE_DATE",
             "subject": future_dates,
-            "status": "OPEN" if future_dates else "NOT_APPLICABLE",
+            "status": "DEFERRED" if future_dates else "NOT_APPLICABLE",
+            "disposition": (
+                "PRESERVED_AS_FUTURE_DATED_UNVERIFIED"
+                if future_dates
+                else "NOT_APPLICABLE"
+            ),
             "finding": "One or more tracker dates occur after the supplied snapshot date.",
-            "recommendation": "Retain original text and normalized date; determine whether each value is a planned date or a data-entry error.",
+            "recommendation": (
+                "Retain original text and normalized date without deciding whether each value is "
+                "a planned date or a data-entry error until corroborating evidence is supplied."
+            ),
             "defer_allowed": True,
         },
         {
             "review_id": "FRC-004",
             "type": "COUNCIL_UNKNOWN_PAYMENT_OR_MILESTONE",
             "subject": unknown_payment,
-            "status": "OPEN" if unknown_payment else "NOT_APPLICABLE",
+            "status": "DEFERRED" if unknown_payment else "NOT_APPLICABLE",
+            "disposition": (
+                "PRESERVED_AS_UNVERIFIED"
+                if unknown_payment
+                else "NOT_APPLICABLE"
+            ),
             "finding": "The Council snapshot uses question marks for unresolved payment or milestone values.",
             "recommendation": "Keep UNVERIFIED until Council documentation or transaction-level evidence is supplied.",
             "defer_allowed": True,
@@ -704,7 +719,12 @@ def main() -> None:
             "review_id": "FRC-005",
             "type": "COUNCIL_UNNUMBERED_PIPELINE_ITEMS",
             "subject": unnumbered,
-            "status": "OPEN" if unnumbered else "NOT_APPLICABLE",
+            "status": "DEFERRED" if unnumbered else "NOT_APPLICABLE",
+            "disposition": (
+                "PRESERVED_WITHOUT_ASSIGNED_PIP_ID"
+                if unnumbered
+                else "NOT_APPLICABLE"
+            ),
             "finding": "Six substantive tracker rows have titles but no PIP number.",
             "recommendation": "Do not assign PIP identifiers without an authoritative source.",
             "defer_allowed": True,
@@ -715,6 +735,7 @@ def main() -> None:
         {
             "campaign_id": CAMPAIGN_ID,
             "open_count": sum(item["status"] == "OPEN" for item in review_items),
+            "deferred_count": sum(item["status"] == "DEFERRED" for item in review_items),
             "items": review_items,
         },
     )
@@ -742,6 +763,9 @@ def main() -> None:
         "graph_changes": 0,
         "publication_changes": 0,
         "manual_review_open_count": sum(item["status"] == "OPEN" for item in review_items),
+        "manual_review_deferred_count": sum(
+            item["status"] == "DEFERRED" for item in review_items
+        ),
     }
     write_json(OPS / "campaign-summary.json", summary)
     (OPS / "campaign-summary.md").write_text(
@@ -753,11 +777,14 @@ def main() -> None:
         f"- Discord messages: **{summary['discord']['message_count']}**\n"
         f"- Complete Discord collections: **{summary['discord']['collection_complete_count']}**\n"
         f"- Partial Discord collections: **{summary['discord']['collection_partial_count']}**\n"
-        f"- Open human-review items: **{summary['manual_review_open_count']}**\n\n"
+        f"- Open human-review items: **{summary['manual_review_open_count']}**\n"
+        f"- Deferred human-review items: **{summary['manual_review_deferred_count']}**\n\n"
         "The Council tracker remains a Council-authored operational assessment. Payment and milestone "
         "values are not on-chain verified. Both Discord exports preserve native message, channel, server, "
         "reply, author, timestamp, and attachment metadata, but both are partial according to their own "
-        "collector coverage records. No Knowledge, graph, or publication promotion is performed.\n",
+        "collector coverage records. All five review items are preserved as explicit, nonblocking deferred "
+        "dispositions; no future date, payment value, milestone, or missing PIP identifier is inferred. "
+        "No Knowledge, graph, or publication promotion is performed.\n",
         encoding="utf-8",
         newline="\n",
     )

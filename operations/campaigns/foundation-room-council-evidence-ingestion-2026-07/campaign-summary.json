@@ -17,7 +17,8 @@
   },
   "graph_changes": 0,
   "knowledge_promotions": 0,
-  "manual_review_open_count": 5,
+  "manual_review_deferred_count": 5,
+  "manual_review_open_count": 0,
   "publication_changes": 0,
   "scope": "PRESERVE_AND_NORMALIZE_ONLY",
   "status": "GENERATED"

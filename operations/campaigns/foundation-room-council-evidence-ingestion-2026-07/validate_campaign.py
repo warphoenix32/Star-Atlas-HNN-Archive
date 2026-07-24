@@ -302,10 +302,16 @@ def main() -> int:
     review = load_json(OPS / "manual-review-queue.json")
     check(
         "manual_review_queue",
-        review["open_count"] == 5
+        review["open_count"] == 0
+        and review["deferred_count"] == 5
         and {item["review_id"] for item in review["items"]}
-        == {"FRC-001", "FRC-002", "FRC-003", "FRC-004", "FRC-005"},
-        {"open_count": review["open_count"]},
+        == {"FRC-001", "FRC-002", "FRC-003", "FRC-004", "FRC-005"}
+        and all(item["status"] == "DEFERRED" for item in review["items"])
+        and all(item.get("disposition") for item in review["items"]),
+        {
+            "open_count": review["open_count"],
+            "deferred_count": review["deferred_count"],
+        },
     )
 
     manifest = load_json(OPS / "manifest.json")
@@ -373,7 +379,8 @@ def main() -> int:
             "discord_messages": discord_total,
             "discord_participant_records": participant_total,
             "discord_channels": 2,
-            "manual_review_items": review["open_count"],
+            "manual_review_open_items": review["open_count"],
+            "manual_review_deferred_items": review["deferred_count"],
         },
         "checks": checks,
         "warnings": warnings,

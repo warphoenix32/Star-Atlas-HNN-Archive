@@ -19,7 +19,8 @@
     },
     "graph_changes": 0,
     "knowledge_promotions": 0,
-    "manual_review_open_count": 5,
+    "manual_review_deferred_count": 5,
+    "manual_review_open_count": 0,
     "publication_changes": 0,
     "scope": "PRESERVE_AND_NORMALIZE_ONLY",
     "status": "GENERATED"
@@ -661,14 +662,14 @@
       "sha256": "6a6388d62ed1bb342d6d1705af278d42204827d5bf18aface4156b8dace0e915"
     },
     {
-      "bytes": 723,
+      "bytes": 760,
       "path": "operations/campaigns/foundation-room-council-evidence-ingestion-2026-07/campaign-summary.json",
-      "sha256": "bcbf0a5969c9d76daa9567eccc1f466aadb8e67a423149a7b43aade9b7e2113e"
+      "sha256": "07518cf4288c4f2f7f6573ca22da52064bac5d9974de982a3acdfbd597b12b5a"
     },
     {
-      "bytes": 698,
+      "bytes": 900,
       "path": "operations/campaigns/foundation-room-council-evidence-ingestion-2026-07/campaign-summary.md",
-      "sha256": "772ad70a14cd0d8ab7ac2362192fac53ae834306bd566ff6eb73bfd82edf61c0"
+      "sha256": "d70b0af485d1552d923934a7586d7b9a52ce2f1f68ddc1b549b38c9e8745489c"
     },
     {
       "bytes": 74545,
@@ -681,14 +682,14 @@
       "sha256": "f08c1ece6696cb555f6418b2be707e2ccc875e99d41610003edcde802d31fbc9"
     },
     {
-      "bytes": 8305,
+      "bytes": 8664,
       "path": "operations/campaigns/foundation-room-council-evidence-ingestion-2026-07/manual-review-queue.json",
-      "sha256": "d3f0dc95123d5a9f0d7f8fcaa0e5c74ec26d0dbef533fa9d4dd8e4d135120e57"
+      "sha256": "44fbe541e392178a1a72b5206dab5d67923786b338f03666a3184e82e184a524"
     },
     {
-      "bytes": 2261,
+      "bytes": 2833,
       "path": "operations/campaigns/foundation-room-council-evidence-ingestion-2026-07/README.md",
-      "sha256": "05fe5f384dfa9b61075009785ac58035eeb6d4e4aed0f39c9152ff151c868c1e"
+      "sha256": "76c4fa374816da4fb175018d1956088343a89a57a42bf257ae71dffe9b7670ce"
     }
   ],
   "preserved_inputs": [

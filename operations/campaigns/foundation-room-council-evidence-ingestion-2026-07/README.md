@@ -41,3 +41,17 @@ The older `discord-community-indexing-001` derived index remains scoped to its
 multi-channel records because its coverage model assumes a single announcement
 channel. A future channel-aware indexing revision may consume this normalized
 corpus without rewriting the preserved evidence.
+
+## Deferred review dispositions
+
+The campaign retains five traceable review records, all as nonblocking deferred
+dispositions:
+
+- the two Discord captures remain explicitly partial;
+- future-dated Council tracker values remain preserved but unverified as either
+  planned dates or data-entry errors;
+- question-mark payment and milestone fields remain `UNVERIFIED`;
+- unnumbered tracker rows remain unnumbered.
+
+These dispositions close the ingestion gate without resolving absent evidence by
+inference. New corroborating artifacts can reopen the affected records later.

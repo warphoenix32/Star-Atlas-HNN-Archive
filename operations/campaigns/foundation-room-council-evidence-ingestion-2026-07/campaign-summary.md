@@ -7,6 +7,7 @@
 - Discord messages: **190894**
 - Complete Discord collections: **0**
 - Partial Discord collections: **2**
-- Open human-review items: **5**
+- Open human-review items: **0**
+- Deferred human-review items: **5**
 
-The Council tracker remains a Council-authored operational assessment. Payment and milestone values are not on-chain verified. Both Discord exports preserve native message, channel, server, reply, author, timestamp, and attachment metadata, but both are partial according to their own collector coverage records. No Knowledge, graph, or publication promotion is performed.
+The Council tracker remains a Council-authored operational assessment. Payment and milestone values are not on-chain verified. Both Discord exports preserve native message, channel, server, reply, author, timestamp, and attachment metadata, but both are partial according to their own collector coverage records. All five review items are preserved as explicit, nonblocking deferred dispositions; no future date, payment value, milestone, or missing PIP identifier is inferred. No Knowledge, graph, or publication promotion is performed.
